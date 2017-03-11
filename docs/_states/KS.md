@@ -1,8 +1,12 @@
 ---
 permalink : /states/KS/
 ---
+<a name="top"></a>
+[Project Homepage]({{ site.baseurl}}/)
 
-[Home]({{ site.url }})
+
+[KS-01](#KS-01)  [KS-02](#KS-02)  [KS-03](#KS-03)  [KS-04](#KS-04)  
+
 # KS -- Sen. Jerry Moran (R) and  Sen. Pat Roberts (R)
 ## HEP Grants
 ```
@@ -39,6 +43,8 @@ Kansas State University                             16660
 ```
 ---
 ---
+<a name="KS-01"></a>
+[Back to top](#top)
 ## KS-01 -- Rep. Roger Marshall (R)
 ### HEP Grants
 ```
@@ -63,6 +69,8 @@ KANSAS STATE UNIVERSITY 2013     1136720
 Kansas State University 2015       16660
 ```
 ---
+<a name="KS-02"></a>
+[Back to top](#top)
 ## KS-02 -- Rep. Lynn Jenkins (R)
 ### HEP Grants
 ```
@@ -92,6 +100,8 @@ UNIVERSITY OF KANSAS CENTER FOR RESEARCH, INC 2013     3227973
                                               2014     2785414
 ```
 ---
+<a name="KS-03"></a>
+[Back to top](#top)
 ## KS-03 -- Rep. Kevin Yoder (R)
 ### HEP Grants
 ```
@@ -115,6 +125,8 @@ UNIVERSITY OF KANSAS CENTER FOR RESEARCH, INC 2012     3549051
                                               2013       75743
 ```
 ---
+<a name="KS-04"></a>
+[Back to top](#top)
 ## KS-04 Unknown Rep.
 ### HEP Grants
 ```

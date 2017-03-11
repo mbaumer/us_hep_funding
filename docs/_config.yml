@@ -18,7 +18,7 @@ author: Michael Baumer
 email: mbaumer@stanford.edu
 description: > # this means to ignore newlines until "baseurl:"
   Find out how much money high-energy physicists spend in your state and district!
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/us_hep_funding" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
 github_username:  mbaumer

@@ -1,8 +1,12 @@
 ---
 permalink : /states/MN/
 ---
+<a name="top"></a>
+[Project Homepage]({{ site.baseurl}}/)
 
-[Home]({{ site.url }})
+
+[MN-01](#MN-01)  [MN-02](#MN-02)  [MN-03](#MN-03)  [MN-04](#MN-04)  [MN-05](#MN-05)  [MN-06](#MN-06)  [MN-07](#MN-07)  [MN-08](#MN-08)  
+
 # MN -- Sen. Alan Franken (D) and  Sen. Amy Klobuchar (D)
 ## HEP Grants
 ```
@@ -46,6 +50,8 @@ and  7  other institutions.
 ```
 ---
 ---
+<a name="MN-01"></a>
+[Back to top](#top)
 ## MN-01 -- Rep. Timothy Walz (D)
 ### HEP Grants
 ```
@@ -66,6 +72,8 @@ MINNESOTA STATE UNIVERSITY, MANKATO  2012       24000
 SAINT MARY'S UNIVERSITY OF MINNESOTA 2012       14000
 ```
 ---
+<a name="MN-02"></a>
+[Back to top](#top)
 ## MN-02 -- Rep. Jason Lewis (R)
 ### HEP Grants
 ```
@@ -88,6 +96,8 @@ ST. OLAF COLLEGE   2012      321529
 Saint Olaf College 2015       19390
 ```
 ---
+<a name="MN-03"></a>
+[Back to top](#top)
 ## MN-03 -- Rep. Erik Paulsen (R)
 ### HEP Grants
 ```
@@ -109,6 +119,8 @@ Institution                      Year
 NORTH HENNEPIN COMMUNITY COLLEGE 2012       72183
 ```
 ---
+<a name="MN-04"></a>
+[Back to top](#top)
 ## MN-04 -- Rep. Betty McCollum (D)
 ### HEP Grants
 ```
@@ -136,6 +148,8 @@ UNIVERSITY OF ST. THOMAS               2012      192173
                                        2014      190492
 ```
 ---
+<a name="MN-05"></a>
+[Back to top](#top)
 ## MN-05 -- Rep. Keith Ellison (D)
 ### HEP Grants
 ```
@@ -165,6 +179,8 @@ REGENTS OF THE UNIVERSITY OF MINNESOTA 2012    22253816
 U of Minnesota-Twin Cities             2015     6224204
 ```
 ---
+<a name="MN-06"></a>
+[Back to top](#top)
 ## MN-06 -- Rep. Tom Emmer (R)
 ### HEP Grants
 ```
@@ -186,6 +202,8 @@ ST CLOUD STATE UNIVERSITY 2012      129809
                           2014      436651
 ```
 ---
+<a name="MN-07"></a>
+[Back to top](#top)
 ## MN-07 -- Rep. Collin Peterson (D)
 ### HEP Grants
 ```
@@ -200,6 +218,8 @@ This district received no SC contracts from 2012-2017
 This district received no NSF MPS grants from 2012-2016
 ```
 ---
+<a name="MN-08"></a>
+[Back to top](#top)
 ## MN-08 -- Rep. Richard Nolan (D)
 ### HEP Grants
 ```

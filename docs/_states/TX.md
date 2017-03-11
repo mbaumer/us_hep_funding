@@ -1,8 +1,12 @@
 ---
 permalink : /states/TX/
 ---
+<a name="top"></a>
+[Project Homepage]({{ site.baseurl}}/)
 
-[Home]({{ site.url }})
+
+[TX-01](#TX-01)  [TX-02](#TX-02)  [TX-03](#TX-03)  [TX-04](#TX-04)  [TX-05](#TX-05)  [TX-06](#TX-06)  [TX-07](#TX-07)  [TX-08](#TX-08)  [TX-09](#TX-09)  [TX-10](#TX-10)  [TX-11](#TX-11)  [TX-12](#TX-12)  [TX-13](#TX-13)  [TX-14](#TX-14)  [TX-15](#TX-15)  [TX-16](#TX-16)  [TX-17](#TX-17)  [TX-18](#TX-18)  [TX-19](#TX-19)  [TX-20](#TX-20)  [TX-21](#TX-21)  [TX-22](#TX-22)  [TX-23](#TX-23)  [TX-24](#TX-24)  [TX-25](#TX-25)  [TX-26](#TX-26)  [TX-27](#TX-27)  [TX-28](#TX-28)  [TX-29](#TX-29)  [TX-30](#TX-30)  [TX-31](#TX-31)  [TX-32](#TX-32)  [TX-33](#TX-33)  [TX-34](#TX-34)  [TX-35](#TX-35)  [TX-36](#TX-36)  
+
 # TX -- Sen. John Cornyn (R) and  Sen. Ted Cruz (R)
 ## HEP Grants
 ```
@@ -53,6 +57,8 @@ and  47  other institutions.
 ```
 ---
 ---
+<a name="TX-01"></a>
+[Back to top](#top)
 ## TX-01 -- Rep. Louie Gohmert (R)
 ### HEP Grants
 ```
@@ -72,6 +78,8 @@ UNIVERSITY OF TEXAS AT TYLER, THE 2012       71265
                                   2014       85003
 ```
 ---
+<a name="TX-02"></a>
+[Back to top](#top)
 ## TX-02 -- Rep. Ted Poe (R)
 ### HEP Grants
 ```
@@ -96,6 +104,8 @@ WILLIAM MARSH RICE UNIVERSITY 2013    10024547
 William Marsh Rice Univ       2015      281591
 ```
 ---
+<a name="TX-03"></a>
+[Back to top](#top)
 ## TX-03 -- Rep. Sam Johnson (R)
 ### HEP Grants
 ```
@@ -114,6 +124,8 @@ This district received no SC contracts from 2012-2017
 This district received no NSF MPS grants from 2012-2016
 ```
 ---
+<a name="TX-04"></a>
+[Back to top](#top)
 ## TX-04 -- Rep. John Ratcliffe (R)
 ### HEP Grants
 ```
@@ -134,6 +146,8 @@ TEXAS A&M UNIVERSITY-COMMERCE 2012      176227
 Texas A&M University          2015       95416
 ```
 ---
+<a name="TX-05"></a>
+[Back to top](#top)
 ## TX-05 -- Rep. Jeb Hensarling (R)
 ### HEP Grants
 ```
@@ -148,6 +162,8 @@ This district received no SC contracts from 2012-2017
 This district received no NSF MPS grants from 2012-2016
 ```
 ---
+<a name="TX-06"></a>
+[Back to top](#top)
 ## TX-06 -- Rep. Joe Barton (R)
 ### HEP Grants
 ```
@@ -175,6 +191,8 @@ UNIVERSITY OF TEXAS AT ARLINGTON 2012      758042
                                  2017       60720
 ```
 ---
+<a name="TX-07"></a>
+[Back to top](#top)
 ## TX-07 -- Rep. John Culberson (R)
 ### HEP Grants
 ```
@@ -199,6 +217,8 @@ WILLIAM MARSH RICE UNIVERSITY 2012     4621406
 William Marsh Rice Univ       2015       49964
 ```
 ---
+<a name="TX-08"></a>
+[Back to top](#top)
 ## TX-08 -- Rep. Kevin Brady (R)
 ### HEP Grants
 ```
@@ -221,6 +241,8 @@ SAM HOUSTON STATE UNIVERSITY 2013      403834
                              2014      137572
 ```
 ---
+<a name="TX-09"></a>
+[Back to top](#top)
 ## TX-09 -- Rep. Al Green (D)
 ### HEP Grants
 ```
@@ -245,6 +267,8 @@ UNIVERSITY OF TEXAS M D ANDERSON             2014      296463
 WILLIAM MARSH RICE UNIVERSITY                2012     1068837
 ```
 ---
+<a name="TX-10"></a>
+[Back to top](#top)
 ## TX-10 -- Rep. Michael McCaul (R)
 ### HEP Grants
 ```
@@ -273,6 +297,8 @@ UNIVERSITY OF TEXAS AT AUSTIN     2012     1705267
                                   2013      200000
 ```
 ---
+<a name="TX-11"></a>
+[Back to top](#top)
 ## TX-11 -- Rep. K. Conaway (R)
 ### HEP Grants
 ```
@@ -287,6 +313,8 @@ This district received no SC contracts from 2012-2017
 This district received no NSF MPS grants from 2012-2016
 ```
 ---
+<a name="TX-12"></a>
+[Back to top](#top)
 ## TX-12 -- Rep. Kay Granger (R)
 ### HEP Grants
 ```
@@ -306,6 +334,8 @@ TEXAS CHRISTIAN UNIVERSITY INC 2012       43440
                                2014      143690
 ```
 ---
+<a name="TX-13"></a>
+[Back to top](#top)
 ## TX-13 -- Rep. Mac Thornberry (R)
 ### HEP Grants
 ```
@@ -323,6 +353,8 @@ Institution                     Year
 TEXAS A&M UNIVERSITY SYSTEM,THE 2014      371700
 ```
 ---
+<a name="TX-14"></a>
+[Back to top](#top)
 ## TX-14 -- Rep. Randy Weber (R)
 ### HEP Grants
 ```
@@ -341,6 +373,8 @@ UNIVERSITY OF TEXAS MEDICAL BRANCH AT GALVEST 2013      300000
                                               2014      133596
 ```
 ---
+<a name="TX-15"></a>
+[Back to top](#top)
 ## TX-15 -- Rep. Vicente Gonzalez (D)
 ### HEP Grants
 ```
@@ -360,6 +394,8 @@ UNIVERSITY OF TEXAS - PAN AMERICAN 2012      578998
                                    2014       87456
 ```
 ---
+<a name="TX-16"></a>
+[Back to top](#top)
 ## TX-16 -- Rep. Beto O'Rourke (D)
 ### HEP Grants
 ```
@@ -379,6 +415,8 @@ UNIVERSITY OF TEXAS AT EL PASO 2012     1374004
                                2014      638265
 ```
 ---
+<a name="TX-17"></a>
+[Back to top](#top)
 ## TX-17 -- Rep. Bill Flores (R)
 ### HEP Grants
 ```
@@ -428,6 +466,8 @@ Texas A&M Main Campus                        2015      455616
 The Texas A&M U Sys HSC RF                   2015       99999
 ```
 ---
+<a name="TX-18"></a>
+[Back to top](#top)
 ## TX-18 -- Rep. Sheila Jackson Lee (D)
 ### HEP Grants
 ```
@@ -459,6 +499,8 @@ UNIVERSITY OF TEXAS MEDICAL BRANCH AT GALVEST 2012      210000
                                               2013      180000
 ```
 ---
+<a name="TX-19"></a>
+[Back to top](#top)
 ## TX-19 -- Rep. Jodey Arrington (R)
 ### HEP Grants
 ```
@@ -486,6 +528,8 @@ TEXAS TECH UNIVERSITY SYSTEM 2012     1124268
 Texas Tech University        2015     1044692
 ```
 ---
+<a name="TX-20"></a>
+[Back to top](#top)
 ## TX-20 -- Rep. Joaquin Castro (D)
 ### HEP Grants
 ```
@@ -506,6 +550,8 @@ UNIVERSITY OF IOWA, THE            2012       89328
 UNIVERSITY OF TEXAS AT SAN ANTONIO 2014      682500
 ```
 ---
+<a name="TX-21"></a>
+[Back to top](#top)
 ## TX-21 -- Rep. Lamar Smith (R)
 ### HEP Grants
 ```
@@ -536,6 +582,8 @@ UNIVERSITY OF TEXAS HEALTH SCIENCE CENTER OF 2013      263926
                                              2014      430000
 ```
 ---
+<a name="TX-22"></a>
+[Back to top](#top)
 ## TX-22 -- Rep. Pete Olson (R)
 ### HEP Grants
 ```
@@ -553,6 +601,8 @@ Institution                  Year
 UNIVERSITY OF HOUSTON SYSTEM 2012      150000
 ```
 ---
+<a name="TX-23"></a>
+[Back to top](#top)
 ## TX-23 -- Rep. Will Hurd (R)
 ### HEP Grants
 ```
@@ -572,6 +622,8 @@ UNIVERSITY OF TEXAS AT SAN ANTONIO 2012      665902
                                    2014       87500
 ```
 ---
+<a name="TX-24"></a>
+[Back to top](#top)
 ## TX-24 -- Rep. Kenny Marchant (R)
 ### HEP Grants
 ```
@@ -590,6 +642,8 @@ UNIVERSITY OF TEXAS AT ARLINGTON 2012       59628
                                  2013     -208614
 ```
 ---
+<a name="TX-25"></a>
+[Back to top](#top)
 ## TX-25 -- Rep. Roger Williams (R)
 ### HEP Grants
 ```
@@ -617,6 +671,8 @@ UNIVERSITY OF TEXAS AT AUSTIN     2013     7723572
                                   2014     6043529
 ```
 ---
+<a name="TX-26"></a>
+[Back to top](#top)
 ## TX-26 -- Rep. Michael Burgess (R)
 ### HEP Grants
 ```
@@ -637,6 +693,8 @@ UNIVERSITY OF NORTH TEXAS 2012     1298235
 University of North Texas 2015      759429
 ```
 ---
+<a name="TX-27"></a>
+[Back to top](#top)
 ## TX-27 -- Rep. Blake Farenthold (R)
 ### HEP Grants
 ```
@@ -655,6 +713,8 @@ TEXAS A&M UNIVERSITY-CORPUS CHRISTI 2012      275000
 UNIVERSITY OF TEXAS AT BROWNSVILLE  2012      373837
 ```
 ---
+<a name="TX-28"></a>
+[Back to top](#top)
 ## TX-28 -- Rep. Henry Cuellar (D)
 ### HEP Grants
 ```
@@ -676,6 +736,8 @@ TEXAS A&M INTERNATIONAL UNIVERSITY FOUNDATION 2012      159357
                                               2013      274900
 ```
 ---
+<a name="TX-29"></a>
+[Back to top](#top)
 ## TX-29 -- Rep. Gene Green (D)
 ### HEP Grants
 ```
@@ -690,6 +752,8 @@ This district received no SC contracts from 2012-2017
 This district received no NSF MPS grants from 2012-2016
 ```
 ---
+<a name="TX-30"></a>
+[Back to top](#top)
 ## TX-30 -- Rep. Eddie Johnson (D)
 ### HEP Grants
 ```
@@ -710,6 +774,8 @@ UNIVERSITY OF TEXAS SOUTHWESTERN MEDICAL CENT 2012      476711
 UT Southwestern                               2015      405000
 ```
 ---
+<a name="TX-31"></a>
+[Back to top](#top)
 ## TX-31 -- Rep. John Carter (R)
 ### HEP Grants
 ```
@@ -727,6 +793,8 @@ DELL MARKETING L.P. 2013            4036.67
 This district received no NSF MPS grants from 2012-2016
 ```
 ---
+<a name="TX-32"></a>
+[Back to top](#top)
 ## TX-32 -- Rep. Pete Sessions (R)
 ### HEP Grants
 ```
@@ -762,6 +830,8 @@ UNIVERSITY OF TEXAS AT DALLAS     2012     2127595
                                   2017      100000
 ```
 ---
+<a name="TX-33"></a>
+[Back to top](#top)
 ## TX-33 -- Rep. Marc Veasey (D)
 ### HEP Grants
 ```
@@ -776,6 +846,8 @@ This district received no SC contracts from 2012-2017
 This district received no NSF MPS grants from 2012-2016
 ```
 ---
+<a name="TX-34"></a>
+[Back to top](#top)
 ## TX-34 -- Rep. Filemon Vela (D)
 ### HEP Grants
 ```
@@ -794,6 +866,8 @@ UNIVERSITY OF TEXAS AT BROWNSVILLE 2013      584262
                                    2014      265801
 ```
 ---
+<a name="TX-35"></a>
+[Back to top](#top)
 ## TX-35 -- Rep. Lloyd Doggett (D)
 ### HEP Grants
 ```
@@ -812,6 +886,8 @@ TEXAS STATE UNIVERSITY            2014      345000
 TEXAS STATE UNIVERSITY-SAN MARCOS 2013      294621
 ```
 ---
+<a name="TX-36"></a>
+[Back to top](#top)
 ## TX-36 -- Rep. Brian Babin (R)
 ### HEP Grants
 ```

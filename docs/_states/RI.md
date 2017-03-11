@@ -1,8 +1,12 @@
 ---
 permalink : /states/RI/
 ---
+<a name="top"></a>
+[Project Homepage]({{ site.baseurl}}/)
 
-[Home]({{ site.url }})
+
+[RI-01](#RI-01)  [RI-02](#RI-02)  
+
 # RI -- Sen. John Reed (D) and  Sen. Sheldon Whitehouse (D)
 ## HEP Grants
 ```
@@ -40,6 +44,8 @@ and  1  other institutions.
 ```
 ---
 ---
+<a name="RI-01"></a>
+[Back to top](#top)
 ## RI-01 -- Rep. David Cicilline (D)
 ### HEP Grants
 ```
@@ -73,6 +79,8 @@ GORDON RESEARCH CONFERENCES INC               2012       20000
 TRUSTEES OF THE UNIVERSITY OF PENNSYLVANIA    2012      230000
 ```
 ---
+<a name="RI-02"></a>
+[Back to top](#top)
 ## RI-02 -- Rep. James Langevin (D)
 ### HEP Grants
 ```

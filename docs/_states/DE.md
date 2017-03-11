@@ -1,8 +1,12 @@
 ---
 permalink : /states/DE/
 ---
+<a name="top"></a>
+[Project Homepage]({{ site.baseurl}}/)
 
-[Home]({{ site.url }})
+
+[DE-00](#DE-00)  
+
 # DE -- Sen. Thomas Carper (D) and  Sen. Chris Coons (D)
 ## HEP Grants
 ```
@@ -33,6 +37,8 @@ HENRY FRANCIS DUPONT WINTERTHUR MUSEUM, INC.,        3000
 ```
 ---
 ---
+<a name="DE-00"></a>
+[Back to top](#top)
 ## DE-00 -- Rep. Lisa Blunt Rochester (D)
 ### HEP Grants
 ```

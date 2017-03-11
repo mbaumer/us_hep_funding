@@ -1,8 +1,12 @@
 ---
 permalink : /states/IL/
 ---
+<a name="top"></a>
+[Project Homepage]({{ site.baseurl}}/)
 
-[Home]({{ site.url }})
+
+[IL-01](#IL-01)  [IL-02](#IL-02)  [IL-03](#IL-03)  [IL-04](#IL-04)  [IL-05](#IL-05)  [IL-06](#IL-06)  [IL-07](#IL-07)  [IL-08](#IL-08)  [IL-09](#IL-09)  [IL-10](#IL-10)  [IL-11](#IL-11)  [IL-12](#IL-12)  [IL-13](#IL-13)  [IL-14](#IL-14)  [IL-15](#IL-15)  [IL-16](#IL-16)  [IL-17](#IL-17)  [IL-18](#IL-18)  
+
 # IL -- Sen. Richard Durbin (D) and  Sen. Tammy Duckworth (D)
 ## HEP Grants
 ```
@@ -60,6 +64,8 @@ and  23  other institutions.
 ```
 ---
 ---
+<a name="IL-01"></a>
+[Back to top](#top)
 ## IL-01 -- Rep. Bobby Rush (D)
 ### HEP Grants
 ```
@@ -104,6 +110,8 @@ UNIVERSITY OF CHICAGO, THE       2012    22640364
 University of Chicago            2015     7007875
 ```
 ---
+<a name="IL-02"></a>
+[Back to top](#top)
 ## IL-02 -- Rep. Robin Kelly (D)
 ### HEP Grants
 ```
@@ -121,6 +129,8 @@ Institution              Year
 CHICAGO STATE UNIVERSITY 2012       67136
 ```
 ---
+<a name="IL-03"></a>
+[Back to top](#top)
 ## IL-03 -- Rep. Daniel Lipinski (D)
 ### HEP Grants
 ```
@@ -204,6 +214,8 @@ MICHIGAN STATE UNIVERSITY 2017        5000
 PURDUE UNIVERSITY         2013       47921
 ```
 ---
+<a name="IL-04"></a>
+[Back to top](#top)
 ## IL-04 -- Rep. Luis Gutiérrez (D)
 ### HEP Grants
 ```
@@ -218,6 +230,8 @@ This district received no SC contracts from 2012-2017
 This district received no NSF MPS grants from 2012-2016
 ```
 ---
+<a name="IL-05"></a>
+[Back to top](#top)
 ## IL-05 -- Rep. Mike Quigley (D)
 ### HEP Grants
 ```
@@ -235,6 +249,8 @@ Institution                      Year
 NORTHEASTERN ILLINOIS UNIVERSITY 2012      247659
 ```
 ---
+<a name="IL-06"></a>
+[Back to top](#top)
 ## IL-06 -- Rep. Peter Roskam (R)
 ### HEP Grants
 ```
@@ -253,6 +269,8 @@ TRUSTEES OF WHEATON COLLEGE, THE 2012       84000
                                  2013      299355
 ```
 ---
+<a name="IL-07"></a>
+[Back to top](#top)
 ## IL-07 -- Rep. Danny Davis (D)
 ### HEP Grants
 ```
@@ -305,6 +323,8 @@ UNIVERSITY OF ILLINOIS        2012     3184940
                               2017      435770
 ```
 ---
+<a name="IL-08"></a>
+[Back to top](#top)
 ## IL-08 -- Rep. Raja Krishnamoorthi (D)
 ### HEP Grants
 ```
@@ -322,6 +342,8 @@ GAS RESEARCH INSTITUTE 2014            -890.14
 This district received no NSF MPS grants from 2012-2016
 ```
 ---
+<a name="IL-09"></a>
+[Back to top](#top)
 ## IL-09 -- Rep. Janice Schakowsky (D)
 ### HEP Grants
 ```
@@ -354,6 +376,8 @@ Northwestern University      2015      627267
 UNIVERSITY OF CHICAGO, THE   2014       49753
 ```
 ---
+<a name="IL-10"></a>
+[Back to top](#top)
 ## IL-10 -- Rep. Bradley Schneider (D)
 ### HEP Grants
 ```
@@ -373,6 +397,8 @@ SET ENVIRONMENTAL INC 2014          -11513.97
 This district received no NSF MPS grants from 2012-2016
 ```
 ---
+<a name="IL-11"></a>
+[Back to top](#top)
 ## IL-11 -- Rep. Bill Foster (D)
 ### HEP Grants
 ```
@@ -400,6 +426,8 @@ ILLINOIS STATE UNIVERSITY    2012      440832
 ILLINOIS WESLEYAN UNIVERSITY 2012      248800
 ```
 ---
+<a name="IL-12"></a>
+[Back to top](#top)
 ## IL-12 -- Rep. Mike Bost (R)
 ### HEP Grants
 ```
@@ -420,6 +448,8 @@ SOUTHERN ILLINOIS UNIVERSITY 2012      270824
 Southern Ill U Carbondale    2015      110000
 ```
 ---
+<a name="IL-13"></a>
+[Back to top](#top)
 ## IL-13 -- Rep. Rodney Davis (R)
 ### HEP Grants
 ```
@@ -506,6 +536,8 @@ UNIVERSITY OF ILLINOIS       2013    21304348
                              2017      460807
 ```
 ---
+<a name="IL-14"></a>
+[Back to top](#top)
 ## IL-14 -- Rep. Randy Hultgren (R)
 ### HEP Grants
 ```
@@ -545,6 +577,8 @@ RESEARCH FOUNDATION OF STATE UNIVERSITY OF NE 2012      750000
 RUTGERS, THE STATE UNIVERSITY OF NEW JERSEY   2013      380000
 ```
 ---
+<a name="IL-15"></a>
+[Back to top](#top)
 ## IL-15 -- Rep. John Shimkus (R)
 ### HEP Grants
 ```
@@ -570,6 +604,8 @@ UNIVERSITY OF ILLINOIS       2012    19813761
                              2013      163982
 ```
 ---
+<a name="IL-16"></a>
+[Back to top](#top)
 ## IL-16 -- Rep. Adam Kinzinger (R)
 ### HEP Grants
 ```
@@ -593,6 +629,8 @@ NORTHERN ILLINOIS UNIVERSITY INC 2013      954961
                                  2014      377757
 ```
 ---
+<a name="IL-17"></a>
+[Back to top](#top)
 ## IL-17 -- Rep. Cheri Bustos (D)
 ### HEP Grants
 ```
@@ -612,6 +650,8 @@ AUGUSTANA COLLEGE 2012       40611
 KNOX COLLEGE      2014      292100
 ```
 ---
+<a name="IL-18"></a>
+[Back to top](#top)
 ## IL-18 -- Rep. Darin LaHood (R)
 ### HEP Grants
 ```

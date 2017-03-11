@@ -1,8 +1,12 @@
 ---
 permalink : /states/NY/
 ---
+<a name="top"></a>
+[Project Homepage]({{ site.baseurl}}/)
 
-[Home]({{ site.url }})
+
+[NY-01](#NY-01)  [NY-02](#NY-02)  [NY-03](#NY-03)  [NY-04](#NY-04)  [NY-05](#NY-05)  [NY-06](#NY-06)  [NY-07](#NY-07)  [NY-08](#NY-08)  [NY-09](#NY-09)  [NY-10](#NY-10)  [NY-11](#NY-11)  [NY-12](#NY-12)  [NY-13](#NY-13)  [NY-14](#NY-14)  [NY-15](#NY-15)  [NY-16](#NY-16)  [NY-17](#NY-17)  [NY-18](#NY-18)  [NY-19](#NY-19)  [NY-20](#NY-20)  [NY-21](#NY-21)  [NY-22](#NY-22)  [NY-23](#NY-23)  [NY-24](#NY-24)  [NY-25](#NY-25)  [NY-26](#NY-26)  [NY-27](#NY-27)  
+
 # NY -- Sen. Kirsten Gillibrand (D) and  Sen. Charles Schumer (D)
 ## HEP Grants
 ```
@@ -60,6 +64,8 @@ and  56  other institutions.
 ```
 ---
 ---
+<a name="NY-01"></a>
+[Back to top](#top)
 ## NY-01 -- Rep. Lee Zeldin (R)
 ### HEP Grants
 ```
@@ -125,6 +131,8 @@ THE RESEARCH FOUNDATION OF STATE UNIVERSITY O      2012     6346317
                                                    2014     9816513
 ```
 ---
+<a name="NY-02"></a>
+[Back to top](#top)
 ## NY-02 -- Rep. Peter King (R)
 ### HEP Grants
 ```
@@ -139,6 +147,8 @@ This district received no SC contracts from 2012-2017
 This district received no NSF MPS grants from 2012-2016
 ```
 ---
+<a name="NY-03"></a>
+[Back to top](#top)
 ## NY-03 -- Rep. Thomas Suozzi (D)
 ### HEP Grants
 ```
@@ -161,6 +171,8 @@ LONG ISLAND UNIVERSITY        2012       60000
                               2013      223312
 ```
 ---
+<a name="NY-04"></a>
+[Back to top](#top)
 ## NY-04 -- Rep. Kathleen Rice (D)
 ### HEP Grants
 ```
@@ -175,6 +187,8 @@ This district received no SC contracts from 2012-2017
 This district received no NSF MPS grants from 2012-2016
 ```
 ---
+<a name="NY-05"></a>
+[Back to top](#top)
 ## NY-05 -- Rep. Gregory Meeks (D)
 ### HEP Grants
 ```
@@ -198,6 +212,8 @@ RESEARCH FOUNDATION OF THE CITY UNIVERSITY OF 2013      648769
                                               2014      350691
 ```
 ---
+<a name="NY-06"></a>
+[Back to top](#top)
 ## NY-06 -- Rep. Grace Meng (D)
 ### HEP Grants
 ```
@@ -219,6 +235,8 @@ RESEARCH FOUNDATION OF THE CITY UNIVERSITY OF 2012      234923
 ST JOHN'S UNIVERSITY, NEW YORK                2012      153360
 ```
 ---
+<a name="NY-07"></a>
+[Back to top](#top)
 ## NY-07 -- Rep. Nydia Velázquez (D)
 ### HEP Grants
 ```
@@ -242,6 +260,8 @@ RESEARCH FOUNDATION OF THE CITY UNIVERSITY OF 2013       15000
 YESHIVA UNIVERSITY                            2012      484343
 ```
 ---
+<a name="NY-08"></a>
+[Back to top](#top)
 ## NY-08 -- Rep. Hakeem Jeffries (D)
 ### HEP Grants
 ```
@@ -267,6 +287,8 @@ NEW YORK UNIVERSITY                          2012     9018056
 POLYTECHNIC INSTITUTE OF NEW YORK UNIVERSITY 2013      358025
 ```
 ---
+<a name="NY-09"></a>
+[Back to top](#top)
 ## NY-09 -- Rep. Yvette Clarke (D)
 ### HEP Grants
 ```
@@ -287,6 +309,8 @@ RESEARCH FOUNDATION OF THE CITY UNIVERSITY OF 2012      562844
                                               2014      -84407
 ```
 ---
+<a name="NY-10"></a>
+[Back to top](#top)
 ## NY-10 -- Rep. Jerrold Nadler (D)
 ### HEP Grants
 ```
@@ -330,6 +354,8 @@ TRUSTEES OF COLUMBIA UNIVERSITY IN THE CITY O 2013    16725625
                                               2014    16944778
 ```
 ---
+<a name="NY-11"></a>
+[Back to top](#top)
 ## NY-11 -- Rep. Daniel Donovan (R)
 ### HEP Grants
 ```
@@ -351,6 +377,8 @@ RESEARCH FOUNDATION OF THE CITY UNIVERSITY OF      2012     1001662
 RESEARCH FOUNDATION OF THE CITY UNIVERSITY OF N... 2017       91328
 ```
 ---
+<a name="NY-12"></a>
+[Back to top](#top)
 ## NY-12 -- Rep. Carolyn Maloney (D)
 ### HEP Grants
 ```
@@ -388,6 +416,8 @@ RESEARCH FOUNDATION OF THE CITY UNIVERSITY OF N... 2017       40523
 WEILL MEDICAL COLLEGE OF CORNELL UNIVERSITY        2013      100000
 ```
 ---
+<a name="NY-13"></a>
+[Back to top](#top)
 ## NY-13 -- Rep. Adriano Espaillat (D)
 ### HEP Grants
 ```
@@ -419,6 +449,8 @@ YESHIVA UNIVERSITY                            2013      255515
                                               2017     -152518
 ```
 ---
+<a name="NY-14"></a>
+[Back to top](#top)
 ## NY-14 -- Rep. Joseph Crowley (D)
 ### HEP Grants
 ```
@@ -447,6 +479,8 @@ YESHIVA UNIVERSITY                            2012      123000
                                               2014      292998
 ```
 ---
+<a name="NY-15"></a>
+[Back to top](#top)
 ## NY-15 -- Rep. José Serrano (D)
 ### HEP Grants
 ```
@@ -478,6 +512,8 @@ THE TRUSTEES OF COLUMBIA UNIVERSITY IN THE CI 2012    22607934
 YESHIVA UNIVERSITY                            2012      624271
 ```
 ---
+<a name="NY-16"></a>
+[Back to top](#top)
 ## NY-16 -- Rep. Eliot Engel (D)
 ### HEP Grants
 ```
@@ -497,6 +533,8 @@ IONA COLLEGE           2013      116000
 MANHATTAN COLLEGE CORP 2014       72854
 ```
 ---
+<a name="NY-17"></a>
+[Back to top](#top)
 ## NY-17 -- Rep. Nita Lowey (D)
 ### HEP Grants
 ```
@@ -521,6 +559,8 @@ TRUSTEES OF COLUMBIA UNIVERSITY IN THE CITY O 2013      360000
                                               2014     1657603
 ```
 ---
+<a name="NY-18"></a>
+[Back to top](#top)
 ## NY-18 -- Rep. Sean Maloney (D)
 ### HEP Grants
 ```
@@ -540,6 +580,8 @@ IONA COLLEGE            2012       76000
 VASSAR COLLEGE          2013       75000
 ```
 ---
+<a name="NY-19"></a>
+[Back to top](#top)
 ## NY-19 -- Rep. John Faso (R)
 ### HEP Grants
 ```
@@ -560,6 +602,8 @@ RENSSELAER POLYTECHNIC INSTITUTE 2013      269994
 VASSAR COLLEGE                   2012       75000
 ```
 ---
+<a name="NY-20"></a>
+[Back to top](#top)
 ## NY-20 -- Rep. Paul Tonko (D)
 ### HEP Grants
 ```
@@ -596,6 +640,8 @@ TRUSTEES OF UNION COLLEGE IN THE TOWN OF SCHE 2013      168386
                                               2014       48378
 ```
 ---
+<a name="NY-21"></a>
+[Back to top](#top)
 ## NY-21 -- Rep. Elise Stefanik (R)
 ### HEP Grants
 ```
@@ -628,6 +674,8 @@ SUNY Potsdam                                  2015       79048
 TRUSTEES OF UNION COLLEGE IN THE TOWN OF SCHE 2012      776206
 ```
 ---
+<a name="NY-22"></a>
+[Back to top](#top)
 ## NY-22 -- Rep. Claudia Tenney (R)
 ### HEP Grants
 ```
@@ -662,6 +710,8 @@ RESEARCH FOUNDATION OF STATE UNIVERSITY OF NE 2012      840452
 THE RESEARCH FOUNDATION OF STATE UNIVERSITY O 2013      270807
 ```
 ---
+<a name="NY-23"></a>
+[Back to top](#top)
 ## NY-23 -- Rep. Tom Reed (R)
 ### HEP Grants
 ```
@@ -697,6 +747,8 @@ ITHACA COLLEGE                                2013      185000
 THE RESEARCH FOUNDATION OF STATE UNIVERSITY O 2013        4000
 ```
 ---
+<a name="NY-24"></a>
+[Back to top](#top)
 ## NY-24 -- Rep. John Katko (R)
 ### HEP Grants
 ```
@@ -724,6 +776,8 @@ SYRACUSE UNIVERSITY               2013     4179896
 Syracuse University               2015      369069
 ```
 ---
+<a name="NY-25"></a>
+[Back to top](#top)
 ## NY-25 -- Rep. Louise Slaughter (D)
 ### HEP Grants
 ```
@@ -765,6 +819,8 @@ UNIVERSITY OF ROCHESTER                 2013     3200840
 University of Rochester                 2015      533371
 ```
 ---
+<a name="NY-26"></a>
+[Back to top](#top)
 ## NY-26 -- Rep. Brian Higgins (D)
 ### HEP Grants
 ```
@@ -787,6 +843,8 @@ SUNY Buffalo                                  2015      454539
 THE RESEARCH FOUNDATION OF STATE UNIVERSITY O 2014      168187
 ```
 ---
+<a name="NY-27"></a>
+[Back to top](#top)
 ## NY-27 -- Rep. Chris Collins (R)
 ### HEP Grants
 ```
