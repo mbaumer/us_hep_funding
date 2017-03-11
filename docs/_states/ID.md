@@ -3,7 +3,7 @@ permalink : /states/ID/
 ---
 
 [Home]({{ site.url }})
-# ID
+# ID -- Sen. Michael Crapo (R) and  Sen. James Risch (R)
 ## HEP Grants
 ```
 This state received no SC HEP grants from 2012-2016
@@ -26,7 +26,7 @@ Boise State University                  363998
 ```
 ---
 ---
-## ID-01
+## ID-01 -- Rep. Raúl Labrador (R)
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -44,7 +44,7 @@ REGENTS OF THE UNIVERSITY OF IDAHO 2013     1139506
 UNIVERSITY OF IDAHO                2012      536655
 ```
 ---
-## ID-02
+## ID-02 -- Rep. Michael Simpson (R)
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016

@@ -3,7 +3,7 @@ permalink : /states/LA/
 ---
 
 [Home]({{ site.url }})
-# LA
+# LA -- Sen. Bill Cassidy (R) and  Sen. John Kennedy (R)
 ## HEP Grants
 ```
 In the past 5 years, this state has received  12  HEP grants, totalling  $3,113,000.00
@@ -39,7 +39,7 @@ and  5  other institutions.
 ```
 ---
 ---
-## LA-01
+## LA-01 -- Rep. Steve Scalise (R)
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -60,7 +60,7 @@ SOUTHEASTERN LOUISIANA UNIVERSITY                  2013      274000
 Tulane University                                  2015      158784
 ```
 ---
-## LA-02
+## LA-02 -- Rep. Cedric Richmond (D)
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -85,7 +85,7 @@ XAVIER UNIVERSITY OF LOUISIANA                2012       14338
                                               2014      200000
 ```
 ---
-## LA-03
+## LA-03 -- Rep. Clay Higgins (R)
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -105,7 +105,7 @@ UNIVERSITY OF LOUISIANA AT LAFAYETTE 2013      580000
 Univ of Louisiana at Lafay           2015       40610
 ```
 ---
-## LA-04
+## LA-04 -- Rep. Mike Johnson (R)
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -122,7 +122,7 @@ Institution                       Year
 LOUISIANA STATE UNIVERSITY SYSTEM 2013      197800
 ```
 ---
-## LA-05
+## LA-05 -- Rep. Ralph Abraham (R)
 ### HEP Grants
 ```
 In the past 5 years, this district has received:  $969,000.00 in SC HEP grants.
@@ -148,7 +148,7 @@ LOUISIANA TECH UNIVERSITY 2012      124821
                           2014      200000
 ```
 ---
-## LA-06
+## LA-06 -- Rep. Garret Graves (R)
 ### HEP Grants
 ```
 In the past 5 years, this district has received:  $2,144,000.00 in SC HEP grants.

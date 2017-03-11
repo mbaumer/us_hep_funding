@@ -3,7 +3,7 @@ permalink : /states/KS/
 ---
 
 [Home]({{ site.url }})
-# KS
+# KS -- Sen. Jerry Moran (R) and  Sen. Pat Roberts (R)
 ## HEP Grants
 ```
 In the past 5 years, this state has received  17  HEP grants, totalling  $4,286,500.00
@@ -39,7 +39,7 @@ Kansas State University                             16660
 ```
 ---
 ---
-## KS-01
+## KS-01 -- Rep. Roger Marshall (R)
 ### HEP Grants
 ```
 In the past 5 years, this district has received:  $2,146,000.00 in SC HEP grants.
@@ -63,7 +63,7 @@ KANSAS STATE UNIVERSITY 2013     1136720
 Kansas State University 2015       16660
 ```
 ---
-## KS-02
+## KS-02 -- Rep. Lynn Jenkins (R)
 ### HEP Grants
 ```
 In the past 5 years, this district has received:  $2,140,500.00 in SC HEP grants.
@@ -92,7 +92,7 @@ UNIVERSITY OF KANSAS CENTER FOR RESEARCH, INC 2013     3227973
                                               2014     2785414
 ```
 ---
-## KS-03
+## KS-03 -- Rep. Kevin Yoder (R)
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -115,7 +115,7 @@ UNIVERSITY OF KANSAS CENTER FOR RESEARCH, INC 2012     3549051
                                               2013       75743
 ```
 ---
-## KS-04
+## KS-04 Unknown Rep.
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016

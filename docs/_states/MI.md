@@ -3,7 +3,7 @@ permalink : /states/MI/
 ---
 
 [Home]({{ site.url }})
-# MI
+# MI -- Sen. Gary Peters (D) and  Sen. Debbie Stabenow (D)
 ## HEP Grants
 ```
 In the past 5 years, this state has received  59  HEP grants, totalling  $25,972,000.00
@@ -50,7 +50,7 @@ and  11  other institutions.
 ```
 ---
 ---
-## MI-01
+## MI-01 -- Rep. Jack Bergman (R)
 ### HEP Grants
 ```
 In the past 5 years, this district has received:  $890,000.00 in SC HEP grants.
@@ -75,7 +75,7 @@ MICHIGAN TECHNOLOGICAL UNIVERSITY 2012     2561774
                                   2014     2071707
 ```
 ---
-## MI-02
+## MI-02 -- Rep. Bill Huizenga (R)
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -100,7 +100,7 @@ HOPE COLLEGE                  2012      690348
 MICHIGAN STATE UNIVERSITY     2014       26049
 ```
 ---
-## MI-03
+## MI-03 -- Rep. Justin Amash (R)
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -122,7 +122,7 @@ CALVIN COLLEGE 2012      301720
                2014       29473
 ```
 ---
-## MI-04
+## MI-04 -- Rep. John Moolenaar (R)
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -142,7 +142,7 @@ CENTRAL MICHIGAN UNIVERSITY (INC) 2012      510031
 Central Michigan U                2015      -11340
 ```
 ---
-## MI-05
+## MI-05 -- Rep. Daniel Kildee (D)
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -160,7 +160,7 @@ KETTERING UNIVERSITY 2013       77808
                      2014      560150
 ```
 ---
-## MI-06
+## MI-06 -- Rep. Fred Upton (R)
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -185,7 +185,7 @@ WESTERN MICHIGAN UNIVERSITY 2012      225000
                             2014      729207
 ```
 ---
-## MI-07
+## MI-07 -- Rep. Tim Walberg (R)
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -199,7 +199,7 @@ This district received no SC contracts from 2012-2017
 This district received no NSF MPS grants from 2012-2016
 ```
 ---
-## MI-08
+## MI-08 -- Rep. Mike Bishop (R)
 ### HEP Grants
 ```
 In the past 5 years, this district has received:  $2,724,000.00 in SC HEP grants.
@@ -232,7 +232,7 @@ Michigan State University 2015    11340000
 OAKLAND UNIVERSITY        2013       44999
 ```
 ---
-## MI-09
+## MI-09 -- Rep. Sander Levin (D)
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -249,7 +249,7 @@ Institution        Year
 OAKLAND UNIVERSITY 2012      799261
 ```
 ---
-## MI-10
+## MI-10 -- Rep. Paul Mitchell (R)
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -267,7 +267,7 @@ CENTRAL MICHIGAN UNIVERSITY (INC) 2012       46584
                                   2013       40000
 ```
 ---
-## MI-11
+## MI-11 -- Rep. Dave Trott (R)
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -285,7 +285,7 @@ OAKLAND UNIVERSITY 2013      233994
                    2014      123686
 ```
 ---
-## MI-12
+## MI-12 -- Rep. Debbie Dingell (D)
 ### HEP Grants
 ```
 In the past 5 years, this district has received:  $10,921,000.00 in SC HEP grants.
@@ -311,7 +311,7 @@ UNIVERSITY OF CALIFORNIA, LOS ANGELES 2013      132047
 University of Michigan                2015      923461
 ```
 ---
-## MI-13
+## MI-13 -- Rep. John Conyers (D)
 ### HEP Grants
 ```
 In the past 5 years, this district has received:  $2,879,000.00 in SC HEP grants.
@@ -338,7 +338,7 @@ WAYNE STATE UNIVERSITY (INC) 2012     3474845
 Wayne State University       2015        5000
 ```
 ---
-## MI-14
+## MI-14 -- Rep. Brenda Lawrence (D)
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016

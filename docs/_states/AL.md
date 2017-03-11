@@ -3,7 +3,7 @@ permalink : /states/AL/
 ---
 
 [Home]({{ site.url }})
-# AL
+# AL -- Sen. Richard Shelby (R) and  Sen. Luther Strange (R)
 ## HEP Grants
 ```
 In the past 5 years, this state has received  11  HEP grants, totalling  $2,330,000.00
@@ -45,7 +45,7 @@ UNIVERSITY OF SOUTH ALABAMA              -43912
 ```
 ---
 ---
-## AL-01
+## AL-01 -- Rep. Bradley Byrne (R)
 ### HEP Grants
 ```
 In the past 5 years, this district has received:  $70,000.00 in SC HEP grants.
@@ -66,7 +66,7 @@ Institution                 Year
 UNIVERSITY OF SOUTH ALABAMA 2013      -43912
 ```
 ---
-## AL-02
+## AL-02 -- Rep. Martha Roby (R)
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -80,7 +80,7 @@ This district received no SC contracts from 2012-2017
 This district received no NSF MPS grants from 2012-2016
 ```
 ---
-## AL-03
+## AL-03 -- Rep. Mike Rogers (R)
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -100,7 +100,7 @@ AUBURN UNIVERSITY   2012      328689
 TUSKEGEE UNIVERSITY 2014      862300
 ```
 ---
-## AL-04
+## AL-04 -- Rep. Robert Aderholt (R)
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -114,7 +114,7 @@ This district received no SC contracts from 2012-2017
 This district received no NSF MPS grants from 2012-2016
 ```
 ---
-## AL-05
+## AL-05 -- Rep. Mo Brooks (R)
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -142,7 +142,7 @@ UNIVERSITY OF NORTH ALABAMA         2012       19114
                                     2013       29430
 ```
 ---
-## AL-06
+## AL-06 -- Rep. Gary Palmer (R)
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -156,7 +156,7 @@ This district received no SC contracts from 2012-2017
 This district received no NSF MPS grants from 2012-2016
 ```
 ---
-## AL-07
+## AL-07 -- Rep. Terri Sewell (D)
 ### HEP Grants
 ```
 In the past 5 years, this district has received:  $2,260,000.00 in SC HEP grants.

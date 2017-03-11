@@ -3,7 +3,7 @@ permalink : /states/AK/
 ---
 
 [Home]({{ site.url }})
-# AK
+# AK -- Sen. Lisa Murkowski (R) and  Sen. Dan Sullivan (R)
 ## HEP Grants
 ```
 This state received no SC HEP grants from 2012-2016
@@ -29,7 +29,7 @@ UNIVERSITY OF ALASKA FAIRBANKS 2012      152000
 ```
 ---
 ---
-## AK-00
+## AK-00 -- Rep. Don Young (R)
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016

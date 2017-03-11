@@ -3,7 +3,7 @@ permalink : /states/AZ/
 ---
 
 [Home]({{ site.url }})
-# AZ
+# AZ -- Sen. Jeff Flake (R) and  Sen. John McCain (R)
 ## HEP Grants
 ```
 In the past 5 years, this state has received  25  HEP grants, totalling  $8,257,000.00
@@ -43,7 +43,7 @@ and  2  other institutions.
 ```
 ---
 ---
-## AZ-01
+## AZ-01 -- Rep. Tom O'Halleran (D)
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -66,7 +66,7 @@ NORTHERN ARIZONA UNIVERSITY 2012      661982
 Northern Arizona Univ       2015      216161
 ```
 ---
-## AZ-02
+## AZ-02 -- Rep. Martha McSally (R)
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -87,7 +87,7 @@ THE RESEARCH FOUNDATION OF STATE UNIVERSITY O      2014        8000
 UNIVERSITY OF ARIZONA                              2013     1280434
 ```
 ---
-## AZ-03
+## AZ-03 -- Rep. Raúl Grijalva (D)
 ### HEP Grants
 ```
 In the past 5 years, this district has received:  $4,243,000.00 in SC HEP grants.
@@ -113,7 +113,7 @@ UNIVERSITY OF ARIZONA                              2013    14225860
                                                    2017     2641303
 ```
 ---
-## AZ-04
+## AZ-04 -- Rep. Paul Gosar (R)
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -131,7 +131,7 @@ EMBRY-RIDDLE AERONAUTICAL UNIVERSITY INC 2013      126027
                                          2014       54456
 ```
 ---
-## AZ-05
+## AZ-05 -- Rep. Andy Biggs (R)
 ### HEP Grants
 ```
 In the past 5 years, this district has received:  $706,000.00 in SC HEP grants.
@@ -153,7 +153,7 @@ ARIZONA STATE UNIVERSITY 2012     7172658
                          2014       95870
 ```
 ---
-## AZ-06
+## AZ-06 -- Rep. David Schweikert (R)
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -167,7 +167,7 @@ This district received no SC contracts from 2012-2017
 This district received no NSF MPS grants from 2012-2016
 ```
 ---
-## AZ-07
+## AZ-07 -- Rep. Ruben Gallego (D)
 ### HEP Grants
 ```
 In the past 5 years, this district has received:  $2,451,000.00 in SC HEP grants.
@@ -193,7 +193,7 @@ UNIVERSITY OF ARIZONA                         2012     9219415
                                               2013      164833
 ```
 ---
-## AZ-08
+## AZ-08 -- Rep. Trent Franks (R)
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -207,7 +207,7 @@ This district received no SC contracts from 2012-2017
 This district received no NSF MPS grants from 2012-2016
 ```
 ---
-## AZ-09
+## AZ-09 -- Rep. Kyrsten Sinema (D)
 ### HEP Grants
 ```
 In the past 5 years, this district has received:  $857,000.00 in SC HEP grants.

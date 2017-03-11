@@ -3,7 +3,7 @@ permalink : /states/MT/
 ---
 
 [Home]({{ site.url }})
-# MT
+# MT -- Sen. Steve Daines (R) and  Sen. Jon Tester (D)
 ## HEP Grants
 ```
 This state received no SC HEP grants from 2012-2016
@@ -28,7 +28,7 @@ UNIVERSITY OF MONTANA SYSTEM  2012      246565
 ```
 ---
 ---
-## MT-00
+## MT-00 Unknown Rep.
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016

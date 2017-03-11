@@ -3,7 +3,7 @@ permalink : /states/OH/
 ---
 
 [Home]({{ site.url }})
-# OH
+# OH -- Sen. Sherrod Brown (D) and  Sen. Robert Portman (R)
 ## HEP Grants
 ```
 In the past 5 years, this state has received  44  HEP grants, totalling  $20,934,000.00
@@ -53,7 +53,7 @@ and  22  other institutions.
 ```
 ---
 ---
-## OH-01
+## OH-01 -- Rep. Steve Chabot (R)
 ### HEP Grants
 ```
 In the past 5 years, this district has received:  $4,180,000.00 in SC HEP grants.
@@ -82,7 +82,7 @@ UNIVERSITY OF CINCINNATI 2012     2828204
 XAVIER UNIVERSITY        2014       57862
 ```
 ---
-## OH-02
+## OH-02 -- Rep. Brad Wenstrup (R)
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -99,7 +99,7 @@ Institution              Year
 UNIVERSITY OF CINCINNATI 2014      275000
 ```
 ---
-## OH-03
+## OH-03 -- Rep. Joyce Beatty (D)
 ### HEP Grants
 ```
 In the past 5 years, this district has received:  $9,669,000.00 in SC HEP grants.
@@ -127,7 +127,7 @@ OHIO STATE UNIVERSITY, THE                    2013    12575093
 Ohio State University                         2015     6681440
 ```
 ---
-## OH-04
+## OH-04 -- Rep. Jim Jordan (R)
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -149,7 +149,7 @@ OHIO STATE UNIVERSITY, THE 2012       50130
 Oberlin College            2015       57514
 ```
 ---
-## OH-05
+## OH-05 -- Rep. Robert Latta (R)
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -169,7 +169,7 @@ BOWLING GREEN STATE UNIVERSITY (INC) 2012      459617
                                      2014      -98693
 ```
 ---
-## OH-06
+## OH-06 -- Rep. Bill Johnson (R)
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -186,7 +186,7 @@ Institution     Year
 OHIO UNIVERSITY 2012     2576654
 ```
 ---
-## OH-07
+## OH-07 -- Rep. Bob Gibbs (R)
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -207,7 +207,7 @@ Kenyon College                                2015       47840
 WRIGHT STATE UNIVERSITY                       2012     1096622
 ```
 ---
-## OH-08
+## OH-08 -- Rep. Warren Davidson (R)
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -227,7 +227,7 @@ MIAMI UNIVERSITY                              2012     1151315
                                               2014      271735
 ```
 ---
-## OH-09
+## OH-09 -- Rep. Marcy Kaptur (D)
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -250,7 +250,7 @@ UNIVERSITY OF TOLEDO, THE 2012     3817436
                           2014      934459
 ```
 ---
-## OH-10
+## OH-10 -- Rep. Michael Turner (R)
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -267,7 +267,7 @@ Institution             Year
 WRIGHT STATE UNIVERSITY 2013      300000
 ```
 ---
-## OH-11
+## OH-11 -- Rep. Marcia Fudge (D)
 ### HEP Grants
 ```
 In the past 5 years, this district has received:  $2,322,000.00 in SC HEP grants.
@@ -298,7 +298,7 @@ THE UNIVERSITY OF AKRON         2013     2913063
 University of Akron             2015       99999
 ```
 ---
-## OH-12
+## OH-12 -- Rep. Patrick Tiberi (R)
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -330,7 +330,7 @@ OTTERBEIN UNIVERSITY          2013       47722
 Ohio Wesleyan University      2015      103817
 ```
 ---
-## OH-13
+## OH-13 -- Rep. Tim Ryan (D)
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -353,7 +353,7 @@ YOUNGSTOWN STATE UNIVERSITY 2013      494500
                             2014      508062
 ```
 ---
-## OH-14
+## OH-14 -- Rep. David Joyce (R)
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -376,7 +376,7 @@ Institution   Year
 HIRAM COLLEGE 2012      116163
 ```
 ---
-## OH-15
+## OH-15 -- Rep. Steve Stivers (R)
 ### HEP Grants
 ```
 In the past 5 years, this district has received:  $4,763,000.00 in SC HEP grants.
@@ -405,7 +405,7 @@ OHIO UNIVERSITY                           2013     1311097
 Ohio State University                     2015      176618
 ```
 ---
-## OH-16
+## OH-16 -- Rep. James Renacci (R)
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016

@@ -3,7 +3,7 @@ permalink : /states/OK/
 ---
 
 [Home]({{ site.url }})
-# OK
+# OK -- Sen. James Inhofe (R) and  Sen. James Lankford (R)
 ## HEP Grants
 ```
 In the past 5 years, this state has received  16  HEP grants, totalling  $5,111,000.00
@@ -44,7 +44,7 @@ U of Oklahoma                                  29958
 ```
 ---
 ---
-## OK-01
+## OK-01 -- Rep. Jim Bridenstine (R)
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -72,7 +72,7 @@ UNIVERSITY OF TULSA, THE  2012      110000
 University of Tulsa       2015       90000
 ```
 ---
-## OK-02
+## OK-02 -- Rep. Markwayne Mullin (R)
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -89,7 +89,7 @@ Institution                              Year
 ROGERS STATE UNIVERSITY FOUNDATION, INC. 2013       74591
 ```
 ---
-## OK-03
+## OK-03 -- Rep. Frank Lucas (R)
 ### HEP Grants
 ```
 In the past 5 years, this district has received:  $1,218,000.00 in SC HEP grants.
@@ -117,7 +117,7 @@ OKLAHOMA STATE UNIVERSITY 2012      987773
 Oklahoma State University 2015       40907
 ```
 ---
-## OK-04
+## OK-04 -- Rep. Tom Cole (R)
 ### HEP Grants
 ```
 In the past 5 years, this district has received:  $3,893,000.00 in SC HEP grants.
@@ -145,7 +145,7 @@ UNIVERSITY OF OKLAHOMA 2012     2657662
                        2017       25276
 ```
 ---
-## OK-05
+## OK-05 -- Rep. Steve Russell (R)
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016

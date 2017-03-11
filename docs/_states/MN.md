@@ -3,7 +3,7 @@ permalink : /states/MN/
 ---
 
 [Home]({{ site.url }})
-# MN
+# MN -- Sen. Alan Franken (D) and  Sen. Amy Klobuchar (D)
 ## HEP Grants
 ```
 In the past 5 years, this state has received  22  HEP grants, totalling  $14,563,000.00
@@ -46,7 +46,7 @@ and  7  other institutions.
 ```
 ---
 ---
-## MN-01
+## MN-01 -- Rep. Timothy Walz (D)
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -66,7 +66,7 @@ MINNESOTA STATE UNIVERSITY, MANKATO  2012       24000
 SAINT MARY'S UNIVERSITY OF MINNESOTA 2012       14000
 ```
 ---
-## MN-02
+## MN-02 -- Rep. Jason Lewis (R)
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -88,7 +88,7 @@ ST. OLAF COLLEGE   2012      321529
 Saint Olaf College 2015       19390
 ```
 ---
-## MN-03
+## MN-03 -- Rep. Erik Paulsen (R)
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -109,7 +109,7 @@ Institution                      Year
 NORTH HENNEPIN COMMUNITY COLLEGE 2012       72183
 ```
 ---
-## MN-04
+## MN-04 -- Rep. Betty McCollum (D)
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -136,7 +136,7 @@ UNIVERSITY OF ST. THOMAS               2012      192173
                                        2014      190492
 ```
 ---
-## MN-05
+## MN-05 -- Rep. Keith Ellison (D)
 ### HEP Grants
 ```
 In the past 5 years, this district has received:  $12,039,000.00 in SC HEP grants.
@@ -165,7 +165,7 @@ REGENTS OF THE UNIVERSITY OF MINNESOTA 2012    22253816
 U of Minnesota-Twin Cities             2015     6224204
 ```
 ---
-## MN-06
+## MN-06 -- Rep. Tom Emmer (R)
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -186,7 +186,7 @@ ST CLOUD STATE UNIVERSITY 2012      129809
                           2014      436651
 ```
 ---
-## MN-07
+## MN-07 -- Rep. Collin Peterson (D)
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -200,7 +200,7 @@ This district received no SC contracts from 2012-2017
 This district received no NSF MPS grants from 2012-2016
 ```
 ---
-## MN-08
+## MN-08 -- Rep. Richard Nolan (D)
 ### HEP Grants
 ```
 In the past 5 years, this district has received:  $45,000.00 in SC HEP grants.

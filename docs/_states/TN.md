@@ -3,7 +3,7 @@ permalink : /states/TN/
 ---
 
 [Home]({{ site.url }})
-# TN
+# TN -- Sen. Lamar Alexander (R) and  Sen. Bob Corker (R)
 ## HEP Grants
 ```
 In the past 5 years, this state has received  23  HEP grants, totalling  $4,997,000.00
@@ -55,7 +55,7 @@ and  9  other institutions.
 ```
 ---
 ---
-## TN-01
+## TN-01 -- Rep. David Roe (R)
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -81,7 +81,7 @@ EAST TENNESSEE STATE UNIVERSITY 2012      156048
                                 2017       20988
 ```
 ---
-## TN-02
+## TN-02 -- Rep. John Duncan (R)
 ### HEP Grants
 ```
 In the past 5 years, this district has received:  $3,837,000.00 in SC HEP grants.
@@ -177,7 +177,7 @@ UNIVERSITY OF TENNESSEE  2012     2934992
                          2017      402841
 ```
 ---
-## TN-03
+## TN-03 -- Rep. Charles Fleischmann (R)
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -263,7 +263,7 @@ RUTGERS, THE STATE UNIVERSITY OF NEW JERSEY   2014      130000
 UNIVERSITY OF TENNESSEE                       2013      290000
 ```
 ---
-## TN-04
+## TN-04 -- Rep. Scott DesJarlais (R)
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -286,7 +286,7 @@ UNIVERSITY OF TENNESSEE           2012        6111
 VANDERBILT UNIVERSITY, THE        2013      124850
 ```
 ---
-## TN-05
+## TN-05 -- Rep. Jim Cooper (D)
 ### HEP Grants
 ```
 In the past 5 years, this district has received:  $1,160,000.00 in SC HEP grants.
@@ -326,7 +326,7 @@ VANDERBILT UNIVERSITY, THE 2012     5939302
 Vanderbilt University      2015      106984
 ```
 ---
-## TN-06
+## TN-06 -- Rep. Diane Black (R)
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -340,7 +340,7 @@ This district received no SC contracts from 2012-2017
 This district received no NSF MPS grants from 2012-2016
 ```
 ---
-## TN-07
+## TN-07 -- Rep. Marsha Blackburn (R)
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -361,7 +361,7 @@ Institution                  Year
 AUSTIN PEAY STATE UNIVERSITY 2014      200000
 ```
 ---
-## TN-08
+## TN-08 -- Rep. David Kustoff (R)
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -375,7 +375,7 @@ This district received no SC contracts from 2012-2017
 This district received no NSF MPS grants from 2012-2016
 ```
 ---
-## TN-09
+## TN-09 -- Rep. Steve Cohen (D)
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016

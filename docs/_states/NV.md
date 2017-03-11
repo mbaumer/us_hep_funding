@@ -3,7 +3,7 @@ permalink : /states/NV/
 ---
 
 [Home]({{ site.url }})
-# NV
+# NV -- Sen. Catherine Cortez Masto (D) and  Sen. Dean Heller (R)
 ## HEP Grants
 ```
 In the past 5 years, this state has received  1  HEP grants, totalling  $0.00
@@ -47,7 +47,7 @@ UNIVERSITY OF NEVADA, RENO                    2012      926494
 ```
 ---
 ---
-## NV-01
+## NV-01 -- Rep. Dina Titus (D)
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -74,7 +74,7 @@ BOARD OF REGENTS NEVADA SYSTEM OF HIGHER EDUC 2012      240656
                                               2014      142430
 ```
 ---
-## NV-02
+## NV-02 -- Rep. Mark Amodei (R)
 ### HEP Grants
 ```
 In the past 5 years, this district has received:  $0.00 in SC HEP grants.
@@ -102,7 +102,7 @@ UNIVERSITY OF NEVADA, RENO        2012      926494
                                   2017      286093
 ```
 ---
-## NV-03
+## NV-03 -- Rep. Jacky Rosen (D)
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -121,7 +121,7 @@ USA REPOSITORY SERVICES LLC 2014                  0
 This district received no NSF MPS grants from 2012-2016
 ```
 ---
-## NV-04
+## NV-04 -- Rep. Ruben Kihuen (D)
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016

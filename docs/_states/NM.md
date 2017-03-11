@@ -3,7 +3,7 @@ permalink : /states/NM/
 ---
 
 [Home]({{ site.url }})
-# NM
+# NM -- Sen. Martin Heinrich (D) and  Sen. Tom Udall (D)
 ## HEP Grants
 ```
 In the past 5 years, this state has received  17  HEP grants, totalling  $2,785,000.00
@@ -52,7 +52,7 @@ SANTA FE INSTITUTE OF SCIENCE INC                   12015
 ```
 ---
 ---
-## NM-01
+## NM-01 -- Rep. Michelle Lujan Grisham (D)
 ### HEP Grants
 ```
 In the past 5 years, this district has received:  $2,785,000.00 in SC HEP grants.
@@ -90,7 +90,7 @@ UNIVERSITY OF NEW MEXICO 2012     4885405
 University of New Mexico 2015      105000
 ```
 ---
-## NM-02
+## NM-02 -- Rep. Stevan Pearce (R)
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -112,7 +112,7 @@ NEW MEXICO STATE UNIVERSITY                   2012      909844
 New Mexico St University                      2015       20000
 ```
 ---
-## NM-03
+## NM-03 -- Rep. Ben Luján (D)
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016

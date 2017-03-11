@@ -3,7 +3,7 @@ permalink : /states/NE/
 ---
 
 [Home]({{ site.url }})
-# NE
+# NE -- Sen. Deb Fischer (R) and  Sen. Benjamin Sasse (R)
 ## HEP Grants
 ```
 This state received no SC HEP grants from 2012-2016
@@ -26,7 +26,7 @@ CREIGHTON UNIVERSITY                                92500
 ```
 ---
 ---
-## NE-01
+## NE-01 -- Rep. Jeff Fortenberry (R)
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -47,7 +47,7 @@ UNIVERSITY OF NEBRASKA                        2012     4612438
                                               2014      146599
 ```
 ---
-## NE-02
+## NE-02 -- Rep. Don Bacon (R)
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -64,7 +64,7 @@ Institution          Year
 CREIGHTON UNIVERSITY 2012       92500
 ```
 ---
-## NE-03
+## NE-03 -- Rep. Adrian Smith (R)
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016

@@ -3,7 +3,7 @@ permalink : /states/VA/
 ---
 
 [Home]({{ site.url }})
-# VA
+# VA -- Sen. Timothy Kaine (D) and  Sen. Mark Warner (D)
 ## HEP Grants
 ```
 In the past 5 years, this state has received  42  HEP grants, totalling  $12,835,000.00
@@ -60,7 +60,7 @@ and  23  other institutions.
 ```
 ---
 ---
-## VA-01
+## VA-01 -- Rep. Robert Wittman (R)
 ### HEP Grants
 ```
 In the past 5 years, this district has received:  $398,000.00 in SC HEP grants.
@@ -95,7 +95,7 @@ UNIVERSITY OF NORTH CAROLINA AT WILMINGTON    2012       80277
 VIRGINIA INSTITUTE OF MARINE SCIENCE          2013      128672
 ```
 ---
-## VA-02
+## VA-02 -- Rep. Scott Taylor (R)
 ### HEP Grants
 ```
 In the past 5 years, this district has received:  $2,502,000.00 in SC HEP grants.
@@ -134,7 +134,7 @@ THE GEORGE WASHINGTON UNIVERSITY            2013      360000
 VIRGINIA WESLEYAN COLLEGE                   2014      120438
 ```
 ---
-## VA-03
+## VA-03 -- Rep. Robert Scott (D)
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -165,7 +165,7 @@ VIRGINIA COMMONWEALTH UNIVERSITY            2012     2217983
                                             2014      617920
 ```
 ---
-## VA-04
+## VA-04 -- Rep. A. McEachin (D)
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -179,7 +179,7 @@ This district received no SC contracts from 2012-2017
 This district received no NSF MPS grants from 2012-2016
 ```
 ---
-## VA-05
+## VA-05 -- Rep. Thomas Garrett (R)
 ### HEP Grants
 ```
 In the past 5 years, this district has received:  $6,890,000.00 in SC HEP grants.
@@ -210,7 +210,7 @@ RECTOR & VISITORS OF THE UNIVERSITY OF VIRGINIA 2017      215000
 University of Virginia                          2015      127285
 ```
 ---
-## VA-06
+## VA-06 -- Rep. Bob Goodlatte (R)
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -230,7 +230,7 @@ WASHINGTON AND LEE UNIVERSITY, THE 2013       91787
                                    2014        6000
 ```
 ---
-## VA-07
+## VA-07 -- Rep. David Brat (R)
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -249,7 +249,7 @@ UNIVERSITY OF RICHMOND 2012      720168
                        2014      439500
 ```
 ---
-## VA-08
+## VA-08 -- Rep. Donald Beyer (D)
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -296,7 +296,7 @@ YALE UNIVERSITY                    2012       85591
                                    2013      -82437
 ```
 ---
-## VA-09
+## VA-09 -- Rep. H. Griffith (R)
 ### HEP Grants
 ```
 In the past 5 years, this district has received:  $3,040,000.00 in SC HEP grants.
@@ -324,7 +324,7 @@ VIRGINIA POLYTECHNIC INSTITUTE & STATE UNIVER     2012     4214882
 VIRGINIA POLYTECHNIC INSTITUTE & STATE UNIVERSITY 2017       20000
 ```
 ---
-## VA-10
+## VA-10 -- Rep. Barbara Comstock (R)
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -344,7 +344,7 @@ Institution                      Year
 THE GEORGE WASHINGTON UNIVERSITY 2012     1520000
 ```
 ---
-## VA-11
+## VA-11 -- Rep. Gerald Connolly (D)
 ### HEP Grants
 ```
 In the past 5 years, this district has received:  $5,000.00 in SC HEP grants.

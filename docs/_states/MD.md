@@ -3,7 +3,7 @@ permalink : /states/MD/
 ---
 
 [Home]({{ site.url }})
-# MD
+# MD -- Sen. Benjamin Cardin (D) and  Sen. Chris Van Hollen (D)
 ## HEP Grants
 ```
 In the past 5 years, this state has received  34  HEP grants, totalling  $11,007,000.00
@@ -55,7 +55,7 @@ and  11  other institutions.
 ```
 ---
 ---
-## MD-01
+## MD-01 -- Rep. Andy Harris (R)
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -73,7 +73,7 @@ BROOKFIELD RELOCATION INC 2016              77750
 This district received no NSF MPS grants from 2012-2016
 ```
 ---
-## MD-02
+## MD-02 -- Rep. C. Ruppersberger (D)
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -103,7 +103,7 @@ TOP-TIER TECHNOLOGIES, INC.    2015            7444.00
 This district received no NSF MPS grants from 2012-2016
 ```
 ---
-## MD-03
+## MD-03 -- Rep. John Sarbanes (D)
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -127,7 +127,7 @@ TOWSON UNIVERSITY                       2012      158348
 UNIVERSITY OF MARYLAND BALTIMORE COUNTY 2013      450221
 ```
 ---
-## MD-04
+## MD-04 -- Rep. Anthony Brown (D)
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -156,7 +156,7 @@ WYNNEWOOD TECHNOLOGIES INCORPORATED        2013          -59393.89
 This district received no NSF MPS grants from 2012-2016
 ```
 ---
-## MD-05
+## MD-05 -- Rep. Steny Hoyer (D)
 ### HEP Grants
 ```
 In the past 5 years, this district has received:  $10,857,000.00 in SC HEP grants.
@@ -203,7 +203,7 @@ UNIVERSITY OF MARYLAND                       2012    17539593
                                              2017       25000
 ```
 ---
-## MD-06
+## MD-06 -- Rep. John Delaney (D)
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -272,7 +272,7 @@ Institution                                  Year
 TEMPLE UNIVERSITY-OF THE COMMONWEALTH SYSTEM 2013       55000
 ```
 ---
-## MD-07
+## MD-07 -- Rep. Elijah Cummings (D)
 ### HEP Grants
 ```
 In the past 5 years, this district has received:  $150,000.00 in SC HEP grants.
@@ -311,7 +311,7 @@ UNIVERSITY OF MARYLAND BALTIMORE COUNTY 2012      230860
                                         2014      369043
 ```
 ---
-## MD-08
+## MD-08 -- Rep. Jamie Raskin (D)
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016

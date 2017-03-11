@@ -3,7 +3,7 @@ permalink : /states/CA/
 ---
 
 [Home]({{ site.url }})
-# CA
+# CA -- Sen. Dianne Feinstein (D) and  Sen. Kamala Harris (D)
 ## HEP Grants
 ```
 In the past 5 years, this state has received  195  HEP grants, totalling  $117,050,598.71
@@ -60,7 +60,7 @@ and  87  other institutions.
 ```
 ---
 ---
-## CA-01
+## CA-01 -- Rep. Doug LaMalfa (R)
 ### HEP Grants
 ```
 In the past 5 years, this district has received:  $4,697,000.00 in SC HEP grants.
@@ -86,7 +86,7 @@ UNIVERSITY OF CALIFORNIA, DAVIS 2012     8102699
                                 2014      212180
 ```
 ---
-## CA-02
+## CA-02 -- Rep. Jared Huffman (D)
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -106,7 +106,7 @@ CSU CHICO RESEARCH FOUNDATION                2012      107534
 HUMBOLDT STATE UNIVERSITY SPONSORED PROGRAMS 2013      103132
 ```
 ---
-## CA-03
+## CA-03 -- Rep. John Garamendi (D)
 ### HEP Grants
 ```
 In the past 5 years, this district has received:  $6,782,000.00 in SC HEP grants.
@@ -131,7 +131,7 @@ UNIVERSITY OF CALIFORNIA, DAVIS 2013     5051141
                                 2017      390000
 ```
 ---
-## CA-04
+## CA-04 -- Rep. Tom McClintock (R)
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -148,7 +148,7 @@ Institution    Year
 U of Cal Davis 2015       10000
 ```
 ---
-## CA-05
+## CA-05 -- Rep. Mike Thompson (D)
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -166,7 +166,7 @@ CALIFORNIA STATE UNIVERSITY 2013      100000
                             2014      310000
 ```
 ---
-## CA-06
+## CA-06 -- Rep. Doris Matsui (D)
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -184,7 +184,7 @@ CALIFORNIA STATE UNIVERSITY 2012      100000
 SETI INSTITUTE              2012       96379
 ```
 ---
-## CA-07
+## CA-07 -- Rep. Ami Bera (D)
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -198,7 +198,7 @@ This district received no SC contracts from 2012-2017
 This district received no NSF MPS grants from 2012-2016
 ```
 ---
-## CA-08
+## CA-08 -- Rep. Paul Cook (R)
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -220,7 +220,7 @@ UNIVERSITY OF CALIFORNIA, SAN FRANCISCO 2012     -124113
 UNIVERSITY OF SAN FRANCISCO INC         2012       68617
 ```
 ---
-## CA-09
+## CA-09 -- Rep. Jerry McNerney (D)
 ### HEP Grants
 ```
 In the past 5 years, this district has received:  $866,000.00 in SC HEP grants.
@@ -256,7 +256,7 @@ UNIVERSITY OF PACIFIC                        2013      934500
 UNIVERSITY OF SOUTHERN CALIFORNIA            2012        5835
 ```
 ---
-## CA-10
+## CA-10 -- Rep. Jeff Denham (R)
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -270,7 +270,7 @@ This district received no SC contracts from 2012-2017
 This district received no NSF MPS grants from 2012-2016
 ```
 ---
-## CA-11
+## CA-11 -- Rep. Mark DeSaulnier (D)
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -287,7 +287,7 @@ Institution           Year
 UNIVERSITY OF PACIFIC 2012      180000
 ```
 ---
-## CA-12
+## CA-12 -- Rep. Nancy Pelosi (D)
 ### HEP Grants
 ```
 In the past 5 years, this district has received:  $385,000.00 in SC HEP grants.
@@ -311,7 +311,7 @@ UNIVERSITY OF SAN FRANCISCO INC         2013      163985
 UNIVERSITY OF WASHINGTON                2014       20000
 ```
 ---
-## CA-13
+## CA-13 -- Rep. Barbara Lee (D)
 ### HEP Grants
 ```
 In the past 5 years, this district has received:  $509,000.00 in SC HEP grants.
@@ -361,7 +361,7 @@ U of Cal Berkeley                             2015      370655
 UNIVERSITY OF WISCONSIN SYSTEM                2013       29999
 ```
 ---
-## CA-14
+## CA-14 -- Rep. Jackie Speier (D)
 ### HEP Grants
 ```
 In the past 5 years, this district has received:  $4,503,000.00 in SC HEP grants.
@@ -399,7 +399,7 @@ SRI International                      2015       85889
 San Francisco State Univ               2015     -100213
 ```
 ---
-## CA-15
+## CA-15 -- Rep. Eric Swalwell (D)
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -420,7 +420,7 @@ CALIFORNIA STATE UNIVERSITY EAST BAY FOUNDATI 2013      109141
 PRESIDENT AND BOARD OF TRUSTEES OF SANTA CLAR 2012       39015
 ```
 ---
-## CA-16
+## CA-16 -- Rep. Jim Costa (D)
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -440,7 +440,7 @@ UNIVERSITY OF CALIFORNIA MERCED               2013     1241709
                                               2014     1375568
 ```
 ---
-## CA-17
+## CA-17 -- Rep. Ro Khanna (D)
 ### HEP Grants
 ```
 In the past 5 years, this district has received:  $5,381,000.00 in SC HEP grants.
@@ -466,7 +466,7 @@ UNIVERSITY OF CALIFORNIA, SANTA CRUZ          2012     4733020
                                               2013      444009
 ```
 ---
-## CA-18
+## CA-18 -- Rep. Anna Eshoo (D)
 ### HEP Grants
 ```
 In the past 5 years, this district has received:  $4,945,000.00 in SC HEP grants.
@@ -510,7 +510,7 @@ UNIVERSITY OF CALIFORNIA MERCED               2012      943694
 UNIVERSITY OF CALIFORNIA, MERCED              2012      114985
 ```
 ---
-## CA-19
+## CA-19 -- Rep. Zoe Lofgren (D)
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -524,7 +524,7 @@ This district received no SC contracts from 2012-2017
 This district received no NSF MPS grants from 2012-2016
 ```
 ---
-## CA-20
+## CA-20 -- Rep. Jimmy Panetta (D)
 ### HEP Grants
 ```
 In the past 5 years, this district has received:  $7,616,903.00 in SC HEP grants.
@@ -552,7 +552,7 @@ UNIVERSITY OF CALIFORNIA, SANTA CRUZ          2013     4852576
                                               2017      378743
 ```
 ---
-## CA-21
+## CA-21 -- Rep. David Valadao (R)
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -571,7 +571,7 @@ CALIFORNIA STATE UNIVERSITY FRESNO FOUNDATION 2012      307441
 MULTIPLE RECIPIENTS                           2013       89000
 ```
 ---
-## CA-22
+## CA-22 -- Rep. Devin Nunes (R)
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -590,7 +590,7 @@ CALIFORNIA STATE UNIVERSITY FRESNO FOUNDATION 2013      137537
 CALIFORNIA STATE UNIVERSITY, BAKERSFIELD      2012      269594
 ```
 ---
-## CA-23
+## CA-23 -- Rep. Kevin McCarthy (R)
 ### HEP Grants
 ```
 In the past 5 years, this district has received:  $4,747,000.00 in SC HEP grants.
@@ -614,7 +614,7 @@ UNIVERSITY OF CALIFORNIA, SANTA BARBARA       2012    15457351
 WESTMONT COLLEGE                              2012       25000
 ```
 ---
-## CA-24
+## CA-24 -- Rep. Salud Carbajal (D)
 ### HEP Grants
 ```
 In the past 5 years, this district has received:  $7,516,695.71 in SC HEP grants.
@@ -645,7 +645,7 @@ WESTMONT COLLEGE                              2013       50000
                                               2014       25000
 ```
 ---
-## CA-25
+## CA-25 -- Rep. Steve Knight (R)
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -659,7 +659,7 @@ This district received no SC contracts from 2012-2017
 This district received no NSF MPS grants from 2012-2016
 ```
 ---
-## CA-26
+## CA-26 -- Rep. Julia Brownley (D)
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -687,7 +687,7 @@ PITZER COLLEGE                               2012      136983
 POMONA COLLEGE                               2012       56236
 ```
 ---
-## CA-27
+## CA-27 -- Rep. Judy Chu (D)
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -721,7 +721,7 @@ UNIVERSITY CORPORATION, THE             2012      792000
 UNIVERSITY OF CALIFORNIA, SANTA BARBARA 2012      443864
 ```
 ---
-## CA-28
+## CA-28 -- Rep. Adam Schiff (D)
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -739,7 +739,7 @@ CEDARS-SINAI MEDICAL CENTER 2013      182522
 LOS ANGELES CITY COLLEGE    2013      226253
 ```
 ---
-## CA-29
+## CA-29 -- Rep. Tony Cárdenas (D)
 ### HEP Grants
 ```
 In the past 5 years, this district has received:  $21,245,000.00 in SC HEP grants.
@@ -765,7 +765,7 @@ CALIFORNIA INSTITUTE OF TECHNOLOGY 2012    73326225
 MULTIPLE RECIPIENTS                2012      474000
 ```
 ---
-## CA-30
+## CA-30 -- Rep. Brad Sherman (D)
 ### HEP Grants
 ```
 In the past 5 years, this district has received:  $8,728,000.00 in SC HEP grants.
@@ -789,7 +789,7 @@ UNIVERSITY OF CALIFORNIA, LOS ANGELES 2012    16848326
                                       2013       80300
 ```
 ---
-## CA-31
+## CA-31 -- Rep. Pete Aguilar (D)
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -808,7 +808,7 @@ OCCIDENTAL COLLEGE                          2012      256000
 UNIVERSITY ENTERPRISES CORPORATION AT CSUSB 2013      871578
 ```
 ---
-## CA-32
+## CA-32 -- Rep. Grace Napolitano (D)
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -825,7 +825,7 @@ Institution                                   Year
 CALIFORNIA STATE UNIVERSITY AUXILIARY SERVICE 2012     1178134
 ```
 ---
-## CA-33
+## CA-33 -- Rep. Ted Lieu (D)
 ### HEP Grants
 ```
 In the past 5 years, this district has received:  $11,895,000.00 in SC HEP grants.
@@ -859,7 +859,7 @@ UNIVERSITY OF SOUTHERN CALIFORNIA     2012     6652117
 UNIVERSITY OF WISCONSIN SYSTEM        2013       94708
 ```
 ---
-## CA-34
+## CA-34 Unknown Rep.
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -879,7 +879,7 @@ Occidental College                2015        7000
 UNIVERSITY OF SOUTHERN CALIFORNIA 2012      100000
 ```
 ---
-## CA-35
+## CA-35 -- Rep. Norma Torres (D)
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -898,7 +898,7 @@ CAL POLY POMONA FOUNDATION INC 2013       45288
 Cal Poly Pomona Fdn, Inc       2015       56046
 ```
 ---
-## CA-36
+## CA-36 -- Rep. Raul Ruiz (D)
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -912,7 +912,7 @@ This district received no SC contracts from 2012-2017
 This district received no NSF MPS grants from 2012-2016
 ```
 ---
-## CA-37
+## CA-37 -- Rep. Karen Bass (D)
 ### HEP Grants
 ```
 In the past 5 years, this district has received:  $1,120,000.00 in SC HEP grants.
@@ -939,7 +939,7 @@ UNIVERSITY OF SOUTHERN CALIFORNIA 2013     1806707
                                   2014     1059480
 ```
 ---
-## CA-38
+## CA-38 -- Rep. Linda Sánchez (D)
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -959,7 +959,7 @@ Institution                    Year
 CAL POLY POMONA FOUNDATION INC 2012       37077
 ```
 ---
-## CA-39
+## CA-39 -- Rep. Edward Royce (R)
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -978,7 +978,7 @@ CSU FULLERTON AUXILIARY SERVICES CORPORATION 2014     1034154
                                              2017       25493
 ```
 ---
-## CA-40
+## CA-40 -- Rep. Lucille Roybal-Allard (D)
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -995,7 +995,7 @@ Institution                            Year
 CALIFORNIA STATE UNIVERSITY, FULLERTON 2012      157688
 ```
 ---
-## CA-41
+## CA-41 -- Rep. Mark Takano (D)
 ### HEP Grants
 ```
 In the past 5 years, this district has received:  $3,213,000.00 in SC HEP grants.
@@ -1021,7 +1021,7 @@ REGENTS OF THE UNIVERSITY OF CALIFORNIA AT RIVE... 2017      159444
 UNIVERSITY ENTERPRISES CORPORATION AT CSUSB        2012      739209
 ```
 ---
-## CA-42
+## CA-42 -- Rep. Ken Calvert (R)
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -1035,7 +1035,7 @@ This district received no SC contracts from 2012-2017
 This district received no NSF MPS grants from 2012-2016
 ```
 ---
-## CA-43
+## CA-43 -- Rep. Maxine Waters (D)
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -1052,7 +1052,7 @@ Institution                     Year
 LOYOLA MARYMOUNT UNIVERSITY INC 2014       55466
 ```
 ---
-## CA-44
+## CA-44 -- Rep. Nanette Barragán (D)
 ### HEP Grants
 ```
 In the past 5 years, this district has received:  $2,573,000.00 in SC HEP grants.
@@ -1082,7 +1082,7 @@ REGENTS OF THE UNIVERSITY OF CALIFORNIA AT RI 2012     5408849
 U of Cal Riverside                            2015      110000
 ```
 ---
-## CA-45
+## CA-45 -- Rep. Mimi Walters (R)
 ### HEP Grants
 ```
 In the past 5 years, this district has received:  $7,418,000.00 in SC HEP grants.
@@ -1106,7 +1106,7 @@ UNIVERSITY OF CALIFORNIA, IRVINE 2013     7457002
                                  2014    12964163
 ```
 ---
-## CA-46
+## CA-46 -- Rep. J. Correa (D)
 ### HEP Grants
 ```
 In the past 5 years, this district has received:  $40,000.00 in SC HEP grants.
@@ -1129,7 +1129,7 @@ CALIFORNIA STATE UNIVERSITY, LONG BEACH RESEA 2013       80001
 CHAPMAN UNIVERSITY                            2013       39553
 ```
 ---
-## CA-47
+## CA-47 -- Rep. Alan Lowenthal (D)
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -1153,7 +1153,7 @@ CALIFORNIA STATE UNIVERSITY, LONG BEACH RESEA 2013      333504
 Cal State U Long Beach Fdn                    2015      125000
 ```
 ---
-## CA-48
+## CA-48 -- Rep. Dana Rohrabacher (R)
 ### HEP Grants
 ```
 In the past 5 years, this district has received:  $4,925,000.00 in SC HEP grants.
@@ -1180,7 +1180,7 @@ UNIVERSITY OF CALIFORNIA, IRVINE              2012    12924563
 UNIVERSITY OF CALIFORNIA, LOS ANGELES         2012       16908
 ```
 ---
-## CA-49
+## CA-49 -- Rep. Darrell Issa (R)
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -1202,7 +1202,7 @@ UNIVERSITY OF CALIFORNIA, SAN DIEGO 2013    12589685
                                     2014    11945082
 ```
 ---
-## CA-50
+## CA-50 -- Rep. Duncan Hunter (R)
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -1219,7 +1219,7 @@ Institution       Year
 SCIBERQUEST, INC. 2012       55000
 ```
 ---
-## CA-51
+## CA-51 -- Rep. Juan Vargas (D)
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -1233,7 +1233,7 @@ This district received no SC contracts from 2012-2017
 This district received no NSF MPS grants from 2012-2016
 ```
 ---
-## CA-52
+## CA-52 -- Rep. Scott Peters (D)
 ### HEP Grants
 ```
 In the past 5 years, this district has received:  $4,875,000.00 in SC HEP grants.
@@ -1263,7 +1263,7 @@ UNIVERSITY OF CALIFORNIA, SAN DIEGO 2013      609264
 UNIVERSITY OF SAN DIEGO             2013      451293
 ```
 ---
-## CA-53
+## CA-53 -- Rep. Susan Davis (D)
 ### HEP Grants
 ```
 In the past 5 years, this district has received:  $3,070,000.00 in SC HEP grants.

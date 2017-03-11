@@ -3,7 +3,7 @@ permalink : /states/WA/
 ---
 
 [Home]({{ site.url }})
-# WA
+# WA -- Sen. Maria Cantwell (D) and  Sen. Patty Murray (D)
 ## HEP Grants
 ```
 In the past 5 years, this state has received  27  HEP grants, totalling  $12,476,000.00
@@ -50,7 +50,7 @@ and  7  other institutions.
 ```
 ---
 ---
-## WA-01
+## WA-01 -- Rep. Suzan DelBene (D)
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -72,7 +72,7 @@ Institution     Year
 U of Washington 2015      246941
 ```
 ---
-## WA-02
+## WA-02 -- Rep. Rick Larsen (D)
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -91,7 +91,7 @@ WESTERN WASHINGTON UNIVERSITY 2012      951730
                               2014     1368549
 ```
 ---
-## WA-03
+## WA-03 -- Rep. Jaime Herrera Beutler (R)
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -105,7 +105,7 @@ This district received no SC contracts from 2012-2017
 This district received no NSF MPS grants from 2012-2016
 ```
 ---
-## WA-04
+## WA-04 -- Rep. Dan Newhouse (R)
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -137,7 +137,7 @@ SOUTH CAROLINA RESEARCH FOUNDATION 2012        5000
 WASHINGTON STATE UNIVERSITY        2014      151170
 ```
 ---
-## WA-05
+## WA-05 -- Rep. Cathy McMorris Rodgers (R)
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -163,7 +163,7 @@ WASHINGTON STATE UNIVERSITY           2012     5187408
 WHITMAN COLLEGE, INC                  2012       80000
 ```
 ---
-## WA-06
+## WA-06 -- Rep. Derek Kilmer (D)
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -181,7 +181,7 @@ UNIVERSITY OF PUGET SOUND, THE 2013      197157
                                2014       33830
 ```
 ---
-## WA-07
+## WA-07 -- Rep. Pramila Jayapal (D)
 ### HEP Grants
 ```
 In the past 5 years, this district has received:  $12,476,000.00 in SC HEP grants.
@@ -216,7 +216,7 @@ UNIVERSITY OF WASHINGTON               2012    23932208
                                        2017      129163
 ```
 ---
-## WA-08
+## WA-08 -- Rep. David Reichert (R)
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -235,7 +235,7 @@ CENTRAL WASHINGTON UNIVERSITY INC 2013      175735
 Central Washington Univ           2015       75281
 ```
 ---
-## WA-09
+## WA-09 -- Rep. Adam Smith (D)
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -253,7 +253,7 @@ SEATTLE UNIVERSITY 2013      343438
 Seattle University 2015      279997
 ```
 ---
-## WA-10
+## WA-10 -- Rep. Denny Heck (D)
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016

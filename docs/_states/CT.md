@@ -3,7 +3,7 @@ permalink : /states/CT/
 ---
 
 [Home]({{ site.url }})
-# CT
+# CT -- Sen. Richard Blumenthal (D) and  Sen. Christopher Murphy (D)
 ## HEP Grants
 ```
 In the past 5 years, this state has received  36  HEP grants, totalling  $15,384,000.00
@@ -40,7 +40,7 @@ and  1  other institutions.
 ```
 ---
 ---
-## CT-01
+## CT-01 -- Rep. John Larson (D)
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -57,7 +57,7 @@ Institution     Year
 TRINITY COLLEGE 2014      105772
 ```
 ---
-## CT-02
+## CT-02 -- Rep. Joe Courtney (D)
 ### HEP Grants
 ```
 In the past 5 years, this district has received:  $1,504,000.00 in SC HEP grants.
@@ -85,7 +85,7 @@ UNIVERSITY OF CONNECTICUT 2012     2280926
 Univ of Connecticut       2015      682323
 ```
 ---
-## CT-03
+## CT-03 -- Rep. Rosa DeLauro (D)
 ### HEP Grants
 ```
 In the past 5 years, this district has received:  $13,849,000.00 in SC HEP grants.
@@ -120,7 +120,7 @@ YALE UNIVERSITY                2012     8006138
 Yale University                2015      463319
 ```
 ---
-## CT-04
+## CT-04 -- Rep. James Himes (D)
 ### HEP Grants
 ```
 In the past 5 years, this district has received:  $31,000.00 in SC HEP grants.
@@ -142,7 +142,7 @@ FAIRFIELD UNIVERSITY 2012       90580
                      2014      428500
 ```
 ---
-## CT-05
+## CT-05 -- Rep. Elizabeth Esty (D)
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016

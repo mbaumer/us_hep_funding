@@ -3,7 +3,7 @@ permalink : /states/MS/
 ---
 
 [Home]({{ site.url }})
-# MS
+# MS -- Sen. Thad Cochran (R) and  Sen. Roger Wicker (R)
 ## HEP Grants
 ```
 In the past 5 years, this state has received  7  HEP grants, totalling  $1,525,000.00
@@ -35,7 +35,7 @@ U of Southern Mississippi                 4000
 ```
 ---
 ---
-## MS-01
+## MS-01 -- Rep. Trent Kelly (R)
 ### HEP Grants
 ```
 In the past 5 years, this district has received:  $1,525,000.00 in SC HEP grants.
@@ -61,7 +61,7 @@ UNIVERSITY OF MISSISSIPPI 2012      897398
                           2014      273038
 ```
 ---
-## MS-02
+## MS-02 -- Rep. Bennie Thompson (D)
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -80,7 +80,7 @@ JACKSON STATE UNIVERSITY 2012      620114
                          2014       41174
 ```
 ---
-## MS-03
+## MS-03 -- Rep. Gregg Harper (R)
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -101,7 +101,7 @@ MISSISSIPPI STATE UNIVERSITY 2012      709845
 Mississippi State Univ       2015      139255
 ```
 ---
-## MS-04
+## MS-04 -- Rep. Steven Palazzo (R)
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016

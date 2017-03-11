@@ -3,7 +3,7 @@ permalink : /states/SC/
 ---
 
 [Home]({{ site.url }})
-# SC
+# SC -- Sen. Lindsey Graham (R) and  Sen. Tim Scott (R)
 ## HEP Grants
 ```
 In the past 5 years, this state has received  12  HEP grants, totalling  $2,271,000.00
@@ -45,7 +45,7 @@ and  4  other institutions.
 ```
 ---
 ---
-## SC-01
+## SC-01 -- Rep. Marshall Sanford (R)
 ### HEP Grants
 ```
 In the past 5 years, this district has received:  $23,000.00 in SC HEP grants.
@@ -68,7 +68,7 @@ College of Charleston                2015       72607
 MEDICAL UNIVERSITY OF SOUTH CAROLINA 2012      158334
 ```
 ---
-## SC-02
+## SC-02 -- Rep. Joe Wilson (R)
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -82,7 +82,7 @@ This district received no SC contracts from 2012-2017
 This district received no NSF MPS grants from 2012-2016
 ```
 ---
-## SC-03
+## SC-03 -- Rep. Jeff Duncan (R)
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -106,7 +106,7 @@ Clemson University                     2015      320002
 SPELMAN COLLEGE                        2012       28709
 ```
 ---
-## SC-04
+## SC-04 -- Rep. Trey Gowdy (R)
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -125,7 +125,7 @@ FURMAN UNIVERSITY 2012      199199
                   2014      300000
 ```
 ---
-## SC-05
+## SC-05 Unknown Rep.
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -146,7 +146,7 @@ COKER COLLEGE       2012      144213
 WINTHROP UNIVERSITY 2014      291438
 ```
 ---
-## SC-06
+## SC-06 -- Rep. James Clyburn (D)
 ### HEP Grants
 ```
 In the past 5 years, this district has received:  $2,248,000.00 in SC HEP grants.
@@ -178,7 +178,7 @@ UNIVERSITY OF SOUTH CAROLINA         2013     3330308
                                      2017      425835
 ```
 ---
-## SC-07
+## SC-07 -- Rep. Tom Rice (R)
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016

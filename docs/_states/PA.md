@@ -3,7 +3,7 @@ permalink : /states/PA/
 ---
 
 [Home]({{ site.url }})
-# PA
+# PA -- Sen. Robert Casey (D) and  Sen. Patrick Toomey (R)
 ## HEP Grants
 ```
 In the past 5 years, this state has received  63  HEP grants, totalling  $32,644,000.00
@@ -59,7 +59,7 @@ and  37  other institutions.
 ```
 ---
 ---
-## PA-01
+## PA-01 -- Rep. Robert Brady (D)
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -89,7 +89,7 @@ TEMPLE UNIVERSITY-OF THE COMMONWEALTH SYSTEM 2012     3649694
                                              2013      243497
 ```
 ---
-## PA-02
+## PA-02 -- Rep. Dwight Evans (D)
 ### HEP Grants
 ```
 In the past 5 years, this district has received:  $18,667,000.00 in SC HEP grants.
@@ -158,7 +158,7 @@ UNIVERSITY OF THE SCIENCES IN PHILADELPHIA         2012      328000
                                                    2013      153000
 ```
 ---
-## PA-03
+## PA-03 -- Rep. Mike Kelly (R)
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -175,7 +175,7 @@ Institution       Year
 ALLEGHENY COLLEGE 2013      231312
 ```
 ---
-## PA-04
+## PA-04 -- Rep. Scott Perry (R)
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -195,7 +195,7 @@ MATERIALS RESEARCH SOCIETY                   2012      108000
 MINERALS, METALS AND MATERIALS SOCIETY, INC. 2012       25000
 ```
 ---
-## PA-05
+## PA-05 -- Rep. Glenn Thompson (R)
 ### HEP Grants
 ```
 In the past 5 years, this district has received:  $1,179,000.00 in SC HEP grants.
@@ -224,7 +224,7 @@ PENNSYLVANIA STATE UNIVERSITY, THE 2012    16202310
                                    2017      480612
 ```
 ---
-## PA-06
+## PA-06 -- Rep. Ryan Costello (R)
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -249,7 +249,7 @@ Ursinus College                         2015     -184935
 WEST CHESTER UNIVERSITY OF PENNSYLVANIA 2013       50000
 ```
 ---
-## PA-07
+## PA-07 -- Rep. Patrick Meehan (R)
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -270,7 +270,7 @@ VILLANOVA UNIVERSITY IN THE STATE OF PENNSYLV 2012      320543
                                               2014       25000
 ```
 ---
-## PA-08
+## PA-08 -- Rep. Brian Fitzpatrick (R)
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -284,7 +284,7 @@ This district received no SC contracts from 2012-2017
 This district received no NSF MPS grants from 2012-2016
 ```
 ---
-## PA-09
+## PA-09 -- Rep. Bill Shuster (R)
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -301,7 +301,7 @@ Institution                        Year
 PENNSYLVANIA STATE UNIVERSITY, THE 2014      320000
 ```
 ---
-## PA-10
+## PA-10 -- Rep. Tom Marino (R)
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -322,7 +322,7 @@ SUSQUEHANNA UNIVERSITY 2012       50000
                        2013       50000
 ```
 ---
-## PA-11
+## PA-11 -- Rep. Lou Barletta (R)
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -339,7 +339,7 @@ Institution       Year
 DICKINSON COLLEGE 2014      217583
 ```
 ---
-## PA-12
+## PA-12 -- Rep. Keith Rothfus (R)
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -359,7 +359,7 @@ Materials Res Society              2015      114706
 PENNSYLVANIA STATE UNIVERSITY, THE 2013      300000
 ```
 ---
-## PA-13
+## PA-13 -- Rep. Brendan Boyle (D)
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -373,7 +373,7 @@ This district received no SC contracts from 2012-2017
 This district received no NSF MPS grants from 2012-2016
 ```
 ---
-## PA-14
+## PA-14 -- Rep. Michael Doyle (D)
 ### HEP Grants
 ```
 In the past 5 years, this district has received:  $12,798,000.00 in SC HEP grants.
@@ -421,7 +421,7 @@ UNIVERSITY OF PITTSBURGH THE           2012     5421363
                                        2017      641600
 ```
 ---
-## PA-15
+## PA-15 -- Rep. Charles Dent (R)
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -448,7 +448,7 @@ Lehigh University                   2015      139387
 MUHLENBERG COLLEGE                  2013       54000
 ```
 ---
-## PA-16
+## PA-16 -- Rep. Lloyd Smucker (R)
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -469,7 +469,7 @@ FRANKLIN AND MARSHALL COLLEGE           2012      264566
 WEST CHESTER UNIVERSITY OF PENNSYLVANIA 2012      104000
 ```
 ---
-## PA-17
+## PA-17 -- Rep. Matthew Cartwright (D)
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -488,7 +488,7 @@ LAFAYETTE COLLEGE      2013       76928
 LEBANON VALLEY COLLEGE 2012      137000
 ```
 ---
-## PA-18
+## PA-18 -- Rep. Tim Murphy (R)
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016

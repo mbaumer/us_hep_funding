@@ -3,7 +3,7 @@ permalink : /states/IA/
 ---
 
 [Home]({{ site.url }})
-# IA
+# IA -- Sen. Joni Ernst (R) and  Sen. Charles Grassley (R)
 ## HEP Grants
 ```
 In the past 5 years, this state has received  32  HEP grants, totalling  $7,160,000.00
@@ -48,7 +48,7 @@ DORDT COLLEGE, INCORPORATED                         55685
 ```
 ---
 ---
-## IA-01
+## IA-01 -- Rep. Rod Blum (R)
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -69,7 +69,7 @@ UNIVERSITY OF NORTHERN IOWA 2012       90000
                             2014       74014
 ```
 ---
-## IA-02
+## IA-02 -- Rep. David Loebsack (D)
 ### HEP Grants
 ```
 In the past 5 years, this district has received:  $2,594,000.00 in SC HEP grants.
@@ -98,7 +98,7 @@ UNIVERSITY OF IOWA, THE 2012     3586232
 University of Iowa      2015      231500
 ```
 ---
-## IA-03
+## IA-03 -- Rep. David Young (R)
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -120,7 +120,7 @@ DRAKE UNIVERSITY 2012      175151
                  2014       90000
 ```
 ---
-## IA-04
+## IA-04 -- Rep. Steve King (R)
 ### HEP Grants
 ```
 In the past 5 years, this district has received:  $4,566,000.00 in SC HEP grants.

@@ -3,7 +3,7 @@ permalink : /states/WI/
 ---
 
 [Home]({{ site.url }})
-# WI
+# WI -- Sen. Tammy Baldwin (D) and  Sen. Ron Johnson (R)
 ## HEP Grants
 ```
 In the past 5 years, this state has received  11  HEP grants, totalling  $14,718,000.00
@@ -44,7 +44,7 @@ U of Wisconsin Madison                          -124443
 ```
 ---
 ---
-## WI-01
+## WI-01 -- Rep. Paul Ryan (R)
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -62,7 +62,7 @@ CARTHAGE COLLEGE 2012      105645
                  2014       43700
 ```
 ---
-## WI-02
+## WI-02 -- Rep. Mark Pocan (D)
 ### HEP Grants
 ```
 In the past 5 years, this district has received:  $14,268,000.00 in SC HEP grants.
@@ -96,7 +96,7 @@ UNIVERSITY OF WISCONSIN SYSTEM              2012    31237699
                                             2017      239892
 ```
 ---
-## WI-03
+## WI-03 -- Rep. Ron Kind (D)
 ### HEP Grants
 ```
 In the past 5 years, this district has received:  $450,000.00 in SC HEP grants.
@@ -122,7 +122,7 @@ UNIVERSITY OF WISCONSIN SYSTEM 2012      479811
                                2017       28279
 ```
 ---
-## WI-04
+## WI-04 -- Rep. Gwen Moore (D)
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -146,7 +146,7 @@ UNIVERSITY OF WISCONSIN SYSTEM 2012     3268554
                                2014     3086622
 ```
 ---
-## WI-05
+## WI-05 -- Rep. F. Sensenbrenner (R)
 ### HEP Grants
 ```
 In the past 5 years, this district has received:  $2,479,000.00 in SC HEP grants.
@@ -167,7 +167,7 @@ MEDICAL COLLEGE OF WISCONSIN, INC., THE 2012       89765
                                         2014           0
 ```
 ---
-## WI-06
+## WI-06 -- Rep. Glenn Grothman (R)
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -184,7 +184,7 @@ Institution   Year
 RIPON COLLEGE 2014      237383
 ```
 ---
-## WI-07
+## WI-07 -- Rep. Sean Duffy (R)
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -201,7 +201,7 @@ Institution                Year
 U of Wisconsin River Falls 2015       75018
 ```
 ---
-## WI-08
+## WI-08 -- Rep. Mike Gallagher (R)
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016

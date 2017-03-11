@@ -3,7 +3,7 @@ permalink : /states/OR/
 ---
 
 [Home]({{ site.url }})
-# OR
+# OR -- Sen. Jeff Merkley (D) and  Sen. Ron Wyden (D)
 ## HEP Grants
 ```
 In the past 5 years, this state has received  21  HEP grants, totalling  $5,783,000.00
@@ -40,7 +40,7 @@ and  4  other institutions.
 ```
 ---
 ---
-## OR-01
+## OR-01 -- Rep. Suzanne Bonamici (D)
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -60,7 +60,7 @@ PORTLAND STATE UNIVERSITY 2012      201086
                           2013       29212
 ```
 ---
-## OR-02
+## OR-02 -- Rep. Greg Walden (R)
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -74,7 +74,7 @@ This district received no SC contracts from 2012-2017
 This district received no NSF MPS grants from 2012-2016
 ```
 ---
-## OR-03
+## OR-03 -- Rep. Earl Blumenauer (D)
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -95,7 +95,7 @@ PORTLAND STATE UNIVERSITY          2013      674000
 REED INSTITUTE, THE                2014      172146
 ```
 ---
-## OR-04
+## OR-04 -- Rep. Peter DeFazio (D)
 ### HEP Grants
 ```
 In the past 5 years, this district has received:  $5,783,000.00 in SC HEP grants.
@@ -127,7 +127,7 @@ UNIVERSITY OF OREGON    2012     3533958
                         2017      360000
 ```
 ---
-## OR-05
+## OR-05 -- Rep. Kurt Schrader (D)
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016

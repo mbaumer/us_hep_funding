@@ -3,7 +3,7 @@ permalink : /states/AR/
 ---
 
 [Home]({{ site.url }})
-# AR
+# AR -- Sen. John Boozman (R) and  Sen. Tom Cotton (R)
 ## HEP Grants
 ```
 This state received no SC HEP grants from 2012-2016
@@ -29,7 +29,7 @@ ARKANSAS STATE UNIVERSITY            34000
 ```
 ---
 ---
-## AR-01
+## AR-01 -- Rep. Eric Crawford (R)
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -46,7 +46,7 @@ Institution               Year
 ARKANSAS STATE UNIVERSITY 2012       34000
 ```
 ---
-## AR-02
+## AR-02 -- Rep. French Hill (R)
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -68,7 +68,7 @@ UNIVERSITY OF ARKANSAS SYSTEM  2012      419056
 UNIVERSITY OF CENTRAL ARKANSAS 2013       95000
 ```
 ---
-## AR-03
+## AR-03 -- Rep. Steve Womack (R)
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -89,7 +89,7 @@ UNIVERSITY OF ARKANSAS SYSTEM 2012     1225843
                               2017       77606
 ```
 ---
-## AR-04
+## AR-04 -- Rep. Bruce Westerman (R)
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016

@@ -3,7 +3,7 @@ permalink : /states/SD/
 ---
 
 [Home]({{ site.url }})
-# SD
+# SD -- Sen. Mike Rounds (R) and  Sen. John Thune (R)
 ## HEP Grants
 ```
 In the past 5 years, this state has received  6  HEP grants, totalling  $804,477.00
@@ -36,7 +36,7 @@ Dakota State Univ                               12000
 ```
 ---
 ---
-## SD-00
+## SD-00 -- Rep. Kristi Noem (R)
 ### HEP Grants
 ```
 In the past 5 years, this district has received:  $804,477.00 in SC HEP grants.

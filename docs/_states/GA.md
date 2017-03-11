@@ -3,7 +3,7 @@ permalink : /states/GA/
 ---
 
 [Home]({{ site.url }})
-# GA
+# GA -- Sen. John Isakson (R) and  Sen. David Perdue (R)
 ## HEP Grants
 ```
 This state received no SC HEP grants from 2012-2016
@@ -42,7 +42,7 @@ and  11  other institutions.
 ```
 ---
 ---
-## GA-01
+## GA-01 -- Rep. Buddy Carter (R)
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -59,7 +59,7 @@ Institution         Year
 BUCKNELL UNIVERSITY 2013      105000
 ```
 ---
-## GA-02
+## GA-02 -- Rep. Sanford Bishop (D)
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -73,7 +73,7 @@ This district received no SC contracts from 2012-2017
 This district received no NSF MPS grants from 2012-2016
 ```
 ---
-## GA-03
+## GA-03 -- Rep. A. Ferguson (R)
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -91,7 +91,7 @@ UNIVERSITY OF WEST GEORGIA 2013      229699
                            2014      340019
 ```
 ---
-## GA-04
+## GA-04 -- Rep. Henry Johnson (D)
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -112,7 +112,7 @@ EMORY UNIVERSITY          2012      634559
 Emory University          2015      108000
 ```
 ---
-## GA-05
+## GA-05 -- Rep. John Lewis (D)
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -149,7 +149,7 @@ MULTIPLE RECIPIENTS                           2013      450000
 SPELMAN COLLEGE                               2013      550000
 ```
 ---
-## GA-06
+## GA-06 Unknown Rep.
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -163,7 +163,7 @@ This district received no SC contracts from 2012-2017
 This district received no NSF MPS grants from 2012-2016
 ```
 ---
-## GA-07
+## GA-07 -- Rep. Rob Woodall (R)
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -184,7 +184,7 @@ NEXTEL SOUTH CORP             2012           13000.00
 This district received no NSF MPS grants from 2012-2016
 ```
 ---
-## GA-08
+## GA-08 -- Rep. Austin Scott (R)
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -198,7 +198,7 @@ This district received no SC contracts from 2012-2017
 This district received no NSF MPS grants from 2012-2016
 ```
 ---
-## GA-09
+## GA-09 -- Rep. Doug Collins (R)
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -215,7 +215,7 @@ Institution                 Year
 UNIVERSITY OF NORTH GEORGIA 2014       86469
 ```
 ---
-## GA-10
+## GA-10 -- Rep. Jody Hice (R)
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -235,7 +235,7 @@ UNIVERSITY OF GEORGIA RESEARCH FOUNDATION, IN 2012     2411143
                                               2014     4364261
 ```
 ---
-## GA-11
+## GA-11 -- Rep. Barry Loudermilk (R)
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -256,7 +256,7 @@ Institution                                   Year
 KENNESAW STATE UNIVERSITY  RESEARCH AND SERVI 2012      120000
 ```
 ---
-## GA-12
+## GA-12 -- Rep. Rick Allen (R)
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -278,7 +278,7 @@ Ga. Southern Univ. R&S Fdn                    2015      122997
 SAVANNAH STATE UNIVERSITY                     2012      547229
 ```
 ---
-## GA-13
+## GA-13 -- Rep. David Scott (D)
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -292,7 +292,7 @@ This district received no SC contracts from 2012-2017
 This district received no NSF MPS grants from 2012-2016
 ```
 ---
-## GA-14
+## GA-14 -- Rep. Tom Graves (R)
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016

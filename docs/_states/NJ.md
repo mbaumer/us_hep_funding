@@ -3,7 +3,7 @@ permalink : /states/NJ/
 ---
 
 [Home]({{ site.url }})
-# NJ
+# NJ -- Sen. Cory Booker (D) and  Sen. Robert Menéndez (D)
 ## HEP Grants
 ```
 In the past 5 years, this state has received  37  HEP grants, totalling  $18,251,895.00
@@ -58,7 +58,7 @@ and  5  other institutions.
 ```
 ---
 ---
-## NJ-01
+## NJ-01 -- Rep. Donald Norcross (D)
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -78,7 +78,7 @@ ROWAN UNIVERSITY                            2012       93075
 RUTGERS, THE STATE UNIVERSITY OF NEW JERSEY 2012      161500
 ```
 ---
-## NJ-02
+## NJ-02 -- Rep. Frank LoBiondo (R)
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -95,7 +95,7 @@ DOSZKOCS, TAMAS ENDRE 2012              24000
 This district received no NSF MPS grants from 2012-2016
 ```
 ---
-## NJ-03
+## NJ-03 -- Rep. Tom MacArthur (R)
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -109,7 +109,7 @@ This district received no SC contracts from 2012-2017
 This district received no NSF MPS grants from 2012-2016
 ```
 ---
-## NJ-04
+## NJ-04 -- Rep. Christopher Smith (R)
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -123,7 +123,7 @@ This district received no SC contracts from 2012-2017
 This district received no NSF MPS grants from 2012-2016
 ```
 ---
-## NJ-05
+## NJ-05 -- Rep. Josh Gottheimer (D)
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -137,7 +137,7 @@ This district received no SC contracts from 2012-2017
 This district received no NSF MPS grants from 2012-2016
 ```
 ---
-## NJ-06
+## NJ-06 -- Rep. Frank Pallone (D)
 ### HEP Grants
 ```
 In the past 5 years, this district has received:  $3,257,000.00 in SC HEP grants.
@@ -172,7 +172,7 @@ RUTGERS, THE STATE UNIVERSITY OF NEW JERSEY 2012    11759202
 Rutgers Univ New Brunswick                  2015       31891
 ```
 ---
-## NJ-07
+## NJ-07 -- Rep. Leonard Lance (R)
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -186,7 +186,7 @@ This district received no SC contracts from 2012-2017
 This district received no NSF MPS grants from 2012-2016
 ```
 ---
-## NJ-08
+## NJ-08 -- Rep. Albio Sires (D)
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -211,7 +211,7 @@ STEVENS INSTITUTE OF TECHNOLOGY (INC)         2013      990567
                                               2014      332328
 ```
 ---
-## NJ-09
+## NJ-09 -- Rep. Bill Pascrell (D)
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -229,7 +229,7 @@ SPRINGER SCIENCE + BUSINESS MEDIA, LLC 2012              57618
 This district received no NSF MPS grants from 2012-2016
 ```
 ---
-## NJ-10
+## NJ-10 -- Rep. Donald Payne (D)
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -253,7 +253,7 @@ RUTGERS, THE STATE UNIVERSITY OF NEW JERSEY 2012      814777
 SETON HALL UNIVERSITY                       2014        7000
 ```
 ---
-## NJ-11
+## NJ-11 -- Rep. Rodney Frelinghuysen (R)
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -272,7 +272,7 @@ MONTCLAIR STATE UNIVERSITY STUDENT GOVERNMENT      2013      126000
 MONTCLAIR STATE UNIVERSITY STUDENT GOVERNMENT A... 2017       57453
 ```
 ---
-## NJ-12
+## NJ-12 -- Rep. Bonnie Watson Coleman (D)
 ### HEP Grants
 ```
 In the past 5 years, this district has received:  $14,994,895.00 in SC HEP grants.

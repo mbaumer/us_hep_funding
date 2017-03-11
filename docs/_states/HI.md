@@ -3,7 +3,7 @@ permalink : /states/HI/
 ---
 
 [Home]({{ site.url }})
-# HI
+# HI -- Sen. Mazie Hirono (D) and  Sen. Brian Schatz (D)
 ## HEP Grants
 ```
 In the past 5 years, this state has received  17  HEP grants, totalling  $9,112,000.00
@@ -33,7 +33,7 @@ CALIFORNIA ASSOCIATION FOR RESEARCH IN ASTRONOMY           0
 ```
 ---
 ---
-## HI-01
+## HI-01 -- Rep. Colleen Hanabusa (D)
 ### HEP Grants
 ```
 In the past 5 years, this district has received:  $5,215,000.00 in SC HEP grants.
@@ -57,7 +57,7 @@ UNIVERSITY OF HAWAII SYSTEMS 2012     5649430
                              2014     2890047
 ```
 ---
-## HI-02
+## HI-02 -- Rep. Tulsi Gabbard (D)
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016

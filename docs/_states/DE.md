@@ -3,7 +3,7 @@ permalink : /states/DE/
 ---
 
 [Home]({{ site.url }})
-# DE
+# DE -- Sen. Thomas Carper (D) and  Sen. Chris Coons (D)
 ## HEP Grants
 ```
 In the past 5 years, this state has received  6  HEP grants, totalling  $1,443,824.79
@@ -33,7 +33,7 @@ HENRY FRANCIS DUPONT WINTERTHUR MUSEUM, INC.,        3000
 ```
 ---
 ---
-## DE-00
+## DE-00 -- Rep. Lisa Blunt Rochester (D)
 ### HEP Grants
 ```
 In the past 5 years, this district has received:  $1,443,824.79 in SC HEP grants.

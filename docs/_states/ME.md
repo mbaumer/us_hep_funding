@@ -3,7 +3,7 @@ permalink : /states/ME/
 ---
 
 [Home]({{ site.url }})
-# ME
+# ME -- Sen. Susan Collins (R) and  Sen. Angus King (I)
 ## HEP Grants
 ```
 This state received no SC HEP grants from 2012-2016
@@ -27,7 +27,7 @@ Bowdoin College                            106000
 ```
 ---
 ---
-## ME-01
+## ME-01 -- Rep. Chellie Pingree (D)
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -50,7 +50,7 @@ COLBY COLLEGE             2013      378670
 UNIVERSITY OF NEW ENGLAND 2013      417785
 ```
 ---
-## ME-02
+## ME-02 -- Rep. Bruce Poliquin (R)
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016

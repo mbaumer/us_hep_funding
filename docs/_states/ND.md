@@ -3,7 +3,7 @@ permalink : /states/ND/
 ---
 
 [Home]({{ site.url }})
-# ND
+# ND -- Sen. John Hoeven (R) and  Sen. Heidi Heitkamp (D)
 ## HEP Grants
 ```
 This state received no SC HEP grants from 2012-2016
@@ -28,7 +28,7 @@ UNIVERSITY OF NORTH DAKOTA    2012      140000
 ```
 ---
 ---
-## ND-00
+## ND-00 -- Rep. Kevin Cramer (R)
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016

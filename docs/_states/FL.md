@@ -3,7 +3,7 @@ permalink : /states/FL/
 ---
 
 [Home]({{ site.url }})
-# FL
+# FL -- Sen. Bill Nelson (D) and  Sen. Marco Rubio (R)
 ## HEP Grants
 ```
 In the past 5 years, this state has received  68  HEP grants, totalling  $25,900,999.45
@@ -52,7 +52,7 @@ and  15  other institutions.
 ```
 ---
 ---
-## FL-01
+## FL-01 -- Rep. Matt Gaetz (R)
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -66,7 +66,7 @@ This district received no SC contracts from 2012-2017
 This district received no NSF MPS grants from 2012-2016
 ```
 ---
-## FL-02
+## FL-02 -- Rep. Neal Dunn (R)
 ### HEP Grants
 ```
 In the past 5 years, this district has received:  $12,527,999.45 in SC HEP grants.
@@ -101,7 +101,7 @@ LOUISIANA STATE UNIVERSITY SYSTEM           2014      203000
 RUTGERS, THE STATE UNIVERSITY OF NEW JERSEY 2012      180000
 ```
 ---
-## FL-03
+## FL-03 -- Rep. Ted Yoho (R)
 ### HEP Grants
 ```
 In the past 5 years, this district has received:  $7,639,000.00 in SC HEP grants.
@@ -126,7 +126,7 @@ UNIVERSITY OF FLORIDA 2013     6904259
 University of Florida 2015      354639
 ```
 ---
-## FL-04
+## FL-04 -- Rep. John Rutherford (R)
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -144,7 +144,7 @@ UNIVERSITY OF NORTH FLORIDA      2012        7500
 UNIVERSITY OF NORTH FLORIDA, THE 2014      407491
 ```
 ---
-## FL-05
+## FL-05 -- Rep. Al Lawson (D)
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -161,7 +161,7 @@ Institution                   Year
 FLORIDA STATE UNIVERSITY, THE 2017           0
 ```
 ---
-## FL-06
+## FL-06 -- Rep. Ron DeSantis (R)
 ### HEP Grants
 ```
 In the past 5 years, this district has received:  $4,654,000.00 in SC HEP grants.
@@ -184,7 +184,7 @@ EMBRY-RIDDLE AERONAUTICAL UNIVERSITY INC 2013      365197
 UNIVERSITY OF FLORIDA                    2012     8068148
 ```
 ---
-## FL-07
+## FL-07 -- Rep. Stephanie Murphy (D)
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -203,7 +203,7 @@ UNIVERSITY OF CENTRAL FLORIDA 2013     1474709
                               2014     1199868
 ```
 ---
-## FL-08
+## FL-08 -- Rep. Bill Posey (R)
 ### HEP Grants
 ```
 In the past 5 years, this district has received:  $781,000.00 in SC HEP grants.
@@ -228,7 +228,7 @@ FLORIDA INSTITUTE OF TECHNOLOGY, INC. 2013      354763
 Florida Institute of Tech             2015       86189
 ```
 ---
-## FL-09
+## FL-09 -- Rep. Darren Soto (D)
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -242,7 +242,7 @@ This district received no SC contracts from 2012-2017
 This district received no NSF MPS grants from 2012-2016
 ```
 ---
-## FL-10
+## FL-10 -- Rep. Val Demings (D)
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -259,7 +259,7 @@ Institution          Year
 ECKERD COLLEGE, INC. 2012      107255
 ```
 ---
-## FL-11
+## FL-11 -- Rep. Daniel Webster (R)
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -277,7 +277,7 @@ UNIVERSITY OF SOUTH FLORIDA 2012     1863871
                             2013       20000
 ```
 ---
-## FL-12
+## FL-12 -- Rep. Gus Bilirakis (R)
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -291,7 +291,7 @@ This district received no SC contracts from 2012-2017
 This district received no NSF MPS grants from 2012-2016
 ```
 ---
-## FL-13
+## FL-13 -- Rep. Charlie Crist (D)
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -305,7 +305,7 @@ This district received no SC contracts from 2012-2017
 This district received no NSF MPS grants from 2012-2016
 ```
 ---
-## FL-14
+## FL-14 -- Rep. Kathy Castor (D)
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -322,7 +322,7 @@ Institution                 Year
 UNIVERSITY OF SOUTH FLORIDA 2017           0
 ```
 ---
-## FL-15
+## FL-15 -- Rep. Dennis Ross (R)
 ### HEP Grants
 ```
 In the past 5 years, this district has received:  $299,000.00 in SC HEP grants.
@@ -347,7 +347,7 @@ UNIVERSITY OF SOUTH FLORIDA           2013      885488
                                       2014     1598059
 ```
 ---
-## FL-16
+## FL-16 -- Rep. Vern Buchanan (R)
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -367,7 +367,7 @@ Institution            Year
 NEW COLLEGE OF FLORIDA 2014      244153
 ```
 ---
-## FL-17
+## FL-17 -- Rep. Thomas Rooney (R)
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -385,7 +385,7 @@ UNIVERSITY OF MIAMI 2012      288741
                     2013       40431
 ```
 ---
-## FL-18
+## FL-18 -- Rep. Brian Mast (R)
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -402,7 +402,7 @@ Institution         Year
 UNIVERSITY OF MIAMI 2012     1502164
 ```
 ---
-## FL-19
+## FL-19 -- Rep. Francis Rooney (R)
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -420,7 +420,7 @@ FLORIDA ATLANTIC UNIVERSITY 2012       45000
 Florida Gulf Coast Univ     2015       30000
 ```
 ---
-## FL-20
+## FL-20 -- Rep. Alcee Hastings (D)
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -437,7 +437,7 @@ Institution         Year
 UNIVERSITY OF MIAMI 2012       40000
 ```
 ---
-## FL-21
+## FL-21 -- Rep. Lois Frankel (D)
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -457,7 +457,7 @@ Institution                      Year
 FLORIDA INTERNATIONAL UNIVERSITY 2012     1558838
 ```
 ---
-## FL-22
+## FL-22 -- Rep. Theodore Deutch (D)
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -480,7 +480,7 @@ FLORIDA ATLANTIC UNIVERSITY 2012       30000
 Florida Atlantic Univ       2015       45565
 ```
 ---
-## FL-23
+## FL-23 -- Rep. Debbie Wasserman Schultz (D)
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -494,7 +494,7 @@ This district received no SC contracts from 2012-2017
 This district received no NSF MPS grants from 2012-2016
 ```
 ---
-## FL-24
+## FL-24 -- Rep. Frederica Wilson (D)
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -514,7 +514,7 @@ UNIVERSITY OF MIAMI           2013      139999
                               2014     -139999
 ```
 ---
-## FL-25
+## FL-25 -- Rep. Mario Diaz-Balart (R)
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -532,7 +532,7 @@ FLORIDA INTERNATIONAL UNIVERSITY 2013      103086
                                  2014      534626
 ```
 ---
-## FL-26
+## FL-26 -- Rep. Carlos Curbelo (R)
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -555,7 +555,7 @@ FLORIDA INTERNATIONAL UNIVERSITY 2013      986059
 Florida International Univ       2015      126125
 ```
 ---
-## FL-27
+## FL-27 -- Rep. Ileana Ros-Lehtinen (R)
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016

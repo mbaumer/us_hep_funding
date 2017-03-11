@@ -3,7 +3,7 @@ permalink : /states/IN/
 ---
 
 [Home]({{ site.url }})
-# IN
+# IN -- Sen. Joe Donnelly (D) and  Sen. Todd Young (R)
 ## HEP Grants
 ```
 In the past 5 years, this state has received  25  HEP grants, totalling  $16,970,000.00
@@ -44,7 +44,7 @@ and  5  other institutions.
 ```
 ---
 ---
-## IN-01
+## IN-01 -- Rep. Peter Visclosky (D)
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -64,7 +64,7 @@ PURDUE UNIVERSITY                          2013      100000
 Valparaiso University                      2015       93336
 ```
 ---
-## IN-02
+## IN-02 -- Rep. Jackie Walorski (R)
 ### HEP Grants
 ```
 In the past 5 years, this district has received:  $0.00 in SC HEP grants.
@@ -91,7 +91,7 @@ UNIVERSITY OF NOTRE DAME DU LAC 2012    12104510
 University of Notre Dame        2015      599544
 ```
 ---
-## IN-03
+## IN-03 -- Rep. Jim Banks (R)
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -108,7 +108,7 @@ Institution       Year
 PURDUE UNIVERSITY 2012      279775
 ```
 ---
-## IN-04
+## IN-04 -- Rep. Todd Rokita (R)
 ### HEP Grants
 ```
 In the past 5 years, this district has received:  $6,543,000.00 in SC HEP grants.
@@ -138,7 +138,7 @@ Purdue University 2015      233939
 WABASH COLLEGE    2012      112897
 ```
 ---
-## IN-05
+## IN-05 -- Rep. Susan Brooks (R)
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -158,7 +158,7 @@ INDIANA WESLEYAN UNIVERSITY 2012      130000
 TAYLOR UNIVERSITY, INC.     2012       90000
 ```
 ---
-## IN-06
+## IN-06 -- Rep. Luke Messer (R)
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -172,7 +172,7 @@ This district received no SC contracts from 2012-2017
 This district received no NSF MPS grants from 2012-2016
 ```
 ---
-## IN-07
+## IN-07 -- Rep. André Carson (D)
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -196,7 +196,7 @@ TRUSTEES OF INDIANA UNIVERSITY 2012     1056002
                                2014     1247709
 ```
 ---
-## IN-08
+## IN-08 -- Rep. Larry Bucshon (R)
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -213,7 +213,7 @@ Institution       Year
 DEPAUW UNIVERSITY 2012       47345
 ```
 ---
-## IN-09
+## IN-09 -- Rep. Trey Hollingsworth (R)
 ### HEP Grants
 ```
 In the past 5 years, this district has received:  $10,427,000.00 in SC HEP grants.

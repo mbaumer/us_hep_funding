@@ -3,7 +3,7 @@ permalink : /states/MO/
 ---
 
 [Home]({{ site.url }})
-# MO
+# MO -- Sen. Roy Blunt (R) and  Sen. Claire McCaskill (D)
 ## HEP Grants
 ```
 In the past 5 years, this state has received  7  HEP grants, totalling  $3,273,000.00
@@ -47,7 +47,7 @@ and  1  other institutions.
 ```
 ---
 ---
-## MO-01
+## MO-01 -- Rep. Wm. Clay (D)
 ### HEP Grants
 ```
 In the past 5 years, this district has received:  $1,587,000.00 in SC HEP grants.
@@ -82,7 +82,7 @@ WASHINGTON UNIVERSITY, THE     2013     1964604
 Washington University          2015      -29584
 ```
 ---
-## MO-02
+## MO-02 -- Rep. Ann Wagner (R)
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -101,7 +101,7 @@ AFTERMARKET TECHNOLOGIES, INC. 2013            5095.75
 This district received no NSF MPS grants from 2012-2016
 ```
 ---
-## MO-03
+## MO-03 -- Rep. Blaine Luetkemeyer (R)
 ### HEP Grants
 ```
 In the past 5 years, this district has received:  $1,686,000.00 in SC HEP grants.
@@ -122,7 +122,7 @@ Institution                Year
 WASHINGTON UNIVERSITY, THE 2012     3390066
 ```
 ---
-## MO-04
+## MO-04 -- Rep. Vicky Hartzler (R)
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -141,7 +141,7 @@ UNIVERSITY OF MISSOURI SYSTEM 2013     1443419
                               2014     1186526
 ```
 ---
-## MO-05
+## MO-05 -- Rep. Emanuel Cleaver (D)
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -162,7 +162,7 @@ UNIVERSITY OF MISSOURI SYSTEM 2012      278533
                               2013      345000
 ```
 ---
-## MO-06
+## MO-06 -- Rep. Sam Graves (R)
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -183,7 +183,7 @@ TRUMAN STATE UNIVERSITY             2013        3312
                                     2014        3537
 ```
 ---
-## MO-07
+## MO-07 -- Rep. Billy Long (R)
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -202,7 +202,7 @@ MISSOURI STATE UNIVERSITY 2012      246414
                           2014      109567
 ```
 ---
-## MO-08
+## MO-08 -- Rep. Jason Smith (R)
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016

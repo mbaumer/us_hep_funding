@@ -3,7 +3,7 @@ permalink : /states/WV/
 ---
 
 [Home]({{ site.url }})
-# WV
+# WV -- Sen. Shelley Capito (R) and  Sen. Joe Manchin (D)
 ## HEP Grants
 ```
 This state received no SC HEP grants from 2012-2016
@@ -26,7 +26,7 @@ WV Univ Research Corp                         2015     1114918
 ```
 ---
 ---
-## WV-01
+## WV-01 -- Rep. David McKinley (R)
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -46,7 +46,7 @@ WEST VIRGINIA UNIVERSITY RESEARCH CORPORATION 2012     2258269
 WV Univ Research Corp                         2015     1114918
 ```
 ---
-## WV-02
+## WV-02 -- Rep. Alex Mooney (R)
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -60,7 +60,7 @@ This district received no SC contracts from 2012-2017
 This district received no NSF MPS grants from 2012-2016
 ```
 ---
-## WV-03
+## WV-03 -- Rep. Evan Jenkins (R)
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016

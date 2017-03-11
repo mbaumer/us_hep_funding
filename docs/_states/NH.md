@@ -3,7 +3,7 @@ permalink : /states/NH/
 ---
 
 [Home]({{ site.url }})
-# NH
+# NH -- Sen. Margaret Hassan (D) and  Sen. Jeanne Shaheen (D)
 ## HEP Grants
 ```
 In the past 5 years, this state has received  4  HEP grants, totalling  $915,000.00
@@ -38,7 +38,7 @@ RUTGERS, THE STATE UNIVERSITY OF NEW JERSEY       16376
 ```
 ---
 ---
-## NH-01
+## NH-01 -- Rep. Carol Shea-Porter (D)
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -60,7 +60,7 @@ UNIVERSITY SYSTEM OF NEW HAMPSHIRE 2012     1542799
                                    2014      726064
 ```
 ---
-## NH-02
+## NH-02 -- Rep. Ann Kuster (D)
 ### HEP Grants
 ```
 In the past 5 years, this district has received:  $915,000.00 in SC HEP grants.

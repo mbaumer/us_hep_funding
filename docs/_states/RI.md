@@ -3,7 +3,7 @@ permalink : /states/RI/
 ---
 
 [Home]({{ site.url }})
-# RI
+# RI -- Sen. John Reed (D) and  Sen. Sheldon Whitehouse (D)
 ## HEP Grants
 ```
 In the past 5 years, this state has received  13  HEP grants, totalling  $9,880,000.00
@@ -40,7 +40,7 @@ and  1  other institutions.
 ```
 ---
 ---
-## RI-01
+## RI-01 -- Rep. David Cicilline (D)
 ### HEP Grants
 ```
 In the past 5 years, this district has received:  $9,880,000.00 in SC HEP grants.
@@ -73,7 +73,7 @@ GORDON RESEARCH CONFERENCES INC               2012       20000
 TRUSTEES OF THE UNIVERSITY OF PENNSYLVANIA    2012      230000
 ```
 ---
-## RI-02
+## RI-02 -- Rep. James Langevin (D)
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016

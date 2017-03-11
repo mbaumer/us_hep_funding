@@ -3,7 +3,7 @@ permalink : /states/CO/
 ---
 
 [Home]({{ site.url }})
-# CO
+# CO -- Sen. Michael Bennet (D) and  Sen. Cory Gardner (R)
 ## HEP Grants
 ```
 In the past 5 years, this state has received  49  HEP grants, totalling  $15,089,000.00
@@ -60,7 +60,7 @@ and  8  other institutions.
 ```
 ---
 ---
-## CO-01
+## CO-01 -- Rep. Diana DeGette (D)
 ### HEP Grants
 ```
 In the past 5 years, this district has received:  $1,690,000.00 in SC HEP grants.
@@ -93,7 +93,7 @@ REGIS UNIVERSITY                           2012       44000
                                            2013       54000
 ```
 ---
-## CO-02
+## CO-02 -- Rep. Jared Polis (D)
 ### HEP Grants
 ```
 In the past 5 years, this district has received:  $11,350,000.00 in SC HEP grants.
@@ -140,7 +140,7 @@ UNIVERSITY OF TOLEDO, THE                     2013        4744
 University of Montana                         2015       22200
 ```
 ---
-## CO-03
+## CO-03 -- Rep. Scott Tipton (R)
 ### HEP Grants
 ```
 In the past 5 years, this district has received:  $37,000.00 in SC HEP grants.
@@ -166,7 +166,7 @@ FRONT RANGE SCIENTIFIC COMPUTATION INC 2012       49928
                                        2014       34998
 ```
 ---
-## CO-04
+## CO-04 -- Rep. Ken Buck (R)
 ### HEP Grants
 ```
 In the past 5 years, this district has received:  $2,012,000.00 in SC HEP grants.
@@ -192,7 +192,7 @@ UNIVERSITY OF NORTHERN COLORADO 2012      120000
                                 2014      363136
 ```
 ---
-## CO-05
+## CO-05 -- Rep. Doug Lamborn (R)
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -214,7 +214,7 @@ REGENTS OF THE UNIVERSITY OF COLORADO, THE 2012      300000
                                            2014      354043
 ```
 ---
-## CO-06
+## CO-06 -- Rep. Mike Coffman (R)
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -233,7 +233,7 @@ REGENTS OF THE UNIVERSITY OF COLORADO, THE 2013      113344
 U of Colorado Denver                       2015      420000
 ```
 ---
-## CO-07
+## CO-07 -- Rep. Ed Perlmutter (D)
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016

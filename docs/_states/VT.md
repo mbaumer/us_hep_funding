@@ -3,7 +3,7 @@ permalink : /states/VT/
 ---
 
 [Home]({{ site.url }})
-# VT
+# VT -- Sen. Patrick Leahy (D) and  Sen. Bernard Sanders (I)
 ## HEP Grants
 ```
 This state received no SC HEP grants from 2012-2016
@@ -26,7 +26,7 @@ UNIVERSITY OF VERMONT & STATE AGRICULTURAL CO 2012     1629793
 ```
 ---
 ---
-## VT-00
+## VT-00 -- Rep. Peter Welch (D)
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016

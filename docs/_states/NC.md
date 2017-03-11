@@ -3,7 +3,7 @@ permalink : /states/NC/
 ---
 
 [Home]({{ site.url }})
-# NC
+# NC -- Sen. Richard Burr (R) and  Sen. Thom Tillis (R)
 ## HEP Grants
 ```
 In the past 5 years, this state has received  20  HEP grants, totalling  $7,112,000.00
@@ -47,7 +47,7 @@ and  9  other institutions.
 ```
 ---
 ---
-## NC-01
+## NC-01 -- Rep. George Butterfield (D)
 ### HEP Grants
 ```
 In the past 5 years, this district has received:  $4,896,000.00 in SC HEP grants.
@@ -73,7 +73,7 @@ Duke University                 2015      244266
 ELIZABETH CITY STATE UNIVERSITY 2013      237423
 ```
 ---
-## NC-02
+## NC-02 -- Rep. George Holding (R)
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -90,7 +90,7 @@ Institution                     Year
 NORTH CAROLINA STATE UNIVERSITY 2012      180000
 ```
 ---
-## NC-03
+## NC-03 -- Rep. Walter Jones (R)
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -109,7 +109,7 @@ UNIVERSITY OF NORTH CAROLINA AT WILMINGTON 2013      151244
                                            2014       30000
 ```
 ---
-## NC-04
+## NC-04 -- Rep. David Price (D)
 ### HEP Grants
 ```
 In the past 5 years, this district has received:  $2,216,000.00 in SC HEP grants.
@@ -151,7 +151,7 @@ UNIVERSITY OF NORTH CAROLINA AT CHAPEL HILL 2012    12419066
 UNIVERSITY OF OKLAHOMA                      2014       31000
 ```
 ---
-## NC-05
+## NC-05 -- Rep. Virginia Foxx (R)
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -174,7 +174,7 @@ WAKE FOREST UNIVERSITY       2012      253517
 Wake Forest University       2015      258354
 ```
 ---
-## NC-06
+## NC-06 -- Rep. Mark Walker (R)
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -192,7 +192,7 @@ UNIVERSITY OF NORTH CAROLINA AT GREENSBORO 2013      267782
                                            2014       47468
 ```
 ---
-## NC-07
+## NC-07 -- Rep. David Rouzer (R)
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -211,7 +211,7 @@ UNIVERSITY OF NORTH CAROLINA AT WILMINGTON 2012       78004
                                            2017      253683
 ```
 ---
-## NC-08
+## NC-08 -- Rep. Richard Hudson (R)
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -228,7 +228,7 @@ CLEMENTS BERNARD MILLER PLLC 2012                  0
 This district received no NSF MPS grants from 2012-2016
 ```
 ---
-## NC-09
+## NC-09 -- Rep. Robert Pittenger (R)
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -242,7 +242,7 @@ This district received no SC contracts from 2012-2017
 This district received no NSF MPS grants from 2012-2016
 ```
 ---
-## NC-10
+## NC-10 -- Rep. Patrick McHenry (R)
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -259,7 +259,7 @@ Institution                               Year
 UNIVERSITY OF NORTH CAROLINA AT ASHEVILLE 2013       82500
 ```
 ---
-## NC-11
+## NC-11 -- Rep. Mark Meadows (R)
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -276,7 +276,7 @@ Institution                               Year
 UNIVERSITY OF NORTH CAROLINA AT ASHEVILLE 2012      197272
 ```
 ---
-## NC-12
+## NC-12 -- Rep. Alma Adams (D)
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -306,7 +306,7 @@ UNIVERSITY OF NORTH CAROLINA AT GREENSBORO    2013       42000
 WAKE FOREST UNIVERSITY                        2012       41958
 ```
 ---
-## NC-13
+## NC-13 -- Rep. Ted Budd (R)
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016

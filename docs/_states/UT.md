@@ -3,7 +3,7 @@ permalink : /states/UT/
 ---
 
 [Home]({{ site.url }})
-# UT
+# UT -- Sen. Orrin Hatch (R) and  Sen. Mike Lee (R)
 ## HEP Grants
 ```
 In the past 5 years, this state has received  15  HEP grants, totalling  $2,375,000.00
@@ -42,7 +42,7 @@ Brigham Young University       24000
 ```
 ---
 ---
-## UT-01
+## UT-01 -- Rep. Rob Bishop (R)
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -65,7 +65,7 @@ UTAH STATE UNIVERSITY 2012      107800
 Utah State University 2015       92014
 ```
 ---
-## UT-02
+## UT-02 -- Rep. Chris Stewart (R)
 ### HEP Grants
 ```
 In the past 5 years, this district has received:  $2,375,000.00 in SC HEP grants.
@@ -94,7 +94,7 @@ UNIVERSITY OF UTAH, THE 2012    10668783
 University of Utah      2015     1094035
 ```
 ---
-## UT-03
+## UT-03 -- Rep. Jason Chaffetz (R)
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -114,7 +114,7 @@ BRIGHAM YOUNG UNIVERSITY 2012     2278835
 Brigham Young University 2015       24000
 ```
 ---
-## UT-04
+## UT-04 -- Rep. Mia Love (R)
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
