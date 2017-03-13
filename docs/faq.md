@@ -20,7 +20,7 @@ In the US, HEP research is primarily funded by two scientific agencies, the **De
 ### Why can't I see just Office of High-Energy Physics contracts, or just HEP-specific NSF MPS grants?
 
 Raw datasets published by government agencies can be--*ahem*--tricky to work with. There's missing data, inconsistent entries, and broad categories that can obscure trends of interest in the data. For example, DOE Office of Science contracts don't specify which sub-office funded them, making it impossible to display only DOE contracts from the Office of High Energy Physics. NSF Grants, similarly, aren't categorized more specifically than "Mathematical and Physical Sciences." 
-As mentioned above, Office of Science contracts mainly support the national laboratory system, which is critical for HEP research, and Congressional budget authority does not extend below the NSF directorate level, 
+As mentioned above, Office of Science contracts mainly support the national laboratory system, which is critical for HEP research, and Congressional budget authority does not extend below the NSF directorate level, so MPS grants are relevant to Congressional advocacy.
 
 ### Why aren't NSF contracts included?
 
