@@ -1,4 +1,6 @@
 ---
+title : IN
+layout : datapage
 permalink : /states/IN/
 ---
 <a name="top"></a>

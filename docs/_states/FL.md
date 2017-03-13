@@ -1,4 +1,6 @@
 ---
+title : FL
+layout : datapage
 permalink : /states/FL/
 ---
 <a name="top"></a>

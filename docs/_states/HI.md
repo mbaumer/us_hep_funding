@@ -1,4 +1,6 @@
 ---
+title : HI
+layout : datapage
 permalink : /states/HI/
 ---
 <a name="top"></a>

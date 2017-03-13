@@ -1,4 +1,6 @@
 ---
+title : MI
+layout : datapage
 permalink : /states/MI/
 ---
 <a name="top"></a>

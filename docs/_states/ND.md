@@ -1,4 +1,6 @@
 ---
+title : ND
+layout : datapage
 permalink : /states/ND/
 ---
 <a name="top"></a>

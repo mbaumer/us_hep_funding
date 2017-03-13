@@ -1,4 +1,6 @@
 ---
+title : IA
+layout : datapage
 permalink : /states/IA/
 ---
 <a name="top"></a>

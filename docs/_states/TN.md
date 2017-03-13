@@ -1,4 +1,6 @@
 ---
+title : TN
+layout : datapage
 permalink : /states/TN/
 ---
 <a name="top"></a>

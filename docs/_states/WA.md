@@ -1,4 +1,6 @@
 ---
+title : WA
+layout : datapage
 permalink : /states/WA/
 ---
 <a name="top"></a>

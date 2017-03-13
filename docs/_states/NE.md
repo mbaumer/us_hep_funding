@@ -1,4 +1,6 @@
 ---
+title : NE
+layout : datapage
 permalink : /states/NE/
 ---
 <a name="top"></a>

@@ -1,4 +1,6 @@
 ---
+title : WI
+layout : datapage
 permalink : /states/WI/
 ---
 <a name="top"></a>

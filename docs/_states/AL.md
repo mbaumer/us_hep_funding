@@ -1,4 +1,6 @@
 ---
+title : AL
+layout : datapage
 permalink : /states/AL/
 ---
 <a name="top"></a>

@@ -1,4 +1,6 @@
 ---
+title : OR
+layout : datapage
 permalink : /states/OR/
 ---
 <a name="top"></a>

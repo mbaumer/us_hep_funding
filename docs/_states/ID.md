@@ -1,4 +1,6 @@
 ---
+title : ID
+layout : datapage
 permalink : /states/ID/
 ---
 <a name="top"></a>

@@ -1,4 +1,6 @@
 ---
+title : VT
+layout : datapage
 permalink : /states/VT/
 ---
 <a name="top"></a>

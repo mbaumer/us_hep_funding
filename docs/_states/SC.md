@@ -1,4 +1,6 @@
 ---
+title : SC
+layout : datapage
 permalink : /states/SC/
 ---
 <a name="top"></a>

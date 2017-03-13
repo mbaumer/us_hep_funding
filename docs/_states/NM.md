@@ -1,4 +1,6 @@
 ---
+title : NM
+layout : datapage
 permalink : /states/NM/
 ---
 <a name="top"></a>

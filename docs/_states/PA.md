@@ -1,4 +1,6 @@
 ---
+title : PA
+layout : datapage
 permalink : /states/PA/
 ---
 <a name="top"></a>

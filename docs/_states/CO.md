@@ -1,4 +1,6 @@
 ---
+title : CO
+layout : datapage
 permalink : /states/CO/
 ---
 <a name="top"></a>

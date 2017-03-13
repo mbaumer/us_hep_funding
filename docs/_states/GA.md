@@ -1,4 +1,6 @@
 ---
+title : GA
+layout : datapage
 permalink : /states/GA/
 ---
 <a name="top"></a>

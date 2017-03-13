@@ -1,4 +1,6 @@
 ---
+title : SD
+layout : datapage
 permalink : /states/SD/
 ---
 <a name="top"></a>

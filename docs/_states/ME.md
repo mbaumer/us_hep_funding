@@ -1,4 +1,6 @@
 ---
+title : ME
+layout : datapage
 permalink : /states/ME/
 ---
 <a name="top"></a>

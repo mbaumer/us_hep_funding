@@ -1,4 +1,6 @@
 ---
+title : TX
+layout : datapage
 permalink : /states/TX/
 ---
 <a name="top"></a>

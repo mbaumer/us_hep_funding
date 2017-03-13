@@ -1,4 +1,6 @@
 ---
+title : OH
+layout : datapage
 permalink : /states/OH/
 ---
 <a name="top"></a>

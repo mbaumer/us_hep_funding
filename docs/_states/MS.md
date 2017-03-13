@@ -1,4 +1,6 @@
 ---
+title : MS
+layout : datapage
 permalink : /states/MS/
 ---
 <a name="top"></a>

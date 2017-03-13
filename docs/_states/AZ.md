@@ -1,4 +1,6 @@
 ---
+title : AZ
+layout : datapage
 permalink : /states/AZ/
 ---
 <a name="top"></a>

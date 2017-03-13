@@ -1,4 +1,6 @@
 ---
+title : NJ
+layout : datapage
 permalink : /states/NJ/
 ---
 <a name="top"></a>

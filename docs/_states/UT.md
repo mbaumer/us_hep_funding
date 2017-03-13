@@ -1,4 +1,6 @@
 ---
+title : UT
+layout : datapage
 permalink : /states/UT/
 ---
 <a name="top"></a>

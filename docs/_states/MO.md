@@ -1,4 +1,6 @@
 ---
+title : MO
+layout : datapage
 permalink : /states/MO/
 ---
 <a name="top"></a>

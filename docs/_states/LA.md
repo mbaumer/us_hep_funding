@@ -1,4 +1,6 @@
 ---
+title : LA
+layout : datapage
 permalink : /states/LA/
 ---
 <a name="top"></a>

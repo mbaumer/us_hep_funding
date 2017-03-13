@@ -1,4 +1,6 @@
 ---
+title : OK
+layout : datapage
 permalink : /states/OK/
 ---
 <a name="top"></a>

@@ -1,4 +1,6 @@
 ---
+title : VA
+layout : datapage
 permalink : /states/VA/
 ---
 <a name="top"></a>

@@ -1,4 +1,6 @@
 ---
+title : MA
+layout : datapage
 permalink : /states/MA/
 ---
 <a name="top"></a>

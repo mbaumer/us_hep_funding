@@ -1,4 +1,6 @@
 ---
+title : MD
+layout : datapage
 permalink : /states/MD/
 ---
 <a name="top"></a>

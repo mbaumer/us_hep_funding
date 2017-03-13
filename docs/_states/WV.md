@@ -1,4 +1,6 @@
 ---
+title : WV
+layout : datapage
 permalink : /states/WV/
 ---
 <a name="top"></a>

@@ -1,4 +1,6 @@
 ---
+title : NV
+layout : datapage
 permalink : /states/NV/
 ---
 <a name="top"></a>

@@ -1,4 +1,6 @@
 ---
+title : NY
+layout : datapage
 permalink : /states/NY/
 ---
 <a name="top"></a>

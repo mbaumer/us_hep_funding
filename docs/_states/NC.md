@@ -1,4 +1,6 @@
 ---
+title : NC
+layout : datapage
 permalink : /states/NC/
 ---
 <a name="top"></a>

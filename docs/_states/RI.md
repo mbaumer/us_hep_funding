@@ -1,4 +1,6 @@
 ---
+title : RI
+layout : datapage
 permalink : /states/RI/
 ---
 <a name="top"></a>

@@ -1,4 +1,6 @@
 ---
+title : AK
+layout : datapage
 permalink : /states/AK/
 ---
 <a name="top"></a>

@@ -1,4 +1,6 @@
 ---
+title : MT
+layout : datapage
 permalink : /states/MT/
 ---
 <a name="top"></a>

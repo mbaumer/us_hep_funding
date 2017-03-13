@@ -1,4 +1,6 @@
 ---
+title : CT
+layout : datapage
 permalink : /states/CT/
 ---
 <a name="top"></a>

@@ -1,4 +1,6 @@
 ---
+title : MN
+layout : datapage
 permalink : /states/MN/
 ---
 <a name="top"></a>

@@ -1,4 +1,6 @@
 ---
+title : IL
+layout : datapage
 permalink : /states/IL/
 ---
 <a name="top"></a>

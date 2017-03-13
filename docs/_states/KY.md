@@ -1,4 +1,6 @@
 ---
+title : KY
+layout : datapage
 permalink : /states/KY/
 ---
 <a name="top"></a>

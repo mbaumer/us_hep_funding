@@ -1,4 +1,6 @@
 ---
+title : AR
+layout : datapage
 permalink : /states/AR/
 ---
 <a name="top"></a>

@@ -1,4 +1,6 @@
 ---
+title : KS
+layout : datapage
 permalink : /states/KS/
 ---
 <a name="top"></a>

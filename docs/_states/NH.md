@@ -1,4 +1,6 @@
 ---
+title : NH
+layout : datapage
 permalink : /states/NH/
 ---
 <a name="top"></a>

@@ -1,4 +1,6 @@
 ---
+title : CA
+layout : datapage
 permalink : /states/CA/
 ---
 <a name="top"></a>
