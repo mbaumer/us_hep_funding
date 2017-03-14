@@ -12,8 +12,9 @@ permalink : /states/MN/
 # MN -- Sen. Alan Franken (D) and  Sen. Amy Klobuchar (D)
 ## HEP Grants
 ```
-In the past 5 years, this state has received  22  HEP grants, totalling  $14,563,000.00
-Who have these grants gone to?
+In the past 5 years, this state has received:
+22 HEP grants, totalling $14,563,000.00
+ 
                                            Amount ($)
 Institution                          Year            
 UNIVERSITY OF MINNESOTA, DULUTH      2012       45000
@@ -25,8 +26,9 @@ University of Minnesota              2014     2461000
 ```
 ## SC Contracts
 ```
-In the past 5 years, this state has received  3  Office of Science contracts, totalling  $21,551.00
-Who have these contracts gone to?
+In the past 5 years, this state has received:
+3 Office of Science contracts, totalling $21,551.00
+ 
                                           Amount ($)
 vendorname                   fiscal_year            
 IDEAL SYSTEM SOLUTIONS, INC. 2014               6326
@@ -34,8 +36,9 @@ WORLD DATA PRODUCTS, INC.    2013              15225
 ```
 ## NSF MPS Grants
 ```
-In the past 5 years, this state has received  258  NSF MPS grants, totalling  $72,466,196.00
-Who have these grants gone to?
+In the past 5 years, this state has received:
+258 NSF MPS grants, totalling $72,466,196.00
+ 
                                         Amount ($)
 Institution                                       
 REGENTS OF THE UNIVERSITY OF MINNESOTA    60388362
@@ -65,7 +68,7 @@ This district received no SC contracts from 2012-2017
 ```
 ### NSF MPS Grants
 ```
-In the past 5 years, this district has received:  $241,965.00 in NSF MPS grants.
+In the past 5 years, this district has received: $241,965.00 in NSF MPS grants.
                                            Amount ($)
 Institution                          Year            
 GUSTAVUS ADOLPHUS COLLEGE            2012      190515
@@ -87,7 +90,7 @@ This district received no SC contracts from 2012-2017
 ```
 ### NSF MPS Grants
 ```
-In the past 5 years, this district has received:  $2,257,246.00 in NSF MPS grants.
+In the past 5 years, this district has received: $2,257,246.00 in NSF MPS grants.
                          Amount ($)
 Institution        Year            
 CARLETON COLLEGE   2012      537152
@@ -107,7 +110,7 @@ This district received no SC HEP grants from 2012-2016
 ```
 ### SC Contracts
 ```
-In the past 5 years, this district has received:  $21,551.00 in SC contracts.
+In the past 5 years, this district has received: $21,551.00 in SC contracts.
                                           Amount ($)
 vendorname                   fiscal_year            
 IDEAL SYSTEM SOLUTIONS, INC. 2014               6326
@@ -115,7 +118,7 @@ WORLD DATA PRODUCTS, INC.    2013              15225
 ```
 ### NSF MPS Grants
 ```
-In the past 5 years, this district has received:  $72,183.00 in NSF MPS grants.
+In the past 5 years, this district has received: $72,183.00 in NSF MPS grants.
                                        Amount ($)
 Institution                      Year            
 NORTH HENNEPIN COMMUNITY COLLEGE 2012       72183
@@ -134,7 +137,7 @@ This district received no SC contracts from 2012-2017
 ```
 ### NSF MPS Grants
 ```
-In the past 5 years, this district has received:  $2,327,663.00 in NSF MPS grants.
+In the past 5 years, this district has received: $2,327,663.00 in NSF MPS grants.
                                              Amount ($)
 Institution                            Year            
 BETHEL UNIVERSITY                      2012      230349
@@ -155,7 +158,7 @@ UNIVERSITY OF ST. THOMAS               2012      192173
 ## MN-05 -- Rep. Keith Ellison (D)
 ### HEP Grants
 ```
-In the past 5 years, this district has received:  $12,039,000.00 in SC HEP grants.
+In the past 5 years, this district has received: $12,039,000.00 in SC HEP grants.
                                            Amount ($)
 Institution                          Year            
 UNIVERSITY OF MINNESOTA, MINNEAPOLIS 2012     2956000
@@ -169,7 +172,7 @@ This district received no SC contracts from 2012-2017
 ```
 ### NSF MPS Grants
 ```
-In the past 5 years, this district has received:  $64,901,984.00 in NSF MPS grants.
+In the past 5 years, this district has received: $64,901,984.00 in NSF MPS grants.
                                              Amount ($)
 Institution                            Year            
 AUGSBURG COLLEGE                       2012      157925
@@ -194,7 +197,7 @@ This district received no SC contracts from 2012-2017
 ```
 ### NSF MPS Grants
 ```
-In the past 5 years, this district has received:  $947,119.00 in NSF MPS grants.
+In the past 5 years, this district has received: $947,119.00 in NSF MPS grants.
                                 Amount ($)
 Institution               Year            
 COLLEGE OF SAINT BENEDICT 2012       42500
@@ -225,7 +228,7 @@ This district received no NSF MPS grants from 2012-2016
 ## MN-08 -- Rep. Richard Nolan (D)
 ### HEP Grants
 ```
-In the past 5 years, this district has received:  $45,000.00 in SC HEP grants.
+In the past 5 years, this district has received: $45,000.00 in SC HEP grants.
                                       Amount ($)
 Institution                     Year            
 UNIVERSITY OF MINNESOTA, DULUTH 2012       45000
@@ -236,7 +239,7 @@ This district received no SC contracts from 2012-2017
 ```
 ### NSF MPS Grants
 ```
-In the past 5 years, this district has received:  $1,718,036.00 in NSF MPS grants.
+In the past 5 years, this district has received: $1,718,036.00 in NSF MPS grants.
                                              Amount ($)
 Institution                            Year            
 REGENTS OF THE UNIVERSITY OF MINNESOTA 2012      489270

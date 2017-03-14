@@ -12,8 +12,9 @@ permalink : /states/WA/
 # WA -- Sen. Maria Cantwell (D) and  Sen. Patty Murray (D)
 ## HEP Grants
 ```
-In the past 5 years, this state has received  27  HEP grants, totalling  $12,476,000.00
-Who have these grants gone to?
+In the past 5 years, this state has received:
+27 HEP grants, totalling $12,476,000.00
+ 
                                         Amount ($)
 Institution                       Year            
 UNIVERSITY OF WASHINGTON, SEATTLE 2012     2371000
@@ -24,8 +25,9 @@ University of Washington          2014     3046000
 ```
 ## SC Contracts
 ```
-In the past 5 years, this state has received  285  Office of Science contracts, totalling  $4,787,002,994.49
-Who have these contracts gone to?
+In the past 5 years, this state has received:
+285 Office of Science contracts, totalling $4,787,002,994.49
+ 
                                                      Amount ($)
 vendorname                                                     
 BATTELLE MEMORIAL INSTITUTE                        4.786801e+09
@@ -38,8 +40,9 @@ MICROSOFT CORPORATION SITZ IN REDMOND CORPORATION  0.000000e+00
 ```
 ## NSF MPS Grants
 ```
-In the past 5 years, this state has received  288  NSF MPS grants, totalling  $76,251,193.00
-Who have these grants gone to?
+In the past 5 years, this state has received:
+288 NSF MPS grants, totalling $76,251,193.00
+ 
                                         Amount ($)
 Institution                                       
 UNIVERSITY OF WASHINGTON                  54768722
@@ -65,7 +68,7 @@ This district received no SC HEP grants from 2012-2016
 ```
 ### SC Contracts
 ```
-In the past 5 years, this district has received:  $8,162.00 in SC contracts.
+In the past 5 years, this district has received: $8,162.00 in SC contracts.
                                                                Amount ($)
 vendorname                                        fiscal_year            
 LEVERAGE INFORMATION SYSTEMS, INC.                2015               8162
@@ -74,7 +77,7 @@ MICROSOFT CORPORATION SITZ IN REDMOND CORPORATION 2014              10000
 ```
 ### NSF MPS Grants
 ```
-In the past 5 years, this district has received:  $246,941.00 in NSF MPS grants.
+In the past 5 years, this district has received: $246,941.00 in NSF MPS grants.
                       Amount ($)
 Institution     Year            
 U of Washington 2015      246941
@@ -93,7 +96,7 @@ This district received no SC contracts from 2012-2017
 ```
 ### NSF MPS Grants
 ```
-In the past 5 years, this district has received:  $2,896,228.00 in NSF MPS grants.
+In the past 5 years, this district has received: $2,896,228.00 in NSF MPS grants.
                                     Amount ($)
 Institution                   Year            
 WESTERN WASHINGTON UNIVERSITY 2012      951730
@@ -126,7 +129,7 @@ This district received no SC HEP grants from 2012-2016
 ```
 ### SC Contracts
 ```
-In the past 5 years, this district has received:  $4,786,982,215.63 in SC contracts.
+In the past 5 years, this district has received: $4,786,982,215.63 in SC contracts.
                                                      Amount ($)
 vendorname                            fiscal_year              
 BATTELLE MEMORIAL INSTITUTE           2012         8.384316e+08
@@ -143,7 +146,7 @@ YAHSGS LLC                            2012         1.500000e+05
 ```
 ### NSF MPS Grants
 ```
-In the past 5 years, this district has received:  $473,243.00 in NSF MPS grants.
+In the past 5 years, this district has received: $473,243.00 in NSF MPS grants.
                                          Amount ($)
 Institution                        Year            
 CENTRAL WASHINGTON UNIVERSITY INC  2012      317073
@@ -160,14 +163,14 @@ This district received no SC HEP grants from 2012-2016
 ```
 ### SC Contracts
 ```
-In the past 5 years, this district has received:  $12,616.86 in SC contracts.
+In the past 5 years, this district has received: $12,616.86 in SC contracts.
                                          Amount ($)
 vendorname                  fiscal_year            
 INSIGHT PUBLIC SECTOR, INC. 2012           12616.86
 ```
 ### NSF MPS Grants
 ```
-In the past 5 years, this district has received:  $9,505,438.00 in NSF MPS grants.
+In the past 5 years, this district has received: $9,505,438.00 in NSF MPS grants.
                                             Amount ($)
 Institution                           Year            
 EASTERN WASHINGTON UNIVERSITY         2013      120000
@@ -192,7 +195,7 @@ This district received no SC contracts from 2012-2017
 ```
 ### NSF MPS Grants
 ```
-In the past 5 years, this district has received:  $230,987.00 in NSF MPS grants.
+In the past 5 years, this district has received: $230,987.00 in NSF MPS grants.
                                      Amount ($)
 Institution                    Year            
 UNIVERSITY OF PUGET SOUND, THE 2013      197157
@@ -204,7 +207,7 @@ UNIVERSITY OF PUGET SOUND, THE 2013      197157
 ## WA-07 -- Rep. Pramila Jayapal (D)
 ### HEP Grants
 ```
-In the past 5 years, this district has received:  $12,476,000.00 in SC HEP grants.
+In the past 5 years, this district has received: $12,476,000.00 in SC HEP grants.
                                         Amount ($)
 Institution                       Year            
 UNIVERSITY OF WASHINGTON, SEATTLE 2012     2371000
@@ -219,7 +222,7 @@ This district received no SC contracts from 2012-2017
 ```
 ### NSF MPS Grants
 ```
-In the past 5 years, this district has received:  $61,752,146.00 in NSF MPS grants.
+In the past 5 years, this district has received: $61,752,146.00 in NSF MPS grants.
                                              Amount ($)
 Institution                            Year            
 ASTROPHYSICAL RESEARCH CONSORTIUM      2012     1472956
@@ -249,7 +252,7 @@ This district received no SC contracts from 2012-2017
 ```
 ### NSF MPS Grants
 ```
-In the past 5 years, this district has received:  $330,775.00 in NSF MPS grants.
+In the past 5 years, this district has received: $330,775.00 in NSF MPS grants.
                                         Amount ($)
 Institution                       Year            
 CENTRAL WASHINGTON UNIVERSITY INC 2013      175735
@@ -270,7 +273,7 @@ This district received no SC contracts from 2012-2017
 ```
 ### NSF MPS Grants
 ```
-In the past 5 years, this district has received:  $623,435.00 in NSF MPS grants.
+In the past 5 years, this district has received: $623,435.00 in NSF MPS grants.
                          Amount ($)
 Institution        Year            
 SEATTLE UNIVERSITY 2013      343438
@@ -290,7 +293,7 @@ This district received no SC contracts from 2012-2017
 ```
 ### NSF MPS Grants
 ```
-In the past 5 years, this district has received:  $192,000.00 in NSF MPS grants.
+In the past 5 years, this district has received: $192,000.00 in NSF MPS grants.
                                       Amount ($)
 Institution                     Year            
 PACIFIC LUTHERAN UNIVERSITY INC 2014      192000

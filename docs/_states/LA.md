@@ -12,8 +12,9 @@ permalink : /states/LA/
 # LA -- Sen. Bill Cassidy (R) and  Sen. John Kennedy (R)
 ## HEP Grants
 ```
-In the past 5 years, this state has received  12  HEP grants, totalling  $3,113,000.00
-Who have these grants gone to?
+In the past 5 years, this state has received:
+12 HEP grants, totalling $3,113,000.00
+ 
                                             Amount ($)
 Institution                                           
 Louisiana State University and A&M College     1307000
@@ -27,8 +28,9 @@ This state received no SC contracts from 2012-2017
 ```
 ## NSF MPS Grants
 ```
-In the past 5 years, this state has received  161  NSF MPS grants, totalling  $19,968,811.00
-Who have these grants gone to?
+In the past 5 years, this state has received:
+161 NSF MPS grants, totalling $19,968,811.00
+ 
                                                Amount ($)
 Institution                                              
 LOUISIANA STATE UNIVERSITY SYSTEM                11176261
@@ -58,7 +60,7 @@ This district received no SC contracts from 2012-2017
 ```
 ### NSF MPS Grants
 ```
-In the past 5 years, this district has received:  $3,011,498.00 in NSF MPS grants.
+In the past 5 years, this district has received: $3,011,498.00 in NSF MPS grants.
                                                          Amount ($)
 Institution                                        Year            
 ADMINISTRATORS OF THE TULANE EDUCATIONAL FUND      2013     1833655
@@ -81,7 +83,7 @@ This district received no SC contracts from 2012-2017
 ```
 ### NSF MPS Grants
 ```
-In the past 5 years, this district has received:  $4,007,261.00 in NSF MPS grants.
+In the past 5 years, this district has received: $4,007,261.00 in NSF MPS grants.
                                                     Amount ($)
 Institution                                   Year            
 ADMINISTRATORS OF THE TULANE EDUCATIONAL FUND 2012     1941024
@@ -108,7 +110,7 @@ This district received no SC contracts from 2012-2017
 ```
 ### NSF MPS Grants
 ```
-In the past 5 years, this district has received:  $320,845.00 in NSF MPS grants.
+In the past 5 years, this district has received: $320,845.00 in NSF MPS grants.
                                            Amount ($)
 Institution                          Year            
 MULTIPLE RECIPIENTS                  2013     -141500
@@ -130,7 +132,7 @@ This district received no SC contracts from 2012-2017
 ```
 ### NSF MPS Grants
 ```
-In the past 5 years, this district has received:  $197,800.00 in NSF MPS grants.
+In the past 5 years, this district has received: $197,800.00 in NSF MPS grants.
                                         Amount ($)
 Institution                       Year            
 LOUISIANA STATE UNIVERSITY SYSTEM 2013      197800
@@ -141,7 +143,7 @@ LOUISIANA STATE UNIVERSITY SYSTEM 2013      197800
 ## LA-05 -- Rep. Ralph Abraham (R)
 ### HEP Grants
 ```
-In the past 5 years, this district has received:  $969,000.00 in SC HEP grants.
+In the past 5 years, this district has received: $969,000.00 in SC HEP grants.
                                 Amount ($)
 Institution               Year            
 LOUISIANA TECH UNIVERSITY 2012      238000
@@ -156,7 +158,7 @@ This district received no SC contracts from 2012-2017
 ```
 ### NSF MPS Grants
 ```
-In the past 5 years, this district has received:  $611,102.00 in NSF MPS grants.
+In the past 5 years, this district has received: $611,102.00 in NSF MPS grants.
                                 Amount ($)
 Institution               Year            
 LOUISIANA TECH UNIVERSITY 2012      124821
@@ -169,7 +171,7 @@ LOUISIANA TECH UNIVERSITY 2012      124821
 ## LA-06 -- Rep. Garret Graves (R)
 ### HEP Grants
 ```
-In the past 5 years, this district has received:  $2,144,000.00 in SC HEP grants.
+In the past 5 years, this district has received: $2,144,000.00 in SC HEP grants.
                                                  Amount ($)
 Institution                                Year            
 LOUISIANA STATE UNIVERSITY                 2012      420000
@@ -184,7 +186,7 @@ This district received no SC contracts from 2012-2017
 ```
 ### NSF MPS Grants
 ```
-In the past 5 years, this district has received:  $11,931,904.00 in NSF MPS grants.
+In the past 5 years, this district has received: $11,931,904.00 in NSF MPS grants.
                                                  Amount ($)
 Institution                                Year            
 BATON ROUGE AREA FOUNDATION INC            2012      276350

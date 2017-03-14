@@ -12,8 +12,9 @@ permalink : /states/IA/
 # IA -- Sen. Joni Ernst (R) and  Sen. Charles Grassley (R)
 ## HEP Grants
 ```
-In the past 5 years, this state has received  32  HEP grants, totalling  $7,160,000.00
-Who have these grants gone to?
+In the past 5 years, this state has received:
+32 HEP grants, totalling $7,160,000.00
+ 
                                                  Amount ($)
 Institution                                                
 Iowa State University of Science and Technology     2529000
@@ -23,8 +24,9 @@ UNIVERSITY OF IOWA                                  1114000
 ```
 ## SC Contracts
 ```
-In the past 5 years, this state has received  107  Office of Science contracts, totalling  $285,610,441.72
-Who have these contracts gone to?
+In the past 5 years, this state has received:
+107 Office of Science contracts, totalling $285,610,441.72
+ 
                                                          Amount ($)
 vendorname                                 fiscal_year             
 ATRIUM HOTELS, L.P.                        2012             4200.00
@@ -37,8 +39,9 @@ IOWA STATE UNIVERSITY EQUITIES CORPORATION 2012         37777583.46
 ```
 ## NSF MPS Grants
 ```
-In the past 5 years, this state has received  139  NSF MPS grants, totalling  $22,913,010.00
-Who have these grants gone to?
+In the past 5 years, this state has received:
+139 NSF MPS grants, totalling $22,913,010.00
+ 
                                                Amount ($)
 Institution                                              
 UNIVERSITY OF IOWA, THE                          10206615
@@ -67,7 +70,7 @@ This district received no SC contracts from 2012-2017
 ```
 ### NSF MPS Grants
 ```
-In the past 5 years, this district has received:  $1,164,302.00 in NSF MPS grants.
+In the past 5 years, this district has received: $1,164,302.00 in NSF MPS grants.
                                   Amount ($)
 Institution                 Year            
 COE COLLEGE                 2013       97010
@@ -82,7 +85,7 @@ UNIVERSITY OF NORTHERN IOWA 2012       90000
 ## IA-02 -- Rep. David Loebsack (D)
 ### HEP Grants
 ```
-In the past 5 years, this district has received:  $2,594,000.00 in SC HEP grants.
+In the past 5 years, this district has received: $2,594,000.00 in SC HEP grants.
                          Amount ($)
 Institution        Year            
 UNIVERSITY OF IOWA 2012      666000
@@ -97,7 +100,7 @@ This district received no SC contracts from 2012-2017
 ```
 ### NSF MPS Grants
 ```
-In the past 5 years, this district has received:  $10,860,457.00 in NSF MPS grants.
+In the past 5 years, this district has received: $10,860,457.00 in NSF MPS grants.
                               Amount ($)
 Institution             Year            
 COE COLLEGE             2012      422342
@@ -117,14 +120,14 @@ This district received no SC HEP grants from 2012-2016
 ```
 ### SC Contracts
 ```
-In the past 5 years, this district has received:  $4,200.00 in SC contracts.
+In the past 5 years, this district has received: $4,200.00 in SC contracts.
                                  Amount ($)
 vendorname          fiscal_year            
 ATRIUM HOTELS, L.P. 2012               4200
 ```
 ### NSF MPS Grants
 ```
-In the past 5 years, this district has received:  $489,525.00 in NSF MPS grants.
+In the past 5 years, this district has received: $489,525.00 in NSF MPS grants.
                        Amount ($)
 Institution      Year            
 DRAKE UNIVERSITY 2012      175151
@@ -137,7 +140,7 @@ DRAKE UNIVERSITY 2012      175151
 ## IA-04 -- Rep. Steve King (R)
 ### HEP Grants
 ```
-In the past 5 years, this district has received:  $4,566,000.00 in SC HEP grants.
+In the past 5 years, this district has received: $4,566,000.00 in SC HEP grants.
                                                       Amount ($)
 Institution                                     Year            
 IOWA STATE UNIVERSITY                           2012     1036000
@@ -148,7 +151,7 @@ Iowa State University of Science and Technology 2014      752000
 ```
 ### SC Contracts
 ```
-In the past 5 years, this district has received:  $285,606,241.72 in SC contracts.
+In the past 5 years, this district has received: $285,606,241.72 in SC contracts.
                                                          Amount ($)
 vendorname                                 fiscal_year             
 IOWA STATE UNIVERSITY EQUITIES CORPORATION 2012         37777583.46
@@ -160,7 +163,7 @@ IOWA STATE UNIVERSITY EQUITIES CORPORATION 2012         37777583.46
 ```
 ### NSF MPS Grants
 ```
-In the past 5 years, this district has received:  $10,398,726.00 in NSF MPS grants.
+In the past 5 years, this district has received: $10,398,726.00 in NSF MPS grants.
                                                     Amount ($)
 Institution                                   Year            
 DORDT COLLEGE, INCORPORATED                   2013       55685

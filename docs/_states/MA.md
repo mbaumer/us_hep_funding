@@ -12,8 +12,9 @@ permalink : /states/MA/
 # MA -- Sen. Edward Markey (D) and  Sen. Elizabeth Warren (D)
 ## HEP Grants
 ```
-In the past 5 years, this state has received  133  HEP grants, totalling  $76,802,000.00
-Who have these grants gone to?
+In the past 5 years, this state has received:
+133 HEP grants, totalling $76,802,000.00
+ 
                                              Amount ($)
 Institution                                            
 MASSACHUSETTS INST. OF TECHNOLOGY              17228000
@@ -30,8 +31,9 @@ and  10  other institutions.
 ```
 ## SC Contracts
 ```
-In the past 5 years, this state has received  22  Office of Science contracts, totalling  $97,731.62
-Who have these contracts gone to?
+In the past 5 years, this state has received:
+22 Office of Science contracts, totalling $97,731.62
+ 
                                            Amount ($)
 vendorname                                           
 RAPID7 LLC                                   62928.04
@@ -44,8 +46,9 @@ ARTHUR D LITTLE INC                         -50000.14
 ```
 ## NSF MPS Grants
 ```
-In the past 5 years, this state has received  914  NSF MPS grants, totalling  $210,170,250.00
-Who have these grants gone to?
+In the past 5 years, this state has received:
+914 NSF MPS grants, totalling $210,170,250.00
+ 
                                          Amount ($)
 Institution                                        
 MASSACHUSETTS INSTITUTE OF TECHNOLOGY      46277097
@@ -67,7 +70,7 @@ and  29  other institutions.
 ## MA-01 -- Rep. Richard Neal (D)
 ### HEP Grants
 ```
-In the past 5 years, this district has received:  $1,086,000.00 in SC HEP grants.
+In the past 5 years, this district has received: $1,086,000.00 in SC HEP grants.
                                    Amount ($)
 Institution                  Year            
 U. OF MASSACHUSETTS, AMHERST 2012      454000
@@ -79,7 +82,7 @@ This district received no SC contracts from 2012-2017
 ```
 ### NSF MPS Grants
 ```
-In the past 5 years, this district has received:  $9,768,690.00 in NSF MPS grants.
+In the past 5 years, this district has received: $9,768,690.00 in NSF MPS grants.
                                                Amount ($)
 Institution                              Year            
 AMHERST COLLEGE, TRUSTEES OF             2012      600305
@@ -97,7 +100,7 @@ WESTERN NEW ENGLAND UNIVERSITY           2014       49920
 ## MA-02 -- Rep. James McGovern (D)
 ### HEP Grants
 ```
-In the past 5 years, this district has received:  $1,878,000.00 in SC HEP grants.
+In the past 5 years, this district has received: $1,878,000.00 in SC HEP grants.
                                             Amount ($)
 Institution                           Year            
 University of Massachusetts - Amherst 2014      559000
@@ -110,7 +113,7 @@ This district received no SC contracts from 2012-2017
 ```
 ### NSF MPS Grants
 ```
-In the past 5 years, this district has received:  $19,229,564.00 in NSF MPS grants.
+In the past 5 years, this district has received: $19,229,564.00 in NSF MPS grants.
                                                     Amount ($)
 Institution                                   Year            
 AMHERST COLLEGE, TRUSTEES OF                  2013      891728
@@ -143,7 +146,7 @@ This district received no SC contracts from 2012-2017
 ```
 ### NSF MPS Grants
 ```
-In the past 5 years, this district has received:  $2,624,530.00 in NSF MPS grants.
+In the past 5 years, this district has received: $2,624,530.00 in NSF MPS grants.
                                             Amount ($)
 Institution                           Year            
 COLLEGE OF THE HOLY CROSS             2012      151058
@@ -169,7 +172,7 @@ This district received no SC contracts from 2012-2017
 ```
 ### NSF MPS Grants
 ```
-In the past 5 years, this district has received:  $8,935,905.00 in NSF MPS grants.
+In the past 5 years, this district has received: $8,935,905.00 in NSF MPS grants.
                                                     Amount ($)
 Institution                                   Year            
 BOSTON COLLEGE, TRUSTEES OF                   2012     2661616
@@ -190,7 +193,7 @@ WHEATON COLLEGE                               2012       94114
 ## MA-05 -- Rep. Katherine Clark (D)
 ### HEP Grants
 ```
-In the past 5 years, this district has received:  $10,505,000.00 in SC HEP grants.
+In the past 5 years, this district has received: $10,505,000.00 in SC HEP grants.
                                                          Amount ($)
 Institution                                        Year            
 Brandeis University                                2014      900000
@@ -205,7 +208,7 @@ Smithsonian Institute /Smithsonian Astrophysica... 2014      475000
 ```
 ### SC Contracts
 ```
-In the past 5 years, this district has received:  $12,800.00 in SC contracts.
+In the past 5 years, this district has received: $12,800.00 in SC contracts.
                                                Amount ($)
 vendorname                        fiscal_year            
 MASSACHUSETTS MEDICAL SOCIETY     2014               3100
@@ -213,7 +216,7 @@ MASSACHUSETTS MEDICAL SOCIETY INC 2014               9700
 ```
 ### NSF MPS Grants
 ```
-In the past 5 years, this district has received:  $56,519,640.00 in NSF MPS grants.
+In the past 5 years, this district has received: $56,519,640.00 in NSF MPS grants.
                                               Amount ($)
 Institution                             Year            
 BRANDEIS UNIVERSITY                     2013     2927137
@@ -244,7 +247,7 @@ This district received no SC HEP grants from 2012-2016
 ```
 ### SC Contracts
 ```
-In the past 5 years, this district has received:  $30,000.00 in SC contracts.
+In the past 5 years, this district has received: $30,000.00 in SC contracts.
                                            Amount ($)
 vendorname                    fiscal_year            
 PUBLISHERS INTL LINKING ASSOC 2013              10000
@@ -255,7 +258,7 @@ PUBLISHERS INTL LINKING ASSOC 2013              10000
 ```
 ### NSF MPS Grants
 ```
-In the past 5 years, this district has received:  $220,000.00 in NSF MPS grants.
+In the past 5 years, this district has received: $220,000.00 in NSF MPS grants.
                               Amount ($)
 Institution             Year            
 AERODYNE RESEARCH, INC. 2013       60000
@@ -267,7 +270,7 @@ AERODYNE RESEARCH, INC. 2013       60000
 ## MA-07 -- Rep. Michael Capuano (D)
 ### HEP Grants
 ```
-In the past 5 years, this district has received:  $36,604,000.00 in SC HEP grants.
+In the past 5 years, this district has received: $36,604,000.00 in SC HEP grants.
                                                   Amount ($)
 Institution                                 Year            
 BRANDEIS UNIVERSITY                         2012     1002000
@@ -289,7 +292,7 @@ Tufts University                            2014      635000
 ```
 ### SC Contracts
 ```
-In the past 5 years, this district has received:  $7,616.79 in SC contracts.
+In the past 5 years, this district has received: $7,616.79 in SC contracts.
                                                Amount ($)
 vendorname                        fiscal_year            
 ARTHUR D LITTLE INC               2014          -50000.14
@@ -300,7 +303,7 @@ RAPID7 LLC                        2013            8837.50
 ```
 ### NSF MPS Grants
 ```
-In the past 5 years, this district has received:  $56,484,686.00 in NSF MPS grants.
+In the past 5 years, this district has received: $56,484,686.00 in NSF MPS grants.
                                                     Amount ($)
 Institution                                   Year            
 AMERICAN ASSOCIATION OF VARIABLE STAR OBSERVE 2014      432366
@@ -335,7 +338,7 @@ Tufts University                              2015       93000
 ## MA-08 -- Rep. Stephen Lynch (D)
 ### HEP Grants
 ```
-In the past 5 years, this district has received:  $26,729,000.00 in SC HEP grants.
+In the past 5 years, this district has received: $26,729,000.00 in SC HEP grants.
                                             Amount ($)
 Institution                           Year            
 BOSTON UNIVERSITY                     2012     2427000
@@ -350,7 +353,7 @@ SMITHSONIAN ASTROPHYSICAL OBSERVATORY 2012      550000
 ```
 ### SC Contracts
 ```
-In the past 5 years, this district has received:  $37,379.83 in SC contracts.
+In the past 5 years, this district has received: $37,379.83 in SC contracts.
                                                        Amount ($)
 vendorname                                fiscal_year            
 AMERICAN METEOROLOGICAL SOCIETY, INC.     2013            5239.00
@@ -361,7 +364,7 @@ RAPID7 LLC                                2012           14061.11
 ```
 ### NSF MPS Grants
 ```
-In the past 5 years, this district has received:  $54,960,028.00 in NSF MPS grants.
+In the past 5 years, this district has received: $54,960,028.00 in NSF MPS grants.
                                               Amount ($)
 Institution                             Year            
 DANA-FARBER CANCER INSTITUTE, INC.      2012      146269
@@ -391,14 +394,14 @@ This district received no SC HEP grants from 2012-2016
 ```
 ### SC Contracts
 ```
-In the past 5 years, this district has received:  $9,935.00 in SC contracts.
+In the past 5 years, this district has received: $9,935.00 in SC contracts.
                                                    Amount ($)
 vendorname                            fiscal_year            
 AMERICAN METEOROLOGICAL SOCIETY, INC. 2012               9935
 ```
 ### NSF MPS Grants
 ```
-In the past 5 years, this district has received:  $1,427,207.00 in NSF MPS grants.
+In the past 5 years, this district has received: $1,427,207.00 in NSF MPS grants.
                                                     Amount ($)
 Institution                                   Year            
 FRANKLIN W. OLIN COLLEGE OF ENGINEERING, INC. 2012      266190

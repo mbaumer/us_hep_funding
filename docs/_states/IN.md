@@ -12,8 +12,9 @@ permalink : /states/IN/
 # IN -- Sen. Joe Donnelly (D) and  Sen. Todd Young (R)
 ## HEP Grants
 ```
-In the past 5 years, this state has received  25  HEP grants, totalling  $16,970,000.00
-Who have these grants gone to?
+In the past 5 years, this state has received:
+25 HEP grants, totalling $16,970,000.00
+ 
                                  Amount ($)
 Institution                                
 Indiana University                  6667000
@@ -24,16 +25,18 @@ UNIVERSITY OF NOTRE DAME                  0
 ```
 ## SC Contracts
 ```
-In the past 5 years, this state has received  1  Office of Science contracts, totalling  $-251,255.71
-Who have these contracts gone to?
+In the past 5 years, this state has received:
+1 Office of Science contracts, totalling $-251,255.71
+ 
                                  Amount ($)
 vendorname          fiscal_year            
 GENERAL MOTORS CORP 2014         -251255.71
 ```
 ## NSF MPS Grants
 ```
-In the past 5 years, this state has received  386  NSF MPS grants, totalling  $76,171,980.00
-Who have these grants gone to?
+In the past 5 years, this state has received:
+386 NSF MPS grants, totalling $76,171,980.00
+ 
                                             Amount ($)
 Institution                                           
 UNIVERSITY OF NOTRE DAME DU LAC               32266801
@@ -63,7 +66,7 @@ This district received no SC contracts from 2012-2017
 ```
 ### NSF MPS Grants
 ```
-In the past 5 years, this district has received:  $480,186.00 in NSF MPS grants.
+In the past 5 years, this district has received: $480,186.00 in NSF MPS grants.
                                                  Amount ($)
 Institution                                Year            
 LUTHERAN UNIVERSITY ASSOCIATION, INC., THE 2013       93125
@@ -77,7 +80,7 @@ Valparaiso University                      2015       93336
 ## IN-02 -- Rep. Jackie Walorski (R)
 ### HEP Grants
 ```
-In the past 5 years, this district has received:  $0.00 in SC HEP grants.
+In the past 5 years, this district has received: $0.00 in SC HEP grants.
                                Amount ($)
 Institution              Year            
 UNIVERSITY OF NOTRE DAME 2012           0
@@ -88,7 +91,7 @@ This district received no SC contracts from 2012-2017
 ```
 ### NSF MPS Grants
 ```
-In the past 5 years, this district has received:  $32,998,720.00 in NSF MPS grants.
+In the past 5 years, this district has received: $32,998,720.00 in NSF MPS grants.
                                       Amount ($)
 Institution                     Year            
 MULTIPLE RECIPIENTS             2014       -5174
@@ -114,7 +117,7 @@ This district received no SC contracts from 2012-2017
 ```
 ### NSF MPS Grants
 ```
-In the past 5 years, this district has received:  $279,775.00 in NSF MPS grants.
+In the past 5 years, this district has received: $279,775.00 in NSF MPS grants.
                         Amount ($)
 Institution       Year            
 PURDUE UNIVERSITY 2012      279775
@@ -125,7 +128,7 @@ PURDUE UNIVERSITY 2012      279775
 ## IN-04 -- Rep. Todd Rokita (R)
 ### HEP Grants
 ```
-In the past 5 years, this district has received:  $6,543,000.00 in SC HEP grants.
+In the past 5 years, this district has received: $6,543,000.00 in SC HEP grants.
                         Amount ($)
 Institution       Year            
 PURDUE UNIVERSITY 2012     1669000
@@ -140,7 +143,7 @@ This district received no SC contracts from 2012-2017
 ```
 ### NSF MPS Grants
 ```
-In the past 5 years, this district has received:  $20,874,495.00 in NSF MPS grants.
+In the past 5 years, this district has received: $20,874,495.00 in NSF MPS grants.
                         Amount ($)
 Institution       Year            
 DEPAUW UNIVERSITY 2013       30000
@@ -165,7 +168,7 @@ This district received no SC contracts from 2012-2017
 ```
 ### NSF MPS Grants
 ```
-In the past 5 years, this district has received:  $320,000.00 in NSF MPS grants.
+In the past 5 years, this district has received: $320,000.00 in NSF MPS grants.
                                   Amount ($)
 Institution                 Year            
 INDIANA WESLEYAN UNIVERSITY 2012      130000
@@ -199,14 +202,14 @@ This district received no SC HEP grants from 2012-2016
 ```
 ### SC Contracts
 ```
-In the past 5 years, this district has received:  $-251,255.71 in SC contracts.
+In the past 5 years, this district has received: $-251,255.71 in SC contracts.
                                  Amount ($)
 vendorname          fiscal_year            
 GENERAL MOTORS CORP 2014         -251255.71
 ```
 ### NSF MPS Grants
 ```
-In the past 5 years, this district has received:  $3,802,144.00 in NSF MPS grants.
+In the past 5 years, this district has received: $3,802,144.00 in NSF MPS grants.
                                      Amount ($)
 Institution                    Year            
 BUTLER UNIVERSITY              2012      138131
@@ -229,7 +232,7 @@ This district received no SC contracts from 2012-2017
 ```
 ### NSF MPS Grants
 ```
-In the past 5 years, this district has received:  $47,345.00 in NSF MPS grants.
+In the past 5 years, this district has received: $47,345.00 in NSF MPS grants.
                         Amount ($)
 Institution       Year            
 DEPAUW UNIVERSITY 2012       47345
@@ -240,7 +243,7 @@ DEPAUW UNIVERSITY 2012       47345
 ## IN-09 -- Rep. Trey Hollingsworth (R)
 ### HEP Grants
 ```
-In the past 5 years, this district has received:  $10,427,000.00 in SC HEP grants.
+In the past 5 years, this district has received: $10,427,000.00 in SC HEP grants.
                                       Amount ($)
 Institution                     Year            
 INDIANA UNIVERSITY, BLOOMINGTON 2012     1545000
@@ -255,7 +258,7 @@ This district received no SC contracts from 2012-2017
 ```
 ### NSF MPS Grants
 ```
-In the past 5 years, this district has received:  $17,369,315.00 in NSF MPS grants.
+In the past 5 years, this district has received: $17,369,315.00 in NSF MPS grants.
                                      Amount ($)
 Institution                    Year            
 Indiana University             2015      172479

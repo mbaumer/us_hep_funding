@@ -12,8 +12,9 @@ permalink : /states/TN/
 # TN -- Sen. Lamar Alexander (R) and  Sen. Bob Corker (R)
 ## HEP Grants
 ```
-In the past 5 years, this state has received  23  HEP grants, totalling  $4,997,000.00
-Who have these grants gone to?
+In the past 5 years, this state has received:
+23 HEP grants, totalling $4,997,000.00
+ 
                                     Amount ($)
 Institution                                   
 University of Tennessee                2279000
@@ -25,8 +26,9 @@ ProNova Solutions LLC                        0
 ```
 ## SC Contracts
 ```
-In the past 5 years, this state has received  4689  Office of Science contracts, totalling  $11,223,191,126.14
-Who have these contracts gone to?
+In the past 5 years, this state has received:
+4689 Office of Science contracts, totalling $11,223,191,126.14
+ 
                                                    Amount ($)
 vendorname                                                   
 UT BATTELLE LIMITED LIABILITY COMPANY            7.426903e+09
@@ -43,8 +45,9 @@ and  407  other firms.
 ```
 ## NSF MPS Grants
 ```
-In the past 5 years, this state has received  205  NSF MPS grants, totalling  $30,534,134.00
-Who have these grants gone to?
+In the past 5 years, this state has received:
+205 NSF MPS grants, totalling $30,534,134.00
+ 
                                                Amount ($)
 Institution                                              
 VANDERBILT UNIVERSITY, THE                       11875833
@@ -70,7 +73,7 @@ This district received no SC HEP grants from 2012-2016
 ```
 ### SC Contracts
 ```
-In the past 5 years, this district has received:  $169,125.20 in SC contracts.
+In the past 5 years, this district has received: $169,125.20 in SC contracts.
                                                     Amount ($)
 vendorname                             fiscal_year            
 B & H SALES                            2015             5260.0
@@ -80,7 +83,7 @@ WATER SOLUTIONS ENGINEERING, LLC       2013             3465.0
 ```
 ### NSF MPS Grants
 ```
-In the past 5 years, this district has received:  $505,671.00 in NSF MPS grants.
+In the past 5 years, this district has received: $505,671.00 in NSF MPS grants.
                                       Amount ($)
 Institution                     Year            
 EAST TENNESSEE STATE UNIVERSITY 2012      156048
@@ -94,7 +97,7 @@ EAST TENNESSEE STATE UNIVERSITY 2012      156048
 ## TN-02 -- Rep. John Duncan (R)
 ### HEP Grants
 ```
-In the past 5 years, this district has received:  $3,837,000.00 in SC HEP grants.
+In the past 5 years, this district has received: $3,837,000.00 in SC HEP grants.
                                          Amount ($)
 Institution                        Year            
 ProNova Solutions LLC              2016           0
@@ -107,7 +110,7 @@ University of Tennessee            2014      846000
 ```
 ### SC Contracts
 ```
-In the past 5 years, this district has received:  $193,012,038.93 in SC contracts.
+In the past 5 years, this district has received: $193,012,038.93 in SC contracts.
                                                        Amount ($)
 vendorname                                fiscal_year            
 A. C. WHITE MOVING SYSTEMS, INC.          2016           11854.20
@@ -176,7 +179,7 @@ WYANDOTTE SERVICES                        2015         1919864.45
 ```
 ### NSF MPS Grants
 ```
-In the past 5 years, this district has received:  $11,662,557.00 in NSF MPS grants.
+In the past 5 years, this district has received: $11,662,557.00 in NSF MPS grants.
                                Amount ($)
 Institution              Year            
 OREGON STATE UNIVERSITY  2014       32838
@@ -196,7 +199,7 @@ This district received no SC HEP grants from 2012-2016
 ```
 ### SC Contracts
 ```
-In the past 5 years, this district has received:  $11,029,889,843.99 in SC contracts.
+In the past 5 years, this district has received: $11,029,889,843.99 in SC contracts.
                                                          Amount ($)
 vendorname                                  fiscal_year            
 1 POINT PROCUREMENT SOLUTIONS, LLC          2016            5700.00
@@ -265,7 +268,7 @@ ZONES, INC.                                 2012           29928.70
 ```
 ### NSF MPS Grants
 ```
-In the past 5 years, this district has received:  $996,381.00 in NSF MPS grants.
+In the past 5 years, this district has received: $996,381.00 in NSF MPS grants.
                                                     Amount ($)
 Institution                                   Year            
 MICHIGAN STATE UNIVERSITY                     2014        5000
@@ -284,14 +287,14 @@ This district received no SC HEP grants from 2012-2016
 ```
 ### SC Contracts
 ```
-In the past 5 years, this district has received:  $-24,106.38 in SC contracts.
+In the past 5 years, this district has received: $-24,106.38 in SC contracts.
                                                                Amount ($)
 vendorname                                        fiscal_year            
 HASELWOOD SERVICES AND MANUFACTURING INCORPORATED 2012          -24106.38
 ```
 ### NSF MPS Grants
 ```
-In the past 5 years, this district has received:  $189,899.00 in NSF MPS grants.
+In the past 5 years, this district has received: $189,899.00 in NSF MPS grants.
                                         Amount ($)
 Institution                       Year            
 MIDDLE TENNESSEE STATE UNIVERSITY 2013       55000
@@ -305,7 +308,7 @@ VANDERBILT UNIVERSITY, THE        2013      124850
 ## TN-05 -- Rep. Jim Cooper (D)
 ### HEP Grants
 ```
-In the past 5 years, this district has received:  $1,160,000.00 in SC HEP grants.
+In the past 5 years, this district has received: $1,160,000.00 in SC HEP grants.
                             Amount ($)
 Institution           Year            
 VANDERBILT UNIVERSITY 2012      260000
@@ -316,14 +319,14 @@ Vanderbilt University 2014      380000
 ```
 ### SC Contracts
 ```
-In the past 5 years, this district has received:  $132,506.00 in SC contracts.
+In the past 5 years, this district has received: $132,506.00 in SC contracts.
                                 Amount ($)
 vendorname         fiscal_year            
 ROGERS GROUP, INC. 2014             132506
 ```
 ### NSF MPS Grants
 ```
-In the past 5 years, this district has received:  $15,403,734.00 in NSF MPS grants.
+In the past 5 years, this district has received: $15,403,734.00 in NSF MPS grants.
                                  Amount ($)
 Institution                Year            
 FISK UNIVERSITY            2012      227792
@@ -367,7 +370,7 @@ This district received no SC HEP grants from 2012-2016
 ```
 ### SC Contracts
 ```
-In the past 5 years, this district has received:  $-6,085.49 in SC contracts.
+In the past 5 years, this district has received: $-6,085.49 in SC contracts.
                                                    Amount ($)
 vendorname                            fiscal_year            
 ASE DIRECT, INC.                      2013            3707.75
@@ -375,7 +378,7 @@ LEGACY RSOURCE CONSULTING CORPORATION 2014           -9793.24
 ```
 ### NSF MPS Grants
 ```
-In the past 5 years, this district has received:  $200,000.00 in NSF MPS grants.
+In the past 5 years, this district has received: $200,000.00 in NSF MPS grants.
                                    Amount ($)
 Institution                  Year            
 AUSTIN PEAY STATE UNIVERSITY 2014      200000
@@ -406,7 +409,7 @@ This district received no SC HEP grants from 2012-2016
 ```
 ### SC Contracts
 ```
-In the past 5 years, this district has received:  $17,803.89 in SC contracts.
+In the past 5 years, this district has received: $17,803.89 in SC contracts.
                                          Amount ($)
 vendorname                  fiscal_year            
 INTERACTIVE SOLUTIONS, INC. 2012               0.00
@@ -416,7 +419,7 @@ INTERACTIVE SOLUTIONS, INC. 2012               0.00
 ```
 ### NSF MPS Grants
 ```
-In the past 5 years, this district has received:  $1,575,892.00 in NSF MPS grants.
+In the past 5 years, this district has received: $1,575,892.00 in NSF MPS grants.
                                  Amount ($)
 Institution                Year            
 UNIVERSITY OF MEMPHIS      2012      569000

@@ -12,8 +12,9 @@ permalink : /states/OK/
 # OK -- Sen. James Inhofe (R) and  Sen. James Lankford (R)
 ## HEP Grants
 ```
-In the past 5 years, this state has received  16  HEP grants, totalling  $5,111,000.00
-Who have these grants gone to?
+In the past 5 years, this state has received:
+16 HEP grants, totalling $5,111,000.00
+ 
                            Amount ($)
 Institution                          
 University of Oklahoma        2156000
@@ -24,8 +25,9 @@ LANGSTON UNIVERSITY                 0
 ```
 ## SC Contracts
 ```
-In the past 5 years, this state has received  4  Office of Science contracts, totalling  $19,895.00
-Who have these contracts gone to?
+In the past 5 years, this state has received:
+4 Office of Science contracts, totalling $19,895.00
+ 
                                                   Amount ($)
 vendorname                           fiscal_year            
 SOCIETY OF EXPLORATION GEOPHYSICISTS 2013            4158.75
@@ -35,8 +37,9 @@ SOCIETY OF EXPLORATION GEOPHYSICISTS 2013            4158.75
 ```
 ## NSF MPS Grants
 ```
-In the past 5 years, this state has received  73  NSF MPS grants, totalling  $9,662,091.00
-Who have these grants gone to?
+In the past 5 years, this state has received:
+73 NSF MPS grants, totalling $9,662,091.00
+ 
                                           Amount ($)
 Institution                                         
 UNIVERSITY OF OKLAHOMA                       5788962
@@ -59,7 +62,7 @@ This district received no SC HEP grants from 2012-2016
 ```
 ### SC Contracts
 ```
-In the past 5 years, this district has received:  $19,895.00 in SC contracts.
+In the past 5 years, this district has received: $19,895.00 in SC contracts.
                                                   Amount ($)
 vendorname                           fiscal_year            
 SOCIETY OF EXPLORATION GEOPHYSICISTS 2013            4158.75
@@ -69,7 +72,7 @@ SOCIETY OF EXPLORATION GEOPHYSICISTS 2013            4158.75
 ```
 ### NSF MPS Grants
 ```
-In the past 5 years, this district has received:  $539,961.00 in NSF MPS grants.
+In the past 5 years, this district has received: $539,961.00 in NSF MPS grants.
                                 Amount ($)
 Institution               Year            
 OKLAHOMA STATE UNIVERSITY 2012       92581
@@ -93,7 +96,7 @@ This district received no SC contracts from 2012-2017
 ```
 ### NSF MPS Grants
 ```
-In the past 5 years, this district has received:  $74,591.00 in NSF MPS grants.
+In the past 5 years, this district has received: $74,591.00 in NSF MPS grants.
                                                Amount ($)
 Institution                              Year            
 ROGERS STATE UNIVERSITY FOUNDATION, INC. 2013       74591
@@ -104,7 +107,7 @@ ROGERS STATE UNIVERSITY FOUNDATION, INC. 2013       74591
 ## OK-03 -- Rep. Frank Lucas (R)
 ### HEP Grants
 ```
-In the past 5 years, this district has received:  $1,218,000.00 in SC HEP grants.
+In the past 5 years, this district has received: $1,218,000.00 in SC HEP grants.
                                 Amount ($)
 Institution               Year            
 LANGSTON UNIVERSITY       2012           0
@@ -119,7 +122,7 @@ This district received no SC contracts from 2012-2017
 ```
 ### NSF MPS Grants
 ```
-In the past 5 years, this district has received:  $3,228,619.00 in NSF MPS grants.
+In the past 5 years, this district has received: $3,228,619.00 in NSF MPS grants.
                                 Amount ($)
 Institution               Year            
 OKLAHOMA STATE UNIVERSITY 2012      987773
@@ -134,7 +137,7 @@ Oklahoma State University 2015       40907
 ## OK-04 -- Rep. Tom Cole (R)
 ### HEP Grants
 ```
-In the past 5 years, this district has received:  $3,893,000.00 in SC HEP grants.
+In the past 5 years, this district has received: $3,893,000.00 in SC HEP grants.
                              Amount ($)
 Institution            Year            
 UNIVERSITY OF OKLAHOMA 2012      907000
@@ -149,7 +152,7 @@ This district received no SC contracts from 2012-2017
 ```
 ### NSF MPS Grants
 ```
-In the past 5 years, this district has received:  $5,818,920.00 in NSF MPS grants.
+In the past 5 years, this district has received: $5,818,920.00 in NSF MPS grants.
                              Amount ($)
 Institution            Year            
 U of Oklahoma          2015       29958

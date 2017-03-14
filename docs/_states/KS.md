@@ -12,8 +12,9 @@ permalink : /states/KS/
 # KS -- Sen. Jerry Moran (R) and  Sen. Pat Roberts (R)
 ## HEP Grants
 ```
-In the past 5 years, this state has received  17  HEP grants, totalling  $4,286,500.00
-Who have these grants gone to?
+In the past 5 years, this state has received:
+17 HEP grants, totalling $4,286,500.00
+ 
                          Amount ($)
 Institution                        
 Kansas State University     2146000
@@ -23,8 +24,9 @@ University of Kansas         187500
 ```
 ## SC Contracts
 ```
-In the past 5 years, this state has received  3  Office of Science contracts, totalling  $66,013.86
-Who have these contracts gone to?
+In the past 5 years, this state has received:
+3 Office of Science contracts, totalling $66,013.86
+ 
                                     Amount ($)
 vendorname             fiscal_year            
 FISHNET SECURITY, INC. 2013           22004.62
@@ -33,8 +35,9 @@ FISHNET SECURITY, INC. 2013           22004.62
 ```
 ## NSF MPS Grants
 ```
-In the past 5 years, this state has received  80  NSF MPS grants, totalling  $15,004,939.00
-Who have these grants gone to?
+In the past 5 years, this state has received:
+80 NSF MPS grants, totalling $15,004,939.00
+ 
                                                Amount ($)
 Institution                                              
 UNIVERSITY OF KANSAS CENTER FOR RESEARCH, INC     9638181
@@ -50,7 +53,7 @@ Kansas State University                             16660
 ## KS-01 -- Rep. Roger Marshall (R)
 ### HEP Grants
 ```
-In the past 5 years, this district has received:  $2,146,000.00 in SC HEP grants.
+In the past 5 years, this district has received: $2,146,000.00 in SC HEP grants.
                               Amount ($)
 Institution             Year            
 Kansas State University 2014      631000
@@ -63,7 +66,7 @@ This district received no SC contracts from 2012-2017
 ```
 ### NSF MPS Grants
 ```
-In the past 5 years, this district has received:  $1,732,017.00 in NSF MPS grants.
+In the past 5 years, this district has received: $1,732,017.00 in NSF MPS grants.
                               Amount ($)
 Institution             Year            
 KANSAS STATE UNIVERSITY 2013     1136720
@@ -76,7 +79,7 @@ Kansas State University 2015       16660
 ## KS-02 -- Rep. Lynn Jenkins (R)
 ### HEP Grants
 ```
-In the past 5 years, this district has received:  $2,140,500.00 in SC HEP grants.
+In the past 5 years, this district has received: $2,140,500.00 in SC HEP grants.
                               Amount ($)
 Institution             Year            
 KANSAS STATE UNIVERSITY 2012      775000
@@ -93,7 +96,7 @@ This district received no SC contracts from 2012-2017
 ```
 ### NSF MPS Grants
 ```
-In the past 5 years, this district has received:  $9,032,117.00 in NSF MPS grants.
+In the past 5 years, this district has received: $9,032,117.00 in NSF MPS grants.
                                                     Amount ($)
 Institution                                   Year            
 KANSAS STATE UNIVERSITY                       2012     2664081
@@ -111,7 +114,7 @@ This district received no SC HEP grants from 2012-2016
 ```
 ### SC Contracts
 ```
-In the past 5 years, this district has received:  $66,013.86 in SC contracts.
+In the past 5 years, this district has received: $66,013.86 in SC contracts.
                                     Amount ($)
 vendorname             fiscal_year            
 FISHNET SECURITY, INC. 2013           22004.62
@@ -120,7 +123,7 @@ FISHNET SECURITY, INC. 2013           22004.62
 ```
 ### NSF MPS Grants
 ```
-In the past 5 years, this district has received:  $3,624,794.00 in NSF MPS grants.
+In the past 5 years, this district has received: $3,624,794.00 in NSF MPS grants.
                                                     Amount ($)
 Institution                                   Year            
 UNIVERSITY OF KANSAS CENTER FOR RESEARCH, INC 2012     3549051
@@ -140,7 +143,7 @@ This district received no SC contracts from 2012-2017
 ```
 ### NSF MPS Grants
 ```
-In the past 5 years, this district has received:  $616,011.00 in NSF MPS grants.
+In the past 5 years, this district has received: $616,011.00 in NSF MPS grants.
                                Amount ($)
 Institution              Year            
 WICHITA STATE UNIVERSITY 2012      616011

@@ -12,8 +12,9 @@ permalink : /states/IL/
 # IL -- Sen. Richard Durbin (D) and  Sen. Tammy Duckworth (D)
 ## HEP Grants
 ```
-In the past 5 years, this state has received  75  HEP grants, totalling  $26,232,904.00
-Who have these grants gone to?
+In the past 5 years, this state has received:
+75 HEP grants, totalling $26,232,904.00
+ 
                                            Amount ($)
 Institution                                          
 U. OF ILLINOIS AT URBANA-CHAMPAIGN            4325000
@@ -30,8 +31,9 @@ and  3  other institutions.
 ```
 ## SC Contracts
 ```
-In the past 5 years, this state has received  821  Office of Science contracts, totalling  $6,120,553,437.38
-Who have these contracts gone to?
+In the past 5 years, this state has received:
+821 Office of Science contracts, totalling $6,120,553,437.38
+ 
                                                      Amount ($)
 vendorname                                                     
 UCHICAGO ARGONNE, LLC                              3.935175e+09
@@ -48,8 +50,9 @@ and  92  other firms.
 ```
 ## NSF MPS Grants
 ```
-In the past 5 years, this state has received  837  NSF MPS grants, totalling  $181,632,984.00
-Who have these grants gone to?
+In the past 5 years, this state has received:
+837 NSF MPS grants, totalling $181,632,984.00
+ 
                                   Amount ($)
 Institution                                 
 UNIVERSITY OF ILLINOIS              66455257
@@ -71,7 +74,7 @@ and  23  other institutions.
 ## IL-01 -- Rep. Bobby Rush (D)
 ### HEP Grants
 ```
-In the past 5 years, this district has received:  $9,140,904.00 in SC HEP grants.
+In the past 5 years, this district has received: $9,140,904.00 in SC HEP grants.
                                        Amount ($)
 Institution                      Year            
 ILLINOIS INST. OF TECHNOLOGY     2012      510000
@@ -91,7 +94,7 @@ This district received no SC contracts from 2012-2017
 ```
 ### NSF MPS Grants
 ```
-In the past 5 years, this district has received:  $67,887,828.00 in NSF MPS grants.
+In the past 5 years, this district has received: $67,887,828.00 in NSF MPS grants.
                                        Amount ($)
 Institution                      Year            
 CHICAGO STATE UNIVERSITY         2013      223398
@@ -125,7 +128,7 @@ This district received no SC contracts from 2012-2017
 ```
 ### NSF MPS Grants
 ```
-In the past 5 years, this district has received:  $67,136.00 in NSF MPS grants.
+In the past 5 years, this district has received: $67,136.00 in NSF MPS grants.
                                Amount ($)
 Institution              Year            
 CHICAGO STATE UNIVERSITY 2012       67136
@@ -140,7 +143,7 @@ This district received no SC HEP grants from 2012-2016
 ```
 ### SC Contracts
 ```
-In the past 5 years, this district has received:  $2,953,987,609.83 in SC contracts.
+In the past 5 years, this district has received: $2,953,987,609.83 in SC contracts.
                                                                   Amount ($)
 vendorname                                         fiscal_year              
 22ND CENTURY TECHNOLOGIES INC.                     2014         3.000000e+06
@@ -209,7 +212,7 @@ WESTWIND COMPUTER PRODUCTS, INC.                   2016         4.544100e+03
 ```
 ### NSF MPS Grants
 ```
-In the past 5 years, this district has received:  $52,921.00 in NSF MPS grants.
+In the past 5 years, this district has received: $52,921.00 in NSF MPS grants.
                                 Amount ($)
 Institution               Year            
 MICHIGAN STATE UNIVERSITY 2017        5000
@@ -245,7 +248,7 @@ This district received no SC contracts from 2012-2017
 ```
 ### NSF MPS Grants
 ```
-In the past 5 years, this district has received:  $247,659.00 in NSF MPS grants.
+In the past 5 years, this district has received: $247,659.00 in NSF MPS grants.
                                        Amount ($)
 Institution                      Year            
 NORTHEASTERN ILLINOIS UNIVERSITY 2012      247659
@@ -264,7 +267,7 @@ This district received no SC contracts from 2012-2017
 ```
 ### NSF MPS Grants
 ```
-In the past 5 years, this district has received:  $383,355.00 in NSF MPS grants.
+In the past 5 years, this district has received: $383,355.00 in NSF MPS grants.
                                        Amount ($)
 Institution                      Year            
 TRUSTEES OF WHEATON COLLEGE, THE 2012       84000
@@ -276,7 +279,7 @@ TRUSTEES OF WHEATON COLLEGE, THE 2012       84000
 ## IL-07 -- Rep. Danny Davis (D)
 ### HEP Grants
 ```
-In the past 5 years, this district has received:  $439,000.00 in SC HEP grants.
+In the past 5 years, this district has received: $439,000.00 in SC HEP grants.
                                         Amount ($)
 Institution                       Year            
 UNIVERSITY OF ILLINOIS AT CHICAGO 2012      100000
@@ -287,7 +290,7 @@ University of Illinois - Chicago  2014       98000
 ```
 ### SC Contracts
 ```
-In the past 5 years, this district has received:  $15,363.79 in SC contracts.
+In the past 5 years, this district has received: $15,363.79 in SC contracts.
                                                               Amount ($)
 vendorname                                       fiscal_year            
 CHERSKOV & FLAYNIK                               2012               0.00
@@ -307,7 +310,7 @@ TAB PRODUCTS CO, LLC                             2013           10602.82
 ```
 ### NSF MPS Grants
 ```
-In the past 5 years, this district has received:  $12,049,917.00 in NSF MPS grants.
+In the past 5 years, this district has received: $12,049,917.00 in NSF MPS grants.
                                     Amount ($)
 Institution                   Year            
 ADLER PLANETARIUM, THE        2012      151615
@@ -334,7 +337,7 @@ This district received no SC HEP grants from 2012-2016
 ```
 ### SC Contracts
 ```
-In the past 5 years, this district has received:  $-890.14 in SC contracts.
+In the past 5 years, this district has received: $-890.14 in SC contracts.
                                     Amount ($)
 vendorname             fiscal_year            
 GAS RESEARCH INSTITUTE 2014            -890.14
@@ -349,7 +352,7 @@ This district received no NSF MPS grants from 2012-2016
 ## IL-09 -- Rep. Janice Schakowsky (D)
 ### HEP Grants
 ```
-In the past 5 years, this district has received:  $6,698,000.00 in SC HEP grants.
+In the past 5 years, this district has received: $6,698,000.00 in SC HEP grants.
                               Amount ($)
 Institution             Year            
 NORTHWESTERN UNIVERSITY 2012     1072000
@@ -364,7 +367,7 @@ This district received no SC contracts from 2012-2017
 ```
 ### NSF MPS Grants
 ```
-In the past 5 years, this district has received:  $36,887,131.00 in NSF MPS grants.
+In the past 5 years, this district has received: $36,887,131.00 in NSF MPS grants.
                                    Amount ($)
 Institution                  Year            
 LOYOLA UNIVERSITY OF CHICAGO 2012      135162
@@ -387,7 +390,7 @@ This district received no SC HEP grants from 2012-2016
 ```
 ### SC Contracts
 ```
-In the past 5 years, this district has received:  $-14,374.48 in SC contracts.
+In the past 5 years, this district has received: $-14,374.48 in SC contracts.
                                    Amount ($)
 vendorname            fiscal_year            
 CDW GOVERNMENT LLC    2014            3839.49
@@ -408,7 +411,7 @@ This district received no SC HEP grants from 2012-2016
 ```
 ### SC Contracts
 ```
-In the past 5 years, this district has received:  $153,222.04 in SC contracts.
+In the past 5 years, this district has received: $153,222.04 in SC contracts.
                                                            Amount ($)
 vendorname                                    fiscal_year            
 ENERGY SOLUTIONS PERFORMANCE STRATEGIES, INC. 2013            8000.00
@@ -421,7 +424,7 @@ WESTERN MANAGEMENT DEVELOPMENT CENTER         2013          -13000.00
 ```
 ### NSF MPS Grants
 ```
-In the past 5 years, this district has received:  $689,632.00 in NSF MPS grants.
+In the past 5 years, this district has received: $689,632.00 in NSF MPS grants.
                                    Amount ($)
 Institution                  Year            
 ILLINOIS STATE UNIVERSITY    2012      440832
@@ -441,7 +444,7 @@ This district received no SC contracts from 2012-2017
 ```
 ### NSF MPS Grants
 ```
-In the past 5 years, this district has received:  $1,416,771.00 in NSF MPS grants.
+In the past 5 years, this district has received: $1,416,771.00 in NSF MPS grants.
                                    Amount ($)
 Institution                  Year            
 SOUTHERN ILLINOIS UNIVERSITY 2012      270824
@@ -455,7 +458,7 @@ Southern Ill U Carbondale    2015      110000
 ## IL-13 -- Rep. Rodney Davis (R)
 ### HEP Grants
 ```
-In the past 5 years, this district has received:  $4,105,000.00 in SC HEP grants.
+In the past 5 years, this district has received: $4,105,000.00 in SC HEP grants.
                                                 Amount ($)
 Institution                               Year            
 University of Illinois - Champiagn        2015     1387000
@@ -464,7 +467,7 @@ University of Illinois - Urbana-Champaign 2014     1733000
 ```
 ### SC Contracts
 ```
-In the past 5 years, this district has received:  $1,017,639,716.03 in SC contracts.
+In the past 5 years, this district has received: $1,017,639,716.03 in SC contracts.
                                                               Amount ($)
 vendorname                                     fiscal_year              
 ADVANCED MEASUREMENT TECHNOLOGY, INC.          2012         1.806646e+04
@@ -524,7 +527,7 @@ YORK TELECOM CORPORATION                       2012        -1.022060e+03
 ```
 ### NSF MPS Grants
 ```
-In the past 5 years, this district has received:  $37,119,678.00 in NSF MPS grants.
+In the past 5 years, this district has received: $37,119,678.00 in NSF MPS grants.
                                    Amount ($)
 Institution                  Year            
 ILLINOIS STATE UNIVERSITY    2013      671573
@@ -543,7 +546,7 @@ UNIVERSITY OF ILLINOIS       2013    21304348
 ## IL-14 -- Rep. Randy Hultgren (R)
 ### HEP Grants
 ```
-In the past 5 years, this district has received:  $290,000.00 in SC HEP grants.
+In the past 5 years, this district has received: $290,000.00 in SC HEP grants.
                                    Amount ($)
 Institution                  Year            
 NORTHERN ILLINOIS UNIVERSITY 2012       98000
@@ -551,7 +554,7 @@ NORTHERN ILLINOIS UNIVERSITY 2012       98000
 ```
 ### SC Contracts
 ```
-In the past 5 years, this district has received:  $2,148,772,790.31 in SC contracts.
+In the past 5 years, this district has received: $2,148,772,790.31 in SC contracts.
                                                                  Amount ($)
 vendorname                                        fiscal_year              
 DOCUMENT IMAGING DIMENSIONS INC.                  2015         3.587050e+03
@@ -566,7 +569,7 @@ KEVIN E O'CONNOR AND ASSOCS LTMD                  2015         2.250000e+04
 ```
 ### NSF MPS Grants
 ```
-In the past 5 years, this district has received:  $1,764,004.00 in NSF MPS grants.
+In the past 5 years, this district has received: $1,764,004.00 in NSF MPS grants.
                                                     Amount ($)
 Institution                                   Year            
 CAPITOL COLLEGE                               2012       25433
@@ -584,7 +587,7 @@ RUTGERS, THE STATE UNIVERSITY OF NEW JERSEY   2013      380000
 ## IL-15 -- Rep. John Shimkus (R)
 ### HEP Grants
 ```
-In the past 5 years, this district has received:  $4,325,000.00 in SC HEP grants.
+In the past 5 years, this district has received: $4,325,000.00 in SC HEP grants.
                                          Amount ($)
 Institution                        Year            
 U. OF ILLINOIS AT URBANA-CHAMPAIGN 2012     1882000
@@ -596,7 +599,7 @@ This district received no SC contracts from 2012-2017
 ```
 ### NSF MPS Grants
 ```
-In the past 5 years, this district has received:  $20,577,111.00 in NSF MPS grants.
+In the past 5 years, this district has received: $20,577,111.00 in NSF MPS grants.
                                    Amount ($)
 Institution                  Year            
 EASTERN ILLINOIS UNIVERSITY  2012      275643
@@ -611,7 +614,7 @@ UNIVERSITY OF ILLINOIS       2012    19813761
 ## IL-16 -- Rep. Adam Kinzinger (R)
 ### HEP Grants
 ```
-In the past 5 years, this district has received:  $1,235,000.00 in SC HEP grants.
+In the past 5 years, this district has received: $1,235,000.00 in SC HEP grants.
                                    Amount ($)
 Institution                  Year            
 Northern Illinois University 2014      625000
@@ -624,7 +627,7 @@ This district received no SC contracts from 2012-2017
 ```
 ### NSF MPS Grants
 ```
-In the past 5 years, this district has received:  $1,332,718.00 in NSF MPS grants.
+In the past 5 years, this district has received: $1,332,718.00 in NSF MPS grants.
                                        Amount ($)
 Institution                      Year            
 NORTHERN ILLINOIS UNIVERSITY INC 2013      954961
@@ -644,7 +647,7 @@ This district received no SC contracts from 2012-2017
 ```
 ### NSF MPS Grants
 ```
-In the past 5 years, this district has received:  $456,554.00 in NSF MPS grants.
+In the past 5 years, this district has received: $456,554.00 in NSF MPS grants.
                         Amount ($)
 Institution       Year            
 AUGUSTANA COLLEGE 2012       40611
@@ -665,7 +668,7 @@ This district received no SC contracts from 2012-2017
 ```
 ### NSF MPS Grants
 ```
-In the past 5 years, this district has received:  $619,338.00 in NSF MPS grants.
+In the past 5 years, this district has received: $619,338.00 in NSF MPS grants.
                                       Amount ($)
 Institution                     Year            
 ILLINOIS STATE UNIVERSITY       2013      100000

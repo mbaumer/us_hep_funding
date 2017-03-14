@@ -12,8 +12,9 @@ permalink : /states/CO/
 # CO -- Sen. Michael Bennet (D) and  Sen. Cory Gardner (R)
 ## HEP Grants
 ```
-In the past 5 years, this state has received  49  HEP grants, totalling  $15,089,000.00
-Who have these grants gone to?
+In the past 5 years, this state has received:
+49 HEP grants, totalling $15,089,000.00
+ 
                                           Amount ($)
 Institution                                         
 UNIVERSITY OF COLORADO AT BOULDER            3769000
@@ -30,8 +31,9 @@ and  1  other institutions.
 ```
 ## SC Contracts
 ```
-In the past 5 years, this state has received  19  Office of Science contracts, totalling  $154,349.02
-Who have these contracts gone to?
+In the past 5 years, this state has received:
+19 Office of Science contracts, totalling $154,349.02
+ 
                                          Amount ($)
 vendorname                                         
 ALLIANT CORPORATION                        40000.00
@@ -48,8 +50,9 @@ and  5  other firms.
 ```
 ## NSF MPS Grants
 ```
-In the past 5 years, this state has received  326  NSF MPS grants, totalling  $76,948,797.00
-Who have these grants gone to?
+In the past 5 years, this state has received:
+326 NSF MPS grants, totalling $76,948,797.00
+ 
                                             Amount ($)
 Institution                                           
 REGENTS OF THE UNIVERSITY OF COLORADO, THE    41689402
@@ -71,14 +74,14 @@ and  8  other institutions.
 ## CO-01 -- Rep. Diana DeGette (D)
 ### HEP Grants
 ```
-In the past 5 years, this district has received:  $1,690,000.00 in SC HEP grants.
+In the past 5 years, this district has received: $1,690,000.00 in SC HEP grants.
                                       Amount ($)
 Institution                     Year            
 University of Colorado - Denver 2016     1690000
 ```
 ### SC Contracts
 ```
-In the past 5 years, this district has received:  $79,805.00 in SC contracts.
+In the past 5 years, this district has received: $79,805.00 in SC contracts.
                                                      Amount ($)
 vendorname                              fiscal_year            
 ALLIANT CORPORATION                     2013              40000
@@ -89,7 +92,7 @@ SUMMIT TECHNICAL RESOURCES INCORPORATED 2013              39805
 ```
 ### NSF MPS Grants
 ```
-In the past 5 years, this district has received:  $2,846,605.00 in NSF MPS grants.
+In the past 5 years, this district has received: $2,846,605.00 in NSF MPS grants.
                                                  Amount ($)
 Institution                                Year            
 COLORADO SEMINARY                          2012     1430385
@@ -106,7 +109,7 @@ REGIS UNIVERSITY                           2012       44000
 ## CO-02 -- Rep. Jared Polis (D)
 ### HEP Grants
 ```
-In the past 5 years, this district has received:  $11,350,000.00 in SC HEP grants.
+In the past 5 years, this district has received: $11,350,000.00 in SC HEP grants.
                                                Amount ($)
 Institution                              Year            
 Colorado State University                2014     1019000
@@ -127,7 +130,7 @@ This district received no SC contracts from 2012-2017
 ```
 ### NSF MPS Grants
 ```
-In the past 5 years, this district has received:  $55,530,205.00 in NSF MPS grants.
+In the past 5 years, this district has received: $55,530,205.00 in NSF MPS grants.
                                                     Amount ($)
 Institution                                   Year            
 COLORADO SEMINARY                             2014       25000
@@ -155,7 +158,7 @@ University of Montana                         2015       22200
 ## CO-03 -- Rep. Scott Tipton (R)
 ### HEP Grants
 ```
-In the past 5 years, this district has received:  $37,000.00 in SC HEP grants.
+In the past 5 years, this district has received: $37,000.00 in SC HEP grants.
                                Amount ($)
 Institution              Year            
 ASPEN CENTER FOR PHYSICS 2012       10000
@@ -168,7 +171,7 @@ This district received no SC contracts from 2012-2017
 ```
 ### NSF MPS Grants
 ```
-In the past 5 years, this district has received:  $1,404,926.00 in NSF MPS grants.
+In the past 5 years, this district has received: $1,404,926.00 in NSF MPS grants.
                                              Amount ($)
 Institution                            Year            
 ASPEN CENTER FOR PHYSICS               2012      440000
@@ -183,7 +186,7 @@ FRONT RANGE SCIENTIFIC COMPUTATION INC 2012       49928
 ## CO-04 -- Rep. Ken Buck (R)
 ### HEP Grants
 ```
-In the past 5 years, this district has received:  $2,012,000.00 in SC HEP grants.
+In the past 5 years, this district has received: $2,012,000.00 in SC HEP grants.
                                 Amount ($)
 Institution               Year            
 COLORADO STATE UNIVERSITY 2012      935000
@@ -195,7 +198,7 @@ This district received no SC contracts from 2012-2017
 ```
 ### NSF MPS Grants
 ```
-In the past 5 years, this district has received:  $5,002,434.00 in NSF MPS grants.
+In the past 5 years, this district has received: $5,002,434.00 in NSF MPS grants.
                                       Amount ($)
 Institution                     Year            
 COLORADO STATE UNIVERSITY       2012     4407540
@@ -215,14 +218,14 @@ This district received no SC HEP grants from 2012-2016
 ```
 ### SC Contracts
 ```
-In the past 5 years, this district has received:  $4,568.24 in SC contracts.
+In the past 5 years, this district has received: $4,568.24 in SC contracts.
                                  Amount ($)
 vendorname          fiscal_year            
 IMAGING SYSTEMS LLC 2014            4568.24
 ```
 ### NSF MPS Grants
 ```
-In the past 5 years, this district has received:  $800,035.00 in NSF MPS grants.
+In the past 5 years, this district has received: $800,035.00 in NSF MPS grants.
                                                  Amount ($)
 Institution                                Year            
 REGENTS OF THE UNIVERSITY OF COLORADO, THE 2012      300000
@@ -243,7 +246,7 @@ This district received no SC contracts from 2012-2017
 ```
 ### NSF MPS Grants
 ```
-In the past 5 years, this district has received:  $633,344.00 in NSF MPS grants.
+In the past 5 years, this district has received: $633,344.00 in NSF MPS grants.
                                                  Amount ($)
 Institution                                Year            
 REGENTS OF THE UNIVERSITY OF COLORADO, THE 2013      113344
@@ -260,7 +263,7 @@ This district received no SC HEP grants from 2012-2016
 ```
 ### SC Contracts
 ```
-In the past 5 years, this district has received:  $69,975.78 in SC contracts.
+In the past 5 years, this district has received: $69,975.78 in SC contracts.
                                                Amount ($)
 vendorname                        fiscal_year            
 AGSI, LLC                         2012            5851.93
@@ -278,7 +281,7 @@ VALIANT SOLUTIONS, LLC            2012           10099.48
 ```
 ### NSF MPS Grants
 ```
-In the past 5 years, this district has received:  $10,731,248.00 in NSF MPS grants.
+In the past 5 years, this district has received: $10,731,248.00 in NSF MPS grants.
                                                  Amount ($)
 Institution                                Year            
 Colorado School of Mines                   2015      340000

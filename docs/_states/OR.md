@@ -12,8 +12,9 @@ permalink : /states/OR/
 # OR -- Sen. Jeff Merkley (D) and  Sen. Ron Wyden (D)
 ## HEP Grants
 ```
-In the past 5 years, this state has received  21  HEP grants, totalling  $5,783,000.00
-Who have these grants gone to?
+In the past 5 years, this state has received:
+21 HEP grants, totalling $5,783,000.00
+ 
                            Amount ($)
 Institution          Year            
 UNIVERSITY OF OREGON 2012     1158000
@@ -28,8 +29,9 @@ This state received no SC contracts from 2012-2017
 ```
 ## NSF MPS Grants
 ```
-In the past 5 years, this state has received  140  NSF MPS grants, totalling  $30,982,063.00
-Who have these grants gone to?
+In the past 5 years, this state has received:
+140 NSF MPS grants, totalling $30,982,063.00
+ 
                                            Amount ($)
 Institution                                          
 OREGON STATE UNIVERSITY                      13424845
@@ -59,7 +61,7 @@ This district received no SC contracts from 2012-2017
 ```
 ### NSF MPS Grants
 ```
-In the past 5 years, this district has received:  $359,368.00 in NSF MPS grants.
+In the past 5 years, this district has received: $359,368.00 in NSF MPS grants.
                                 Amount ($)
 Institution               Year            
 PACIFIC UNIVERSITY        2012       91885
@@ -97,7 +99,7 @@ This district received no SC contracts from 2012-2017
 ```
 ### NSF MPS Grants
 ```
-In the past 5 years, this district has received:  $1,534,903.00 in NSF MPS grants.
+In the past 5 years, this district has received: $1,534,903.00 in NSF MPS grants.
                                          Amount ($)
 Institution                        Year            
 LEWIS & CLARK COLLEGE              2014      220116
@@ -112,7 +114,7 @@ REED INSTITUTE, THE                2014      172146
 ## OR-04 -- Rep. Peter DeFazio (D)
 ### HEP Grants
 ```
-In the past 5 years, this district has received:  $5,783,000.00 in SC HEP grants.
+In the past 5 years, this district has received: $5,783,000.00 in SC HEP grants.
                            Amount ($)
 Institution          Year            
 UNIVERSITY OF OREGON 2012     1158000
@@ -127,7 +129,7 @@ This district received no SC contracts from 2012-2017
 ```
 ### NSF MPS Grants
 ```
-In the past 5 years, this district has received:  $25,500,898.00 in NSF MPS grants.
+In the past 5 years, this district has received: $25,500,898.00 in NSF MPS grants.
                               Amount ($)
 Institution             Year            
 OREGON STATE UNIVERSITY 2013      863599
@@ -154,7 +156,7 @@ This district received no SC contracts from 2012-2017
 ```
 ### NSF MPS Grants
 ```
-In the past 5 years, this district has received:  $2,295,489.00 in NSF MPS grants.
+In the past 5 years, this district has received: $2,295,489.00 in NSF MPS grants.
                               Amount ($)
 Institution             Year            
 OREGON STATE UNIVERSITY 2012     1293545

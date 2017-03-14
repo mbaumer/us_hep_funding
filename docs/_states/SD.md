@@ -12,8 +12,9 @@ permalink : /states/SD/
 # SD -- Sen. Mike Rounds (R) and  Sen. John Thune (R)
 ## HEP Grants
 ```
-In the past 5 years, this state has received  6  HEP grants, totalling  $804,477.00
-Who have these grants gone to?
+In the past 5 years, this state has received:
+6 HEP grants, totalling $804,477.00
+ 
                                            Amount ($)
 Institution                                          
 South Dakota School of Mines & Technology      664000
@@ -27,8 +28,9 @@ This state received no SC contracts from 2012-2017
 ```
 ## NSF MPS Grants
 ```
-In the past 5 years, this state has received  27  NSF MPS grants, totalling  $4,224,833.00
-Who have these grants gone to?
+In the past 5 years, this state has received:
+27 NSF MPS grants, totalling $4,224,833.00
+ 
                                            Amount ($)
 Institution                                          
 THE UNIVERSITY OF SOUTH DAKOTA                1595035
@@ -47,7 +49,7 @@ Dakota State Univ                               12000
 ## SD-00 -- Rep. Kristi Noem (R)
 ### HEP Grants
 ```
-In the past 5 years, this district has received:  $804,477.00 in SC HEP grants.
+In the past 5 years, this district has received: $804,477.00 in SC HEP grants.
                                                 Amount ($)
 Institution                               Year            
 DAKOTA STATE UNIVERSITY                   2013        8000
@@ -63,7 +65,7 @@ This district received no SC contracts from 2012-2017
 ```
 ### NSF MPS Grants
 ```
-In the past 5 years, this district has received:  $4,224,833.00 in NSF MPS grants.
+In the past 5 years, this district has received: $4,224,833.00 in NSF MPS grants.
                                                 Amount ($)
 Institution                               Year            
 AUGUSTANA COLLEGE ASSOCIATION, THE        2012       82611

@@ -12,8 +12,9 @@ permalink : /states/VA/
 # VA -- Sen. Timothy Kaine (D) and  Sen. Mark Warner (D)
 ## HEP Grants
 ```
-In the past 5 years, this state has received  42  HEP grants, totalling  $12,835,000.00
-Who have these grants gone to?
+In the past 5 years, this state has received:
+42 HEP grants, totalling $12,835,000.00
+ 
                                                     Amount ($)
 Institution                                                   
 University of Virginia                                 4144000
@@ -30,8 +31,9 @@ and  2  other institutions.
 ```
 ## SC Contracts
 ```
-In the past 5 years, this state has received  211  Office of Science contracts, totalling  $792,484,788.78
-Who have these contracts gone to?
+In the past 5 years, this state has received:
+211 Office of Science contracts, totalling $792,484,788.78
+ 
                                                       Amount ($)
 vendorname                                                      
 JEFFERSON SCIENCE ASSOCIATES LIMITED LIABILITY ...  7.901353e+08
@@ -48,8 +50,9 @@ and  11  other firms.
 ```
 ## NSF MPS Grants
 ```
-In the past 5 years, this state has received  325  NSF MPS grants, totalling  $48,415,321.00
-Who have these grants gone to?
+In the past 5 years, this state has received:
+325 NSF MPS grants, totalling $48,415,321.00
+ 
                                                Amount ($)
 Institution                                              
 RECTOR & VISITORS OF THE UNIVERSITY OF VIRGIN    13094515
@@ -71,7 +74,7 @@ and  23  other institutions.
 ## VA-01 -- Rep. Robert Wittman (R)
 ### HEP Grants
 ```
-In the past 5 years, this district has received:  $398,000.00 in SC HEP grants.
+In the past 5 years, this district has received: $398,000.00 in SC HEP grants.
                                   Amount ($)
 Institution                 Year            
 COLLEGE OF WILLIAM AND MARY 2013       64000
@@ -82,7 +85,7 @@ College of William and Mary 2014       64000
 ```
 ### SC Contracts
 ```
-In the past 5 years, this district has received:  $239,601,885.64 in SC contracts.
+In the past 5 years, this district has received: $239,601,885.64 in SC contracts.
                                                                   Amount ($)
 vendorname                                         fiscal_year              
 JEFFERSON SCIENCE ASSOCIATES LIMITED LIABILITY ... 2012         1.693405e+08
@@ -90,7 +93,7 @@ JEFFERSON SCIENCE ASSOCIATES LIMITED LIABILITY ... 2012         1.693405e+08
 ```
 ### NSF MPS Grants
 ```
-In the past 5 years, this district has received:  $6,002,696.00 in NSF MPS grants.
+In the past 5 years, this district has received: $6,002,696.00 in NSF MPS grants.
                                                     Amount ($)
 Institution                                   Year            
 CHRISTOPHER NEWPORT UNIVERSITY                2012      185000
@@ -108,7 +111,7 @@ VIRGINIA INSTITUTE OF MARINE SCIENCE          2013      128672
 ## VA-02 -- Rep. Scott Taylor (R)
 ### HEP Grants
 ```
-In the past 5 years, this district has received:  $2,502,000.00 in SC HEP grants.
+In the past 5 years, this district has received: $2,502,000.00 in SC HEP grants.
                                                   Amount ($)
 Institution                                 Year            
 OLD DOMINION UNIVERSITY                     2012      186000
@@ -118,7 +121,7 @@ Old Dominion University Research Foundation 2015     1055000
 ```
 ### SC Contracts
 ```
-In the past 5 years, this district has received:  $550,477,182.92 in SC contracts.
+In the past 5 years, this district has received: $550,477,182.92 in SC contracts.
                                                                   Amount ($)
 vendorname                                         fiscal_year              
 BRIARCOVE INCORPORATED                             2013        -2.034679e+04
@@ -132,7 +135,7 @@ SMITHFIELD POWER SWEEPIMNG LIMITED LIABILITY CO... 2013        -1.174194e+04
 ```
 ### NSF MPS Grants
 ```
-In the past 5 years, this district has received:  $1,976,240.00 in NSF MPS grants.
+In the past 5 years, this district has received: $1,976,240.00 in NSF MPS grants.
                                                   Amount ($)
 Institution                                 Year            
 CHRISTOPHER NEWPORT UNIVERSITY              2013      185000
@@ -153,14 +156,14 @@ This district received no SC HEP grants from 2012-2016
 ```
 ### SC Contracts
 ```
-In the past 5 years, this district has received:  $-3,377.43 in SC contracts.
+In the past 5 years, this district has received: $-3,377.43 in SC contracts.
                                                                 Amount ($)
 vendorname                                         fiscal_year            
 JEFFERSON SCIENCE ASSOCIATES LIMITED LIABILITY ... 2017           -3377.43
 ```
 ### NSF MPS Grants
 ```
-In the past 5 years, this district has received:  $7,844,268.00 in NSF MPS grants.
+In the past 5 years, this district has received: $7,844,268.00 in NSF MPS grants.
                                                   Amount ($)
 Institution                                 Year            
 HAMPTON UNIVERSITY                          2012      595085
@@ -198,7 +201,7 @@ This district received no NSF MPS grants from 2012-2016
 ## VA-05 -- Rep. Thomas Garrett (R)
 ### HEP Grants
 ```
-In the past 5 years, this district has received:  $6,890,000.00 in SC HEP grants.
+In the past 5 years, this district has received: $6,890,000.00 in SC HEP grants.
                               Amount ($)
 Institution             Year            
 UNIVERSITY OF VIRGINIA  2012     1312000
@@ -213,7 +216,7 @@ This district received no SC contracts from 2012-2017
 ```
 ### NSF MPS Grants
 ```
-In the past 5 years, this district has received:  $14,710,220.00 in NSF MPS grants.
+In the past 5 years, this district has received: $14,710,220.00 in NSF MPS grants.
                                                       Amount ($)
 Institution                                     Year            
 ASSOCIATED UNIVERSITIES, INC.                   2013       25000
@@ -239,7 +242,7 @@ This district received no SC contracts from 2012-2017
 ```
 ### NSF MPS Grants
 ```
-In the past 5 years, this district has received:  $1,164,141.00 in NSF MPS grants.
+In the past 5 years, this district has received: $1,164,141.00 in NSF MPS grants.
                                          Amount ($)
 Institution                        Year            
 JAMES MADISON UNIVERSITY           2012      661550
@@ -261,7 +264,7 @@ This district received no SC contracts from 2012-2017
 ```
 ### NSF MPS Grants
 ```
-In the past 5 years, this district has received:  $1,685,627.00 in NSF MPS grants.
+In the past 5 years, this district has received: $1,685,627.00 in NSF MPS grants.
                              Amount ($)
 Institution            Year            
 UNIVERSITY OF RICHMOND 2012      720168
@@ -278,7 +281,7 @@ This district received no SC HEP grants from 2012-2016
 ```
 ### SC Contracts
 ```
-In the past 5 years, this district has received:  $3,836,810.41 in SC contracts.
+In the past 5 years, this district has received: $3,836,810.41 in SC contracts.
                                                  Amount ($)
 vendorname                          fiscal_year            
 BRUNDIDGE & STANGER PC              2013           25950.25
@@ -303,7 +306,7 @@ SPECIAL LIBRARIES ASSOCIATION, INC. 2013            3150.00
 ```
 ### NSF MPS Grants
 ```
-In the past 5 years, this district has received:  $603,479.00 in NSF MPS grants.
+In the past 5 years, this district has received: $603,479.00 in NSF MPS grants.
                                          Amount ($)
 Institution                        Year            
 AMERICAN STATISTICAL ASSOCIATION   2012       44846
@@ -323,7 +326,7 @@ YALE UNIVERSITY                    2012       85591
 ## VA-09 -- Rep. H. Griffith (R)
 ### HEP Grants
 ```
-In the past 5 years, this district has received:  $3,040,000.00 in SC HEP grants.
+In the past 5 years, this district has received: $3,040,000.00 in SC HEP grants.
                                                          Amount ($)
 Institution                                        Year            
 VIRGINIA POLYTECHNIC INSTITUTE                     2012      575000
@@ -338,7 +341,7 @@ This district received no SC contracts from 2012-2017
 ```
 ### NSF MPS Grants
 ```
-In the past 5 years, this district has received:  $10,392,623.00 in NSF MPS grants.
+In the past 5 years, this district has received: $10,392,623.00 in NSF MPS grants.
                                                         Amount ($)
 Institution                                       Year            
 VA Polytechnic Inst & St U                        2015      340160
@@ -357,14 +360,14 @@ This district received no SC HEP grants from 2012-2016
 ```
 ### SC Contracts
 ```
-In the past 5 years, this district has received:  $0.00 in SC contracts.
+In the past 5 years, this district has received: $0.00 in SC contracts.
                                Amount ($)
 vendorname        fiscal_year            
 PC MALL GOV, INC. 2012                  0
 ```
 ### NSF MPS Grants
 ```
-In the past 5 years, this district has received:  $1,520,000.00 in NSF MPS grants.
+In the past 5 years, this district has received: $1,520,000.00 in NSF MPS grants.
                                        Amount ($)
 Institution                      Year            
 THE GEORGE WASHINGTON UNIVERSITY 2012     1520000
@@ -375,14 +378,14 @@ THE GEORGE WASHINGTON UNIVERSITY 2012     1520000
 ## VA-11 -- Rep. Gerald Connolly (D)
 ### HEP Grants
 ```
-In the past 5 years, this district has received:  $5,000.00 in SC HEP grants.
+In the past 5 years, this district has received: $5,000.00 in SC HEP grants.
                               Amount ($)
 Institution             Year            
 George Mason University 2016        5000
 ```
 ### SC Contracts
 ```
-In the past 5 years, this district has received:  $-1,427,712.76 in SC contracts.
+In the past 5 years, this district has received: $-1,427,712.76 in SC contracts.
                                             Amount ($)
 vendorname                     fiscal_year            
 ALVAREZ & ASSOCIATES, LLC      2014           23275.04
@@ -403,7 +406,7 @@ TOP-TIER TECHNOLOGIES, INC.    2014           14786.00
 ```
 ### NSF MPS Grants
 ```
-In the past 5 years, this district has received:  $2,516,027.00 in NSF MPS grants.
+In the past 5 years, this district has received: $2,516,027.00 in NSF MPS grants.
                                            Amount ($)
 Institution                          Year            
 ASSOCIATION FOR WOMEN IN MATHEMATICS 2012      492399

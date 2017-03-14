@@ -20,8 +20,9 @@ This state received no SC contracts from 2012-2017
 ```
 ## NSF MPS Grants
 ```
-In the past 5 years, this state has received  29  NSF MPS grants, totalling  $5,527,638.00
-Who have these grants gone to?
+In the past 5 years, this state has received:
+29 NSF MPS grants, totalling $5,527,638.00
+ 
                                     Amount ($)
 Institution                   Year            
 MONTANA STATE UNIVERSITY, INC 2012     2151989
@@ -47,7 +48,7 @@ This district received no SC contracts from 2012-2017
 ```
 ### NSF MPS Grants
 ```
-In the past 5 years, this district has received:  $5,527,638.00 in NSF MPS grants.
+In the past 5 years, this district has received: $5,527,638.00 in NSF MPS grants.
                                     Amount ($)
 Institution                   Year            
 MONTANA STATE UNIVERSITY, INC 2012     2151989

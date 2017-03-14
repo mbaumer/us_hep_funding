@@ -12,8 +12,9 @@ permalink : /states/NY/
 # NY -- Sen. Kirsten Gillibrand (D) and  Sen. Charles Schumer (D)
 ## HEP Grants
 ```
-In the past 5 years, this state has received  110  HEP grants, totalling  $33,762,000.00
-Who have these grants gone to?
+In the past 5 years, this state has received:
+110 HEP grants, totalling $33,762,000.00
+ 
                                                    Amount ($)
 Institution                                                  
 Cornell University                                    5068000
@@ -30,8 +31,9 @@ and  13  other institutions.
 ```
 ## SC Contracts
 ```
-In the past 5 years, this state has received  320  Office of Science contracts, totalling  $3,179,507,683.71
-Who have these contracts gone to?
+In the past 5 years, this state has received:
+320 Office of Science contracts, totalling $3,179,507,683.71
+ 
                                                 Amount ($)
 vendorname                                                
 BROOKHAVEN SCIENCE ASSOCIATES, LLC            3.167582e+09
@@ -48,8 +50,9 @@ and  19  other firms.
 ```
 ## NSF MPS Grants
 ```
-In the past 5 years, this state has received  1234  NSF MPS grants, totalling  $373,719,447.00
-Who have these grants gone to?
+In the past 5 years, this state has received:
+1234 NSF MPS grants, totalling $373,719,447.00
+ 
                                                Amount ($)
 Institution                                              
 CORNELL UNIVERSITY, INC                         145352401
@@ -71,7 +74,7 @@ and  56  other institutions.
 ## NY-01 -- Rep. Lee Zeldin (R)
 ### HEP Grants
 ```
-In the past 5 years, this district has received:  $7,602,000.00 in SC HEP grants.
+In the past 5 years, this district has received: $7,602,000.00 in SC HEP grants.
                                                         Amount ($)
 Institution                                       Year            
 STATE U. OF NEW YORK AT STONY BROOK               2012     1586000
@@ -82,7 +85,7 @@ Stony Brook University (SUNY)                     2015     1570000
 ```
 ### SC Contracts
 ```
-In the past 5 years, this district has received:  $3,167,847,305.77 in SC contracts.
+In the past 5 years, this district has received: $3,167,847,305.77 in SC contracts.
                                                        Amount ($)
 vendorname                              fiscal_year              
 ASPEN SYSTEMS, INC.                     2016         3.520000e+03
@@ -122,7 +125,7 @@ THE HON COMPANY                         2012         2.028367e+04
 ```
 ### NSF MPS Grants
 ```
-In the past 5 years, this district has received:  $24,777,948.00 in NSF MPS grants.
+In the past 5 years, this district has received: $24,777,948.00 in NSF MPS grants.
                                                          Amount ($)
 Institution                                        Year            
 MUHLENBERG COLLEGE                                 2012       54000
@@ -158,14 +161,14 @@ This district received no SC HEP grants from 2012-2016
 ```
 ### SC Contracts
 ```
-In the past 5 years, this district has received:  $6,052.00 in SC contracts.
+In the past 5 years, this district has received: $6,052.00 in SC contracts.
                                 Amount ($)
 vendorname         fiscal_year            
 AIP PUBLISHING LLC 2016               6052
 ```
 ### NSF MPS Grants
 ```
-In the past 5 years, this district has received:  $1,137,675.00 in NSF MPS grants.
+In the past 5 years, this district has received: $1,137,675.00 in NSF MPS grants.
                                     Amount ($)
 Institution                   Year            
 COLD SPRING HARBOR LABORATORY 2013      854363
@@ -194,7 +197,7 @@ This district received no NSF MPS grants from 2012-2016
 ## NY-05 -- Rep. Gregory Meeks (D)
 ### HEP Grants
 ```
-In the past 5 years, this district has received:  $286,000.00 in SC HEP grants.
+In the past 5 years, this district has received: $286,000.00 in SC HEP grants.
                                                       Amount ($)
 Institution                                     Year            
 CITY UNIVERSITY OF NEW YORK, YORK COLLEGE       2013       93000
@@ -207,7 +210,7 @@ This district received no SC contracts from 2012-2017
 ```
 ### NSF MPS Grants
 ```
-In the past 5 years, this district has received:  $999,460.00 in NSF MPS grants.
+In the past 5 years, this district has received: $999,460.00 in NSF MPS grants.
                                                     Amount ($)
 Institution                                   Year            
 RESEARCH FOUNDATION OF THE CITY UNIVERSITY OF 2013      648769
@@ -227,7 +230,7 @@ This district received no SC contracts from 2012-2017
 ```
 ### NSF MPS Grants
 ```
-In the past 5 years, this district has received:  $2,625,145.00 in NSF MPS grants.
+In the past 5 years, this district has received: $2,625,145.00 in NSF MPS grants.
                                                     Amount ($)
 Institution                                   Year            
 CUNY Queens College                           2015      261000
@@ -246,14 +249,14 @@ This district received no SC HEP grants from 2012-2016
 ```
 ### SC Contracts
 ```
-In the past 5 years, this district has received:  $19,966.00 in SC contracts.
+In the past 5 years, this district has received: $19,966.00 in SC contracts.
                                  Amount ($)
 vendorname          fiscal_year            
 OFFICE LEADER CORP. 2016              19966
 ```
 ### NSF MPS Grants
 ```
-In the past 5 years, this district has received:  $681,442.00 in NSF MPS grants.
+In the past 5 years, this district has received: $681,442.00 in NSF MPS grants.
                                                     Amount ($)
 Institution                                   Year            
 MULTIPLE RECIPIENTS                           2013      102100
@@ -271,7 +274,7 @@ This district received no SC HEP grants from 2012-2016
 ```
 ### SC Contracts
 ```
-In the past 5 years, this district has received:  $85,484.00 in SC contracts.
+In the past 5 years, this district has received: $85,484.00 in SC contracts.
                                                        Amount ($)
 vendorname                                fiscal_year            
 ALLOY, INC.                               2012               8000
@@ -280,7 +283,7 @@ NATURE AMERICA, INC.                      2012              70209
 ```
 ### NSF MPS Grants
 ```
-In the past 5 years, this district has received:  $10,425,155.00 in NSF MPS grants.
+In the past 5 years, this district has received: $10,425,155.00 in NSF MPS grants.
                                                    Amount ($)
 Institution                                  Year            
 AMERICAN MUSEUM OF NATURAL HISTORY, THE      2012      599074
@@ -302,7 +305,7 @@ This district received no SC contracts from 2012-2017
 ```
 ### NSF MPS Grants
 ```
-In the past 5 years, this district has received:  $1,075,681.00 in NSF MPS grants.
+In the past 5 years, this district has received: $1,075,681.00 in NSF MPS grants.
                                                     Amount ($)
 Institution                                   Year            
 MULTIPLE RECIPIENTS                           2014      445000
@@ -320,7 +323,7 @@ This district received no SC HEP grants from 2012-2016
 ```
 ### SC Contracts
 ```
-In the past 5 years, this district has received:  $506,158.76 in SC contracts.
+In the past 5 years, this district has received: $506,158.76 in SC contracts.
                                                     Amount ($)
 vendorname                             fiscal_year            
 NATURE AMERICA, INC.                   2013          146703.00
@@ -333,7 +336,7 @@ SPRINGER SCIENCE + BUSINESS MEDIA, LLC 2014          127130.76
 ```
 ### NSF MPS Grants
 ```
-In the past 5 years, this district has received:  $70,528,055.00 in NSF MPS grants.
+In the past 5 years, this district has received: $70,528,055.00 in NSF MPS grants.
                                                     Amount ($)
 Institution                                   Year            
 AMERICAN MUSEUM OF NATURAL HISTORY, THE       2013      523624
@@ -369,7 +372,7 @@ This district received no SC contracts from 2012-2017
 ```
 ### NSF MPS Grants
 ```
-In the past 5 years, this district has received:  $1,860,982.00 in NSF MPS grants.
+In the past 5 years, this district has received: $1,860,982.00 in NSF MPS grants.
                                                          Amount ($)
 Institution                                        Year            
 CUNY Staten Island                                 2015       23985
@@ -384,14 +387,14 @@ RESEARCH FOUNDATION OF THE CITY UNIVERSITY OF N... 2017       91328
 ## NY-12 -- Rep. Carolyn Maloney (D)
 ### HEP Grants
 ```
-In the past 5 years, this district has received:  $0.00 in SC HEP grants.
+In the past 5 years, this district has received: $0.00 in SC HEP grants.
                                                          Amount ($)
 Institution                                        Year            
 Research Foundation of The City University of N... 2016           0
 ```
 ### SC Contracts
 ```
-In the past 5 years, this district has received:  $510,367.44 in SC contracts.
+In the past 5 years, this district has received: $510,367.44 in SC contracts.
                                                        Amount ($)
 vendorname                                fiscal_year            
 ASSOCIATION FOR COMPUTING MACHINERY, INC. 2014            7440.00
@@ -404,7 +407,7 @@ ELSEVIER INC.                             2013          115338.30
 ```
 ### NSF MPS Grants
 ```
-In the past 5 years, this district has received:  $2,881,139.00 in NSF MPS grants.
+In the past 5 years, this district has received: $2,881,139.00 in NSF MPS grants.
                                                          Amount ($)
 Institution                                        Year            
 CUNY Queensboro Cmty Col                           2015       49704
@@ -423,7 +426,7 @@ WEILL MEDICAL COLLEGE OF CORNELL UNIVERSITY        2013      100000
 ## NY-13 -- Rep. Adriano Espaillat (D)
 ### HEP Grants
 ```
-In the past 5 years, this district has received:  $3,153,000.00 in SC HEP grants.
+In the past 5 years, this district has received: $3,153,000.00 in SC HEP grants.
                           Amount ($)
 Institution         Year            
 Columbia University 2014     1353000
@@ -436,7 +439,7 @@ This district received no SC contracts from 2012-2017
 ```
 ### NSF MPS Grants
 ```
-In the past 5 years, this district has received:  $7,650,524.00 in NSF MPS grants.
+In the past 5 years, this district has received: $7,650,524.00 in NSF MPS grants.
                                                     Amount ($)
 Institution                                   Year            
 CUNY City College                             2015      -37838
@@ -460,14 +463,14 @@ This district received no SC HEP grants from 2012-2016
 ```
 ### SC Contracts
 ```
-In the past 5 years, this district has received:  $92,108.87 in SC contracts.
+In the past 5 years, this district has received: $92,108.87 in SC contracts.
                            Amount ($)
 vendorname    fiscal_year            
 ELSEVIER INC. 2012           92108.87
 ```
 ### NSF MPS Grants
 ```
-In the past 5 years, this district has received:  $2,588,520.00 in NSF MPS grants.
+In the past 5 years, this district has received: $2,588,520.00 in NSF MPS grants.
                                                     Amount ($)
 Institution                                   Year            
 AMERICAN INST CHEM ENGINEERS                  2012       28071
@@ -486,7 +489,7 @@ YESHIVA UNIVERSITY                            2012      123000
 ## NY-15 -- Rep. José Serrano (D)
 ### HEP Grants
 ```
-In the past 5 years, this district has received:  $3,769,000.00 in SC HEP grants.
+In the past 5 years, this district has received: $3,769,000.00 in SC HEP grants.
                              Amount ($)
 Institution            Year            
 COLUMBIA UNIVERSITY    2012     1625000
@@ -500,7 +503,7 @@ This district received no SC contracts from 2012-2017
 ```
 ### NSF MPS Grants
 ```
-In the past 5 years, this district has received:  $25,903,021.00 in NSF MPS grants.
+In the past 5 years, this district has received: $25,903,021.00 in NSF MPS grants.
                                                     Amount ($)
 Institution                                   Year            
 BARNARD COLLEGE                               2012      256911
@@ -527,7 +530,7 @@ This district received no SC contracts from 2012-2017
 ```
 ### NSF MPS Grants
 ```
-In the past 5 years, this district has received:  $373,007.00 in NSF MPS grants.
+In the past 5 years, this district has received: $373,007.00 in NSF MPS grants.
                              Amount ($)
 Institution            Year            
 IONA COLLEGE           2013      116000
@@ -544,7 +547,7 @@ This district received no SC HEP grants from 2012-2016
 ```
 ### SC Contracts
 ```
-In the past 5 years, this district has received:  $9,210.00 in SC contracts.
+In the past 5 years, this district has received: $9,210.00 in SC contracts.
                                         Amount ($)
 vendorname                 fiscal_year            
 CAMBRIDGE UNIVERSITY PRESS 2015               4493
@@ -552,7 +555,7 @@ CAMBRIDGE UNIVERSITY PRESS 2015               4493
 ```
 ### NSF MPS Grants
 ```
-In the past 5 years, this district has received:  $2,341,618.00 in NSF MPS grants.
+In the past 5 years, this district has received: $2,341,618.00 in NSF MPS grants.
                                                     Amount ($)
 Institution                                   Year            
 RESEARCH FOUNDATION OF THE CITY UNIVERSITY OF 2012      318093
@@ -574,7 +577,7 @@ This district received no SC contracts from 2012-2017
 ```
 ### NSF MPS Grants
 ```
-In the past 5 years, this district has received:  $174,000.00 in NSF MPS grants.
+In the past 5 years, this district has received: $174,000.00 in NSF MPS grants.
                               Amount ($)
 Institution             Year            
 ASSN FOR SYMBOLIC LOGIC 2013       23000
@@ -595,7 +598,7 @@ This district received no SC contracts from 2012-2017
 ```
 ### NSF MPS Grants
 ```
-In the past 5 years, this district has received:  $590,994.00 in NSF MPS grants.
+In the past 5 years, this district has received: $590,994.00 in NSF MPS grants.
                                        Amount ($)
 Institution                      Year            
 ASSN FOR SYMBOLIC LOGIC          2012       30000
@@ -609,7 +612,7 @@ VASSAR COLLEGE                   2012       75000
 ## NY-20 -- Rep. Paul Tonko (D)
 ### HEP Grants
 ```
-In the past 5 years, this district has received:  $490,000.00 in SC HEP grants.
+In the past 5 years, this district has received: $490,000.00 in SC HEP grants.
                                                    Amount ($)
 Institution                                  Year            
 Rensselaer Polytechnic Institute             2014           0
@@ -625,7 +628,7 @@ This district received no SC contracts from 2012-2017
 ```
 ### NSF MPS Grants
 ```
-In the past 5 years, this district has received:  $8,895,518.00 in NSF MPS grants.
+In the past 5 years, this district has received: $8,895,518.00 in NSF MPS grants.
                                                     Amount ($)
 Institution                                   Year            
 BARD COLLEGE                                  2012        2000
@@ -647,7 +650,7 @@ TRUSTEES OF UNION COLLEGE IN THE TOWN OF SCHE 2013      168386
 ## NY-21 -- Rep. Elise Stefanik (R)
 ### HEP Grants
 ```
-In the past 5 years, this district has received:  $701,000.00 in SC HEP grants.
+In the past 5 years, this district has received: $701,000.00 in SC HEP grants.
                                      Amount ($)
 Institution                    Year            
 RENSSELAER POLYTECHNIC INST.   2012      266000
@@ -661,7 +664,7 @@ This district received no SC contracts from 2012-2017
 ```
 ### NSF MPS Grants
 ```
-In the past 5 years, this district has received:  $6,593,667.00 in NSF MPS grants.
+In the past 5 years, this district has received: $6,593,667.00 in NSF MPS grants.
                                                     Amount ($)
 Institution                                   Year            
 CLARKSON UNIVERSITY                           2013      120000
@@ -681,7 +684,7 @@ TRUSTEES OF UNION COLLEGE IN THE TOWN OF SCHE 2012      776206
 ## NY-22 -- Rep. Claudia Tenney (R)
 ### HEP Grants
 ```
-In the past 5 years, this district has received:  $2,523,000.00 in SC HEP grants.
+In the past 5 years, this district has received: $2,523,000.00 in SC HEP grants.
                          Amount ($)
 Institution        Year            
 CORNELL UNIVERSITY 2012     1456000
@@ -689,7 +692,7 @@ CORNELL UNIVERSITY 2012     1456000
 ```
 ### SC Contracts
 ```
-In the past 5 years, this district has received:  $42,500.00 in SC contracts.
+In the past 5 years, this district has received: $42,500.00 in SC contracts.
                                                           Amount ($)
 vendorname                                   fiscal_year            
 COMPUTER CONNECTION OF CENTRAL NEW YORK INC. 2013                  0
@@ -697,7 +700,7 @@ COMPUTER CONNECTION OF CENTRAL NEW YORK INC. 2013                  0
 ```
 ### NSF MPS Grants
 ```
-In the past 5 years, this district has received:  $65,003,946.00 in NSF MPS grants.
+In the past 5 years, this district has received: $65,003,946.00 in NSF MPS grants.
                                                     Amount ($)
 Institution                                   Year            
 COLGATE UNIVERSITY                            2013      123000
@@ -717,7 +720,7 @@ THE RESEARCH FOUNDATION OF STATE UNIVERSITY O 2013      270807
 ## NY-23 -- Rep. Tom Reed (R)
 ### HEP Grants
 ```
-In the past 5 years, this district has received:  $5,068,000.00 in SC HEP grants.
+In the past 5 years, this district has received: $5,068,000.00 in SC HEP grants.
                          Amount ($)
 Institution        Year            
 Cornell University 2014     1367000
@@ -730,7 +733,7 @@ This district received no SC contracts from 2012-2017
 ```
 ### NSF MPS Grants
 ```
-In the past 5 years, this district has received:  $97,394,682.00 in NSF MPS grants.
+In the past 5 years, this district has received: $97,394,682.00 in NSF MPS grants.
                                                     Amount ($)
 Institution                                   Year            
 ALFRED UNIVERSITY                             2013     -741522
@@ -754,7 +757,7 @@ THE RESEARCH FOUNDATION OF STATE UNIVERSITY O 2013        4000
 ## NY-24 -- Rep. John Katko (R)
 ### HEP Grants
 ```
-In the past 5 years, this district has received:  $905,000.00 in SC HEP grants.
+In the past 5 years, this district has received: $905,000.00 in SC HEP grants.
                           Amount ($)
 Institution         Year            
 Syracuse University 2014      298000
@@ -767,7 +770,7 @@ This district received no SC contracts from 2012-2017
 ```
 ### NSF MPS Grants
 ```
-In the past 5 years, this district has received:  $9,287,600.00 in NSF MPS grants.
+In the past 5 years, this district has received: $9,287,600.00 in NSF MPS grants.
                                         Amount ($)
 Institution                       Year            
 HAMILTON COLLEGE                  2012      143105
@@ -783,7 +786,7 @@ Syracuse University               2015      369069
 ## NY-25 -- Rep. Louise Slaughter (D)
 ### HEP Grants
 ```
-In the past 5 years, this district has received:  $5,416,000.00 in SC HEP grants.
+In the past 5 years, this district has received: $5,416,000.00 in SC HEP grants.
                               Amount ($)
 Institution             Year            
 SYRACUSE UNIVERSITY     2012      394000
@@ -794,7 +797,7 @@ University of Rochester 2014     1679000
 ```
 ### SC Contracts
 ```
-In the past 5 years, this district has received:  $8,183,530.87 in SC contracts.
+In the past 5 years, this district has received: $8,183,530.87 in SC contracts.
                                      Amount ($)
 vendorname              fiscal_year            
 DAWNBREAKER INC         2013         2000000.00
@@ -808,7 +811,7 @@ UNIVERSITY OF ROCHESTER 2015          -93943.86
 ```
 ### NSF MPS Grants
 ```
-In the past 5 years, this district has received:  $12,641,643.00 in NSF MPS grants.
+In the past 5 years, this district has received: $12,641,643.00 in NSF MPS grants.
                                               Amount ($)
 Institution                             Year            
 ROCHESTER INSTITUTE OF TECHNOLOGY (INC) 2013     1928972
@@ -834,7 +837,7 @@ This district received no SC contracts from 2012-2017
 ```
 ### NSF MPS Grants
 ```
-In the past 5 years, this district has received:  $10,129,609.00 in NSF MPS grants.
+In the past 5 years, this district has received: $10,129,609.00 in NSF MPS grants.
                                                     Amount ($)
 Institution                                   Year            
 CANISIUS COLLEGE                              2014      136500
@@ -858,7 +861,7 @@ This district received no SC contracts from 2012-2017
 ```
 ### NSF MPS Grants
 ```
-In the past 5 years, this district has received:  $349,303.00 in NSF MPS grants.
+In the past 5 years, this district has received: $349,303.00 in NSF MPS grants.
                                                     Amount ($)
 Institution                                   Year            
 CANISIUS COLLEGE                              2012      285000

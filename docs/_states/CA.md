@@ -12,8 +12,9 @@ permalink : /states/CA/
 # CA -- Sen. Dianne Feinstein (D) and  Sen. Kamala Harris (D)
 ## HEP Grants
 ```
-In the past 5 years, this state has received  195  HEP grants, totalling  $117,050,598.71
-Who have these grants gone to?
+In the past 5 years, this state has received:
+195 HEP grants, totalling $117,050,598.71
+ 
                                                Amount ($)
 Institution                                              
 University of California - Los Angeles        11196000.00
@@ -30,8 +31,9 @@ and  16  other institutions.
 ```
 ## SC Contracts
 ```
-In the past 5 years, this state has received  563  Office of Science contracts, totalling  $6,710,288,326.41
-Who have these contracts gone to?
+In the past 5 years, this state has received:
+563 Office of Science contracts, totalling $6,710,288,326.41
+ 
                                                       Amount ($)
 vendorname                                                      
 THE REGENTS OF THE UNIVERSITY OF CALIFORNIA (1741)  4.231822e+09
@@ -48,8 +50,9 @@ and  12  other firms.
 ```
 ## NSF MPS Grants
 ```
-In the past 5 years, this state has received  1947  NSF MPS grants, totalling  $686,838,063.00
-Who have these grants gone to?
+In the past 5 years, this state has received:
+1947 NSF MPS grants, totalling $686,838,063.00
+ 
                                                Amount ($)
 Institution                                              
 CALIFORNIA INSTITUTE OF TECHNOLOGY              230532068
@@ -71,7 +74,7 @@ and  87  other institutions.
 ## CA-01 -- Rep. Doug LaMalfa (R)
 ### HEP Grants
 ```
-In the past 5 years, this district has received:  $4,697,000.00 in SC HEP grants.
+In the past 5 years, this district has received: $4,697,000.00 in SC HEP grants.
                                 Amount ($)
 Institution               Year            
 U. OF CALIFORNIA AT DAVIS 2012     2199000
@@ -83,7 +86,7 @@ This district received no SC contracts from 2012-2017
 ```
 ### NSF MPS Grants
 ```
-In the past 5 years, this district has received:  $12,057,032.00 in NSF MPS grants.
+In the past 5 years, this district has received: $12,057,032.00 in NSF MPS grants.
                                       Amount ($)
 Institution                     Year            
 PACIFIC UNION COLLEGE           2012       37058
@@ -107,7 +110,7 @@ This district received no SC contracts from 2012-2017
 ```
 ### NSF MPS Grants
 ```
-In the past 5 years, this district has received:  $428,883.00 in NSF MPS grants.
+In the past 5 years, this district has received: $428,883.00 in NSF MPS grants.
                                                    Amount ($)
 Institution                                  Year            
 CSU CHICO RESEARCH FOUNDATION                2012      107534
@@ -121,7 +124,7 @@ HUMBOLDT STATE UNIVERSITY SPONSORED PROGRAMS 2013      103132
 ## CA-03 -- Rep. John Garamendi (D)
 ### HEP Grants
 ```
-In the past 5 years, this district has received:  $6,782,000.00 in SC HEP grants.
+In the past 5 years, this district has received: $6,782,000.00 in SC HEP grants.
                                        Amount ($)
 Institution                      Year            
 University of California - Davis 2014     2280000
@@ -134,7 +137,7 @@ This district received no SC contracts from 2012-2017
 ```
 ### NSF MPS Grants
 ```
-In the past 5 years, this district has received:  $12,809,859.00 in NSF MPS grants.
+In the past 5 years, this district has received: $12,809,859.00 in NSF MPS grants.
                                       Amount ($)
 Institution                     Year            
 U of Cal Davis                  2015      339263
@@ -156,7 +159,7 @@ This district received no SC contracts from 2012-2017
 ```
 ### NSF MPS Grants
 ```
-In the past 5 years, this district has received:  $10,000.00 in NSF MPS grants.
+In the past 5 years, this district has received: $10,000.00 in NSF MPS grants.
                      Amount ($)
 Institution    Year            
 U of Cal Davis 2015       10000
@@ -175,7 +178,7 @@ This district received no SC contracts from 2012-2017
 ```
 ### NSF MPS Grants
 ```
-In the past 5 years, this district has received:  $410,000.00 in NSF MPS grants.
+In the past 5 years, this district has received: $410,000.00 in NSF MPS grants.
                                   Amount ($)
 Institution                 Year            
 CALIFORNIA STATE UNIVERSITY 2013      100000
@@ -195,7 +198,7 @@ This district received no SC contracts from 2012-2017
 ```
 ### NSF MPS Grants
 ```
-In the past 5 years, this district has received:  $196,379.00 in NSF MPS grants.
+In the past 5 years, this district has received: $196,379.00 in NSF MPS grants.
                                   Amount ($)
 Institution                 Year            
 CALIFORNIA STATE UNIVERSITY 2012      100000
@@ -231,7 +234,7 @@ This district received no SC contracts from 2012-2017
 ```
 ### NSF MPS Grants
 ```
-In the past 5 years, this district has received:  $1,748,212.00 in NSF MPS grants.
+In the past 5 years, this district has received: $1,748,212.00 in NSF MPS grants.
                                               Amount ($)
 Institution                             Year            
 J.DAVID GLADSTONE INSTITUTES            2013      381324
@@ -247,7 +250,7 @@ UNIVERSITY OF SAN FRANCISCO INC         2012       68617
 ## CA-09 -- Rep. Jerry McNerney (D)
 ### HEP Grants
 ```
-In the past 5 years, this district has received:  $866,000.00 in SC HEP grants.
+In the past 5 years, this district has received: $866,000.00 in SC HEP grants.
                                    Amount ($)
 Institution                  Year            
 U. OF CALIFORNIA AT BERKELEY 2012      353000
@@ -255,7 +258,7 @@ U. OF CALIFORNIA AT BERKELEY 2012      353000
 ```
 ### SC Contracts
 ```
-In the past 5 years, this district has received:  $997,755,080.57 in SC contracts.
+In the past 5 years, this district has received: $997,755,080.57 in SC contracts.
                                                                   Amount ($)
 vendorname                                         fiscal_year              
 CE2, INC                                           2012        -5.243000e+01
@@ -266,7 +269,7 @@ THE REGENTS OF THE UNIVERSITY OF CALIFORNIA (1741) 2012         7.269280e+08
 ```
 ### NSF MPS Grants
 ```
-In the past 5 years, this district has received:  $31,256,858.00 in NSF MPS grants.
+In the past 5 years, this district has received: $31,256,858.00 in NSF MPS grants.
                                                    Amount ($)
 Institution                                  Year            
 EUREKA SCIENTIFIC INC                        2012       37431
@@ -309,7 +312,7 @@ This district received no SC contracts from 2012-2017
 ```
 ### NSF MPS Grants
 ```
-In the past 5 years, this district has received:  $180,000.00 in NSF MPS grants.
+In the past 5 years, this district has received: $180,000.00 in NSF MPS grants.
                             Amount ($)
 Institution           Year            
 UNIVERSITY OF PACIFIC 2012      180000
@@ -320,7 +323,7 @@ UNIVERSITY OF PACIFIC 2012      180000
 ## CA-12 -- Rep. Nancy Pelosi (D)
 ### HEP Grants
 ```
-In the past 5 years, this district has received:  $385,000.00 in SC HEP grants.
+In the past 5 years, this district has received: $385,000.00 in SC HEP grants.
                                      Amount ($)
 Institution                    Year            
 SAN FRANCISCO STATE UNIVERSITY 2012      200000
@@ -332,7 +335,7 @@ This district received no SC contracts from 2012-2017
 ```
 ### NSF MPS Grants
 ```
-In the past 5 years, this district has received:  $1,704,715.00 in NSF MPS grants.
+In the past 5 years, this district has received: $1,704,715.00 in NSF MPS grants.
                                               Amount ($)
 Institution                             Year            
 SAN FRANCISCO STATE UNIVERSITY          2012     1169730
@@ -346,7 +349,7 @@ UNIVERSITY OF WASHINGTON                2014       20000
 ## CA-13 -- Rep. Barbara Lee (D)
 ### HEP Grants
 ```
-In the past 5 years, this district has received:  $509,000.00 in SC HEP grants.
+In the past 5 years, this district has received: $509,000.00 in SC HEP grants.
                                           Amount ($)
 Institution                         Year            
 University of California - Berkeley 2014      509000
@@ -355,7 +358,7 @@ University of California - Berkeley 2014      509000
 ```
 ### SC Contracts
 ```
-In the past 5 years, this district has received:  $3,234,782,490.30 in SC contracts.
+In the past 5 years, this district has received: $3,234,782,490.30 in SC contracts.
                                                                   Amount ($)
 vendorname                                         fiscal_year              
 CE2, INC                                           2013        -5.148690e+04
@@ -374,7 +377,7 @@ THE REGENTS OF THE UNIVERSITY OF CALIFORNIA (1741) 2013         4.765678e+08
 ```
 ### NSF MPS Grants
 ```
-In the past 5 years, this district has received:  $47,996,312.00 in NSF MPS grants.
+In the past 5 years, this district has received: $47,996,312.00 in NSF MPS grants.
                                                     Amount ($)
 Institution                                   Year            
 CALIFORNIA STATE UNIVERSITY EAST BAY FOUNDATI 2012       67020
@@ -398,7 +401,7 @@ UNIVERSITY OF WISCONSIN SYSTEM                2013       29999
 ## CA-14 -- Rep. Jackie Speier (D)
 ### HEP Grants
 ```
-In the past 5 years, this district has received:  $4,503,000.00 in SC HEP grants.
+In the past 5 years, this district has received: $4,503,000.00 in SC HEP grants.
                                      Amount ($)
 Institution                    Year            
 STANFORD UNIVERSITY            2012     1981000
@@ -409,7 +412,7 @@ San Francisco State University 2014      100000
 ```
 ### SC Contracts
 ```
-In the past 5 years, this district has received:  $479,173,705.27 in SC contracts.
+In the past 5 years, this district has received: $479,173,705.27 in SC contracts.
                                                             Amount ($)
 vendorname                                   fiscal_year              
 ANNUAL REVIEWS, INC.                         2012         1.347200e+04
@@ -420,7 +423,7 @@ STANFORD UNIVERSITY                          2012         3.351221e+08
 ```
 ### NSF MPS Grants
 ```
-In the past 5 years, this district has received:  $34,002,655.00 in NSF MPS grants.
+In the past 5 years, this district has received: $34,002,655.00 in NSF MPS grants.
                                              Amount ($)
 Institution                            Year            
 AMERICAN INST OF MATHEMATICS           2012     2911307
@@ -442,14 +445,14 @@ This district received no SC HEP grants from 2012-2016
 ```
 ### SC Contracts
 ```
-In the past 5 years, this district has received:  $6,262.00 in SC contracts.
+In the past 5 years, this district has received: $6,262.00 in SC contracts.
                         Amount ($)
 vendorname fiscal_year            
 APPLE INC. 2012               6262
 ```
 ### NSF MPS Grants
 ```
-In the past 5 years, this district has received:  $148,156.00 in NSF MPS grants.
+In the past 5 years, this district has received: $148,156.00 in NSF MPS grants.
                                                     Amount ($)
 Institution                                   Year            
 CALIFORNIA STATE UNIVERSITY EAST BAY FOUNDATI 2013      109141
@@ -469,7 +472,7 @@ This district received no SC contracts from 2012-2017
 ```
 ### NSF MPS Grants
 ```
-In the past 5 years, this district has received:  $2,932,277.00 in NSF MPS grants.
+In the past 5 years, this district has received: $2,932,277.00 in NSF MPS grants.
                                                     Amount ($)
 Institution                                   Year            
 SAN JOSE STATE UNIVERSITY RESEARCH FOUNDATION 2012      220000
@@ -483,7 +486,7 @@ UNIVERSITY OF CALIFORNIA MERCED               2013     1241709
 ## CA-17 -- Rep. Ro Khanna (D)
 ### HEP Grants
 ```
-In the past 5 years, this district has received:  $5,381,000.00 in SC HEP grants.
+In the past 5 years, this district has received: $5,381,000.00 in SC HEP grants.
                                      Amount ($)
 Institution                    Year            
 U. OF CALIFORNIA AT SANTA CRUZ 2012     2174000
@@ -491,14 +494,14 @@ U. OF CALIFORNIA AT SANTA CRUZ 2012     2174000
 ```
 ### SC Contracts
 ```
-In the past 5 years, this district has received:  $15,576.22 in SC contracts.
+In the past 5 years, this district has received: $15,576.22 in SC contracts.
                                              Amount ($)
 vendorname                      fiscal_year            
 NEW TECH SOLUTIONS INCORPORATED 2016           15576.22
 ```
 ### NSF MPS Grants
 ```
-In the past 5 years, this district has received:  $5,407,975.00 in NSF MPS grants.
+In the past 5 years, this district has received: $5,407,975.00 in NSF MPS grants.
                                                     Amount ($)
 Institution                                   Year            
 PRESIDENT AND BOARD OF TRUSTEES OF SANTA CLAR 2013      230946
@@ -511,7 +514,7 @@ UNIVERSITY OF CALIFORNIA, SANTA CRUZ          2012     4733020
 ## CA-18 -- Rep. Anna Eshoo (D)
 ### HEP Grants
 ```
-In the past 5 years, this district has received:  $4,945,000.00 in SC HEP grants.
+In the past 5 years, this district has received: $4,945,000.00 in SC HEP grants.
                           Amount ($)
 Institution         Year            
 Stanford University 2014     2315000
@@ -520,7 +523,7 @@ Stanford University 2014     2315000
 ```
 ### SC Contracts
 ```
-In the past 5 years, this district has received:  $1,997,881,114.15 in SC contracts.
+In the past 5 years, this district has received: $1,997,881,114.15 in SC contracts.
                                      Amount ($)
 vendorname            fiscal_year              
 ANNUAL REVIEWS, INC.  2014         7.294000e+03
@@ -534,7 +537,7 @@ STANFORD UNIVERSITY   2013         2.355747e+08
 ```
 ### NSF MPS Grants
 ```
-In the past 5 years, this district has received:  $49,100,138.00 in NSF MPS grants.
+In the past 5 years, this district has received: $49,100,138.00 in NSF MPS grants.
                                                     Amount ($)
 Institution                                   Year            
 AMERICAN INST OF MATHEMATICS                  2013     2520644
@@ -573,7 +576,7 @@ This district received no NSF MPS grants from 2012-2016
 ## CA-20 -- Rep. Jimmy Panetta (D)
 ### HEP Grants
 ```
-In the past 5 years, this district has received:  $7,616,903.00 in SC HEP grants.
+In the past 5 years, this district has received: $7,616,903.00 in SC HEP grants.
                                             Amount ($)
 Institution                           Year            
 University of California - Santa Cruz 2014     2637903
@@ -586,7 +589,7 @@ This district received no SC contracts from 2012-2017
 ```
 ### NSF MPS Grants
 ```
-In the past 5 years, this district has received:  $9,109,910.00 in NSF MPS grants.
+In the past 5 years, this district has received: $9,109,910.00 in NSF MPS grants.
                                                     Amount ($)
 Institution                                   Year            
 CALIFORNIA STATE UNIVERSITY FRESNO FOUNDATION 2012       99770
@@ -611,7 +614,7 @@ This district received no SC contracts from 2012-2017
 ```
 ### NSF MPS Grants
 ```
-In the past 5 years, this district has received:  $625,720.00 in NSF MPS grants.
+In the past 5 years, this district has received: $625,720.00 in NSF MPS grants.
                                                     Amount ($)
 Institution                                   Year            
 CALIFORNIA STATE UNIVERSITY FRESNO FOUNDATION 2012      307441
@@ -632,7 +635,7 @@ This district received no SC contracts from 2012-2017
 ```
 ### NSF MPS Grants
 ```
-In the past 5 years, this district has received:  $898,125.00 in NSF MPS grants.
+In the past 5 years, this district has received: $898,125.00 in NSF MPS grants.
                                                     Amount ($)
 Institution                                   Year            
 CAL POLY CORPORATION                          2012      490994
@@ -645,7 +648,7 @@ CALIFORNIA STATE UNIVERSITY, BAKERSFIELD      2012      269594
 ## CA-23 -- Rep. Kevin McCarthy (R)
 ### HEP Grants
 ```
-In the past 5 years, this district has received:  $4,747,000.00 in SC HEP grants.
+In the past 5 years, this district has received: $4,747,000.00 in SC HEP grants.
                                         Amount ($)
 Institution                       Year            
 U. OF CALIFORNIA AT SANTA BARBARA 2012     2555000
@@ -657,7 +660,7 @@ This district received no SC contracts from 2012-2017
 ```
 ### NSF MPS Grants
 ```
-In the past 5 years, this district has received:  $17,761,738.00 in NSF MPS grants.
+In the past 5 years, this district has received: $17,761,738.00 in NSF MPS grants.
                                                     Amount ($)
 Institution                                   Year            
 LAS CUMBRES OBSERVATORY GLOBAL TELESCOPE NETW 2012     1721571
@@ -671,7 +674,7 @@ WESTMONT COLLEGE                              2012       25000
 ## CA-24 -- Rep. Salud Carbajal (D)
 ### HEP Grants
 ```
-In the past 5 years, this district has received:  $7,516,695.71 in SC HEP grants.
+In the past 5 years, this district has received: $7,516,695.71 in SC HEP grants.
                                                Amount ($)
 Institution                              Year            
 University of California - Santa Barbara 2014  2334000.00
@@ -684,7 +687,7 @@ This district received no SC contracts from 2012-2017
 ```
 ### NSF MPS Grants
 ```
-In the past 5 years, this district has received:  $39,760,477.00 in NSF MPS grants.
+In the past 5 years, this district has received: $39,760,477.00 in NSF MPS grants.
                                                     Amount ($)
 Institution                                   Year            
 CAL POLY CORPORATION                          2013      752027
@@ -724,7 +727,7 @@ This district received no SC HEP grants from 2012-2016
 ```
 ### SC Contracts
 ```
-In the past 5 years, this district has received:  $13,981.00 in SC contracts.
+In the past 5 years, this district has received: $13,981.00 in SC contracts.
                                      Amount ($)
 vendorname              fiscal_year            
 SAGE PUBLICATIONS, INC. 2013               3792
@@ -733,7 +736,7 @@ SAGE PUBLICATIONS, INC. 2013               3792
 ```
 ### NSF MPS Grants
 ```
-In the past 5 years, this district has received:  $790,035.00 in NSF MPS grants.
+In the past 5 years, this district has received: $790,035.00 in NSF MPS grants.
                                                    Amount ($)
 Institution                                  Year            
 CALIFORNIA STATE UNIVERSITY, CHANNEL ISLANDS 2014      134768
@@ -754,14 +757,14 @@ This district received no SC HEP grants from 2012-2016
 ```
 ### SC Contracts
 ```
-In the past 5 years, this district has received:  $-11,917.01 in SC contracts.
+In the past 5 years, this district has received: $-11,917.01 in SC contracts.
                                             Amount ($)
 vendorname                     fiscal_year            
 PARSONS ENVIRONMENTAL SVCS INC 2014          -11917.01
 ```
 ### NSF MPS Grants
 ```
-In the past 5 years, this district has received:  $168,184,628.00 in NSF MPS grants.
+In the past 5 years, this district has received: $168,184,628.00 in NSF MPS grants.
                                               Amount ($)
 Institution                             Year            
 BRANDEIS UNIVERSITY                     2013       20000
@@ -794,7 +797,7 @@ This district received no SC contracts from 2012-2017
 ```
 ### NSF MPS Grants
 ```
-In the past 5 years, this district has received:  $408,775.00 in NSF MPS grants.
+In the past 5 years, this district has received: $408,775.00 in NSF MPS grants.
                                   Amount ($)
 Institution                 Year            
 CEDARS-SINAI MEDICAL CENTER 2013      182522
@@ -806,7 +809,7 @@ LOS ANGELES CITY COLLEGE    2013      226253
 ## CA-29 -- Rep. Tony Cárdenas (D)
 ### HEP Grants
 ```
-In the past 5 years, this district has received:  $21,245,000.00 in SC HEP grants.
+In the past 5 years, this district has received: $21,245,000.00 in SC HEP grants.
                                                    Amount ($)
 Institution                                  Year            
 CALIFORNIA INST. OF TECHNOLOGY               2012     4076000
@@ -821,7 +824,7 @@ This district received no SC contracts from 2012-2017
 ```
 ### NSF MPS Grants
 ```
-In the past 5 years, this district has received:  $73,889,777.00 in NSF MPS grants.
+In the past 5 years, this district has received: $73,889,777.00 in NSF MPS grants.
                                          Amount ($)
 Institution                        Year            
 CALIFORNIA INSTITUTE OF TECHNOLOGY 2012    73326225
@@ -834,7 +837,7 @@ MULTIPLE RECIPIENTS                2012      474000
 ## CA-30 -- Rep. Brad Sherman (D)
 ### HEP Grants
 ```
-In the past 5 years, this district has received:  $8,728,000.00 in SC HEP grants.
+In the past 5 years, this district has received: $8,728,000.00 in SC HEP grants.
                                       Amount ($)
 Institution                     Year            
 U. OF CALIFORNIA AT LOS ANGELES 2012     5093000
@@ -846,7 +849,7 @@ This district received no SC contracts from 2012-2017
 ```
 ### NSF MPS Grants
 ```
-In the past 5 years, this district has received:  $19,378,398.00 in NSF MPS grants.
+In the past 5 years, this district has received: $19,378,398.00 in NSF MPS grants.
                                             Amount ($)
 Institution                           Year            
 UNIVERSITY CORPORATION, THE           2013     2047822
@@ -868,7 +871,7 @@ This district received no SC contracts from 2012-2017
 ```
 ### NSF MPS Grants
 ```
-In the past 5 years, this district has received:  $1,241,770.00 in NSF MPS grants.
+In the past 5 years, this district has received: $1,241,770.00 in NSF MPS grants.
                                                   Amount ($)
 Institution                                 Year            
 LOS ANGELES CITY COLLEGE                    2012      114192
@@ -889,7 +892,7 @@ This district received no SC contracts from 2012-2017
 ```
 ### NSF MPS Grants
 ```
-In the past 5 years, this district has received:  $1,178,134.00 in NSF MPS grants.
+In the past 5 years, this district has received: $1,178,134.00 in NSF MPS grants.
                                                     Amount ($)
 Institution                                   Year            
 CALIFORNIA STATE UNIVERSITY AUXILIARY SERVICE 2012     1178134
@@ -900,7 +903,7 @@ CALIFORNIA STATE UNIVERSITY AUXILIARY SERVICE 2012     1178134
 ## CA-33 -- Rep. Ted Lieu (D)
 ### HEP Grants
 ```
-In the past 5 years, this district has received:  $11,895,000.00 in SC HEP grants.
+In the past 5 years, this district has received: $11,895,000.00 in SC HEP grants.
                                              Amount ($)
 Institution                            Year            
 UNIVERSITY OF SOUTHERN CALIFORNIA      2012      355000
@@ -915,7 +918,7 @@ This district received no SC contracts from 2012-2017
 ```
 ### NSF MPS Grants
 ```
-In the past 5 years, this district has received:  $43,489,376.00 in NSF MPS grants.
+In the past 5 years, this district has received: $43,489,376.00 in NSF MPS grants.
                                             Amount ($)
 Institution                           Year            
 MULTIPLE RECIPIENTS                   2013      900000
@@ -944,7 +947,7 @@ This district received no SC contracts from 2012-2017
 ```
 ### NSF MPS Grants
 ```
-In the past 5 years, this district has received:  $634,409.00 in NSF MPS grants.
+In the past 5 years, this district has received: $634,409.00 in NSF MPS grants.
                                         Amount ($)
 Institution                       Year            
 OCCIDENTAL COLLEGE                2013      188000
@@ -966,7 +969,7 @@ This district received no SC contracts from 2012-2017
 ```
 ### NSF MPS Grants
 ```
-In the past 5 years, this district has received:  $394,110.00 in NSF MPS grants.
+In the past 5 years, this district has received: $394,110.00 in NSF MPS grants.
                                      Amount ($)
 Institution                    Year            
 CAL POLY POMONA FOUNDATION INC 2013       45288
@@ -995,7 +998,7 @@ This district received no NSF MPS grants from 2012-2016
 ## CA-37 -- Rep. Karen Bass (D)
 ### HEP Grants
 ```
-In the past 5 years, this district has received:  $1,120,000.00 in SC HEP grants.
+In the past 5 years, this district has received: $1,120,000.00 in SC HEP grants.
                                         Amount ($)
 Institution                       Year            
 University of Southern California 2014      400000
@@ -1004,14 +1007,14 @@ University of Southern California 2014      400000
 ```
 ### SC Contracts
 ```
-In the past 5 years, this district has received:  $102,342.00 in SC contracts.
+In the past 5 years, this district has received: $102,342.00 in SC contracts.
                                                  Amount ($)
 vendorname                          fiscal_year            
 HUMAN POTENTIAL CONSULTANTS, L.L.C. 2012             102342
 ```
 ### NSF MPS Grants
 ```
-In the past 5 years, this district has received:  $3,436,127.00 in NSF MPS grants.
+In the past 5 years, this district has received: $3,436,127.00 in NSF MPS grants.
                                         Amount ($)
 Institution                       Year            
 U of Southern California          2015      569940
@@ -1028,14 +1031,14 @@ This district received no SC HEP grants from 2012-2016
 ```
 ### SC Contracts
 ```
-In the past 5 years, this district has received:  $61,796.39 in SC contracts.
+In the past 5 years, this district has received: $61,796.39 in SC contracts.
                                                Amount ($)
 vendorname                        fiscal_year            
 IMPRES TECHNOLOGY SOLUTIONS, INC. 2015           61796.39
 ```
 ### NSF MPS Grants
 ```
-In the past 5 years, this district has received:  $37,077.00 in NSF MPS grants.
+In the past 5 years, this district has received: $37,077.00 in NSF MPS grants.
                                      Amount ($)
 Institution                    Year            
 CAL POLY POMONA FOUNDATION INC 2012       37077
@@ -1054,7 +1057,7 @@ This district received no SC contracts from 2012-2017
 ```
 ### NSF MPS Grants
 ```
-In the past 5 years, this district has received:  $1,490,054.00 in NSF MPS grants.
+In the past 5 years, this district has received: $1,490,054.00 in NSF MPS grants.
                                                    Amount ($)
 Institution                                  Year            
 CALIFORNIA STATE UNIVERSITY, FULLERTON       2013      430407
@@ -1075,7 +1078,7 @@ This district received no SC contracts from 2012-2017
 ```
 ### NSF MPS Grants
 ```
-In the past 5 years, this district has received:  $157,688.00 in NSF MPS grants.
+In the past 5 years, this district has received: $157,688.00 in NSF MPS grants.
                                              Amount ($)
 Institution                            Year            
 CALIFORNIA STATE UNIVERSITY, FULLERTON 2012      157688
@@ -1086,7 +1089,7 @@ CALIFORNIA STATE UNIVERSITY, FULLERTON 2012      157688
 ## CA-41 -- Rep. Mark Takano (D)
 ### HEP Grants
 ```
-In the past 5 years, this district has received:  $3,213,000.00 in SC HEP grants.
+In the past 5 years, this district has received: $3,213,000.00 in SC HEP grants.
                                            Amount ($)
 Institution                          Year            
 University of California - Riverside 2014     1233000
@@ -1099,7 +1102,7 @@ This district received no SC contracts from 2012-2017
 ```
 ### NSF MPS Grants
 ```
-In the past 5 years, this district has received:  $7,561,906.00 in NSF MPS grants.
+In the past 5 years, this district has received: $7,561,906.00 in NSF MPS grants.
                                                          Amount ($)
 Institution                                        Year            
 OHIO STATE UNIVERSITY, THE                         2013      180000
@@ -1138,7 +1141,7 @@ This district received no SC contracts from 2012-2017
 ```
 ### NSF MPS Grants
 ```
-In the past 5 years, this district has received:  $55,466.00 in NSF MPS grants.
+In the past 5 years, this district has received: $55,466.00 in NSF MPS grants.
                                       Amount ($)
 Institution                     Year            
 LOYOLA MARYMOUNT UNIVERSITY INC 2014       55466
@@ -1149,7 +1152,7 @@ LOYOLA MARYMOUNT UNIVERSITY INC 2014       55466
 ## CA-44 -- Rep. Nanette Barragán (D)
 ### HEP Grants
 ```
-In the past 5 years, this district has received:  $2,573,000.00 in SC HEP grants.
+In the past 5 years, this district has received: $2,573,000.00 in SC HEP grants.
                                     Amount ($)
 Institution                   Year            
 U. OF CALIFORNIA AT RIVERSIDE 2012     1423000
@@ -1157,7 +1160,7 @@ U. OF CALIFORNIA AT RIVERSIDE 2012     1423000
 ```
 ### SC Contracts
 ```
-In the past 5 years, this district has received:  $504,048.45 in SC contracts.
+In the past 5 years, this district has received: $504,048.45 in SC contracts.
                                                  Amount ($)
 vendorname                          fiscal_year            
 HUMAN POTENTIAL CONSULTANTS, L.L.C. 2013          129708.80
@@ -1167,7 +1170,7 @@ HUMAN POTENTIAL CONSULTANTS, L.L.C. 2013          129708.80
 ```
 ### NSF MPS Grants
 ```
-In the past 5 years, this district has received:  $8,374,319.00 in NSF MPS grants.
+In the past 5 years, this district has received: $8,374,319.00 in NSF MPS grants.
                                                     Amount ($)
 Institution                                   Year            
 REGENTS OF THE UNIVERSITY OF CALIFORNIA AT RI 2012     5408849
@@ -1181,7 +1184,7 @@ U of Cal Riverside                            2015      110000
 ## CA-45 -- Rep. Mimi Walters (R)
 ### HEP Grants
 ```
-In the past 5 years, this district has received:  $7,418,000.00 in SC HEP grants.
+In the past 5 years, this district has received: $7,418,000.00 in SC HEP grants.
                                         Amount ($)
 Institution                       Year            
 University of California - Irvine 2014     2416000
@@ -1194,7 +1197,7 @@ This district received no SC contracts from 2012-2017
 ```
 ### NSF MPS Grants
 ```
-In the past 5 years, this district has received:  $20,896,507.00 in NSF MPS grants.
+In the past 5 years, this district has received: $20,896,507.00 in NSF MPS grants.
                                        Amount ($)
 Institution                      Year            
 U of Cal Irvine                  2015      475342
@@ -1207,7 +1210,7 @@ UNIVERSITY OF CALIFORNIA, IRVINE 2013     7457002
 ## CA-46 -- Rep. J. Correa (D)
 ### HEP Grants
 ```
-In the past 5 years, this district has received:  $40,000.00 in SC HEP grants.
+In the past 5 years, this district has received: $40,000.00 in SC HEP grants.
                                      Amount ($)
 Institution                    Year            
 CALIFORNIA STATE U. LONG BEACH 2012       40000
@@ -1219,7 +1222,7 @@ This district received no SC contracts from 2012-2017
 ```
 ### NSF MPS Grants
 ```
-In the past 5 years, this district has received:  $357,165.00 in NSF MPS grants.
+In the past 5 years, this district has received: $357,165.00 in NSF MPS grants.
                                                     Amount ($)
 Institution                                   Year            
 CALIFORNIA STATE UNIVERSITY LONG BEACH FOUNDA 2012      237611
@@ -1236,7 +1239,7 @@ This district received no SC HEP grants from 2012-2016
 ```
 ### SC Contracts
 ```
-In the past 5 years, this district has received:  $39,040.92 in SC contracts.
+In the past 5 years, this district has received: $39,040.92 in SC contracts.
                                     Amount ($)
 vendorname             fiscal_year            
 EXEMPLIS LLC           2015            8380.80
@@ -1244,7 +1247,7 @@ HIRSCH ELECTRONICS LLC 2012           30660.12
 ```
 ### NSF MPS Grants
 ```
-In the past 5 years, this district has received:  $740,552.00 in NSF MPS grants.
+In the past 5 years, this district has received: $740,552.00 in NSF MPS grants.
                                                     Amount ($)
 Institution                                   Year            
 CALIFORNIA STATE UNIVERSITY LONG BEACH FOUNDA 2013      152048
@@ -1258,7 +1261,7 @@ Cal State U Long Beach Fdn                    2015      125000
 ## CA-48 -- Rep. Dana Rohrabacher (R)
 ### HEP Grants
 ```
-In the past 5 years, this district has received:  $4,925,000.00 in SC HEP grants.
+In the past 5 years, this district has received: $4,925,000.00 in SC HEP grants.
                                  Amount ($)
 Institution                Year            
 U. OF CALIFORNIA AT IRVINE 2012     2633000
@@ -1270,7 +1273,7 @@ This district received no SC contracts from 2012-2017
 ```
 ### NSF MPS Grants
 ```
-In the past 5 years, this district has received:  $20,588,413.00 in NSF MPS grants.
+In the past 5 years, this district has received: $20,588,413.00 in NSF MPS grants.
                                                     Amount ($)
 Institution                                   Year            
 PURDUE UNIVERSITY                             2012       50000
@@ -1295,7 +1298,7 @@ This district received no SC contracts from 2012-2017
 ```
 ### NSF MPS Grants
 ```
-In the past 5 years, this district has received:  $28,191,709.00 in NSF MPS grants.
+In the past 5 years, this district has received: $28,191,709.00 in NSF MPS grants.
                                           Amount ($)
 Institution                         Year            
 SCIBERQUEST, INC.                   2013       55000
@@ -1319,7 +1322,7 @@ This district received no SC contracts from 2012-2017
 ```
 ### NSF MPS Grants
 ```
-In the past 5 years, this district has received:  $55,000.00 in NSF MPS grants.
+In the past 5 years, this district has received: $55,000.00 in NSF MPS grants.
                         Amount ($)
 Institution       Year            
 SCIBERQUEST, INC. 2012       55000
@@ -1346,7 +1349,7 @@ This district received no NSF MPS grants from 2012-2016
 ## CA-52 -- Rep. Scott Peters (D)
 ### HEP Grants
 ```
-In the past 5 years, this district has received:  $4,875,000.00 in SC HEP grants.
+In the past 5 years, this district has received: $4,875,000.00 in SC HEP grants.
                                            Amount ($)
 Institution                          Year            
 University of California - San Diego 2014     1630000
@@ -1355,7 +1358,7 @@ University of California - San Diego 2014     1630000
 ```
 ### SC Contracts
 ```
-In the past 5 years, this district has received:  $-35,193.85 in SC contracts.
+In the past 5 years, this district has received: $-35,193.85 in SC contracts.
                                           Amount ($)
 vendorname                   fiscal_year            
 BLUE TECH INC.               2016            6388.15
@@ -1364,7 +1367,7 @@ SOLAR TURBINES, INCORPORATED 2014          -20000.00
 ```
 ### NSF MPS Grants
 ```
-In the past 5 years, this district has received:  $1,826,848.00 in NSF MPS grants.
+In the past 5 years, this district has received: $1,826,848.00 in NSF MPS grants.
                                           Amount ($)
 Institution                         Year            
 MULTIPLE RECIPIENTS                 2013      450000
@@ -1378,7 +1381,7 @@ UNIVERSITY OF SAN DIEGO             2013      451293
 ## CA-53 -- Rep. Susan Davis (D)
 ### HEP Grants
 ```
-In the past 5 years, this district has received:  $3,070,000.00 in SC HEP grants.
+In the past 5 years, this district has received: $3,070,000.00 in SC HEP grants.
                                     Amount ($)
 Institution                   Year            
 U. OF CALIFORNIA AT SAN DIEGO 2012     1525000
@@ -1390,7 +1393,7 @@ This district received no SC contracts from 2012-2017
 ```
 ### NSF MPS Grants
 ```
-In the past 5 years, this district has received:  $14,934,399.00 in NSF MPS grants.
+In the past 5 years, this district has received: $14,934,399.00 in NSF MPS grants.
                                             Amount ($)
 Institution                           Year            
 SAN DIEGO STATE UNIVERSITY FOUNDATION 2012      150000

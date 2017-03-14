@@ -20,8 +20,9 @@ This state received no SC contracts from 2012-2017
 ```
 ## NSF MPS Grants
 ```
-In the past 5 years, this state has received  34  NSF MPS grants, totalling  $8,772,821.00
-Who have these grants gone to?
+In the past 5 years, this state has received:
+34 NSF MPS grants, totalling $8,772,821.00
+ 
                                                     Amount ($)
 Institution                                   Year            
 MARSHALL UNIVERSITY RESEARCH CORPORATION      2012      338845
@@ -45,7 +46,7 @@ This district received no SC contracts from 2012-2017
 ```
 ### NSF MPS Grants
 ```
-In the past 5 years, this district has received:  $8,433,976.00 in NSF MPS grants.
+In the past 5 years, this district has received: $8,433,976.00 in NSF MPS grants.
                                                     Amount ($)
 Institution                                   Year            
 WEST VIRGINIA UNIVERSITY RESEARCH CORPORATION 2012     2258269
@@ -83,7 +84,7 @@ This district received no SC contracts from 2012-2017
 ```
 ### NSF MPS Grants
 ```
-In the past 5 years, this district has received:  $338,845.00 in NSF MPS grants.
+In the past 5 years, this district has received: $338,845.00 in NSF MPS grants.
                                                Amount ($)
 Institution                              Year            
 MARSHALL UNIVERSITY RESEARCH CORPORATION 2012      338845

@@ -12,8 +12,9 @@ permalink : /states/MS/
 # MS -- Sen. Thad Cochran (R) and  Sen. Roger Wicker (R)
 ## HEP Grants
 ```
-In the past 5 years, this state has received  7  HEP grants, totalling  $1,525,000.00
-Who have these grants gone to?
+In the past 5 years, this state has received:
+7 HEP grants, totalling $1,525,000.00
+ 
                                 Amount ($)
 Institution               Year            
 UNIVERSITY OF MISSISSIPPI 2012      349000
@@ -28,8 +29,9 @@ This state received no SC contracts from 2012-2017
 ```
 ## NSF MPS Grants
 ```
-In the past 5 years, this state has received  55  NSF MPS grants, totalling  $7,710,450.00
-Who have these grants gone to?
+In the past 5 years, this state has received:
+55 NSF MPS grants, totalling $7,710,450.00
+ 
                                     Amount ($)
 Institution                                   
 UNIVERSITY OF MISSISSIPPI              2327436
@@ -46,7 +48,7 @@ U of Southern Mississippi                 4000
 ## MS-01 -- Rep. Trent Kelly (R)
 ### HEP Grants
 ```
-In the past 5 years, this district has received:  $1,525,000.00 in SC HEP grants.
+In the past 5 years, this district has received: $1,525,000.00 in SC HEP grants.
                                 Amount ($)
 Institution               Year            
 UNIVERSITY OF MISSISSIPPI 2012      349000
@@ -61,7 +63,7 @@ This district received no SC contracts from 2012-2017
 ```
 ### NSF MPS Grants
 ```
-In the past 5 years, this district has received:  $2,327,436.00 in NSF MPS grants.
+In the past 5 years, this district has received: $2,327,436.00 in NSF MPS grants.
                                 Amount ($)
 Institution               Year            
 UNIVERSITY OF MISSISSIPPI 2012      897398
@@ -82,7 +84,7 @@ This district received no SC contracts from 2012-2017
 ```
 ### NSF MPS Grants
 ```
-In the past 5 years, this district has received:  $1,861,288.00 in NSF MPS grants.
+In the past 5 years, this district has received: $1,861,288.00 in NSF MPS grants.
                                Amount ($)
 Institution              Year            
 JACKSON STATE UNIVERSITY 2012      620114
@@ -103,7 +105,7 @@ This district received no SC contracts from 2012-2017
 ```
 ### NSF MPS Grants
 ```
-In the past 5 years, this district has received:  $1,885,044.00 in NSF MPS grants.
+In the past 5 years, this district has received: $1,885,044.00 in NSF MPS grants.
                                    Amount ($)
 Institution                  Year            
 JACKSON STATE UNIVERSITY     2013      240000
@@ -126,7 +128,7 @@ This district received no SC contracts from 2012-2017
 ```
 ### NSF MPS Grants
 ```
-In the past 5 years, this district has received:  $1,636,682.00 in NSF MPS grants.
+In the past 5 years, this district has received: $1,636,682.00 in NSF MPS grants.
                                          Amount ($)
 Institution                        Year            
 U of Southern Mississippi          2015        4000

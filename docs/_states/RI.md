@@ -12,8 +12,9 @@ permalink : /states/RI/
 # RI -- Sen. John Reed (D) and  Sen. Sheldon Whitehouse (D)
 ## HEP Grants
 ```
-In the past 5 years, this state has received  13  HEP grants, totalling  $9,880,000.00
-Who have these grants gone to?
+In the past 5 years, this state has received:
+13 HEP grants, totalling $9,880,000.00
+ 
                        Amount ($)
 Institution      Year            
 BROWN UNIVERSITY 2012     1976000
@@ -28,8 +29,9 @@ This state received no SC contracts from 2012-2017
 ```
 ## NSF MPS Grants
 ```
-In the past 5 years, this state has received  153  NSF MPS grants, totalling  $28,258,967.00
-Who have these grants gone to?
+In the past 5 years, this state has received:
+153 NSF MPS grants, totalling $28,258,967.00
+ 
                                                Amount ($)
 Institution                                              
 BROWN UNIVERSITY IN PROVIDENCE IN STATE OF RI    24219355
@@ -51,7 +53,7 @@ and  1  other institutions.
 ## RI-01 -- Rep. David Cicilline (D)
 ### HEP Grants
 ```
-In the past 5 years, this district has received:  $9,880,000.00 in SC HEP grants.
+In the past 5 years, this district has received: $9,880,000.00 in SC HEP grants.
                        Amount ($)
 Institution      Year            
 BROWN UNIVERSITY 2012     1976000
@@ -66,7 +68,7 @@ This district received no SC contracts from 2012-2017
 ```
 ### NSF MPS Grants
 ```
-In the past 5 years, this district has received:  $25,927,622.00 in NSF MPS grants.
+In the past 5 years, this district has received: $25,927,622.00 in NSF MPS grants.
                                                     Amount ($)
 Institution                                   Year            
 AMERICAN MATHEMATICAL SOCIETY                 2013     1238058
@@ -94,7 +96,7 @@ This district received no SC contracts from 2012-2017
 ```
 ### NSF MPS Grants
 ```
-In the past 5 years, this district has received:  $2,331,345.00 in NSF MPS grants.
+In the past 5 years, this district has received: $2,331,345.00 in NSF MPS grants.
                                                     Amount ($)
 Institution                                   Year            
 BROWN UNIVERSITY IN PROVIDENCE IN STATE OF RI 2013     1145851

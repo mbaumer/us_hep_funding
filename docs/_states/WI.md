@@ -12,8 +12,9 @@ permalink : /states/WI/
 # WI -- Sen. Tammy Baldwin (D) and  Sen. Ron Johnson (R)
 ## HEP Grants
 ```
-In the past 5 years, this state has received  11  HEP grants, totalling  $14,718,000.00
-Who have these grants gone to?
+In the past 5 years, this state has received:
+11 HEP grants, totalling $14,718,000.00
+ 
                                       Amount ($)
 Institution                                     
 University of Wisconsin - Madison        7635000
@@ -23,8 +24,9 @@ UNIVERSITY OF WISCONSIN, EAU CLAIRE            0
 ```
 ## SC Contracts
 ```
-In the past 5 years, this state has received  3  Office of Science contracts, totalling  $11,590.00
-Who have these contracts gone to?
+In the past 5 years, this state has received:
+3 Office of Science contracts, totalling $11,590.00
+ 
                                                 Amount ($)
 vendorname                         fiscal_year            
 AMERICAN SOCIETY OF AGRONOMY, INC. 2013               3800
@@ -33,8 +35,9 @@ AMERICAN SOCIETY OF AGRONOMY, INC. 2013               3800
 ```
 ## NSF MPS Grants
 ```
-In the past 5 years, this state has received  308  NSF MPS grants, totalling  $89,257,203.00
-Who have these grants gone to?
+In the past 5 years, this state has received:
+308 NSF MPS grants, totalling $89,257,203.00
+ 
                                              Amount ($)
 Institution                                            
 UNIVERSITY OF WISCONSIN SYSTEM                 84324927
@@ -63,7 +66,7 @@ This district received no SC contracts from 2012-2017
 ```
 ### NSF MPS Grants
 ```
-In the past 5 years, this district has received:  $149,345.00 in NSF MPS grants.
+In the past 5 years, this district has received: $149,345.00 in NSF MPS grants.
                        Amount ($)
 Institution      Year            
 CARTHAGE COLLEGE 2012      105645
@@ -75,7 +78,7 @@ CARTHAGE COLLEGE 2012      105645
 ## WI-02 -- Rep. Mark Pocan (D)
 ### HEP Grants
 ```
-In the past 5 years, this district has received:  $14,268,000.00 in SC HEP grants.
+In the past 5 years, this district has received: $14,268,000.00 in SC HEP grants.
                                         Amount ($)
 Institution                       Year            
 UNIVERSITY OF WISCONSIN, MADISON  2012     3467000
@@ -86,7 +89,7 @@ University of Wisconsin - Madison 2014     3125000
 ```
 ### SC Contracts
 ```
-In the past 5 years, this district has received:  $11,590.00 in SC contracts.
+In the past 5 years, this district has received: $11,590.00 in SC contracts.
                                                 Amount ($)
 vendorname                         fiscal_year            
 AMERICAN SOCIETY OF AGRONOMY, INC. 2013               3800
@@ -95,7 +98,7 @@ AMERICAN SOCIETY OF AGRONOMY, INC. 2013               3800
 ```
 ### NSF MPS Grants
 ```
-In the past 5 years, this district has received:  $72,140,159.00 in NSF MPS grants.
+In the past 5 years, this district has received: $72,140,159.00 in NSF MPS grants.
                                                   Amount ($)
 Institution                                 Year            
 MORGRIDGE INSTITUTE FOR RESEARCH, INC., THE 2013      371148
@@ -111,7 +114,7 @@ UNIVERSITY OF WISCONSIN SYSTEM              2012    31237699
 ## WI-03 -- Rep. Ron Kind (D)
 ### HEP Grants
 ```
-In the past 5 years, this district has received:  $450,000.00 in SC HEP grants.
+In the past 5 years, this district has received: $450,000.00 in SC HEP grants.
                                            Amount ($)
 Institution                          Year            
 UNIVERSITY OF WISCONSIN, EAU CLAIRE  2013           0
@@ -125,7 +128,7 @@ This district received no SC contracts from 2012-2017
 ```
 ### NSF MPS Grants
 ```
-In the past 5 years, this district has received:  $1,625,878.00 in NSF MPS grants.
+In the past 5 years, this district has received: $1,625,878.00 in NSF MPS grants.
                                      Amount ($)
 Institution                    Year            
 UNIVERSITY OF WISCONSIN SYSTEM 2012      479811
@@ -147,7 +150,7 @@ This district received no SC contracts from 2012-2017
 ```
 ### NSF MPS Grants
 ```
-In the past 5 years, this district has received:  $14,774,655.00 in NSF MPS grants.
+In the past 5 years, this district has received: $14,774,655.00 in NSF MPS grants.
                                      Amount ($)
 Institution                    Year            
 MARQUETTE UNIVERSITY           2012      481602
@@ -165,7 +168,7 @@ UNIVERSITY OF WISCONSIN SYSTEM 2012     3268554
 ## WI-05 -- Rep. F. Sensenbrenner (R)
 ### HEP Grants
 ```
-In the past 5 years, this district has received:  $2,479,000.00 in SC HEP grants.
+In the past 5 years, this district has received: $2,479,000.00 in SC HEP grants.
                               Amount ($)
 Institution             Year            
 University of Minnesota 2015     2479000
@@ -176,7 +179,7 @@ This district received no SC contracts from 2012-2017
 ```
 ### NSF MPS Grants
 ```
-In the past 5 years, this district has received:  $89,765.00 in NSF MPS grants.
+In the past 5 years, this district has received: $89,765.00 in NSF MPS grants.
                                               Amount ($)
 Institution                             Year            
 MEDICAL COLLEGE OF WISCONSIN, INC., THE 2012       89765
@@ -196,7 +199,7 @@ This district received no SC contracts from 2012-2017
 ```
 ### NSF MPS Grants
 ```
-In the past 5 years, this district has received:  $237,383.00 in NSF MPS grants.
+In the past 5 years, this district has received: $237,383.00 in NSF MPS grants.
                     Amount ($)
 Institution   Year            
 RIPON COLLEGE 2014      237383
@@ -215,7 +218,7 @@ This district received no SC contracts from 2012-2017
 ```
 ### NSF MPS Grants
 ```
-In the past 5 years, this district has received:  $75,018.00 in NSF MPS grants.
+In the past 5 years, this district has received: $75,018.00 in NSF MPS grants.
                                  Amount ($)
 Institution                Year            
 U of Wisconsin River Falls 2015       75018
@@ -234,7 +237,7 @@ This district received no SC contracts from 2012-2017
 ```
 ### NSF MPS Grants
 ```
-In the past 5 years, this district has received:  $165,000.00 in NSF MPS grants.
+In the past 5 years, this district has received: $165,000.00 in NSF MPS grants.
                           Amount ($)
 Institution         Year            
 LAWRENCE UNIVERSITY 2012       55000

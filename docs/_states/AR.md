@@ -16,16 +16,18 @@ This state received no SC HEP grants from 2012-2016
 ```
 ## SC Contracts
 ```
-In the past 5 years, this state has received  2  Office of Science contracts, totalling  $-61,384.56
-Who have these contracts gone to?
+In the past 5 years, this state has received:
+2 Office of Science contracts, totalling $-61,384.56
+ 
                                            Amount ($)
 vendorname                    fiscal_year            
 ENTERGY ARKANSAS INCORPORATED 2014          -61384.56
 ```
 ## NSF MPS Grants
 ```
-In the past 5 years, this state has received  33  NSF MPS grants, totalling  $4,277,137.00
-Who have these grants gone to?
+In the past 5 years, this state has received:
+33 NSF MPS grants, totalling $4,277,137.00
+ 
                                 Amount ($)
 Institution                               
 UNIVERSITY OF ARKANSAS SYSTEM      3775663
@@ -48,7 +50,7 @@ This district received no SC contracts from 2012-2017
 ```
 ### NSF MPS Grants
 ```
-In the past 5 years, this district has received:  $34,000.00 in NSF MPS grants.
+In the past 5 years, this district has received: $34,000.00 in NSF MPS grants.
                                 Amount ($)
 Institution               Year            
 ARKANSAS STATE UNIVERSITY 2012       34000
@@ -63,14 +65,14 @@ This district received no SC HEP grants from 2012-2016
 ```
 ### SC Contracts
 ```
-In the past 5 years, this district has received:  $-61,384.56 in SC contracts.
+In the past 5 years, this district has received: $-61,384.56 in SC contracts.
                                            Amount ($)
 vendorname                    fiscal_year            
 ENTERGY ARKANSAS INCORPORATED 2014          -61384.56
 ```
 ### NSF MPS Grants
 ```
-In the past 5 years, this district has received:  $385,601.00 in NSF MPS grants.
+In the past 5 years, this district has received: $385,601.00 in NSF MPS grants.
                                      Amount ($)
 Institution                    Year            
 UNIVERSITY OF ARKANSAS SYSTEM  2012      419056
@@ -91,7 +93,7 @@ This district received no SC contracts from 2012-2017
 ```
 ### NSF MPS Grants
 ```
-In the past 5 years, this district has received:  $3,857,536.00 in NSF MPS grants.
+In the past 5 years, this district has received: $3,857,536.00 in NSF MPS grants.
                                     Amount ($)
 Institution                   Year            
 U of Arkansas                 2015      372474

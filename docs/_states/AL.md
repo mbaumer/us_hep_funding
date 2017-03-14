@@ -12,8 +12,9 @@ permalink : /states/AL/
 # AL -- Sen. Richard Shelby (R) and  Sen. Luther Strange (R)
 ## HEP Grants
 ```
-In the past 5 years, this state has received  11  HEP grants, totalling  $2,330,000.00
-Who have these grants gone to?
+In the past 5 years, this state has received:
+11 HEP grants, totalling $2,330,000.00
+ 
                                           Amount ($)
 Institution                         Year            
 UNIVERSITY OF ALABAMA AT TUSCALOOSA 2012      410000
@@ -26,8 +27,9 @@ University of Alabama               2014      505000
 ```
 ## SC Contracts
 ```
-In the past 5 years, this state has received  2  Office of Science contracts, totalling  $-186,328.24
-Who have these contracts gone to?
+In the past 5 years, this state has received:
+2 Office of Science contracts, totalling $-186,328.24
+ 
                                      Amount ($)
 vendorname              fiscal_year            
 PENTASTAR ELECTONICS CO 2014         -100037.27
@@ -35,8 +37,9 @@ VISTA TECHNOLOGIES INC  2012          -86290.97
 ```
 ## NSF MPS Grants
 ```
-In the past 5 years, this state has received  90  NSF MPS grants, totalling  $11,108,175.00
-Who have these grants gone to?
+In the past 5 years, this state has received:
+90 NSF MPS grants, totalling $11,108,175.00
+ 
                                      Amount ($)
 Institution                                    
 UNIVERSITY OF ALABAMA                   4939042
@@ -56,7 +59,7 @@ UNIVERSITY OF SOUTH ALABAMA              -43912
 ## AL-01 -- Rep. Bradley Byrne (R)
 ### HEP Grants
 ```
-In the past 5 years, this district has received:  $70,000.00 in SC HEP grants.
+In the past 5 years, this district has received: $70,000.00 in SC HEP grants.
                                   Amount ($)
 Institution                 Year            
 UNIVERSITY OF SOUTH ALABAMA 2012       70000
@@ -68,7 +71,7 @@ This district received no SC contracts from 2012-2017
 ```
 ### NSF MPS Grants
 ```
-In the past 5 years, this district has received:  $-43,912.00 in NSF MPS grants.
+In the past 5 years, this district has received: $-43,912.00 in NSF MPS grants.
                                   Amount ($)
 Institution                 Year            
 UNIVERSITY OF SOUTH ALABAMA 2013      -43912
@@ -103,7 +106,7 @@ This district received no SC contracts from 2012-2017
 ```
 ### NSF MPS Grants
 ```
-In the past 5 years, this district has received:  $2,861,471.00 in NSF MPS grants.
+In the past 5 years, this district has received: $2,861,471.00 in NSF MPS grants.
                           Amount ($)
 Institution         Year            
 AUBURN UNIVERSITY   2012      328689
@@ -137,7 +140,7 @@ This district received no SC HEP grants from 2012-2016
 ```
 ### SC Contracts
 ```
-In the past 5 years, this district has received:  $-186,328.24 in SC contracts.
+In the past 5 years, this district has received: $-186,328.24 in SC contracts.
                                      Amount ($)
 vendorname              fiscal_year            
 PENTASTAR ELECTONICS CO 2014         -100037.27
@@ -145,7 +148,7 @@ VISTA TECHNOLOGIES INC  2012          -86290.97
 ```
 ### NSF MPS Grants
 ```
-In the past 5 years, this district has received:  $736,524.00 in NSF MPS grants.
+In the past 5 years, this district has received: $736,524.00 in NSF MPS grants.
                                           Amount ($)
 Institution                         Year            
 ALABAMA A & M UNIVERSITY            2012       40500
@@ -179,7 +182,7 @@ This district received no NSF MPS grants from 2012-2016
 ## AL-07 -- Rep. Terri Sewell (D)
 ### HEP Grants
 ```
-In the past 5 years, this district has received:  $2,260,000.00 in SC HEP grants.
+In the past 5 years, this district has received: $2,260,000.00 in SC HEP grants.
                                           Amount ($)
 Institution                         Year            
 UNIVERSITY OF ALABAMA AT TUSCALOOSA 2012      410000
@@ -194,7 +197,7 @@ This district received no SC contracts from 2012-2017
 ```
 ### NSF MPS Grants
 ```
-In the past 5 years, this district has received:  $7,554,092.00 in NSF MPS grants.
+In the past 5 years, this district has received: $7,554,092.00 in NSF MPS grants.
                                           Amount ($)
 Institution                         Year            
 U of Alabama Birmingham             2015      440124

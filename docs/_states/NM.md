@@ -12,8 +12,9 @@ permalink : /states/NM/
 # NM -- Sen. Martin Heinrich (D) and  Sen. Tom Udall (D)
 ## HEP Grants
 ```
-In the past 5 years, this state has received  17  HEP grants, totalling  $2,785,000.00
-Who have these grants gone to?
+In the past 5 years, this state has received:
+17 HEP grants, totalling $2,785,000.00
+ 
                                Amount ($)
 Institution              Year            
 UNIVERSITY OF NEW MEXICO 2012      768000
@@ -24,8 +25,9 @@ University of New Mexico 2014      491000
 ```
 ## SC Contracts
 ```
-In the past 5 years, this state has received  57  Office of Science contracts, totalling  $5,335,217.10
-Who have these contracts gone to?
+In the past 5 years, this state has received:
+57 Office of Science contracts, totalling $5,335,217.10
+ 
                                      Amount ($)
 vendorname                                     
 GROUPEMENT INTERET PUBLIC ARRONAX    4000617.65
@@ -42,8 +44,9 @@ and  2  other firms.
 ```
 ## NSF MPS Grants
 ```
-In the past 5 years, this state has received  90  NSF MPS grants, totalling  $15,813,888.00
-Who have these grants gone to?
+In the past 5 years, this state has received:
+90 NSF MPS grants, totalling $15,813,888.00
+ 
                                                Amount ($)
 Institution                                              
 UNIVERSITY OF NEW MEXICO                         10843922
@@ -63,7 +66,7 @@ SANTA FE INSTITUTE OF SCIENCE INC                   12015
 ## NM-01 -- Rep. Michelle Lujan Grisham (D)
 ### HEP Grants
 ```
-In the past 5 years, this district has received:  $2,785,000.00 in SC HEP grants.
+In the past 5 years, this district has received: $2,785,000.00 in SC HEP grants.
                                Amount ($)
 Institution              Year            
 UNIVERSITY OF NEW MEXICO 2012      768000
@@ -74,7 +77,7 @@ University of New Mexico 2014      491000
 ```
 ### SC Contracts
 ```
-In the past 5 years, this district has received:  $92,967.55 in SC contracts.
+In the past 5 years, this district has received: $92,967.55 in SC contracts.
                                   Amount ($)
 vendorname           fiscal_year            
 HOLMAN'S INC.        2012            3474.84
@@ -88,7 +91,7 @@ VERIZON WIRELESS INC 2016             -80.92
 ```
 ### NSF MPS Grants
 ```
-In the past 5 years, this district has received:  $10,857,752.00 in NSF MPS grants.
+In the past 5 years, this district has received: $10,857,752.00 in NSF MPS grants.
                                Amount ($)
 Institution              Year            
 UNIVERSITY OF NEW MEXICO 2012     4885405
@@ -111,7 +114,7 @@ This district received no SC contracts from 2012-2017
 ```
 ### NSF MPS Grants
 ```
-In the past 5 years, this district has received:  $3,233,352.00 in NSF MPS grants.
+In the past 5 years, this district has received: $3,233,352.00 in NSF MPS grants.
                                                     Amount ($)
 Institution                                   Year            
 NEW MEXICO INSTITUTE OF MINING AND TECHNOLOGY 2012      155000
@@ -131,7 +134,7 @@ This district received no SC HEP grants from 2012-2016
 ```
 ### SC Contracts
 ```
-In the past 5 years, this district has received:  $5,242,249.55 in SC contracts.
+In the past 5 years, this district has received: $5,242,249.55 in SC contracts.
                                                  Amount ($)
 vendorname                          fiscal_year            
 DEEP WEB TECHNOLOGIES, INC.         2014            9450.00
@@ -155,7 +158,7 @@ WILDFLOWER INTERNATIONAL, LTD.      2012           17133.30
 ```
 ### NSF MPS Grants
 ```
-In the past 5 years, this district has received:  $1,722,784.00 in NSF MPS grants.
+In the past 5 years, this district has received: $1,722,784.00 in NSF MPS grants.
                                         Amount ($)
 Institution                       Year            
 NEW MEXICO HIGHLANDS UNIVERSITY   2012      540000

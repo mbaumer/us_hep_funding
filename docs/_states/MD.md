@@ -12,8 +12,9 @@ permalink : /states/MD/
 # MD -- Sen. Benjamin Cardin (D) and  Sen. Chris Van Hollen (D)
 ## HEP Grants
 ```
-In the past 5 years, this state has received  34  HEP grants, totalling  $11,007,000.00
-Who have these grants gone to?
+In the past 5 years, this state has received:
+34 HEP grants, totalling $11,007,000.00
+ 
                                             Amount ($)
 Institution                           Year            
 JOHNS HOPKINS UNIVERSITY              2012      150000
@@ -25,8 +26,9 @@ University of Maryland - College Park 2014     2259000
 ```
 ## SC Contracts
 ```
-In the past 5 years, this state has received  169  Office of Science contracts, totalling  $16,212,464.04
-Who have these contracts gone to?
+In the past 5 years, this state has received:
+169 Office of Science contracts, totalling $16,212,464.04
+ 
                                              Amount ($)
 vendorname                                             
 ROLLING BAY LIMITED LIABILITY COMPANY       11439013.00
@@ -43,8 +45,9 @@ and  49  other firms.
 ```
 ## NSF MPS Grants
 ```
-In the past 5 years, this state has received  381  NSF MPS grants, totalling  $79,314,596.00
-Who have these grants gone to?
+In the past 5 years, this state has received:
+381 NSF MPS grants, totalling $79,314,596.00
+ 
                                             Amount ($)
 Institution                                           
 UNIVERSITY OF MARYLAND                        43645944
@@ -70,7 +73,7 @@ This district received no SC HEP grants from 2012-2016
 ```
 ### SC Contracts
 ```
-In the past 5 years, this district has received:  $94,500.00 in SC contracts.
+In the past 5 years, this district has received: $94,500.00 in SC contracts.
                                        Amount ($)
 vendorname                fiscal_year            
 BROOKFIELD RELOCATION INC 2016              77750
@@ -90,7 +93,7 @@ This district received no SC HEP grants from 2012-2016
 ```
 ### SC Contracts
 ```
-In the past 5 years, this district has received:  $737,679.44 in SC contracts.
+In the past 5 years, this district has received: $737,679.44 in SC contracts.
                                             Amount ($)
 vendorname                     fiscal_year            
 ACER EXHIBITS AND EVENTS, LLC  2013          197029.00
@@ -122,7 +125,7 @@ This district received no SC HEP grants from 2012-2016
 ```
 ### SC Contracts
 ```
-In the past 5 years, this district has received:  $16,811.40 in SC contracts.
+In the past 5 years, this district has received: $16,811.40 in SC contracts.
                                                    Amount ($)
 vendorname                            fiscal_year            
 CONVERGENCE TECHNOLOGY CONSULTING LLC 2014             7481.4
@@ -130,7 +133,7 @@ IMMERSION CONSULTING LLC              2014             9330.0
 ```
 ### NSF MPS Grants
 ```
-In the past 5 years, this district has received:  $1,463,209.00 in NSF MPS grants.
+In the past 5 years, this district has received: $1,463,209.00 in NSF MPS grants.
                                               Amount ($)
 Institution                             Year            
 JOHNS HOPKINS UNIVERSITY, THE           2012      550134
@@ -148,7 +151,7 @@ This district received no SC HEP grants from 2012-2016
 ```
 ### SC Contracts
 ```
-In the past 5 years, this district has received:  $1,935,549.76 in SC contracts.
+In the past 5 years, this district has received: $1,935,549.76 in SC contracts.
                                                         Amount ($)
 vendorname                                 fiscal_year            
 1 SOURCE CONSULTING, INC.                  2012           49071.91
@@ -175,7 +178,7 @@ This district received no NSF MPS grants from 2012-2016
 ## MD-05 -- Rep. Steny Hoyer (D)
 ### HEP Grants
 ```
-In the past 5 years, this district has received:  $10,857,000.00 in SC HEP grants.
+In the past 5 years, this district has received: $10,857,000.00 in SC HEP grants.
                                             Amount ($)
 Institution                           Year            
 U. OF MARYLAND, COLLEGE PARK          2012     2871000
@@ -186,7 +189,7 @@ University of Maryland - College Park 2014     2259000
 ```
 ### SC Contracts
 ```
-In the past 5 years, this district has received:  $382,335.25 in SC contracts.
+In the past 5 years, this district has received: $382,335.25 in SC contracts.
                                                         Amount ($)
 vendorname                                 fiscal_year            
 AMERICAN INSTITUTE OF PHYSICS INCORPORATED 2012          135607.25
@@ -198,7 +201,7 @@ AMERICAN PHYSICAL SOCIETY, THE             2014           58164.00
 ```
 ### NSF MPS Grants
 ```
-In the past 5 years, this district has received:  $50,116,067.00 in NSF MPS grants.
+In the past 5 years, this district has received: $50,116,067.00 in NSF MPS grants.
                                                    Amount ($)
 Institution                                  Year            
 AMERICAN ASSOCIATION OF PHYSICS TEACHERS INC 2014      128400
@@ -228,7 +231,7 @@ This district received no SC HEP grants from 2012-2016
 ```
 ### SC Contracts
 ```
-In the past 5 years, this district has received:  $12,969,810.07 in SC contracts.
+In the past 5 years, this district has received: $12,969,810.07 in SC contracts.
                                                                 Amount ($)
 vendorname                                         fiscal_year            
 4 STAR TECHNOLOGIES, INC.                          2016           46695.00
@@ -284,7 +287,7 @@ WESTWIND COMPUTER PRODUCTS, INC.                   2016            4571.00
 ```
 ### NSF MPS Grants
 ```
-In the past 5 years, this district has received:  $55,000.00 in NSF MPS grants.
+In the past 5 years, this district has received: $55,000.00 in NSF MPS grants.
                                                    Amount ($)
 Institution                                  Year            
 TEMPLE UNIVERSITY-OF THE COMMONWEALTH SYSTEM 2013       55000
@@ -295,14 +298,14 @@ TEMPLE UNIVERSITY-OF THE COMMONWEALTH SYSTEM 2013       55000
 ## MD-07 -- Rep. Elijah Cummings (D)
 ### HEP Grants
 ```
-In the past 5 years, this district has received:  $150,000.00 in SC HEP grants.
+In the past 5 years, this district has received: $150,000.00 in SC HEP grants.
                                Amount ($)
 Institution              Year            
 JOHNS HOPKINS UNIVERSITY 2012      150000
 ```
 ### SC Contracts
 ```
-In the past 5 years, this district has received:  $47,012.12 in SC contracts.
+In the past 5 years, this district has received: $47,012.12 in SC contracts.
                                      Amount ($)
 vendorname              fiscal_year            
 EXETER ASSOCIATES, INC. 2012         -408667.00
@@ -314,7 +317,7 @@ EXETER ASSOCIATES, INC. 2012         -408667.00
 ```
 ### NSF MPS Grants
 ```
-In the past 5 years, this district has received:  $27,113,216.00 in NSF MPS grants.
+In the past 5 years, this district has received: $27,113,216.00 in NSF MPS grants.
                                               Amount ($)
 Institution                             Year            
 JOHNS HOPKINS UNIVERSITY, THE           2012     7652918
@@ -340,7 +343,7 @@ This district received no SC HEP grants from 2012-2016
 ```
 ### SC Contracts
 ```
-In the past 5 years, this district has received:  $28,766.00 in SC contracts.
+In the past 5 years, this district has received: $28,766.00 in SC contracts.
                                                                 Amount ($)
 vendorname                                         fiscal_year            
 AMERICAN SOCIETY FOR BIOCHEMISTRY AND MOLECULAR... 2012             4035.0
@@ -355,7 +358,7 @@ ROBERTSINTERNATIONAL, LLC                          2012            51050.0
 ```
 ### NSF MPS Grants
 ```
-In the past 5 years, this district has received:  $567,104.00 in NSF MPS grants.
+In the past 5 years, this district has received: $567,104.00 in NSF MPS grants.
                                                     Amount ($)
 Institution                                   Year            
 HENRY M. JACKSON FOUNDATION FOR THE ADVANCEME 2014      149376

@@ -12,8 +12,9 @@ permalink : /states/PA/
 # PA -- Sen. Robert Casey (D) and  Sen. Patrick Toomey (R)
 ## HEP Grants
 ```
-In the past 5 years, this state has received  63  HEP grants, totalling  $32,644,000.00
-Who have these grants gone to?
+In the past 5 years, this state has received:
+63 HEP grants, totalling $32,644,000.00
+ 
                                Amount ($)
 Institution                              
 University of Pennsylvania       10275000
@@ -30,8 +31,9 @@ and  1  other institutions.
 ```
 ## SC Contracts
 ```
-In the past 5 years, this state has received  40  Office of Science contracts, totalling  $1,242,906.80
-Who have these contracts gone to?
+In the past 5 years, this state has received:
+40 Office of Science contracts, totalling $1,242,906.80
+ 
                                                     Amount ($)
 vendorname                                                    
 THOMSON REUTERS (SCIENTIFIC) LLC                     743194.94
@@ -47,8 +49,9 @@ WESTINGHOUSE ELECTRIC CORP                          -103877.00
 ```
 ## NSF MPS Grants
 ```
-In the past 5 years, this state has received  854  NSF MPS grants, totalling  $151,179,984.00
-Who have these grants gone to?
+In the past 5 years, this state has received:
+854 NSF MPS grants, totalling $151,179,984.00
+ 
                                               Amount ($)
 Institution                                             
 PENNSYLVANIA STATE UNIVERSITY, THE              40962196
@@ -74,7 +77,7 @@ This district received no SC HEP grants from 2012-2016
 ```
 ### SC Contracts
 ```
-In the past 5 years, this district has received:  $214,905.36 in SC contracts.
+In the past 5 years, this district has received: $214,905.36 in SC contracts.
                                           Amount ($)
 vendorname                   fiscal_year            
 AMERICAN ASSN FOR CANCER RES 2012            5578.00
@@ -89,7 +92,7 @@ TAYLOR & FRANCIS INC         2012           15106.00
 ```
 ### NSF MPS Grants
 ```
-In the past 5 years, this district has received:  $4,163,181.00 in NSF MPS grants.
+In the past 5 years, this district has received: $4,163,181.00 in NSF MPS grants.
                                                    Amount ($)
 Institution                                  Year            
 SWARTHMORE COLLEGE                           2013      269990
@@ -102,7 +105,7 @@ TEMPLE UNIVERSITY-OF THE COMMONWEALTH SYSTEM 2012     3649694
 ## PA-02 -- Rep. Dwight Evans (D)
 ### HEP Grants
 ```
-In the past 5 years, this district has received:  $18,667,000.00 in SC HEP grants.
+In the past 5 years, this district has received: $18,667,000.00 in SC HEP grants.
                                  Amount ($)
 Institution                Year            
 DREXEL UNIVERSITY          2012      126000
@@ -121,7 +124,7 @@ University of Pennsylvania 2014     3460000
 ```
 ### SC Contracts
 ```
-In the past 5 years, this district has received:  $1,176,458.44 in SC contracts.
+In the past 5 years, this district has received: $1,176,458.44 in SC contracts.
                                                                 Amount ($)
 vendorname                                         fiscal_year            
 NATIONAL FEDERATION OF ABSTRACTING AND INFORMAT... 2014            3308.00
@@ -139,7 +142,7 @@ THOMSON REUTERS (SCIENTIFIC), INC.                 2012          184229.00
 ```
 ### NSF MPS Grants
 ```
-In the past 5 years, this district has received:  $48,483,598.00 in NSF MPS grants.
+In the past 5 years, this district has received: $48,483,598.00 in NSF MPS grants.
                                                          Amount ($)
 Institution                                        Year            
 BRYN MAWR COLLEGE                                  2013      303341
@@ -181,7 +184,7 @@ This district received no SC contracts from 2012-2017
 ```
 ### NSF MPS Grants
 ```
-In the past 5 years, this district has received:  $231,312.00 in NSF MPS grants.
+In the past 5 years, this district has received: $231,312.00 in NSF MPS grants.
                         Amount ($)
 Institution       Year            
 ALLEGHENY COLLEGE 2013      231312
@@ -200,7 +203,7 @@ This district received no SC contracts from 2012-2017
 ```
 ### NSF MPS Grants
 ```
-In the past 5 years, this district has received:  $225,595.00 in NSF MPS grants.
+In the past 5 years, this district has received: $225,595.00 in NSF MPS grants.
                                                    Amount ($)
 Institution                                  Year            
 GETTYSBURG COLLEGE                           2013       48109
@@ -214,7 +217,7 @@ MINERALS, METALS AND MATERIALS SOCIETY, INC. 2012       25000
 ## PA-05 -- Rep. Glenn Thompson (R)
 ### HEP Grants
 ```
-In the past 5 years, this district has received:  $1,179,000.00 in SC HEP grants.
+In the past 5 years, this district has received: $1,179,000.00 in SC HEP grants.
                                     Amount ($)
 Institution                   Year            
 PENNSYLVANIA STATE UNIVERSITY 2012      200000
@@ -229,7 +232,7 @@ This district received no SC contracts from 2012-2017
 ```
 ### NSF MPS Grants
 ```
-In the past 5 years, this district has received:  $46,263,692.00 in NSF MPS grants.
+In the past 5 years, this district has received: $46,263,692.00 in NSF MPS grants.
                                          Amount ($)
 Institution                        Year            
 CLARION UNIVERSITY OF PENNSYLVANIA 2012      353530
@@ -253,7 +256,7 @@ This district received no SC contracts from 2012-2017
 ```
 ### NSF MPS Grants
 ```
-In the past 5 years, this district has received:  $2,079,879.00 in NSF MPS grants.
+In the past 5 years, this district has received: $2,079,879.00 in NSF MPS grants.
                                               Amount ($)
 Institution                             Year            
 BRYN MAWR COLLEGE                       2012      317317
@@ -280,7 +283,7 @@ This district received no SC contracts from 2012-2017
 ```
 ### NSF MPS Grants
 ```
-In the past 5 years, this district has received:  $364,395.00 in NSF MPS grants.
+In the past 5 years, this district has received: $364,395.00 in NSF MPS grants.
                                                     Amount ($)
 Institution                                   Year            
 CORPORATION OF HAVERFORD COLLEGE, THE         2017     -135303
@@ -319,7 +322,7 @@ This district received no SC contracts from 2012-2017
 ```
 ### NSF MPS Grants
 ```
-In the past 5 years, this district has received:  $320,000.00 in NSF MPS grants.
+In the past 5 years, this district has received: $320,000.00 in NSF MPS grants.
                                          Amount ($)
 Institution                        Year            
 PENNSYLVANIA STATE UNIVERSITY, THE 2014      320000
@@ -338,7 +341,7 @@ This district received no SC contracts from 2012-2017
 ```
 ### NSF MPS Grants
 ```
-In the past 5 years, this district has received:  $1,747,228.00 in NSF MPS grants.
+In the past 5 years, this district has received: $1,747,228.00 in NSF MPS grants.
                              Amount ($)
 Institution            Year            
 BUCKNELL UNIVERSITY    2012      596636
@@ -361,7 +364,7 @@ This district received no SC contracts from 2012-2017
 ```
 ### NSF MPS Grants
 ```
-In the past 5 years, this district has received:  $217,583.00 in NSF MPS grants.
+In the past 5 years, this district has received: $217,583.00 in NSF MPS grants.
                         Amount ($)
 Institution       Year            
 DICKINSON COLLEGE 2014      217583
@@ -380,7 +383,7 @@ This district received no SC contracts from 2012-2017
 ```
 ### NSF MPS Grants
 ```
-In the past 5 years, this district has received:  $617,796.00 in NSF MPS grants.
+In the past 5 years, this district has received: $617,796.00 in NSF MPS grants.
                                          Amount ($)
 Institution                        Year            
 MATERIALS RESEARCH SOCIETY         2013       35200
@@ -410,7 +413,7 @@ This district received no NSF MPS grants from 2012-2016
 ## PA-14 -- Rep. Michael Doyle (D)
 ### HEP Grants
 ```
-In the past 5 years, this district has received:  $12,798,000.00 in SC HEP grants.
+In the past 5 years, this district has received: $12,798,000.00 in SC HEP grants.
                                  Amount ($)
 Institution                Year            
 CARNEGIE MELLON UNIVERSITY 2012     1346000
@@ -426,14 +429,14 @@ University of Pittsburgh   2014     1647000
 ```
 ### SC Contracts
 ```
-In the past 5 years, this district has received:  $-103,877.00 in SC contracts.
+In the past 5 years, this district has received: $-103,877.00 in SC contracts.
                                         Amount ($)
 vendorname                 fiscal_year            
 WESTINGHOUSE ELECTRIC CORP 2014            -103877
 ```
 ### NSF MPS Grants
 ```
-In the past 5 years, this district has received:  $39,725,519.00 in NSF MPS grants.
+In the past 5 years, this district has received: $39,725,519.00 in NSF MPS grants.
                                              Amount ($)
 Institution                            Year            
 CARNEGIE MELLON UNIVERSITY             2012     6447658
@@ -464,14 +467,14 @@ This district received no SC HEP grants from 2012-2016
 ```
 ### SC Contracts
 ```
-In the past 5 years, this district has received:  $-44,580.00 in SC contracts.
+In the past 5 years, this district has received: $-44,580.00 in SC contracts.
                                           Amount ($)
 vendorname                   fiscal_year            
 AIR PRODUCTS & CHEMICALS INC 2014             -44580
 ```
 ### NSF MPS Grants
 ```
-In the past 5 years, this district has received:  $5,384,199.00 in NSF MPS grants.
+In the past 5 years, this district has received: $5,384,199.00 in NSF MPS grants.
                                           Amount ($)
 Institution                         Year            
 KUTZTOWN UNIVERSITY OF PENNSYLVANIA 2013       40000
@@ -497,7 +500,7 @@ This district received no SC contracts from 2012-2017
 ```
 ### NSF MPS Grants
 ```
-In the past 5 years, this district has received:  $1,005,928.00 in NSF MPS grants.
+In the past 5 years, this district has received: $1,005,928.00 in NSF MPS grants.
                                               Amount ($)
 Institution                             Year            
 FRANKLIN AND MARSHALL COLLEGE           2012      264566
@@ -520,7 +523,7 @@ This district received no SC contracts from 2012-2017
 ```
 ### NSF MPS Grants
 ```
-In the past 5 years, this district has received:  $301,703.00 in NSF MPS grants.
+In the past 5 years, this district has received: $301,703.00 in NSF MPS grants.
                              Amount ($)
 Institution            Year            
 King's College         2013       87775

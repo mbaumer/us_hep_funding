@@ -20,8 +20,9 @@ This state received no SC contracts from 2012-2017
 ```
 ## NSF MPS Grants
 ```
-In the past 5 years, this state has received  22  NSF MPS grants, totalling  $4,996,977.00
-Who have these grants gone to?
+In the past 5 years, this state has received:
+22 NSF MPS grants, totalling $4,996,977.00
+ 
                                        Amount ($)
 Institution                                      
 UNIVERSITY OF MAINE SYSTEM                2736852
@@ -46,7 +47,7 @@ This district received no SC contracts from 2012-2017
 ```
 ### NSF MPS Grants
 ```
-In the past 5 years, this district has received:  $1,436,639.00 in NSF MPS grants.
+In the past 5 years, this district has received: $1,436,639.00 in NSF MPS grants.
                                 Amount ($)
 Institution               Year            
 BOWDOIN COLLEGE           2012      149980
@@ -71,7 +72,7 @@ This district received no SC contracts from 2012-2017
 ```
 ### NSF MPS Grants
 ```
-In the past 5 years, this district has received:  $3,560,338.00 in NSF MPS grants.
+In the past 5 years, this district has received: $3,560,338.00 in NSF MPS grants.
                                             Amount ($)
 Institution                           Year            
 COLBY COLLEGE                         2012      208000

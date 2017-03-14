@@ -12,16 +12,18 @@ permalink : /states/NV/
 # NV -- Sen. Catherine Cortez Masto (D) and  Sen. Dean Heller (R)
 ## HEP Grants
 ```
-In the past 5 years, this state has received  1  HEP grants, totalling  $0.00
-Who have these grants gone to?
+In the past 5 years, this state has received:
+1 HEP grants, totalling $0.00
+ 
                                  Amount ($)
 Institution                Year            
 UNIVERSITY OF NEVADA, RENO 2012           0
 ```
 ## SC Contracts
 ```
-In the past 5 years, this state has received  27  Office of Science contracts, totalling  $-22,661.51
-Who have these contracts gone to?
+In the past 5 years, this state has received:
+27 Office of Science contracts, totalling $-22,661.51
+ 
                                                 Amount ($)
 vendorname                                                
 BECHTEL SAIC COMPANY LIMITED LIABILITY COMPANY   128700.00
@@ -37,8 +39,9 @@ ACUITY, INC.                                    -126242.78
 ```
 ## NSF MPS Grants
 ```
-In the past 5 years, this state has received  49  NSF MPS grants, totalling  $4,957,899.00
-Who have these grants gone to?
+In the past 5 years, this state has received:
+49 NSF MPS grants, totalling $4,957,899.00
+ 
                                                     Amount ($)
 Institution                                   Year            
 BOARD OF REGENTS NEVADA SYSTEM OF HIGHER EDUC 2012      240656
@@ -62,7 +65,7 @@ This district received no SC HEP grants from 2012-2016
 ```
 ### SC Contracts
 ```
-In the past 5 years, this district has received:  $128,700.00 in SC contracts.
+In the past 5 years, this district has received: $128,700.00 in SC contracts.
                                                             Amount ($)
 vendorname                                     fiscal_year            
 BECHTEL SAIC COMPANY LIMITED LIABILITY COMPANY 2012             128700
@@ -74,7 +77,7 @@ USA REPOSITORY SERVICES LLC                    2012                  0
 ```
 ### NSF MPS Grants
 ```
-In the past 5 years, this district has received:  $546,402.00 in NSF MPS grants.
+In the past 5 years, this district has received: $546,402.00 in NSF MPS grants.
                                                     Amount ($)
 Institution                                   Year            
 BOARD OF REGENTS NEVADA SYSTEM OF HIGHER EDUC 2012      240656
@@ -87,21 +90,21 @@ BOARD OF REGENTS NEVADA SYSTEM OF HIGHER EDUC 2012      240656
 ## NV-02 -- Rep. Mark Amodei (R)
 ### HEP Grants
 ```
-In the past 5 years, this district has received:  $0.00 in SC HEP grants.
+In the past 5 years, this district has received: $0.00 in SC HEP grants.
                                  Amount ($)
 Institution                Year            
 UNIVERSITY OF NEVADA, RENO 2012           0
 ```
 ### SC Contracts
 ```
-In the past 5 years, this district has received:  $-7,100.00 in SC contracts.
+In the past 5 years, this district has received: $-7,100.00 in SC contracts.
                                                Amount ($)
 vendorname                        fiscal_year            
 SUNDANCE HELICOPTERS INCORPORATED 2012              -7100
 ```
 ### NSF MPS Grants
 ```
-In the past 5 years, this district has received:  $4,411,497.00 in NSF MPS grants.
+In the past 5 years, this district has received: $4,411,497.00 in NSF MPS grants.
                                         Amount ($)
 Institution                       Year            
 NEVADA SYSTEM OF HIGHER EDUCATION 2012      390000
@@ -121,7 +124,7 @@ This district received no SC HEP grants from 2012-2016
 ```
 ### SC Contracts
 ```
-In the past 5 years, this district has received:  $0.00 in SC contracts.
+In the past 5 years, this district has received: $0.00 in SC contracts.
                                          Amount ($)
 vendorname                  fiscal_year            
 USA REPOSITORY SERVICES LLC 2014                  0
@@ -142,7 +145,7 @@ This district received no SC HEP grants from 2012-2016
 ```
 ### SC Contracts
 ```
-In the past 5 years, this district has received:  $-144,261.51 in SC contracts.
+In the past 5 years, this district has received: $-144,261.51 in SC contracts.
                                                Amount ($)
 vendorname                        fiscal_year            
 ACUITY, INC.                      2013         -126242.78

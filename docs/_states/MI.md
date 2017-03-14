@@ -12,8 +12,9 @@ permalink : /states/MI/
 # MI -- Sen. Gary Peters (D) and  Sen. Debbie Stabenow (D)
 ## HEP Grants
 ```
-In the past 5 years, this state has received  59  HEP grants, totalling  $25,972,000.00
-Who have these grants gone to?
+In the past 5 years, this state has received:
+59 HEP grants, totalling $25,972,000.00
+ 
                                    Amount ($)
 Institution                                  
 University of Michigan               10921000
@@ -27,8 +28,9 @@ Michigan Technological University      385000
 ```
 ## SC Contracts
 ```
-In the past 5 years, this state has received  5  Office of Science contracts, totalling  $30,139.88
-Who have these contracts gone to?
+In the past 5 years, this state has received:
+5 Office of Science contracts, totalling $30,139.88
+ 
                                 Amount ($)
 vendorname                                
 HERMAN MILLER, INC.               21273.78
@@ -38,8 +40,9 @@ SEI, INC.                         -1249.90
 ```
 ## NSF MPS Grants
 ```
-In the past 5 years, this state has received  570  NSF MPS grants, totalling  $180,696,815.00
-Who have these grants gone to?
+In the past 5 years, this state has received:
+570 NSF MPS grants, totalling $180,696,815.00
+ 
                                        Amount ($)
 Institution                                      
 MICHIGAN STATE UNIVERSITY                91205826
@@ -61,7 +64,7 @@ and  11  other institutions.
 ## MI-01 -- Rep. Jack Bergman (R)
 ### HEP Grants
 ```
-In the past 5 years, this district has received:  $890,000.00 in SC HEP grants.
+In the past 5 years, this district has received: $890,000.00 in SC HEP grants.
                                         Amount ($)
 Institution                       Year            
 MICHIGAN TECH. UNIVERSITY         2012      255000
@@ -75,7 +78,7 @@ This district received no SC contracts from 2012-2017
 ```
 ### NSF MPS Grants
 ```
-In the past 5 years, this district has received:  $5,401,012.00 in NSF MPS grants.
+In the past 5 years, this district has received: $5,401,012.00 in NSF MPS grants.
                                         Amount ($)
 Institution                       Year            
 MICHIGAN TECHNOLOGICAL UNIVERSITY 2012     2561774
@@ -92,14 +95,14 @@ This district received no SC HEP grants from 2012-2016
 ```
 ### SC Contracts
 ```
-In the past 5 years, this district has received:  $21,273.78 in SC contracts.
+In the past 5 years, this district has received: $21,273.78 in SC contracts.
                                  Amount ($)
 vendorname          fiscal_year            
 HERMAN MILLER, INC. 2016           21273.78
 ```
 ### NSF MPS Grants
 ```
-In the past 5 years, this district has received:  $1,615,672.00 in NSF MPS grants.
+In the past 5 years, this district has received: $1,615,672.00 in NSF MPS grants.
                                     Amount ($)
 Institution                   Year            
 GRAND VALLEY STATE UNIVERSITY 2013       76638
@@ -119,14 +122,14 @@ This district received no SC HEP grants from 2012-2016
 ```
 ### SC Contracts
 ```
-In the past 5 years, this district has received:  $-1,249.90 in SC contracts.
+In the past 5 years, this district has received: $-1,249.90 in SC contracts.
                         Amount ($)
 vendorname fiscal_year            
 SEI, INC.  2012            -1249.9
 ```
 ### NSF MPS Grants
 ```
-In the past 5 years, this district has received:  $763,321.00 in NSF MPS grants.
+In the past 5 years, this district has received: $763,321.00 in NSF MPS grants.
                      Amount ($)
 Institution    Year            
 CALVIN COLLEGE 2012      301720
@@ -147,7 +150,7 @@ This district received no SC contracts from 2012-2017
 ```
 ### NSF MPS Grants
 ```
-In the past 5 years, this district has received:  $1,431,183.00 in NSF MPS grants.
+In the past 5 years, this district has received: $1,431,183.00 in NSF MPS grants.
                                         Amount ($)
 Institution                       Year            
 CENTRAL MICHIGAN UNIVERSITY (INC) 2012      510031
@@ -169,7 +172,7 @@ This district received no SC contracts from 2012-2017
 ```
 ### NSF MPS Grants
 ```
-In the past 5 years, this district has received:  $637,958.00 in NSF MPS grants.
+In the past 5 years, this district has received: $637,958.00 in NSF MPS grants.
                            Amount ($)
 Institution          Year            
 KETTERING UNIVERSITY 2013       77808
@@ -185,14 +188,14 @@ This district received no SC HEP grants from 2012-2016
 ```
 ### SC Contracts
 ```
-In the past 5 years, this district has received:  $6,300.00 in SC contracts.
+In the past 5 years, this district has received: $6,300.00 in SC contracts.
                                             Amount ($)
 vendorname                     fiscal_year            
 USER FRIENDLY CONSULTING, INC. 2016               6300
 ```
 ### NSF MPS Grants
 ```
-In the past 5 years, this district has received:  $2,260,787.00 in NSF MPS grants.
+In the past 5 years, this district has received: $2,260,787.00 in NSF MPS grants.
                                   Amount ($)
 Institution                 Year            
 ANDREWS UNIVERSITY INC      2014      292927
@@ -224,7 +227,7 @@ This district received no NSF MPS grants from 2012-2016
 ## MI-08 -- Rep. Mike Bishop (R)
 ### HEP Grants
 ```
-In the past 5 years, this district has received:  $2,724,000.00 in SC HEP grants.
+In the past 5 years, this district has received: $2,724,000.00 in SC HEP grants.
                                 Amount ($)
 Institution               Year            
 MICHIGAN STATE UNIVERSITY 2012      353000
@@ -235,14 +238,14 @@ Michigan State University 2014      600000
 ```
 ### SC Contracts
 ```
-In the past 5 years, this district has received:  $3,816.00 in SC contracts.
+In the past 5 years, this district has received: $3,816.00 in SC contracts.
                         Amount ($)
 vendorname fiscal_year            
 MOMAR INC. 2012               3816
 ```
 ### NSF MPS Grants
 ```
-In the past 5 years, this district has received:  $102,558,696.00 in NSF MPS grants.
+In the past 5 years, this district has received: $102,558,696.00 in NSF MPS grants.
                                 Amount ($)
 Institution               Year            
 MICHIGAN STATE UNIVERSITY 2012    29434755
@@ -267,7 +270,7 @@ This district received no SC contracts from 2012-2017
 ```
 ### NSF MPS Grants
 ```
-In the past 5 years, this district has received:  $799,261.00 in NSF MPS grants.
+In the past 5 years, this district has received: $799,261.00 in NSF MPS grants.
                          Amount ($)
 Institution        Year            
 OAKLAND UNIVERSITY 2012      799261
@@ -286,7 +289,7 @@ This district received no SC contracts from 2012-2017
 ```
 ### NSF MPS Grants
 ```
-In the past 5 years, this district has received:  $86,584.00 in NSF MPS grants.
+In the past 5 years, this district has received: $86,584.00 in NSF MPS grants.
                                         Amount ($)
 Institution                       Year            
 CENTRAL MICHIGAN UNIVERSITY (INC) 2012       46584
@@ -306,7 +309,7 @@ This district received no SC contracts from 2012-2017
 ```
 ### NSF MPS Grants
 ```
-In the past 5 years, this district has received:  $357,680.00 in NSF MPS grants.
+In the past 5 years, this district has received: $357,680.00 in NSF MPS grants.
                          Amount ($)
 Institution        Year            
 OAKLAND UNIVERSITY 2013      233994
@@ -318,7 +321,7 @@ OAKLAND UNIVERSITY 2013      233994
 ## MI-12 -- Rep. Debbie Dingell (D)
 ### HEP Grants
 ```
-In the past 5 years, this district has received:  $10,921,000.00 in SC HEP grants.
+In the past 5 years, this district has received: $10,921,000.00 in SC HEP grants.
                              Amount ($)
 Institution            Year            
 University of Michigan 2014     3784000
@@ -331,7 +334,7 @@ This district received no SC contracts from 2012-2017
 ```
 ### NSF MPS Grants
 ```
-In the past 5 years, this district has received:  $34,791,118.00 in NSF MPS grants.
+In the past 5 years, this district has received: $34,791,118.00 in NSF MPS grants.
                                             Amount ($)
 Institution                           Year            
 REGENTS OF THE UNIVERSITY OF MICHIGAN 2013    20953317
@@ -346,7 +349,7 @@ University of Michigan                2015      923461
 ## MI-13 -- Rep. John Conyers (D)
 ### HEP Grants
 ```
-In the past 5 years, this district has received:  $2,879,000.00 in SC HEP grants.
+In the past 5 years, this district has received: $2,879,000.00 in SC HEP grants.
                              Amount ($)
 Institution            Year            
 WAYNE STATE UNIVERSITY 2012      500000
@@ -361,7 +364,7 @@ This district received no SC contracts from 2012-2017
 ```
 ### NSF MPS Grants
 ```
-In the past 5 years, this district has received:  $9,456,184.00 in NSF MPS grants.
+In the past 5 years, this district has received: $9,456,184.00 in NSF MPS grants.
                                    Amount ($)
 Institution                  Year            
 WAYNE STATE UNIVERSITY (INC) 2012     3474845
@@ -383,7 +386,7 @@ This district received no SC contracts from 2012-2017
 ```
 ### NSF MPS Grants
 ```
-In the past 5 years, this district has received:  $5,800.00 in NSF MPS grants.
+In the past 5 years, this district has received: $5,800.00 in NSF MPS grants.
                                   Amount ($)
 Institution                 Year            
 UNIVERSITY OF DETROIT MERCY 2013        5800

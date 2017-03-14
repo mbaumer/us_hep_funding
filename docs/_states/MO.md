@@ -12,8 +12,9 @@ permalink : /states/MO/
 # MO -- Sen. Roy Blunt (R) and  Sen. Claire McCaskill (D)
 ## HEP Grants
 ```
-In the past 5 years, this state has received  7  HEP grants, totalling  $3,273,000.00
-Who have these grants gone to?
+In the past 5 years, this state has received:
+7 HEP grants, totalling $3,273,000.00
+ 
                                          Amount ($)
 Institution                        Year            
 WASHINGTON UNIVERSITY              2012      860000
@@ -24,8 +25,9 @@ Washington University in St. Louis 2015      480000
 ```
 ## SC Contracts
 ```
-In the past 5 years, this state has received  7  Office of Science contracts, totalling  $44,653.24
-Who have these contracts gone to?
+In the past 5 years, this state has received:
+7 Office of Science contracts, totalling $44,653.24
+ 
                                 Amount ($)
 vendorname                                
 FISHNET SECURITY, INC             22004.76
@@ -35,8 +37,9 @@ ABM FEDERAL SALES, INC.            3158.47
 ```
 ## NSF MPS Grants
 ```
-In the past 5 years, this state has received  143  NSF MPS grants, totalling  $18,232,792.00
-Who have these grants gone to?
+In the past 5 years, this state has received:
+143 NSF MPS grants, totalling $18,232,792.00
+ 
                                      Amount ($)
 Institution                                    
 UNIVERSITY OF MISSOURI SYSTEM           9003390
@@ -58,7 +61,7 @@ and  1  other institutions.
 ## MO-01 -- Rep. Wm. Clay (D)
 ### HEP Grants
 ```
-In the past 5 years, this district has received:  $1,587,000.00 in SC HEP grants.
+In the past 5 years, this district has received: $1,587,000.00 in SC HEP grants.
                                          Amount ($)
 Institution                        Year            
 Washington University              2014      527000
@@ -67,14 +70,14 @@ Washington University in St. Louis 2015      480000
 ```
 ### SC Contracts
 ```
-In the past 5 years, this district has received:  $5,409.26 in SC contracts.
+In the past 5 years, this district has received: $5,409.26 in SC contracts.
                                          Amount ($)
 vendorname                  fiscal_year            
 WORLD WIDE TECHNOLOGY, INC. 2012            5409.26
 ```
 ### NSF MPS Grants
 ```
-In the past 5 years, this district has received:  $5,904,635.00 in NSF MPS grants.
+In the past 5 years, this district has received: $5,904,635.00 in NSF MPS grants.
                                      Amount ($)
 Institution                    Year            
 MISSOURI SYSTEM, UNIVERSITY OF 2012      354721
@@ -99,7 +102,7 @@ This district received no SC HEP grants from 2012-2016
 ```
 ### SC Contracts
 ```
-In the past 5 years, this district has received:  $17,239.22 in SC contracts.
+In the past 5 years, this district has received: $17,239.22 in SC contracts.
                                             Amount ($)
 vendorname                     fiscal_year            
 ABM FEDERAL SALES, INC.        2014            3158.47
@@ -116,7 +119,7 @@ This district received no NSF MPS grants from 2012-2016
 ## MO-03 -- Rep. Blaine Luetkemeyer (R)
 ### HEP Grants
 ```
-In the past 5 years, this district has received:  $1,686,000.00 in SC HEP grants.
+In the past 5 years, this district has received: $1,686,000.00 in SC HEP grants.
                             Amount ($)
 Institution           Year            
 WASHINGTON UNIVERSITY 2012      860000
@@ -128,7 +131,7 @@ This district received no SC contracts from 2012-2017
 ```
 ### NSF MPS Grants
 ```
-In the past 5 years, this district has received:  $3,390,066.00 in NSF MPS grants.
+In the past 5 years, this district has received: $3,390,066.00 in NSF MPS grants.
                                  Amount ($)
 Institution                Year            
 WASHINGTON UNIVERSITY, THE 2012     3390066
@@ -147,7 +150,7 @@ This district received no SC contracts from 2012-2017
 ```
 ### NSF MPS Grants
 ```
-In the past 5 years, this district has received:  $2,654,245.00 in NSF MPS grants.
+In the past 5 years, this district has received: $2,654,245.00 in NSF MPS grants.
                                     Amount ($)
 Institution                   Year            
 U of Missouri Columbia        2015       24300
@@ -164,14 +167,14 @@ This district received no SC HEP grants from 2012-2016
 ```
 ### SC Contracts
 ```
-In the past 5 years, this district has received:  $22,004.76 in SC contracts.
+In the past 5 years, this district has received: $22,004.76 in SC contracts.
                                    Amount ($)
 vendorname            fiscal_year            
 FISHNET SECURITY, INC 2012           22004.76
 ```
 ### NSF MPS Grants
 ```
-In the past 5 years, this district has received:  $623,533.00 in NSF MPS grants.
+In the past 5 years, this district has received: $623,533.00 in NSF MPS grants.
                                     Amount ($)
 Institution                   Year            
 UNIVERSITY OF MISSOURI SYSTEM 2012      278533
@@ -191,7 +194,7 @@ This district received no SC contracts from 2012-2017
 ```
 ### NSF MPS Grants
 ```
-In the past 5 years, this district has received:  $175,849.00 in NSF MPS grants.
+In the past 5 years, this district has received: $175,849.00 in NSF MPS grants.
                                           Amount ($)
 Institution                         Year            
 NORTHWEST MISSOURI STATE UNIVERSITY 2012       57000
@@ -214,7 +217,7 @@ This district received no SC contracts from 2012-2017
 ```
 ### NSF MPS Grants
 ```
-In the past 5 years, this district has received:  $571,299.00 in NSF MPS grants.
+In the past 5 years, this district has received: $571,299.00 in NSF MPS grants.
                                 Amount ($)
 Institution               Year            
 MISSOURI STATE UNIVERSITY 2012      246414
@@ -235,7 +238,7 @@ This district received no SC contracts from 2012-2017
 ```
 ### NSF MPS Grants
 ```
-In the past 5 years, this district has received:  $2,908,898.00 in NSF MPS grants.
+In the past 5 years, this district has received: $2,908,898.00 in NSF MPS grants.
                                      Amount ($)
 Institution                    Year            
 MISSOURI SYSTEM, UNIVERSITY OF 2012      384797

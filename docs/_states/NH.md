@@ -12,8 +12,9 @@ permalink : /states/NH/
 # NH -- Sen. Margaret Hassan (D) and  Sen. Jeanne Shaheen (D)
 ## HEP Grants
 ```
-In the past 5 years, this state has received  4  HEP grants, totalling  $915,000.00
-Who have these grants gone to?
+In the past 5 years, this state has received:
+4 HEP grants, totalling $915,000.00
+ 
                         Amount ($)
 Institution       Year            
 DARTMOUTH COLLEGE 2013      150000
@@ -23,8 +24,9 @@ Dartmouth College 2014      175000
 ```
 ## SC Contracts
 ```
-In the past 5 years, this state has received  4  Office of Science contracts, totalling  $36,734.21
-Who have these contracts gone to?
+In the past 5 years, this state has received:
+4 Office of Science contracts, totalling $36,734.21
+ 
                                                  Amount ($)
 vendorname                          fiscal_year            
 DOCUMENT MANAGEMENT SOLUTIONS, INC. 2012           21336.21
@@ -32,8 +34,9 @@ RED RIVER COMPUTER CO., INC.        2013           15398.00
 ```
 ## NSF MPS Grants
 ```
-In the past 5 years, this state has received  53  NSF MPS grants, totalling  $11,728,868.00
-Who have these grants gone to?
+In the past 5 years, this state has received:
+53 NSF MPS grants, totalling $11,728,868.00
+ 
                                              Amount ($)
 Institution                                            
 TRUSTEES OF DARTMOUTH COLLEGE                   5153565
@@ -53,14 +56,14 @@ This district received no SC HEP grants from 2012-2016
 ```
 ### SC Contracts
 ```
-In the past 5 years, this district has received:  $21,336.21 in SC contracts.
+In the past 5 years, this district has received: $21,336.21 in SC contracts.
                                                  Amount ($)
 vendorname                          fiscal_year            
 DOCUMENT MANAGEMENT SOLUTIONS, INC. 2012           21336.21
 ```
 ### NSF MPS Grants
 ```
-In the past 5 years, this district has received:  $2,826,865.00 in NSF MPS grants.
+In the past 5 years, this district has received: $2,826,865.00 in NSF MPS grants.
                                          Amount ($)
 Institution                        Year            
 UNIVERSITY SYSTEM OF NEW HAMPSHIRE 2012     1542799
@@ -73,7 +76,7 @@ UNIVERSITY SYSTEM OF NEW HAMPSHIRE 2012     1542799
 ## NH-02 -- Rep. Ann Kuster (D)
 ### HEP Grants
 ```
-In the past 5 years, this district has received:  $915,000.00 in SC HEP grants.
+In the past 5 years, this district has received: $915,000.00 in SC HEP grants.
                         Amount ($)
 Institution       Year            
 DARTMOUTH COLLEGE 2013      150000
@@ -83,14 +86,14 @@ Dartmouth College 2014      175000
 ```
 ### SC Contracts
 ```
-In the past 5 years, this district has received:  $15,398.00 in SC contracts.
+In the past 5 years, this district has received: $15,398.00 in SC contracts.
                                           Amount ($)
 vendorname                   fiscal_year            
 RED RIVER COMPUTER CO., INC. 2013              15398
 ```
 ### NSF MPS Grants
 ```
-In the past 5 years, this district has received:  $8,902,003.00 in NSF MPS grants.
+In the past 5 years, this district has received: $8,902,003.00 in NSF MPS grants.
                                                   Amount ($)
 Institution                                 Year            
 Dartmouth College                           2015      168362

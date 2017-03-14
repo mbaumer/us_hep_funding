@@ -12,8 +12,9 @@ permalink : /states/NJ/
 # NJ -- Sen. Cory Booker (D) and  Sen. Robert Menéndez (D)
 ## HEP Grants
 ```
-In the past 5 years, this state has received  37  HEP grants, totalling  $18,251,895.00
-Who have these grants gone to?
+In the past 5 years, this state has received:
+37 HEP grants, totalling $18,251,895.00
+ 
                                                     Amount ($)
 Institution                                                   
 Princeton University                                   6274395
@@ -28,8 +29,9 @@ Institute of Electrical and Electronics Enginee...       50000
 ```
 ## SC Contracts
 ```
-In the past 5 years, this state has received  203  Office of Science contracts, totalling  $508,925,690.61
-Who have these contracts gone to?
+In the past 5 years, this state has received:
+203 Office of Science contracts, totalling $508,925,690.61
+ 
                                                       Amount ($)
 vendorname                                                      
 TRUSTEES OF PRINCETON UNIVERSITY, THE               5.081335e+08
@@ -46,8 +48,9 @@ and  2  other firms.
 ```
 ## NSF MPS Grants
 ```
-In the past 5 years, this state has received  519  NSF MPS grants, totalling  $146,443,483.00
-Who have these grants gone to?
+In the past 5 years, this state has received:
+519 NSF MPS grants, totalling $146,443,483.00
+ 
                                                Amount ($)
 Institution                                              
 TRUSTEES OF PRINCETON UNIVERSITY, THE            84689356
@@ -77,7 +80,7 @@ This district received no SC contracts from 2012-2017
 ```
 ### NSF MPS Grants
 ```
-In the past 5 years, this district has received:  $784,575.00 in NSF MPS grants.
+In the past 5 years, this district has received: $784,575.00 in NSF MPS grants.
                                                   Amount ($)
 Institution                                 Year            
 ROWAN UNIVERSITY                            2012       93075
@@ -95,7 +98,7 @@ This district received no SC HEP grants from 2012-2016
 ```
 ### SC Contracts
 ```
-In the past 5 years, this district has received:  $24,000.00 in SC contracts.
+In the past 5 years, this district has received: $24,000.00 in SC contracts.
                                    Amount ($)
 vendorname            fiscal_year            
 DOSZKOCS, TAMAS ENDRE 2012              24000
@@ -158,7 +161,7 @@ This district received no NSF MPS grants from 2012-2016
 ## NJ-06 -- Rep. Frank Pallone (D)
 ### HEP Grants
 ```
-In the past 5 years, this district has received:  $3,257,000.00 in SC HEP grants.
+In the past 5 years, this district has received: $3,257,000.00 in SC HEP grants.
                                                          Amount ($)
 Institution                                        Year            
 Institute of Electrical and Electronics Enginee... 2016       50000
@@ -170,7 +173,7 @@ Rutgers, The State University of New Jersey - N... 2015      480000
 ```
 ### SC Contracts
 ```
-In the past 5 years, this district has received:  $167,221.95 in SC contracts.
+In the past 5 years, this district has received: $167,221.95 in SC contracts.
                                                                 Amount ($)
 vendorname                                         fiscal_year            
 INSTITUTE OF ELECTRICAL AND ELECTRONICS ENGINEE... 2012           29875.00
@@ -181,7 +184,7 @@ SHI INTERNATIONAL CORP.                            2012            4461.95
 ```
 ### NSF MPS Grants
 ```
-In the past 5 years, this district has received:  $24,510,602.00 in NSF MPS grants.
+In the past 5 years, this district has received: $24,510,602.00 in NSF MPS grants.
                                                   Amount ($)
 Institution                                 Year            
 RUTGERS, THE STATE UNIVERSITY OF NEW JERSEY 2012    11759202
@@ -215,7 +218,7 @@ This district received no SC HEP grants from 2012-2016
 ```
 ### SC Contracts
 ```
-In the past 5 years, this district has received:  $17,623.96 in SC contracts.
+In the past 5 years, this district has received: $17,623.96 in SC contracts.
                                   Amount ($)
 vendorname           fiscal_year            
 ALLOY SOFTWARE, INC. 2013            4992.96
@@ -224,7 +227,7 @@ ALLOY SOFTWARE, INC. 2013            4992.96
 ```
 ### NSF MPS Grants
 ```
-In the past 5 years, this district has received:  $1,407,483.00 in NSF MPS grants.
+In the past 5 years, this district has received: $1,407,483.00 in NSF MPS grants.
                                                     Amount ($)
 Institution                                   Year            
 MONTCLAIR STATE UNIVERSITY STUDENT GOVERNMENT 2012       74888
@@ -242,7 +245,7 @@ This district received no SC HEP grants from 2012-2016
 ```
 ### SC Contracts
 ```
-In the past 5 years, this district has received:  $117,540.00 in SC contracts.
+In the past 5 years, this district has received: $117,540.00 in SC contracts.
                                                     Amount ($)
 vendorname                             fiscal_year            
 SPRINGER SCIENCE + BUSINESS MEDIA, LLC 2012              57618
@@ -266,7 +269,7 @@ This district received no SC contracts from 2012-2017
 ```
 ### NSF MPS Grants
 ```
-In the past 5 years, this district has received:  $8,326,798.00 in NSF MPS grants.
+In the past 5 years, this district has received: $8,326,798.00 in NSF MPS grants.
                                                   Amount ($)
 Institution                                 Year            
 NEW JERSEY INSTITUTE OF TECHNOLOGY          2012      633080
@@ -292,7 +295,7 @@ This district received no SC contracts from 2012-2017
 ```
 ### NSF MPS Grants
 ```
-In the past 5 years, this district has received:  $483,440.00 in NSF MPS grants.
+In the past 5 years, this district has received: $483,440.00 in NSF MPS grants.
                                                          Amount ($)
 Institution                                        Year            
 MONTCLAIR STATE UNIVERSITY STUDENT GOVERNMENT      2013      126000
@@ -305,7 +308,7 @@ MONTCLAIR STATE UNIVERSITY STUDENT GOVERNMENT A... 2017       57453
 ## NJ-12 -- Rep. Bonnie Watson Coleman (D)
 ### HEP Grants
 ```
-In the past 5 years, this district has received:  $14,994,895.00 in SC HEP grants.
+In the past 5 years, this district has received: $14,994,895.00 in SC HEP grants.
                                    Amount ($)
 Institution                  Year            
 INSTITUTE FOR ADVANCED STUDY 2012      740000
@@ -321,7 +324,7 @@ Princeton University         2014     2604000
 ```
 ### SC Contracts
 ```
-In the past 5 years, this district has received:  $508,599,304.70 in SC contracts.
+In the past 5 years, this district has received: $508,599,304.70 in SC contracts.
                                                         Amount ($)
 vendorname                               fiscal_year              
 AMERICAN SOCIETY OF CIVIL ENGINEERS, THE 2015         1.550000e+04
@@ -345,7 +348,7 @@ TRUSTEES OF PRINCETON UNIVERSITY, THE    2012         8.016556e+07
 ```
 ### NSF MPS Grants
 ```
-In the past 5 years, this district has received:  $110,323,941.00 in NSF MPS grants.
+In the past 5 years, this district has received: $110,323,941.00 in NSF MPS grants.
                                                   Amount ($)
 Institution                                 Year            
 COLLEGE OF NEW JERSEY                       2012       85084

@@ -20,8 +20,9 @@ This state received no SC contracts from 2012-2017
 ```
 ## NSF MPS Grants
 ```
-In the past 5 years, this state has received  36  NSF MPS grants, totalling  $5,247,526.00
-Who have these grants gone to?
+In the past 5 years, this state has received:
+36 NSF MPS grants, totalling $5,247,526.00
+ 
                                     Amount ($)
 Institution                                   
 BOISE STATE UNIVERSITY                 2113961
@@ -45,7 +46,7 @@ This district received no SC contracts from 2012-2017
 ```
 ### NSF MPS Grants
 ```
-In the past 5 years, this district has received:  $1,676,161.00 in NSF MPS grants.
+In the past 5 years, this district has received: $1,676,161.00 in NSF MPS grants.
                                          Amount ($)
 Institution                        Year            
 REGENTS OF THE UNIVERSITY OF IDAHO 2013     1139506
@@ -65,7 +66,7 @@ This district received no SC contracts from 2012-2017
 ```
 ### NSF MPS Grants
 ```
-In the past 5 years, this district has received:  $3,571,365.00 in NSF MPS grants.
+In the past 5 years, this district has received: $3,571,365.00 in NSF MPS grants.
                              Amount ($)
 Institution            Year            
 BOISE STATE UNIVERSITY 2012      653049

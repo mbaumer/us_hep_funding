@@ -12,8 +12,9 @@ permalink : /states/HI/
 # HI -- Sen. Mazie Hirono (D) and  Sen. Brian Schatz (D)
 ## HEP Grants
 ```
-In the past 5 years, this state has received  17  HEP grants, totalling  $9,112,000.00
-Who have these grants gone to?
+In the past 5 years, this state has received:
+17 HEP grants, totalling $9,112,000.00
+ 
                            Amount ($)
 Institution          Year            
 UNIVERSITY OF HAWAII 2012     1714000
@@ -28,8 +29,9 @@ This state received no SC contracts from 2012-2017
 ```
 ## NSF MPS Grants
 ```
-In the past 5 years, this state has received  42  NSF MPS grants, totalling  $18,952,415.00
-Who have these grants gone to?
+In the past 5 years, this state has received:
+42 NSF MPS grants, totalling $18,952,415.00
+ 
                                                   Amount ($)
 Institution                                                 
 UNIVERSITY OF HAWAII SYSTEMS                        12585130
@@ -44,7 +46,7 @@ CALIFORNIA ASSOCIATION FOR RESEARCH IN ASTRONOMY           0
 ## HI-01 -- Rep. Colleen Hanabusa (D)
 ### HEP Grants
 ```
-In the past 5 years, this district has received:  $5,215,000.00 in SC HEP grants.
+In the past 5 years, this district has received: $5,215,000.00 in SC HEP grants.
                            Amount ($)
 Institution          Year            
 University of Hawaii 2014     1965000
@@ -57,7 +59,7 @@ This district received no SC contracts from 2012-2017
 ```
 ### NSF MPS Grants
 ```
-In the past 5 years, this district has received:  $12,585,130.00 in NSF MPS grants.
+In the past 5 years, this district has received: $12,585,130.00 in NSF MPS grants.
                                    Amount ($)
 Institution                  Year            
 UNIVERSITY OF HAWAII SYSTEMS 2012     5649430
@@ -78,7 +80,7 @@ This district received no SC contracts from 2012-2017
 ```
 ### NSF MPS Grants
 ```
-In the past 5 years, this district has received:  $6,367,285.00 in NSF MPS grants.
+In the past 5 years, this district has received: $6,367,285.00 in NSF MPS grants.
                                                        Amount ($)
 Institution                                      Year            
 CALIFORNIA ASSOCIATION FOR RESEARCH IN ASTRON    2012     1182447

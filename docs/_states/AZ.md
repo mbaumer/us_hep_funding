@@ -12,8 +12,9 @@ permalink : /states/AZ/
 # AZ -- Sen. Jeff Flake (R) and  Sen. John McCain (R)
 ## HEP Grants
 ```
-In the past 5 years, this state has received  25  HEP grants, totalling  $8,257,000.00
-Who have these grants gone to?
+In the past 5 years, this state has received:
+25 HEP grants, totalling $8,257,000.00
+ 
                           Amount ($)
 Institution                         
 University of Arizona        4243000
@@ -23,16 +24,18 @@ ARIZONA STATE UNIVERSITY      706000
 ```
 ## SC Contracts
 ```
-In the past 5 years, this state has received  1  Office of Science contracts, totalling  $-289,800.76
-Who have these contracts gone to?
+In the past 5 years, this state has received:
+1 Office of Science contracts, totalling $-289,800.76
+ 
                                         Amount ($)
 vendorname                 fiscal_year            
 ALLIED SIGNAL AEROSPACE CO 2014         -289800.76
 ```
 ## NSF MPS Grants
 ```
-In the past 5 years, this state has received  262  NSF MPS grants, totalling  $54,565,624.00
-Who have these grants gone to?
+In the past 5 years, this state has received:
+262 NSF MPS grants, totalling $54,565,624.00
+ 
                                                Amount ($)
 Institution                                              
 UNIVERSITY OF ARIZONA                            30188496
@@ -62,7 +65,7 @@ This district received no SC contracts from 2012-2017
 ```
 ### NSF MPS Grants
 ```
-In the past 5 years, this district has received:  $2,339,443.00 in NSF MPS grants.
+In the past 5 years, this district has received: $2,339,443.00 in NSF MPS grants.
                                   Amount ($)
 Institution                 Year            
 LOWELL OBSERVATORY          2012      698257
@@ -87,7 +90,7 @@ This district received no SC contracts from 2012-2017
 ```
 ### NSF MPS Grants
 ```
-In the past 5 years, this district has received:  $2,048,192.00 in NSF MPS grants.
+In the past 5 years, this district has received: $2,048,192.00 in NSF MPS grants.
                                                          Amount ($)
 Institution                                        Year            
 ASSOCIATION OF UNIVERSITIES FOR RESEARCH IN A      2013      324758
@@ -102,7 +105,7 @@ UNIVERSITY OF ARIZONA                              2013     1280434
 ## AZ-03 -- Rep. Raúl Grijalva (D)
 ### HEP Grants
 ```
-In the past 5 years, this district has received:  $4,243,000.00 in SC HEP grants.
+In the past 5 years, this district has received: $4,243,000.00 in SC HEP grants.
                             Amount ($)
 Institution           Year            
 University of Arizona 2014     1236000
@@ -115,7 +118,7 @@ This district received no SC contracts from 2012-2017
 ```
 ### NSF MPS Grants
 ```
-In the past 5 years, this district has received:  $19,823,305.00 in NSF MPS grants.
+In the past 5 years, this district has received: $19,823,305.00 in NSF MPS grants.
                                                          Amount ($)
 Institution                                        Year            
 ASSOCIATION OF UNIVERSITIES FOR RESEARCH IN AST... 2017       78635
@@ -138,7 +141,7 @@ This district received no SC contracts from 2012-2017
 ```
 ### NSF MPS Grants
 ```
-In the past 5 years, this district has received:  $180,483.00 in NSF MPS grants.
+In the past 5 years, this district has received: $180,483.00 in NSF MPS grants.
                                                Amount ($)
 Institution                              Year            
 EMBRY-RIDDLE AERONAUTICAL UNIVERSITY INC 2013      126027
@@ -150,7 +153,7 @@ EMBRY-RIDDLE AERONAUTICAL UNIVERSITY INC 2013      126027
 ## AZ-05 -- Rep. Andy Biggs (R)
 ### HEP Grants
 ```
-In the past 5 years, this district has received:  $706,000.00 in SC HEP grants.
+In the past 5 years, this district has received: $706,000.00 in SC HEP grants.
                                Amount ($)
 Institution              Year            
 ARIZONA STATE UNIVERSITY 2012      210000
@@ -162,7 +165,7 @@ This district received no SC contracts from 2012-2017
 ```
 ### NSF MPS Grants
 ```
-In the past 5 years, this district has received:  $7,268,528.00 in NSF MPS grants.
+In the past 5 years, this district has received: $7,268,528.00 in NSF MPS grants.
                                Amount ($)
 Institution              Year            
 ARIZONA STATE UNIVERSITY 2012     7172658
@@ -190,7 +193,7 @@ This district received no NSF MPS grants from 2012-2016
 ## AZ-07 -- Rep. Ruben Gallego (D)
 ### HEP Grants
 ```
-In the past 5 years, this district has received:  $2,451,000.00 in SC HEP grants.
+In the past 5 years, this district has received: $2,451,000.00 in SC HEP grants.
                             Amount ($)
 Institution           Year            
 UNIVERSITY OF ARIZONA 2012     1219000
@@ -198,14 +201,14 @@ UNIVERSITY OF ARIZONA 2012     1219000
 ```
 ### SC Contracts
 ```
-In the past 5 years, this district has received:  $-289,800.76 in SC contracts.
+In the past 5 years, this district has received: $-289,800.76 in SC contracts.
                                         Amount ($)
 vendorname                 fiscal_year            
 ALLIED SIGNAL AEROSPACE CO 2014         -289800.76
 ```
 ### NSF MPS Grants
 ```
-In the past 5 years, this district has received:  $12,674,478.00 in NSF MPS grants.
+In the past 5 years, this district has received: $12,674,478.00 in NSF MPS grants.
                                                     Amount ($)
 Institution                                   Year            
 ASSOCIATION OF UNIVERSITIES FOR RESEARCH IN A 2012     3290230
@@ -234,7 +237,7 @@ This district received no NSF MPS grants from 2012-2016
 ## AZ-09 -- Rep. Kyrsten Sinema (D)
 ### HEP Grants
 ```
-In the past 5 years, this district has received:  $857,000.00 in SC HEP grants.
+In the past 5 years, this district has received: $857,000.00 in SC HEP grants.
                                Amount ($)
 Institution              Year            
 Arizona State University 2014      417000
@@ -247,7 +250,7 @@ This district received no SC contracts from 2012-2017
 ```
 ### NSF MPS Grants
 ```
-In the past 5 years, this district has received:  $10,231,195.00 in NSF MPS grants.
+In the past 5 years, this district has received: $10,231,195.00 in NSF MPS grants.
                                Amount ($)
 Institution              Year            
 ARIZONA STATE UNIVERSITY 2013     6048356

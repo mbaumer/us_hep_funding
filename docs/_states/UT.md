@@ -12,8 +12,9 @@ permalink : /states/UT/
 # UT -- Sen. Orrin Hatch (R) and  Sen. Mike Lee (R)
 ## HEP Grants
 ```
-In the past 5 years, this state has received  15  HEP grants, totalling  $2,375,000.00
-Who have these grants gone to?
+In the past 5 years, this state has received:
+15 HEP grants, totalling $2,375,000.00
+ 
                          Amount ($)
 Institution        Year            
 UNIVERSITY OF UTAH 2012       78000
@@ -24,8 +25,9 @@ University of Utah 2014      343000
 ```
 ## SC Contracts
 ```
-In the past 5 years, this state has received  3  Office of Science contracts, totalling  $9,829.00
-Who have these contracts gone to?
+In the past 5 years, this state has received:
+3 Office of Science contracts, totalling $9,829.00
+ 
                                    Amount ($)
 vendorname            fiscal_year            
 OVID TECHNOLOGIES INC 2012               3028
@@ -34,8 +36,9 @@ OVID TECHNOLOGIES INC 2012               3028
 ```
 ## NSF MPS Grants
 ```
-In the past 5 years, this state has received  151  NSF MPS grants, totalling  $36,504,559.00
-Who have these grants gone to?
+In the past 5 years, this state has received:
+151 NSF MPS grants, totalling $36,504,559.00
+ 
                           Amount ($)
 Institution                         
 UNIVERSITY OF UTAH, THE     28411611
@@ -57,14 +60,14 @@ This district received no SC HEP grants from 2012-2016
 ```
 ### SC Contracts
 ```
-In the past 5 years, this district has received:  $3,028.00 in SC contracts.
+In the past 5 years, this district has received: $3,028.00 in SC contracts.
                                    Amount ($)
 vendorname            fiscal_year            
 OVID TECHNOLOGIES INC 2012               3028
 ```
 ### NSF MPS Grants
 ```
-In the past 5 years, this district has received:  $2,558,625.00 in NSF MPS grants.
+In the past 5 years, this district has received: $2,558,625.00 in NSF MPS grants.
                             Amount ($)
 Institution           Year            
 UTAH STATE UNIVERSITY 2012      107800
@@ -78,7 +81,7 @@ Utah State University 2015       92014
 ## UT-02 -- Rep. Chris Stewart (R)
 ### HEP Grants
 ```
-In the past 5 years, this district has received:  $2,375,000.00 in SC HEP grants.
+In the past 5 years, this district has received: $2,375,000.00 in SC HEP grants.
                          Amount ($)
 Institution        Year            
 UNIVERSITY OF UTAH 2012       78000
@@ -93,7 +96,7 @@ This district received no SC contracts from 2012-2017
 ```
 ### NSF MPS Grants
 ```
-In the past 5 years, this district has received:  $29,640,646.00 in NSF MPS grants.
+In the past 5 years, this district has received: $29,640,646.00 in NSF MPS grants.
                               Amount ($)
 Institution             Year            
 Dixie State University  2015      135000
@@ -117,7 +120,7 @@ This district received no SC contracts from 2012-2017
 ```
 ### NSF MPS Grants
 ```
-In the past 5 years, this district has received:  $4,305,288.00 in NSF MPS grants.
+In the past 5 years, this district has received: $4,305,288.00 in NSF MPS grants.
                                Amount ($)
 Institution              Year            
 BRIGHAM YOUNG UNIVERSITY 2012     2278835
@@ -135,7 +138,7 @@ This district received no SC HEP grants from 2012-2016
 ```
 ### SC Contracts
 ```
-In the past 5 years, this district has received:  $6,801.00 in SC contracts.
+In the past 5 years, this district has received: $6,801.00 in SC contracts.
                                    Amount ($)
 vendorname            fiscal_year            
 OVID TECHNOLOGIES INC 2014               3270

@@ -16,8 +16,9 @@ This state received no SC HEP grants from 2012-2016
 ```
 ## SC Contracts
 ```
-In the past 5 years, this state has received  14  Office of Science contracts, totalling  $150,061.15
-Who have these contracts gone to?
+In the past 5 years, this state has received:
+14 Office of Science contracts, totalling $150,061.15
+ 
                                            Amount ($)
 vendorname                    fiscal_year            
 GLOBAL EQUIPMENT COMPANY INC. 2012            4926.18
@@ -30,8 +31,9 @@ SYSCOM TECHNOLOGIES, INC.     2015          104634.97
 ```
 ## NSF MPS Grants
 ```
-In the past 5 years, this state has received  356  NSF MPS grants, totalling  $75,551,908.00
-Who have these grants gone to?
+In the past 5 years, this state has received:
+356 NSF MPS grants, totalling $75,551,908.00
+ 
                                                Amount ($)
 Institution                                              
 GEORGIA TECH RESEARCH CORPORATION                33845973
@@ -61,7 +63,7 @@ This district received no SC contracts from 2012-2017
 ```
 ### NSF MPS Grants
 ```
-In the past 5 years, this district has received:  $105,000.00 in NSF MPS grants.
+In the past 5 years, this district has received: $105,000.00 in NSF MPS grants.
                           Amount ($)
 Institution         Year            
 BUCKNELL UNIVERSITY 2013      105000
@@ -96,7 +98,7 @@ This district received no SC contracts from 2012-2017
 ```
 ### NSF MPS Grants
 ```
-In the past 5 years, this district has received:  $569,718.00 in NSF MPS grants.
+In the past 5 years, this district has received: $569,718.00 in NSF MPS grants.
                                  Amount ($)
 Institution                Year            
 UNIVERSITY OF WEST GEORGIA 2013      229699
@@ -116,7 +118,7 @@ This district received no SC contracts from 2012-2017
 ```
 ### NSF MPS Grants
 ```
-In the past 5 years, this district has received:  $12,979,063.00 in NSF MPS grants.
+In the past 5 years, this district has received: $12,979,063.00 in NSF MPS grants.
                                 Amount ($)
 Institution               Year            
 AGNES SCOTT COLLEGE, INC. 2012      201886
@@ -139,7 +141,7 @@ This district received no SC contracts from 2012-2017
 ```
 ### NSF MPS Grants
 ```
-In the past 5 years, this district has received:  $51,857,307.00 in NSF MPS grants.
+In the past 5 years, this district has received: $51,857,307.00 in NSF MPS grants.
                                                     Amount ($)
 Institution                                   Year            
 CLARK ATLANTA UNIVERSITY, INC.                2012      405000
@@ -190,7 +192,7 @@ This district received no SC HEP grants from 2012-2016
 ```
 ### SC Contracts
 ```
-In the past 5 years, this district has received:  $45,426.18 in SC contracts.
+In the past 5 years, this district has received: $45,426.18 in SC contracts.
                                            Amount ($)
 vendorname                    fiscal_year            
 GLOBAL EQUIPMENT COMPANY INC. 2012            4926.18
@@ -233,7 +235,7 @@ This district received no SC contracts from 2012-2017
 ```
 ### NSF MPS Grants
 ```
-In the past 5 years, this district has received:  $86,469.00 in NSF MPS grants.
+In the past 5 years, this district has received: $86,469.00 in NSF MPS grants.
                                   Amount ($)
 Institution                 Year            
 UNIVERSITY OF NORTH GEORGIA 2014       86469
@@ -252,7 +254,7 @@ This district received no SC contracts from 2012-2017
 ```
 ### NSF MPS Grants
 ```
-In the past 5 years, this district has received:  $8,492,376.00 in NSF MPS grants.
+In the past 5 years, this district has received: $8,492,376.00 in NSF MPS grants.
                                                     Amount ($)
 Institution                                   Year            
 U of Georgia Res Fdn Inc                      2015       77479
@@ -270,7 +272,7 @@ This district received no SC HEP grants from 2012-2016
 ```
 ### SC Contracts
 ```
-In the past 5 years, this district has received:  $104,634.97 in SC contracts.
+In the past 5 years, this district has received: $104,634.97 in SC contracts.
                                        Amount ($)
 vendorname                fiscal_year            
 SYSCOM TECHNOLOGIES, INC. 2015          104634.97
@@ -278,7 +280,7 @@ SYSCOM TECHNOLOGIES, INC. 2015          104634.97
 ```
 ### NSF MPS Grants
 ```
-In the past 5 years, this district has received:  $120,000.00 in NSF MPS grants.
+In the past 5 years, this district has received: $120,000.00 in NSF MPS grants.
                                                     Amount ($)
 Institution                                   Year            
 KENNESAW STATE UNIVERSITY  RESEARCH AND SERVI 2012      120000
@@ -297,7 +299,7 @@ This district received no SC contracts from 2012-2017
 ```
 ### NSF MPS Grants
 ```
-In the past 5 years, this district has received:  $1,341,975.00 in NSF MPS grants.
+In the past 5 years, this district has received: $1,341,975.00 in NSF MPS grants.
                                                     Amount ($)
 Institution                                   Year            
 GEORGIA HEALTH SCIENCES UNIVERSITY RESEARCH I 2013     -118182

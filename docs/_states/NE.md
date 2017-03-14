@@ -20,8 +20,9 @@ This state received no SC contracts from 2012-2017
 ```
 ## NSF MPS Grants
 ```
-In the past 5 years, this state has received  66  NSF MPS grants, totalling  $20,585,624.00
-Who have these grants gone to?
+In the past 5 years, this state has received:
+66 NSF MPS grants, totalling $20,585,624.00
+ 
                                                Amount ($)
 Institution                                              
 UNIVERSITY OF NEBRASKA                            8703224
@@ -45,7 +46,7 @@ This district received no SC contracts from 2012-2017
 ```
 ### NSF MPS Grants
 ```
-In the past 5 years, this district has received:  $20,388,124.00 in NSF MPS grants.
+In the past 5 years, this district has received: $20,388,124.00 in NSF MPS grants.
                                                     Amount ($)
 Institution                                   Year            
 BOARD OF REGENTS OF THE UNIVERSITY OF NEBRASK 2014     8129985
@@ -68,7 +69,7 @@ This district received no SC contracts from 2012-2017
 ```
 ### NSF MPS Grants
 ```
-In the past 5 years, this district has received:  $92,500.00 in NSF MPS grants.
+In the past 5 years, this district has received: $92,500.00 in NSF MPS grants.
                            Amount ($)
 Institution          Year            
 CREIGHTON UNIVERSITY 2012       92500
@@ -87,7 +88,7 @@ This district received no SC contracts from 2012-2017
 ```
 ### NSF MPS Grants
 ```
-In the past 5 years, this district has received:  $105,000.00 in NSF MPS grants.
+In the past 5 years, this district has received: $105,000.00 in NSF MPS grants.
                     Amount ($)
 Institution   Year            
 DOANE COLLEGE 2012      105000

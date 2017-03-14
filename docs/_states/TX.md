@@ -12,8 +12,9 @@ permalink : /states/TX/
 # TX -- Sen. John Cornyn (R) and  Sen. Ted Cruz (R)
 ## HEP Grants
 ```
-In the past 5 years, this state has received  113  HEP grants, totalling  $33,716,984.00
-Who have these grants gone to?
+In the past 5 years, this state has received:
+113 HEP grants, totalling $33,716,984.00
+ 
                                         Amount ($)
 Institution                                       
 University of Texas - Austin               3656984
@@ -30,8 +31,9 @@ and  11  other institutions.
 ```
 ## SC Contracts
 ```
-In the past 5 years, this state has received  5  Office of Science contracts, totalling  $20,389.04
-Who have these contracts gone to?
+In the past 5 years, this state has received:
+5 Office of Science contracts, totalling $20,389.04
+ 
                                                       Amount ($)
 vendorname                               fiscal_year            
 ALLIED ASSOCIATES COMMERCIAL FLOORS, INC 2016           14963.16
@@ -41,8 +43,9 @@ DELL MARKETING L.P.                      2012            5959.20
 ```
 ## NSF MPS Grants
 ```
-In the past 5 years, this state has received  814  NSF MPS grants, totalling  $132,342,102.00
-Who have these grants gone to?
+In the past 5 years, this state has received:
+814 NSF MPS grants, totalling $132,342,102.00
+ 
                                   Amount ($)
 Institution                                 
 UNIVERSITY OF TEXAS AT AUSTIN       28431729
@@ -72,7 +75,7 @@ This district received no SC contracts from 2012-2017
 ```
 ### NSF MPS Grants
 ```
-In the past 5 years, this district has received:  $227,533.00 in NSF MPS grants.
+In the past 5 years, this district has received: $227,533.00 in NSF MPS grants.
                                         Amount ($)
 Institution                       Year            
 UNIVERSITY OF TEXAS AT TYLER, THE 2012       71265
@@ -85,7 +88,7 @@ UNIVERSITY OF TEXAS AT TYLER, THE 2012       71265
 ## TX-02 -- Rep. Ted Poe (R)
 ### HEP Grants
 ```
-In the past 5 years, this district has received:  $1,789,000.00 in SC HEP grants.
+In the past 5 years, this district has received: $1,789,000.00 in SC HEP grants.
                                     Amount ($)
 Institution                   Year            
 Rice University               2014      638000
@@ -98,7 +101,7 @@ This district received no SC contracts from 2012-2017
 ```
 ### NSF MPS Grants
 ```
-In the past 5 years, this district has received:  $17,231,399.00 in NSF MPS grants.
+In the past 5 years, this district has received: $17,231,399.00 in NSF MPS grants.
                                     Amount ($)
 Institution                   Year            
 WILLIAM MARSH RICE UNIVERSITY 2013    10024547
@@ -111,7 +114,7 @@ William Marsh Rice Univ       2015      281591
 ## TX-03 -- Rep. Sam Johnson (R)
 ### HEP Grants
 ```
-In the past 5 years, this district has received:  $535,000.00 in SC HEP grants.
+In the past 5 years, this district has received: $535,000.00 in SC HEP grants.
                                   Amount ($)
 Institution                 Year            
 UNIVERSITY OF TEXAS, DALLAS 2012      326000
@@ -139,7 +142,7 @@ This district received no SC contracts from 2012-2017
 ```
 ### NSF MPS Grants
 ```
-In the past 5 years, this district has received:  $1,475,869.00 in NSF MPS grants.
+In the past 5 years, this district has received: $1,475,869.00 in NSF MPS grants.
                                     Amount ($)
 Institution                   Year            
 TEXAS A&M UNIVERSITY-COMMERCE 2012      176227
@@ -169,7 +172,7 @@ This district received no NSF MPS grants from 2012-2016
 ## TX-06 -- Rep. Joe Barton (R)
 ### HEP Grants
 ```
-In the past 5 years, this district has received:  $4,096,000.00 in SC HEP grants.
+In the past 5 years, this district has received: $4,096,000.00 in SC HEP grants.
                                       Amount ($)
 Institution                     Year            
 UNIVERSITY OF  TEXAS, ARLINGTON 2012      637000
@@ -184,7 +187,7 @@ This district received no SC contracts from 2012-2017
 ```
 ### NSF MPS Grants
 ```
-In the past 5 years, this district has received:  $3,293,217.00 in NSF MPS grants.
+In the past 5 years, this district has received: $3,293,217.00 in NSF MPS grants.
                                        Amount ($)
 Institution                      Year            
 UNIVERSITY OF TEXAS AT ARLINGTON 2012      758042
@@ -198,7 +201,7 @@ UNIVERSITY OF TEXAS AT ARLINGTON 2012      758042
 ## TX-07 -- Rep. John Culberson (R)
 ### HEP Grants
 ```
-In the past 5 years, this district has received:  $1,326,000.00 in SC HEP grants.
+In the past 5 years, this district has received: $1,326,000.00 in SC HEP grants.
                       Amount ($)
 Institution     Year            
 RICE UNIVERSITY 2012      740000
@@ -210,7 +213,7 @@ This district received no SC contracts from 2012-2017
 ```
 ### NSF MPS Grants
 ```
-In the past 5 years, this district has received:  $5,268,095.00 in NSF MPS grants.
+In the past 5 years, this district has received: $5,268,095.00 in NSF MPS grants.
                                     Amount ($)
 Institution                   Year            
 BAYLOR COLLEGE OF MEDICINE    2012      191348
@@ -224,7 +227,7 @@ William Marsh Rice Univ       2015       49964
 ## TX-08 -- Rep. Kevin Brady (R)
 ### HEP Grants
 ```
-In the past 5 years, this district has received:  $710,000.00 in SC HEP grants.
+In the past 5 years, this district has received: $710,000.00 in SC HEP grants.
                                             Amount ($)
 Institution                           Year            
 TEXAS A&M UNIVERSITY, COLLEGE STATION 2012       65000
@@ -236,7 +239,7 @@ This district received no SC contracts from 2012-2017
 ```
 ### NSF MPS Grants
 ```
-In the past 5 years, this district has received:  $541,406.00 in NSF MPS grants.
+In the past 5 years, this district has received: $541,406.00 in NSF MPS grants.
                                    Amount ($)
 Institution                  Year            
 SAM HOUSTON STATE UNIVERSITY 2013      403834
@@ -256,7 +259,7 @@ This district received no SC contracts from 2012-2017
 ```
 ### NSF MPS Grants
 ```
-In the past 5 years, this district has received:  $3,300,023.00 in NSF MPS grants.
+In the past 5 years, this district has received: $3,300,023.00 in NSF MPS grants.
                                                    Amount ($)
 Institution                                  Year            
 BAYLOR COLLEGE OF MEDICINE                   2013     1000419
@@ -278,7 +281,7 @@ This district received no SC HEP grants from 2012-2016
 ```
 ### SC Contracts
 ```
-In the past 5 years, this district has received:  $1,389.21 in SC contracts.
+In the past 5 years, this district has received: $1,389.21 in SC contracts.
                                            Amount ($)
 vendorname                    fiscal_year            
 DELL FINANCIAL SERVICES L. P. 2012           -4569.99
@@ -286,7 +289,7 @@ DELL MARKETING L.P.           2012            5959.20
 ```
 ### NSF MPS Grants
 ```
-In the past 5 years, this district has received:  $3,209,363.00 in NSF MPS grants.
+In the past 5 years, this district has received: $3,209,363.00 in NSF MPS grants.
                                         Amount ($)
 Institution                       Year            
 PRAIRIE VIEW A & M UNIVERSITY     2013       48000
@@ -328,7 +331,7 @@ This district received no SC contracts from 2012-2017
 ```
 ### NSF MPS Grants
 ```
-In the past 5 years, this district has received:  $684,856.00 in NSF MPS grants.
+In the past 5 years, this district has received: $684,856.00 in NSF MPS grants.
                                      Amount ($)
 Institution                    Year            
 TEXAS CHRISTIAN UNIVERSITY INC 2012       43440
@@ -349,7 +352,7 @@ This district received no SC contracts from 2012-2017
 ```
 ### NSF MPS Grants
 ```
-In the past 5 years, this district has received:  $371,700.00 in NSF MPS grants.
+In the past 5 years, this district has received: $371,700.00 in NSF MPS grants.
                                       Amount ($)
 Institution                     Year            
 TEXAS A&M UNIVERSITY SYSTEM,THE 2014      371700
@@ -368,7 +371,7 @@ This district received no SC contracts from 2012-2017
 ```
 ### NSF MPS Grants
 ```
-In the past 5 years, this district has received:  $433,596.00 in NSF MPS grants.
+In the past 5 years, this district has received: $433,596.00 in NSF MPS grants.
                                                     Amount ($)
 Institution                                   Year            
 UNIVERSITY OF TEXAS MEDICAL BRANCH AT GALVEST 2013      300000
@@ -388,7 +391,7 @@ This district received no SC contracts from 2012-2017
 ```
 ### NSF MPS Grants
 ```
-In the past 5 years, this district has received:  $1,349,001.00 in NSF MPS grants.
+In the past 5 years, this district has received: $1,349,001.00 in NSF MPS grants.
                                          Amount ($)
 Institution                        Year            
 UNIVERSITY OF TEXAS - PAN AMERICAN 2012      578998
@@ -409,7 +412,7 @@ This district received no SC contracts from 2012-2017
 ```
 ### NSF MPS Grants
 ```
-In the past 5 years, this district has received:  $3,107,669.00 in NSF MPS grants.
+In the past 5 years, this district has received: $3,107,669.00 in NSF MPS grants.
                                      Amount ($)
 Institution                    Year            
 UNIVERSITY OF TEXAS AT EL PASO 2012     1374004
@@ -422,7 +425,7 @@ UNIVERSITY OF TEXAS AT EL PASO 2012     1374004
 ## TX-17 -- Rep. Bill Flores (R)
 ### HEP Grants
 ```
-In the past 5 years, this district has received:  $8,741,000.00 in SC HEP grants.
+In the past 5 years, this district has received: $8,741,000.00 in SC HEP grants.
                                              Amount ($)
 Institution                            Year            
 BAYLOR UNIVERSITY                      2012      270000
@@ -443,7 +446,7 @@ This district received no SC contracts from 2012-2017
 ```
 ### NSF MPS Grants
 ```
-In the past 5 years, this district has received:  $28,508,931.00 in NSF MPS grants.
+In the past 5 years, this district has received: $28,508,931.00 in NSF MPS grants.
                                                    Amount ($)
 Institution                                  Year            
 BAYLOR UNIVERSITY                            2012      863820
@@ -473,7 +476,7 @@ The Texas A&M U Sys HSC RF                   2015       99999
 ## TX-18 -- Rep. Sheila Jackson Lee (D)
 ### HEP Grants
 ```
-In the past 5 years, this district has received:  $2,709,000.00 in SC HEP grants.
+In the past 5 years, this district has received: $2,709,000.00 in SC HEP grants.
                             Amount ($)
 Institution           Year            
 UNIVERSITY OF HOUSTON 2012      521000
@@ -488,7 +491,7 @@ This district received no SC contracts from 2012-2017
 ```
 ### NSF MPS Grants
 ```
-In the past 5 years, this district has received:  $9,198,387.00 in NSF MPS grants.
+In the past 5 years, this district has received: $9,198,387.00 in NSF MPS grants.
                                                     Amount ($)
 Institution                                   Year            
 TEXAS SOUTHERN UNIVERSITY                     2013       65100
@@ -506,7 +509,7 @@ UNIVERSITY OF TEXAS MEDICAL BRANCH AT GALVEST 2012      210000
 ## TX-19 -- Rep. Jodey Arrington (R)
 ### HEP Grants
 ```
-In the past 5 years, this district has received:  $2,828,000.00 in SC HEP grants.
+In the past 5 years, this district has received: $2,828,000.00 in SC HEP grants.
                             Amount ($)
 Institution           Year            
 TEXAS TECH UNIVERSITY 2012      697000
@@ -521,7 +524,7 @@ This district received no SC contracts from 2012-2017
 ```
 ### NSF MPS Grants
 ```
-In the past 5 years, this district has received:  $4,603,580.00 in NSF MPS grants.
+In the past 5 years, this district has received: $4,603,580.00 in NSF MPS grants.
                                    Amount ($)
 Institution                  Year            
 TEXAS TECH UNIVERSITY SYSTEM 2012     1124268
@@ -543,7 +546,7 @@ This district received no SC contracts from 2012-2017
 ```
 ### NSF MPS Grants
 ```
-In the past 5 years, this district has received:  $1,115,174.00 in NSF MPS grants.
+In the past 5 years, this district has received: $1,115,174.00 in NSF MPS grants.
                                          Amount ($)
 Institution                        Year            
 SOUTHWEST RESEARCH INSTITUTE       2012      149711
@@ -557,7 +560,7 @@ UNIVERSITY OF TEXAS AT SAN ANTONIO 2014      682500
 ## TX-21 -- Rep. Lamar Smith (R)
 ### HEP Grants
 ```
-In the past 5 years, this district has received:  $2,323,000.00 in SC HEP grants.
+In the past 5 years, this district has received: $2,323,000.00 in SC HEP grants.
                                   Amount ($)
 Institution                 Year            
 UNIVERSITY OF TEXAS, AUSTIN 2012     1239000
@@ -569,7 +572,7 @@ This district received no SC contracts from 2012-2017
 ```
 ### NSF MPS Grants
 ```
-In the past 5 years, this district has received:  $15,047,906.00 in NSF MPS grants.
+In the past 5 years, this district has received: $15,047,906.00 in NSF MPS grants.
                                                    Amount ($)
 Institution                                  Year            
 RUTGERS, THE STATE UNIVERSITY OF NEW JERSEY  2012       46400
@@ -597,7 +600,7 @@ This district received no SC contracts from 2012-2017
 ```
 ### NSF MPS Grants
 ```
-In the past 5 years, this district has received:  $150,000.00 in NSF MPS grants.
+In the past 5 years, this district has received: $150,000.00 in NSF MPS grants.
                                    Amount ($)
 Institution                  Year            
 UNIVERSITY OF HOUSTON SYSTEM 2012      150000
@@ -616,7 +619,7 @@ This district received no SC contracts from 2012-2017
 ```
 ### NSF MPS Grants
 ```
-In the past 5 years, this district has received:  $1,449,733.00 in NSF MPS grants.
+In the past 5 years, this district has received: $1,449,733.00 in NSF MPS grants.
                                          Amount ($)
 Institution                        Year            
 UNIVERSITY OF TEXAS AT SAN ANTONIO 2012      665902
@@ -637,7 +640,7 @@ This district received no SC contracts from 2012-2017
 ```
 ### NSF MPS Grants
 ```
-In the past 5 years, this district has received:  $-148,986.00 in NSF MPS grants.
+In the past 5 years, this district has received: $-148,986.00 in NSF MPS grants.
                                        Amount ($)
 Institution                      Year            
 UNIVERSITY OF TEXAS AT ARLINGTON 2012       59628
@@ -649,7 +652,7 @@ UNIVERSITY OF TEXAS AT ARLINGTON 2012       59628
 ## TX-25 -- Rep. Roger Williams (R)
 ### HEP Grants
 ```
-In the past 5 years, this district has received:  $3,656,984.00 in SC HEP grants.
+In the past 5 years, this district has received: $3,656,984.00 in SC HEP grants.
                                    Amount ($)
 Institution                  Year            
 University of Texas - Austin 2014     1058000
@@ -662,7 +665,7 @@ This district received no SC contracts from 2012-2017
 ```
 ### NSF MPS Grants
 ```
-In the past 5 years, this district has received:  $15,601,422.00 in NSF MPS grants.
+In the past 5 years, this district has received: $15,601,422.00 in NSF MPS grants.
                                         Amount ($)
 Institution                       Year            
 MULTIPLE RECIPIENTS               2013      174000
@@ -686,7 +689,7 @@ This district received no SC contracts from 2012-2017
 ```
 ### NSF MPS Grants
 ```
-In the past 5 years, this district has received:  $4,596,085.00 in NSF MPS grants.
+In the past 5 years, this district has received: $4,596,085.00 in NSF MPS grants.
                                 Amount ($)
 Institution               Year            
 UNIVERSITY OF NORTH TEXAS 2012     1298235
@@ -708,7 +711,7 @@ This district received no SC contracts from 2012-2017
 ```
 ### NSF MPS Grants
 ```
-In the past 5 years, this district has received:  $648,837.00 in NSF MPS grants.
+In the past 5 years, this district has received: $648,837.00 in NSF MPS grants.
                                           Amount ($)
 Institution                         Year            
 TEXAS A&M UNIVERSITY-CORPUS CHRISTI 2012      275000
@@ -724,14 +727,14 @@ This district received no SC HEP grants from 2012-2016
 ```
 ### SC Contracts
 ```
-In the past 5 years, this district has received:  $14,963.16 in SC contracts.
+In the past 5 years, this district has received: $14,963.16 in SC contracts.
                                                       Amount ($)
 vendorname                               fiscal_year            
 ALLIED ASSOCIATES COMMERCIAL FLOORS, INC 2016           14963.16
 ```
 ### NSF MPS Grants
 ```
-In the past 5 years, this district has received:  $434,257.00 in NSF MPS grants.
+In the past 5 years, this district has received: $434,257.00 in NSF MPS grants.
                                                     Amount ($)
 Institution                                   Year            
 TEXAS A&M INTERNATIONAL UNIVERSITY FOUNDATION 2012      159357
@@ -767,7 +770,7 @@ This district received no SC contracts from 2012-2017
 ```
 ### NSF MPS Grants
 ```
-In the past 5 years, this district has received:  $1,099,000.00 in NSF MPS grants.
+In the past 5 years, this district has received: $1,099,000.00 in NSF MPS grants.
                                                     Amount ($)
 Institution                                   Year            
 UNIVERSITY OF TEXAS AT AUSTIN                 2014        4000
@@ -785,7 +788,7 @@ This district received no SC HEP grants from 2012-2016
 ```
 ### SC Contracts
 ```
-In the past 5 years, this district has received:  $4,036.67 in SC contracts.
+In the past 5 years, this district has received: $4,036.67 in SC contracts.
                                  Amount ($)
 vendorname          fiscal_year            
 DELL MARKETING L.P. 2013            4036.67
@@ -800,7 +803,7 @@ This district received no NSF MPS grants from 2012-2016
 ## TX-32 -- Rep. Pete Sessions (R)
 ### HEP Grants
 ```
-In the past 5 years, this district has received:  $5,003,000.00 in SC HEP grants.
+In the past 5 years, this district has received: $5,003,000.00 in SC HEP grants.
                                     Amount ($)
 Institution                   Year            
 SOUTHERN METHODIST UNIVERSITY 2012      907000
@@ -818,7 +821,7 @@ This district received no SC contracts from 2012-2017
 ```
 ### NSF MPS Grants
 ```
-In the past 5 years, this district has received:  $8,054,365.00 in NSF MPS grants.
+In the past 5 years, this district has received: $8,054,365.00 in NSF MPS grants.
                                         Amount ($)
 Institution                       Year            
 SOUTHERN METHODIST UNIVERSITY INC 2012      920063
@@ -861,7 +864,7 @@ This district received no SC contracts from 2012-2017
 ```
 ### NSF MPS Grants
 ```
-In the past 5 years, this district has received:  $850,063.00 in NSF MPS grants.
+In the past 5 years, this district has received: $850,063.00 in NSF MPS grants.
                                          Amount ($)
 Institution                        Year            
 UNIVERSITY OF TEXAS AT BROWNSVILLE 2013      584262
@@ -881,7 +884,7 @@ This district received no SC contracts from 2012-2017
 ```
 ### NSF MPS Grants
 ```
-In the past 5 years, this district has received:  $639,621.00 in NSF MPS grants.
+In the past 5 years, this district has received: $639,621.00 in NSF MPS grants.
                                         Amount ($)
 Institution                       Year            
 TEXAS STATE UNIVERSITY            2014      345000
