@@ -57,7 +57,7 @@ and  1  other institutions.
 ---
 <a name="RI-01"></a>
 [Back to top](#top)
-## RI-01 -- Rep. David Cicilline (D)
+## RI-01 -- Rep. David Cicilline (D) -- [Wikipedia](https://en.wikipedia.org/wiki/RI-01)
 ### Committees
 David Cicilline is not on any of our key committees 
 
@@ -95,7 +95,7 @@ TRUSTEES OF THE UNIVERSITY OF PENNSYLVANIA    2012      230000
 ---
 <a name="RI-02"></a>
 [Back to top](#top)
-## RI-02 -- Rep. James Langevin (D)
+## RI-02 -- Rep. James Langevin (D) -- [Wikipedia](https://en.wikipedia.org/wiki/RI-02)
 ### Committees
 James Langevin is not on any of our key committees 
 

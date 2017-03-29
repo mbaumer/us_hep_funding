@@ -64,7 +64,7 @@ U of Louisville Res Fdn                             95363
 ---
 <a name="KY-01"></a>
 [Back to top](#top)
-## KY-01 -- Rep. James Comer (R)
+## KY-01 -- Rep. James Comer (R) -- [Wikipedia](https://en.wikipedia.org/wiki/KY-01)
 ### Committees
 James Comer is not on any of our key committees 
 
@@ -96,7 +96,7 @@ MURRAY STATE UNIVERSITY 2014      149940
 ---
 <a name="KY-02"></a>
 [Back to top](#top)
-## KY-02 -- Rep. Brett Guthrie (R)
+## KY-02 -- Rep. Brett Guthrie (R) -- [Wikipedia](https://en.wikipedia.org/wiki/KY-02)
 ### Committees
 Brett Guthrie is the #13 Republican on the House Committee on Energy and Commerce 
 
@@ -121,7 +121,7 @@ WESTERN KENTUCKY UNIVERSITY RESEARCH FOUNDATI 2012      254000
 ---
 <a name="KY-03"></a>
 [Back to top](#top)
-## KY-03 -- Rep. John Yarmuth (D)
+## KY-03 -- Rep. John Yarmuth (D) -- [Wikipedia](https://en.wikipedia.org/wiki/KY-03)
 ### Committees
 John Yarmuth is not on any of our key committees 
 
@@ -152,7 +152,7 @@ UNIVERSITY OF LOUISVILLE 2012      609075
 ---
 <a name="KY-04"></a>
 [Back to top](#top)
-## KY-04 -- Rep. Thomas Massie (R)
+## KY-04 -- Rep. Thomas Massie (R) -- [Wikipedia](https://en.wikipedia.org/wiki/KY-04)
 ### Committees
 Thomas Massie is the #7 Republican on the House Committee on Science, Space, and Technology 
 
@@ -175,7 +175,7 @@ NORTHERN KENTUCKY UNIVERSITY RESEARCH FOUNDAT 2012      220251
 ---
 <a name="KY-05"></a>
 [Back to top](#top)
-## KY-05 -- Rep. Harold Rogers (R)
+## KY-05 -- Rep. Harold Rogers (R) -- [Wikipedia](https://en.wikipedia.org/wiki/KY-05)
 ### Committees
 Harold Rogers is the #2 Republican on the House Committee on Appropriations 
 
@@ -196,7 +196,7 @@ This district received no NSF MPS grants from 2012-2016
 ---
 <a name="KY-06"></a>
 [Back to top](#top)
-## KY-06 -- Rep. Garland Barr (R)
+## KY-06 -- Rep. Garland Barr (R) -- [Wikipedia](https://en.wikipedia.org/wiki/KY-06)
 ### Committees
 Garland Barr is not on any of our key committees 
 

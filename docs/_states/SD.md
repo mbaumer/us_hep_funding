@@ -51,7 +51,7 @@ Dakota State Univ                               12000
 ---
 <a name="SD-00"></a>
 [Back to top](#top)
-## SD-00 -- Rep. Kristi Noem (R)
+## SD-00 -- Rep. Kristi Noem (R) -- [Wikipedia](https://en.wikipedia.org/wiki/SD-00)
 ### Committees
 Kristi Noem is not on any of our key committees 
 

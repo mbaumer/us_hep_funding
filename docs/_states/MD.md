@@ -73,7 +73,7 @@ and  11  other institutions.
 ---
 <a name="MD-01"></a>
 [Back to top](#top)
-## MD-01 -- Rep. Andy Harris (R)
+## MD-01 -- Rep. Andy Harris (R) -- [Wikipedia](https://en.wikipedia.org/wiki/MD-01)
 ### Committees
 Andy Harris is the #21 Republican on the House Committee on Appropriations 
 
@@ -96,7 +96,7 @@ This district received no NSF MPS grants from 2012-2016
 ---
 <a name="MD-02"></a>
 [Back to top](#top)
-## MD-02 -- Rep. C. Ruppersberger (D)
+## MD-02 -- Rep. C. Ruppersberger (D) -- [Wikipedia](https://en.wikipedia.org/wiki/MD-02)
 ### Committees
 C. Ruppersberger is the #12 Democrat on the House Committee on Appropriations 
 
@@ -131,7 +131,7 @@ This district received no NSF MPS grants from 2012-2016
 ---
 <a name="MD-03"></a>
 [Back to top](#top)
-## MD-03 -- Rep. John Sarbanes (D)
+## MD-03 -- Rep. John Sarbanes (D) -- [Wikipedia](https://en.wikipedia.org/wiki/MD-03)
 ### Committees
 John Sarbanes is the #12 Democrat on the House Committee on Energy and Commerce 
 
@@ -160,7 +160,7 @@ UNIVERSITY OF MARYLAND BALTIMORE COUNTY 2013      450221
 ---
 <a name="MD-04"></a>
 [Back to top](#top)
-## MD-04 -- Rep. Anthony Brown (D)
+## MD-04 -- Rep. Anthony Brown (D) -- [Wikipedia](https://en.wikipedia.org/wiki/MD-04)
 ### Committees
 Anthony Brown is not on any of our key committees 
 
@@ -194,7 +194,7 @@ This district received no NSF MPS grants from 2012-2016
 ---
 <a name="MD-05"></a>
 [Back to top](#top)
-## MD-05 -- Rep. Steny Hoyer (D)
+## MD-05 -- Rep. Steny Hoyer (D) -- [Wikipedia](https://en.wikipedia.org/wiki/MD-05)
 ### Committees
 Steny Hoyer is not on any of our key committees 
 
@@ -246,7 +246,7 @@ UNIVERSITY OF MARYLAND                       2012    17539593
 ---
 <a name="MD-06"></a>
 [Back to top](#top)
-## MD-06 -- Rep. John Delaney (D)
+## MD-06 -- Rep. John Delaney (D) -- [Wikipedia](https://en.wikipedia.org/wiki/MD-06)
 ### Committees
 John Delaney is not on any of our key committees 
 
@@ -320,7 +320,7 @@ TEMPLE UNIVERSITY-OF THE COMMONWEALTH SYSTEM 2013       55000
 ---
 <a name="MD-07"></a>
 [Back to top](#top)
-## MD-07 -- Rep. Elijah Cummings (D)
+## MD-07 -- Rep. Elijah Cummings (D) -- [Wikipedia](https://en.wikipedia.org/wiki/MD-07)
 ### Committees
 Elijah Cummings is not on any of our key committees 
 
@@ -364,7 +364,7 @@ UNIVERSITY OF MARYLAND BALTIMORE COUNTY 2012      230860
 ---
 <a name="MD-08"></a>
 [Back to top](#top)
-## MD-08 -- Rep. Jamie Raskin (D)
+## MD-08 -- Rep. Jamie Raskin (D) -- [Wikipedia](https://en.wikipedia.org/wiki/MD-08)
 ### Committees
 Jamie Raskin is not on any of our key committees 
 

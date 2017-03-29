@@ -65,7 +65,7 @@ UNIVERSITY OF NEVADA, RENO                    2012      926494
 ---
 <a name="NV-01"></a>
 [Back to top](#top)
-## NV-01 -- Rep. Dina Titus (D)
+## NV-01 -- Rep. Dina Titus (D) -- [Wikipedia](https://en.wikipedia.org/wiki/NV-01)
 ### Committees
 Dina Titus is not on any of our key committees 
 
@@ -97,7 +97,7 @@ BOARD OF REGENTS NEVADA SYSTEM OF HIGHER EDUC 2012      240656
 ---
 <a name="NV-02"></a>
 [Back to top](#top)
-## NV-02 -- Rep. Mark Amodei (R)
+## NV-02 -- Rep. Mark Amodei (R) -- [Wikipedia](https://en.wikipedia.org/wiki/NV-02)
 ### Committees
 Mark Amodei is the #23 Republican on the House Committee on Appropriations 
 
@@ -130,7 +130,7 @@ UNIVERSITY OF NEVADA, RENO        2012      926494
 ---
 <a name="NV-03"></a>
 [Back to top](#top)
-## NV-03 -- Rep. Jacky Rosen (D)
+## NV-03 -- Rep. Jacky Rosen (D) -- [Wikipedia](https://en.wikipedia.org/wiki/NV-03)
 ### Committees
 Jacky Rosen is the #9 Democrat on the House Committee on Science, Space, and Technology 
 
@@ -154,7 +154,7 @@ This district received no NSF MPS grants from 2012-2016
 ---
 <a name="NV-04"></a>
 [Back to top](#top)
-## NV-04 -- Rep. Ruben Kihuen (D)
+## NV-04 -- Rep. Ruben Kihuen (D) -- [Wikipedia](https://en.wikipedia.org/wiki/NV-04)
 ### Committees
 Ruben Kihuen is not on any of our key committees 
 

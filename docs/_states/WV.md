@@ -48,7 +48,7 @@ WV Univ Research Corp                         2015     1114918
 ---
 <a name="WV-01"></a>
 [Back to top](#top)
-## WV-01 -- Rep. David McKinley (R)
+## WV-01 -- Rep. David McKinley (R) -- [Wikipedia](https://en.wikipedia.org/wiki/WV-01)
 ### Committees
 David McKinley is the #15 Republican on the House Committee on Energy and Commerce 
 
@@ -73,7 +73,7 @@ WV Univ Research Corp                         2015     1114918
 ---
 <a name="WV-02"></a>
 [Back to top](#top)
-## WV-02 -- Rep. Alex Mooney (R)
+## WV-02 -- Rep. Alex Mooney (R) -- [Wikipedia](https://en.wikipedia.org/wiki/WV-02)
 ### Committees
 Alex Mooney is not on any of our key committees 
 
@@ -92,7 +92,7 @@ This district received no NSF MPS grants from 2012-2016
 ---
 <a name="WV-03"></a>
 [Back to top](#top)
-## WV-03 -- Rep. Evan Jenkins (R)
+## WV-03 -- Rep. Evan Jenkins (R) -- [Wikipedia](https://en.wikipedia.org/wiki/WV-03)
 ### Committees
 Evan Jenkins is the #26 Republican on the House Committee on Appropriations 
 

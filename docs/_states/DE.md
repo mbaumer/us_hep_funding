@@ -52,7 +52,7 @@ HENRY FRANCIS DUPONT WINTERTHUR MUSEUM, INC.,        3000
 ---
 <a name="DE-00"></a>
 [Back to top](#top)
-## DE-00 -- Rep. Lisa Blunt Rochester (D)
+## DE-00 -- Rep. Lisa Blunt Rochester (D) -- [Wikipedia](https://en.wikipedia.org/wiki/DE-00)
 ### Committees
 Lisa Blunt Rochester is the #9 Democrat on the House Subcommittee on Higher Education and Workforce Development 
 

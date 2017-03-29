@@ -65,7 +65,7 @@ UNIVERSITY OF SOUTH ALABAMA              -43912
 ---
 <a name="AL-01"></a>
 [Back to top](#top)
-## AL-01 -- Rep. Bradley Byrne (R)
+## AL-01 -- Rep. Bradley Byrne (R) -- [Wikipedia](https://en.wikipedia.org/wiki/AL-01)
 ### Committees
 Bradley Byrne is the #5 Republican on the House Subcommittee on Higher Education and Workforce Development 
 
@@ -91,7 +91,7 @@ UNIVERSITY OF SOUTH ALABAMA 2013      -43912
 ---
 <a name="AL-02"></a>
 [Back to top](#top)
-## AL-02 -- Rep. Martha Roby (R)
+## AL-02 -- Rep. Martha Roby (R) -- [Wikipedia](https://en.wikipedia.org/wiki/AL-02)
 ### Committees
 Martha Roby is the #22 Republican on the House Committee on Appropriations 
 
@@ -112,7 +112,7 @@ This district received no NSF MPS grants from 2012-2016
 ---
 <a name="AL-03"></a>
 [Back to top](#top)
-## AL-03 -- Rep. Mike Rogers (R)
+## AL-03 -- Rep. Mike Rogers (R) -- [Wikipedia](https://en.wikipedia.org/wiki/AL-03)
 ### Committees
 Mike Rogers is not on any of our key committees 
 
@@ -137,7 +137,7 @@ TUSKEGEE UNIVERSITY 2014      862300
 ---
 <a name="AL-04"></a>
 [Back to top](#top)
-## AL-04 -- Rep. Robert Aderholt (R)
+## AL-04 -- Rep. Robert Aderholt (R) -- [Wikipedia](https://en.wikipedia.org/wiki/AL-04)
 ### Committees
 Robert Aderholt is the #3 Republican on the House Committee on Appropriations 
 
@@ -158,7 +158,7 @@ This district received no NSF MPS grants from 2012-2016
 ---
 <a name="AL-05"></a>
 [Back to top](#top)
-## AL-05 -- Rep. Mo Brooks (R)
+## AL-05 -- Rep. Mo Brooks (R) -- [Wikipedia](https://en.wikipedia.org/wiki/AL-05)
 ### Committees
 Mo Brooks is the #4 Republican on the House Committee on Science, Space, and Technology 
 
@@ -191,7 +191,7 @@ UNIVERSITY OF NORTH ALABAMA         2012       19114
 ---
 <a name="AL-06"></a>
 [Back to top](#top)
-## AL-06 -- Rep. Gary Palmer (R)
+## AL-06 -- Rep. Gary Palmer (R) -- [Wikipedia](https://en.wikipedia.org/wiki/AL-06)
 ### Committees
 Gary Palmer is the #13 Republican on the House Committee on Science, Space, and Technology 
 
@@ -210,7 +210,7 @@ This district received no NSF MPS grants from 2012-2016
 ---
 <a name="AL-07"></a>
 [Back to top](#top)
-## AL-07 -- Rep. Terri Sewell (D)
+## AL-07 -- Rep. Terri Sewell (D) -- [Wikipedia](https://en.wikipedia.org/wiki/AL-07)
 ### Committees
 Terri Sewell is not on any of our key committees 
 

@@ -69,7 +69,7 @@ and  47  other institutions.
 ---
 <a name="TX-01"></a>
 [Back to top](#top)
-## TX-01 -- Rep. Louie Gohmert (R)
+## TX-01 -- Rep. Louie Gohmert (R) -- [Wikipedia](https://en.wikipedia.org/wiki/TX-01)
 ### Committees
 Louie Gohmert is not on any of our key committees 
 
@@ -93,7 +93,7 @@ UNIVERSITY OF TEXAS AT TYLER, THE 2012       71265
 ---
 <a name="TX-02"></a>
 [Back to top](#top)
-## TX-02 -- Rep. Ted Poe (R)
+## TX-02 -- Rep. Ted Poe (R) -- [Wikipedia](https://en.wikipedia.org/wiki/TX-02)
 ### Committees
 Ted Poe is not on any of our key committees 
 
@@ -122,7 +122,7 @@ William Marsh Rice Univ       2015      281591
 ---
 <a name="TX-03"></a>
 [Back to top](#top)
-## TX-03 -- Rep. Sam Johnson (R)
+## TX-03 -- Rep. Sam Johnson (R) -- [Wikipedia](https://en.wikipedia.org/wiki/TX-03)
 ### Committees
 Sam Johnson is not on any of our key committees 
 
@@ -145,7 +145,7 @@ This district received no NSF MPS grants from 2012-2016
 ---
 <a name="TX-04"></a>
 [Back to top](#top)
-## TX-04 -- Rep. John Ratcliffe (R)
+## TX-04 -- Rep. John Ratcliffe (R) -- [Wikipedia](https://en.wikipedia.org/wiki/TX-04)
 ### Committees
 John Ratcliffe is not on any of our key committees 
 
@@ -170,7 +170,7 @@ Texas A&M University          2015       95416
 ---
 <a name="TX-05"></a>
 [Back to top](#top)
-## TX-05 -- Rep. Jeb Hensarling (R)
+## TX-05 -- Rep. Jeb Hensarling (R) -- [Wikipedia](https://en.wikipedia.org/wiki/TX-05)
 ### Committees
 Jeb Hensarling is not on any of our key committees 
 
@@ -189,7 +189,7 @@ This district received no NSF MPS grants from 2012-2016
 ---
 <a name="TX-06"></a>
 [Back to top](#top)
-## TX-06 -- Rep. Joe Barton (R)
+## TX-06 -- Rep. Joe Barton (R) -- [Wikipedia](https://en.wikipedia.org/wiki/TX-06)
 ### Committees
 Joe Barton is the #2 Republican on the House Committee on Energy and Commerce 
 
@@ -221,7 +221,7 @@ UNIVERSITY OF TEXAS AT ARLINGTON 2012      758042
 ---
 <a name="TX-07"></a>
 [Back to top](#top)
-## TX-07 -- Rep. John Culberson (R)
+## TX-07 -- Rep. John Culberson (R) -- [Wikipedia](https://en.wikipedia.org/wiki/TX-07)
 ### Committees
 John Culberson is the #6 Republican on the House Committee on Appropriations 
 
@@ -252,7 +252,7 @@ William Marsh Rice Univ       2015       49964
 ---
 <a name="TX-08"></a>
 [Back to top](#top)
-## TX-08 -- Rep. Kevin Brady (R)
+## TX-08 -- Rep. Kevin Brady (R) -- [Wikipedia](https://en.wikipedia.org/wiki/TX-08)
 ### Committees
 Kevin Brady is not on any of our key committees 
 
@@ -279,7 +279,7 @@ SAM HOUSTON STATE UNIVERSITY 2013      403834
 ---
 <a name="TX-09"></a>
 [Back to top](#top)
-## TX-09 -- Rep. Al Green (D)
+## TX-09 -- Rep. Al Green (D) -- [Wikipedia](https://en.wikipedia.org/wiki/TX-09)
 ### Committees
 Al Green is not on any of our key committees 
 
@@ -308,7 +308,7 @@ WILLIAM MARSH RICE UNIVERSITY                2012     1068837
 ---
 <a name="TX-10"></a>
 [Back to top](#top)
-## TX-10 -- Rep. Michael McCaul (R)
+## TX-10 -- Rep. Michael McCaul (R) -- [Wikipedia](https://en.wikipedia.org/wiki/TX-10)
 ### Committees
 Michael McCaul is not on any of our key committees 
 
@@ -341,7 +341,7 @@ UNIVERSITY OF TEXAS AT AUSTIN     2012     1705267
 ---
 <a name="TX-11"></a>
 [Back to top](#top)
-## TX-11 -- Rep. K. Conaway (R)
+## TX-11 -- Rep. K. Conaway (R) -- [Wikipedia](https://en.wikipedia.org/wiki/TX-11)
 ### Committees
 K. Conaway is not on any of our key committees 
 
@@ -360,7 +360,7 @@ This district received no NSF MPS grants from 2012-2016
 ---
 <a name="TX-12"></a>
 [Back to top](#top)
-## TX-12 -- Rep. Kay Granger (R)
+## TX-12 -- Rep. Kay Granger (R) -- [Wikipedia](https://en.wikipedia.org/wiki/TX-12)
 ### Committees
 Kay Granger is the #4 Republican on the House Committee on Appropriations 
 
@@ -386,7 +386,7 @@ TEXAS CHRISTIAN UNIVERSITY INC 2012       43440
 ---
 <a name="TX-13"></a>
 [Back to top](#top)
-## TX-13 -- Rep. Mac Thornberry (R)
+## TX-13 -- Rep. Mac Thornberry (R) -- [Wikipedia](https://en.wikipedia.org/wiki/TX-13)
 ### Committees
 Mac Thornberry is not on any of our key committees 
 
@@ -408,7 +408,7 @@ TEXAS A&M UNIVERSITY SYSTEM,THE 2014      371700
 ---
 <a name="TX-14"></a>
 [Back to top](#top)
-## TX-14 -- Rep. Randy Weber (R)
+## TX-14 -- Rep. Randy Weber (R) -- [Wikipedia](https://en.wikipedia.org/wiki/TX-14)
 ### Committees
 Randy Weber is the #9 Republican on the House Committee on Science, Space, and Technology 
 
@@ -431,7 +431,7 @@ UNIVERSITY OF TEXAS MEDICAL BRANCH AT GALVEST 2013      300000
 ---
 <a name="TX-15"></a>
 [Back to top](#top)
-## TX-15 -- Rep. Vicente Gonzalez (D)
+## TX-15 -- Rep. Vicente Gonzalez (D) -- [Wikipedia](https://en.wikipedia.org/wiki/TX-15)
 ### Committees
 Vicente Gonzalez is not on any of our key committees 
 
@@ -455,7 +455,7 @@ UNIVERSITY OF TEXAS - PAN AMERICAN 2012      578998
 ---
 <a name="TX-16"></a>
 [Back to top](#top)
-## TX-16 -- Rep. Beto O'Rourke (D)
+## TX-16 -- Rep. Beto O'Rourke (D) -- [Wikipedia](https://en.wikipedia.org/wiki/TX-16)
 ### Committees
 Beto O'Rourke is not on any of our key committees 
 
@@ -479,7 +479,7 @@ UNIVERSITY OF TEXAS AT EL PASO 2012     1374004
 ---
 <a name="TX-17"></a>
 [Back to top](#top)
-## TX-17 -- Rep. Bill Flores (R)
+## TX-17 -- Rep. Bill Flores (R) -- [Wikipedia](https://en.wikipedia.org/wiki/TX-17)
 ### Committees
 Bill Flores is the #22 Republican on the House Committee on Energy and Commerce 
 
@@ -533,7 +533,7 @@ The Texas A&M U Sys HSC RF                   2015       99999
 ---
 <a name="TX-18"></a>
 [Back to top](#top)
-## TX-18 -- Rep. Sheila Jackson Lee (D)
+## TX-18 -- Rep. Sheila Jackson Lee (D) -- [Wikipedia](https://en.wikipedia.org/wiki/TX-18)
 ### Committees
 Sheila Jackson Lee is not on any of our key committees 
 
@@ -569,7 +569,7 @@ UNIVERSITY OF TEXAS MEDICAL BRANCH AT GALVEST 2012      210000
 ---
 <a name="TX-19"></a>
 [Back to top](#top)
-## TX-19 -- Rep. Jodey Arrington (R)
+## TX-19 -- Rep. Jodey Arrington (R) -- [Wikipedia](https://en.wikipedia.org/wiki/TX-19)
 ### Committees
 Jodey Arrington is not on any of our key committees 
 
@@ -601,7 +601,7 @@ Texas Tech University        2015     1044692
 ---
 <a name="TX-20"></a>
 [Back to top](#top)
-## TX-20 -- Rep. Joaquin Castro (D)
+## TX-20 -- Rep. Joaquin Castro (D) -- [Wikipedia](https://en.wikipedia.org/wiki/TX-20)
 ### Committees
 Joaquin Castro is not on any of our key committees 
 
@@ -626,7 +626,7 @@ UNIVERSITY OF TEXAS AT SAN ANTONIO 2014      682500
 ---
 <a name="TX-21"></a>
 [Back to top](#top)
-## TX-21 -- Rep. Lamar Smith (R)
+## TX-21 -- Rep. Lamar Smith (R) -- [Wikipedia](https://en.wikipedia.org/wiki/TX-21)
 ### Committees
 Lamar Smith is the #1 Republican on the House Committee on Science, Space, and Technology 
 
@@ -661,7 +661,7 @@ UNIVERSITY OF TEXAS HEALTH SCIENCE CENTER OF 2013      263926
 ---
 <a name="TX-22"></a>
 [Back to top](#top)
-## TX-22 -- Rep. Pete Olson (R)
+## TX-22 -- Rep. Pete Olson (R) -- [Wikipedia](https://en.wikipedia.org/wiki/TX-22)
 ### Committees
 Pete Olson is the #14 Republican on the House Committee on Energy and Commerce 
 
@@ -683,7 +683,7 @@ UNIVERSITY OF HOUSTON SYSTEM 2012      150000
 ---
 <a name="TX-23"></a>
 [Back to top](#top)
-## TX-23 -- Rep. Will Hurd (R)
+## TX-23 -- Rep. Will Hurd (R) -- [Wikipedia](https://en.wikipedia.org/wiki/TX-23)
 ### Committees
 Will Hurd is not on any of our key committees 
 
@@ -707,7 +707,7 @@ UNIVERSITY OF TEXAS AT SAN ANTONIO 2012      665902
 ---
 <a name="TX-24"></a>
 [Back to top](#top)
-## TX-24 -- Rep. Kenny Marchant (R)
+## TX-24 -- Rep. Kenny Marchant (R) -- [Wikipedia](https://en.wikipedia.org/wiki/TX-24)
 ### Committees
 Kenny Marchant is not on any of our key committees 
 
@@ -730,7 +730,7 @@ UNIVERSITY OF TEXAS AT ARLINGTON 2012       59628
 ---
 <a name="TX-25"></a>
 [Back to top](#top)
-## TX-25 -- Rep. Roger Williams (R)
+## TX-25 -- Rep. Roger Williams (R) -- [Wikipedia](https://en.wikipedia.org/wiki/TX-25)
 ### Committees
 Roger Williams is not on any of our key committees 
 
@@ -762,7 +762,7 @@ UNIVERSITY OF TEXAS AT AUSTIN     2013     7723572
 ---
 <a name="TX-26"></a>
 [Back to top](#top)
-## TX-26 -- Rep. Michael Burgess (R)
+## TX-26 -- Rep. Michael Burgess (R) -- [Wikipedia](https://en.wikipedia.org/wiki/TX-26)
 ### Committees
 Michael Burgess is the #6 Republican on the House Committee on Energy and Commerce 
 
@@ -787,7 +787,7 @@ University of North Texas 2015      759429
 ---
 <a name="TX-27"></a>
 [Back to top](#top)
-## TX-27 -- Rep. Blake Farenthold (R)
+## TX-27 -- Rep. Blake Farenthold (R) -- [Wikipedia](https://en.wikipedia.org/wiki/TX-27)
 ### Committees
 Blake Farenthold is not on any of our key committees 
 
@@ -810,7 +810,7 @@ UNIVERSITY OF TEXAS AT BROWNSVILLE  2012      373837
 ---
 <a name="TX-28"></a>
 [Back to top](#top)
-## TX-28 -- Rep. Henry Cuellar (D)
+## TX-28 -- Rep. Henry Cuellar (D) -- [Wikipedia](https://en.wikipedia.org/wiki/TX-28)
 ### Committees
 Henry Cuellar is the #14 Democrat on the House Committee on Appropriations 
 
@@ -836,7 +836,7 @@ TEXAS A&M INTERNATIONAL UNIVERSITY FOUNDATION 2012      159357
 ---
 <a name="TX-29"></a>
 [Back to top](#top)
-## TX-29 -- Rep. Gene Green (D)
+## TX-29 -- Rep. Gene Green (D) -- [Wikipedia](https://en.wikipedia.org/wiki/TX-29)
 ### Committees
 Gene Green is the #5 Democrat on the House Committee on Energy and Commerce 
 
@@ -855,7 +855,7 @@ This district received no NSF MPS grants from 2012-2016
 ---
 <a name="TX-30"></a>
 [Back to top](#top)
-## TX-30 -- Rep. Eddie Johnson (D)
+## TX-30 -- Rep. Eddie Johnson (D) -- [Wikipedia](https://en.wikipedia.org/wiki/TX-30)
 ### Committees
 Eddie Johnson is the #1 Democrat on the House Committee on Science, Space, and Technology 
 
@@ -880,7 +880,7 @@ UT Southwestern                               2015      405000
 ---
 <a name="TX-31"></a>
 [Back to top](#top)
-## TX-31 -- Rep. John Carter (R)
+## TX-31 -- Rep. John Carter (R) -- [Wikipedia](https://en.wikipedia.org/wiki/TX-31)
 ### Committees
 John Carter is the #7 Republican on the House Committee on Appropriations 
 
@@ -904,7 +904,7 @@ This district received no NSF MPS grants from 2012-2016
 ---
 <a name="TX-32"></a>
 [Back to top](#top)
-## TX-32 -- Rep. Pete Sessions (R)
+## TX-32 -- Rep. Pete Sessions (R) -- [Wikipedia](https://en.wikipedia.org/wiki/TX-32)
 ### Committees
 Pete Sessions is not on any of our key committees 
 
@@ -944,7 +944,7 @@ UNIVERSITY OF TEXAS AT DALLAS     2012     2127595
 ---
 <a name="TX-33"></a>
 [Back to top](#top)
-## TX-33 -- Rep. Marc Veasey (D)
+## TX-33 -- Rep. Marc Veasey (D) -- [Wikipedia](https://en.wikipedia.org/wiki/TX-33)
 ### Committees
 Marc Veasey is the #7 Democrat on the House Committee on Science, Space, and Technology 
 
@@ -963,7 +963,7 @@ This district received no NSF MPS grants from 2012-2016
 ---
 <a name="TX-34"></a>
 [Back to top](#top)
-## TX-34 -- Rep. Filemon Vela (D)
+## TX-34 -- Rep. Filemon Vela (D) -- [Wikipedia](https://en.wikipedia.org/wiki/TX-34)
 ### Committees
 Filemon Vela is not on any of our key committees 
 
@@ -986,7 +986,7 @@ UNIVERSITY OF TEXAS AT BROWNSVILLE 2013      584262
 ---
 <a name="TX-35"></a>
 [Back to top](#top)
-## TX-35 -- Rep. Lloyd Doggett (D)
+## TX-35 -- Rep. Lloyd Doggett (D) -- [Wikipedia](https://en.wikipedia.org/wiki/TX-35)
 ### Committees
 Lloyd Doggett is not on any of our key committees 
 
@@ -1009,7 +1009,7 @@ TEXAS STATE UNIVERSITY-SAN MARCOS 2013      294621
 ---
 <a name="TX-36"></a>
 [Back to top](#top)
-## TX-36 -- Rep. Brian Babin (R)
+## TX-36 -- Rep. Brian Babin (R) -- [Wikipedia](https://en.wikipedia.org/wiki/TX-36)
 ### Committees
 Brian Babin is the #11 Republican on the House Committee on Science, Space, and Technology 
 

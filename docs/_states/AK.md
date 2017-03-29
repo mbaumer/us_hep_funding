@@ -50,7 +50,7 @@ UNIVERSITY OF ALASKA FAIRBANKS 2012      152000
 ---
 <a name="AK-00"></a>
 [Back to top](#top)
-## AK-00 -- Rep. Don Young (R)
+## AK-00 -- Rep. Don Young (R) -- [Wikipedia](https://en.wikipedia.org/wiki/AK-00)
 ### Committees
 Don Young is not on any of our key committees 
 

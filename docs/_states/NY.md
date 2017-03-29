@@ -76,7 +76,7 @@ and  56  other institutions.
 ---
 <a name="NY-01"></a>
 [Back to top](#top)
-## NY-01 -- Rep. Lee Zeldin (R)
+## NY-01 -- Rep. Lee Zeldin (R) -- [Wikipedia](https://en.wikipedia.org/wiki/NY-01)
 ### Committees
 Lee Zeldin is not on any of our key committees 
 
@@ -146,7 +146,7 @@ THE RESEARCH FOUNDATION OF STATE UNIVERSITY O      2012     6346317
 ---
 <a name="NY-02"></a>
 [Back to top](#top)
-## NY-02 -- Rep. Peter King (R)
+## NY-02 -- Rep. Peter King (R) -- [Wikipedia](https://en.wikipedia.org/wiki/NY-02)
 ### Committees
 Peter King is not on any of our key committees 
 
@@ -165,7 +165,7 @@ This district received no NSF MPS grants from 2012-2016
 ---
 <a name="NY-03"></a>
 [Back to top](#top)
-## NY-03 -- Rep. Thomas Suozzi (D)
+## NY-03 -- Rep. Thomas Suozzi (D) -- [Wikipedia](https://en.wikipedia.org/wiki/NY-03)
 ### Committees
 Thomas Suozzi is not on any of our key committees 
 
@@ -192,7 +192,7 @@ LONG ISLAND UNIVERSITY        2012       60000
 ---
 <a name="NY-04"></a>
 [Back to top](#top)
-## NY-04 -- Rep. Kathleen Rice (D)
+## NY-04 -- Rep. Kathleen Rice (D) -- [Wikipedia](https://en.wikipedia.org/wiki/NY-04)
 ### Committees
 Kathleen Rice is not on any of our key committees 
 
@@ -211,7 +211,7 @@ This district received no NSF MPS grants from 2012-2016
 ---
 <a name="NY-05"></a>
 [Back to top](#top)
-## NY-05 -- Rep. Gregory Meeks (D)
+## NY-05 -- Rep. Gregory Meeks (D) -- [Wikipedia](https://en.wikipedia.org/wiki/NY-05)
 ### Committees
 Gregory Meeks is not on any of our key committees 
 
@@ -239,7 +239,7 @@ RESEARCH FOUNDATION OF THE CITY UNIVERSITY OF 2013      648769
 ---
 <a name="NY-06"></a>
 [Back to top](#top)
-## NY-06 -- Rep. Grace Meng (D)
+## NY-06 -- Rep. Grace Meng (D) -- [Wikipedia](https://en.wikipedia.org/wiki/NY-06)
 ### Committees
 Grace Meng is the #19 Democrat on the House Committee on Appropriations 
 
@@ -267,7 +267,7 @@ ST JOHN'S UNIVERSITY, NEW YORK                2012      153360
 ---
 <a name="NY-07"></a>
 [Back to top](#top)
-## NY-07 -- Rep. Nydia Velázquez (D)
+## NY-07 -- Rep. Nydia Velázquez (D) -- [Wikipedia](https://en.wikipedia.org/wiki/NY-07)
 ### Committees
 Nydia Velázquez is not on any of our key committees 
 
@@ -295,7 +295,7 @@ YESHIVA UNIVERSITY                            2012      484343
 ---
 <a name="NY-08"></a>
 [Back to top](#top)
-## NY-08 -- Rep. Hakeem Jeffries (D)
+## NY-08 -- Rep. Hakeem Jeffries (D) -- [Wikipedia](https://en.wikipedia.org/wiki/NY-08)
 ### Committees
 Hakeem Jeffries is not on any of our key committees 
 
@@ -325,7 +325,7 @@ POLYTECHNIC INSTITUTE OF NEW YORK UNIVERSITY 2013      358025
 ---
 <a name="NY-09"></a>
 [Back to top](#top)
-## NY-09 -- Rep. Yvette Clarke (D)
+## NY-09 -- Rep. Yvette Clarke (D) -- [Wikipedia](https://en.wikipedia.org/wiki/NY-09)
 ### Committees
 Yvette Clarke is the #17 Democrat on the House Committee on Energy and Commerce 
 
@@ -350,7 +350,7 @@ RESEARCH FOUNDATION OF THE CITY UNIVERSITY OF 2012      562844
 ---
 <a name="NY-10"></a>
 [Back to top](#top)
-## NY-10 -- Rep. Jerrold Nadler (D)
+## NY-10 -- Rep. Jerrold Nadler (D) -- [Wikipedia](https://en.wikipedia.org/wiki/NY-10)
 ### Committees
 Jerrold Nadler is not on any of our key committees 
 
@@ -398,7 +398,7 @@ TRUSTEES OF COLUMBIA UNIVERSITY IN THE CITY O 2013    16725625
 ---
 <a name="NY-11"></a>
 [Back to top](#top)
-## NY-11 -- Rep. Daniel Donovan (R)
+## NY-11 -- Rep. Daniel Donovan (R) -- [Wikipedia](https://en.wikipedia.org/wiki/NY-11)
 ### Committees
 Daniel Donovan is not on any of our key committees 
 
@@ -424,7 +424,7 @@ RESEARCH FOUNDATION OF THE CITY UNIVERSITY OF N... 2017       91328
 ---
 <a name="NY-12"></a>
 [Back to top](#top)
-## NY-12 -- Rep. Carolyn Maloney (D)
+## NY-12 -- Rep. Carolyn Maloney (D) -- [Wikipedia](https://en.wikipedia.org/wiki/NY-12)
 ### Committees
 Carolyn Maloney is not on any of our key committees 
 
@@ -466,7 +466,7 @@ WEILL MEDICAL COLLEGE OF CORNELL UNIVERSITY        2013      100000
 ---
 <a name="NY-13"></a>
 [Back to top](#top)
-## NY-13 -- Rep. Adriano Espaillat (D)
+## NY-13 -- Rep. Adriano Espaillat (D) -- [Wikipedia](https://en.wikipedia.org/wiki/NY-13)
 ### Committees
 Adriano Espaillat is the #10 Democrat on the House Subcommittee on Higher Education and Workforce Development 
 
@@ -502,7 +502,7 @@ YESHIVA UNIVERSITY                            2013      255515
 ---
 <a name="NY-14"></a>
 [Back to top](#top)
-## NY-14 -- Rep. Joseph Crowley (D)
+## NY-14 -- Rep. Joseph Crowley (D) -- [Wikipedia](https://en.wikipedia.org/wiki/NY-14)
 ### Committees
 Joseph Crowley is not on any of our key committees 
 
@@ -535,7 +535,7 @@ YESHIVA UNIVERSITY                            2012      123000
 ---
 <a name="NY-15"></a>
 [Back to top](#top)
-## NY-15 -- Rep. José Serrano (D)
+## NY-15 -- Rep. José Serrano (D) -- [Wikipedia](https://en.wikipedia.org/wiki/NY-15)
 ### Committees
 José Serrano is the #4 Democrat on the House Committee on Appropriations 
 
@@ -575,7 +575,7 @@ YESHIVA UNIVERSITY                            2012      624271
 ---
 <a name="NY-16"></a>
 [Back to top](#top)
-## NY-16 -- Rep. Eliot Engel (D)
+## NY-16 -- Rep. Eliot Engel (D) -- [Wikipedia](https://en.wikipedia.org/wiki/NY-16)
 ### Committees
 Eliot Engel is the #4 Democrat on the House Committee on Energy and Commerce 
 
@@ -599,7 +599,7 @@ MANHATTAN COLLEGE CORP 2014       72854
 ---
 <a name="NY-17"></a>
 [Back to top](#top)
-## NY-17 -- Rep. Nita Lowey (D)
+## NY-17 -- Rep. Nita Lowey (D) -- [Wikipedia](https://en.wikipedia.org/wiki/NY-17)
 ### Committees
 Nita Lowey is the #1 Democrat on the House Committee on Appropriations 
 
@@ -628,7 +628,7 @@ TRUSTEES OF COLUMBIA UNIVERSITY IN THE CITY O 2013      360000
 ---
 <a name="NY-18"></a>
 [Back to top](#top)
-## NY-18 -- Rep. Sean Maloney (D)
+## NY-18 -- Rep. Sean Maloney (D) -- [Wikipedia](https://en.wikipedia.org/wiki/NY-18)
 ### Committees
 Sean Maloney is not on any of our key committees 
 
@@ -652,7 +652,7 @@ VASSAR COLLEGE          2013       75000
 ---
 <a name="NY-19"></a>
 [Back to top](#top)
-## NY-19 -- Rep. John Faso (R)
+## NY-19 -- Rep. John Faso (R) -- [Wikipedia](https://en.wikipedia.org/wiki/NY-19)
 ### Committees
 John Faso is not on any of our key committees 
 
@@ -677,7 +677,7 @@ VASSAR COLLEGE                   2012       75000
 ---
 <a name="NY-20"></a>
 [Back to top](#top)
-## NY-20 -- Rep. Paul Tonko (D)
+## NY-20 -- Rep. Paul Tonko (D) -- [Wikipedia](https://en.wikipedia.org/wiki/NY-20)
 ### Committees
 Paul Tonko is the #12 Democrat on the House Committee on Science, Space, and Technology 
 
@@ -720,7 +720,7 @@ TRUSTEES OF UNION COLLEGE IN THE TOWN OF SCHE 2013      168386
 ---
 <a name="NY-21"></a>
 [Back to top](#top)
-## NY-21 -- Rep. Elise Stefanik (R)
+## NY-21 -- Rep. Elise Stefanik (R) -- [Wikipedia](https://en.wikipedia.org/wiki/NY-21)
 ### Committees
 Elise Stefanik is the #7 Republican on the House Subcommittee on Higher Education and Workforce Development 
 
@@ -757,7 +757,7 @@ TRUSTEES OF UNION COLLEGE IN THE TOWN OF SCHE 2012      776206
 ---
 <a name="NY-22"></a>
 [Back to top](#top)
-## NY-22 -- Rep. Claudia Tenney (R)
+## NY-22 -- Rep. Claudia Tenney (R) -- [Wikipedia](https://en.wikipedia.org/wiki/NY-22)
 ### Committees
 Claudia Tenney is not on any of our key committees 
 
@@ -796,7 +796,7 @@ THE RESEARCH FOUNDATION OF STATE UNIVERSITY O 2013      270807
 ---
 <a name="NY-23"></a>
 [Back to top](#top)
-## NY-23 -- Rep. Tom Reed (R)
+## NY-23 -- Rep. Tom Reed (R) -- [Wikipedia](https://en.wikipedia.org/wiki/NY-23)
 ### Committees
 Tom Reed is not on any of our key committees 
 
@@ -836,7 +836,7 @@ THE RESEARCH FOUNDATION OF STATE UNIVERSITY O 2013        4000
 ---
 <a name="NY-24"></a>
 [Back to top](#top)
-## NY-24 -- Rep. John Katko (R)
+## NY-24 -- Rep. John Katko (R) -- [Wikipedia](https://en.wikipedia.org/wiki/NY-24)
 ### Committees
 John Katko is not on any of our key committees 
 
@@ -868,7 +868,7 @@ Syracuse University               2015      369069
 ---
 <a name="NY-25"></a>
 [Back to top](#top)
-## NY-25 -- Rep. Louise Slaughter (D)
+## NY-25 -- Rep. Louise Slaughter (D) -- [Wikipedia](https://en.wikipedia.org/wiki/NY-25)
 ### Committees
 Louise Slaughter is not on any of our key committees 
 
@@ -914,7 +914,7 @@ University of Rochester                 2015      533371
 ---
 <a name="NY-26"></a>
 [Back to top](#top)
-## NY-26 -- Rep. Brian Higgins (D)
+## NY-26 -- Rep. Brian Higgins (D) -- [Wikipedia](https://en.wikipedia.org/wiki/NY-26)
 ### Committees
 Brian Higgins is not on any of our key committees 
 
@@ -941,7 +941,7 @@ THE RESEARCH FOUNDATION OF STATE UNIVERSITY O 2014      168187
 ---
 <a name="NY-27"></a>
 [Back to top](#top)
-## NY-27 -- Rep. Chris Collins (R)
+## NY-27 -- Rep. Chris Collins (R) -- [Wikipedia](https://en.wikipedia.org/wiki/NY-27)
 ### Committees
 Chris Collins is the #26 Republican on the House Committee on Energy and Commerce 
 

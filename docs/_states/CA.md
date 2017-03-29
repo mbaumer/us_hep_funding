@@ -80,7 +80,7 @@ and  87  other institutions.
 ---
 <a name="CA-01"></a>
 [Back to top](#top)
-## CA-01 -- Rep. Doug LaMalfa (R)
+## CA-01 -- Rep. Doug LaMalfa (R) -- [Wikipedia](https://en.wikipedia.org/wiki/CA-01)
 ### Committees
 Doug LaMalfa is not on any of our key committees 
 
@@ -111,7 +111,7 @@ UNIVERSITY OF CALIFORNIA, DAVIS 2012     8102699
 ---
 <a name="CA-02"></a>
 [Back to top](#top)
-## CA-02 -- Rep. Jared Huffman (D)
+## CA-02 -- Rep. Jared Huffman (D) -- [Wikipedia](https://en.wikipedia.org/wiki/CA-02)
 ### Committees
 Jared Huffman is not on any of our key committees 
 
@@ -136,7 +136,7 @@ HUMBOLDT STATE UNIVERSITY SPONSORED PROGRAMS 2013      103132
 ---
 <a name="CA-03"></a>
 [Back to top](#top)
-## CA-03 -- Rep. John Garamendi (D)
+## CA-03 -- Rep. John Garamendi (D) -- [Wikipedia](https://en.wikipedia.org/wiki/CA-03)
 ### Committees
 John Garamendi is not on any of our key committees 
 
@@ -166,7 +166,7 @@ UNIVERSITY OF CALIFORNIA, DAVIS 2013     5051141
 ---
 <a name="CA-04"></a>
 [Back to top](#top)
-## CA-04 -- Rep. Tom McClintock (R)
+## CA-04 -- Rep. Tom McClintock (R) -- [Wikipedia](https://en.wikipedia.org/wiki/CA-04)
 ### Committees
 Tom McClintock is not on any of our key committees 
 
@@ -188,7 +188,7 @@ U of Cal Davis 2015       10000
 ---
 <a name="CA-05"></a>
 [Back to top](#top)
-## CA-05 -- Rep. Mike Thompson (D)
+## CA-05 -- Rep. Mike Thompson (D) -- [Wikipedia](https://en.wikipedia.org/wiki/CA-05)
 ### Committees
 Mike Thompson is not on any of our key committees 
 
@@ -211,7 +211,7 @@ CALIFORNIA STATE UNIVERSITY 2013      100000
 ---
 <a name="CA-06"></a>
 [Back to top](#top)
-## CA-06 -- Rep. Doris Matsui (D)
+## CA-06 -- Rep. Doris Matsui (D) -- [Wikipedia](https://en.wikipedia.org/wiki/CA-06)
 ### Committees
 Doris Matsui is the #10 Democrat on the House Committee on Energy and Commerce 
 
@@ -234,7 +234,7 @@ SETI INSTITUTE              2012       96379
 ---
 <a name="CA-07"></a>
 [Back to top](#top)
-## CA-07 -- Rep. Ami Bera (D)
+## CA-07 -- Rep. Ami Bera (D) -- [Wikipedia](https://en.wikipedia.org/wiki/CA-07)
 ### Committees
 Ami Bera is the #5 Democrat on the House Committee on Science, Space, and Technology 
 
@@ -253,7 +253,7 @@ This district received no NSF MPS grants from 2012-2016
 ---
 <a name="CA-08"></a>
 [Back to top](#top)
-## CA-08 -- Rep. Paul Cook (R)
+## CA-08 -- Rep. Paul Cook (R) -- [Wikipedia](https://en.wikipedia.org/wiki/CA-08)
 ### Committees
 Paul Cook is not on any of our key committees 
 
@@ -280,7 +280,7 @@ UNIVERSITY OF SAN FRANCISCO INC         2012       68617
 ---
 <a name="CA-09"></a>
 [Back to top](#top)
-## CA-09 -- Rep. Jerry McNerney (D)
+## CA-09 -- Rep. Jerry McNerney (D) -- [Wikipedia](https://en.wikipedia.org/wiki/CA-09)
 ### Committees
 Jerry McNerney is the #10 Democrat on the House Committee on Science, Space, and Technology 
 
@@ -323,7 +323,7 @@ UNIVERSITY OF SOUTHERN CALIFORNIA            2012        5835
 ---
 <a name="CA-10"></a>
 [Back to top](#top)
-## CA-10 -- Rep. Jeff Denham (R)
+## CA-10 -- Rep. Jeff Denham (R) -- [Wikipedia](https://en.wikipedia.org/wiki/CA-10)
 ### Committees
 Jeff Denham is not on any of our key committees 
 
@@ -342,7 +342,7 @@ This district received no NSF MPS grants from 2012-2016
 ---
 <a name="CA-11"></a>
 [Back to top](#top)
-## CA-11 -- Rep. Mark DeSaulnier (D)
+## CA-11 -- Rep. Mark DeSaulnier (D) -- [Wikipedia](https://en.wikipedia.org/wiki/CA-11)
 ### Committees
 Mark DeSaulnier is the #4 Democrat on the House Subcommittee on Higher Education and Workforce Development 
 
@@ -364,7 +364,7 @@ UNIVERSITY OF PACIFIC 2012      180000
 ---
 <a name="CA-12"></a>
 [Back to top](#top)
-## CA-12 -- Rep. Nancy Pelosi (D)
+## CA-12 -- Rep. Nancy Pelosi (D) -- [Wikipedia](https://en.wikipedia.org/wiki/CA-12)
 ### Committees
 Nancy Pelosi is not on any of our key committees 
 
@@ -393,7 +393,7 @@ UNIVERSITY OF WASHINGTON                2014       20000
 ---
 <a name="CA-13"></a>
 [Back to top](#top)
-## CA-13 -- Rep. Barbara Lee (D)
+## CA-13 -- Rep. Barbara Lee (D) -- [Wikipedia](https://en.wikipedia.org/wiki/CA-13)
 ### Committees
 Barbara Lee is the #9 Democrat on the House Committee on Appropriations 
 
@@ -448,7 +448,7 @@ UNIVERSITY OF WISCONSIN SYSTEM                2013       29999
 ---
 <a name="CA-14"></a>
 [Back to top](#top)
-## CA-14 -- Rep. Jackie Speier (D)
+## CA-14 -- Rep. Jackie Speier (D) -- [Wikipedia](https://en.wikipedia.org/wiki/CA-14)
 ### Committees
 Jackie Speier is not on any of our key committees 
 
@@ -491,7 +491,7 @@ San Francisco State Univ               2015     -100213
 ---
 <a name="CA-15"></a>
 [Back to top](#top)
-## CA-15 -- Rep. Eric Swalwell (D)
+## CA-15 -- Rep. Eric Swalwell (D) -- [Wikipedia](https://en.wikipedia.org/wiki/CA-15)
 ### Committees
 Eric Swalwell is not on any of our key committees 
 
@@ -517,7 +517,7 @@ PRESIDENT AND BOARD OF TRUSTEES OF SANTA CLAR 2012       39015
 ---
 <a name="CA-16"></a>
 [Back to top](#top)
-## CA-16 -- Rep. Jim Costa (D)
+## CA-16 -- Rep. Jim Costa (D) -- [Wikipedia](https://en.wikipedia.org/wiki/CA-16)
 ### Committees
 Jim Costa is not on any of our key committees 
 
@@ -542,7 +542,7 @@ UNIVERSITY OF CALIFORNIA MERCED               2013     1241709
 ---
 <a name="CA-17"></a>
 [Back to top](#top)
-## CA-17 -- Rep. Ro Khanna (D)
+## CA-17 -- Rep. Ro Khanna (D) -- [Wikipedia](https://en.wikipedia.org/wiki/CA-17)
 ### Committees
 Ro Khanna is not on any of our key committees 
 
@@ -573,7 +573,7 @@ UNIVERSITY OF CALIFORNIA, SANTA CRUZ          2012     4733020
 ---
 <a name="CA-18"></a>
 [Back to top](#top)
-## CA-18 -- Rep. Anna Eshoo (D)
+## CA-18 -- Rep. Anna Eshoo (D) -- [Wikipedia](https://en.wikipedia.org/wiki/CA-18)
 ### Committees
 Anna Eshoo is the #3 Democrat on the House Committee on Energy and Commerce 
 
@@ -622,7 +622,7 @@ UNIVERSITY OF CALIFORNIA, MERCED              2012      114985
 ---
 <a name="CA-19"></a>
 [Back to top](#top)
-## CA-19 -- Rep. Zoe Lofgren (D)
+## CA-19 -- Rep. Zoe Lofgren (D) -- [Wikipedia](https://en.wikipedia.org/wiki/CA-19)
 ### Committees
 Zoe Lofgren is the #2 Democrat on the House Committee on Science, Space, and Technology 
 
@@ -641,7 +641,7 @@ This district received no NSF MPS grants from 2012-2016
 ---
 <a name="CA-20"></a>
 [Back to top](#top)
-## CA-20 -- Rep. Jimmy Panetta (D)
+## CA-20 -- Rep. Jimmy Panetta (D) -- [Wikipedia](https://en.wikipedia.org/wiki/CA-20)
 ### Committees
 Jimmy Panetta is not on any of our key committees 
 
@@ -674,7 +674,7 @@ UNIVERSITY OF CALIFORNIA, SANTA CRUZ          2013     4852576
 ---
 <a name="CA-21"></a>
 [Back to top](#top)
-## CA-21 -- Rep. David Valadao (R)
+## CA-21 -- Rep. David Valadao (R) -- [Wikipedia](https://en.wikipedia.org/wiki/CA-21)
 ### Committees
 David Valadao is the #20 Republican on the House Committee on Appropriations 
 
@@ -698,7 +698,7 @@ MULTIPLE RECIPIENTS                           2013       89000
 ---
 <a name="CA-22"></a>
 [Back to top](#top)
-## CA-22 -- Rep. Devin Nunes (R)
+## CA-22 -- Rep. Devin Nunes (R) -- [Wikipedia](https://en.wikipedia.org/wiki/CA-22)
 ### Committees
 Devin Nunes is not on any of our key committees 
 
@@ -722,7 +722,7 @@ CALIFORNIA STATE UNIVERSITY, BAKERSFIELD      2012      269594
 ---
 <a name="CA-23"></a>
 [Back to top](#top)
-## CA-23 -- Rep. Kevin McCarthy (R)
+## CA-23 -- Rep. Kevin McCarthy (R) -- [Wikipedia](https://en.wikipedia.org/wiki/CA-23)
 ### Committees
 Kevin McCarthy is not on any of our key committees 
 
@@ -751,7 +751,7 @@ WESTMONT COLLEGE                              2012       25000
 ---
 <a name="CA-24"></a>
 [Back to top](#top)
-## CA-24 -- Rep. Salud Carbajal (D)
+## CA-24 -- Rep. Salud Carbajal (D) -- [Wikipedia](https://en.wikipedia.org/wiki/CA-24)
 ### Committees
 Salud Carbajal is not on any of our key committees 
 
@@ -787,7 +787,7 @@ WESTMONT COLLEGE                              2013       50000
 ---
 <a name="CA-25"></a>
 [Back to top](#top)
-## CA-25 -- Rep. Steve Knight (R)
+## CA-25 -- Rep. Steve Knight (R) -- [Wikipedia](https://en.wikipedia.org/wiki/CA-25)
 ### Committees
 Steve Knight is the #10 Republican on the House Committee on Science, Space, and Technology 
 
@@ -806,7 +806,7 @@ This district received no NSF MPS grants from 2012-2016
 ---
 <a name="CA-26"></a>
 [Back to top](#top)
-## CA-26 -- Rep. Julia Brownley (D)
+## CA-26 -- Rep. Julia Brownley (D) -- [Wikipedia](https://en.wikipedia.org/wiki/CA-26)
 ### Committees
 Julia Brownley is not on any of our key committees 
 
@@ -839,7 +839,7 @@ POMONA COLLEGE                               2012       56236
 ---
 <a name="CA-27"></a>
 [Back to top](#top)
-## CA-27 -- Rep. Judy Chu (D)
+## CA-27 -- Rep. Judy Chu (D) -- [Wikipedia](https://en.wikipedia.org/wiki/CA-27)
 ### Committees
 Judy Chu is not on any of our key committees 
 
@@ -878,7 +878,7 @@ UNIVERSITY OF CALIFORNIA, SANTA BARBARA 2012      443864
 ---
 <a name="CA-28"></a>
 [Back to top](#top)
-## CA-28 -- Rep. Adam Schiff (D)
+## CA-28 -- Rep. Adam Schiff (D) -- [Wikipedia](https://en.wikipedia.org/wiki/CA-28)
 ### Committees
 Adam Schiff is not on any of our key committees 
 
@@ -901,7 +901,7 @@ LOS ANGELES CITY COLLEGE    2013      226253
 ---
 <a name="CA-29"></a>
 [Back to top](#top)
-## CA-29 -- Rep. Tony Cárdenas (D)
+## CA-29 -- Rep. Tony Cárdenas (D) -- [Wikipedia](https://en.wikipedia.org/wiki/CA-29)
 ### Committees
 Tony Cárdenas is the #21 Democrat on the House Committee on Energy and Commerce 
 
@@ -932,7 +932,7 @@ MULTIPLE RECIPIENTS                2012      474000
 ---
 <a name="CA-30"></a>
 [Back to top](#top)
-## CA-30 -- Rep. Brad Sherman (D)
+## CA-30 -- Rep. Brad Sherman (D) -- [Wikipedia](https://en.wikipedia.org/wiki/CA-30)
 ### Committees
 Brad Sherman is not on any of our key committees 
 
@@ -961,7 +961,7 @@ UNIVERSITY OF CALIFORNIA, LOS ANGELES 2012    16848326
 ---
 <a name="CA-31"></a>
 [Back to top](#top)
-## CA-31 -- Rep. Pete Aguilar (D)
+## CA-31 -- Rep. Pete Aguilar (D) -- [Wikipedia](https://en.wikipedia.org/wiki/CA-31)
 ### Committees
 Pete Aguilar is the #22 Democrat on the House Committee on Appropriations 
 
@@ -987,7 +987,7 @@ UNIVERSITY ENTERPRISES CORPORATION AT CSUSB 2013      871578
 ---
 <a name="CA-32"></a>
 [Back to top](#top)
-## CA-32 -- Rep. Grace Napolitano (D)
+## CA-32 -- Rep. Grace Napolitano (D) -- [Wikipedia](https://en.wikipedia.org/wiki/CA-32)
 ### Committees
 Grace Napolitano is not on any of our key committees 
 
@@ -1009,7 +1009,7 @@ CALIFORNIA STATE UNIVERSITY AUXILIARY SERVICE 2012     1178134
 ---
 <a name="CA-33"></a>
 [Back to top](#top)
-## CA-33 -- Rep. Ted Lieu (D)
+## CA-33 -- Rep. Ted Lieu (D) -- [Wikipedia](https://en.wikipedia.org/wiki/CA-33)
 ### Committees
 Ted Lieu is not on any of our key committees 
 
@@ -1070,7 +1070,7 @@ UNIVERSITY OF SOUTHERN CALIFORNIA 2012      100000
 ---
 <a name="CA-35"></a>
 [Back to top](#top)
-## CA-35 -- Rep. Norma Torres (D)
+## CA-35 -- Rep. Norma Torres (D) -- [Wikipedia](https://en.wikipedia.org/wiki/CA-35)
 ### Committees
 Norma Torres is not on any of our key committees 
 
@@ -1094,7 +1094,7 @@ Cal Poly Pomona Fdn, Inc       2015       56046
 ---
 <a name="CA-36"></a>
 [Back to top](#top)
-## CA-36 -- Rep. Raul Ruiz (D)
+## CA-36 -- Rep. Raul Ruiz (D) -- [Wikipedia](https://en.wikipedia.org/wiki/CA-36)
 ### Committees
 Raul Ruiz is the #22 Democrat on the House Committee on Energy and Commerce 
 
@@ -1113,7 +1113,7 @@ This district received no NSF MPS grants from 2012-2016
 ---
 <a name="CA-37"></a>
 [Back to top](#top)
-## CA-37 -- Rep. Karen Bass (D)
+## CA-37 -- Rep. Karen Bass (D) -- [Wikipedia](https://en.wikipedia.org/wiki/CA-37)
 ### Committees
 Karen Bass is not on any of our key committees 
 
@@ -1145,7 +1145,7 @@ UNIVERSITY OF SOUTHERN CALIFORNIA 2013     1806707
 ---
 <a name="CA-38"></a>
 [Back to top](#top)
-## CA-38 -- Rep. Linda Sánchez (D)
+## CA-38 -- Rep. Linda Sánchez (D) -- [Wikipedia](https://en.wikipedia.org/wiki/CA-38)
 ### Committees
 Linda Sánchez is not on any of our key committees 
 
@@ -1170,7 +1170,7 @@ CAL POLY POMONA FOUNDATION INC 2012       37077
 ---
 <a name="CA-39"></a>
 [Back to top](#top)
-## CA-39 -- Rep. Edward Royce (R)
+## CA-39 -- Rep. Edward Royce (R) -- [Wikipedia](https://en.wikipedia.org/wiki/CA-39)
 ### Committees
 Edward Royce is not on any of our key committees 
 
@@ -1194,7 +1194,7 @@ CSU FULLERTON AUXILIARY SERVICES CORPORATION 2014     1034154
 ---
 <a name="CA-40"></a>
 [Back to top](#top)
-## CA-40 -- Rep. Lucille Roybal-Allard (D)
+## CA-40 -- Rep. Lucille Roybal-Allard (D) -- [Wikipedia](https://en.wikipedia.org/wiki/CA-40)
 ### Committees
 Lucille Roybal-Allard is the #7 Democrat on the House Committee on Appropriations 
 
@@ -1216,7 +1216,7 @@ CALIFORNIA STATE UNIVERSITY, FULLERTON 2012      157688
 ---
 <a name="CA-41"></a>
 [Back to top](#top)
-## CA-41 -- Rep. Mark Takano (D)
+## CA-41 -- Rep. Mark Takano (D) -- [Wikipedia](https://en.wikipedia.org/wiki/CA-41)
 ### Committees
 Mark Takano is the #14 Democrat on the House Committee on Science, Space, and Technology 
 
@@ -1249,7 +1249,7 @@ UNIVERSITY ENTERPRISES CORPORATION AT CSUSB        2012      739209
 ---
 <a name="CA-42"></a>
 [Back to top](#top)
-## CA-42 -- Rep. Ken Calvert (R)
+## CA-42 -- Rep. Ken Calvert (R) -- [Wikipedia](https://en.wikipedia.org/wiki/CA-42)
 ### Committees
 Ken Calvert is the #8 Republican on the House Committee on Appropriations 
 
@@ -1270,7 +1270,7 @@ This district received no NSF MPS grants from 2012-2016
 ---
 <a name="CA-43"></a>
 [Back to top](#top)
-## CA-43 -- Rep. Maxine Waters (D)
+## CA-43 -- Rep. Maxine Waters (D) -- [Wikipedia](https://en.wikipedia.org/wiki/CA-43)
 ### Committees
 Maxine Waters is not on any of our key committees 
 
@@ -1292,7 +1292,7 @@ LOYOLA MARYMOUNT UNIVERSITY INC 2014       55466
 ---
 <a name="CA-44"></a>
 [Back to top](#top)
-## CA-44 -- Rep. Nanette Barragán (D)
+## CA-44 -- Rep. Nanette Barragán (D) -- [Wikipedia](https://en.wikipedia.org/wiki/CA-44)
 ### Committees
 Nanette Barragán is not on any of our key committees 
 
@@ -1327,7 +1327,7 @@ U of Cal Riverside                            2015      110000
 ---
 <a name="CA-45"></a>
 [Back to top](#top)
-## CA-45 -- Rep. Mimi Walters (R)
+## CA-45 -- Rep. Mimi Walters (R) -- [Wikipedia](https://en.wikipedia.org/wiki/CA-45)
 ### Committees
 Mimi Walters is the #29 Republican on the House Committee on Energy and Commerce 
 
@@ -1356,7 +1356,7 @@ UNIVERSITY OF CALIFORNIA, IRVINE 2013     7457002
 ---
 <a name="CA-46"></a>
 [Back to top](#top)
-## CA-46 -- Rep. J. Correa (D)
+## CA-46 -- Rep. J. Correa (D) -- [Wikipedia](https://en.wikipedia.org/wiki/CA-46)
 ### Committees
 J. Correa is not on any of our key committees 
 
@@ -1384,7 +1384,7 @@ CHAPMAN UNIVERSITY                            2013       39553
 ---
 <a name="CA-47"></a>
 [Back to top](#top)
-## CA-47 -- Rep. Alan Lowenthal (D)
+## CA-47 -- Rep. Alan Lowenthal (D) -- [Wikipedia](https://en.wikipedia.org/wiki/CA-47)
 ### Committees
 Alan Lowenthal is not on any of our key committees 
 
@@ -1413,7 +1413,7 @@ Cal State U Long Beach Fdn                    2015      125000
 ---
 <a name="CA-48"></a>
 [Back to top](#top)
-## CA-48 -- Rep. Dana Rohrabacher (R)
+## CA-48 -- Rep. Dana Rohrabacher (R) -- [Wikipedia](https://en.wikipedia.org/wiki/CA-48)
 ### Committees
 Dana Rohrabacher is the #2 Republican on the House Committee on Science, Space, and Technology 
 
@@ -1445,7 +1445,7 @@ UNIVERSITY OF CALIFORNIA, LOS ANGELES         2012       16908
 ---
 <a name="CA-49"></a>
 [Back to top](#top)
-## CA-49 -- Rep. Darrell Issa (R)
+## CA-49 -- Rep. Darrell Issa (R) -- [Wikipedia](https://en.wikipedia.org/wiki/CA-49)
 ### Committees
 Darrell Issa is not on any of our key committees 
 
@@ -1472,7 +1472,7 @@ UNIVERSITY OF CALIFORNIA, SAN DIEGO 2013    12589685
 ---
 <a name="CA-50"></a>
 [Back to top](#top)
-## CA-50 -- Rep. Duncan Hunter (R)
+## CA-50 -- Rep. Duncan Hunter (R) -- [Wikipedia](https://en.wikipedia.org/wiki/CA-50)
 ### Committees
 Duncan Hunter is the #2 Republican on the House Subcommittee on Early Childhood, Elementary, and Secondary Education 
 
@@ -1494,7 +1494,7 @@ SCIBERQUEST, INC. 2012       55000
 ---
 <a name="CA-51"></a>
 [Back to top](#top)
-## CA-51 -- Rep. Juan Vargas (D)
+## CA-51 -- Rep. Juan Vargas (D) -- [Wikipedia](https://en.wikipedia.org/wiki/CA-51)
 ### Committees
 Juan Vargas is not on any of our key committees 
 
@@ -1513,7 +1513,7 @@ This district received no NSF MPS grants from 2012-2016
 ---
 <a name="CA-52"></a>
 [Back to top](#top)
-## CA-52 -- Rep. Scott Peters (D)
+## CA-52 -- Rep. Scott Peters (D) -- [Wikipedia](https://en.wikipedia.org/wiki/CA-52)
 ### Committees
 Scott Peters is the #23 Democrat on the House Committee on Energy and Commerce 
 
@@ -1548,7 +1548,7 @@ UNIVERSITY OF SAN DIEGO             2013      451293
 ---
 <a name="CA-53"></a>
 [Back to top](#top)
-## CA-53 -- Rep. Susan Davis (D)
+## CA-53 -- Rep. Susan Davis (D) -- [Wikipedia](https://en.wikipedia.org/wiki/CA-53)
 ### Committees
 Susan Davis is the #5 Democrat on the House Subcommittee on Early Childhood, Elementary, and Secondary Education 
 

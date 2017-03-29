@@ -62,7 +62,7 @@ U of Wisconsin Madison                          -124443
 ---
 <a name="WI-01"></a>
 [Back to top](#top)
-## WI-01 -- Rep. Paul Ryan (R)
+## WI-01 -- Rep. Paul Ryan (R) -- [Wikipedia](https://en.wikipedia.org/wiki/WI-01)
 ### Committees
 Paul Ryan is not on any of our key committees 
 
@@ -85,7 +85,7 @@ CARTHAGE COLLEGE 2012      105645
 ---
 <a name="WI-02"></a>
 [Back to top](#top)
-## WI-02 -- Rep. Mark Pocan (D)
+## WI-02 -- Rep. Mark Pocan (D) -- [Wikipedia](https://en.wikipedia.org/wiki/WI-02)
 ### Committees
 Mark Pocan is the #20 Democrat on the House Committee on Appropriations 
 
@@ -124,7 +124,7 @@ UNIVERSITY OF WISCONSIN SYSTEM              2012    31237699
 ---
 <a name="WI-03"></a>
 [Back to top](#top)
-## WI-03 -- Rep. Ron Kind (D)
+## WI-03 -- Rep. Ron Kind (D) -- [Wikipedia](https://en.wikipedia.org/wiki/WI-03)
 ### Committees
 Ron Kind is not on any of our key committees 
 
@@ -155,7 +155,7 @@ UNIVERSITY OF WISCONSIN SYSTEM 2012      479811
 ---
 <a name="WI-04"></a>
 [Back to top](#top)
-## WI-04 -- Rep. Gwen Moore (D)
+## WI-04 -- Rep. Gwen Moore (D) -- [Wikipedia](https://en.wikipedia.org/wiki/WI-04)
 ### Committees
 Gwen Moore is not on any of our key committees 
 
@@ -184,7 +184,7 @@ UNIVERSITY OF WISCONSIN SYSTEM 2012     3268554
 ---
 <a name="WI-05"></a>
 [Back to top](#top)
-## WI-05 -- Rep. F. Sensenbrenner (R)
+## WI-05 -- Rep. F. Sensenbrenner (R) -- [Wikipedia](https://en.wikipedia.org/wiki/WI-05)
 ### Committees
 F. Sensenbrenner is not on any of our key committees 
 
@@ -210,7 +210,7 @@ MEDICAL COLLEGE OF WISCONSIN, INC., THE 2012       89765
 ---
 <a name="WI-06"></a>
 [Back to top](#top)
-## WI-06 -- Rep. Glenn Grothman (R)
+## WI-06 -- Rep. Glenn Grothman (R) -- [Wikipedia](https://en.wikipedia.org/wiki/WI-06)
 ### Committees
 Glenn Grothman is the #6 Republican on the House Subcommittee on Higher Education and Workforce Development 
 
@@ -232,7 +232,7 @@ RIPON COLLEGE 2014      237383
 ---
 <a name="WI-07"></a>
 [Back to top](#top)
-## WI-07 -- Rep. Sean Duffy (R)
+## WI-07 -- Rep. Sean Duffy (R) -- [Wikipedia](https://en.wikipedia.org/wiki/WI-07)
 ### Committees
 Sean Duffy is not on any of our key committees 
 
@@ -254,7 +254,7 @@ U of Wisconsin River Falls 2015       75018
 ---
 <a name="WI-08"></a>
 [Back to top](#top)
-## WI-08 -- Rep. Mike Gallagher (R)
+## WI-08 -- Rep. Mike Gallagher (R) -- [Wikipedia](https://en.wikipedia.org/wiki/WI-08)
 ### Committees
 Mike Gallagher is not on any of our key committees 
 

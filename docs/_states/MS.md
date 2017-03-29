@@ -54,7 +54,7 @@ U of Southern Mississippi                 4000
 ---
 <a name="MS-01"></a>
 [Back to top](#top)
-## MS-01 -- Rep. Trent Kelly (R)
+## MS-01 -- Rep. Trent Kelly (R) -- [Wikipedia](https://en.wikipedia.org/wiki/MS-01)
 ### Committees
 Trent Kelly is not on any of our key committees 
 
@@ -85,7 +85,7 @@ UNIVERSITY OF MISSISSIPPI 2012      897398
 ---
 <a name="MS-02"></a>
 [Back to top](#top)
-## MS-02 -- Rep. Bennie Thompson (D)
+## MS-02 -- Rep. Bennie Thompson (D) -- [Wikipedia](https://en.wikipedia.org/wiki/MS-02)
 ### Committees
 Bennie Thompson is not on any of our key committees 
 
@@ -109,7 +109,7 @@ JACKSON STATE UNIVERSITY 2012      620114
 ---
 <a name="MS-03"></a>
 [Back to top](#top)
-## MS-03 -- Rep. Gregg Harper (R)
+## MS-03 -- Rep. Gregg Harper (R) -- [Wikipedia](https://en.wikipedia.org/wiki/MS-03)
 ### Committees
 Gregg Harper is the #11 Republican on the House Committee on Energy and Commerce 
 
@@ -135,7 +135,7 @@ Mississippi State Univ       2015      139255
 ---
 <a name="MS-04"></a>
 [Back to top](#top)
-## MS-04 -- Rep. Steven Palazzo (R)
+## MS-04 -- Rep. Steven Palazzo (R) -- [Wikipedia](https://en.wikipedia.org/wiki/MS-04)
 ### Committees
 Steven Palazzo is the #27 Republican on the House Committee on Appropriations 
 

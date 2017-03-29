@@ -64,7 +64,7 @@ DORDT COLLEGE, INCORPORATED                         55685
 ---
 <a name="IA-01"></a>
 [Back to top](#top)
-## IA-01 -- Rep. Rod Blum (R)
+## IA-01 -- Rep. Rod Blum (R) -- [Wikipedia](https://en.wikipedia.org/wiki/IA-01)
 ### Committees
 Rod Blum is not on any of our key committees 
 
@@ -90,7 +90,7 @@ UNIVERSITY OF NORTHERN IOWA 2012       90000
 ---
 <a name="IA-02"></a>
 [Back to top](#top)
-## IA-02 -- Rep. David Loebsack (D)
+## IA-02 -- Rep. David Loebsack (D) -- [Wikipedia](https://en.wikipedia.org/wiki/IA-02)
 ### Committees
 David Loebsack is the #18 Democrat on the House Committee on Energy and Commerce 
 
@@ -124,7 +124,7 @@ University of Iowa      2015      231500
 ---
 <a name="IA-03"></a>
 [Back to top](#top)
-## IA-03 -- Rep. David Young (R)
+## IA-03 -- Rep. David Young (R) -- [Wikipedia](https://en.wikipedia.org/wiki/IA-03)
 ### Committees
 David Young is the #25 Republican on the House Committee on Appropriations 
 
@@ -151,7 +151,7 @@ DRAKE UNIVERSITY 2012      175151
 ---
 <a name="IA-04"></a>
 [Back to top](#top)
-## IA-04 -- Rep. Steve King (R)
+## IA-04 -- Rep. Steve King (R) -- [Wikipedia](https://en.wikipedia.org/wiki/IA-04)
 ### Committees
 Steve King is not on any of our key committees 
 

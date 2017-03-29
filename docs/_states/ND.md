@@ -46,7 +46,7 @@ UNIVERSITY OF NORTH DAKOTA    2012      140000
 ---
 <a name="ND-00"></a>
 [Back to top](#top)
-## ND-00 -- Rep. Kevin Cramer (R)
+## ND-00 -- Rep. Kevin Cramer (R) -- [Wikipedia](https://en.wikipedia.org/wiki/ND-00)
 ### Committees
 Kevin Cramer is the #27 Republican on the House Committee on Energy and Commerce 
 

@@ -69,7 +69,7 @@ and  22  other institutions.
 ---
 <a name="OH-01"></a>
 [Back to top](#top)
-## OH-01 -- Rep. Steve Chabot (R)
+## OH-01 -- Rep. Steve Chabot (R) -- [Wikipedia](https://en.wikipedia.org/wiki/OH-01)
 ### Committees
 Steve Chabot is not on any of our key committees 
 
@@ -103,7 +103,7 @@ XAVIER UNIVERSITY        2014       57862
 ---
 <a name="OH-02"></a>
 [Back to top](#top)
-## OH-02 -- Rep. Brad Wenstrup (R)
+## OH-02 -- Rep. Brad Wenstrup (R) -- [Wikipedia](https://en.wikipedia.org/wiki/OH-02)
 ### Committees
 Brad Wenstrup is not on any of our key committees 
 
@@ -125,7 +125,7 @@ UNIVERSITY OF CINCINNATI 2014      275000
 ---
 <a name="OH-03"></a>
 [Back to top](#top)
-## OH-03 -- Rep. Joyce Beatty (D)
+## OH-03 -- Rep. Joyce Beatty (D) -- [Wikipedia](https://en.wikipedia.org/wiki/OH-03)
 ### Committees
 Joyce Beatty is not on any of our key committees 
 
@@ -158,7 +158,7 @@ Ohio State University                         2015     6681440
 ---
 <a name="OH-04"></a>
 [Back to top](#top)
-## OH-04 -- Rep. Jim Jordan (R)
+## OH-04 -- Rep. Jim Jordan (R) -- [Wikipedia](https://en.wikipedia.org/wiki/OH-04)
 ### Committees
 Jim Jordan is not on any of our key committees 
 
@@ -185,7 +185,7 @@ Oberlin College            2015       57514
 ---
 <a name="OH-05"></a>
 [Back to top](#top)
-## OH-05 -- Rep. Robert Latta (R)
+## OH-05 -- Rep. Robert Latta (R) -- [Wikipedia](https://en.wikipedia.org/wiki/OH-05)
 ### Committees
 Robert Latta is the #9 Republican on the House Committee on Energy and Commerce 
 
@@ -210,7 +210,7 @@ BOWLING GREEN STATE UNIVERSITY (INC) 2012      459617
 ---
 <a name="OH-06"></a>
 [Back to top](#top)
-## OH-06 -- Rep. Bill Johnson (R)
+## OH-06 -- Rep. Bill Johnson (R) -- [Wikipedia](https://en.wikipedia.org/wiki/OH-06)
 ### Committees
 Bill Johnson is the #19 Republican on the House Committee on Energy and Commerce 
 
@@ -232,7 +232,7 @@ OHIO UNIVERSITY 2012     2576654
 ---
 <a name="OH-07"></a>
 [Back to top](#top)
-## OH-07 -- Rep. Bob Gibbs (R)
+## OH-07 -- Rep. Bob Gibbs (R) -- [Wikipedia](https://en.wikipedia.org/wiki/OH-07)
 ### Committees
 Bob Gibbs is not on any of our key committees 
 
@@ -258,7 +258,7 @@ WRIGHT STATE UNIVERSITY                       2012     1096622
 ---
 <a name="OH-08"></a>
 [Back to top](#top)
-## OH-08 -- Rep. Warren Davidson (R)
+## OH-08 -- Rep. Warren Davidson (R) -- [Wikipedia](https://en.wikipedia.org/wiki/OH-08)
 ### Committees
 Warren Davidson is not on any of our key committees 
 
@@ -283,7 +283,7 @@ MIAMI UNIVERSITY                              2012     1151315
 ---
 <a name="OH-09"></a>
 [Back to top](#top)
-## OH-09 -- Rep. Marcy Kaptur (D)
+## OH-09 -- Rep. Marcy Kaptur (D) -- [Wikipedia](https://en.wikipedia.org/wiki/OH-09)
 ### Committees
 Marcy Kaptur is the #2 Democrat on the House Committee on Appropriations 
 
@@ -313,7 +313,7 @@ UNIVERSITY OF TOLEDO, THE 2012     3817436
 ---
 <a name="OH-10"></a>
 [Back to top](#top)
-## OH-10 -- Rep. Michael Turner (R)
+## OH-10 -- Rep. Michael Turner (R) -- [Wikipedia](https://en.wikipedia.org/wiki/OH-10)
 ### Committees
 Michael Turner is not on any of our key committees 
 
@@ -335,7 +335,7 @@ WRIGHT STATE UNIVERSITY 2013      300000
 ---
 <a name="OH-11"></a>
 [Back to top](#top)
-## OH-11 -- Rep. Marcia Fudge (D)
+## OH-11 -- Rep. Marcia Fudge (D) -- [Wikipedia](https://en.wikipedia.org/wiki/OH-11)
 ### Committees
 Marcia Fudge is the #3 Democrat on the House Subcommittee on Early Childhood, Elementary, and Secondary Education 
 
@@ -371,7 +371,7 @@ University of Akron             2015       99999
 ---
 <a name="OH-12"></a>
 [Back to top](#top)
-## OH-12 -- Rep. Patrick Tiberi (R)
+## OH-12 -- Rep. Patrick Tiberi (R) -- [Wikipedia](https://en.wikipedia.org/wiki/OH-12)
 ### Committees
 Patrick Tiberi is not on any of our key committees 
 
@@ -408,7 +408,7 @@ Ohio Wesleyan University      2015      103817
 ---
 <a name="OH-13"></a>
 [Back to top](#top)
-## OH-13 -- Rep. Tim Ryan (D)
+## OH-13 -- Rep. Tim Ryan (D) -- [Wikipedia](https://en.wikipedia.org/wiki/OH-13)
 ### Committees
 Tim Ryan is the #11 Democrat on the House Committee on Appropriations 
 
@@ -436,7 +436,7 @@ YOUNGSTOWN STATE UNIVERSITY 2013      494500
 ---
 <a name="OH-14"></a>
 [Back to top](#top)
-## OH-14 -- Rep. David Joyce (R)
+## OH-14 -- Rep. David Joyce (R) -- [Wikipedia](https://en.wikipedia.org/wiki/OH-14)
 ### Committees
 David Joyce is the #19 Republican on the House Committee on Appropriations 
 
@@ -466,7 +466,7 @@ HIRAM COLLEGE 2012      116163
 ---
 <a name="OH-15"></a>
 [Back to top](#top)
-## OH-15 -- Rep. Steve Stivers (R)
+## OH-15 -- Rep. Steve Stivers (R) -- [Wikipedia](https://en.wikipedia.org/wiki/OH-15)
 ### Committees
 Steve Stivers is not on any of our key committees 
 
@@ -500,7 +500,7 @@ Ohio State University                     2015      176618
 ---
 <a name="OH-16"></a>
 [Back to top](#top)
-## OH-16 -- Rep. James Renacci (R)
+## OH-16 -- Rep. James Renacci (R) -- [Wikipedia](https://en.wikipedia.org/wiki/OH-16)
 ### Committees
 James Renacci is not on any of our key committees 
 

@@ -52,7 +52,7 @@ CALIFORNIA ASSOCIATION FOR RESEARCH IN ASTRONOMY           0
 ---
 <a name="HI-01"></a>
 [Back to top](#top)
-## HI-01 -- Rep. Colleen Hanabusa (D)
+## HI-01 -- Rep. Colleen Hanabusa (D) -- [Wikipedia](https://en.wikipedia.org/wiki/HI-01)
 ### Committees
 Colleen Hanabusa is the #15 Democrat on the House Committee on Science, Space, and Technology 
 
@@ -81,7 +81,7 @@ UNIVERSITY OF HAWAII SYSTEMS 2012     5649430
 ---
 <a name="HI-02"></a>
 [Back to top](#top)
-## HI-02 -- Rep. Tulsi Gabbard (D)
+## HI-02 -- Rep. Tulsi Gabbard (D) -- [Wikipedia](https://en.wikipedia.org/wiki/HI-02)
 ### Committees
 Tulsi Gabbard is not on any of our key committees 
 

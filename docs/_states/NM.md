@@ -72,7 +72,7 @@ SANTA FE INSTITUTE OF SCIENCE INC                   12015
 ---
 <a name="NM-01"></a>
 [Back to top](#top)
-## NM-01 -- Rep. Michelle Lujan Grisham (D)
+## NM-01 -- Rep. Michelle Lujan Grisham (D) -- [Wikipedia](https://en.wikipedia.org/wiki/NM-01)
 ### Committees
 Michelle Lujan Grisham is not on any of our key committees 
 
@@ -115,7 +115,7 @@ University of New Mexico 2015      105000
 ---
 <a name="NM-02"></a>
 [Back to top](#top)
-## NM-02 -- Rep. Stevan Pearce (R)
+## NM-02 -- Rep. Stevan Pearce (R) -- [Wikipedia](https://en.wikipedia.org/wiki/NM-02)
 ### Committees
 Stevan Pearce is not on any of our key committees 
 
@@ -142,7 +142,7 @@ New Mexico St University                      2015       20000
 ---
 <a name="NM-03"></a>
 [Back to top](#top)
-## NM-03 -- Rep. Ben Luján (D)
+## NM-03 -- Rep. Ben Luján (D) -- [Wikipedia](https://en.wikipedia.org/wiki/NM-03)
 ### Committees
 Ben Luján is the #15 Democrat on the House Committee on Energy and Commerce 
 

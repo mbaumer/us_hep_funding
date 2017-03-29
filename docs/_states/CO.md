@@ -78,7 +78,7 @@ and  8  other institutions.
 ---
 <a name="CO-01"></a>
 [Back to top](#top)
-## CO-01 -- Rep. Diana DeGette (D)
+## CO-01 -- Rep. Diana DeGette (D) -- [Wikipedia](https://en.wikipedia.org/wiki/CO-01)
 ### Committees
 Diana DeGette is the #6 Democrat on the House Committee on Energy and Commerce 
 
@@ -116,7 +116,7 @@ REGIS UNIVERSITY                           2012       44000
 ---
 <a name="CO-02"></a>
 [Back to top](#top)
-## CO-02 -- Rep. Jared Polis (D)
+## CO-02 -- Rep. Jared Polis (D) -- [Wikipedia](https://en.wikipedia.org/wiki/CO-02)
 ### Committees
 Jared Polis is the #1 Democrat on the House Subcommittee on Early Childhood, Elementary, and Secondary Education 
 
@@ -170,7 +170,7 @@ University of Montana                         2015       22200
 ---
 <a name="CO-03"></a>
 [Back to top](#top)
-## CO-03 -- Rep. Scott Tipton (R)
+## CO-03 -- Rep. Scott Tipton (R) -- [Wikipedia](https://en.wikipedia.org/wiki/CO-03)
 ### Committees
 Scott Tipton is not on any of our key committees 
 
@@ -201,7 +201,7 @@ FRONT RANGE SCIENTIFIC COMPUTATION INC 2012       49928
 ---
 <a name="CO-04"></a>
 [Back to top](#top)
-## CO-04 -- Rep. Ken Buck (R)
+## CO-04 -- Rep. Ken Buck (R) -- [Wikipedia](https://en.wikipedia.org/wiki/CO-04)
 ### Committees
 Ken Buck is not on any of our key committees 
 
@@ -232,7 +232,7 @@ UNIVERSITY OF NORTHERN COLORADO 2012      120000
 ---
 <a name="CO-05"></a>
 [Back to top](#top)
-## CO-05 -- Rep. Doug Lamborn (R)
+## CO-05 -- Rep. Doug Lamborn (R) -- [Wikipedia](https://en.wikipedia.org/wiki/CO-05)
 ### Committees
 Doug Lamborn is not on any of our key committees 
 
@@ -259,7 +259,7 @@ REGENTS OF THE UNIVERSITY OF COLORADO, THE 2012      300000
 ---
 <a name="CO-06"></a>
 [Back to top](#top)
-## CO-06 -- Rep. Mike Coffman (R)
+## CO-06 -- Rep. Mike Coffman (R) -- [Wikipedia](https://en.wikipedia.org/wiki/CO-06)
 ### Committees
 Mike Coffman is not on any of our key committees 
 
@@ -283,7 +283,7 @@ U of Colorado Denver                       2015      420000
 ---
 <a name="CO-07"></a>
 [Back to top](#top)
-## CO-07 -- Rep. Ed Perlmutter (D)
+## CO-07 -- Rep. Ed Perlmutter (D) -- [Wikipedia](https://en.wikipedia.org/wiki/CO-07)
 ### Committees
 Ed Perlmutter is the #11 Democrat on the House Committee on Science, Space, and Technology 
 

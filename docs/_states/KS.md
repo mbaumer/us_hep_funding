@@ -57,7 +57,7 @@ Kansas State University                             16660
 ---
 <a name="KS-01"></a>
 [Back to top](#top)
-## KS-01 -- Rep. Roger Marshall (R)
+## KS-01 -- Rep. Roger Marshall (R) -- [Wikipedia](https://en.wikipedia.org/wiki/KS-01)
 ### Committees
 Roger Marshall is the #20 Republican on the House Committee on Science, Space, and Technology 
 
@@ -86,7 +86,7 @@ Kansas State University 2015       16660
 ---
 <a name="KS-02"></a>
 [Back to top](#top)
-## KS-02 -- Rep. Lynn Jenkins (R)
+## KS-02 -- Rep. Lynn Jenkins (R) -- [Wikipedia](https://en.wikipedia.org/wiki/KS-02)
 ### Committees
 Lynn Jenkins is not on any of our key committees 
 
@@ -120,7 +120,7 @@ UNIVERSITY OF KANSAS CENTER FOR RESEARCH, INC 2013     3227973
 ---
 <a name="KS-03"></a>
 [Back to top](#top)
-## KS-03 -- Rep. Kevin Yoder (R)
+## KS-03 -- Rep. Kevin Yoder (R) -- [Wikipedia](https://en.wikipedia.org/wiki/KS-03)
 ### Committees
 Kevin Yoder is the #13 Republican on the House Committee on Appropriations 
 

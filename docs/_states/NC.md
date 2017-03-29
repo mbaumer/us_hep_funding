@@ -63,7 +63,7 @@ and  9  other institutions.
 ---
 <a name="NC-01"></a>
 [Back to top](#top)
-## NC-01 -- Rep. George Butterfield (D)
+## NC-01 -- Rep. George Butterfield (D) -- [Wikipedia](https://en.wikipedia.org/wiki/NC-01)
 ### Committees
 George Butterfield is the #9 Democrat on the House Committee on Energy and Commerce 
 
@@ -94,7 +94,7 @@ ELIZABETH CITY STATE UNIVERSITY 2013      237423
 ---
 <a name="NC-02"></a>
 [Back to top](#top)
-## NC-02 -- Rep. George Holding (R)
+## NC-02 -- Rep. George Holding (R) -- [Wikipedia](https://en.wikipedia.org/wiki/NC-02)
 ### Committees
 George Holding is not on any of our key committees 
 
@@ -116,7 +116,7 @@ NORTH CAROLINA STATE UNIVERSITY 2012      180000
 ---
 <a name="NC-03"></a>
 [Back to top](#top)
-## NC-03 -- Rep. Walter Jones (R)
+## NC-03 -- Rep. Walter Jones (R) -- [Wikipedia](https://en.wikipedia.org/wiki/NC-03)
 ### Committees
 Walter Jones is not on any of our key committees 
 
@@ -140,7 +140,7 @@ UNIVERSITY OF NORTH CAROLINA AT WILMINGTON 2013      151244
 ---
 <a name="NC-04"></a>
 [Back to top](#top)
-## NC-04 -- Rep. David Price (D)
+## NC-04 -- Rep. David Price (D) -- [Wikipedia](https://en.wikipedia.org/wiki/NC-04)
 ### Committees
 David Price is the #6 Democrat on the House Committee on Appropriations 
 
@@ -187,7 +187,7 @@ UNIVERSITY OF OKLAHOMA                      2014       31000
 ---
 <a name="NC-05"></a>
 [Back to top](#top)
-## NC-05 -- Rep. Virginia Foxx (R)
+## NC-05 -- Rep. Virginia Foxx (R) -- [Wikipedia](https://en.wikipedia.org/wiki/NC-05)
 ### Committees
 Virginia Foxx is not on any of our key committees 
 
@@ -215,7 +215,7 @@ Wake Forest University       2015      258354
 ---
 <a name="NC-06"></a>
 [Back to top](#top)
-## NC-06 -- Rep. Mark Walker (R)
+## NC-06 -- Rep. Mark Walker (R) -- [Wikipedia](https://en.wikipedia.org/wiki/NC-06)
 ### Committees
 Mark Walker is not on any of our key committees 
 
@@ -238,7 +238,7 @@ UNIVERSITY OF NORTH CAROLINA AT GREENSBORO 2013      267782
 ---
 <a name="NC-07"></a>
 [Back to top](#top)
-## NC-07 -- Rep. David Rouzer (R)
+## NC-07 -- Rep. David Rouzer (R) -- [Wikipedia](https://en.wikipedia.org/wiki/NC-07)
 ### Committees
 David Rouzer is not on any of our key committees 
 
@@ -262,7 +262,7 @@ UNIVERSITY OF NORTH CAROLINA AT WILMINGTON 2012       78004
 ---
 <a name="NC-08"></a>
 [Back to top](#top)
-## NC-08 -- Rep. Richard Hudson (R)
+## NC-08 -- Rep. Richard Hudson (R) -- [Wikipedia](https://en.wikipedia.org/wiki/NC-08)
 ### Committees
 Richard Hudson is the #25 Republican on the House Committee on Energy and Commerce 
 
@@ -284,7 +284,7 @@ This district received no NSF MPS grants from 2012-2016
 ---
 <a name="NC-09"></a>
 [Back to top](#top)
-## NC-09 -- Rep. Robert Pittenger (R)
+## NC-09 -- Rep. Robert Pittenger (R) -- [Wikipedia](https://en.wikipedia.org/wiki/NC-09)
 ### Committees
 Robert Pittenger is not on any of our key committees 
 
@@ -303,7 +303,7 @@ This district received no NSF MPS grants from 2012-2016
 ---
 <a name="NC-10"></a>
 [Back to top](#top)
-## NC-10 -- Rep. Patrick McHenry (R)
+## NC-10 -- Rep. Patrick McHenry (R) -- [Wikipedia](https://en.wikipedia.org/wiki/NC-10)
 ### Committees
 Patrick McHenry is not on any of our key committees 
 
@@ -325,7 +325,7 @@ UNIVERSITY OF NORTH CAROLINA AT ASHEVILLE 2013       82500
 ---
 <a name="NC-11"></a>
 [Back to top](#top)
-## NC-11 -- Rep. Mark Meadows (R)
+## NC-11 -- Rep. Mark Meadows (R) -- [Wikipedia](https://en.wikipedia.org/wiki/NC-11)
 ### Committees
 Mark Meadows is not on any of our key committees 
 
@@ -347,7 +347,7 @@ UNIVERSITY OF NORTH CAROLINA AT ASHEVILLE 2012      197272
 ---
 <a name="NC-12"></a>
 [Back to top](#top)
-## NC-12 -- Rep. Alma Adams (D)
+## NC-12 -- Rep. Alma Adams (D) -- [Wikipedia](https://en.wikipedia.org/wiki/NC-12)
 ### Committees
 Alma Adams is the #3 Democrat on the House Subcommittee on Higher Education and Workforce Development 
 
@@ -382,7 +382,7 @@ WAKE FOREST UNIVERSITY                        2012       41958
 ---
 <a name="NC-13"></a>
 [Back to top](#top)
-## NC-13 -- Rep. Ted Budd (R)
+## NC-13 -- Rep. Ted Budd (R) -- [Wikipedia](https://en.wikipedia.org/wiki/NC-13)
 ### Committees
 Ted Budd is not on any of our key committees 
 

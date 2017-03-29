@@ -40,7 +40,7 @@ University of Wyoming        2015       -1910
 ---
 <a name="WY-00"></a>
 [Back to top](#top)
-## WY-00 -- Rep. Liz Cheney (R)
+## WY-00 -- Rep. Liz Cheney (R) -- [Wikipedia](https://en.wikipedia.org/wiki/WY-00)
 ### Committees
 Liz Cheney is not on any of our key committees 
 

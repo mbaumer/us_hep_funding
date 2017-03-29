@@ -40,7 +40,7 @@ CREIGHTON UNIVERSITY                                92500
 ---
 <a name="NE-01"></a>
 [Back to top](#top)
-## NE-01 -- Rep. Jeff Fortenberry (R)
+## NE-01 -- Rep. Jeff Fortenberry (R) -- [Wikipedia](https://en.wikipedia.org/wiki/NE-01)
 ### Committees
 Jeff Fortenberry is the #15 Republican on the House Committee on Appropriations 
 
@@ -68,7 +68,7 @@ UNIVERSITY OF NEBRASKA                        2012     4612438
 ---
 <a name="NE-02"></a>
 [Back to top](#top)
-## NE-02 -- Rep. Don Bacon (R)
+## NE-02 -- Rep. Don Bacon (R) -- [Wikipedia](https://en.wikipedia.org/wiki/NE-02)
 ### Committees
 Don Bacon is not on any of our key committees 
 
@@ -90,7 +90,7 @@ CREIGHTON UNIVERSITY 2012       92500
 ---
 <a name="NE-03"></a>
 [Back to top](#top)
-## NE-03 -- Rep. Adrian Smith (R)
+## NE-03 -- Rep. Adrian Smith (R) -- [Wikipedia](https://en.wikipedia.org/wiki/NE-03)
 ### Committees
 Adrian Smith is not on any of our key committees 
 

@@ -40,7 +40,7 @@ Boise State University                  363998
 ---
 <a name="ID-01"></a>
 [Back to top](#top)
-## ID-01 -- Rep. Raúl Labrador (R)
+## ID-01 -- Rep. Raúl Labrador (R) -- [Wikipedia](https://en.wikipedia.org/wiki/ID-01)
 ### Committees
 Raúl Labrador is not on any of our key committees 
 
@@ -63,7 +63,7 @@ UNIVERSITY OF IDAHO                2012      536655
 ---
 <a name="ID-02"></a>
 [Back to top](#top)
-## ID-02 -- Rep. Michael Simpson (R)
+## ID-02 -- Rep. Michael Simpson (R) -- [Wikipedia](https://en.wikipedia.org/wiki/ID-02)
 ### Committees
 Michael Simpson is the #5 Republican on the House Committee on Appropriations 
 

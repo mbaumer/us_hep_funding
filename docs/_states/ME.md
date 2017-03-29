@@ -45,7 +45,7 @@ Bowdoin College                            106000
 ---
 <a name="ME-01"></a>
 [Back to top](#top)
-## ME-01 -- Rep. Chellie Pingree (D)
+## ME-01 -- Rep. Chellie Pingree (D) -- [Wikipedia](https://en.wikipedia.org/wiki/ME-01)
 ### Committees
 Chellie Pingree is the #15 Democrat on the House Committee on Appropriations 
 
@@ -73,7 +73,7 @@ UNIVERSITY OF NEW ENGLAND 2013      417785
 ---
 <a name="ME-02"></a>
 [Back to top](#top)
-## ME-02 -- Rep. Bruce Poliquin (R)
+## ME-02 -- Rep. Bruce Poliquin (R) -- [Wikipedia](https://en.wikipedia.org/wiki/ME-02)
 ### Committees
 Bruce Poliquin is not on any of our key committees 
 

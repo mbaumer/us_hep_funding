@@ -77,7 +77,7 @@ and  9  other institutions.
 ---
 <a name="TN-01"></a>
 [Back to top](#top)
-## TN-01 -- Rep. David Roe (R)
+## TN-01 -- Rep. David Roe (R) -- [Wikipedia](https://en.wikipedia.org/wiki/TN-01)
 ### Committees
 David Roe is the #3 Republican on the House Subcommittee on Early Childhood, Elementary, and Secondary Education 
 
@@ -108,7 +108,7 @@ EAST TENNESSEE STATE UNIVERSITY 2012      156048
 ---
 <a name="TN-02"></a>
 [Back to top](#top)
-## TN-02 -- Rep. John Duncan (R)
+## TN-02 -- Rep. John Duncan (R) -- [Wikipedia](https://en.wikipedia.org/wiki/TN-02)
 ### Committees
 John Duncan is not on any of our key committees 
 
@@ -209,7 +209,7 @@ UNIVERSITY OF TENNESSEE  2012     2934992
 ---
 <a name="TN-03"></a>
 [Back to top](#top)
-## TN-03 -- Rep. Charles Fleischmann (R)
+## TN-03 -- Rep. Charles Fleischmann (R) -- [Wikipedia](https://en.wikipedia.org/wiki/TN-03)
 ### Committees
 Charles Fleischmann is the #17 Republican on the House Committee on Appropriations 
 
@@ -302,7 +302,7 @@ UNIVERSITY OF TENNESSEE                       2013      290000
 ---
 <a name="TN-04"></a>
 [Back to top](#top)
-## TN-04 -- Rep. Scott DesJarlais (R)
+## TN-04 -- Rep. Scott DesJarlais (R) -- [Wikipedia](https://en.wikipedia.org/wiki/TN-04)
 ### Committees
 Scott DesJarlais is not on any of our key committees 
 
@@ -330,7 +330,7 @@ VANDERBILT UNIVERSITY, THE        2013      124850
 ---
 <a name="TN-05"></a>
 [Back to top](#top)
-## TN-05 -- Rep. Jim Cooper (D)
+## TN-05 -- Rep. Jim Cooper (D) -- [Wikipedia](https://en.wikipedia.org/wiki/TN-05)
 ### Committees
 Jim Cooper is not on any of our key committees 
 
@@ -375,7 +375,7 @@ Vanderbilt University      2015      106984
 ---
 <a name="TN-06"></a>
 [Back to top](#top)
-## TN-06 -- Rep. Diane Black (R)
+## TN-06 -- Rep. Diane Black (R) -- [Wikipedia](https://en.wikipedia.org/wiki/TN-06)
 ### Committees
 Diane Black is not on any of our key committees 
 
@@ -394,7 +394,7 @@ This district received no NSF MPS grants from 2012-2016
 ---
 <a name="TN-07"></a>
 [Back to top](#top)
-## TN-07 -- Rep. Marsha Blackburn (R)
+## TN-07 -- Rep. Marsha Blackburn (R) -- [Wikipedia](https://en.wikipedia.org/wiki/TN-07)
 ### Committees
 Marsha Blackburn is the #7 Republican on the House Committee on Energy and Commerce 
 
@@ -420,7 +420,7 @@ AUSTIN PEAY STATE UNIVERSITY 2014      200000
 ---
 <a name="TN-08"></a>
 [Back to top](#top)
-## TN-08 -- Rep. David Kustoff (R)
+## TN-08 -- Rep. David Kustoff (R) -- [Wikipedia](https://en.wikipedia.org/wiki/TN-08)
 ### Committees
 David Kustoff is not on any of our key committees 
 
@@ -439,7 +439,7 @@ This district received no NSF MPS grants from 2012-2016
 ---
 <a name="TN-09"></a>
 [Back to top](#top)
-## TN-09 -- Rep. Steve Cohen (D)
+## TN-09 -- Rep. Steve Cohen (D) -- [Wikipedia](https://en.wikipedia.org/wiki/TN-09)
 ### Committees
 Steve Cohen is not on any of our key committees 
 

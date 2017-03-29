@@ -60,7 +60,7 @@ and  5  other institutions.
 ---
 <a name="IN-01"></a>
 [Back to top](#top)
-## IN-01 -- Rep. Peter Visclosky (D)
+## IN-01 -- Rep. Peter Visclosky (D) -- [Wikipedia](https://en.wikipedia.org/wiki/IN-01)
 ### Committees
 Peter Visclosky is the #3 Democrat on the House Committee on Appropriations 
 
@@ -87,7 +87,7 @@ Valparaiso University                      2015       93336
 ---
 <a name="IN-02"></a>
 [Back to top](#top)
-## IN-02 -- Rep. Jackie Walorski (R)
+## IN-02 -- Rep. Jackie Walorski (R) -- [Wikipedia](https://en.wikipedia.org/wiki/IN-02)
 ### Committees
 Jackie Walorski is not on any of our key committees 
 
@@ -119,7 +119,7 @@ University of Notre Dame        2015      599544
 ---
 <a name="IN-03"></a>
 [Back to top](#top)
-## IN-03 -- Rep. Jim Banks (R)
+## IN-03 -- Rep. Jim Banks (R) -- [Wikipedia](https://en.wikipedia.org/wiki/IN-03)
 ### Committees
 Jim Banks is the #18 Republican on the House Committee on Science, Space, and Technology 
 
@@ -141,7 +141,7 @@ PURDUE UNIVERSITY 2012      279775
 ---
 <a name="IN-04"></a>
 [Back to top](#top)
-## IN-04 -- Rep. Todd Rokita (R)
+## IN-04 -- Rep. Todd Rokita (R) -- [Wikipedia](https://en.wikipedia.org/wiki/IN-04)
 ### Committees
 Todd Rokita is the #1 Republican on the House Subcommittee on Early Childhood, Elementary, and Secondary Education 
 
@@ -176,7 +176,7 @@ WABASH COLLEGE    2012      112897
 ---
 <a name="IN-05"></a>
 [Back to top](#top)
-## IN-05 -- Rep. Susan Brooks (R)
+## IN-05 -- Rep. Susan Brooks (R) -- [Wikipedia](https://en.wikipedia.org/wiki/IN-05)
 ### Committees
 Susan Brooks is the #23 Republican on the House Committee on Energy and Commerce 
 
@@ -201,7 +201,7 @@ TAYLOR UNIVERSITY, INC.     2012       90000
 ---
 <a name="IN-06"></a>
 [Back to top](#top)
-## IN-06 -- Rep. Luke Messer (R)
+## IN-06 -- Rep. Luke Messer (R) -- [Wikipedia](https://en.wikipedia.org/wiki/IN-06)
 ### Committees
 Luke Messer is the #5 Republican on the House Subcommittee on Early Childhood, Elementary, and Secondary Education 
 
@@ -222,7 +222,7 @@ This district received no NSF MPS grants from 2012-2016
 ---
 <a name="IN-07"></a>
 [Back to top](#top)
-## IN-07 -- Rep. André Carson (D)
+## IN-07 -- Rep. André Carson (D) -- [Wikipedia](https://en.wikipedia.org/wiki/IN-07)
 ### Committees
 André Carson is not on any of our key committees 
 
@@ -251,7 +251,7 @@ TRUSTEES OF INDIANA UNIVERSITY 2012     1056002
 ---
 <a name="IN-08"></a>
 [Back to top](#top)
-## IN-08 -- Rep. Larry Bucshon (R)
+## IN-08 -- Rep. Larry Bucshon (R) -- [Wikipedia](https://en.wikipedia.org/wiki/IN-08)
 ### Committees
 Larry Bucshon is the #21 Republican on the House Committee on Energy and Commerce 
 
@@ -273,7 +273,7 @@ DEPAUW UNIVERSITY 2012       47345
 ---
 <a name="IN-09"></a>
 [Back to top](#top)
-## IN-09 -- Rep. Trey Hollingsworth (R)
+## IN-09 -- Rep. Trey Hollingsworth (R) -- [Wikipedia](https://en.wikipedia.org/wiki/IN-09)
 ### Committees
 Trey Hollingsworth is not on any of our key committees 
 

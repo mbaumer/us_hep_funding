@@ -65,7 +65,7 @@ and  4  other institutions.
 ---
 <a name="SC-01"></a>
 [Back to top](#top)
-## SC-01 -- Rep. Marshall Sanford (R)
+## SC-01 -- Rep. Marshall Sanford (R) -- [Wikipedia](https://en.wikipedia.org/wiki/SC-01)
 ### Committees
 Marshall Sanford is not on any of our key committees 
 
@@ -93,7 +93,7 @@ MEDICAL UNIVERSITY OF SOUTH CAROLINA 2012      158334
 ---
 <a name="SC-02"></a>
 [Back to top](#top)
-## SC-02 -- Rep. Joe Wilson (R)
+## SC-02 -- Rep. Joe Wilson (R) -- [Wikipedia](https://en.wikipedia.org/wiki/SC-02)
 ### Committees
 Joe Wilson is not on any of our key committees 
 
@@ -112,7 +112,7 @@ This district received no NSF MPS grants from 2012-2016
 ---
 <a name="SC-03"></a>
 [Back to top](#top)
-## SC-03 -- Rep. Jeff Duncan (R)
+## SC-03 -- Rep. Jeff Duncan (R) -- [Wikipedia](https://en.wikipedia.org/wiki/SC-03)
 ### Committees
 Jeff Duncan is not on any of our key committees 
 
@@ -141,7 +141,7 @@ SPELMAN COLLEGE                        2012       28709
 ---
 <a name="SC-04"></a>
 [Back to top](#top)
-## SC-04 -- Rep. Trey Gowdy (R)
+## SC-04 -- Rep. Trey Gowdy (R) -- [Wikipedia](https://en.wikipedia.org/wiki/SC-04)
 ### Committees
 Trey Gowdy is not on any of our key committees 
 
@@ -188,7 +188,7 @@ WINTHROP UNIVERSITY 2014      291438
 ---
 <a name="SC-06"></a>
 [Back to top](#top)
-## SC-06 -- Rep. James Clyburn (D)
+## SC-06 -- Rep. James Clyburn (D) -- [Wikipedia](https://en.wikipedia.org/wiki/SC-06)
 ### Committees
 James Clyburn is not on any of our key committees 
 
@@ -225,7 +225,7 @@ UNIVERSITY OF SOUTH CAROLINA         2013     3330308
 ---
 <a name="SC-07"></a>
 [Back to top](#top)
-## SC-07 -- Rep. Tom Rice (R)
+## SC-07 -- Rep. Tom Rice (R) -- [Wikipedia](https://en.wikipedia.org/wiki/SC-07)
 ### Committees
 Tom Rice is not on any of our key committees 
 

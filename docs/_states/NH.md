@@ -58,7 +58,7 @@ RUTGERS, THE STATE UNIVERSITY OF NEW JERSEY       16376
 ---
 <a name="NH-01"></a>
 [Back to top](#top)
-## NH-01 -- Rep. Carol Shea-Porter (D)
+## NH-01 -- Rep. Carol Shea-Porter (D) -- [Wikipedia](https://en.wikipedia.org/wiki/NH-01)
 ### Committees
 Carol Shea-Porter is not on any of our key committees 
 
@@ -85,7 +85,7 @@ UNIVERSITY SYSTEM OF NEW HAMPSHIRE 2012     1542799
 ---
 <a name="NH-02"></a>
 [Back to top](#top)
-## NH-02 -- Rep. Ann Kuster (D)
+## NH-02 -- Rep. Ann Kuster (D) -- [Wikipedia](https://en.wikipedia.org/wiki/NH-02)
 ### Committees
 Ann Kuster is not on any of our key committees 
 

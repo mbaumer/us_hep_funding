@@ -55,7 +55,7 @@ and  1  other institutions.
 ---
 <a name="CT-01"></a>
 [Back to top](#top)
-## CT-01 -- Rep. John Larson (D)
+## CT-01 -- Rep. John Larson (D) -- [Wikipedia](https://en.wikipedia.org/wiki/CT-01)
 ### Committees
 John Larson is not on any of our key committees 
 
@@ -77,7 +77,7 @@ TRINITY COLLEGE 2014      105772
 ---
 <a name="CT-02"></a>
 [Back to top](#top)
-## CT-02 -- Rep. Joe Courtney (D)
+## CT-02 -- Rep. Joe Courtney (D) -- [Wikipedia](https://en.wikipedia.org/wiki/CT-02)
 ### Committees
 Joe Courtney is the #2 Democrat on the House Subcommittee on Higher Education and Workforce Development 
 
@@ -110,7 +110,7 @@ Univ of Connecticut       2015      682323
 ---
 <a name="CT-03"></a>
 [Back to top](#top)
-## CT-03 -- Rep. Rosa DeLauro (D)
+## CT-03 -- Rep. Rosa DeLauro (D) -- [Wikipedia](https://en.wikipedia.org/wiki/CT-03)
 ### Committees
 Rosa DeLauro is the #5 Democrat on the House Committee on Appropriations 
 
@@ -150,7 +150,7 @@ Yale University                2015      463319
 ---
 <a name="CT-04"></a>
 [Back to top](#top)
-## CT-04 -- Rep. James Himes (D)
+## CT-04 -- Rep. James Himes (D) -- [Wikipedia](https://en.wikipedia.org/wiki/CT-04)
 ### Committees
 James Himes is not on any of our key committees 
 
@@ -177,7 +177,7 @@ FAIRFIELD UNIVERSITY 2012       90580
 ---
 <a name="CT-05"></a>
 [Back to top](#top)
-## CT-05 -- Rep. Elizabeth Esty (D)
+## CT-05 -- Rep. Elizabeth Esty (D) -- [Wikipedia](https://en.wikipedia.org/wiki/CT-05)
 ### Committees
 Elizabeth Esty is the #6 Democrat on the House Committee on Science, Space, and Technology 
 

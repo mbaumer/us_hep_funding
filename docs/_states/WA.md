@@ -70,7 +70,7 @@ and  7  other institutions.
 ---
 <a name="WA-01"></a>
 [Back to top](#top)
-## WA-01 -- Rep. Suzan DelBene (D)
+## WA-01 -- Rep. Suzan DelBene (D) -- [Wikipedia](https://en.wikipedia.org/wiki/WA-01)
 ### Committees
 Suzan DelBene is not on any of our key committees 
 
@@ -97,7 +97,7 @@ U of Washington 2015      246941
 ---
 <a name="WA-02"></a>
 [Back to top](#top)
-## WA-02 -- Rep. Rick Larsen (D)
+## WA-02 -- Rep. Rick Larsen (D) -- [Wikipedia](https://en.wikipedia.org/wiki/WA-02)
 ### Committees
 Rick Larsen is not on any of our key committees 
 
@@ -121,7 +121,7 @@ WESTERN WASHINGTON UNIVERSITY 2012      951730
 ---
 <a name="WA-03"></a>
 [Back to top](#top)
-## WA-03 -- Rep. Jaime Herrera Beutler (R)
+## WA-03 -- Rep. Jaime Herrera Beutler (R) -- [Wikipedia](https://en.wikipedia.org/wiki/WA-03)
 ### Committees
 Jaime Herrera Beutler is the #18 Republican on the House Committee on Appropriations 
 
@@ -142,7 +142,7 @@ This district received no NSF MPS grants from 2012-2016
 ---
 <a name="WA-04"></a>
 [Back to top](#top)
-## WA-04 -- Rep. Dan Newhouse (R)
+## WA-04 -- Rep. Dan Newhouse (R) -- [Wikipedia](https://en.wikipedia.org/wiki/WA-04)
 ### Committees
 Dan Newhouse is the #28 Republican on the House Committee on Appropriations 
 
@@ -181,7 +181,7 @@ WASHINGTON STATE UNIVERSITY        2014      151170
 ---
 <a name="WA-05"></a>
 [Back to top](#top)
-## WA-05 -- Rep. Cathy McMorris Rodgers (R)
+## WA-05 -- Rep. Cathy McMorris Rodgers (R) -- [Wikipedia](https://en.wikipedia.org/wiki/WA-05)
 ### Committees
 Cathy McMorris Rodgers is the #10 Republican on the House Committee on Energy and Commerce 
 
@@ -212,7 +212,7 @@ WHITMAN COLLEGE, INC                  2012       80000
 ---
 <a name="WA-06"></a>
 [Back to top](#top)
-## WA-06 -- Rep. Derek Kilmer (D)
+## WA-06 -- Rep. Derek Kilmer (D) -- [Wikipedia](https://en.wikipedia.org/wiki/WA-06)
 ### Committees
 Derek Kilmer is the #17 Democrat on the House Committee on Appropriations 
 
@@ -237,7 +237,7 @@ UNIVERSITY OF PUGET SOUND, THE 2013      197157
 ---
 <a name="WA-07"></a>
 [Back to top](#top)
-## WA-07 -- Rep. Pramila Jayapal (D)
+## WA-07 -- Rep. Pramila Jayapal (D) -- [Wikipedia](https://en.wikipedia.org/wiki/WA-07)
 ### Committees
 Pramila Jayapal is not on any of our key committees 
 
@@ -277,7 +277,7 @@ UNIVERSITY OF WASHINGTON               2012    23932208
 ---
 <a name="WA-08"></a>
 [Back to top](#top)
-## WA-08 -- Rep. David Reichert (R)
+## WA-08 -- Rep. David Reichert (R) -- [Wikipedia](https://en.wikipedia.org/wiki/WA-08)
 ### Committees
 David Reichert is not on any of our key committees 
 
@@ -301,7 +301,7 @@ Central Washington Univ           2015       75281
 ---
 <a name="WA-09"></a>
 [Back to top](#top)
-## WA-09 -- Rep. Adam Smith (D)
+## WA-09 -- Rep. Adam Smith (D) -- [Wikipedia](https://en.wikipedia.org/wiki/WA-09)
 ### Committees
 Adam Smith is not on any of our key committees 
 
@@ -324,7 +324,7 @@ Seattle University 2015      279997
 ---
 <a name="WA-10"></a>
 [Back to top](#top)
-## WA-10 -- Rep. Denny Heck (D)
+## WA-10 -- Rep. Denny Heck (D) -- [Wikipedia](https://en.wikipedia.org/wiki/WA-10)
 ### Committees
 Denny Heck is not on any of our key committees 
 

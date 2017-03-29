@@ -59,7 +59,7 @@ and  2  other institutions.
 ---
 <a name="AZ-01"></a>
 [Back to top](#top)
-## AZ-01 -- Rep. Tom O'Halleran (D)
+## AZ-01 -- Rep. Tom O'Halleran (D) -- [Wikipedia](https://en.wikipedia.org/wiki/AZ-01)
 ### Committees
 Tom O'Halleran is not on any of our key committees 
 
@@ -87,7 +87,7 @@ Northern Arizona Univ       2015      216161
 ---
 <a name="AZ-02"></a>
 [Back to top](#top)
-## AZ-02 -- Rep. Martha McSally (R)
+## AZ-02 -- Rep. Martha McSally (R) -- [Wikipedia](https://en.wikipedia.org/wiki/AZ-02)
 ### Committees
 Martha McSally is not on any of our key committees 
 
@@ -113,7 +113,7 @@ UNIVERSITY OF ARIZONA                              2013     1280434
 ---
 <a name="AZ-03"></a>
 [Back to top](#top)
-## AZ-03 -- Rep. Raúl Grijalva (D)
+## AZ-03 -- Rep. Raúl Grijalva (D) -- [Wikipedia](https://en.wikipedia.org/wiki/AZ-03)
 ### Committees
 Raúl Grijalva is the #2 Democrat on the House Subcommittee on Early Childhood, Elementary, and Secondary Education 
 
@@ -144,7 +144,7 @@ UNIVERSITY OF ARIZONA                              2013    14225860
 ---
 <a name="AZ-04"></a>
 [Back to top](#top)
-## AZ-04 -- Rep. Paul Gosar (R)
+## AZ-04 -- Rep. Paul Gosar (R) -- [Wikipedia](https://en.wikipedia.org/wiki/AZ-04)
 ### Committees
 Paul Gosar is not on any of our key committees 
 
@@ -167,7 +167,7 @@ EMBRY-RIDDLE AERONAUTICAL UNIVERSITY INC 2013      126027
 ---
 <a name="AZ-05"></a>
 [Back to top](#top)
-## AZ-05 -- Rep. Andy Biggs (R)
+## AZ-05 -- Rep. Andy Biggs (R) -- [Wikipedia](https://en.wikipedia.org/wiki/AZ-05)
 ### Committees
 Andy Biggs is the #19 Republican on the House Committee on Science, Space, and Technology 
 
@@ -194,7 +194,7 @@ ARIZONA STATE UNIVERSITY 2012     7172658
 ---
 <a name="AZ-06"></a>
 [Back to top](#top)
-## AZ-06 -- Rep. David Schweikert (R)
+## AZ-06 -- Rep. David Schweikert (R) -- [Wikipedia](https://en.wikipedia.org/wiki/AZ-06)
 ### Committees
 David Schweikert is not on any of our key committees 
 
@@ -213,7 +213,7 @@ This district received no NSF MPS grants from 2012-2016
 ---
 <a name="AZ-07"></a>
 [Back to top](#top)
-## AZ-07 -- Rep. Ruben Gallego (D)
+## AZ-07 -- Rep. Ruben Gallego (D) -- [Wikipedia](https://en.wikipedia.org/wiki/AZ-07)
 ### Committees
 Ruben Gallego is not on any of our key committees 
 
@@ -244,7 +244,7 @@ UNIVERSITY OF ARIZONA                         2012     9219415
 ---
 <a name="AZ-08"></a>
 [Back to top](#top)
-## AZ-08 -- Rep. Trent Franks (R)
+## AZ-08 -- Rep. Trent Franks (R) -- [Wikipedia](https://en.wikipedia.org/wiki/AZ-08)
 ### Committees
 Trent Franks is not on any of our key committees 
 
@@ -263,7 +263,7 @@ This district received no NSF MPS grants from 2012-2016
 ---
 <a name="AZ-09"></a>
 [Back to top](#top)
-## AZ-09 -- Rep. Kyrsten Sinema (D)
+## AZ-09 -- Rep. Kyrsten Sinema (D) -- [Wikipedia](https://en.wikipedia.org/wiki/AZ-09)
 ### Committees
 Kyrsten Sinema is not on any of our key committees 
 

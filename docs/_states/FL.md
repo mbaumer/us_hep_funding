@@ -68,7 +68,7 @@ and  15  other institutions.
 ---
 <a name="FL-01"></a>
 [Back to top](#top)
-## FL-01 -- Rep. Matt Gaetz (R)
+## FL-01 -- Rep. Matt Gaetz (R) -- [Wikipedia](https://en.wikipedia.org/wiki/FL-01)
 ### Committees
 Matt Gaetz is not on any of our key committees 
 
@@ -87,7 +87,7 @@ This district received no NSF MPS grants from 2012-2016
 ---
 <a name="FL-02"></a>
 [Back to top](#top)
-## FL-02 -- Rep. Neal Dunn (R)
+## FL-02 -- Rep. Neal Dunn (R) -- [Wikipedia](https://en.wikipedia.org/wiki/FL-02)
 ### Committees
 Neal Dunn is the #21 Republican on the House Committee on Science, Space, and Technology 
 
@@ -127,7 +127,7 @@ RUTGERS, THE STATE UNIVERSITY OF NEW JERSEY 2012      180000
 ---
 <a name="FL-03"></a>
 [Back to top](#top)
-## FL-03 -- Rep. Ted Yoho (R)
+## FL-03 -- Rep. Ted Yoho (R) -- [Wikipedia](https://en.wikipedia.org/wiki/FL-03)
 ### Committees
 Ted Yoho is not on any of our key committees 
 
@@ -157,7 +157,7 @@ University of Florida 2015      354639
 ---
 <a name="FL-04"></a>
 [Back to top](#top)
-## FL-04 -- Rep. John Rutherford (R)
+## FL-04 -- Rep. John Rutherford (R) -- [Wikipedia](https://en.wikipedia.org/wiki/FL-04)
 ### Committees
 John Rutherford is not on any of our key committees 
 
@@ -180,7 +180,7 @@ UNIVERSITY OF NORTH FLORIDA, THE 2014      407491
 ---
 <a name="FL-05"></a>
 [Back to top](#top)
-## FL-05 -- Rep. Al Lawson (D)
+## FL-05 -- Rep. Al Lawson (D) -- [Wikipedia](https://en.wikipedia.org/wiki/FL-05)
 ### Committees
 Al Lawson is not on any of our key committees 
 
@@ -202,7 +202,7 @@ FLORIDA STATE UNIVERSITY, THE 2017           0
 ---
 <a name="FL-06"></a>
 [Back to top](#top)
-## FL-06 -- Rep. Ron DeSantis (R)
+## FL-06 -- Rep. Ron DeSantis (R) -- [Wikipedia](https://en.wikipedia.org/wiki/FL-06)
 ### Committees
 Ron DeSantis is not on any of our key committees 
 
@@ -230,7 +230,7 @@ UNIVERSITY OF FLORIDA                    2012     8068148
 ---
 <a name="FL-07"></a>
 [Back to top](#top)
-## FL-07 -- Rep. Stephanie Murphy (D)
+## FL-07 -- Rep. Stephanie Murphy (D) -- [Wikipedia](https://en.wikipedia.org/wiki/FL-07)
 ### Committees
 Stephanie Murphy is not on any of our key committees 
 
@@ -254,7 +254,7 @@ UNIVERSITY OF CENTRAL FLORIDA 2013     1474709
 ---
 <a name="FL-08"></a>
 [Back to top](#top)
-## FL-08 -- Rep. Bill Posey (R)
+## FL-08 -- Rep. Bill Posey (R) -- [Wikipedia](https://en.wikipedia.org/wiki/FL-08)
 ### Committees
 Bill Posey is the #6 Republican on the House Committee on Science, Space, and Technology 
 
@@ -284,7 +284,7 @@ Florida Institute of Tech             2015       86189
 ---
 <a name="FL-09"></a>
 [Back to top](#top)
-## FL-09 -- Rep. Darren Soto (D)
+## FL-09 -- Rep. Darren Soto (D) -- [Wikipedia](https://en.wikipedia.org/wiki/FL-09)
 ### Committees
 Darren Soto is not on any of our key committees 
 
@@ -303,7 +303,7 @@ This district received no NSF MPS grants from 2012-2016
 ---
 <a name="FL-10"></a>
 [Back to top](#top)
-## FL-10 -- Rep. Val Demings (D)
+## FL-10 -- Rep. Val Demings (D) -- [Wikipedia](https://en.wikipedia.org/wiki/FL-10)
 ### Committees
 Val Demings is not on any of our key committees 
 
@@ -325,7 +325,7 @@ ECKERD COLLEGE, INC. 2012      107255
 ---
 <a name="FL-11"></a>
 [Back to top](#top)
-## FL-11 -- Rep. Daniel Webster (R)
+## FL-11 -- Rep. Daniel Webster (R) -- [Wikipedia](https://en.wikipedia.org/wiki/FL-11)
 ### Committees
 Daniel Webster is the #17 Republican on the House Committee on Science, Space, and Technology 
 
@@ -348,7 +348,7 @@ UNIVERSITY OF SOUTH FLORIDA 2012     1863871
 ---
 <a name="FL-12"></a>
 [Back to top](#top)
-## FL-12 -- Rep. Gus Bilirakis (R)
+## FL-12 -- Rep. Gus Bilirakis (R) -- [Wikipedia](https://en.wikipedia.org/wiki/FL-12)
 ### Committees
 Gus Bilirakis is the #18 Republican on the House Committee on Energy and Commerce 
 
@@ -367,7 +367,7 @@ This district received no NSF MPS grants from 2012-2016
 ---
 <a name="FL-13"></a>
 [Back to top](#top)
-## FL-13 -- Rep. Charlie Crist (D)
+## FL-13 -- Rep. Charlie Crist (D) -- [Wikipedia](https://en.wikipedia.org/wiki/FL-13)
 ### Committees
 Charlie Crist is the #16 Democrat on the House Committee on Science, Space, and Technology 
 
@@ -386,7 +386,7 @@ This district received no NSF MPS grants from 2012-2016
 ---
 <a name="FL-14"></a>
 [Back to top](#top)
-## FL-14 -- Rep. Kathy Castor (D)
+## FL-14 -- Rep. Kathy Castor (D) -- [Wikipedia](https://en.wikipedia.org/wiki/FL-14)
 ### Committees
 Kathy Castor is the #11 Democrat on the House Committee on Energy and Commerce 
 
@@ -408,7 +408,7 @@ UNIVERSITY OF SOUTH FLORIDA 2017           0
 ---
 <a name="FL-15"></a>
 [Back to top](#top)
-## FL-15 -- Rep. Dennis Ross (R)
+## FL-15 -- Rep. Dennis Ross (R) -- [Wikipedia](https://en.wikipedia.org/wiki/FL-15)
 ### Committees
 Dennis Ross is not on any of our key committees 
 
@@ -438,7 +438,7 @@ UNIVERSITY OF SOUTH FLORIDA           2013      885488
 ---
 <a name="FL-16"></a>
 [Back to top](#top)
-## FL-16 -- Rep. Vern Buchanan (R)
+## FL-16 -- Rep. Vern Buchanan (R) -- [Wikipedia](https://en.wikipedia.org/wiki/FL-16)
 ### Committees
 Vern Buchanan is not on any of our key committees 
 
@@ -463,7 +463,7 @@ NEW COLLEGE OF FLORIDA 2014      244153
 ---
 <a name="FL-17"></a>
 [Back to top](#top)
-## FL-17 -- Rep. Thomas Rooney (R)
+## FL-17 -- Rep. Thomas Rooney (R) -- [Wikipedia](https://en.wikipedia.org/wiki/FL-17)
 ### Committees
 Thomas Rooney is the #16 Republican on the House Committee on Appropriations 
 
@@ -486,7 +486,7 @@ UNIVERSITY OF MIAMI 2012      288741
 ---
 <a name="FL-18"></a>
 [Back to top](#top)
-## FL-18 -- Rep. Brian Mast (R)
+## FL-18 -- Rep. Brian Mast (R) -- [Wikipedia](https://en.wikipedia.org/wiki/FL-18)
 ### Committees
 Brian Mast is not on any of our key committees 
 
@@ -508,7 +508,7 @@ UNIVERSITY OF MIAMI 2012     1502164
 ---
 <a name="FL-19"></a>
 [Back to top](#top)
-## FL-19 -- Rep. Francis Rooney (R)
+## FL-19 -- Rep. Francis Rooney (R) -- [Wikipedia](https://en.wikipedia.org/wiki/FL-19)
 ### Committees
 Francis Rooney is not on any of our key committees 
 
@@ -531,7 +531,7 @@ Florida Gulf Coast Univ     2015       30000
 ---
 <a name="FL-20"></a>
 [Back to top](#top)
-## FL-20 -- Rep. Alcee Hastings (D)
+## FL-20 -- Rep. Alcee Hastings (D) -- [Wikipedia](https://en.wikipedia.org/wiki/FL-20)
 ### Committees
 Alcee Hastings is not on any of our key committees 
 
@@ -553,7 +553,7 @@ UNIVERSITY OF MIAMI 2012       40000
 ---
 <a name="FL-21"></a>
 [Back to top](#top)
-## FL-21 -- Rep. Lois Frankel (D)
+## FL-21 -- Rep. Lois Frankel (D) -- [Wikipedia](https://en.wikipedia.org/wiki/FL-21)
 ### Committees
 Lois Frankel is not on any of our key committees 
 
@@ -578,7 +578,7 @@ FLORIDA INTERNATIONAL UNIVERSITY 2012     1558838
 ---
 <a name="FL-22"></a>
 [Back to top](#top)
-## FL-22 -- Rep. Theodore Deutch (D)
+## FL-22 -- Rep. Theodore Deutch (D) -- [Wikipedia](https://en.wikipedia.org/wiki/FL-22)
 ### Committees
 Theodore Deutch is not on any of our key committees 
 
@@ -606,7 +606,7 @@ Florida Atlantic Univ       2015       45565
 ---
 <a name="FL-23"></a>
 [Back to top](#top)
-## FL-23 -- Rep. Debbie Wasserman Schultz (D)
+## FL-23 -- Rep. Debbie Wasserman Schultz (D) -- [Wikipedia](https://en.wikipedia.org/wiki/FL-23)
 ### Committees
 Debbie Wasserman Schultz is the #13 Democrat on the House Committee on Appropriations 
 
@@ -627,7 +627,7 @@ This district received no NSF MPS grants from 2012-2016
 ---
 <a name="FL-24"></a>
 [Back to top](#top)
-## FL-24 -- Rep. Frederica Wilson (D)
+## FL-24 -- Rep. Frederica Wilson (D) -- [Wikipedia](https://en.wikipedia.org/wiki/FL-24)
 ### Committees
 Frederica Wilson is the #6 Democrat on the House Subcommittee on Early Childhood, Elementary, and Secondary Education 
 
@@ -652,7 +652,7 @@ UNIVERSITY OF MIAMI           2013      139999
 ---
 <a name="FL-25"></a>
 [Back to top](#top)
-## FL-25 -- Rep. Mario Diaz-Balart (R)
+## FL-25 -- Rep. Mario Diaz-Balart (R) -- [Wikipedia](https://en.wikipedia.org/wiki/FL-25)
 ### Committees
 Mario Diaz-Balart is the #10 Republican on the House Committee on Appropriations 
 
@@ -675,7 +675,7 @@ FLORIDA INTERNATIONAL UNIVERSITY 2013      103086
 ---
 <a name="FL-26"></a>
 [Back to top](#top)
-## FL-26 -- Rep. Carlos Curbelo (R)
+## FL-26 -- Rep. Carlos Curbelo (R) -- [Wikipedia](https://en.wikipedia.org/wiki/FL-26)
 ### Committees
 Carlos Curbelo is not on any of our key committees 
 
@@ -703,7 +703,7 @@ Florida International Univ       2015      126125
 ---
 <a name="FL-27"></a>
 [Back to top](#top)
-## FL-27 -- Rep. Ileana Ros-Lehtinen (R)
+## FL-27 -- Rep. Ileana Ros-Lehtinen (R) -- [Wikipedia](https://en.wikipedia.org/wiki/FL-27)
 ### Committees
 Ileana Ros-Lehtinen is not on any of our key committees 
 

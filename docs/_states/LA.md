@@ -58,7 +58,7 @@ and  5  other institutions.
 ---
 <a name="LA-01"></a>
 [Back to top](#top)
-## LA-01 -- Rep. Steve Scalise (R)
+## LA-01 -- Rep. Steve Scalise (R) -- [Wikipedia](https://en.wikipedia.org/wiki/LA-01)
 ### Committees
 Steve Scalise is the #8 Republican on the House Committee on Energy and Commerce 
 
@@ -84,7 +84,7 @@ Tulane University                                  2015      158784
 ---
 <a name="LA-02"></a>
 [Back to top](#top)
-## LA-02 -- Rep. Cedric Richmond (D)
+## LA-02 -- Rep. Cedric Richmond (D) -- [Wikipedia](https://en.wikipedia.org/wiki/LA-02)
 ### Committees
 Cedric Richmond is not on any of our key committees 
 
@@ -114,7 +114,7 @@ XAVIER UNIVERSITY OF LOUISIANA                2012       14338
 ---
 <a name="LA-03"></a>
 [Back to top](#top)
-## LA-03 -- Rep. Clay Higgins (R)
+## LA-03 -- Rep. Clay Higgins (R) -- [Wikipedia](https://en.wikipedia.org/wiki/LA-03)
 ### Committees
 Clay Higgins is the #22 Republican on the House Committee on Science, Space, and Technology 
 
@@ -139,7 +139,7 @@ Univ of Louisiana at Lafay           2015       40610
 ---
 <a name="LA-04"></a>
 [Back to top](#top)
-## LA-04 -- Rep. Mike Johnson (R)
+## LA-04 -- Rep. Mike Johnson (R) -- [Wikipedia](https://en.wikipedia.org/wiki/LA-04)
 ### Committees
 Mike Johnson is not on any of our key committees 
 
@@ -161,7 +161,7 @@ LOUISIANA STATE UNIVERSITY SYSTEM 2013      197800
 ---
 <a name="LA-05"></a>
 [Back to top](#top)
-## LA-05 -- Rep. Ralph Abraham (R)
+## LA-05 -- Rep. Ralph Abraham (R) -- [Wikipedia](https://en.wikipedia.org/wiki/LA-05)
 ### Committees
 Ralph Abraham is the #15 Republican on the House Committee on Science, Space, and Technology 
 
@@ -192,7 +192,7 @@ LOUISIANA TECH UNIVERSITY 2012      124821
 ---
 <a name="LA-06"></a>
 [Back to top](#top)
-## LA-06 -- Rep. Garret Graves (R)
+## LA-06 -- Rep. Garret Graves (R) -- [Wikipedia](https://en.wikipedia.org/wiki/LA-06)
 ### Committees
 Garret Graves is not on any of our key committees 
 

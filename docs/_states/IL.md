@@ -80,7 +80,7 @@ and  23  other institutions.
 ---
 <a name="IL-01"></a>
 [Back to top](#top)
-## IL-01 -- Rep. Bobby Rush (D)
+## IL-01 -- Rep. Bobby Rush (D) -- [Wikipedia](https://en.wikipedia.org/wiki/IL-01)
 ### Committees
 Bobby Rush is the #2 Democrat on the House Committee on Energy and Commerce 
 
@@ -129,7 +129,7 @@ University of Chicago            2015     7007875
 ---
 <a name="IL-02"></a>
 [Back to top](#top)
-## IL-02 -- Rep. Robin Kelly (D)
+## IL-02 -- Rep. Robin Kelly (D) -- [Wikipedia](https://en.wikipedia.org/wiki/IL-02)
 ### Committees
 Robin Kelly is not on any of our key committees 
 
@@ -151,7 +151,7 @@ CHICAGO STATE UNIVERSITY 2012       67136
 ---
 <a name="IL-03"></a>
 [Back to top](#top)
-## IL-03 -- Rep. Daniel Lipinski (D)
+## IL-03 -- Rep. Daniel Lipinski (D) -- [Wikipedia](https://en.wikipedia.org/wiki/IL-03)
 ### Committees
 Daniel Lipinski is the #3 Democrat on the House Committee on Science, Space, and Technology 
 
@@ -239,7 +239,7 @@ PURDUE UNIVERSITY         2013       47921
 ---
 <a name="IL-04"></a>
 [Back to top](#top)
-## IL-04 -- Rep. Luis Gutiérrez (D)
+## IL-04 -- Rep. Luis Gutiérrez (D) -- [Wikipedia](https://en.wikipedia.org/wiki/IL-04)
 ### Committees
 Luis Gutiérrez is not on any of our key committees 
 
@@ -258,7 +258,7 @@ This district received no NSF MPS grants from 2012-2016
 ---
 <a name="IL-05"></a>
 [Back to top](#top)
-## IL-05 -- Rep. Mike Quigley (D)
+## IL-05 -- Rep. Mike Quigley (D) -- [Wikipedia](https://en.wikipedia.org/wiki/IL-05)
 ### Committees
 Mike Quigley is the #16 Democrat on the House Committee on Appropriations 
 
@@ -280,7 +280,7 @@ NORTHEASTERN ILLINOIS UNIVERSITY 2012      247659
 ---
 <a name="IL-06"></a>
 [Back to top](#top)
-## IL-06 -- Rep. Peter Roskam (R)
+## IL-06 -- Rep. Peter Roskam (R) -- [Wikipedia](https://en.wikipedia.org/wiki/IL-06)
 ### Committees
 Peter Roskam is not on any of our key committees 
 
@@ -303,7 +303,7 @@ TRUSTEES OF WHEATON COLLEGE, THE 2012       84000
 ---
 <a name="IL-07"></a>
 [Back to top](#top)
-## IL-07 -- Rep. Danny Davis (D)
+## IL-07 -- Rep. Danny Davis (D) -- [Wikipedia](https://en.wikipedia.org/wiki/IL-07)
 ### Committees
 Danny Davis is not on any of our key committees 
 
@@ -360,7 +360,7 @@ UNIVERSITY OF ILLINOIS        2012     3184940
 ---
 <a name="IL-08"></a>
 [Back to top](#top)
-## IL-08 -- Rep. Raja Krishnamoorthi (D)
+## IL-08 -- Rep. Raja Krishnamoorthi (D) -- [Wikipedia](https://en.wikipedia.org/wiki/IL-08)
 ### Committees
 Raja Krishnamoorthi is the #5 Democrat on the House Subcommittee on Higher Education and Workforce Development 
 
@@ -382,7 +382,7 @@ This district received no NSF MPS grants from 2012-2016
 ---
 <a name="IL-09"></a>
 [Back to top](#top)
-## IL-09 -- Rep. Janice Schakowsky (D)
+## IL-09 -- Rep. Janice Schakowsky (D) -- [Wikipedia](https://en.wikipedia.org/wiki/IL-09)
 ### Committees
 Janice Schakowsky is the #8 Democrat on the House Committee on Energy and Commerce 
 
@@ -419,7 +419,7 @@ UNIVERSITY OF CHICAGO, THE   2014       49753
 ---
 <a name="IL-10"></a>
 [Back to top](#top)
-## IL-10 -- Rep. Bradley Schneider (D)
+## IL-10 -- Rep. Bradley Schneider (D) -- [Wikipedia](https://en.wikipedia.org/wiki/IL-10)
 ### Committees
 Bradley Schneider is not on any of our key committees 
 
@@ -443,7 +443,7 @@ This district received no NSF MPS grants from 2012-2016
 ---
 <a name="IL-11"></a>
 [Back to top](#top)
-## IL-11 -- Rep. Bill Foster (D)
+## IL-11 -- Rep. Bill Foster (D) -- [Wikipedia](https://en.wikipedia.org/wiki/IL-11)
 ### Committees
 Bill Foster is the #13 Democrat on the House Committee on Science, Space, and Technology 
 
@@ -475,7 +475,7 @@ ILLINOIS WESLEYAN UNIVERSITY 2012      248800
 ---
 <a name="IL-12"></a>
 [Back to top](#top)
-## IL-12 -- Rep. Mike Bost (R)
+## IL-12 -- Rep. Mike Bost (R) -- [Wikipedia](https://en.wikipedia.org/wiki/IL-12)
 ### Committees
 Mike Bost is not on any of our key committees 
 
@@ -500,7 +500,7 @@ Southern Ill U Carbondale    2015      110000
 ---
 <a name="IL-13"></a>
 [Back to top](#top)
-## IL-13 -- Rep. Rodney Davis (R)
+## IL-13 -- Rep. Rodney Davis (R) -- [Wikipedia](https://en.wikipedia.org/wiki/IL-13)
 ### Committees
 Rodney Davis is not on any of our key committees 
 
@@ -591,7 +591,7 @@ UNIVERSITY OF ILLINOIS       2013    21304348
 ---
 <a name="IL-14"></a>
 [Back to top](#top)
-## IL-14 -- Rep. Randy Hultgren (R)
+## IL-14 -- Rep. Randy Hultgren (R) -- [Wikipedia](https://en.wikipedia.org/wiki/IL-14)
 ### Committees
 Randy Hultgren is the #5 Republican on the House Committee on Science, Space, and Technology 
 
@@ -635,7 +635,7 @@ RUTGERS, THE STATE UNIVERSITY OF NEW JERSEY   2013      380000
 ---
 <a name="IL-15"></a>
 [Back to top](#top)
-## IL-15 -- Rep. John Shimkus (R)
+## IL-15 -- Rep. John Shimkus (R) -- [Wikipedia](https://en.wikipedia.org/wiki/IL-15)
 ### Committees
 John Shimkus is the #4 Republican on the House Committee on Energy and Commerce 
 
@@ -665,7 +665,7 @@ UNIVERSITY OF ILLINOIS       2012    19813761
 ---
 <a name="IL-16"></a>
 [Back to top](#top)
-## IL-16 -- Rep. Adam Kinzinger (R)
+## IL-16 -- Rep. Adam Kinzinger (R) -- [Wikipedia](https://en.wikipedia.org/wiki/IL-16)
 ### Committees
 Adam Kinzinger is the #16 Republican on the House Committee on Energy and Commerce 
 
@@ -693,7 +693,7 @@ NORTHERN ILLINOIS UNIVERSITY INC 2013      954961
 ---
 <a name="IL-17"></a>
 [Back to top](#top)
-## IL-17 -- Rep. Cheri Bustos (D)
+## IL-17 -- Rep. Cheri Bustos (D) -- [Wikipedia](https://en.wikipedia.org/wiki/IL-17)
 ### Committees
 Cheri Bustos is not on any of our key committees 
 
@@ -717,7 +717,7 @@ KNOX COLLEGE      2014      292100
 ---
 <a name="IL-18"></a>
 [Back to top](#top)
-## IL-18 -- Rep. Darin LaHood (R)
+## IL-18 -- Rep. Darin LaHood (R) -- [Wikipedia](https://en.wikipedia.org/wiki/IL-18)
 ### Committees
 Darin LaHood is the #16 Republican on the House Committee on Science, Space, and Technology 
 

@@ -57,7 +57,7 @@ and  11  other institutions.
 ---
 <a name="GA-01"></a>
 [Back to top](#top)
-## GA-01 -- Rep. Buddy Carter (R)
+## GA-01 -- Rep. Buddy Carter (R) -- [Wikipedia](https://en.wikipedia.org/wiki/GA-01)
 ### Committees
 Buddy Carter is the #31 Republican on the House Committee on Energy and Commerce 
 
@@ -79,7 +79,7 @@ BUCKNELL UNIVERSITY 2013      105000
 ---
 <a name="GA-02"></a>
 [Back to top](#top)
-## GA-02 -- Rep. Sanford Bishop (D)
+## GA-02 -- Rep. Sanford Bishop (D) -- [Wikipedia](https://en.wikipedia.org/wiki/GA-02)
 ### Committees
 Sanford Bishop is the #8 Democrat on the House Committee on Appropriations 
 
@@ -98,7 +98,7 @@ This district received no NSF MPS grants from 2012-2016
 ---
 <a name="GA-03"></a>
 [Back to top](#top)
-## GA-03 -- Rep. A. Ferguson (R)
+## GA-03 -- Rep. A. Ferguson (R) -- [Wikipedia](https://en.wikipedia.org/wiki/GA-03)
 ### Committees
 A. Ferguson is not on any of our key committees 
 
@@ -121,7 +121,7 @@ UNIVERSITY OF WEST GEORGIA 2013      229699
 ---
 <a name="GA-04"></a>
 [Back to top](#top)
-## GA-04 -- Rep. Henry Johnson (D)
+## GA-04 -- Rep. Henry Johnson (D) -- [Wikipedia](https://en.wikipedia.org/wiki/GA-04)
 ### Committees
 Henry Johnson is not on any of our key committees 
 
@@ -147,7 +147,7 @@ Emory University          2015      108000
 ---
 <a name="GA-05"></a>
 [Back to top](#top)
-## GA-05 -- Rep. John Lewis (D)
+## GA-05 -- Rep. John Lewis (D) -- [Wikipedia](https://en.wikipedia.org/wiki/GA-05)
 ### Committees
 John Lewis is not on any of our key committees 
 
@@ -205,7 +205,7 @@ This district received no NSF MPS grants from 2012-2016
 ---
 <a name="GA-07"></a>
 [Back to top](#top)
-## GA-07 -- Rep. Rob Woodall (R)
+## GA-07 -- Rep. Rob Woodall (R) -- [Wikipedia](https://en.wikipedia.org/wiki/GA-07)
 ### Committees
 Rob Woodall is not on any of our key committees 
 
@@ -231,7 +231,7 @@ This district received no NSF MPS grants from 2012-2016
 ---
 <a name="GA-08"></a>
 [Back to top](#top)
-## GA-08 -- Rep. Austin Scott (R)
+## GA-08 -- Rep. Austin Scott (R) -- [Wikipedia](https://en.wikipedia.org/wiki/GA-08)
 ### Committees
 Austin Scott is not on any of our key committees 
 
@@ -250,7 +250,7 @@ This district received no NSF MPS grants from 2012-2016
 ---
 <a name="GA-09"></a>
 [Back to top](#top)
-## GA-09 -- Rep. Doug Collins (R)
+## GA-09 -- Rep. Doug Collins (R) -- [Wikipedia](https://en.wikipedia.org/wiki/GA-09)
 ### Committees
 Doug Collins is not on any of our key committees 
 
@@ -272,7 +272,7 @@ UNIVERSITY OF NORTH GEORGIA 2014       86469
 ---
 <a name="GA-10"></a>
 [Back to top](#top)
-## GA-10 -- Rep. Jody Hice (R)
+## GA-10 -- Rep. Jody Hice (R) -- [Wikipedia](https://en.wikipedia.org/wiki/GA-10)
 ### Committees
 Jody Hice is not on any of our key committees 
 
@@ -297,7 +297,7 @@ UNIVERSITY OF GEORGIA RESEARCH FOUNDATION, IN 2012     2411143
 ---
 <a name="GA-11"></a>
 [Back to top](#top)
-## GA-11 -- Rep. Barry Loudermilk (R)
+## GA-11 -- Rep. Barry Loudermilk (R) -- [Wikipedia](https://en.wikipedia.org/wiki/GA-11)
 ### Committees
 Barry Loudermilk is the #14 Republican on the House Committee on Science, Space, and Technology 
 
@@ -323,7 +323,7 @@ KENNESAW STATE UNIVERSITY  RESEARCH AND SERVI 2012      120000
 ---
 <a name="GA-12"></a>
 [Back to top](#top)
-## GA-12 -- Rep. Rick Allen (R)
+## GA-12 -- Rep. Rick Allen (R) -- [Wikipedia](https://en.wikipedia.org/wiki/GA-12)
 ### Committees
 Rick Allen is the #8 Republican on the House Subcommittee on Higher Education and Workforce Development 
 
@@ -350,7 +350,7 @@ SAVANNAH STATE UNIVERSITY                     2012      547229
 ---
 <a name="GA-13"></a>
 [Back to top](#top)
-## GA-13 -- Rep. David Scott (D)
+## GA-13 -- Rep. David Scott (D) -- [Wikipedia](https://en.wikipedia.org/wiki/GA-13)
 ### Committees
 David Scott is not on any of our key committees 
 
@@ -369,7 +369,7 @@ This district received no NSF MPS grants from 2012-2016
 ---
 <a name="GA-14"></a>
 [Back to top](#top)
-## GA-14 -- Rep. Tom Graves (R)
+## GA-14 -- Rep. Tom Graves (R) -- [Wikipedia](https://en.wikipedia.org/wiki/GA-14)
 ### Committees
 Tom Graves is the #12 Republican on the House Committee on Appropriations 
 

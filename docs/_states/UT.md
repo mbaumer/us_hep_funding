@@ -60,7 +60,7 @@ Brigham Young University       24000
 ---
 <a name="UT-01"></a>
 [Back to top](#top)
-## UT-01 -- Rep. Rob Bishop (R)
+## UT-01 -- Rep. Rob Bishop (R) -- [Wikipedia](https://en.wikipedia.org/wiki/UT-01)
 ### Committees
 Rob Bishop is not on any of our key committees 
 
@@ -88,7 +88,7 @@ Utah State University 2015       92014
 ---
 <a name="UT-02"></a>
 [Back to top](#top)
-## UT-02 -- Rep. Chris Stewart (R)
+## UT-02 -- Rep. Chris Stewart (R) -- [Wikipedia](https://en.wikipedia.org/wiki/UT-02)
 ### Committees
 Chris Stewart is the #24 Republican on the House Committee on Appropriations 
 
@@ -122,7 +122,7 @@ University of Utah      2015     1094035
 ---
 <a name="UT-03"></a>
 [Back to top](#top)
-## UT-03 -- Rep. Jason Chaffetz (R)
+## UT-03 -- Rep. Jason Chaffetz (R) -- [Wikipedia](https://en.wikipedia.org/wiki/UT-03)
 ### Committees
 Jason Chaffetz is not on any of our key committees 
 
@@ -147,7 +147,7 @@ Brigham Young University 2015       24000
 ---
 <a name="UT-04"></a>
 [Back to top](#top)
-## UT-04 -- Rep. Mia Love (R)
+## UT-04 -- Rep. Mia Love (R) -- [Wikipedia](https://en.wikipedia.org/wiki/UT-04)
 ### Committees
 Mia Love is not on any of our key committees 
 

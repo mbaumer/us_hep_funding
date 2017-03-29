@@ -66,7 +66,7 @@ and  11  other institutions.
 ---
 <a name="MI-01"></a>
 [Back to top](#top)
-## MI-01 -- Rep. Jack Bergman (R)
+## MI-01 -- Rep. Jack Bergman (R) -- [Wikipedia](https://en.wikipedia.org/wiki/MI-01)
 ### Committees
 Jack Bergman is not on any of our key committees 
 
@@ -96,7 +96,7 @@ MICHIGAN TECHNOLOGICAL UNIVERSITY 2012     2561774
 ---
 <a name="MI-02"></a>
 [Back to top](#top)
-## MI-02 -- Rep. Bill Huizenga (R)
+## MI-02 -- Rep. Bill Huizenga (R) -- [Wikipedia](https://en.wikipedia.org/wiki/MI-02)
 ### Committees
 Bill Huizenga is not on any of our key committees 
 
@@ -126,7 +126,7 @@ MICHIGAN STATE UNIVERSITY     2014       26049
 ---
 <a name="MI-03"></a>
 [Back to top](#top)
-## MI-03 -- Rep. Justin Amash (R)
+## MI-03 -- Rep. Justin Amash (R) -- [Wikipedia](https://en.wikipedia.org/wiki/MI-03)
 ### Committees
 Justin Amash is not on any of our key committees 
 
@@ -153,7 +153,7 @@ CALVIN COLLEGE 2012      301720
 ---
 <a name="MI-04"></a>
 [Back to top](#top)
-## MI-04 -- Rep. John Moolenaar (R)
+## MI-04 -- Rep. John Moolenaar (R) -- [Wikipedia](https://en.wikipedia.org/wiki/MI-04)
 ### Committees
 John Moolenaar is the #29 Republican on the House Committee on Appropriations 
 
@@ -178,7 +178,7 @@ Central Michigan U                2015      -11340
 ---
 <a name="MI-05"></a>
 [Back to top](#top)
-## MI-05 -- Rep. Daniel Kildee (D)
+## MI-05 -- Rep. Daniel Kildee (D) -- [Wikipedia](https://en.wikipedia.org/wiki/MI-05)
 ### Committees
 Daniel Kildee is not on any of our key committees 
 
@@ -201,7 +201,7 @@ KETTERING UNIVERSITY 2013       77808
 ---
 <a name="MI-06"></a>
 [Back to top](#top)
-## MI-06 -- Rep. Fred Upton (R)
+## MI-06 -- Rep. Fred Upton (R) -- [Wikipedia](https://en.wikipedia.org/wiki/MI-06)
 ### Committees
 Fred Upton is the #3 Republican on the House Committee on Energy and Commerce 
 
@@ -231,7 +231,7 @@ WESTERN MICHIGAN UNIVERSITY 2012      225000
 ---
 <a name="MI-07"></a>
 [Back to top](#top)
-## MI-07 -- Rep. Tim Walberg (R)
+## MI-07 -- Rep. Tim Walberg (R) -- [Wikipedia](https://en.wikipedia.org/wiki/MI-07)
 ### Committees
 Tim Walberg is the #28 Republican on the House Committee on Energy and Commerce 
 
@@ -250,7 +250,7 @@ This district received no NSF MPS grants from 2012-2016
 ---
 <a name="MI-08"></a>
 [Back to top](#top)
-## MI-08 -- Rep. Mike Bishop (R)
+## MI-08 -- Rep. Mike Bishop (R) -- [Wikipedia](https://en.wikipedia.org/wiki/MI-08)
 ### Committees
 Mike Bishop is not on any of our key committees 
 
@@ -288,7 +288,7 @@ OAKLAND UNIVERSITY        2013       44999
 ---
 <a name="MI-09"></a>
 [Back to top](#top)
-## MI-09 -- Rep. Sander Levin (D)
+## MI-09 -- Rep. Sander Levin (D) -- [Wikipedia](https://en.wikipedia.org/wiki/MI-09)
 ### Committees
 Sander Levin is not on any of our key committees 
 
@@ -310,7 +310,7 @@ OAKLAND UNIVERSITY 2012      799261
 ---
 <a name="MI-10"></a>
 [Back to top](#top)
-## MI-10 -- Rep. Paul Mitchell (R)
+## MI-10 -- Rep. Paul Mitchell (R) -- [Wikipedia](https://en.wikipedia.org/wiki/MI-10)
 ### Committees
 Paul Mitchell is the #10 Republican on the House Subcommittee on Higher Education and Workforce Development 
 
@@ -333,7 +333,7 @@ CENTRAL MICHIGAN UNIVERSITY (INC) 2012       46584
 ---
 <a name="MI-11"></a>
 [Back to top](#top)
-## MI-11 -- Rep. Dave Trott (R)
+## MI-11 -- Rep. Dave Trott (R) -- [Wikipedia](https://en.wikipedia.org/wiki/MI-11)
 ### Committees
 Dave Trott is not on any of our key committees 
 
@@ -356,7 +356,7 @@ OAKLAND UNIVERSITY 2013      233994
 ---
 <a name="MI-12"></a>
 [Back to top](#top)
-## MI-12 -- Rep. Debbie Dingell (D)
+## MI-12 -- Rep. Debbie Dingell (D) -- [Wikipedia](https://en.wikipedia.org/wiki/MI-12)
 ### Committees
 Debbie Dingell is the #24 Democrat on the House Committee on Energy and Commerce 
 
@@ -387,7 +387,7 @@ University of Michigan                2015      923461
 ---
 <a name="MI-13"></a>
 [Back to top](#top)
-## MI-13 -- Rep. John Conyers (D)
+## MI-13 -- Rep. John Conyers (D) -- [Wikipedia](https://en.wikipedia.org/wiki/MI-13)
 ### Committees
 John Conyers is not on any of our key committees 
 
@@ -419,7 +419,7 @@ Wayne State University       2015        5000
 ---
 <a name="MI-14"></a>
 [Back to top](#top)
-## MI-14 -- Rep. Brenda Lawrence (D)
+## MI-14 -- Rep. Brenda Lawrence (D) -- [Wikipedia](https://en.wikipedia.org/wiki/MI-14)
 ### Committees
 Brenda Lawrence is not on any of our key committees 
 

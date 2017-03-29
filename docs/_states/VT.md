@@ -44,7 +44,7 @@ UNIVERSITY OF VERMONT & STATE AGRICULTURAL CO 2012     1629793
 ---
 <a name="VT-00"></a>
 [Back to top](#top)
-## VT-00 -- Rep. Peter Welch (D)
+## VT-00 -- Rep. Peter Welch (D) -- [Wikipedia](https://en.wikipedia.org/wiki/VT-00)
 ### Committees
 Peter Welch is the #14 Democrat on the House Committee on Energy and Commerce 
 

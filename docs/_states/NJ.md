@@ -74,7 +74,7 @@ and  5  other institutions.
 ---
 <a name="NJ-01"></a>
 [Back to top](#top)
-## NJ-01 -- Rep. Donald Norcross (D)
+## NJ-01 -- Rep. Donald Norcross (D) -- [Wikipedia](https://en.wikipedia.org/wiki/NJ-01)
 ### Committees
 Donald Norcross is not on any of our key committees 
 
@@ -99,7 +99,7 @@ RUTGERS, THE STATE UNIVERSITY OF NEW JERSEY 2012      161500
 ---
 <a name="NJ-02"></a>
 [Back to top](#top)
-## NJ-02 -- Rep. Frank LoBiondo (R)
+## NJ-02 -- Rep. Frank LoBiondo (R) -- [Wikipedia](https://en.wikipedia.org/wiki/NJ-02)
 ### Committees
 Frank LoBiondo is not on any of our key committees 
 
@@ -121,7 +121,7 @@ This district received no NSF MPS grants from 2012-2016
 ---
 <a name="NJ-03"></a>
 [Back to top](#top)
-## NJ-03 -- Rep. Tom MacArthur (R)
+## NJ-03 -- Rep. Tom MacArthur (R) -- [Wikipedia](https://en.wikipedia.org/wiki/NJ-03)
 ### Committees
 Tom MacArthur is not on any of our key committees 
 
@@ -140,7 +140,7 @@ This district received no NSF MPS grants from 2012-2016
 ---
 <a name="NJ-04"></a>
 [Back to top](#top)
-## NJ-04 -- Rep. Christopher Smith (R)
+## NJ-04 -- Rep. Christopher Smith (R) -- [Wikipedia](https://en.wikipedia.org/wiki/NJ-04)
 ### Committees
 Christopher Smith is not on any of our key committees 
 
@@ -159,7 +159,7 @@ This district received no NSF MPS grants from 2012-2016
 ---
 <a name="NJ-05"></a>
 [Back to top](#top)
-## NJ-05 -- Rep. Josh Gottheimer (D)
+## NJ-05 -- Rep. Josh Gottheimer (D) -- [Wikipedia](https://en.wikipedia.org/wiki/NJ-05)
 ### Committees
 Josh Gottheimer is not on any of our key committees 
 
@@ -178,7 +178,7 @@ This district received no NSF MPS grants from 2012-2016
 ---
 <a name="NJ-06"></a>
 [Back to top](#top)
-## NJ-06 -- Rep. Frank Pallone (D)
+## NJ-06 -- Rep. Frank Pallone (D) -- [Wikipedia](https://en.wikipedia.org/wiki/NJ-06)
 ### Committees
 Frank Pallone is the #1 Democrat on the House Committee on Energy and Commerce 
 
@@ -218,7 +218,7 @@ Rutgers Univ New Brunswick                  2015       31891
 ---
 <a name="NJ-07"></a>
 [Back to top](#top)
-## NJ-07 -- Rep. Leonard Lance (R)
+## NJ-07 -- Rep. Leonard Lance (R) -- [Wikipedia](https://en.wikipedia.org/wiki/NJ-07)
 ### Committees
 Leonard Lance is the #12 Republican on the House Committee on Energy and Commerce 
 
@@ -237,7 +237,7 @@ This district received no NSF MPS grants from 2012-2016
 ---
 <a name="NJ-08"></a>
 [Back to top](#top)
-## NJ-08 -- Rep. Albio Sires (D)
+## NJ-08 -- Rep. Albio Sires (D) -- [Wikipedia](https://en.wikipedia.org/wiki/NJ-08)
 ### Committees
 Albio Sires is not on any of our key committees 
 
@@ -267,7 +267,7 @@ STEVENS INSTITUTE OF TECHNOLOGY (INC)         2013      990567
 ---
 <a name="NJ-09"></a>
 [Back to top](#top)
-## NJ-09 -- Rep. Bill Pascrell (D)
+## NJ-09 -- Rep. Bill Pascrell (D) -- [Wikipedia](https://en.wikipedia.org/wiki/NJ-09)
 ### Committees
 Bill Pascrell is not on any of our key committees 
 
@@ -290,7 +290,7 @@ This district received no NSF MPS grants from 2012-2016
 ---
 <a name="NJ-10"></a>
 [Back to top](#top)
-## NJ-10 -- Rep. Donald Payne (D)
+## NJ-10 -- Rep. Donald Payne (D) -- [Wikipedia](https://en.wikipedia.org/wiki/NJ-10)
 ### Committees
 Donald Payne is not on any of our key committees 
 
@@ -319,7 +319,7 @@ SETON HALL UNIVERSITY                       2014        7000
 ---
 <a name="NJ-11"></a>
 [Back to top](#top)
-## NJ-11 -- Rep. Rodney Frelinghuysen (R)
+## NJ-11 -- Rep. Rodney Frelinghuysen (R) -- [Wikipedia](https://en.wikipedia.org/wiki/NJ-11)
 ### Committees
 Rodney Frelinghuysen is the #1 Republican on the House Committee on Appropriations 
 
@@ -343,7 +343,7 @@ MONTCLAIR STATE UNIVERSITY STUDENT GOVERNMENT A... 2017       57453
 ---
 <a name="NJ-12"></a>
 [Back to top](#top)
-## NJ-12 -- Rep. Bonnie Watson Coleman (D)
+## NJ-12 -- Rep. Bonnie Watson Coleman (D) -- [Wikipedia](https://en.wikipedia.org/wiki/NJ-12)
 ### Committees
 Bonnie Watson Coleman is not on any of our key committees 
 

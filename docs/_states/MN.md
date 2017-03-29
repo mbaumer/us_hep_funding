@@ -62,7 +62,7 @@ and  7  other institutions.
 ---
 <a name="MN-01"></a>
 [Back to top](#top)
-## MN-01 -- Rep. Timothy Walz (D)
+## MN-01 -- Rep. Timothy Walz (D) -- [Wikipedia](https://en.wikipedia.org/wiki/MN-01)
 ### Committees
 Timothy Walz is not on any of our key committees 
 
@@ -87,7 +87,7 @@ SAINT MARY'S UNIVERSITY OF MINNESOTA 2012       14000
 ---
 <a name="MN-02"></a>
 [Back to top](#top)
-## MN-02 -- Rep. Jason Lewis (R)
+## MN-02 -- Rep. Jason Lewis (R) -- [Wikipedia](https://en.wikipedia.org/wiki/MN-02)
 ### Committees
 Jason Lewis is the #9 Republican on the House Subcommittee on Higher Education and Workforce Development 
 
@@ -114,7 +114,7 @@ Saint Olaf College 2015       19390
 ---
 <a name="MN-03"></a>
 [Back to top](#top)
-## MN-03 -- Rep. Erik Paulsen (R)
+## MN-03 -- Rep. Erik Paulsen (R) -- [Wikipedia](https://en.wikipedia.org/wiki/MN-03)
 ### Committees
 Erik Paulsen is not on any of our key committees 
 
@@ -140,7 +140,7 @@ NORTH HENNEPIN COMMUNITY COLLEGE 2012       72183
 ---
 <a name="MN-04"></a>
 [Back to top](#top)
-## MN-04 -- Rep. Betty McCollum (D)
+## MN-04 -- Rep. Betty McCollum (D) -- [Wikipedia](https://en.wikipedia.org/wiki/MN-04)
 ### Committees
 Betty McCollum is the #10 Democrat on the House Committee on Appropriations 
 
@@ -172,7 +172,7 @@ UNIVERSITY OF ST. THOMAS               2012      192173
 ---
 <a name="MN-05"></a>
 [Back to top](#top)
-## MN-05 -- Rep. Keith Ellison (D)
+## MN-05 -- Rep. Keith Ellison (D) -- [Wikipedia](https://en.wikipedia.org/wiki/MN-05)
 ### Committees
 Keith Ellison is not on any of our key committees 
 
@@ -206,7 +206,7 @@ U of Minnesota-Twin Cities             2015     6224204
 ---
 <a name="MN-06"></a>
 [Back to top](#top)
-## MN-06 -- Rep. Tom Emmer (R)
+## MN-06 -- Rep. Tom Emmer (R) -- [Wikipedia](https://en.wikipedia.org/wiki/MN-06)
 ### Committees
 Tom Emmer is not on any of our key committees 
 
@@ -232,7 +232,7 @@ ST CLOUD STATE UNIVERSITY 2012      129809
 ---
 <a name="MN-07"></a>
 [Back to top](#top)
-## MN-07 -- Rep. Collin Peterson (D)
+## MN-07 -- Rep. Collin Peterson (D) -- [Wikipedia](https://en.wikipedia.org/wiki/MN-07)
 ### Committees
 Collin Peterson is not on any of our key committees 
 
@@ -251,7 +251,7 @@ This district received no NSF MPS grants from 2012-2016
 ---
 <a name="MN-08"></a>
 [Back to top](#top)
-## MN-08 -- Rep. Richard Nolan (D)
+## MN-08 -- Rep. Richard Nolan (D) -- [Wikipedia](https://en.wikipedia.org/wiki/MN-08)
 ### Committees
 Richard Nolan is not on any of our key committees 
 

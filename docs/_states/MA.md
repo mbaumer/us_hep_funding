@@ -72,7 +72,7 @@ and  29  other institutions.
 ---
 <a name="MA-01"></a>
 [Back to top](#top)
-## MA-01 -- Rep. Richard Neal (D)
+## MA-01 -- Rep. Richard Neal (D) -- [Wikipedia](https://en.wikipedia.org/wiki/MA-01)
 ### Committees
 Richard Neal is not on any of our key committees 
 
@@ -105,7 +105,7 @@ WESTERN NEW ENGLAND UNIVERSITY           2014       49920
 ---
 <a name="MA-02"></a>
 [Back to top](#top)
-## MA-02 -- Rep. James McGovern (D)
+## MA-02 -- Rep. James McGovern (D) -- [Wikipedia](https://en.wikipedia.org/wiki/MA-02)
 ### Committees
 James McGovern is not on any of our key committees 
 
@@ -146,7 +146,7 @@ WORCESTER POLYTECHNIC INSTITUTE               2013     1042254
 ---
 <a name="MA-03"></a>
 [Back to top](#top)
-## MA-03 -- Rep. Niki Tsongas (D)
+## MA-03 -- Rep. Niki Tsongas (D) -- [Wikipedia](https://en.wikipedia.org/wiki/MA-03)
 ### Committees
 Niki Tsongas is not on any of our key committees 
 
@@ -175,7 +175,7 @@ WORCESTER POLYTECHNIC INSTITUTE       2012     1108913
 ---
 <a name="MA-04"></a>
 [Back to top](#top)
-## MA-04 -- Rep. Joseph Kennedy (D)
+## MA-04 -- Rep. Joseph Kennedy (D) -- [Wikipedia](https://en.wikipedia.org/wiki/MA-04)
 ### Committees
 Joseph Kennedy is the #20 Democrat on the House Committee on Energy and Commerce 
 
@@ -207,7 +207,7 @@ WHEATON COLLEGE                               2012       94114
 ---
 <a name="MA-05"></a>
 [Back to top](#top)
-## MA-05 -- Rep. Katherine Clark (D)
+## MA-05 -- Rep. Katherine Clark (D) -- [Wikipedia](https://en.wikipedia.org/wiki/MA-05)
 ### Committees
 Katherine Clark is the #21 Democrat on the House Committee on Appropriations 
 
@@ -260,7 +260,7 @@ UNIVERSITY OF MASSACHUSETTS             2012     1494999
 ---
 <a name="MA-06"></a>
 [Back to top](#top)
-## MA-06 -- Rep. Seth Moulton (D)
+## MA-06 -- Rep. Seth Moulton (D) -- [Wikipedia](https://en.wikipedia.org/wiki/MA-06)
 ### Committees
 Seth Moulton is not on any of our key committees 
 
@@ -290,7 +290,7 @@ AERODYNE RESEARCH, INC. 2013       60000
 ---
 <a name="MA-07"></a>
 [Back to top](#top)
-## MA-07 -- Rep. Michael Capuano (D)
+## MA-07 -- Rep. Michael Capuano (D) -- [Wikipedia](https://en.wikipedia.org/wiki/MA-07)
 ### Committees
 Michael Capuano is not on any of our key committees 
 
@@ -361,7 +361,7 @@ Tufts University                              2015       93000
 ---
 <a name="MA-08"></a>
 [Back to top](#top)
-## MA-08 -- Rep. Stephen Lynch (D)
+## MA-08 -- Rep. Stephen Lynch (D) -- [Wikipedia](https://en.wikipedia.org/wiki/MA-08)
 ### Committees
 Stephen Lynch is not on any of our key committees 
 
@@ -416,7 +416,7 @@ UNIVERSITY OF MASSACHUSETTS             2013      646359
 ---
 <a name="MA-09"></a>
 [Back to top](#top)
-## MA-09 -- Rep. William Keating (D)
+## MA-09 -- Rep. William Keating (D) -- [Wikipedia](https://en.wikipedia.org/wiki/MA-09)
 ### Committees
 William Keating is not on any of our key committees 
 

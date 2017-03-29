@@ -62,7 +62,7 @@ U of Oklahoma                                  29958
 ---
 <a name="OK-01"></a>
 [Back to top](#top)
-## OK-01 -- Rep. Jim Bridenstine (R)
+## OK-01 -- Rep. Jim Bridenstine (R) -- [Wikipedia](https://en.wikipedia.org/wiki/OK-01)
 ### Committees
 Jim Bridenstine is the #8 Republican on the House Committee on Science, Space, and Technology 
 
@@ -95,7 +95,7 @@ University of Tulsa       2015       90000
 ---
 <a name="OK-02"></a>
 [Back to top](#top)
-## OK-02 -- Rep. Markwayne Mullin (R)
+## OK-02 -- Rep. Markwayne Mullin (R) -- [Wikipedia](https://en.wikipedia.org/wiki/OK-02)
 ### Committees
 Markwayne Mullin is the #24 Republican on the House Committee on Energy and Commerce 
 
@@ -117,7 +117,7 @@ ROGERS STATE UNIVERSITY FOUNDATION, INC. 2013       74591
 ---
 <a name="OK-03"></a>
 [Back to top](#top)
-## OK-03 -- Rep. Frank Lucas (R)
+## OK-03 -- Rep. Frank Lucas (R) -- [Wikipedia](https://en.wikipedia.org/wiki/OK-03)
 ### Committees
 Frank Lucas is the #3 Republican on the House Committee on Science, Space, and Technology 
 
@@ -150,7 +150,7 @@ Oklahoma State University 2015       40907
 ---
 <a name="OK-04"></a>
 [Back to top](#top)
-## OK-04 -- Rep. Tom Cole (R)
+## OK-04 -- Rep. Tom Cole (R) -- [Wikipedia](https://en.wikipedia.org/wiki/OK-04)
 ### Committees
 Tom Cole is the #9 Republican on the House Committee on Appropriations 
 
@@ -183,7 +183,7 @@ UNIVERSITY OF OKLAHOMA 2012     2657662
 ---
 <a name="OK-05"></a>
 [Back to top](#top)
-## OK-05 -- Rep. Steve Russell (R)
+## OK-05 -- Rep. Steve Russell (R) -- [Wikipedia](https://en.wikipedia.org/wiki/OK-05)
 ### Committees
 Steve Russell is not on any of our key committees 
 

@@ -75,7 +75,7 @@ and  37  other institutions.
 ---
 <a name="PA-01"></a>
 [Back to top](#top)
-## PA-01 -- Rep. Robert Brady (D)
+## PA-01 -- Rep. Robert Brady (D) -- [Wikipedia](https://en.wikipedia.org/wiki/PA-01)
 ### Committees
 Robert Brady is not on any of our key committees 
 
@@ -110,7 +110,7 @@ TEMPLE UNIVERSITY-OF THE COMMONWEALTH SYSTEM 2012     3649694
 ---
 <a name="PA-02"></a>
 [Back to top](#top)
-## PA-02 -- Rep. Dwight Evans (D)
+## PA-02 -- Rep. Dwight Evans (D) -- [Wikipedia](https://en.wikipedia.org/wiki/PA-02)
 ### Committees
 Dwight Evans is not on any of our key committees 
 
@@ -184,7 +184,7 @@ UNIVERSITY OF THE SCIENCES IN PHILADELPHIA         2012      328000
 ---
 <a name="PA-03"></a>
 [Back to top](#top)
-## PA-03 -- Rep. Mike Kelly (R)
+## PA-03 -- Rep. Mike Kelly (R) -- [Wikipedia](https://en.wikipedia.org/wiki/PA-03)
 ### Committees
 Mike Kelly is not on any of our key committees 
 
@@ -206,7 +206,7 @@ ALLEGHENY COLLEGE 2013      231312
 ---
 <a name="PA-04"></a>
 [Back to top](#top)
-## PA-04 -- Rep. Scott Perry (R)
+## PA-04 -- Rep. Scott Perry (R) -- [Wikipedia](https://en.wikipedia.org/wiki/PA-04)
 ### Committees
 Scott Perry is not on any of our key committees 
 
@@ -231,7 +231,7 @@ MINERALS, METALS AND MATERIALS SOCIETY, INC. 2012       25000
 ---
 <a name="PA-05"></a>
 [Back to top](#top)
-## PA-05 -- Rep. Glenn Thompson (R)
+## PA-05 -- Rep. Glenn Thompson (R) -- [Wikipedia](https://en.wikipedia.org/wiki/PA-05)
 ### Committees
 Glenn Thompson is the #4 Republican on the House Subcommittee on Early Childhood, Elementary, and Secondary Education 
 
@@ -267,7 +267,7 @@ PENNSYLVANIA STATE UNIVERSITY, THE 2012    16202310
 ---
 <a name="PA-06"></a>
 [Back to top](#top)
-## PA-06 -- Rep. Ryan Costello (R)
+## PA-06 -- Rep. Ryan Costello (R) -- [Wikipedia](https://en.wikipedia.org/wiki/PA-06)
 ### Committees
 Ryan Costello is the #30 Republican on the House Committee on Energy and Commerce 
 
@@ -297,7 +297,7 @@ WEST CHESTER UNIVERSITY OF PENNSYLVANIA 2013       50000
 ---
 <a name="PA-07"></a>
 [Back to top](#top)
-## PA-07 -- Rep. Patrick Meehan (R)
+## PA-07 -- Rep. Patrick Meehan (R) -- [Wikipedia](https://en.wikipedia.org/wiki/PA-07)
 ### Committees
 Patrick Meehan is not on any of our key committees 
 
@@ -323,7 +323,7 @@ VILLANOVA UNIVERSITY IN THE STATE OF PENNSYLV 2012      320543
 ---
 <a name="PA-08"></a>
 [Back to top](#top)
-## PA-08 -- Rep. Brian Fitzpatrick (R)
+## PA-08 -- Rep. Brian Fitzpatrick (R) -- [Wikipedia](https://en.wikipedia.org/wiki/PA-08)
 ### Committees
 Brian Fitzpatrick is not on any of our key committees 
 
@@ -342,7 +342,7 @@ This district received no NSF MPS grants from 2012-2016
 ---
 <a name="PA-09"></a>
 [Back to top](#top)
-## PA-09 -- Rep. Bill Shuster (R)
+## PA-09 -- Rep. Bill Shuster (R) -- [Wikipedia](https://en.wikipedia.org/wiki/PA-09)
 ### Committees
 Bill Shuster is not on any of our key committees 
 
@@ -364,7 +364,7 @@ PENNSYLVANIA STATE UNIVERSITY, THE 2014      320000
 ---
 <a name="PA-10"></a>
 [Back to top](#top)
-## PA-10 -- Rep. Tom Marino (R)
+## PA-10 -- Rep. Tom Marino (R) -- [Wikipedia](https://en.wikipedia.org/wiki/PA-10)
 ### Committees
 Tom Marino is not on any of our key committees 
 
@@ -390,7 +390,7 @@ SUSQUEHANNA UNIVERSITY 2012       50000
 ---
 <a name="PA-11"></a>
 [Back to top](#top)
-## PA-11 -- Rep. Lou Barletta (R)
+## PA-11 -- Rep. Lou Barletta (R) -- [Wikipedia](https://en.wikipedia.org/wiki/PA-11)
 ### Committees
 Lou Barletta is the #3 Republican on the House Subcommittee on Higher Education and Workforce Development 
 
@@ -412,7 +412,7 @@ DICKINSON COLLEGE 2014      217583
 ---
 <a name="PA-12"></a>
 [Back to top](#top)
-## PA-12 -- Rep. Keith Rothfus (R)
+## PA-12 -- Rep. Keith Rothfus (R) -- [Wikipedia](https://en.wikipedia.org/wiki/PA-12)
 ### Committees
 Keith Rothfus is not on any of our key committees 
 
@@ -437,7 +437,7 @@ PENNSYLVANIA STATE UNIVERSITY, THE 2013      300000
 ---
 <a name="PA-13"></a>
 [Back to top](#top)
-## PA-13 -- Rep. Brendan Boyle (D)
+## PA-13 -- Rep. Brendan Boyle (D) -- [Wikipedia](https://en.wikipedia.org/wiki/PA-13)
 ### Committees
 Brendan Boyle is not on any of our key committees 
 
@@ -456,7 +456,7 @@ This district received no NSF MPS grants from 2012-2016
 ---
 <a name="PA-14"></a>
 [Back to top](#top)
-## PA-14 -- Rep. Michael Doyle (D)
+## PA-14 -- Rep. Michael Doyle (D) -- [Wikipedia](https://en.wikipedia.org/wiki/PA-14)
 ### Committees
 Michael Doyle is the #7 Democrat on the House Committee on Energy and Commerce 
 
@@ -509,7 +509,7 @@ UNIVERSITY OF PITTSBURGH THE           2012     5421363
 ---
 <a name="PA-15"></a>
 [Back to top](#top)
-## PA-15 -- Rep. Charles Dent (R)
+## PA-15 -- Rep. Charles Dent (R) -- [Wikipedia](https://en.wikipedia.org/wiki/PA-15)
 ### Committees
 Charles Dent is the #11 Republican on the House Committee on Appropriations 
 
@@ -541,7 +541,7 @@ MUHLENBERG COLLEGE                  2013       54000
 ---
 <a name="PA-16"></a>
 [Back to top](#top)
-## PA-16 -- Rep. Lloyd Smucker (R)
+## PA-16 -- Rep. Lloyd Smucker (R) -- [Wikipedia](https://en.wikipedia.org/wiki/PA-16)
 ### Committees
 Lloyd Smucker is the #12 Republican on the House Subcommittee on Higher Education and Workforce Development 
 
@@ -567,7 +567,7 @@ WEST CHESTER UNIVERSITY OF PENNSYLVANIA 2012      104000
 ---
 <a name="PA-17"></a>
 [Back to top](#top)
-## PA-17 -- Rep. Matthew Cartwright (D)
+## PA-17 -- Rep. Matthew Cartwright (D) -- [Wikipedia](https://en.wikipedia.org/wiki/PA-17)
 ### Committees
 Matthew Cartwright is the #18 Democrat on the House Committee on Appropriations 
 
@@ -593,7 +593,7 @@ LEBANON VALLEY COLLEGE 2012      137000
 ---
 <a name="PA-18"></a>
 [Back to top](#top)
-## PA-18 -- Rep. Tim Murphy (R)
+## PA-18 -- Rep. Tim Murphy (R) -- [Wikipedia](https://en.wikipedia.org/wiki/PA-18)
 ### Committees
 Tim Murphy is the #5 Republican on the House Committee on Energy and Commerce 
 

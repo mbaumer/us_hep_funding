@@ -65,7 +65,7 @@ and  1  other institutions.
 ---
 <a name="MO-01"></a>
 [Back to top](#top)
-## MO-01 -- Rep. Wm. Clay (D)
+## MO-01 -- Rep. Wm. Clay (D) -- [Wikipedia](https://en.wikipedia.org/wiki/MO-01)
 ### Committees
 Wm. Clay is not on any of our key committees 
 
@@ -105,7 +105,7 @@ Washington University          2015      -29584
 ---
 <a name="MO-02"></a>
 [Back to top](#top)
-## MO-02 -- Rep. Ann Wagner (R)
+## MO-02 -- Rep. Ann Wagner (R) -- [Wikipedia](https://en.wikipedia.org/wiki/MO-02)
 ### Committees
 Ann Wagner is not on any of our key committees 
 
@@ -129,7 +129,7 @@ This district received no NSF MPS grants from 2012-2016
 ---
 <a name="MO-03"></a>
 [Back to top](#top)
-## MO-03 -- Rep. Blaine Luetkemeyer (R)
+## MO-03 -- Rep. Blaine Luetkemeyer (R) -- [Wikipedia](https://en.wikipedia.org/wiki/MO-03)
 ### Committees
 Blaine Luetkemeyer is not on any of our key committees 
 
@@ -155,7 +155,7 @@ WASHINGTON UNIVERSITY, THE 2012     3390066
 ---
 <a name="MO-04"></a>
 [Back to top](#top)
-## MO-04 -- Rep. Vicky Hartzler (R)
+## MO-04 -- Rep. Vicky Hartzler (R) -- [Wikipedia](https://en.wikipedia.org/wiki/MO-04)
 ### Committees
 Vicky Hartzler is not on any of our key committees 
 
@@ -179,7 +179,7 @@ UNIVERSITY OF MISSOURI SYSTEM 2013     1443419
 ---
 <a name="MO-05"></a>
 [Back to top](#top)
-## MO-05 -- Rep. Emanuel Cleaver (D)
+## MO-05 -- Rep. Emanuel Cleaver (D) -- [Wikipedia](https://en.wikipedia.org/wiki/MO-05)
 ### Committees
 Emanuel Cleaver is not on any of our key committees 
 
@@ -205,7 +205,7 @@ UNIVERSITY OF MISSOURI SYSTEM 2012      278533
 ---
 <a name="MO-06"></a>
 [Back to top](#top)
-## MO-06 -- Rep. Sam Graves (R)
+## MO-06 -- Rep. Sam Graves (R) -- [Wikipedia](https://en.wikipedia.org/wiki/MO-06)
 ### Committees
 Sam Graves is not on any of our key committees 
 
@@ -231,7 +231,7 @@ TRUMAN STATE UNIVERSITY             2013        3312
 ---
 <a name="MO-07"></a>
 [Back to top](#top)
-## MO-07 -- Rep. Billy Long (R)
+## MO-07 -- Rep. Billy Long (R) -- [Wikipedia](https://en.wikipedia.org/wiki/MO-07)
 ### Committees
 Billy Long is the #20 Republican on the House Committee on Energy and Commerce 
 
@@ -255,7 +255,7 @@ MISSOURI STATE UNIVERSITY 2012      246414
 ---
 <a name="MO-08"></a>
 [Back to top](#top)
-## MO-08 -- Rep. Jason Smith (R)
+## MO-08 -- Rep. Jason Smith (R) -- [Wikipedia](https://en.wikipedia.org/wiki/MO-08)
 ### Committees
 Jason Smith is not on any of our key committees 
 

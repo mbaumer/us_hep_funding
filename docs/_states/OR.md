@@ -57,7 +57,7 @@ and  4  other institutions.
 ---
 <a name="OR-01"></a>
 [Back to top](#top)
-## OR-01 -- Rep. Suzanne Bonamici (D)
+## OR-01 -- Rep. Suzanne Bonamici (D) -- [Wikipedia](https://en.wikipedia.org/wiki/OR-01)
 ### Committees
 Suzanne Bonamici is the #4 Democrat on the House Committee on Science, Space, and Technology 
 
@@ -84,7 +84,7 @@ PORTLAND STATE UNIVERSITY 2012      201086
 ---
 <a name="OR-02"></a>
 [Back to top](#top)
-## OR-02 -- Rep. Greg Walden (R)
+## OR-02 -- Rep. Greg Walden (R) -- [Wikipedia](https://en.wikipedia.org/wiki/OR-02)
 ### Committees
 Greg Walden is the #1 Republican on the House Committee on Energy and Commerce 
 
@@ -103,7 +103,7 @@ This district received no NSF MPS grants from 2012-2016
 ---
 <a name="OR-03"></a>
 [Back to top](#top)
-## OR-03 -- Rep. Earl Blumenauer (D)
+## OR-03 -- Rep. Earl Blumenauer (D) -- [Wikipedia](https://en.wikipedia.org/wiki/OR-03)
 ### Committees
 Earl Blumenauer is not on any of our key committees 
 
@@ -129,7 +129,7 @@ REED INSTITUTE, THE                2014      172146
 ---
 <a name="OR-04"></a>
 [Back to top](#top)
-## OR-04 -- Rep. Peter DeFazio (D)
+## OR-04 -- Rep. Peter DeFazio (D) -- [Wikipedia](https://en.wikipedia.org/wiki/OR-04)
 ### Committees
 Peter DeFazio is not on any of our key committees 
 
@@ -166,7 +166,7 @@ UNIVERSITY OF OREGON    2012     3533958
 ---
 <a name="OR-05"></a>
 [Back to top](#top)
-## OR-05 -- Rep. Kurt Schrader (D)
+## OR-05 -- Rep. Kurt Schrader (D) -- [Wikipedia](https://en.wikipedia.org/wiki/OR-05)
 ### Committees
 Kurt Schrader is the #19 Democrat on the House Committee on Energy and Commerce 
 
