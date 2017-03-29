@@ -125,6 +125,8 @@ WESTERN WASHINGTON UNIVERSITY 2012      951730
 ### Committees
 Jaime Herrera Beutler is the #18 Republican on the House Committee on Appropriations 
 
+Jaime Herrera Beutler is the #6 Republican on the House Appropriations Subcommittee on Energy and Water Development 
+
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -143,6 +145,8 @@ This district received no NSF MPS grants from 2012-2016
 ## WA-04 -- Rep. Dan Newhouse (R)
 ### Committees
 Dan Newhouse is the #28 Republican on the House Committee on Appropriations 
+
+Dan Newhouse is the #8 Republican on the House Appropriations Subcommittee on Energy and Water Development 
 
 ### HEP Grants
 ```
@@ -211,6 +215,8 @@ WHITMAN COLLEGE, INC                  2012       80000
 ## WA-06 -- Rep. Derek Kilmer (D)
 ### Committees
 Derek Kilmer is the #17 Democrat on the House Committee on Appropriations 
+
+Derek Kilmer is the #2 Democrat on the House Appropriations Subcommittee on Commerce, Justice, and Science 
 
 ### HEP Grants
 ```

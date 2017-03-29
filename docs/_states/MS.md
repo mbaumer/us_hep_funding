@@ -139,6 +139,8 @@ Mississippi State Univ       2015      139255
 ### Committees
 Steven Palazzo is the #27 Republican on the House Committee on Appropriations 
 
+Steven Palazzo is the #6 Republican on the House Appropriations Subcommittee on Commerce, Justice, and Science 
+
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016

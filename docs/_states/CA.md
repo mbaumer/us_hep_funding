@@ -965,6 +965,8 @@ UNIVERSITY OF CALIFORNIA, LOS ANGELES 2012    16848326
 ### Committees
 Pete Aguilar is the #22 Democrat on the House Committee on Appropriations 
 
+Pete Aguilar is the #4 Democrat on the House Appropriations Subcommittee on Energy and Water Development 
+
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -1250,6 +1252,8 @@ UNIVERSITY ENTERPRISES CORPORATION AT CSUSB        2012      739209
 ## CA-42 -- Rep. Ken Calvert (R)
 ### Committees
 Ken Calvert is the #8 Republican on the House Committee on Appropriations 
+
+Ken Calvert is the #2 Republican on the House Appropriations Subcommittee on Energy and Water Development 
 
 ### HEP Grants
 ```

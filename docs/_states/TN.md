@@ -213,6 +213,8 @@ UNIVERSITY OF TENNESSEE  2012     2934992
 ### Committees
 Charles Fleischmann is the #17 Republican on the House Committee on Appropriations 
 
+Charles Fleischmann is the #3 Republican on the House Appropriations Subcommittee on Energy and Water Development 
+
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016

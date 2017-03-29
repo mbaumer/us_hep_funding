@@ -571,6 +571,8 @@ WEST CHESTER UNIVERSITY OF PENNSYLVANIA 2012      104000
 ### Committees
 Matthew Cartwright is the #18 Democrat on the House Committee on Appropriations 
 
+Matthew Cartwright is the #3 Democrat on the House Appropriations Subcommittee on Commerce, Justice, and Science 
+
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016

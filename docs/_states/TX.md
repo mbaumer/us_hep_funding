@@ -225,6 +225,8 @@ UNIVERSITY OF TEXAS AT ARLINGTON 2012      758042
 ### Committees
 John Culberson is the #6 Republican on the House Committee on Appropriations 
 
+John Culberson is the #1 Republican on the House Appropriations Subcommittee on Commerce, Justice, and Science 
+
 ### HEP Grants
 ```
 In the past 5 years, this district has received: $1,326,000.00 in SC HEP grants.
@@ -361,6 +363,8 @@ This district received no NSF MPS grants from 2012-2016
 ## TX-12 -- Rep. Kay Granger (R)
 ### Committees
 Kay Granger is the #4 Republican on the House Committee on Appropriations 
+
+Kay Granger is the #5 Republican on the House Appropriations Subcommittee on Energy and Water Development 
 
 ### HEP Grants
 ```
@@ -879,6 +883,8 @@ UT Southwestern                               2015      405000
 ## TX-31 -- Rep. John Carter (R)
 ### Committees
 John Carter is the #7 Republican on the House Committee on Appropriations 
+
+John Carter is the #4 Republican on the House Appropriations Subcommittee on Commerce, Justice, and Science 
 
 ### HEP Grants
 ```

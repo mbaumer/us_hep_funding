@@ -96,6 +96,8 @@ This district received no NSF MPS grants from 2012-2016
 ### Committees
 Evan Jenkins is the #26 Republican on the House Committee on Appropriations 
 
+Evan Jenkins is the #7 Republican on the House Appropriations Subcommittee on Commerce, Justice, and Science 
+
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016

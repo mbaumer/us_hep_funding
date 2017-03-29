@@ -179,6 +179,8 @@ NORTHERN KENTUCKY UNIVERSITY RESEARCH FOUNDAT 2012      220251
 ### Committees
 Harold Rogers is the #2 Republican on the House Committee on Appropriations 
 
+Harold Rogers is the #2 Republican on the House Appropriations Subcommittee on Commerce, Justice, and Science 
+
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016

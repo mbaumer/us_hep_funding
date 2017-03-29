@@ -67,6 +67,8 @@ UNIVERSITY OF IDAHO                2012      536655
 ### Committees
 Michael Simpson is the #5 Republican on the House Committee on Appropriations 
 
+Michael Simpson is the #1 Republican on the House Appropriations Subcommittee on Energy and Water Development 
+
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016

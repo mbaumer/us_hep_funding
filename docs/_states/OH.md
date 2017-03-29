@@ -287,6 +287,8 @@ MIAMI UNIVERSITY                              2012     1151315
 ### Committees
 Marcy Kaptur is the #2 Democrat on the House Committee on Appropriations 
 
+Marcy Kaptur is the #1 Democrat on the House Appropriations Subcommittee on Energy and Water Development 
+
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -437,6 +439,8 @@ YOUNGSTOWN STATE UNIVERSITY 2013      494500
 ## OH-14 -- Rep. David Joyce (R)
 ### Committees
 David Joyce is the #19 Republican on the House Committee on Appropriations 
+
+David Joyce is the #7 Republican on the House Appropriations Subcommittee on Energy and Water Development 
 
 ### HEP Grants
 ```

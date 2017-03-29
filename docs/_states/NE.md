@@ -44,6 +44,8 @@ CREIGHTON UNIVERSITY                                92500
 ### Committees
 Jeff Fortenberry is the #15 Republican on the House Committee on Appropriations 
 
+Jeff Fortenberry is the #4 Republican on the House Appropriations Subcommittee on Energy and Water Development 
+
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016

@@ -95,6 +95,8 @@ UNIVERSITY OF SOUTH ALABAMA 2013      -43912
 ### Committees
 Martha Roby is the #22 Republican on the House Committee on Appropriations 
 
+Martha Roby is the #5 Republican on the House Appropriations Subcommittee on Commerce, Justice, and Science 
+
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -138,6 +140,8 @@ TUSKEGEE UNIVERSITY 2014      862300
 ## AL-04 -- Rep. Robert Aderholt (R)
 ### Committees
 Robert Aderholt is the #3 Republican on the House Committee on Appropriations 
+
+Robert Aderholt is the #3 Republican on the House Appropriations Subcommittee on Commerce, Justice, and Science 
 
 ### HEP Grants
 ```

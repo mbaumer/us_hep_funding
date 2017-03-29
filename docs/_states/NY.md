@@ -243,6 +243,8 @@ RESEARCH FOUNDATION OF THE CITY UNIVERSITY OF 2013      648769
 ### Committees
 Grace Meng is the #19 Democrat on the House Committee on Appropriations 
 
+Grace Meng is the #4 Democrat on the House Appropriations Subcommittee on Commerce, Justice, and Science 
+
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -536,6 +538,10 @@ YESHIVA UNIVERSITY                            2012      123000
 ## NY-15 -- Rep. José Serrano (D)
 ### Committees
 José Serrano is the #4 Democrat on the House Committee on Appropriations 
+
+José Serrano is the #5 Democrat on the House Appropriations Subcommittee on Energy and Water Development 
+
+José Serrano is the #1 Democrat on the House Appropriations Subcommittee on Commerce, Justice, and Science 
 
 ### HEP Grants
 ```

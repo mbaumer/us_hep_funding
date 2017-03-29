@@ -64,6 +64,8 @@ and  5  other institutions.
 ### Committees
 Peter Visclosky is the #3 Democrat on the House Committee on Appropriations 
 
+Peter Visclosky is the #2 Democrat on the House Appropriations Subcommittee on Energy and Water Development 
+
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
