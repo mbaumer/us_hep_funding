@@ -10,6 +10,13 @@ permalink : /states/KS/
 [KS-01](#KS-01)  [KS-02](#KS-02)  [KS-03](#KS-03)  [KS-04](#KS-04)  
 
 # KS -- Sen. Jerry Moran (R) and  Sen. Pat Roberts (R)
+## Committees
+Jerry Moran is the #6 Republican on the Senate Committee on Commerce, Science, and Transportation 
+
+Jerry Moran is the #9 Republican on the Senate Committee on Appropriations 
+
+Pat Roberts is not on any of our key committees 
+
 ## HEP Grants
 ```
 In the past 5 years, this state has received:
@@ -51,6 +58,9 @@ Kansas State University                             16660
 <a name="KS-01"></a>
 [Back to top](#top)
 ## KS-01 -- Rep. Roger Marshall (R)
+### Committees
+Roger Marshall is the #20 Republican on the House Committee on Science, Space, and Technology 
+
 ### HEP Grants
 ```
 In the past 5 years, this district has received: $2,146,000.00 in SC HEP grants.
@@ -77,6 +87,9 @@ Kansas State University 2015       16660
 <a name="KS-02"></a>
 [Back to top](#top)
 ## KS-02 -- Rep. Lynn Jenkins (R)
+### Committees
+Lynn Jenkins is not on any of our key committees 
+
 ### HEP Grants
 ```
 In the past 5 years, this district has received: $2,140,500.00 in SC HEP grants.
@@ -108,6 +121,9 @@ UNIVERSITY OF KANSAS CENTER FOR RESEARCH, INC 2013     3227973
 <a name="KS-03"></a>
 [Back to top](#top)
 ## KS-03 -- Rep. Kevin Yoder (R)
+### Committees
+Kevin Yoder is the #13 Republican on the House Committee on Appropriations 
+
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016

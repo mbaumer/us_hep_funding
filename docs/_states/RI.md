@@ -10,6 +10,13 @@ permalink : /states/RI/
 [RI-01](#RI-01)  [RI-02](#RI-02)  
 
 # RI -- Sen. John Reed (D) and  Sen. Sheldon Whitehouse (D)
+## Committees
+John Reed is the #4 Democrat on the Senate Appropriations Subcommittee on Commerce, Justice, Science, and Related Agencies 
+
+John Reed is the #5 Democrat on the Senate Committee on Appropriations 
+
+Sheldon Whitehouse is not on any of our key committees 
+
 ## HEP Grants
 ```
 In the past 5 years, this state has received:
@@ -51,6 +58,9 @@ and  1  other institutions.
 <a name="RI-01"></a>
 [Back to top](#top)
 ## RI-01 -- Rep. David Cicilline (D)
+### Committees
+David Cicilline is not on any of our key committees 
+
 ### HEP Grants
 ```
 In the past 5 years, this district has received: $9,880,000.00 in SC HEP grants.
@@ -86,6 +96,9 @@ TRUSTEES OF THE UNIVERSITY OF PENNSYLVANIA    2012      230000
 <a name="RI-02"></a>
 [Back to top](#top)
 ## RI-02 -- Rep. James Langevin (D)
+### Committees
+James Langevin is not on any of our key committees 
+
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016

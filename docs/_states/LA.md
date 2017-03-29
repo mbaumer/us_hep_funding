@@ -10,6 +10,15 @@ permalink : /states/LA/
 [LA-01](#LA-01)  [LA-02](#LA-02)  [LA-03](#LA-03)  [LA-04](#LA-04)  [LA-05](#LA-05)  [LA-06](#LA-06)  
 
 # LA -- Sen. Bill Cassidy (R) and  Sen. John Kennedy (R)
+## Committees
+Bill Cassidy is the #10 Republican on the Senate Committee on Energy and Natural Resources 
+
+John Kennedy is the #9 Republican on the Senate Appropriations Subcommittee on Commerce, Justice, Science, and Related Agencies 
+
+John Kennedy is the #15 Republican on the Senate Committee on Appropriations 
+
+John Kennedy is the #9 Republican on the Senate Appropriations Subcommittee on Energy and Water Development 
+
 ## HEP Grants
 ```
 In the past 5 years, this state has received:
@@ -50,6 +59,9 @@ and  5  other institutions.
 <a name="LA-01"></a>
 [Back to top](#top)
 ## LA-01 -- Rep. Steve Scalise (R)
+### Committees
+Steve Scalise is the #8 Republican on the House Committee on Energy and Commerce 
+
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -73,6 +85,9 @@ Tulane University                                  2015      158784
 <a name="LA-02"></a>
 [Back to top](#top)
 ## LA-02 -- Rep. Cedric Richmond (D)
+### Committees
+Cedric Richmond is not on any of our key committees 
+
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -100,6 +115,9 @@ XAVIER UNIVERSITY OF LOUISIANA                2012       14338
 <a name="LA-03"></a>
 [Back to top](#top)
 ## LA-03 -- Rep. Clay Higgins (R)
+### Committees
+Clay Higgins is the #22 Republican on the House Committee on Science, Space, and Technology 
+
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -122,6 +140,9 @@ Univ of Louisiana at Lafay           2015       40610
 <a name="LA-04"></a>
 [Back to top](#top)
 ## LA-04 -- Rep. Mike Johnson (R)
+### Committees
+Mike Johnson is not on any of our key committees 
+
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -141,6 +162,9 @@ LOUISIANA STATE UNIVERSITY SYSTEM 2013      197800
 <a name="LA-05"></a>
 [Back to top](#top)
 ## LA-05 -- Rep. Ralph Abraham (R)
+### Committees
+Ralph Abraham is the #15 Republican on the House Committee on Science, Space, and Technology 
+
 ### HEP Grants
 ```
 In the past 5 years, this district has received: $969,000.00 in SC HEP grants.
@@ -169,6 +193,9 @@ LOUISIANA TECH UNIVERSITY 2012      124821
 <a name="LA-06"></a>
 [Back to top](#top)
 ## LA-06 -- Rep. Garret Graves (R)
+### Committees
+Garret Graves is not on any of our key committees 
+
 ### HEP Grants
 ```
 In the past 5 years, this district has received: $2,144,000.00 in SC HEP grants.

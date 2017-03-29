@@ -10,6 +10,11 @@ permalink : /states/AZ/
 [AZ-01](#AZ-01)  [AZ-02](#AZ-02)  [AZ-03](#AZ-03)  [AZ-04](#AZ-04)  [AZ-05](#AZ-05)  [AZ-06](#AZ-06)  [AZ-07](#AZ-07)  [AZ-08](#AZ-08)  [AZ-09](#AZ-09)  
 
 # AZ -- Sen. Jeff Flake (R) and  Sen. John McCain (R)
+## Committees
+Jeff Flake is the #5 Republican on the Senate Committee on Energy and Natural Resources 
+
+John McCain is not on any of our key committees 
+
 ## HEP Grants
 ```
 In the past 5 years, this state has received:
@@ -55,6 +60,9 @@ and  2  other institutions.
 <a name="AZ-01"></a>
 [Back to top](#top)
 ## AZ-01 -- Rep. Tom O'Halleran (D)
+### Committees
+Tom O'Halleran is not on any of our key committees 
+
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -80,6 +88,9 @@ Northern Arizona Univ       2015      216161
 <a name="AZ-02"></a>
 [Back to top](#top)
 ## AZ-02 -- Rep. Martha McSally (R)
+### Committees
+Martha McSally is not on any of our key committees 
+
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -103,6 +114,9 @@ UNIVERSITY OF ARIZONA                              2013     1280434
 <a name="AZ-03"></a>
 [Back to top](#top)
 ## AZ-03 -- Rep. Raúl Grijalva (D)
+### Committees
+Raúl Grijalva is the #2 Democrat on the House Subcommittee on Early Childhood, Elementary, and Secondary Education 
+
 ### HEP Grants
 ```
 In the past 5 years, this district has received: $4,243,000.00 in SC HEP grants.
@@ -131,6 +145,9 @@ UNIVERSITY OF ARIZONA                              2013    14225860
 <a name="AZ-04"></a>
 [Back to top](#top)
 ## AZ-04 -- Rep. Paul Gosar (R)
+### Committees
+Paul Gosar is not on any of our key committees 
+
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -151,6 +168,9 @@ EMBRY-RIDDLE AERONAUTICAL UNIVERSITY INC 2013      126027
 <a name="AZ-05"></a>
 [Back to top](#top)
 ## AZ-05 -- Rep. Andy Biggs (R)
+### Committees
+Andy Biggs is the #19 Republican on the House Committee on Science, Space, and Technology 
+
 ### HEP Grants
 ```
 In the past 5 years, this district has received: $706,000.00 in SC HEP grants.
@@ -175,6 +195,9 @@ ARIZONA STATE UNIVERSITY 2012     7172658
 <a name="AZ-06"></a>
 [Back to top](#top)
 ## AZ-06 -- Rep. David Schweikert (R)
+### Committees
+David Schweikert is not on any of our key committees 
+
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -191,6 +214,9 @@ This district received no NSF MPS grants from 2012-2016
 <a name="AZ-07"></a>
 [Back to top](#top)
 ## AZ-07 -- Rep. Ruben Gallego (D)
+### Committees
+Ruben Gallego is not on any of our key committees 
+
 ### HEP Grants
 ```
 In the past 5 years, this district has received: $2,451,000.00 in SC HEP grants.
@@ -219,6 +245,9 @@ UNIVERSITY OF ARIZONA                         2012     9219415
 <a name="AZ-08"></a>
 [Back to top](#top)
 ## AZ-08 -- Rep. Trent Franks (R)
+### Committees
+Trent Franks is not on any of our key committees 
+
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -235,6 +264,9 @@ This district received no NSF MPS grants from 2012-2016
 <a name="AZ-09"></a>
 [Back to top](#top)
 ## AZ-09 -- Rep. Kyrsten Sinema (D)
+### Committees
+Kyrsten Sinema is not on any of our key committees 
+
 ### HEP Grants
 ```
 In the past 5 years, this district has received: $857,000.00 in SC HEP grants.

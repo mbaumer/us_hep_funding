@@ -10,6 +10,11 @@ permalink : /states/ID/
 [ID-01](#ID-01)  [ID-02](#ID-02)  
 
 # ID -- Sen. Michael Crapo (R) and  Sen. James Risch (R)
+## Committees
+Michael Crapo is not on any of our key committees 
+
+James Risch is the #3 Republican on the Senate Committee on Energy and Natural Resources 
+
 ## HEP Grants
 ```
 This state received no SC HEP grants from 2012-2016
@@ -36,6 +41,9 @@ Boise State University                  363998
 <a name="ID-01"></a>
 [Back to top](#top)
 ## ID-01 -- Rep. Raúl Labrador (R)
+### Committees
+Raúl Labrador is not on any of our key committees 
+
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -56,6 +64,9 @@ UNIVERSITY OF IDAHO                2012      536655
 <a name="ID-02"></a>
 [Back to top](#top)
 ## ID-02 -- Rep. Michael Simpson (R)
+### Committees
+Michael Simpson is the #5 Republican on the House Committee on Appropriations 
+
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016

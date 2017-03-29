@@ -10,6 +10,11 @@ permalink : /states/NJ/
 [NJ-01](#NJ-01)  [NJ-02](#NJ-02)  [NJ-03](#NJ-03)  [NJ-04](#NJ-04)  [NJ-05](#NJ-05)  [NJ-06](#NJ-06)  [NJ-07](#NJ-07)  [NJ-08](#NJ-08)  [NJ-09](#NJ-09)  [NJ-10](#NJ-10)  [NJ-11](#NJ-11)  [NJ-12](#NJ-12)  
 
 # NJ -- Sen. Cory Booker (D) and  Sen. Robert Menéndez (D)
+## Committees
+Cory Booker is the #7 Democrat on the Senate Committee on Commerce, Science, and Transportation 
+
+Robert Menéndez is not on any of our key committees 
+
 ## HEP Grants
 ```
 In the past 5 years, this state has received:
@@ -70,6 +75,9 @@ and  5  other institutions.
 <a name="NJ-01"></a>
 [Back to top](#top)
 ## NJ-01 -- Rep. Donald Norcross (D)
+### Committees
+Donald Norcross is not on any of our key committees 
+
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -92,6 +100,9 @@ RUTGERS, THE STATE UNIVERSITY OF NEW JERSEY 2012      161500
 <a name="NJ-02"></a>
 [Back to top](#top)
 ## NJ-02 -- Rep. Frank LoBiondo (R)
+### Committees
+Frank LoBiondo is not on any of our key committees 
+
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -111,6 +122,9 @@ This district received no NSF MPS grants from 2012-2016
 <a name="NJ-03"></a>
 [Back to top](#top)
 ## NJ-03 -- Rep. Tom MacArthur (R)
+### Committees
+Tom MacArthur is not on any of our key committees 
+
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -127,6 +141,9 @@ This district received no NSF MPS grants from 2012-2016
 <a name="NJ-04"></a>
 [Back to top](#top)
 ## NJ-04 -- Rep. Christopher Smith (R)
+### Committees
+Christopher Smith is not on any of our key committees 
+
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -143,6 +160,9 @@ This district received no NSF MPS grants from 2012-2016
 <a name="NJ-05"></a>
 [Back to top](#top)
 ## NJ-05 -- Rep. Josh Gottheimer (D)
+### Committees
+Josh Gottheimer is not on any of our key committees 
+
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -159,6 +179,9 @@ This district received no NSF MPS grants from 2012-2016
 <a name="NJ-06"></a>
 [Back to top](#top)
 ## NJ-06 -- Rep. Frank Pallone (D)
+### Committees
+Frank Pallone is the #1 Democrat on the House Committee on Energy and Commerce 
+
 ### HEP Grants
 ```
 In the past 5 years, this district has received: $3,257,000.00 in SC HEP grants.
@@ -196,6 +219,9 @@ Rutgers Univ New Brunswick                  2015       31891
 <a name="NJ-07"></a>
 [Back to top](#top)
 ## NJ-07 -- Rep. Leonard Lance (R)
+### Committees
+Leonard Lance is the #12 Republican on the House Committee on Energy and Commerce 
+
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -212,6 +238,9 @@ This district received no NSF MPS grants from 2012-2016
 <a name="NJ-08"></a>
 [Back to top](#top)
 ## NJ-08 -- Rep. Albio Sires (D)
+### Committees
+Albio Sires is not on any of our key committees 
+
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -239,6 +268,9 @@ STEVENS INSTITUTE OF TECHNOLOGY (INC)         2013      990567
 <a name="NJ-09"></a>
 [Back to top](#top)
 ## NJ-09 -- Rep. Bill Pascrell (D)
+### Committees
+Bill Pascrell is not on any of our key committees 
+
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -259,6 +291,9 @@ This district received no NSF MPS grants from 2012-2016
 <a name="NJ-10"></a>
 [Back to top](#top)
 ## NJ-10 -- Rep. Donald Payne (D)
+### Committees
+Donald Payne is not on any of our key committees 
+
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -285,6 +320,9 @@ SETON HALL UNIVERSITY                       2014        7000
 <a name="NJ-11"></a>
 [Back to top](#top)
 ## NJ-11 -- Rep. Rodney Frelinghuysen (R)
+### Committees
+Rodney Frelinghuysen is the #1 Republican on the House Committee on Appropriations 
+
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -306,6 +344,9 @@ MONTCLAIR STATE UNIVERSITY STUDENT GOVERNMENT A... 2017       57453
 <a name="NJ-12"></a>
 [Back to top](#top)
 ## NJ-12 -- Rep. Bonnie Watson Coleman (D)
+### Committees
+Bonnie Watson Coleman is not on any of our key committees 
+
 ### HEP Grants
 ```
 In the past 5 years, this district has received: $14,994,895.00 in SC HEP grants.

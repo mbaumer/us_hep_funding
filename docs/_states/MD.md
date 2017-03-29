@@ -10,6 +10,13 @@ permalink : /states/MD/
 [MD-01](#MD-01)  [MD-02](#MD-02)  [MD-03](#MD-03)  [MD-04](#MD-04)  [MD-05](#MD-05)  [MD-06](#MD-06)  [MD-07](#MD-07)  [MD-08](#MD-08)  
 
 # MD -- Sen. Benjamin Cardin (D) and  Sen. Chris Van Hollen (D)
+## Committees
+Benjamin Cardin is not on any of our key committees 
+
+Chris Van Hollen is the #8 Democrat on the Senate Appropriations Subcommittee on Commerce, Justice, Science, and Related Agencies 
+
+Chris Van Hollen is the #15 Democrat on the Senate Committee on Appropriations 
+
 ## HEP Grants
 ```
 In the past 5 years, this state has received:
@@ -67,6 +74,9 @@ and  11  other institutions.
 <a name="MD-01"></a>
 [Back to top](#top)
 ## MD-01 -- Rep. Andy Harris (R)
+### Committees
+Andy Harris is the #21 Republican on the House Committee on Appropriations 
+
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -87,6 +97,9 @@ This district received no NSF MPS grants from 2012-2016
 <a name="MD-02"></a>
 [Back to top](#top)
 ## MD-02 -- Rep. C. Ruppersberger (D)
+### Committees
+C. Ruppersberger is the #12 Democrat on the House Committee on Appropriations 
+
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -119,6 +132,9 @@ This district received no NSF MPS grants from 2012-2016
 <a name="MD-03"></a>
 [Back to top](#top)
 ## MD-03 -- Rep. John Sarbanes (D)
+### Committees
+John Sarbanes is the #12 Democrat on the House Committee on Energy and Commerce 
+
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -145,6 +161,9 @@ UNIVERSITY OF MARYLAND BALTIMORE COUNTY 2013      450221
 <a name="MD-04"></a>
 [Back to top](#top)
 ## MD-04 -- Rep. Anthony Brown (D)
+### Committees
+Anthony Brown is not on any of our key committees 
+
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -176,6 +195,9 @@ This district received no NSF MPS grants from 2012-2016
 <a name="MD-05"></a>
 [Back to top](#top)
 ## MD-05 -- Rep. Steny Hoyer (D)
+### Committees
+Steny Hoyer is not on any of our key committees 
+
 ### HEP Grants
 ```
 In the past 5 years, this district has received: $10,857,000.00 in SC HEP grants.
@@ -225,6 +247,9 @@ UNIVERSITY OF MARYLAND                       2012    17539593
 <a name="MD-06"></a>
 [Back to top](#top)
 ## MD-06 -- Rep. John Delaney (D)
+### Committees
+John Delaney is not on any of our key committees 
+
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -296,6 +321,9 @@ TEMPLE UNIVERSITY-OF THE COMMONWEALTH SYSTEM 2013       55000
 <a name="MD-07"></a>
 [Back to top](#top)
 ## MD-07 -- Rep. Elijah Cummings (D)
+### Committees
+Elijah Cummings is not on any of our key committees 
+
 ### HEP Grants
 ```
 In the past 5 years, this district has received: $150,000.00 in SC HEP grants.
@@ -337,6 +365,9 @@ UNIVERSITY OF MARYLAND BALTIMORE COUNTY 2012      230860
 <a name="MD-08"></a>
 [Back to top](#top)
 ## MD-08 -- Rep. Jamie Raskin (D)
+### Committees
+Jamie Raskin is not on any of our key committees 
+
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016

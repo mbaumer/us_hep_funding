@@ -10,6 +10,13 @@ permalink : /states/AR/
 [AR-01](#AR-01)  [AR-02](#AR-02)  [AR-03](#AR-03)  [AR-04](#AR-04)  
 
 # AR -- Sen. John Boozman (R) and  Sen. Tom Cotton (R)
+## Committees
+John Boozman is the #6 Republican on the Senate Appropriations Subcommittee on Commerce, Justice, Science, and Related Agencies 
+
+John Boozman is the #11 Republican on the Senate Committee on Appropriations 
+
+Tom Cotton is not on any of our key committees 
+
 ## HEP Grants
 ```
 This state received no SC HEP grants from 2012-2016
@@ -40,6 +47,9 @@ ARKANSAS STATE UNIVERSITY            34000
 <a name="AR-01"></a>
 [Back to top](#top)
 ## AR-01 -- Rep. Eric Crawford (R)
+### Committees
+Eric Crawford is not on any of our key committees 
+
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -59,6 +69,9 @@ ARKANSAS STATE UNIVERSITY 2012       34000
 <a name="AR-02"></a>
 [Back to top](#top)
 ## AR-02 -- Rep. French Hill (R)
+### Committees
+French Hill is not on any of our key committees 
+
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -83,6 +96,9 @@ UNIVERSITY OF CENTRAL ARKANSAS 2013       95000
 <a name="AR-03"></a>
 [Back to top](#top)
 ## AR-03 -- Rep. Steve Womack (R)
+### Committees
+Steve Womack is the #14 Republican on the House Committee on Appropriations 
+
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -106,6 +122,9 @@ UNIVERSITY OF ARKANSAS SYSTEM 2012     1225843
 <a name="AR-04"></a>
 [Back to top](#top)
 ## AR-04 -- Rep. Bruce Westerman (R)
+### Committees
+Bruce Westerman is not on any of our key committees 
+
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016

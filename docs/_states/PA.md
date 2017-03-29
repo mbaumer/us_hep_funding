@@ -10,6 +10,11 @@ permalink : /states/PA/
 [PA-01](#PA-01)  [PA-02](#PA-02)  [PA-03](#PA-03)  [PA-04](#PA-04)  [PA-05](#PA-05)  [PA-06](#PA-06)  [PA-07](#PA-07)  [PA-08](#PA-08)  [PA-09](#PA-09)  [PA-10](#PA-10)  [PA-11](#PA-11)  [PA-12](#PA-12)  [PA-13](#PA-13)  [PA-14](#PA-14)  [PA-15](#PA-15)  [PA-16](#PA-16)  [PA-17](#PA-17)  [PA-18](#PA-18)  
 
 # PA -- Sen. Robert Casey (D) and  Sen. Patrick Toomey (R)
+## Committees
+Robert Casey is not on any of our key committees 
+
+Patrick Toomey is not on any of our key committees 
+
 ## HEP Grants
 ```
 In the past 5 years, this state has received:
@@ -71,6 +76,9 @@ and  37  other institutions.
 <a name="PA-01"></a>
 [Back to top](#top)
 ## PA-01 -- Rep. Robert Brady (D)
+### Committees
+Robert Brady is not on any of our key committees 
+
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -103,6 +111,9 @@ TEMPLE UNIVERSITY-OF THE COMMONWEALTH SYSTEM 2012     3649694
 <a name="PA-02"></a>
 [Back to top](#top)
 ## PA-02 -- Rep. Dwight Evans (D)
+### Committees
+Dwight Evans is not on any of our key committees 
+
 ### HEP Grants
 ```
 In the past 5 years, this district has received: $18,667,000.00 in SC HEP grants.
@@ -174,6 +185,9 @@ UNIVERSITY OF THE SCIENCES IN PHILADELPHIA         2012      328000
 <a name="PA-03"></a>
 [Back to top](#top)
 ## PA-03 -- Rep. Mike Kelly (R)
+### Committees
+Mike Kelly is not on any of our key committees 
+
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -193,6 +207,9 @@ ALLEGHENY COLLEGE 2013      231312
 <a name="PA-04"></a>
 [Back to top](#top)
 ## PA-04 -- Rep. Scott Perry (R)
+### Committees
+Scott Perry is not on any of our key committees 
+
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -215,6 +232,11 @@ MINERALS, METALS AND MATERIALS SOCIETY, INC. 2012       25000
 <a name="PA-05"></a>
 [Back to top](#top)
 ## PA-05 -- Rep. Glenn Thompson (R)
+### Committees
+Glenn Thompson is the #4 Republican on the House Subcommittee on Early Childhood, Elementary, and Secondary Education 
+
+Glenn Thompson is the #2 Republican on the House Subcommittee on Higher Education and Workforce Development 
+
 ### HEP Grants
 ```
 In the past 5 years, this district has received: $1,179,000.00 in SC HEP grants.
@@ -246,6 +268,9 @@ PENNSYLVANIA STATE UNIVERSITY, THE 2012    16202310
 <a name="PA-06"></a>
 [Back to top](#top)
 ## PA-06 -- Rep. Ryan Costello (R)
+### Committees
+Ryan Costello is the #30 Republican on the House Committee on Energy and Commerce 
+
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -273,6 +298,9 @@ WEST CHESTER UNIVERSITY OF PENNSYLVANIA 2013       50000
 <a name="PA-07"></a>
 [Back to top](#top)
 ## PA-07 -- Rep. Patrick Meehan (R)
+### Committees
+Patrick Meehan is not on any of our key committees 
+
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -296,6 +324,9 @@ VILLANOVA UNIVERSITY IN THE STATE OF PENNSYLV 2012      320543
 <a name="PA-08"></a>
 [Back to top](#top)
 ## PA-08 -- Rep. Brian Fitzpatrick (R)
+### Committees
+Brian Fitzpatrick is not on any of our key committees 
+
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -312,6 +343,9 @@ This district received no NSF MPS grants from 2012-2016
 <a name="PA-09"></a>
 [Back to top](#top)
 ## PA-09 -- Rep. Bill Shuster (R)
+### Committees
+Bill Shuster is not on any of our key committees 
+
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -331,6 +365,9 @@ PENNSYLVANIA STATE UNIVERSITY, THE 2014      320000
 <a name="PA-10"></a>
 [Back to top](#top)
 ## PA-10 -- Rep. Tom Marino (R)
+### Committees
+Tom Marino is not on any of our key committees 
+
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -354,6 +391,9 @@ SUSQUEHANNA UNIVERSITY 2012       50000
 <a name="PA-11"></a>
 [Back to top](#top)
 ## PA-11 -- Rep. Lou Barletta (R)
+### Committees
+Lou Barletta is the #3 Republican on the House Subcommittee on Higher Education and Workforce Development 
+
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -373,6 +413,9 @@ DICKINSON COLLEGE 2014      217583
 <a name="PA-12"></a>
 [Back to top](#top)
 ## PA-12 -- Rep. Keith Rothfus (R)
+### Committees
+Keith Rothfus is not on any of our key committees 
+
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -395,6 +438,9 @@ PENNSYLVANIA STATE UNIVERSITY, THE 2013      300000
 <a name="PA-13"></a>
 [Back to top](#top)
 ## PA-13 -- Rep. Brendan Boyle (D)
+### Committees
+Brendan Boyle is not on any of our key committees 
+
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -411,6 +457,9 @@ This district received no NSF MPS grants from 2012-2016
 <a name="PA-14"></a>
 [Back to top](#top)
 ## PA-14 -- Rep. Michael Doyle (D)
+### Committees
+Michael Doyle is the #7 Democrat on the House Committee on Energy and Commerce 
+
 ### HEP Grants
 ```
 In the past 5 years, this district has received: $12,798,000.00 in SC HEP grants.
@@ -461,6 +510,9 @@ UNIVERSITY OF PITTSBURGH THE           2012     5421363
 <a name="PA-15"></a>
 [Back to top](#top)
 ## PA-15 -- Rep. Charles Dent (R)
+### Committees
+Charles Dent is the #11 Republican on the House Committee on Appropriations 
+
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -490,6 +542,9 @@ MUHLENBERG COLLEGE                  2013       54000
 <a name="PA-16"></a>
 [Back to top](#top)
 ## PA-16 -- Rep. Lloyd Smucker (R)
+### Committees
+Lloyd Smucker is the #12 Republican on the House Subcommittee on Higher Education and Workforce Development 
+
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -513,6 +568,9 @@ WEST CHESTER UNIVERSITY OF PENNSYLVANIA 2012      104000
 <a name="PA-17"></a>
 [Back to top](#top)
 ## PA-17 -- Rep. Matthew Cartwright (D)
+### Committees
+Matthew Cartwright is the #18 Democrat on the House Committee on Appropriations 
+
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -534,6 +592,9 @@ LEBANON VALLEY COLLEGE 2012      137000
 <a name="PA-18"></a>
 [Back to top](#top)
 ## PA-18 -- Rep. Tim Murphy (R)
+### Committees
+Tim Murphy is the #5 Republican on the House Committee on Energy and Commerce 
+
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016

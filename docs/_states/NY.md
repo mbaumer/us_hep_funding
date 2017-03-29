@@ -10,6 +10,11 @@ permalink : /states/NY/
 [NY-01](#NY-01)  [NY-02](#NY-02)  [NY-03](#NY-03)  [NY-04](#NY-04)  [NY-05](#NY-05)  [NY-06](#NY-06)  [NY-07](#NY-07)  [NY-08](#NY-08)  [NY-09](#NY-09)  [NY-10](#NY-10)  [NY-11](#NY-11)  [NY-12](#NY-12)  [NY-13](#NY-13)  [NY-14](#NY-14)  [NY-15](#NY-15)  [NY-16](#NY-16)  [NY-17](#NY-17)  [NY-18](#NY-18)  [NY-19](#NY-19)  [NY-20](#NY-20)  [NY-21](#NY-21)  [NY-22](#NY-22)  [NY-23](#NY-23)  [NY-24](#NY-24)  [NY-25](#NY-25)  [NY-26](#NY-26)  [NY-27](#NY-27)  
 
 # NY -- Sen. Kirsten Gillibrand (D) and  Sen. Charles Schumer (D)
+## Committees
+Kirsten Gillibrand is not on any of our key committees 
+
+Charles Schumer is not on any of our key committees 
+
 ## HEP Grants
 ```
 In the past 5 years, this state has received:
@@ -72,6 +77,9 @@ and  56  other institutions.
 <a name="NY-01"></a>
 [Back to top](#top)
 ## NY-01 -- Rep. Lee Zeldin (R)
+### Committees
+Lee Zeldin is not on any of our key committees 
+
 ### HEP Grants
 ```
 In the past 5 years, this district has received: $7,602,000.00 in SC HEP grants.
@@ -139,6 +147,9 @@ THE RESEARCH FOUNDATION OF STATE UNIVERSITY O      2012     6346317
 <a name="NY-02"></a>
 [Back to top](#top)
 ## NY-02 -- Rep. Peter King (R)
+### Committees
+Peter King is not on any of our key committees 
+
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -155,6 +166,9 @@ This district received no NSF MPS grants from 2012-2016
 <a name="NY-03"></a>
 [Back to top](#top)
 ## NY-03 -- Rep. Thomas Suozzi (D)
+### Committees
+Thomas Suozzi is not on any of our key committees 
+
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -179,6 +193,9 @@ LONG ISLAND UNIVERSITY        2012       60000
 <a name="NY-04"></a>
 [Back to top](#top)
 ## NY-04 -- Rep. Kathleen Rice (D)
+### Committees
+Kathleen Rice is not on any of our key committees 
+
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -195,6 +212,9 @@ This district received no NSF MPS grants from 2012-2016
 <a name="NY-05"></a>
 [Back to top](#top)
 ## NY-05 -- Rep. Gregory Meeks (D)
+### Committees
+Gregory Meeks is not on any of our key committees 
+
 ### HEP Grants
 ```
 In the past 5 years, this district has received: $286,000.00 in SC HEP grants.
@@ -220,6 +240,9 @@ RESEARCH FOUNDATION OF THE CITY UNIVERSITY OF 2013      648769
 <a name="NY-06"></a>
 [Back to top](#top)
 ## NY-06 -- Rep. Grace Meng (D)
+### Committees
+Grace Meng is the #19 Democrat on the House Committee on Appropriations 
+
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -243,6 +266,9 @@ ST JOHN'S UNIVERSITY, NEW YORK                2012      153360
 <a name="NY-07"></a>
 [Back to top](#top)
 ## NY-07 -- Rep. Nydia Velázquez (D)
+### Committees
+Nydia Velázquez is not on any of our key committees 
+
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -268,6 +294,9 @@ YESHIVA UNIVERSITY                            2012      484343
 <a name="NY-08"></a>
 [Back to top](#top)
 ## NY-08 -- Rep. Hakeem Jeffries (D)
+### Committees
+Hakeem Jeffries is not on any of our key committees 
+
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -295,6 +324,9 @@ POLYTECHNIC INSTITUTE OF NEW YORK UNIVERSITY 2013      358025
 <a name="NY-09"></a>
 [Back to top](#top)
 ## NY-09 -- Rep. Yvette Clarke (D)
+### Committees
+Yvette Clarke is the #17 Democrat on the House Committee on Energy and Commerce 
+
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -317,6 +349,9 @@ RESEARCH FOUNDATION OF THE CITY UNIVERSITY OF 2012      562844
 <a name="NY-10"></a>
 [Back to top](#top)
 ## NY-10 -- Rep. Jerrold Nadler (D)
+### Committees
+Jerrold Nadler is not on any of our key committees 
+
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -362,6 +397,9 @@ TRUSTEES OF COLUMBIA UNIVERSITY IN THE CITY O 2013    16725625
 <a name="NY-11"></a>
 [Back to top](#top)
 ## NY-11 -- Rep. Daniel Donovan (R)
+### Committees
+Daniel Donovan is not on any of our key committees 
+
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -385,6 +423,9 @@ RESEARCH FOUNDATION OF THE CITY UNIVERSITY OF N... 2017       91328
 <a name="NY-12"></a>
 [Back to top](#top)
 ## NY-12 -- Rep. Carolyn Maloney (D)
+### Committees
+Carolyn Maloney is not on any of our key committees 
+
 ### HEP Grants
 ```
 In the past 5 years, this district has received: $0.00 in SC HEP grants.
@@ -424,6 +465,9 @@ WEILL MEDICAL COLLEGE OF CORNELL UNIVERSITY        2013      100000
 <a name="NY-13"></a>
 [Back to top](#top)
 ## NY-13 -- Rep. Adriano Espaillat (D)
+### Committees
+Adriano Espaillat is the #10 Democrat on the House Subcommittee on Higher Education and Workforce Development 
+
 ### HEP Grants
 ```
 In the past 5 years, this district has received: $3,153,000.00 in SC HEP grants.
@@ -457,6 +501,9 @@ YESHIVA UNIVERSITY                            2013      255515
 <a name="NY-14"></a>
 [Back to top](#top)
 ## NY-14 -- Rep. Joseph Crowley (D)
+### Committees
+Joseph Crowley is not on any of our key committees 
+
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -487,6 +534,9 @@ YESHIVA UNIVERSITY                            2012      123000
 <a name="NY-15"></a>
 [Back to top](#top)
 ## NY-15 -- Rep. José Serrano (D)
+### Committees
+José Serrano is the #4 Democrat on the House Committee on Appropriations 
+
 ### HEP Grants
 ```
 In the past 5 years, this district has received: $3,769,000.00 in SC HEP grants.
@@ -520,6 +570,9 @@ YESHIVA UNIVERSITY                            2012      624271
 <a name="NY-16"></a>
 [Back to top](#top)
 ## NY-16 -- Rep. Eliot Engel (D)
+### Committees
+Eliot Engel is the #4 Democrat on the House Committee on Energy and Commerce 
+
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -541,6 +594,9 @@ MANHATTAN COLLEGE CORP 2014       72854
 <a name="NY-17"></a>
 [Back to top](#top)
 ## NY-17 -- Rep. Nita Lowey (D)
+### Committees
+Nita Lowey is the #1 Democrat on the House Committee on Appropriations 
+
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -567,6 +623,9 @@ TRUSTEES OF COLUMBIA UNIVERSITY IN THE CITY O 2013      360000
 <a name="NY-18"></a>
 [Back to top](#top)
 ## NY-18 -- Rep. Sean Maloney (D)
+### Committees
+Sean Maloney is not on any of our key committees 
+
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -588,6 +647,9 @@ VASSAR COLLEGE          2013       75000
 <a name="NY-19"></a>
 [Back to top](#top)
 ## NY-19 -- Rep. John Faso (R)
+### Committees
+John Faso is not on any of our key committees 
+
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -610,6 +672,11 @@ VASSAR COLLEGE                   2012       75000
 <a name="NY-20"></a>
 [Back to top](#top)
 ## NY-20 -- Rep. Paul Tonko (D)
+### Committees
+Paul Tonko is the #12 Democrat on the House Committee on Science, Space, and Technology 
+
+Paul Tonko is the #16 Democrat on the House Committee on Energy and Commerce 
+
 ### HEP Grants
 ```
 In the past 5 years, this district has received: $490,000.00 in SC HEP grants.
@@ -648,6 +715,9 @@ TRUSTEES OF UNION COLLEGE IN THE TOWN OF SCHE 2013      168386
 <a name="NY-21"></a>
 [Back to top](#top)
 ## NY-21 -- Rep. Elise Stefanik (R)
+### Committees
+Elise Stefanik is the #7 Republican on the House Subcommittee on Higher Education and Workforce Development 
+
 ### HEP Grants
 ```
 In the past 5 years, this district has received: $701,000.00 in SC HEP grants.
@@ -682,6 +752,9 @@ TRUSTEES OF UNION COLLEGE IN THE TOWN OF SCHE 2012      776206
 <a name="NY-22"></a>
 [Back to top](#top)
 ## NY-22 -- Rep. Claudia Tenney (R)
+### Committees
+Claudia Tenney is not on any of our key committees 
+
 ### HEP Grants
 ```
 In the past 5 years, this district has received: $2,523,000.00 in SC HEP grants.
@@ -718,6 +791,9 @@ THE RESEARCH FOUNDATION OF STATE UNIVERSITY O 2013      270807
 <a name="NY-23"></a>
 [Back to top](#top)
 ## NY-23 -- Rep. Tom Reed (R)
+### Committees
+Tom Reed is not on any of our key committees 
+
 ### HEP Grants
 ```
 In the past 5 years, this district has received: $5,068,000.00 in SC HEP grants.
@@ -755,6 +831,9 @@ THE RESEARCH FOUNDATION OF STATE UNIVERSITY O 2013        4000
 <a name="NY-24"></a>
 [Back to top](#top)
 ## NY-24 -- Rep. John Katko (R)
+### Committees
+John Katko is not on any of our key committees 
+
 ### HEP Grants
 ```
 In the past 5 years, this district has received: $905,000.00 in SC HEP grants.
@@ -784,6 +863,9 @@ Syracuse University               2015      369069
 <a name="NY-25"></a>
 [Back to top](#top)
 ## NY-25 -- Rep. Louise Slaughter (D)
+### Committees
+Louise Slaughter is not on any of our key committees 
+
 ### HEP Grants
 ```
 In the past 5 years, this district has received: $5,416,000.00 in SC HEP grants.
@@ -827,6 +909,9 @@ University of Rochester                 2015      533371
 <a name="NY-26"></a>
 [Back to top](#top)
 ## NY-26 -- Rep. Brian Higgins (D)
+### Committees
+Brian Higgins is not on any of our key committees 
+
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -851,6 +936,9 @@ THE RESEARCH FOUNDATION OF STATE UNIVERSITY O 2014      168187
 <a name="NY-27"></a>
 [Back to top](#top)
 ## NY-27 -- Rep. Chris Collins (R)
+### Committees
+Chris Collins is the #26 Republican on the House Committee on Energy and Commerce 
+
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016

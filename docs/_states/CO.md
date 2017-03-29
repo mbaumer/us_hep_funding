@@ -10,6 +10,13 @@ permalink : /states/CO/
 [CO-01](#CO-01)  [CO-02](#CO-02)  [CO-03](#CO-03)  [CO-04](#CO-04)  [CO-05](#CO-05)  [CO-06](#CO-06)  [CO-07](#CO-07)  
 
 # CO -- Sen. Michael Bennet (D) and  Sen. Cory Gardner (R)
+## Committees
+Michael Bennet is not on any of our key committees 
+
+Cory Gardner is the #13 Republican on the Senate Committee on Commerce, Science, and Transportation 
+
+Cory Gardner is the #7 Republican on the Senate Committee on Energy and Natural Resources 
+
 ## HEP Grants
 ```
 In the past 5 years, this state has received:
@@ -72,6 +79,9 @@ and  8  other institutions.
 <a name="CO-01"></a>
 [Back to top](#top)
 ## CO-01 -- Rep. Diana DeGette (D)
+### Committees
+Diana DeGette is the #6 Democrat on the House Committee on Energy and Commerce 
+
 ### HEP Grants
 ```
 In the past 5 years, this district has received: $1,690,000.00 in SC HEP grants.
@@ -107,6 +117,11 @@ REGIS UNIVERSITY                           2012       44000
 <a name="CO-02"></a>
 [Back to top](#top)
 ## CO-02 -- Rep. Jared Polis (D)
+### Committees
+Jared Polis is the #1 Democrat on the House Subcommittee on Early Childhood, Elementary, and Secondary Education 
+
+Jared Polis is the #6 Democrat on the House Subcommittee on Higher Education and Workforce Development 
+
 ### HEP Grants
 ```
 In the past 5 years, this district has received: $11,350,000.00 in SC HEP grants.
@@ -156,6 +171,9 @@ University of Montana                         2015       22200
 <a name="CO-03"></a>
 [Back to top](#top)
 ## CO-03 -- Rep. Scott Tipton (R)
+### Committees
+Scott Tipton is not on any of our key committees 
+
 ### HEP Grants
 ```
 In the past 5 years, this district has received: $37,000.00 in SC HEP grants.
@@ -184,6 +202,9 @@ FRONT RANGE SCIENTIFIC COMPUTATION INC 2012       49928
 <a name="CO-04"></a>
 [Back to top](#top)
 ## CO-04 -- Rep. Ken Buck (R)
+### Committees
+Ken Buck is not on any of our key committees 
+
 ### HEP Grants
 ```
 In the past 5 years, this district has received: $2,012,000.00 in SC HEP grants.
@@ -212,6 +233,9 @@ UNIVERSITY OF NORTHERN COLORADO 2012      120000
 <a name="CO-05"></a>
 [Back to top](#top)
 ## CO-05 -- Rep. Doug Lamborn (R)
+### Committees
+Doug Lamborn is not on any of our key committees 
+
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -236,6 +260,9 @@ REGENTS OF THE UNIVERSITY OF COLORADO, THE 2012      300000
 <a name="CO-06"></a>
 [Back to top](#top)
 ## CO-06 -- Rep. Mike Coffman (R)
+### Committees
+Mike Coffman is not on any of our key committees 
+
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -257,6 +284,9 @@ U of Colorado Denver                       2015      420000
 <a name="CO-07"></a>
 [Back to top](#top)
 ## CO-07 -- Rep. Ed Perlmutter (D)
+### Committees
+Ed Perlmutter is the #11 Democrat on the House Committee on Science, Space, and Technology 
+
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016

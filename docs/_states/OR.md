@@ -10,6 +10,13 @@ permalink : /states/OR/
 [OR-01](#OR-01)  [OR-02](#OR-02)  [OR-03](#OR-03)  [OR-04](#OR-04)  [OR-05](#OR-05)  
 
 # OR -- Sen. Jeff Merkley (D) and  Sen. Ron Wyden (D)
+## Committees
+Jeff Merkley is the #9 Democrat on the Senate Committee on Appropriations 
+
+Jeff Merkley is the #7 Democrat on the Senate Appropriations Subcommittee on Energy and Water Development 
+
+Ron Wyden is the #2 Democrat on the Senate Committee on Energy and Natural Resources 
+
 ## HEP Grants
 ```
 In the past 5 years, this state has received:
@@ -51,6 +58,11 @@ and  4  other institutions.
 <a name="OR-01"></a>
 [Back to top](#top)
 ## OR-01 -- Rep. Suzanne Bonamici (D)
+### Committees
+Suzanne Bonamici is the #4 Democrat on the House Committee on Science, Space, and Technology 
+
+Suzanne Bonamici is the #4 Democrat on the House Subcommittee on Early Childhood, Elementary, and Secondary Education 
+
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -73,6 +85,9 @@ PORTLAND STATE UNIVERSITY 2012      201086
 <a name="OR-02"></a>
 [Back to top](#top)
 ## OR-02 -- Rep. Greg Walden (R)
+### Committees
+Greg Walden is the #1 Republican on the House Committee on Energy and Commerce 
+
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -89,6 +104,9 @@ This district received no NSF MPS grants from 2012-2016
 <a name="OR-03"></a>
 [Back to top](#top)
 ## OR-03 -- Rep. Earl Blumenauer (D)
+### Committees
+Earl Blumenauer is not on any of our key committees 
+
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -112,6 +130,9 @@ REED INSTITUTE, THE                2014      172146
 <a name="OR-04"></a>
 [Back to top](#top)
 ## OR-04 -- Rep. Peter DeFazio (D)
+### Committees
+Peter DeFazio is not on any of our key committees 
+
 ### HEP Grants
 ```
 In the past 5 years, this district has received: $5,783,000.00 in SC HEP grants.
@@ -146,6 +167,9 @@ UNIVERSITY OF OREGON    2012     3533958
 <a name="OR-05"></a>
 [Back to top](#top)
 ## OR-05 -- Rep. Kurt Schrader (D)
+### Committees
+Kurt Schrader is the #19 Democrat on the House Committee on Energy and Commerce 
+
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016

@@ -10,6 +10,11 @@ permalink : /states/MN/
 [MN-01](#MN-01)  [MN-02](#MN-02)  [MN-03](#MN-03)  [MN-04](#MN-04)  [MN-05](#MN-05)  [MN-06](#MN-06)  [MN-07](#MN-07)  [MN-08](#MN-08)  
 
 # MN -- Sen. Alan Franken (D) and  Sen. Amy Klobuchar (D)
+## Committees
+Alan Franken is the #5 Democrat on the Senate Committee on Energy and Natural Resources 
+
+Amy Klobuchar is the #3 Democrat on the Senate Committee on Commerce, Science, and Transportation 
+
 ## HEP Grants
 ```
 In the past 5 years, this state has received:
@@ -58,6 +63,9 @@ and  7  other institutions.
 <a name="MN-01"></a>
 [Back to top](#top)
 ## MN-01 -- Rep. Timothy Walz (D)
+### Committees
+Timothy Walz is not on any of our key committees 
+
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -80,6 +88,9 @@ SAINT MARY'S UNIVERSITY OF MINNESOTA 2012       14000
 <a name="MN-02"></a>
 [Back to top](#top)
 ## MN-02 -- Rep. Jason Lewis (R)
+### Committees
+Jason Lewis is the #9 Republican on the House Subcommittee on Higher Education and Workforce Development 
+
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -104,6 +115,9 @@ Saint Olaf College 2015       19390
 <a name="MN-03"></a>
 [Back to top](#top)
 ## MN-03 -- Rep. Erik Paulsen (R)
+### Committees
+Erik Paulsen is not on any of our key committees 
+
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -127,6 +141,9 @@ NORTH HENNEPIN COMMUNITY COLLEGE 2012       72183
 <a name="MN-04"></a>
 [Back to top](#top)
 ## MN-04 -- Rep. Betty McCollum (D)
+### Committees
+Betty McCollum is the #10 Democrat on the House Committee on Appropriations 
+
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -156,6 +173,9 @@ UNIVERSITY OF ST. THOMAS               2012      192173
 <a name="MN-05"></a>
 [Back to top](#top)
 ## MN-05 -- Rep. Keith Ellison (D)
+### Committees
+Keith Ellison is not on any of our key committees 
+
 ### HEP Grants
 ```
 In the past 5 years, this district has received: $12,039,000.00 in SC HEP grants.
@@ -187,6 +207,9 @@ U of Minnesota-Twin Cities             2015     6224204
 <a name="MN-06"></a>
 [Back to top](#top)
 ## MN-06 -- Rep. Tom Emmer (R)
+### Committees
+Tom Emmer is not on any of our key committees 
+
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -210,6 +233,9 @@ ST CLOUD STATE UNIVERSITY 2012      129809
 <a name="MN-07"></a>
 [Back to top](#top)
 ## MN-07 -- Rep. Collin Peterson (D)
+### Committees
+Collin Peterson is not on any of our key committees 
+
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -226,6 +252,9 @@ This district received no NSF MPS grants from 2012-2016
 <a name="MN-08"></a>
 [Back to top](#top)
 ## MN-08 -- Rep. Richard Nolan (D)
+### Committees
+Richard Nolan is not on any of our key committees 
+
 ### HEP Grants
 ```
 In the past 5 years, this district has received: $45,000.00 in SC HEP grants.

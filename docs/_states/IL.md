@@ -10,6 +10,15 @@ permalink : /states/IL/
 [IL-01](#IL-01)  [IL-02](#IL-02)  [IL-03](#IL-03)  [IL-04](#IL-04)  [IL-05](#IL-05)  [IL-06](#IL-06)  [IL-07](#IL-07)  [IL-08](#IL-08)  [IL-09](#IL-09)  [IL-10](#IL-10)  [IL-11](#IL-11)  [IL-12](#IL-12)  [IL-13](#IL-13)  [IL-14](#IL-14)  [IL-15](#IL-15)  [IL-16](#IL-16)  [IL-17](#IL-17)  [IL-18](#IL-18)  
 
 # IL -- Sen. Richard Durbin (D) and  Sen. Tammy Duckworth (D)
+## Committees
+Richard Durbin is the #4 Democrat on the Senate Committee on Appropriations 
+
+Richard Durbin is the #4 Democrat on the Senate Appropriations Subcommittee on Energy and Water Development 
+
+Tammy Duckworth is the #11 Democrat on the Senate Committee on Commerce, Science, and Transportation 
+
+Tammy Duckworth is the #10 Democrat on the Senate Committee on Energy and Natural Resources 
+
 ## HEP Grants
 ```
 In the past 5 years, this state has received:
@@ -72,6 +81,9 @@ and  23  other institutions.
 <a name="IL-01"></a>
 [Back to top](#top)
 ## IL-01 -- Rep. Bobby Rush (D)
+### Committees
+Bobby Rush is the #2 Democrat on the House Committee on Energy and Commerce 
+
 ### HEP Grants
 ```
 In the past 5 years, this district has received: $9,140,904.00 in SC HEP grants.
@@ -118,6 +130,9 @@ University of Chicago            2015     7007875
 <a name="IL-02"></a>
 [Back to top](#top)
 ## IL-02 -- Rep. Robin Kelly (D)
+### Committees
+Robin Kelly is not on any of our key committees 
+
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -137,6 +152,9 @@ CHICAGO STATE UNIVERSITY 2012       67136
 <a name="IL-03"></a>
 [Back to top](#top)
 ## IL-03 -- Rep. Daniel Lipinski (D)
+### Committees
+Daniel Lipinski is the #3 Democrat on the House Committee on Science, Space, and Technology 
+
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -222,6 +240,9 @@ PURDUE UNIVERSITY         2013       47921
 <a name="IL-04"></a>
 [Back to top](#top)
 ## IL-04 -- Rep. Luis Gutiérrez (D)
+### Committees
+Luis Gutiérrez is not on any of our key committees 
+
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -238,6 +259,9 @@ This district received no NSF MPS grants from 2012-2016
 <a name="IL-05"></a>
 [Back to top](#top)
 ## IL-05 -- Rep. Mike Quigley (D)
+### Committees
+Mike Quigley is the #16 Democrat on the House Committee on Appropriations 
+
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -257,6 +281,9 @@ NORTHEASTERN ILLINOIS UNIVERSITY 2012      247659
 <a name="IL-06"></a>
 [Back to top](#top)
 ## IL-06 -- Rep. Peter Roskam (R)
+### Committees
+Peter Roskam is not on any of our key committees 
+
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -277,6 +304,9 @@ TRUSTEES OF WHEATON COLLEGE, THE 2012       84000
 <a name="IL-07"></a>
 [Back to top](#top)
 ## IL-07 -- Rep. Danny Davis (D)
+### Committees
+Danny Davis is not on any of our key committees 
+
 ### HEP Grants
 ```
 In the past 5 years, this district has received: $439,000.00 in SC HEP grants.
@@ -331,6 +361,9 @@ UNIVERSITY OF ILLINOIS        2012     3184940
 <a name="IL-08"></a>
 [Back to top](#top)
 ## IL-08 -- Rep. Raja Krishnamoorthi (D)
+### Committees
+Raja Krishnamoorthi is the #5 Democrat on the House Subcommittee on Higher Education and Workforce Development 
+
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -350,6 +383,9 @@ This district received no NSF MPS grants from 2012-2016
 <a name="IL-09"></a>
 [Back to top](#top)
 ## IL-09 -- Rep. Janice Schakowsky (D)
+### Committees
+Janice Schakowsky is the #8 Democrat on the House Committee on Energy and Commerce 
+
 ### HEP Grants
 ```
 In the past 5 years, this district has received: $6,698,000.00 in SC HEP grants.
@@ -384,6 +420,9 @@ UNIVERSITY OF CHICAGO, THE   2014       49753
 <a name="IL-10"></a>
 [Back to top](#top)
 ## IL-10 -- Rep. Bradley Schneider (D)
+### Committees
+Bradley Schneider is not on any of our key committees 
+
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -405,6 +444,9 @@ This district received no NSF MPS grants from 2012-2016
 <a name="IL-11"></a>
 [Back to top](#top)
 ## IL-11 -- Rep. Bill Foster (D)
+### Committees
+Bill Foster is the #13 Democrat on the House Committee on Science, Space, and Technology 
+
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -434,6 +476,9 @@ ILLINOIS WESLEYAN UNIVERSITY 2012      248800
 <a name="IL-12"></a>
 [Back to top](#top)
 ## IL-12 -- Rep. Mike Bost (R)
+### Committees
+Mike Bost is not on any of our key committees 
+
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -456,6 +501,9 @@ Southern Ill U Carbondale    2015      110000
 <a name="IL-13"></a>
 [Back to top](#top)
 ## IL-13 -- Rep. Rodney Davis (R)
+### Committees
+Rodney Davis is not on any of our key committees 
+
 ### HEP Grants
 ```
 In the past 5 years, this district has received: $4,105,000.00 in SC HEP grants.
@@ -544,6 +592,9 @@ UNIVERSITY OF ILLINOIS       2013    21304348
 <a name="IL-14"></a>
 [Back to top](#top)
 ## IL-14 -- Rep. Randy Hultgren (R)
+### Committees
+Randy Hultgren is the #5 Republican on the House Committee on Science, Space, and Technology 
+
 ### HEP Grants
 ```
 In the past 5 years, this district has received: $290,000.00 in SC HEP grants.
@@ -585,6 +636,9 @@ RUTGERS, THE STATE UNIVERSITY OF NEW JERSEY   2013      380000
 <a name="IL-15"></a>
 [Back to top](#top)
 ## IL-15 -- Rep. John Shimkus (R)
+### Committees
+John Shimkus is the #4 Republican on the House Committee on Energy and Commerce 
+
 ### HEP Grants
 ```
 In the past 5 years, this district has received: $4,325,000.00 in SC HEP grants.
@@ -612,6 +666,9 @@ UNIVERSITY OF ILLINOIS       2012    19813761
 <a name="IL-16"></a>
 [Back to top](#top)
 ## IL-16 -- Rep. Adam Kinzinger (R)
+### Committees
+Adam Kinzinger is the #16 Republican on the House Committee on Energy and Commerce 
+
 ### HEP Grants
 ```
 In the past 5 years, this district has received: $1,235,000.00 in SC HEP grants.
@@ -637,6 +694,9 @@ NORTHERN ILLINOIS UNIVERSITY INC 2013      954961
 <a name="IL-17"></a>
 [Back to top](#top)
 ## IL-17 -- Rep. Cheri Bustos (D)
+### Committees
+Cheri Bustos is not on any of our key committees 
+
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -658,6 +718,9 @@ KNOX COLLEGE      2014      292100
 <a name="IL-18"></a>
 [Back to top](#top)
 ## IL-18 -- Rep. Darin LaHood (R)
+### Committees
+Darin LaHood is the #16 Republican on the House Committee on Science, Space, and Technology 
+
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016

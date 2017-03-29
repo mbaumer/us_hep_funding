@@ -10,6 +10,15 @@ permalink : /states/ND/
 [ND-00](#ND-00)  
 
 # ND -- Sen. John Hoeven (R) and  Sen. Heidi Heitkamp (D)
+## Committees
+John Hoeven is the #10 Republican on the Senate Committee on Appropriations 
+
+John Hoeven is the #8 Republican on the Senate Appropriations Subcommittee on Energy and Water Development 
+
+John Hoeven is the #9 Republican on the Senate Committee on Energy and Natural Resources 
+
+Heidi Heitkamp is not on any of our key committees 
+
 ## HEP Grants
 ```
 This state received no SC HEP grants from 2012-2016
@@ -38,6 +47,9 @@ UNIVERSITY OF NORTH DAKOTA    2012      140000
 <a name="ND-00"></a>
 [Back to top](#top)
 ## ND-00 -- Rep. Kevin Cramer (R)
+### Committees
+Kevin Cramer is the #27 Republican on the House Committee on Energy and Commerce 
+
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016

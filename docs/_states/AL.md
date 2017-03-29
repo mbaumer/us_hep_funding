@@ -10,6 +10,15 @@ permalink : /states/AL/
 [AL-01](#AL-01)  [AL-02](#AL-02)  [AL-03](#AL-03)  [AL-04](#AL-04)  [AL-05](#AL-05)  [AL-06](#AL-06)  [AL-07](#AL-07)  
 
 # AL -- Sen. Richard Shelby (R) and  Sen. Luther Strange (R)
+## Committees
+Richard Shelby is the #1 Republican on the Senate Appropriations Subcommittee on Commerce, Justice, Science, and Related Agencies 
+
+Richard Shelby is the #3 Republican on the Senate Committee on Appropriations 
+
+Richard Shelby is the #4 Republican on the Senate Appropriations Subcommittee on Energy and Water Development 
+
+Luther Strange is the #12 Republican on the Senate Committee on Energy and Natural Resources 
+
 ## HEP Grants
 ```
 In the past 5 years, this state has received:
@@ -57,6 +66,9 @@ UNIVERSITY OF SOUTH ALABAMA              -43912
 <a name="AL-01"></a>
 [Back to top](#top)
 ## AL-01 -- Rep. Bradley Byrne (R)
+### Committees
+Bradley Byrne is the #5 Republican on the House Subcommittee on Higher Education and Workforce Development 
+
 ### HEP Grants
 ```
 In the past 5 years, this district has received: $70,000.00 in SC HEP grants.
@@ -80,6 +92,9 @@ UNIVERSITY OF SOUTH ALABAMA 2013      -43912
 <a name="AL-02"></a>
 [Back to top](#top)
 ## AL-02 -- Rep. Martha Roby (R)
+### Committees
+Martha Roby is the #22 Republican on the House Committee on Appropriations 
+
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -96,6 +111,9 @@ This district received no NSF MPS grants from 2012-2016
 <a name="AL-03"></a>
 [Back to top](#top)
 ## AL-03 -- Rep. Mike Rogers (R)
+### Committees
+Mike Rogers is not on any of our key committees 
+
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -118,6 +136,9 @@ TUSKEGEE UNIVERSITY 2014      862300
 <a name="AL-04"></a>
 [Back to top](#top)
 ## AL-04 -- Rep. Robert Aderholt (R)
+### Committees
+Robert Aderholt is the #3 Republican on the House Committee on Appropriations 
+
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -134,6 +155,9 @@ This district received no NSF MPS grants from 2012-2016
 <a name="AL-05"></a>
 [Back to top](#top)
 ## AL-05 -- Rep. Mo Brooks (R)
+### Committees
+Mo Brooks is the #4 Republican on the House Committee on Science, Space, and Technology 
+
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -164,6 +188,9 @@ UNIVERSITY OF NORTH ALABAMA         2012       19114
 <a name="AL-06"></a>
 [Back to top](#top)
 ## AL-06 -- Rep. Gary Palmer (R)
+### Committees
+Gary Palmer is the #13 Republican on the House Committee on Science, Space, and Technology 
+
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -180,6 +207,9 @@ This district received no NSF MPS grants from 2012-2016
 <a name="AL-07"></a>
 [Back to top](#top)
 ## AL-07 -- Rep. Terri Sewell (D)
+### Committees
+Terri Sewell is not on any of our key committees 
+
 ### HEP Grants
 ```
 In the past 5 years, this district has received: $2,260,000.00 in SC HEP grants.

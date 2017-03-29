@@ -10,6 +10,11 @@ permalink : /states/FL/
 [FL-01](#FL-01)  [FL-02](#FL-02)  [FL-03](#FL-03)  [FL-04](#FL-04)  [FL-05](#FL-05)  [FL-06](#FL-06)  [FL-07](#FL-07)  [FL-08](#FL-08)  [FL-09](#FL-09)  [FL-10](#FL-10)  [FL-11](#FL-11)  [FL-12](#FL-12)  [FL-13](#FL-13)  [FL-14](#FL-14)  [FL-15](#FL-15)  [FL-16](#FL-16)  [FL-17](#FL-17)  [FL-18](#FL-18)  [FL-19](#FL-19)  [FL-20](#FL-20)  [FL-21](#FL-21)  [FL-22](#FL-22)  [FL-23](#FL-23)  [FL-24](#FL-24)  [FL-25](#FL-25)  [FL-26](#FL-26)  [FL-27](#FL-27)  
 
 # FL -- Sen. Bill Nelson (D) and  Sen. Marco Rubio (R)
+## Committees
+Bill Nelson is the #1 Democrat on the Senate Committee on Commerce, Science, and Transportation 
+
+Marco Rubio is the #16 Republican on the Senate Committee on Appropriations 
+
 ## HEP Grants
 ```
 In the past 5 years, this state has received:
@@ -64,6 +69,9 @@ and  15  other institutions.
 <a name="FL-01"></a>
 [Back to top](#top)
 ## FL-01 -- Rep. Matt Gaetz (R)
+### Committees
+Matt Gaetz is not on any of our key committees 
+
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -80,6 +88,9 @@ This district received no NSF MPS grants from 2012-2016
 <a name="FL-02"></a>
 [Back to top](#top)
 ## FL-02 -- Rep. Neal Dunn (R)
+### Committees
+Neal Dunn is the #21 Republican on the House Committee on Science, Space, and Technology 
+
 ### HEP Grants
 ```
 In the past 5 years, this district has received: $12,527,999.45 in SC HEP grants.
@@ -117,6 +128,9 @@ RUTGERS, THE STATE UNIVERSITY OF NEW JERSEY 2012      180000
 <a name="FL-03"></a>
 [Back to top](#top)
 ## FL-03 -- Rep. Ted Yoho (R)
+### Committees
+Ted Yoho is not on any of our key committees 
+
 ### HEP Grants
 ```
 In the past 5 years, this district has received: $7,639,000.00 in SC HEP grants.
@@ -144,6 +158,9 @@ University of Florida 2015      354639
 <a name="FL-04"></a>
 [Back to top](#top)
 ## FL-04 -- Rep. John Rutherford (R)
+### Committees
+John Rutherford is not on any of our key committees 
+
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -164,6 +181,9 @@ UNIVERSITY OF NORTH FLORIDA, THE 2014      407491
 <a name="FL-05"></a>
 [Back to top](#top)
 ## FL-05 -- Rep. Al Lawson (D)
+### Committees
+Al Lawson is not on any of our key committees 
+
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -183,6 +203,9 @@ FLORIDA STATE UNIVERSITY, THE 2017           0
 <a name="FL-06"></a>
 [Back to top](#top)
 ## FL-06 -- Rep. Ron DeSantis (R)
+### Committees
+Ron DeSantis is not on any of our key committees 
+
 ### HEP Grants
 ```
 In the past 5 years, this district has received: $4,654,000.00 in SC HEP grants.
@@ -208,6 +231,9 @@ UNIVERSITY OF FLORIDA                    2012     8068148
 <a name="FL-07"></a>
 [Back to top](#top)
 ## FL-07 -- Rep. Stephanie Murphy (D)
+### Committees
+Stephanie Murphy is not on any of our key committees 
+
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -229,6 +255,9 @@ UNIVERSITY OF CENTRAL FLORIDA 2013     1474709
 <a name="FL-08"></a>
 [Back to top](#top)
 ## FL-08 -- Rep. Bill Posey (R)
+### Committees
+Bill Posey is the #6 Republican on the House Committee on Science, Space, and Technology 
+
 ### HEP Grants
 ```
 In the past 5 years, this district has received: $781,000.00 in SC HEP grants.
@@ -256,6 +285,9 @@ Florida Institute of Tech             2015       86189
 <a name="FL-09"></a>
 [Back to top](#top)
 ## FL-09 -- Rep. Darren Soto (D)
+### Committees
+Darren Soto is not on any of our key committees 
+
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -272,6 +304,9 @@ This district received no NSF MPS grants from 2012-2016
 <a name="FL-10"></a>
 [Back to top](#top)
 ## FL-10 -- Rep. Val Demings (D)
+### Committees
+Val Demings is not on any of our key committees 
+
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -291,6 +326,9 @@ ECKERD COLLEGE, INC. 2012      107255
 <a name="FL-11"></a>
 [Back to top](#top)
 ## FL-11 -- Rep. Daniel Webster (R)
+### Committees
+Daniel Webster is the #17 Republican on the House Committee on Science, Space, and Technology 
+
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -311,6 +349,9 @@ UNIVERSITY OF SOUTH FLORIDA 2012     1863871
 <a name="FL-12"></a>
 [Back to top](#top)
 ## FL-12 -- Rep. Gus Bilirakis (R)
+### Committees
+Gus Bilirakis is the #18 Republican on the House Committee on Energy and Commerce 
+
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -327,6 +368,9 @@ This district received no NSF MPS grants from 2012-2016
 <a name="FL-13"></a>
 [Back to top](#top)
 ## FL-13 -- Rep. Charlie Crist (D)
+### Committees
+Charlie Crist is the #16 Democrat on the House Committee on Science, Space, and Technology 
+
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -343,6 +387,9 @@ This district received no NSF MPS grants from 2012-2016
 <a name="FL-14"></a>
 [Back to top](#top)
 ## FL-14 -- Rep. Kathy Castor (D)
+### Committees
+Kathy Castor is the #11 Democrat on the House Committee on Energy and Commerce 
+
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -362,6 +409,9 @@ UNIVERSITY OF SOUTH FLORIDA 2017           0
 <a name="FL-15"></a>
 [Back to top](#top)
 ## FL-15 -- Rep. Dennis Ross (R)
+### Committees
+Dennis Ross is not on any of our key committees 
+
 ### HEP Grants
 ```
 In the past 5 years, this district has received: $299,000.00 in SC HEP grants.
@@ -389,6 +439,9 @@ UNIVERSITY OF SOUTH FLORIDA           2013      885488
 <a name="FL-16"></a>
 [Back to top](#top)
 ## FL-16 -- Rep. Vern Buchanan (R)
+### Committees
+Vern Buchanan is not on any of our key committees 
+
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -411,6 +464,9 @@ NEW COLLEGE OF FLORIDA 2014      244153
 <a name="FL-17"></a>
 [Back to top](#top)
 ## FL-17 -- Rep. Thomas Rooney (R)
+### Committees
+Thomas Rooney is the #16 Republican on the House Committee on Appropriations 
+
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -431,6 +487,9 @@ UNIVERSITY OF MIAMI 2012      288741
 <a name="FL-18"></a>
 [Back to top](#top)
 ## FL-18 -- Rep. Brian Mast (R)
+### Committees
+Brian Mast is not on any of our key committees 
+
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -450,6 +509,9 @@ UNIVERSITY OF MIAMI 2012     1502164
 <a name="FL-19"></a>
 [Back to top](#top)
 ## FL-19 -- Rep. Francis Rooney (R)
+### Committees
+Francis Rooney is not on any of our key committees 
+
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -470,6 +532,9 @@ Florida Gulf Coast Univ     2015       30000
 <a name="FL-20"></a>
 [Back to top](#top)
 ## FL-20 -- Rep. Alcee Hastings (D)
+### Committees
+Alcee Hastings is not on any of our key committees 
+
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -489,6 +554,9 @@ UNIVERSITY OF MIAMI 2012       40000
 <a name="FL-21"></a>
 [Back to top](#top)
 ## FL-21 -- Rep. Lois Frankel (D)
+### Committees
+Lois Frankel is not on any of our key committees 
+
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -511,6 +579,9 @@ FLORIDA INTERNATIONAL UNIVERSITY 2012     1558838
 <a name="FL-22"></a>
 [Back to top](#top)
 ## FL-22 -- Rep. Theodore Deutch (D)
+### Committees
+Theodore Deutch is not on any of our key committees 
+
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -536,6 +607,9 @@ Florida Atlantic Univ       2015       45565
 <a name="FL-23"></a>
 [Back to top](#top)
 ## FL-23 -- Rep. Debbie Wasserman Schultz (D)
+### Committees
+Debbie Wasserman Schultz is the #13 Democrat on the House Committee on Appropriations 
+
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -552,6 +626,9 @@ This district received no NSF MPS grants from 2012-2016
 <a name="FL-24"></a>
 [Back to top](#top)
 ## FL-24 -- Rep. Frederica Wilson (D)
+### Committees
+Frederica Wilson is the #6 Democrat on the House Subcommittee on Early Childhood, Elementary, and Secondary Education 
+
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -574,6 +651,9 @@ UNIVERSITY OF MIAMI           2013      139999
 <a name="FL-25"></a>
 [Back to top](#top)
 ## FL-25 -- Rep. Mario Diaz-Balart (R)
+### Committees
+Mario Diaz-Balart is the #10 Republican on the House Committee on Appropriations 
+
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -594,6 +674,9 @@ FLORIDA INTERNATIONAL UNIVERSITY 2013      103086
 <a name="FL-26"></a>
 [Back to top](#top)
 ## FL-26 -- Rep. Carlos Curbelo (R)
+### Committees
+Carlos Curbelo is not on any of our key committees 
+
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -619,6 +702,9 @@ Florida International Univ       2015      126125
 <a name="FL-27"></a>
 [Back to top](#top)
 ## FL-27 -- Rep. Ileana Ros-Lehtinen (R)
+### Committees
+Ileana Ros-Lehtinen is not on any of our key committees 
+
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016

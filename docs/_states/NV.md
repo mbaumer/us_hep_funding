@@ -10,6 +10,13 @@ permalink : /states/NV/
 [NV-01](#NV-01)  [NV-02](#NV-02)  [NV-03](#NV-03)  [NV-04](#NV-04)  
 
 # NV -- Sen. Catherine Cortez Masto (D) and  Sen. Dean Heller (R)
+## Committees
+Catherine Cortez Masto is the #13 Democrat on the Senate Committee on Commerce, Science, and Transportation 
+
+Catherine Cortez Masto is the #11 Democrat on the Senate Committee on Energy and Natural Resources 
+
+Dean Heller is the #8 Republican on the Senate Committee on Commerce, Science, and Transportation 
+
 ## HEP Grants
 ```
 In the past 5 years, this state has received:
@@ -59,6 +66,9 @@ UNIVERSITY OF NEVADA, RENO                    2012      926494
 <a name="NV-01"></a>
 [Back to top](#top)
 ## NV-01 -- Rep. Dina Titus (D)
+### Committees
+Dina Titus is not on any of our key committees 
+
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -88,6 +98,9 @@ BOARD OF REGENTS NEVADA SYSTEM OF HIGHER EDUC 2012      240656
 <a name="NV-02"></a>
 [Back to top](#top)
 ## NV-02 -- Rep. Mark Amodei (R)
+### Committees
+Mark Amodei is the #23 Republican on the House Committee on Appropriations 
+
 ### HEP Grants
 ```
 In the past 5 years, this district has received: $0.00 in SC HEP grants.
@@ -118,6 +131,9 @@ UNIVERSITY OF NEVADA, RENO        2012      926494
 <a name="NV-03"></a>
 [Back to top](#top)
 ## NV-03 -- Rep. Jacky Rosen (D)
+### Committees
+Jacky Rosen is the #9 Democrat on the House Committee on Science, Space, and Technology 
+
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -139,6 +155,9 @@ This district received no NSF MPS grants from 2012-2016
 <a name="NV-04"></a>
 [Back to top](#top)
 ## NV-04 -- Rep. Ruben Kihuen (D)
+### Committees
+Ruben Kihuen is not on any of our key committees 
+
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016

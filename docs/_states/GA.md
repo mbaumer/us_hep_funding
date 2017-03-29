@@ -10,6 +10,11 @@ permalink : /states/GA/
 [GA-01](#GA-01)  [GA-02](#GA-02)  [GA-03](#GA-03)  [GA-04](#GA-04)  [GA-05](#GA-05)  [GA-06](#GA-06)  [GA-07](#GA-07)  [GA-08](#GA-08)  [GA-09](#GA-09)  [GA-10](#GA-10)  [GA-11](#GA-11)  [GA-12](#GA-12)  [GA-13](#GA-13)  [GA-14](#GA-14)  
 
 # GA -- Sen. John Isakson (R) and  Sen. David Perdue (R)
+## Committees
+John Isakson is not on any of our key committees 
+
+David Perdue is not on any of our key committees 
+
 ## HEP Grants
 ```
 This state received no SC HEP grants from 2012-2016
@@ -53,6 +58,9 @@ and  11  other institutions.
 <a name="GA-01"></a>
 [Back to top](#top)
 ## GA-01 -- Rep. Buddy Carter (R)
+### Committees
+Buddy Carter is the #31 Republican on the House Committee on Energy and Commerce 
+
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -72,6 +80,9 @@ BUCKNELL UNIVERSITY 2013      105000
 <a name="GA-02"></a>
 [Back to top](#top)
 ## GA-02 -- Rep. Sanford Bishop (D)
+### Committees
+Sanford Bishop is the #8 Democrat on the House Committee on Appropriations 
+
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -88,6 +99,9 @@ This district received no NSF MPS grants from 2012-2016
 <a name="GA-03"></a>
 [Back to top](#top)
 ## GA-03 -- Rep. A. Ferguson (R)
+### Committees
+A. Ferguson is not on any of our key committees 
+
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -108,6 +122,9 @@ UNIVERSITY OF WEST GEORGIA 2013      229699
 <a name="GA-04"></a>
 [Back to top](#top)
 ## GA-04 -- Rep. Henry Johnson (D)
+### Committees
+Henry Johnson is not on any of our key committees 
+
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -131,6 +148,9 @@ Emory University          2015      108000
 <a name="GA-05"></a>
 [Back to top](#top)
 ## GA-05 -- Rep. John Lewis (D)
+### Committees
+John Lewis is not on any of our key committees 
+
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -186,6 +206,9 @@ This district received no NSF MPS grants from 2012-2016
 <a name="GA-07"></a>
 [Back to top](#top)
 ## GA-07 -- Rep. Rob Woodall (R)
+### Committees
+Rob Woodall is not on any of our key committees 
+
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -209,6 +232,9 @@ This district received no NSF MPS grants from 2012-2016
 <a name="GA-08"></a>
 [Back to top](#top)
 ## GA-08 -- Rep. Austin Scott (R)
+### Committees
+Austin Scott is not on any of our key committees 
+
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -225,6 +251,9 @@ This district received no NSF MPS grants from 2012-2016
 <a name="GA-09"></a>
 [Back to top](#top)
 ## GA-09 -- Rep. Doug Collins (R)
+### Committees
+Doug Collins is not on any of our key committees 
+
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -244,6 +273,9 @@ UNIVERSITY OF NORTH GEORGIA 2014       86469
 <a name="GA-10"></a>
 [Back to top](#top)
 ## GA-10 -- Rep. Jody Hice (R)
+### Committees
+Jody Hice is not on any of our key committees 
+
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -266,6 +298,9 @@ UNIVERSITY OF GEORGIA RESEARCH FOUNDATION, IN 2012     2411143
 <a name="GA-11"></a>
 [Back to top](#top)
 ## GA-11 -- Rep. Barry Loudermilk (R)
+### Committees
+Barry Loudermilk is the #14 Republican on the House Committee on Science, Space, and Technology 
+
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -289,6 +324,9 @@ KENNESAW STATE UNIVERSITY  RESEARCH AND SERVI 2012      120000
 <a name="GA-12"></a>
 [Back to top](#top)
 ## GA-12 -- Rep. Rick Allen (R)
+### Committees
+Rick Allen is the #8 Republican on the House Subcommittee on Higher Education and Workforce Development 
+
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -313,6 +351,9 @@ SAVANNAH STATE UNIVERSITY                     2012      547229
 <a name="GA-13"></a>
 [Back to top](#top)
 ## GA-13 -- Rep. David Scott (D)
+### Committees
+David Scott is not on any of our key committees 
+
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -329,6 +370,9 @@ This district received no NSF MPS grants from 2012-2016
 <a name="GA-14"></a>
 [Back to top](#top)
 ## GA-14 -- Rep. Tom Graves (R)
+### Committees
+Tom Graves is the #12 Republican on the House Committee on Appropriations 
+
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016

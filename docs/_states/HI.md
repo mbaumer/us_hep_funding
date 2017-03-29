@@ -10,6 +10,15 @@ permalink : /states/HI/
 [HI-01](#HI-01)  [HI-02](#HI-02)  
 
 # HI -- Sen. Mazie Hirono (D) and  Sen. Brian Schatz (D)
+## Committees
+Mazie Hirono is the #8 Democrat on the Senate Committee on Energy and Natural Resources 
+
+Brian Schatz is the #6 Democrat on the Senate Appropriations Subcommittee on Commerce, Justice, Science, and Related Agencies 
+
+Brian Schatz is the #5 Democrat on the Senate Committee on Commerce, Science, and Transportation 
+
+Brian Schatz is the #11 Democrat on the Senate Committee on Appropriations 
+
 ## HEP Grants
 ```
 In the past 5 years, this state has received:
@@ -44,6 +53,9 @@ CALIFORNIA ASSOCIATION FOR RESEARCH IN ASTRONOMY           0
 <a name="HI-01"></a>
 [Back to top](#top)
 ## HI-01 -- Rep. Colleen Hanabusa (D)
+### Committees
+Colleen Hanabusa is the #15 Democrat on the House Committee on Science, Space, and Technology 
+
 ### HEP Grants
 ```
 In the past 5 years, this district has received: $5,215,000.00 in SC HEP grants.
@@ -70,6 +82,9 @@ UNIVERSITY OF HAWAII SYSTEMS 2012     5649430
 <a name="HI-02"></a>
 [Back to top](#top)
 ## HI-02 -- Rep. Tulsi Gabbard (D)
+### Committees
+Tulsi Gabbard is not on any of our key committees 
+
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016

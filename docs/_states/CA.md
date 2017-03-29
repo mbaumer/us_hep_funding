@@ -10,6 +10,15 @@ permalink : /states/CA/
 [CA-01](#CA-01)  [CA-02](#CA-02)  [CA-03](#CA-03)  [CA-04](#CA-04)  [CA-05](#CA-05)  [CA-06](#CA-06)  [CA-07](#CA-07)  [CA-08](#CA-08)  [CA-09](#CA-09)  [CA-10](#CA-10)  [CA-11](#CA-11)  [CA-12](#CA-12)  [CA-13](#CA-13)  [CA-14](#CA-14)  [CA-15](#CA-15)  [CA-16](#CA-16)  [CA-17](#CA-17)  [CA-18](#CA-18)  [CA-19](#CA-19)  [CA-20](#CA-20)  [CA-21](#CA-21)  [CA-22](#CA-22)  [CA-23](#CA-23)  [CA-24](#CA-24)  [CA-25](#CA-25)  [CA-26](#CA-26)  [CA-27](#CA-27)  [CA-28](#CA-28)  [CA-29](#CA-29)  [CA-30](#CA-30)  [CA-31](#CA-31)  [CA-32](#CA-32)  [CA-33](#CA-33)  [CA-34](#CA-34)  [CA-35](#CA-35)  [CA-36](#CA-36)  [CA-37](#CA-37)  [CA-38](#CA-38)  [CA-39](#CA-39)  [CA-40](#CA-40)  [CA-41](#CA-41)  [CA-42](#CA-42)  [CA-43](#CA-43)  [CA-44](#CA-44)  [CA-45](#CA-45)  [CA-46](#CA-46)  [CA-47](#CA-47)  [CA-48](#CA-48)  [CA-49](#CA-49)  [CA-50](#CA-50)  [CA-51](#CA-51)  [CA-52](#CA-52)  [CA-53](#CA-53)  
 
 # CA -- Sen. Dianne Feinstein (D) and  Sen. Kamala Harris (D)
+## Committees
+Dianne Feinstein is the #3 Democrat on the Senate Appropriations Subcommittee on Commerce, Justice, Science, and Related Agencies 
+
+Dianne Feinstein is the #3 Democrat on the Senate Committee on Appropriations 
+
+Dianne Feinstein is the #1 Democrat on the Senate Appropriations Subcommittee on Energy and Water Development 
+
+Kamala Harris is not on any of our key committees 
+
 ## HEP Grants
 ```
 In the past 5 years, this state has received:
@@ -72,6 +81,9 @@ and  87  other institutions.
 <a name="CA-01"></a>
 [Back to top](#top)
 ## CA-01 -- Rep. Doug LaMalfa (R)
+### Committees
+Doug LaMalfa is not on any of our key committees 
+
 ### HEP Grants
 ```
 In the past 5 years, this district has received: $4,697,000.00 in SC HEP grants.
@@ -100,6 +112,9 @@ UNIVERSITY OF CALIFORNIA, DAVIS 2012     8102699
 <a name="CA-02"></a>
 [Back to top](#top)
 ## CA-02 -- Rep. Jared Huffman (D)
+### Committees
+Jared Huffman is not on any of our key committees 
+
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -122,6 +137,9 @@ HUMBOLDT STATE UNIVERSITY SPONSORED PROGRAMS 2013      103132
 <a name="CA-03"></a>
 [Back to top](#top)
 ## CA-03 -- Rep. John Garamendi (D)
+### Committees
+John Garamendi is not on any of our key committees 
+
 ### HEP Grants
 ```
 In the past 5 years, this district has received: $6,782,000.00 in SC HEP grants.
@@ -149,6 +167,9 @@ UNIVERSITY OF CALIFORNIA, DAVIS 2013     5051141
 <a name="CA-04"></a>
 [Back to top](#top)
 ## CA-04 -- Rep. Tom McClintock (R)
+### Committees
+Tom McClintock is not on any of our key committees 
+
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -168,6 +189,9 @@ U of Cal Davis 2015       10000
 <a name="CA-05"></a>
 [Back to top](#top)
 ## CA-05 -- Rep. Mike Thompson (D)
+### Committees
+Mike Thompson is not on any of our key committees 
+
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -188,6 +212,9 @@ CALIFORNIA STATE UNIVERSITY 2013      100000
 <a name="CA-06"></a>
 [Back to top](#top)
 ## CA-06 -- Rep. Doris Matsui (D)
+### Committees
+Doris Matsui is the #10 Democrat on the House Committee on Energy and Commerce 
+
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -208,6 +235,9 @@ SETI INSTITUTE              2012       96379
 <a name="CA-07"></a>
 [Back to top](#top)
 ## CA-07 -- Rep. Ami Bera (D)
+### Committees
+Ami Bera is the #5 Democrat on the House Committee on Science, Space, and Technology 
+
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -224,6 +254,9 @@ This district received no NSF MPS grants from 2012-2016
 <a name="CA-08"></a>
 [Back to top](#top)
 ## CA-08 -- Rep. Paul Cook (R)
+### Committees
+Paul Cook is not on any of our key committees 
+
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -248,6 +281,11 @@ UNIVERSITY OF SAN FRANCISCO INC         2012       68617
 <a name="CA-09"></a>
 [Back to top](#top)
 ## CA-09 -- Rep. Jerry McNerney (D)
+### Committees
+Jerry McNerney is the #10 Democrat on the House Committee on Science, Space, and Technology 
+
+Jerry McNerney is the #13 Democrat on the House Committee on Energy and Commerce 
+
 ### HEP Grants
 ```
 In the past 5 years, this district has received: $866,000.00 in SC HEP grants.
@@ -286,6 +324,9 @@ UNIVERSITY OF SOUTHERN CALIFORNIA            2012        5835
 <a name="CA-10"></a>
 [Back to top](#top)
 ## CA-10 -- Rep. Jeff Denham (R)
+### Committees
+Jeff Denham is not on any of our key committees 
+
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -302,6 +343,9 @@ This district received no NSF MPS grants from 2012-2016
 <a name="CA-11"></a>
 [Back to top](#top)
 ## CA-11 -- Rep. Mark DeSaulnier (D)
+### Committees
+Mark DeSaulnier is the #4 Democrat on the House Subcommittee on Higher Education and Workforce Development 
+
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -321,6 +365,9 @@ UNIVERSITY OF PACIFIC 2012      180000
 <a name="CA-12"></a>
 [Back to top](#top)
 ## CA-12 -- Rep. Nancy Pelosi (D)
+### Committees
+Nancy Pelosi is not on any of our key committees 
+
 ### HEP Grants
 ```
 In the past 5 years, this district has received: $385,000.00 in SC HEP grants.
@@ -347,6 +394,9 @@ UNIVERSITY OF WASHINGTON                2014       20000
 <a name="CA-13"></a>
 [Back to top](#top)
 ## CA-13 -- Rep. Barbara Lee (D)
+### Committees
+Barbara Lee is the #9 Democrat on the House Committee on Appropriations 
+
 ### HEP Grants
 ```
 In the past 5 years, this district has received: $509,000.00 in SC HEP grants.
@@ -399,6 +449,9 @@ UNIVERSITY OF WISCONSIN SYSTEM                2013       29999
 <a name="CA-14"></a>
 [Back to top](#top)
 ## CA-14 -- Rep. Jackie Speier (D)
+### Committees
+Jackie Speier is not on any of our key committees 
+
 ### HEP Grants
 ```
 In the past 5 years, this district has received: $4,503,000.00 in SC HEP grants.
@@ -439,6 +492,9 @@ San Francisco State Univ               2015     -100213
 <a name="CA-15"></a>
 [Back to top](#top)
 ## CA-15 -- Rep. Eric Swalwell (D)
+### Committees
+Eric Swalwell is not on any of our key committees 
+
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -462,6 +518,9 @@ PRESIDENT AND BOARD OF TRUSTEES OF SANTA CLAR 2012       39015
 <a name="CA-16"></a>
 [Back to top](#top)
 ## CA-16 -- Rep. Jim Costa (D)
+### Committees
+Jim Costa is not on any of our key committees 
+
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -484,6 +543,9 @@ UNIVERSITY OF CALIFORNIA MERCED               2013     1241709
 <a name="CA-17"></a>
 [Back to top](#top)
 ## CA-17 -- Rep. Ro Khanna (D)
+### Committees
+Ro Khanna is not on any of our key committees 
+
 ### HEP Grants
 ```
 In the past 5 years, this district has received: $5,381,000.00 in SC HEP grants.
@@ -512,6 +574,9 @@ UNIVERSITY OF CALIFORNIA, SANTA CRUZ          2012     4733020
 <a name="CA-18"></a>
 [Back to top](#top)
 ## CA-18 -- Rep. Anna Eshoo (D)
+### Committees
+Anna Eshoo is the #3 Democrat on the House Committee on Energy and Commerce 
+
 ### HEP Grants
 ```
 In the past 5 years, this district has received: $4,945,000.00 in SC HEP grants.
@@ -558,6 +623,9 @@ UNIVERSITY OF CALIFORNIA, MERCED              2012      114985
 <a name="CA-19"></a>
 [Back to top](#top)
 ## CA-19 -- Rep. Zoe Lofgren (D)
+### Committees
+Zoe Lofgren is the #2 Democrat on the House Committee on Science, Space, and Technology 
+
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -574,6 +642,9 @@ This district received no NSF MPS grants from 2012-2016
 <a name="CA-20"></a>
 [Back to top](#top)
 ## CA-20 -- Rep. Jimmy Panetta (D)
+### Committees
+Jimmy Panetta is not on any of our key committees 
+
 ### HEP Grants
 ```
 In the past 5 years, this district has received: $7,616,903.00 in SC HEP grants.
@@ -604,6 +675,9 @@ UNIVERSITY OF CALIFORNIA, SANTA CRUZ          2013     4852576
 <a name="CA-21"></a>
 [Back to top](#top)
 ## CA-21 -- Rep. David Valadao (R)
+### Committees
+David Valadao is the #20 Republican on the House Committee on Appropriations 
+
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -625,6 +699,9 @@ MULTIPLE RECIPIENTS                           2013       89000
 <a name="CA-22"></a>
 [Back to top](#top)
 ## CA-22 -- Rep. Devin Nunes (R)
+### Committees
+Devin Nunes is not on any of our key committees 
+
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -646,6 +723,9 @@ CALIFORNIA STATE UNIVERSITY, BAKERSFIELD      2012      269594
 <a name="CA-23"></a>
 [Back to top](#top)
 ## CA-23 -- Rep. Kevin McCarthy (R)
+### Committees
+Kevin McCarthy is not on any of our key committees 
+
 ### HEP Grants
 ```
 In the past 5 years, this district has received: $4,747,000.00 in SC HEP grants.
@@ -672,6 +752,9 @@ WESTMONT COLLEGE                              2012       25000
 <a name="CA-24"></a>
 [Back to top](#top)
 ## CA-24 -- Rep. Salud Carbajal (D)
+### Committees
+Salud Carbajal is not on any of our key committees 
+
 ### HEP Grants
 ```
 In the past 5 years, this district has received: $7,516,695.71 in SC HEP grants.
@@ -705,6 +788,9 @@ WESTMONT COLLEGE                              2013       50000
 <a name="CA-25"></a>
 [Back to top](#top)
 ## CA-25 -- Rep. Steve Knight (R)
+### Committees
+Steve Knight is the #10 Republican on the House Committee on Science, Space, and Technology 
+
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -721,6 +807,9 @@ This district received no NSF MPS grants from 2012-2016
 <a name="CA-26"></a>
 [Back to top](#top)
 ## CA-26 -- Rep. Julia Brownley (D)
+### Committees
+Julia Brownley is not on any of our key committees 
+
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -751,6 +840,9 @@ POMONA COLLEGE                               2012       56236
 <a name="CA-27"></a>
 [Back to top](#top)
 ## CA-27 -- Rep. Judy Chu (D)
+### Committees
+Judy Chu is not on any of our key committees 
+
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -787,6 +879,9 @@ UNIVERSITY OF CALIFORNIA, SANTA BARBARA 2012      443864
 <a name="CA-28"></a>
 [Back to top](#top)
 ## CA-28 -- Rep. Adam Schiff (D)
+### Committees
+Adam Schiff is not on any of our key committees 
+
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -807,6 +902,9 @@ LOS ANGELES CITY COLLEGE    2013      226253
 <a name="CA-29"></a>
 [Back to top](#top)
 ## CA-29 -- Rep. Tony Cárdenas (D)
+### Committees
+Tony Cárdenas is the #21 Democrat on the House Committee on Energy and Commerce 
+
 ### HEP Grants
 ```
 In the past 5 years, this district has received: $21,245,000.00 in SC HEP grants.
@@ -835,6 +933,9 @@ MULTIPLE RECIPIENTS                2012      474000
 <a name="CA-30"></a>
 [Back to top](#top)
 ## CA-30 -- Rep. Brad Sherman (D)
+### Committees
+Brad Sherman is not on any of our key committees 
+
 ### HEP Grants
 ```
 In the past 5 years, this district has received: $8,728,000.00 in SC HEP grants.
@@ -861,6 +962,9 @@ UNIVERSITY OF CALIFORNIA, LOS ANGELES 2012    16848326
 <a name="CA-31"></a>
 [Back to top](#top)
 ## CA-31 -- Rep. Pete Aguilar (D)
+### Committees
+Pete Aguilar is the #22 Democrat on the House Committee on Appropriations 
+
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -882,6 +986,9 @@ UNIVERSITY ENTERPRISES CORPORATION AT CSUSB 2013      871578
 <a name="CA-32"></a>
 [Back to top](#top)
 ## CA-32 -- Rep. Grace Napolitano (D)
+### Committees
+Grace Napolitano is not on any of our key committees 
+
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -901,6 +1008,9 @@ CALIFORNIA STATE UNIVERSITY AUXILIARY SERVICE 2012     1178134
 <a name="CA-33"></a>
 [Back to top](#top)
 ## CA-33 -- Rep. Ted Lieu (D)
+### Committees
+Ted Lieu is not on any of our key committees 
+
 ### HEP Grants
 ```
 In the past 5 years, this district has received: $11,895,000.00 in SC HEP grants.
@@ -959,6 +1069,9 @@ UNIVERSITY OF SOUTHERN CALIFORNIA 2012      100000
 <a name="CA-35"></a>
 [Back to top](#top)
 ## CA-35 -- Rep. Norma Torres (D)
+### Committees
+Norma Torres is not on any of our key committees 
+
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -980,6 +1093,9 @@ Cal Poly Pomona Fdn, Inc       2015       56046
 <a name="CA-36"></a>
 [Back to top](#top)
 ## CA-36 -- Rep. Raul Ruiz (D)
+### Committees
+Raul Ruiz is the #22 Democrat on the House Committee on Energy and Commerce 
+
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -996,6 +1112,9 @@ This district received no NSF MPS grants from 2012-2016
 <a name="CA-37"></a>
 [Back to top](#top)
 ## CA-37 -- Rep. Karen Bass (D)
+### Committees
+Karen Bass is not on any of our key committees 
+
 ### HEP Grants
 ```
 In the past 5 years, this district has received: $1,120,000.00 in SC HEP grants.
@@ -1025,6 +1144,9 @@ UNIVERSITY OF SOUTHERN CALIFORNIA 2013     1806707
 <a name="CA-38"></a>
 [Back to top](#top)
 ## CA-38 -- Rep. Linda Sánchez (D)
+### Committees
+Linda Sánchez is not on any of our key committees 
+
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -1047,6 +1169,9 @@ CAL POLY POMONA FOUNDATION INC 2012       37077
 <a name="CA-39"></a>
 [Back to top](#top)
 ## CA-39 -- Rep. Edward Royce (R)
+### Committees
+Edward Royce is not on any of our key committees 
+
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -1068,6 +1193,9 @@ CSU FULLERTON AUXILIARY SERVICES CORPORATION 2014     1034154
 <a name="CA-40"></a>
 [Back to top](#top)
 ## CA-40 -- Rep. Lucille Roybal-Allard (D)
+### Committees
+Lucille Roybal-Allard is the #7 Democrat on the House Committee on Appropriations 
+
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -1087,6 +1215,11 @@ CALIFORNIA STATE UNIVERSITY, FULLERTON 2012      157688
 <a name="CA-41"></a>
 [Back to top](#top)
 ## CA-41 -- Rep. Mark Takano (D)
+### Committees
+Mark Takano is the #14 Democrat on the House Committee on Science, Space, and Technology 
+
+Mark Takano is the #8 Democrat on the House Subcommittee on Higher Education and Workforce Development 
+
 ### HEP Grants
 ```
 In the past 5 years, this district has received: $3,213,000.00 in SC HEP grants.
@@ -1115,6 +1248,9 @@ UNIVERSITY ENTERPRISES CORPORATION AT CSUSB        2012      739209
 <a name="CA-42"></a>
 [Back to top](#top)
 ## CA-42 -- Rep. Ken Calvert (R)
+### Committees
+Ken Calvert is the #8 Republican on the House Committee on Appropriations 
+
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -1131,6 +1267,9 @@ This district received no NSF MPS grants from 2012-2016
 <a name="CA-43"></a>
 [Back to top](#top)
 ## CA-43 -- Rep. Maxine Waters (D)
+### Committees
+Maxine Waters is not on any of our key committees 
+
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -1150,6 +1289,9 @@ LOYOLA MARYMOUNT UNIVERSITY INC 2014       55466
 <a name="CA-44"></a>
 [Back to top](#top)
 ## CA-44 -- Rep. Nanette Barragán (D)
+### Committees
+Nanette Barragán is not on any of our key committees 
+
 ### HEP Grants
 ```
 In the past 5 years, this district has received: $2,573,000.00 in SC HEP grants.
@@ -1182,6 +1324,9 @@ U of Cal Riverside                            2015      110000
 <a name="CA-45"></a>
 [Back to top](#top)
 ## CA-45 -- Rep. Mimi Walters (R)
+### Committees
+Mimi Walters is the #29 Republican on the House Committee on Energy and Commerce 
+
 ### HEP Grants
 ```
 In the past 5 years, this district has received: $7,418,000.00 in SC HEP grants.
@@ -1208,6 +1353,9 @@ UNIVERSITY OF CALIFORNIA, IRVINE 2013     7457002
 <a name="CA-46"></a>
 [Back to top](#top)
 ## CA-46 -- Rep. J. Correa (D)
+### Committees
+J. Correa is not on any of our key committees 
+
 ### HEP Grants
 ```
 In the past 5 years, this district has received: $40,000.00 in SC HEP grants.
@@ -1233,6 +1381,9 @@ CHAPMAN UNIVERSITY                            2013       39553
 <a name="CA-47"></a>
 [Back to top](#top)
 ## CA-47 -- Rep. Alan Lowenthal (D)
+### Committees
+Alan Lowenthal is not on any of our key committees 
+
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -1259,6 +1410,9 @@ Cal State U Long Beach Fdn                    2015      125000
 <a name="CA-48"></a>
 [Back to top](#top)
 ## CA-48 -- Rep. Dana Rohrabacher (R)
+### Committees
+Dana Rohrabacher is the #2 Republican on the House Committee on Science, Space, and Technology 
+
 ### HEP Grants
 ```
 In the past 5 years, this district has received: $4,925,000.00 in SC HEP grants.
@@ -1288,6 +1442,9 @@ UNIVERSITY OF CALIFORNIA, LOS ANGELES         2012       16908
 <a name="CA-49"></a>
 [Back to top](#top)
 ## CA-49 -- Rep. Darrell Issa (R)
+### Committees
+Darrell Issa is not on any of our key committees 
+
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -1312,6 +1469,9 @@ UNIVERSITY OF CALIFORNIA, SAN DIEGO 2013    12589685
 <a name="CA-50"></a>
 [Back to top](#top)
 ## CA-50 -- Rep. Duncan Hunter (R)
+### Committees
+Duncan Hunter is the #2 Republican on the House Subcommittee on Early Childhood, Elementary, and Secondary Education 
+
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -1331,6 +1491,9 @@ SCIBERQUEST, INC. 2012       55000
 <a name="CA-51"></a>
 [Back to top](#top)
 ## CA-51 -- Rep. Juan Vargas (D)
+### Committees
+Juan Vargas is not on any of our key committees 
+
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -1347,6 +1510,9 @@ This district received no NSF MPS grants from 2012-2016
 <a name="CA-52"></a>
 [Back to top](#top)
 ## CA-52 -- Rep. Scott Peters (D)
+### Committees
+Scott Peters is the #23 Democrat on the House Committee on Energy and Commerce 
+
 ### HEP Grants
 ```
 In the past 5 years, this district has received: $4,875,000.00 in SC HEP grants.
@@ -1379,6 +1545,11 @@ UNIVERSITY OF SAN DIEGO             2013      451293
 <a name="CA-53"></a>
 [Back to top](#top)
 ## CA-53 -- Rep. Susan Davis (D)
+### Committees
+Susan Davis is the #5 Democrat on the House Subcommittee on Early Childhood, Elementary, and Secondary Education 
+
+Susan Davis is the #1 Democrat on the House Subcommittee on Higher Education and Workforce Development 
+
 ### HEP Grants
 ```
 In the past 5 years, this district has received: $3,070,000.00 in SC HEP grants.

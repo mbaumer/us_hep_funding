@@ -10,6 +10,19 @@ permalink : /states/WV/
 [WV-01](#WV-01)  [WV-02](#WV-02)  [WV-03](#WV-03)  
 
 # WV -- Sen. Shelley Capito (R) and  Sen. Joe Manchin (D)
+## Committees
+Shelley Capito is the #7 Republican on the Senate Appropriations Subcommittee on Commerce, Justice, Science, and Related Agencies 
+
+Shelley Capito is the #12 Republican on the Senate Committee on Commerce, Science, and Transportation 
+
+Shelley Capito is the #12 Republican on the Senate Committee on Appropriations 
+
+Joe Manchin is the #7 Democrat on the Senate Appropriations Subcommittee on Commerce, Justice, Science, and Related Agencies 
+
+Joe Manchin is the #14 Democrat on the Senate Committee on Appropriations 
+
+Joe Manchin is the #6 Democrat on the Senate Committee on Energy and Natural Resources 
+
 ## HEP Grants
 ```
 This state received no SC HEP grants from 2012-2016
@@ -36,6 +49,9 @@ WV Univ Research Corp                         2015     1114918
 <a name="WV-01"></a>
 [Back to top](#top)
 ## WV-01 -- Rep. David McKinley (R)
+### Committees
+David McKinley is the #15 Republican on the House Committee on Energy and Commerce 
+
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -58,6 +74,9 @@ WV Univ Research Corp                         2015     1114918
 <a name="WV-02"></a>
 [Back to top](#top)
 ## WV-02 -- Rep. Alex Mooney (R)
+### Committees
+Alex Mooney is not on any of our key committees 
+
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -74,6 +93,9 @@ This district received no NSF MPS grants from 2012-2016
 <a name="WV-03"></a>
 [Back to top](#top)
 ## WV-03 -- Rep. Evan Jenkins (R)
+### Committees
+Evan Jenkins is the #26 Republican on the House Committee on Appropriations 
+
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016

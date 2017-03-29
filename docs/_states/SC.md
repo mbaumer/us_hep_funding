@@ -10,6 +10,15 @@ permalink : /states/SC/
 [SC-01](#SC-01)  [SC-02](#SC-02)  [SC-03](#SC-03)  [SC-04](#SC-04)  [SC-05](#SC-05)  [SC-06](#SC-06)  [SC-07](#SC-07)  
 
 # SC -- Sen. Lindsey Graham (R) and  Sen. Tim Scott (R)
+## Committees
+Lindsey Graham is the #5 Republican on the Senate Appropriations Subcommittee on Commerce, Justice, Science, and Related Agencies 
+
+Lindsey Graham is the #7 Republican on the Senate Committee on Appropriations 
+
+Lindsey Graham is the #7 Republican on the Senate Appropriations Subcommittee on Energy and Water Development 
+
+Tim Scott is not on any of our key committees 
+
 ## HEP Grants
 ```
 In the past 5 years, this state has received:
@@ -57,6 +66,9 @@ and  4  other institutions.
 <a name="SC-01"></a>
 [Back to top](#top)
 ## SC-01 -- Rep. Marshall Sanford (R)
+### Committees
+Marshall Sanford is not on any of our key committees 
+
 ### HEP Grants
 ```
 In the past 5 years, this district has received: $23,000.00 in SC HEP grants.
@@ -82,6 +94,9 @@ MEDICAL UNIVERSITY OF SOUTH CAROLINA 2012      158334
 <a name="SC-02"></a>
 [Back to top](#top)
 ## SC-02 -- Rep. Joe Wilson (R)
+### Committees
+Joe Wilson is not on any of our key committees 
+
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -98,6 +113,9 @@ This district received no NSF MPS grants from 2012-2016
 <a name="SC-03"></a>
 [Back to top](#top)
 ## SC-03 -- Rep. Jeff Duncan (R)
+### Committees
+Jeff Duncan is not on any of our key committees 
+
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -124,6 +142,9 @@ SPELMAN COLLEGE                        2012       28709
 <a name="SC-04"></a>
 [Back to top](#top)
 ## SC-04 -- Rep. Trey Gowdy (R)
+### Committees
+Trey Gowdy is not on any of our key committees 
+
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -168,6 +189,9 @@ WINTHROP UNIVERSITY 2014      291438
 <a name="SC-06"></a>
 [Back to top](#top)
 ## SC-06 -- Rep. James Clyburn (D)
+### Committees
+James Clyburn is not on any of our key committees 
+
 ### HEP Grants
 ```
 In the past 5 years, this district has received: $2,248,000.00 in SC HEP grants.
@@ -202,6 +226,9 @@ UNIVERSITY OF SOUTH CAROLINA         2013     3330308
 <a name="SC-07"></a>
 [Back to top](#top)
 ## SC-07 -- Rep. Tom Rice (R)
+### Committees
+Tom Rice is not on any of our key committees 
+
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016

@@ -10,6 +10,13 @@ permalink : /states/OK/
 [OK-01](#OK-01)  [OK-02](#OK-02)  [OK-03](#OK-03)  [OK-04](#OK-04)  [OK-05](#OK-05)  
 
 # OK -- Sen. James Inhofe (R) and  Sen. James Lankford (R)
+## Committees
+James Inhofe is the #9 Republican on the Senate Committee on Commerce, Science, and Transportation 
+
+James Lankford is the #8 Republican on the Senate Appropriations Subcommittee on Commerce, Justice, Science, and Related Agencies 
+
+James Lankford is the #13 Republican on the Senate Committee on Appropriations 
+
 ## HEP Grants
 ```
 In the past 5 years, this state has received:
@@ -56,6 +63,9 @@ U of Oklahoma                                  29958
 <a name="OK-01"></a>
 [Back to top](#top)
 ## OK-01 -- Rep. Jim Bridenstine (R)
+### Committees
+Jim Bridenstine is the #8 Republican on the House Committee on Science, Space, and Technology 
+
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -86,6 +96,9 @@ University of Tulsa       2015       90000
 <a name="OK-02"></a>
 [Back to top](#top)
 ## OK-02 -- Rep. Markwayne Mullin (R)
+### Committees
+Markwayne Mullin is the #24 Republican on the House Committee on Energy and Commerce 
+
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -105,6 +118,9 @@ ROGERS STATE UNIVERSITY FOUNDATION, INC. 2013       74591
 <a name="OK-03"></a>
 [Back to top](#top)
 ## OK-03 -- Rep. Frank Lucas (R)
+### Committees
+Frank Lucas is the #3 Republican on the House Committee on Science, Space, and Technology 
+
 ### HEP Grants
 ```
 In the past 5 years, this district has received: $1,218,000.00 in SC HEP grants.
@@ -135,6 +151,9 @@ Oklahoma State University 2015       40907
 <a name="OK-04"></a>
 [Back to top](#top)
 ## OK-04 -- Rep. Tom Cole (R)
+### Committees
+Tom Cole is the #9 Republican on the House Committee on Appropriations 
+
 ### HEP Grants
 ```
 In the past 5 years, this district has received: $3,893,000.00 in SC HEP grants.
@@ -165,6 +184,9 @@ UNIVERSITY OF OKLAHOMA 2012     2657662
 <a name="OK-05"></a>
 [Back to top](#top)
 ## OK-05 -- Rep. Steve Russell (R)
+### Committees
+Steve Russell is not on any of our key committees 
+
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016

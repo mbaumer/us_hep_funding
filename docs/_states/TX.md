@@ -10,6 +10,11 @@ permalink : /states/TX/
 [TX-01](#TX-01)  [TX-02](#TX-02)  [TX-03](#TX-03)  [TX-04](#TX-04)  [TX-05](#TX-05)  [TX-06](#TX-06)  [TX-07](#TX-07)  [TX-08](#TX-08)  [TX-09](#TX-09)  [TX-10](#TX-10)  [TX-11](#TX-11)  [TX-12](#TX-12)  [TX-13](#TX-13)  [TX-14](#TX-14)  [TX-15](#TX-15)  [TX-16](#TX-16)  [TX-17](#TX-17)  [TX-18](#TX-18)  [TX-19](#TX-19)  [TX-20](#TX-20)  [TX-21](#TX-21)  [TX-22](#TX-22)  [TX-23](#TX-23)  [TX-24](#TX-24)  [TX-25](#TX-25)  [TX-26](#TX-26)  [TX-27](#TX-27)  [TX-28](#TX-28)  [TX-29](#TX-29)  [TX-30](#TX-30)  [TX-31](#TX-31)  [TX-32](#TX-32)  [TX-33](#TX-33)  [TX-34](#TX-34)  [TX-35](#TX-35)  [TX-36](#TX-36)  
 
 # TX -- Sen. John Cornyn (R) and  Sen. Ted Cruz (R)
+## Committees
+John Cornyn is not on any of our key committees 
+
+Ted Cruz is the #4 Republican on the Senate Committee on Commerce, Science, and Transportation 
+
 ## HEP Grants
 ```
 In the past 5 years, this state has received:
@@ -65,6 +70,9 @@ and  47  other institutions.
 <a name="TX-01"></a>
 [Back to top](#top)
 ## TX-01 -- Rep. Louie Gohmert (R)
+### Committees
+Louie Gohmert is not on any of our key committees 
+
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -86,6 +94,9 @@ UNIVERSITY OF TEXAS AT TYLER, THE 2012       71265
 <a name="TX-02"></a>
 [Back to top](#top)
 ## TX-02 -- Rep. Ted Poe (R)
+### Committees
+Ted Poe is not on any of our key committees 
+
 ### HEP Grants
 ```
 In the past 5 years, this district has received: $1,789,000.00 in SC HEP grants.
@@ -112,6 +123,9 @@ William Marsh Rice Univ       2015      281591
 <a name="TX-03"></a>
 [Back to top](#top)
 ## TX-03 -- Rep. Sam Johnson (R)
+### Committees
+Sam Johnson is not on any of our key committees 
+
 ### HEP Grants
 ```
 In the past 5 years, this district has received: $535,000.00 in SC HEP grants.
@@ -132,6 +146,9 @@ This district received no NSF MPS grants from 2012-2016
 <a name="TX-04"></a>
 [Back to top](#top)
 ## TX-04 -- Rep. John Ratcliffe (R)
+### Committees
+John Ratcliffe is not on any of our key committees 
+
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -154,6 +171,9 @@ Texas A&M University          2015       95416
 <a name="TX-05"></a>
 [Back to top](#top)
 ## TX-05 -- Rep. Jeb Hensarling (R)
+### Committees
+Jeb Hensarling is not on any of our key committees 
+
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -170,6 +190,9 @@ This district received no NSF MPS grants from 2012-2016
 <a name="TX-06"></a>
 [Back to top](#top)
 ## TX-06 -- Rep. Joe Barton (R)
+### Committees
+Joe Barton is the #2 Republican on the House Committee on Energy and Commerce 
+
 ### HEP Grants
 ```
 In the past 5 years, this district has received: $4,096,000.00 in SC HEP grants.
@@ -199,6 +222,9 @@ UNIVERSITY OF TEXAS AT ARLINGTON 2012      758042
 <a name="TX-07"></a>
 [Back to top](#top)
 ## TX-07 -- Rep. John Culberson (R)
+### Committees
+John Culberson is the #6 Republican on the House Committee on Appropriations 
+
 ### HEP Grants
 ```
 In the past 5 years, this district has received: $1,326,000.00 in SC HEP grants.
@@ -225,6 +251,9 @@ William Marsh Rice Univ       2015       49964
 <a name="TX-08"></a>
 [Back to top](#top)
 ## TX-08 -- Rep. Kevin Brady (R)
+### Committees
+Kevin Brady is not on any of our key committees 
+
 ### HEP Grants
 ```
 In the past 5 years, this district has received: $710,000.00 in SC HEP grants.
@@ -249,6 +278,9 @@ SAM HOUSTON STATE UNIVERSITY 2013      403834
 <a name="TX-09"></a>
 [Back to top](#top)
 ## TX-09 -- Rep. Al Green (D)
+### Committees
+Al Green is not on any of our key committees 
+
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -275,6 +307,9 @@ WILLIAM MARSH RICE UNIVERSITY                2012     1068837
 <a name="TX-10"></a>
 [Back to top](#top)
 ## TX-10 -- Rep. Michael McCaul (R)
+### Committees
+Michael McCaul is not on any of our key committees 
+
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -305,6 +340,9 @@ UNIVERSITY OF TEXAS AT AUSTIN     2012     1705267
 <a name="TX-11"></a>
 [Back to top](#top)
 ## TX-11 -- Rep. K. Conaway (R)
+### Committees
+K. Conaway is not on any of our key committees 
+
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -321,6 +359,9 @@ This district received no NSF MPS grants from 2012-2016
 <a name="TX-12"></a>
 [Back to top](#top)
 ## TX-12 -- Rep. Kay Granger (R)
+### Committees
+Kay Granger is the #4 Republican on the House Committee on Appropriations 
+
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -342,6 +383,9 @@ TEXAS CHRISTIAN UNIVERSITY INC 2012       43440
 <a name="TX-13"></a>
 [Back to top](#top)
 ## TX-13 -- Rep. Mac Thornberry (R)
+### Committees
+Mac Thornberry is not on any of our key committees 
+
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -361,6 +405,9 @@ TEXAS A&M UNIVERSITY SYSTEM,THE 2014      371700
 <a name="TX-14"></a>
 [Back to top](#top)
 ## TX-14 -- Rep. Randy Weber (R)
+### Committees
+Randy Weber is the #9 Republican on the House Committee on Science, Space, and Technology 
+
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -381,6 +428,9 @@ UNIVERSITY OF TEXAS MEDICAL BRANCH AT GALVEST 2013      300000
 <a name="TX-15"></a>
 [Back to top](#top)
 ## TX-15 -- Rep. Vicente Gonzalez (D)
+### Committees
+Vicente Gonzalez is not on any of our key committees 
+
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -402,6 +452,9 @@ UNIVERSITY OF TEXAS - PAN AMERICAN 2012      578998
 <a name="TX-16"></a>
 [Back to top](#top)
 ## TX-16 -- Rep. Beto O'Rourke (D)
+### Committees
+Beto O'Rourke is not on any of our key committees 
+
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -423,6 +476,9 @@ UNIVERSITY OF TEXAS AT EL PASO 2012     1374004
 <a name="TX-17"></a>
 [Back to top](#top)
 ## TX-17 -- Rep. Bill Flores (R)
+### Committees
+Bill Flores is the #22 Republican on the House Committee on Energy and Commerce 
+
 ### HEP Grants
 ```
 In the past 5 years, this district has received: $8,741,000.00 in SC HEP grants.
@@ -474,6 +530,9 @@ The Texas A&M U Sys HSC RF                   2015       99999
 <a name="TX-18"></a>
 [Back to top](#top)
 ## TX-18 -- Rep. Sheila Jackson Lee (D)
+### Committees
+Sheila Jackson Lee is not on any of our key committees 
+
 ### HEP Grants
 ```
 In the past 5 years, this district has received: $2,709,000.00 in SC HEP grants.
@@ -507,6 +566,9 @@ UNIVERSITY OF TEXAS MEDICAL BRANCH AT GALVEST 2012      210000
 <a name="TX-19"></a>
 [Back to top](#top)
 ## TX-19 -- Rep. Jodey Arrington (R)
+### Committees
+Jodey Arrington is not on any of our key committees 
+
 ### HEP Grants
 ```
 In the past 5 years, this district has received: $2,828,000.00 in SC HEP grants.
@@ -536,6 +598,9 @@ Texas Tech University        2015     1044692
 <a name="TX-20"></a>
 [Back to top](#top)
 ## TX-20 -- Rep. Joaquin Castro (D)
+### Committees
+Joaquin Castro is not on any of our key committees 
+
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -558,6 +623,9 @@ UNIVERSITY OF TEXAS AT SAN ANTONIO 2014      682500
 <a name="TX-21"></a>
 [Back to top](#top)
 ## TX-21 -- Rep. Lamar Smith (R)
+### Committees
+Lamar Smith is the #1 Republican on the House Committee on Science, Space, and Technology 
+
 ### HEP Grants
 ```
 In the past 5 years, this district has received: $2,323,000.00 in SC HEP grants.
@@ -590,6 +658,9 @@ UNIVERSITY OF TEXAS HEALTH SCIENCE CENTER OF 2013      263926
 <a name="TX-22"></a>
 [Back to top](#top)
 ## TX-22 -- Rep. Pete Olson (R)
+### Committees
+Pete Olson is the #14 Republican on the House Committee on Energy and Commerce 
+
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -609,6 +680,9 @@ UNIVERSITY OF HOUSTON SYSTEM 2012      150000
 <a name="TX-23"></a>
 [Back to top](#top)
 ## TX-23 -- Rep. Will Hurd (R)
+### Committees
+Will Hurd is not on any of our key committees 
+
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -630,6 +704,9 @@ UNIVERSITY OF TEXAS AT SAN ANTONIO 2012      665902
 <a name="TX-24"></a>
 [Back to top](#top)
 ## TX-24 -- Rep. Kenny Marchant (R)
+### Committees
+Kenny Marchant is not on any of our key committees 
+
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -650,6 +727,9 @@ UNIVERSITY OF TEXAS AT ARLINGTON 2012       59628
 <a name="TX-25"></a>
 [Back to top](#top)
 ## TX-25 -- Rep. Roger Williams (R)
+### Committees
+Roger Williams is not on any of our key committees 
+
 ### HEP Grants
 ```
 In the past 5 years, this district has received: $3,656,984.00 in SC HEP grants.
@@ -679,6 +759,9 @@ UNIVERSITY OF TEXAS AT AUSTIN     2013     7723572
 <a name="TX-26"></a>
 [Back to top](#top)
 ## TX-26 -- Rep. Michael Burgess (R)
+### Committees
+Michael Burgess is the #6 Republican on the House Committee on Energy and Commerce 
+
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -701,6 +784,9 @@ University of North Texas 2015      759429
 <a name="TX-27"></a>
 [Back to top](#top)
 ## TX-27 -- Rep. Blake Farenthold (R)
+### Committees
+Blake Farenthold is not on any of our key committees 
+
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -721,6 +807,9 @@ UNIVERSITY OF TEXAS AT BROWNSVILLE  2012      373837
 <a name="TX-28"></a>
 [Back to top](#top)
 ## TX-28 -- Rep. Henry Cuellar (D)
+### Committees
+Henry Cuellar is the #14 Democrat on the House Committee on Appropriations 
+
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -744,6 +833,9 @@ TEXAS A&M INTERNATIONAL UNIVERSITY FOUNDATION 2012      159357
 <a name="TX-29"></a>
 [Back to top](#top)
 ## TX-29 -- Rep. Gene Green (D)
+### Committees
+Gene Green is the #5 Democrat on the House Committee on Energy and Commerce 
+
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -760,6 +852,9 @@ This district received no NSF MPS grants from 2012-2016
 <a name="TX-30"></a>
 [Back to top](#top)
 ## TX-30 -- Rep. Eddie Johnson (D)
+### Committees
+Eddie Johnson is the #1 Democrat on the House Committee on Science, Space, and Technology 
+
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -782,6 +877,9 @@ UT Southwestern                               2015      405000
 <a name="TX-31"></a>
 [Back to top](#top)
 ## TX-31 -- Rep. John Carter (R)
+### Committees
+John Carter is the #7 Republican on the House Committee on Appropriations 
+
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -801,6 +899,9 @@ This district received no NSF MPS grants from 2012-2016
 <a name="TX-32"></a>
 [Back to top](#top)
 ## TX-32 -- Rep. Pete Sessions (R)
+### Committees
+Pete Sessions is not on any of our key committees 
+
 ### HEP Grants
 ```
 In the past 5 years, this district has received: $5,003,000.00 in SC HEP grants.
@@ -838,6 +939,9 @@ UNIVERSITY OF TEXAS AT DALLAS     2012     2127595
 <a name="TX-33"></a>
 [Back to top](#top)
 ## TX-33 -- Rep. Marc Veasey (D)
+### Committees
+Marc Veasey is the #7 Democrat on the House Committee on Science, Space, and Technology 
+
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -854,6 +958,9 @@ This district received no NSF MPS grants from 2012-2016
 <a name="TX-34"></a>
 [Back to top](#top)
 ## TX-34 -- Rep. Filemon Vela (D)
+### Committees
+Filemon Vela is not on any of our key committees 
+
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -874,6 +981,9 @@ UNIVERSITY OF TEXAS AT BROWNSVILLE 2013      584262
 <a name="TX-35"></a>
 [Back to top](#top)
 ## TX-35 -- Rep. Lloyd Doggett (D)
+### Committees
+Lloyd Doggett is not on any of our key committees 
+
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -894,6 +1004,9 @@ TEXAS STATE UNIVERSITY-SAN MARCOS 2013      294621
 <a name="TX-36"></a>
 [Back to top](#top)
 ## TX-36 -- Rep. Brian Babin (R)
+### Committees
+Brian Babin is the #11 Republican on the House Committee on Science, Space, and Technology 
+
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016

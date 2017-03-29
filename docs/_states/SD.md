@@ -10,6 +10,11 @@ permalink : /states/SD/
 [SD-00](#SD-00)  
 
 # SD -- Sen. Mike Rounds (R) and  Sen. John Thune (R)
+## Committees
+Mike Rounds is not on any of our key committees 
+
+John Thune is the #1 Republican on the Senate Committee on Commerce, Science, and Transportation 
+
 ## HEP Grants
 ```
 In the past 5 years, this state has received:
@@ -47,6 +52,9 @@ Dakota State Univ                               12000
 <a name="SD-00"></a>
 [Back to top](#top)
 ## SD-00 -- Rep. Kristi Noem (R)
+### Committees
+Kristi Noem is not on any of our key committees 
+
 ### HEP Grants
 ```
 In the past 5 years, this district has received: $804,477.00 in SC HEP grants.

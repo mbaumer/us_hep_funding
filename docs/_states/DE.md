@@ -10,6 +10,15 @@ permalink : /states/DE/
 [DE-00](#DE-00)  
 
 # DE -- Sen. Thomas Carper (D) and  Sen. Chris Coons (D)
+## Committees
+Thomas Carper is not on any of our key committees 
+
+Chris Coons is the #5 Democrat on the Senate Appropriations Subcommittee on Commerce, Justice, Science, and Related Agencies 
+
+Chris Coons is the #10 Democrat on the Senate Committee on Appropriations 
+
+Chris Coons is the #8 Democrat on the Senate Appropriations Subcommittee on Energy and Water Development 
+
 ## HEP Grants
 ```
 In the past 5 years, this state has received:
@@ -44,6 +53,9 @@ HENRY FRANCIS DUPONT WINTERTHUR MUSEUM, INC.,        3000
 <a name="DE-00"></a>
 [Back to top](#top)
 ## DE-00 -- Rep. Lisa Blunt Rochester (D)
+### Committees
+Lisa Blunt Rochester is the #9 Democrat on the House Subcommittee on Higher Education and Workforce Development 
+
 ### HEP Grants
 ```
 In the past 5 years, this district has received: $1,443,824.79 in SC HEP grants.

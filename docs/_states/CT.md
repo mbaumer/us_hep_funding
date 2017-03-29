@@ -10,6 +10,11 @@ permalink : /states/CT/
 [CT-01](#CT-01)  [CT-02](#CT-02)  [CT-03](#CT-03)  [CT-04](#CT-04)  [CT-05](#CT-05)  
 
 # CT -- Sen. Richard Blumenthal (D) and  Sen. Christopher Murphy (D)
+## Committees
+Richard Blumenthal is the #4 Democrat on the Senate Committee on Commerce, Science, and Transportation 
+
+Christopher Murphy is the #13 Democrat on the Senate Committee on Appropriations 
+
 ## HEP Grants
 ```
 In the past 5 years, this state has received:
@@ -51,6 +56,9 @@ and  1  other institutions.
 <a name="CT-01"></a>
 [Back to top](#top)
 ## CT-01 -- Rep. John Larson (D)
+### Committees
+John Larson is not on any of our key committees 
+
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -70,6 +78,9 @@ TRINITY COLLEGE 2014      105772
 <a name="CT-02"></a>
 [Back to top](#top)
 ## CT-02 -- Rep. Joe Courtney (D)
+### Committees
+Joe Courtney is the #2 Democrat on the House Subcommittee on Higher Education and Workforce Development 
+
 ### HEP Grants
 ```
 In the past 5 years, this district has received: $1,504,000.00 in SC HEP grants.
@@ -100,6 +111,9 @@ Univ of Connecticut       2015      682323
 <a name="CT-03"></a>
 [Back to top](#top)
 ## CT-03 -- Rep. Rosa DeLauro (D)
+### Committees
+Rosa DeLauro is the #5 Democrat on the House Committee on Appropriations 
+
 ### HEP Grants
 ```
 In the past 5 years, this district has received: $13,849,000.00 in SC HEP grants.
@@ -137,6 +151,9 @@ Yale University                2015      463319
 <a name="CT-04"></a>
 [Back to top](#top)
 ## CT-04 -- Rep. James Himes (D)
+### Committees
+James Himes is not on any of our key committees 
+
 ### HEP Grants
 ```
 In the past 5 years, this district has received: $31,000.00 in SC HEP grants.
@@ -161,6 +178,9 @@ FAIRFIELD UNIVERSITY 2012       90580
 <a name="CT-05"></a>
 [Back to top](#top)
 ## CT-05 -- Rep. Elizabeth Esty (D)
+### Committees
+Elizabeth Esty is the #6 Democrat on the House Committee on Science, Space, and Technology 
+
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016

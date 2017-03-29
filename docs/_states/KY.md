@@ -10,6 +10,13 @@ permalink : /states/KY/
 [KY-01](#KY-01)  [KY-02](#KY-02)  [KY-03](#KY-03)  [KY-04](#KY-04)  [KY-05](#KY-05)  [KY-06](#KY-06)  
 
 # KY -- Sen. Mitch McConnell (R) and  Sen. Rand Paul (R)
+## Committees
+Mitch McConnell is the #2 Republican on the Senate Committee on Appropriations 
+
+Mitch McConnell is the #3 Republican on the Senate Appropriations Subcommittee on Energy and Water Development 
+
+Rand Paul is not on any of our key committees 
+
 ## HEP Grants
 ```
 In the past 5 years, this state has received:
@@ -58,6 +65,9 @@ U of Louisville Res Fdn                             95363
 <a name="KY-01"></a>
 [Back to top](#top)
 ## KY-01 -- Rep. James Comer (R)
+### Committees
+James Comer is not on any of our key committees 
+
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -87,6 +97,11 @@ MURRAY STATE UNIVERSITY 2014      149940
 <a name="KY-02"></a>
 [Back to top](#top)
 ## KY-02 -- Rep. Brett Guthrie (R)
+### Committees
+Brett Guthrie is the #13 Republican on the House Committee on Energy and Commerce 
+
+Brett Guthrie is the #1 Republican on the House Subcommittee on Higher Education and Workforce Development 
+
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -107,6 +122,9 @@ WESTERN KENTUCKY UNIVERSITY RESEARCH FOUNDATI 2012      254000
 <a name="KY-03"></a>
 [Back to top](#top)
 ## KY-03 -- Rep. John Yarmuth (D)
+### Committees
+John Yarmuth is not on any of our key committees 
+
 ### HEP Grants
 ```
 In the past 5 years, this district has received: $151,000.00 in SC HEP grants.
@@ -135,6 +153,9 @@ UNIVERSITY OF LOUISVILLE 2012      609075
 <a name="KY-04"></a>
 [Back to top](#top)
 ## KY-04 -- Rep. Thomas Massie (R)
+### Committees
+Thomas Massie is the #7 Republican on the House Committee on Science, Space, and Technology 
+
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -155,6 +176,9 @@ NORTHERN KENTUCKY UNIVERSITY RESEARCH FOUNDAT 2012      220251
 <a name="KY-05"></a>
 [Back to top](#top)
 ## KY-05 -- Rep. Harold Rogers (R)
+### Committees
+Harold Rogers is the #2 Republican on the House Committee on Appropriations 
+
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -171,6 +195,9 @@ This district received no NSF MPS grants from 2012-2016
 <a name="KY-06"></a>
 [Back to top](#top)
 ## KY-06 -- Rep. Garland Barr (R)
+### Committees
+Garland Barr is not on any of our key committees 
+
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016

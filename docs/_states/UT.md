@@ -10,6 +10,13 @@ permalink : /states/UT/
 [UT-01](#UT-01)  [UT-02](#UT-02)  [UT-03](#UT-03)  [UT-04](#UT-04)  
 
 # UT -- Sen. Orrin Hatch (R) and  Sen. Mike Lee (R)
+## Committees
+Orrin Hatch is not on any of our key committees 
+
+Mike Lee is the #10 Republican on the Senate Committee on Commerce, Science, and Transportation 
+
+Mike Lee is the #4 Republican on the Senate Committee on Energy and Natural Resources 
+
 ## HEP Grants
 ```
 In the past 5 years, this state has received:
@@ -54,6 +61,9 @@ Brigham Young University       24000
 <a name="UT-01"></a>
 [Back to top](#top)
 ## UT-01 -- Rep. Rob Bishop (R)
+### Committees
+Rob Bishop is not on any of our key committees 
+
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -79,6 +89,9 @@ Utah State University 2015       92014
 <a name="UT-02"></a>
 [Back to top](#top)
 ## UT-02 -- Rep. Chris Stewart (R)
+### Committees
+Chris Stewart is the #24 Republican on the House Committee on Appropriations 
+
 ### HEP Grants
 ```
 In the past 5 years, this district has received: $2,375,000.00 in SC HEP grants.
@@ -110,6 +123,9 @@ University of Utah      2015     1094035
 <a name="UT-03"></a>
 [Back to top](#top)
 ## UT-03 -- Rep. Jason Chaffetz (R)
+### Committees
+Jason Chaffetz is not on any of our key committees 
+
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -132,6 +148,9 @@ Brigham Young University 2015       24000
 <a name="UT-04"></a>
 [Back to top](#top)
 ## UT-04 -- Rep. Mia Love (R)
+### Committees
+Mia Love is not on any of our key committees 
+
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016

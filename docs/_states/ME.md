@@ -10,6 +10,15 @@ permalink : /states/ME/
 [ME-01](#ME-01)  [ME-02](#ME-02)  
 
 # ME -- Sen. Susan Collins (R) and  Sen. Angus King (I)
+## Committees
+Susan Collins is the #4 Republican on the Senate Appropriations Subcommittee on Commerce, Justice, Science, and Related Agencies 
+
+Susan Collins is the #5 Republican on the Senate Committee on Appropriations 
+
+Susan Collins is the #5 Republican on the Senate Appropriations Subcommittee on Energy and Water Development 
+
+Angus King is the #9 Democrat on the Senate Committee on Energy and Natural Resources 
+
 ## HEP Grants
 ```
 This state received no SC HEP grants from 2012-2016
@@ -37,6 +46,9 @@ Bowdoin College                            106000
 <a name="ME-01"></a>
 [Back to top](#top)
 ## ME-01 -- Rep. Chellie Pingree (D)
+### Committees
+Chellie Pingree is the #15 Democrat on the House Committee on Appropriations 
+
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -62,6 +74,9 @@ UNIVERSITY OF NEW ENGLAND 2013      417785
 <a name="ME-02"></a>
 [Back to top](#top)
 ## ME-02 -- Rep. Bruce Poliquin (R)
+### Committees
+Bruce Poliquin is not on any of our key committees 
+
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016

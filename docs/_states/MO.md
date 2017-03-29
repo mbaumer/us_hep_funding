@@ -10,6 +10,13 @@ permalink : /states/MO/
 [MO-01](#MO-01)  [MO-02](#MO-02)  [MO-03](#MO-03)  [MO-04](#MO-04)  [MO-05](#MO-05)  [MO-06](#MO-06)  [MO-07](#MO-07)  [MO-08](#MO-08)  
 
 # MO -- Sen. Roy Blunt (R) and  Sen. Claire McCaskill (D)
+## Committees
+Roy Blunt is the #3 Republican on the Senate Committee on Commerce, Science, and Transportation 
+
+Roy Blunt is the #8 Republican on the Senate Committee on Appropriations 
+
+Claire McCaskill is not on any of our key committees 
+
 ## HEP Grants
 ```
 In the past 5 years, this state has received:
@@ -59,6 +66,9 @@ and  1  other institutions.
 <a name="MO-01"></a>
 [Back to top](#top)
 ## MO-01 -- Rep. Wm. Clay (D)
+### Committees
+Wm. Clay is not on any of our key committees 
+
 ### HEP Grants
 ```
 In the past 5 years, this district has received: $1,587,000.00 in SC HEP grants.
@@ -96,6 +106,9 @@ Washington University          2015      -29584
 <a name="MO-02"></a>
 [Back to top](#top)
 ## MO-02 -- Rep. Ann Wagner (R)
+### Committees
+Ann Wagner is not on any of our key committees 
+
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -117,6 +130,9 @@ This district received no NSF MPS grants from 2012-2016
 <a name="MO-03"></a>
 [Back to top](#top)
 ## MO-03 -- Rep. Blaine Luetkemeyer (R)
+### Committees
+Blaine Luetkemeyer is not on any of our key committees 
+
 ### HEP Grants
 ```
 In the past 5 years, this district has received: $1,686,000.00 in SC HEP grants.
@@ -140,6 +156,9 @@ WASHINGTON UNIVERSITY, THE 2012     3390066
 <a name="MO-04"></a>
 [Back to top](#top)
 ## MO-04 -- Rep. Vicky Hartzler (R)
+### Committees
+Vicky Hartzler is not on any of our key committees 
+
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -161,6 +180,9 @@ UNIVERSITY OF MISSOURI SYSTEM 2013     1443419
 <a name="MO-05"></a>
 [Back to top](#top)
 ## MO-05 -- Rep. Emanuel Cleaver (D)
+### Committees
+Emanuel Cleaver is not on any of our key committees 
+
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -184,6 +206,9 @@ UNIVERSITY OF MISSOURI SYSTEM 2012      278533
 <a name="MO-06"></a>
 [Back to top](#top)
 ## MO-06 -- Rep. Sam Graves (R)
+### Committees
+Sam Graves is not on any of our key committees 
+
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -207,6 +232,9 @@ TRUMAN STATE UNIVERSITY             2013        3312
 <a name="MO-07"></a>
 [Back to top](#top)
 ## MO-07 -- Rep. Billy Long (R)
+### Committees
+Billy Long is the #20 Republican on the House Committee on Energy and Commerce 
+
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -228,6 +256,9 @@ MISSOURI STATE UNIVERSITY 2012      246414
 <a name="MO-08"></a>
 [Back to top](#top)
 ## MO-08 -- Rep. Jason Smith (R)
+### Committees
+Jason Smith is not on any of our key committees 
+
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016

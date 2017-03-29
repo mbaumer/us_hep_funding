@@ -10,6 +10,11 @@ permalink : /states/MI/
 [MI-01](#MI-01)  [MI-02](#MI-02)  [MI-03](#MI-03)  [MI-04](#MI-04)  [MI-05](#MI-05)  [MI-06](#MI-06)  [MI-07](#MI-07)  [MI-08](#MI-08)  [MI-09](#MI-09)  [MI-10](#MI-10)  [MI-11](#MI-11)  [MI-12](#MI-12)  [MI-13](#MI-13)  [MI-14](#MI-14)  
 
 # MI -- Sen. Gary Peters (D) and  Sen. Debbie Stabenow (D)
+## Committees
+Gary Peters is the #9 Democrat on the Senate Committee on Commerce, Science, and Transportation 
+
+Debbie Stabenow is the #4 Democrat on the Senate Committee on Energy and Natural Resources 
+
 ## HEP Grants
 ```
 In the past 5 years, this state has received:
@@ -62,6 +67,9 @@ and  11  other institutions.
 <a name="MI-01"></a>
 [Back to top](#top)
 ## MI-01 -- Rep. Jack Bergman (R)
+### Committees
+Jack Bergman is not on any of our key committees 
+
 ### HEP Grants
 ```
 In the past 5 years, this district has received: $890,000.00 in SC HEP grants.
@@ -89,6 +97,9 @@ MICHIGAN TECHNOLOGICAL UNIVERSITY 2012     2561774
 <a name="MI-02"></a>
 [Back to top](#top)
 ## MI-02 -- Rep. Bill Huizenga (R)
+### Committees
+Bill Huizenga is not on any of our key committees 
+
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -116,6 +127,9 @@ MICHIGAN STATE UNIVERSITY     2014       26049
 <a name="MI-03"></a>
 [Back to top](#top)
 ## MI-03 -- Rep. Justin Amash (R)
+### Committees
+Justin Amash is not on any of our key committees 
+
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -140,6 +154,9 @@ CALVIN COLLEGE 2012      301720
 <a name="MI-04"></a>
 [Back to top](#top)
 ## MI-04 -- Rep. John Moolenaar (R)
+### Committees
+John Moolenaar is the #29 Republican on the House Committee on Appropriations 
+
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -162,6 +179,9 @@ Central Michigan U                2015      -11340
 <a name="MI-05"></a>
 [Back to top](#top)
 ## MI-05 -- Rep. Daniel Kildee (D)
+### Committees
+Daniel Kildee is not on any of our key committees 
+
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -182,6 +202,9 @@ KETTERING UNIVERSITY 2013       77808
 <a name="MI-06"></a>
 [Back to top](#top)
 ## MI-06 -- Rep. Fred Upton (R)
+### Committees
+Fred Upton is the #3 Republican on the House Committee on Energy and Commerce 
+
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -209,6 +232,9 @@ WESTERN MICHIGAN UNIVERSITY 2012      225000
 <a name="MI-07"></a>
 [Back to top](#top)
 ## MI-07 -- Rep. Tim Walberg (R)
+### Committees
+Tim Walberg is the #28 Republican on the House Committee on Energy and Commerce 
+
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -225,6 +251,9 @@ This district received no NSF MPS grants from 2012-2016
 <a name="MI-08"></a>
 [Back to top](#top)
 ## MI-08 -- Rep. Mike Bishop (R)
+### Committees
+Mike Bishop is not on any of our key committees 
+
 ### HEP Grants
 ```
 In the past 5 years, this district has received: $2,724,000.00 in SC HEP grants.
@@ -260,6 +289,9 @@ OAKLAND UNIVERSITY        2013       44999
 <a name="MI-09"></a>
 [Back to top](#top)
 ## MI-09 -- Rep. Sander Levin (D)
+### Committees
+Sander Levin is not on any of our key committees 
+
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -279,6 +311,9 @@ OAKLAND UNIVERSITY 2012      799261
 <a name="MI-10"></a>
 [Back to top](#top)
 ## MI-10 -- Rep. Paul Mitchell (R)
+### Committees
+Paul Mitchell is the #10 Republican on the House Subcommittee on Higher Education and Workforce Development 
+
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -299,6 +334,9 @@ CENTRAL MICHIGAN UNIVERSITY (INC) 2012       46584
 <a name="MI-11"></a>
 [Back to top](#top)
 ## MI-11 -- Rep. Dave Trott (R)
+### Committees
+Dave Trott is not on any of our key committees 
+
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -319,6 +357,9 @@ OAKLAND UNIVERSITY 2013      233994
 <a name="MI-12"></a>
 [Back to top](#top)
 ## MI-12 -- Rep. Debbie Dingell (D)
+### Committees
+Debbie Dingell is the #24 Democrat on the House Committee on Energy and Commerce 
+
 ### HEP Grants
 ```
 In the past 5 years, this district has received: $10,921,000.00 in SC HEP grants.
@@ -347,6 +388,9 @@ University of Michigan                2015      923461
 <a name="MI-13"></a>
 [Back to top](#top)
 ## MI-13 -- Rep. John Conyers (D)
+### Committees
+John Conyers is not on any of our key committees 
+
 ### HEP Grants
 ```
 In the past 5 years, this district has received: $2,879,000.00 in SC HEP grants.
@@ -376,6 +420,9 @@ Wayne State University       2015        5000
 <a name="MI-14"></a>
 [Back to top](#top)
 ## MI-14 -- Rep. Brenda Lawrence (D)
+### Committees
+Brenda Lawrence is not on any of our key committees 
+
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016

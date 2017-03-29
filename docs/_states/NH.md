@@ -10,6 +10,15 @@ permalink : /states/NH/
 [NH-01](#NH-01)  [NH-02](#NH-02)  
 
 # NH -- Sen. Margaret Hassan (D) and  Sen. Jeanne Shaheen (D)
+## Committees
+Margaret Hassan is the #12 Democrat on the Senate Committee on Commerce, Science, and Transportation 
+
+Jeanne Shaheen is the #1 Democrat on the Senate Appropriations Subcommittee on Commerce, Justice, Science, and Related Agencies 
+
+Jeanne Shaheen is the #8 Democrat on the Senate Committee on Appropriations 
+
+Jeanne Shaheen is the #6 Democrat on the Senate Appropriations Subcommittee on Energy and Water Development 
+
 ## HEP Grants
 ```
 In the past 5 years, this state has received:
@@ -50,6 +59,9 @@ RUTGERS, THE STATE UNIVERSITY OF NEW JERSEY       16376
 <a name="NH-01"></a>
 [Back to top](#top)
 ## NH-01 -- Rep. Carol Shea-Porter (D)
+### Committees
+Carol Shea-Porter is not on any of our key committees 
+
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -74,6 +86,9 @@ UNIVERSITY SYSTEM OF NEW HAMPSHIRE 2012     1542799
 <a name="NH-02"></a>
 [Back to top](#top)
 ## NH-02 -- Rep. Ann Kuster (D)
+### Committees
+Ann Kuster is not on any of our key committees 
+
 ### HEP Grants
 ```
 In the past 5 years, this district has received: $915,000.00 in SC HEP grants.

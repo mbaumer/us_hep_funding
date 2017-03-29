@@ -10,6 +10,11 @@ permalink : /states/IA/
 [IA-01](#IA-01)  [IA-02](#IA-02)  [IA-03](#IA-03)  [IA-04](#IA-04)  
 
 # IA -- Sen. Joni Ernst (R) and  Sen. Charles Grassley (R)
+## Committees
+Joni Ernst is not on any of our key committees 
+
+Charles Grassley is not on any of our key committees 
+
 ## HEP Grants
 ```
 In the past 5 years, this state has received:
@@ -60,6 +65,9 @@ DORDT COLLEGE, INCORPORATED                         55685
 <a name="IA-01"></a>
 [Back to top](#top)
 ## IA-01 -- Rep. Rod Blum (R)
+### Committees
+Rod Blum is not on any of our key committees 
+
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -83,6 +91,9 @@ UNIVERSITY OF NORTHERN IOWA 2012       90000
 <a name="IA-02"></a>
 [Back to top](#top)
 ## IA-02 -- Rep. David Loebsack (D)
+### Committees
+David Loebsack is the #18 Democrat on the House Committee on Energy and Commerce 
+
 ### HEP Grants
 ```
 In the past 5 years, this district has received: $2,594,000.00 in SC HEP grants.
@@ -114,6 +125,9 @@ University of Iowa      2015      231500
 <a name="IA-03"></a>
 [Back to top](#top)
 ## IA-03 -- Rep. David Young (R)
+### Committees
+David Young is the #25 Republican on the House Committee on Appropriations 
+
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -138,6 +152,9 @@ DRAKE UNIVERSITY 2012      175151
 <a name="IA-04"></a>
 [Back to top](#top)
 ## IA-04 -- Rep. Steve King (R)
+### Committees
+Steve King is not on any of our key committees 
+
 ### HEP Grants
 ```
 In the past 5 years, this district has received: $4,566,000.00 in SC HEP grants.

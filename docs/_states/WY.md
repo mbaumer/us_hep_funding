@@ -10,6 +10,11 @@ permalink : /states/WY/
 [WY-00](#WY-00)  
 
 # WY -- Sen. John Barrasso (R) and  Sen. Michael Enzi (R)
+## Committees
+John Barrasso is the #2 Republican on the Senate Committee on Energy and Natural Resources 
+
+Michael Enzi is not on any of our key committees 
+
 ## HEP Grants
 ```
 This state received no SC HEP grants from 2012-2016
@@ -36,6 +41,9 @@ University of Wyoming        2015       -1910
 <a name="WY-00"></a>
 [Back to top](#top)
 ## WY-00 -- Rep. Liz Cheney (R)
+### Committees
+Liz Cheney is not on any of our key committees 
+
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016

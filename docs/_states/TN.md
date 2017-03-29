@@ -10,6 +10,17 @@ permalink : /states/TN/
 [TN-01](#TN-01)  [TN-02](#TN-02)  [TN-03](#TN-03)  [TN-04](#TN-04)  [TN-05](#TN-05)  [TN-06](#TN-06)  [TN-07](#TN-07)  [TN-08](#TN-08)  [TN-09](#TN-09)  
 
 # TN -- Sen. Lamar Alexander (R) and  Sen. Bob Corker (R)
+## Committees
+Lamar Alexander is the #2 Republican on the Senate Appropriations Subcommittee on Commerce, Justice, Science, and Related Agencies 
+
+Lamar Alexander is the #4 Republican on the Senate Committee on Appropriations 
+
+Lamar Alexander is the #1 Republican on the Senate Appropriations Subcommittee on Energy and Water Development 
+
+Lamar Alexander is the #8 Republican on the Senate Committee on Energy and Natural Resources 
+
+Bob Corker is not on any of our key committees 
+
 ## HEP Grants
 ```
 In the past 5 years, this state has received:
@@ -67,6 +78,9 @@ and  9  other institutions.
 <a name="TN-01"></a>
 [Back to top](#top)
 ## TN-01 -- Rep. David Roe (R)
+### Committees
+David Roe is the #3 Republican on the House Subcommittee on Early Childhood, Elementary, and Secondary Education 
+
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -95,6 +109,9 @@ EAST TENNESSEE STATE UNIVERSITY 2012      156048
 <a name="TN-02"></a>
 [Back to top](#top)
 ## TN-02 -- Rep. John Duncan (R)
+### Committees
+John Duncan is not on any of our key committees 
+
 ### HEP Grants
 ```
 In the past 5 years, this district has received: $3,837,000.00 in SC HEP grants.
@@ -193,6 +210,9 @@ UNIVERSITY OF TENNESSEE  2012     2934992
 <a name="TN-03"></a>
 [Back to top](#top)
 ## TN-03 -- Rep. Charles Fleischmann (R)
+### Committees
+Charles Fleischmann is the #17 Republican on the House Committee on Appropriations 
+
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -281,6 +301,9 @@ UNIVERSITY OF TENNESSEE                       2013      290000
 <a name="TN-04"></a>
 [Back to top](#top)
 ## TN-04 -- Rep. Scott DesJarlais (R)
+### Committees
+Scott DesJarlais is not on any of our key committees 
+
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -306,6 +329,9 @@ VANDERBILT UNIVERSITY, THE        2013      124850
 <a name="TN-05"></a>
 [Back to top](#top)
 ## TN-05 -- Rep. Jim Cooper (D)
+### Committees
+Jim Cooper is not on any of our key committees 
+
 ### HEP Grants
 ```
 In the past 5 years, this district has received: $1,160,000.00 in SC HEP grants.
@@ -348,6 +374,9 @@ Vanderbilt University      2015      106984
 <a name="TN-06"></a>
 [Back to top](#top)
 ## TN-06 -- Rep. Diane Black (R)
+### Committees
+Diane Black is not on any of our key committees 
+
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -364,6 +393,9 @@ This district received no NSF MPS grants from 2012-2016
 <a name="TN-07"></a>
 [Back to top](#top)
 ## TN-07 -- Rep. Marsha Blackburn (R)
+### Committees
+Marsha Blackburn is the #7 Republican on the House Committee on Energy and Commerce 
+
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -387,6 +419,9 @@ AUSTIN PEAY STATE UNIVERSITY 2014      200000
 <a name="TN-08"></a>
 [Back to top](#top)
 ## TN-08 -- Rep. David Kustoff (R)
+### Committees
+David Kustoff is not on any of our key committees 
+
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -403,6 +438,9 @@ This district received no NSF MPS grants from 2012-2016
 <a name="TN-09"></a>
 [Back to top](#top)
 ## TN-09 -- Rep. Steve Cohen (D)
+### Committees
+Steve Cohen is not on any of our key committees 
+
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016

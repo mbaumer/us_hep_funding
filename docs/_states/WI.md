@@ -10,6 +10,13 @@ permalink : /states/WI/
 [WI-01](#WI-01)  [WI-02](#WI-02)  [WI-03](#WI-03)  [WI-04](#WI-04)  [WI-05](#WI-05)  [WI-06](#WI-06)  [WI-07](#WI-07)  [WI-08](#WI-08)  
 
 # WI -- Sen. Tammy Baldwin (D) and  Sen. Ron Johnson (R)
+## Committees
+Tammy Baldwin is the #10 Democrat on the Senate Committee on Commerce, Science, and Transportation 
+
+Tammy Baldwin is the #12 Democrat on the Senate Committee on Appropriations 
+
+Ron Johnson is the #11 Republican on the Senate Committee on Commerce, Science, and Transportation 
+
 ## HEP Grants
 ```
 In the past 5 years, this state has received:
@@ -56,6 +63,9 @@ U of Wisconsin Madison                          -124443
 <a name="WI-01"></a>
 [Back to top](#top)
 ## WI-01 -- Rep. Paul Ryan (R)
+### Committees
+Paul Ryan is not on any of our key committees 
+
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -76,6 +86,9 @@ CARTHAGE COLLEGE 2012      105645
 <a name="WI-02"></a>
 [Back to top](#top)
 ## WI-02 -- Rep. Mark Pocan (D)
+### Committees
+Mark Pocan is the #20 Democrat on the House Committee on Appropriations 
+
 ### HEP Grants
 ```
 In the past 5 years, this district has received: $14,268,000.00 in SC HEP grants.
@@ -112,6 +125,9 @@ UNIVERSITY OF WISCONSIN SYSTEM              2012    31237699
 <a name="WI-03"></a>
 [Back to top](#top)
 ## WI-03 -- Rep. Ron Kind (D)
+### Committees
+Ron Kind is not on any of our key committees 
+
 ### HEP Grants
 ```
 In the past 5 years, this district has received: $450,000.00 in SC HEP grants.
@@ -140,6 +156,9 @@ UNIVERSITY OF WISCONSIN SYSTEM 2012      479811
 <a name="WI-04"></a>
 [Back to top](#top)
 ## WI-04 -- Rep. Gwen Moore (D)
+### Committees
+Gwen Moore is not on any of our key committees 
+
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -166,6 +185,9 @@ UNIVERSITY OF WISCONSIN SYSTEM 2012     3268554
 <a name="WI-05"></a>
 [Back to top](#top)
 ## WI-05 -- Rep. F. Sensenbrenner (R)
+### Committees
+F. Sensenbrenner is not on any of our key committees 
+
 ### HEP Grants
 ```
 In the past 5 years, this district has received: $2,479,000.00 in SC HEP grants.
@@ -189,6 +211,9 @@ MEDICAL COLLEGE OF WISCONSIN, INC., THE 2012       89765
 <a name="WI-06"></a>
 [Back to top](#top)
 ## WI-06 -- Rep. Glenn Grothman (R)
+### Committees
+Glenn Grothman is the #6 Republican on the House Subcommittee on Higher Education and Workforce Development 
+
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -208,6 +233,9 @@ RIPON COLLEGE 2014      237383
 <a name="WI-07"></a>
 [Back to top](#top)
 ## WI-07 -- Rep. Sean Duffy (R)
+### Committees
+Sean Duffy is not on any of our key committees 
+
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -227,6 +255,9 @@ U of Wisconsin River Falls 2015       75018
 <a name="WI-08"></a>
 [Back to top](#top)
 ## WI-08 -- Rep. Mike Gallagher (R)
+### Committees
+Mike Gallagher is not on any of our key committees 
+
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016

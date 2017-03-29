@@ -10,6 +10,11 @@ permalink : /states/OH/
 [OH-01](#OH-01)  [OH-02](#OH-02)  [OH-03](#OH-03)  [OH-04](#OH-04)  [OH-05](#OH-05)  [OH-06](#OH-06)  [OH-07](#OH-07)  [OH-08](#OH-08)  [OH-09](#OH-09)  [OH-10](#OH-10)  [OH-11](#OH-11)  [OH-12](#OH-12)  [OH-13](#OH-13)  [OH-14](#OH-14)  [OH-15](#OH-15)  [OH-16](#OH-16)  
 
 # OH -- Sen. Sherrod Brown (D) and  Sen. Robert Portman (R)
+## Committees
+Sherrod Brown is not on any of our key committees 
+
+Robert Portman is the #11 Republican on the Senate Committee on Energy and Natural Resources 
+
 ## HEP Grants
 ```
 In the past 5 years, this state has received:
@@ -65,6 +70,9 @@ and  22  other institutions.
 <a name="OH-01"></a>
 [Back to top](#top)
 ## OH-01 -- Rep. Steve Chabot (R)
+### Committees
+Steve Chabot is not on any of our key committees 
+
 ### HEP Grants
 ```
 In the past 5 years, this district has received: $4,180,000.00 in SC HEP grants.
@@ -96,6 +104,9 @@ XAVIER UNIVERSITY        2014       57862
 <a name="OH-02"></a>
 [Back to top](#top)
 ## OH-02 -- Rep. Brad Wenstrup (R)
+### Committees
+Brad Wenstrup is not on any of our key committees 
+
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -115,6 +126,9 @@ UNIVERSITY OF CINCINNATI 2014      275000
 <a name="OH-03"></a>
 [Back to top](#top)
 ## OH-03 -- Rep. Joyce Beatty (D)
+### Committees
+Joyce Beatty is not on any of our key committees 
+
 ### HEP Grants
 ```
 In the past 5 years, this district has received: $9,669,000.00 in SC HEP grants.
@@ -145,6 +159,9 @@ Ohio State University                         2015     6681440
 <a name="OH-04"></a>
 [Back to top](#top)
 ## OH-04 -- Rep. Jim Jordan (R)
+### Committees
+Jim Jordan is not on any of our key committees 
+
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -169,6 +186,9 @@ Oberlin College            2015       57514
 <a name="OH-05"></a>
 [Back to top](#top)
 ## OH-05 -- Rep. Robert Latta (R)
+### Committees
+Robert Latta is the #9 Republican on the House Committee on Energy and Commerce 
+
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -191,6 +211,9 @@ BOWLING GREEN STATE UNIVERSITY (INC) 2012      459617
 <a name="OH-06"></a>
 [Back to top](#top)
 ## OH-06 -- Rep. Bill Johnson (R)
+### Committees
+Bill Johnson is the #19 Republican on the House Committee on Energy and Commerce 
+
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -210,6 +233,9 @@ OHIO UNIVERSITY 2012     2576654
 <a name="OH-07"></a>
 [Back to top](#top)
 ## OH-07 -- Rep. Bob Gibbs (R)
+### Committees
+Bob Gibbs is not on any of our key committees 
+
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -233,6 +259,9 @@ WRIGHT STATE UNIVERSITY                       2012     1096622
 <a name="OH-08"></a>
 [Back to top](#top)
 ## OH-08 -- Rep. Warren Davidson (R)
+### Committees
+Warren Davidson is not on any of our key committees 
+
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -255,6 +284,9 @@ MIAMI UNIVERSITY                              2012     1151315
 <a name="OH-09"></a>
 [Back to top](#top)
 ## OH-09 -- Rep. Marcy Kaptur (D)
+### Committees
+Marcy Kaptur is the #2 Democrat on the House Committee on Appropriations 
+
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -280,6 +312,9 @@ UNIVERSITY OF TOLEDO, THE 2012     3817436
 <a name="OH-10"></a>
 [Back to top](#top)
 ## OH-10 -- Rep. Michael Turner (R)
+### Committees
+Michael Turner is not on any of our key committees 
+
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -299,6 +334,9 @@ WRIGHT STATE UNIVERSITY 2013      300000
 <a name="OH-11"></a>
 [Back to top](#top)
 ## OH-11 -- Rep. Marcia Fudge (D)
+### Committees
+Marcia Fudge is the #3 Democrat on the House Subcommittee on Early Childhood, Elementary, and Secondary Education 
+
 ### HEP Grants
 ```
 In the past 5 years, this district has received: $2,322,000.00 in SC HEP grants.
@@ -332,6 +370,9 @@ University of Akron             2015       99999
 <a name="OH-12"></a>
 [Back to top](#top)
 ## OH-12 -- Rep. Patrick Tiberi (R)
+### Committees
+Patrick Tiberi is not on any of our key committees 
+
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -366,6 +407,9 @@ Ohio Wesleyan University      2015      103817
 <a name="OH-13"></a>
 [Back to top](#top)
 ## OH-13 -- Rep. Tim Ryan (D)
+### Committees
+Tim Ryan is the #11 Democrat on the House Committee on Appropriations 
+
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -391,6 +435,9 @@ YOUNGSTOWN STATE UNIVERSITY 2013      494500
 <a name="OH-14"></a>
 [Back to top](#top)
 ## OH-14 -- Rep. David Joyce (R)
+### Committees
+David Joyce is the #19 Republican on the House Committee on Appropriations 
+
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -416,6 +463,9 @@ HIRAM COLLEGE 2012      116163
 <a name="OH-15"></a>
 [Back to top](#top)
 ## OH-15 -- Rep. Steve Stivers (R)
+### Committees
+Steve Stivers is not on any of our key committees 
+
 ### HEP Grants
 ```
 In the past 5 years, this district has received: $4,763,000.00 in SC HEP grants.
@@ -447,6 +497,9 @@ Ohio State University                     2015      176618
 <a name="OH-16"></a>
 [Back to top](#top)
 ## OH-16 -- Rep. James Renacci (R)
+### Committees
+James Renacci is not on any of our key committees 
+
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016

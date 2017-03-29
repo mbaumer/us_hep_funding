@@ -10,6 +10,17 @@ permalink : /states/AK/
 [AK-00](#AK-00)  
 
 # AK -- Sen. Lisa Murkowski (R) and  Sen. Dan Sullivan (R)
+## Committees
+Lisa Murkowski is the #3 Republican on the Senate Appropriations Subcommittee on Commerce, Justice, Science, and Related Agencies 
+
+Lisa Murkowski is the #6 Republican on the Senate Committee on Appropriations 
+
+Lisa Murkowski is the #6 Republican on the Senate Appropriations Subcommittee on Energy and Water Development 
+
+Lisa Murkowski is the #1 Republican on the Senate Committee on Energy and Natural Resources 
+
+Dan Sullivan is the #7 Republican on the Senate Committee on Commerce, Science, and Transportation 
+
 ## HEP Grants
 ```
 This state received no SC HEP grants from 2012-2016
@@ -40,6 +51,9 @@ UNIVERSITY OF ALASKA FAIRBANKS 2012      152000
 <a name="AK-00"></a>
 [Back to top](#top)
 ## AK-00 -- Rep. Don Young (R)
+### Committees
+Don Young is not on any of our key committees 
+
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016

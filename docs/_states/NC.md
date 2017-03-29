@@ -10,6 +10,11 @@ permalink : /states/NC/
 [NC-01](#NC-01)  [NC-02](#NC-02)  [NC-03](#NC-03)  [NC-04](#NC-04)  [NC-05](#NC-05)  [NC-06](#NC-06)  [NC-07](#NC-07)  [NC-08](#NC-08)  [NC-09](#NC-09)  [NC-10](#NC-10)  [NC-11](#NC-11)  [NC-12](#NC-12)  [NC-13](#NC-13)  
 
 # NC -- Sen. Richard Burr (R) and  Sen. Thom Tillis (R)
+## Committees
+Richard Burr is not on any of our key committees 
+
+Thom Tillis is not on any of our key committees 
+
 ## HEP Grants
 ```
 In the past 5 years, this state has received:
@@ -59,6 +64,9 @@ and  9  other institutions.
 <a name="NC-01"></a>
 [Back to top](#top)
 ## NC-01 -- Rep. George Butterfield (D)
+### Committees
+George Butterfield is the #9 Democrat on the House Committee on Energy and Commerce 
+
 ### HEP Grants
 ```
 In the past 5 years, this district has received: $4,896,000.00 in SC HEP grants.
@@ -87,6 +95,9 @@ ELIZABETH CITY STATE UNIVERSITY 2013      237423
 <a name="NC-02"></a>
 [Back to top](#top)
 ## NC-02 -- Rep. George Holding (R)
+### Committees
+George Holding is not on any of our key committees 
+
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -106,6 +117,9 @@ NORTH CAROLINA STATE UNIVERSITY 2012      180000
 <a name="NC-03"></a>
 [Back to top](#top)
 ## NC-03 -- Rep. Walter Jones (R)
+### Committees
+Walter Jones is not on any of our key committees 
+
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -127,6 +141,9 @@ UNIVERSITY OF NORTH CAROLINA AT WILMINGTON 2013      151244
 <a name="NC-04"></a>
 [Back to top](#top)
 ## NC-04 -- Rep. David Price (D)
+### Committees
+David Price is the #6 Democrat on the House Committee on Appropriations 
+
 ### HEP Grants
 ```
 In the past 5 years, this district has received: $2,216,000.00 in SC HEP grants.
@@ -171,6 +188,9 @@ UNIVERSITY OF OKLAHOMA                      2014       31000
 <a name="NC-05"></a>
 [Back to top](#top)
 ## NC-05 -- Rep. Virginia Foxx (R)
+### Committees
+Virginia Foxx is not on any of our key committees 
+
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -196,6 +216,9 @@ Wake Forest University       2015      258354
 <a name="NC-06"></a>
 [Back to top](#top)
 ## NC-06 -- Rep. Mark Walker (R)
+### Committees
+Mark Walker is not on any of our key committees 
+
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -216,6 +239,9 @@ UNIVERSITY OF NORTH CAROLINA AT GREENSBORO 2013      267782
 <a name="NC-07"></a>
 [Back to top](#top)
 ## NC-07 -- Rep. David Rouzer (R)
+### Committees
+David Rouzer is not on any of our key committees 
+
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -237,6 +263,9 @@ UNIVERSITY OF NORTH CAROLINA AT WILMINGTON 2012       78004
 <a name="NC-08"></a>
 [Back to top](#top)
 ## NC-08 -- Rep. Richard Hudson (R)
+### Committees
+Richard Hudson is the #25 Republican on the House Committee on Energy and Commerce 
+
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -256,6 +285,9 @@ This district received no NSF MPS grants from 2012-2016
 <a name="NC-09"></a>
 [Back to top](#top)
 ## NC-09 -- Rep. Robert Pittenger (R)
+### Committees
+Robert Pittenger is not on any of our key committees 
+
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -272,6 +304,9 @@ This district received no NSF MPS grants from 2012-2016
 <a name="NC-10"></a>
 [Back to top](#top)
 ## NC-10 -- Rep. Patrick McHenry (R)
+### Committees
+Patrick McHenry is not on any of our key committees 
+
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -291,6 +326,9 @@ UNIVERSITY OF NORTH CAROLINA AT ASHEVILLE 2013       82500
 <a name="NC-11"></a>
 [Back to top](#top)
 ## NC-11 -- Rep. Mark Meadows (R)
+### Committees
+Mark Meadows is not on any of our key committees 
+
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -310,6 +348,9 @@ UNIVERSITY OF NORTH CAROLINA AT ASHEVILLE 2012      197272
 <a name="NC-12"></a>
 [Back to top](#top)
 ## NC-12 -- Rep. Alma Adams (D)
+### Committees
+Alma Adams is the #3 Democrat on the House Subcommittee on Higher Education and Workforce Development 
+
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -342,6 +383,9 @@ WAKE FOREST UNIVERSITY                        2012       41958
 <a name="NC-13"></a>
 [Back to top](#top)
 ## NC-13 -- Rep. Ted Budd (R)
+### Committees
+Ted Budd is not on any of our key committees 
+
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016

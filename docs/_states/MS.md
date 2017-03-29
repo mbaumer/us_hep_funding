@@ -10,6 +10,15 @@ permalink : /states/MS/
 [MS-01](#MS-01)  [MS-02](#MS-02)  [MS-03](#MS-03)  [MS-04](#MS-04)  
 
 # MS -- Sen. Thad Cochran (R) and  Sen. Roger Wicker (R)
+## Committees
+Thad Cochran is the #10 Republican on the Senate Appropriations Subcommittee on Commerce, Justice, Science, and Related Agencies 
+
+Thad Cochran is the #1 Republican on the Senate Committee on Appropriations 
+
+Thad Cochran is the #2 Republican on the Senate Appropriations Subcommittee on Energy and Water Development 
+
+Roger Wicker is the #2 Republican on the Senate Committee on Commerce, Science, and Transportation 
+
 ## HEP Grants
 ```
 In the past 5 years, this state has received:
@@ -46,6 +55,9 @@ U of Southern Mississippi                 4000
 <a name="MS-01"></a>
 [Back to top](#top)
 ## MS-01 -- Rep. Trent Kelly (R)
+### Committees
+Trent Kelly is not on any of our key committees 
+
 ### HEP Grants
 ```
 In the past 5 years, this district has received: $1,525,000.00 in SC HEP grants.
@@ -74,6 +86,9 @@ UNIVERSITY OF MISSISSIPPI 2012      897398
 <a name="MS-02"></a>
 [Back to top](#top)
 ## MS-02 -- Rep. Bennie Thompson (D)
+### Committees
+Bennie Thompson is not on any of our key committees 
+
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -95,6 +110,9 @@ JACKSON STATE UNIVERSITY 2012      620114
 <a name="MS-03"></a>
 [Back to top](#top)
 ## MS-03 -- Rep. Gregg Harper (R)
+### Committees
+Gregg Harper is the #11 Republican on the House Committee on Energy and Commerce 
+
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -118,6 +136,9 @@ Mississippi State Univ       2015      139255
 <a name="MS-04"></a>
 [Back to top](#top)
 ## MS-04 -- Rep. Steven Palazzo (R)
+### Committees
+Steven Palazzo is the #27 Republican on the House Committee on Appropriations 
+
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016

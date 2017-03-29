@@ -10,6 +10,11 @@ permalink : /states/MA/
 [MA-01](#MA-01)  [MA-02](#MA-02)  [MA-03](#MA-03)  [MA-04](#MA-04)  [MA-05](#MA-05)  [MA-06](#MA-06)  [MA-07](#MA-07)  [MA-08](#MA-08)  [MA-09](#MA-09)  
 
 # MA -- Sen. Edward Markey (D) and  Sen. Elizabeth Warren (D)
+## Committees
+Edward Markey is the #6 Democrat on the Senate Committee on Commerce, Science, and Transportation 
+
+Elizabeth Warren is not on any of our key committees 
+
 ## HEP Grants
 ```
 In the past 5 years, this state has received:
@@ -68,6 +73,9 @@ and  29  other institutions.
 <a name="MA-01"></a>
 [Back to top](#top)
 ## MA-01 -- Rep. Richard Neal (D)
+### Committees
+Richard Neal is not on any of our key committees 
+
 ### HEP Grants
 ```
 In the past 5 years, this district has received: $1,086,000.00 in SC HEP grants.
@@ -98,6 +106,9 @@ WESTERN NEW ENGLAND UNIVERSITY           2014       49920
 <a name="MA-02"></a>
 [Back to top](#top)
 ## MA-02 -- Rep. James McGovern (D)
+### Committees
+James McGovern is not on any of our key committees 
+
 ### HEP Grants
 ```
 In the past 5 years, this district has received: $1,878,000.00 in SC HEP grants.
@@ -136,6 +147,9 @@ WORCESTER POLYTECHNIC INSTITUTE               2013     1042254
 <a name="MA-03"></a>
 [Back to top](#top)
 ## MA-03 -- Rep. Niki Tsongas (D)
+### Committees
+Niki Tsongas is not on any of our key committees 
+
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -162,6 +176,9 @@ WORCESTER POLYTECHNIC INSTITUTE       2012     1108913
 <a name="MA-04"></a>
 [Back to top](#top)
 ## MA-04 -- Rep. Joseph Kennedy (D)
+### Committees
+Joseph Kennedy is the #20 Democrat on the House Committee on Energy and Commerce 
+
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -191,6 +208,9 @@ WHEATON COLLEGE                               2012       94114
 <a name="MA-05"></a>
 [Back to top](#top)
 ## MA-05 -- Rep. Katherine Clark (D)
+### Committees
+Katherine Clark is the #21 Democrat on the House Committee on Appropriations 
+
 ### HEP Grants
 ```
 In the past 5 years, this district has received: $10,505,000.00 in SC HEP grants.
@@ -241,6 +261,9 @@ UNIVERSITY OF MASSACHUSETTS             2012     1494999
 <a name="MA-06"></a>
 [Back to top](#top)
 ## MA-06 -- Rep. Seth Moulton (D)
+### Committees
+Seth Moulton is not on any of our key committees 
+
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -268,6 +291,9 @@ AERODYNE RESEARCH, INC. 2013       60000
 <a name="MA-07"></a>
 [Back to top](#top)
 ## MA-07 -- Rep. Michael Capuano (D)
+### Committees
+Michael Capuano is not on any of our key committees 
+
 ### HEP Grants
 ```
 In the past 5 years, this district has received: $36,604,000.00 in SC HEP grants.
@@ -336,6 +362,9 @@ Tufts University                              2015       93000
 <a name="MA-08"></a>
 [Back to top](#top)
 ## MA-08 -- Rep. Stephen Lynch (D)
+### Committees
+Stephen Lynch is not on any of our key committees 
+
 ### HEP Grants
 ```
 In the past 5 years, this district has received: $26,729,000.00 in SC HEP grants.
@@ -388,6 +417,9 @@ UNIVERSITY OF MASSACHUSETTS             2013      646359
 <a name="MA-09"></a>
 [Back to top](#top)
 ## MA-09 -- Rep. William Keating (D)
+### Committees
+William Keating is not on any of our key committees 
+
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016

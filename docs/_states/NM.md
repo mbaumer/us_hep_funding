@@ -10,6 +10,15 @@ permalink : /states/NM/
 [NM-01](#NM-01)  [NM-02](#NM-02)  [NM-03](#NM-03)  
 
 # NM -- Sen. Martin Heinrich (D) and  Sen. Tom Udall (D)
+## Committees
+Martin Heinrich is the #7 Democrat on the Senate Committee on Energy and Natural Resources 
+
+Tom Udall is the #8 Democrat on the Senate Committee on Commerce, Science, and Transportation 
+
+Tom Udall is the #7 Democrat on the Senate Committee on Appropriations 
+
+Tom Udall is the #5 Democrat on the Senate Appropriations Subcommittee on Energy and Water Development 
+
 ## HEP Grants
 ```
 In the past 5 years, this state has received:
@@ -64,6 +73,9 @@ SANTA FE INSTITUTE OF SCIENCE INC                   12015
 <a name="NM-01"></a>
 [Back to top](#top)
 ## NM-01 -- Rep. Michelle Lujan Grisham (D)
+### Committees
+Michelle Lujan Grisham is not on any of our key committees 
+
 ### HEP Grants
 ```
 In the past 5 years, this district has received: $2,785,000.00 in SC HEP grants.
@@ -104,6 +116,9 @@ University of New Mexico 2015      105000
 <a name="NM-02"></a>
 [Back to top](#top)
 ## NM-02 -- Rep. Stevan Pearce (R)
+### Committees
+Stevan Pearce is not on any of our key committees 
+
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -128,6 +143,9 @@ New Mexico St University                      2015       20000
 <a name="NM-03"></a>
 [Back to top](#top)
 ## NM-03 -- Rep. Ben Luján (D)
+### Committees
+Ben Luján is the #15 Democrat on the House Committee on Energy and Commerce 
+
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016

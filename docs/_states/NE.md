@@ -10,6 +10,11 @@ permalink : /states/NE/
 [NE-01](#NE-01)  [NE-02](#NE-02)  [NE-03](#NE-03)  
 
 # NE -- Sen. Deb Fischer (R) and  Sen. Benjamin Sasse (R)
+## Committees
+Deb Fischer is the #5 Republican on the Senate Committee on Commerce, Science, and Transportation 
+
+Benjamin Sasse is not on any of our key committees 
+
 ## HEP Grants
 ```
 This state received no SC HEP grants from 2012-2016
@@ -36,6 +41,9 @@ CREIGHTON UNIVERSITY                                92500
 <a name="NE-01"></a>
 [Back to top](#top)
 ## NE-01 -- Rep. Jeff Fortenberry (R)
+### Committees
+Jeff Fortenberry is the #15 Republican on the House Committee on Appropriations 
+
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -59,6 +67,9 @@ UNIVERSITY OF NEBRASKA                        2012     4612438
 <a name="NE-02"></a>
 [Back to top](#top)
 ## NE-02 -- Rep. Don Bacon (R)
+### Committees
+Don Bacon is not on any of our key committees 
+
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -78,6 +89,9 @@ CREIGHTON UNIVERSITY 2012       92500
 <a name="NE-03"></a>
 [Back to top](#top)
 ## NE-03 -- Rep. Adrian Smith (R)
+### Committees
+Adrian Smith is not on any of our key committees 
+
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016

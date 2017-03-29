@@ -10,6 +10,11 @@ permalink : /states/VA/
 [VA-01](#VA-01)  [VA-02](#VA-02)  [VA-03](#VA-03)  [VA-04](#VA-04)  [VA-05](#VA-05)  [VA-06](#VA-06)  [VA-07](#VA-07)  [VA-08](#VA-08)  [VA-09](#VA-09)  [VA-10](#VA-10)  [VA-11](#VA-11)  
 
 # VA -- Sen. Timothy Kaine (D) and  Sen. Mark Warner (D)
+## Committees
+Timothy Kaine is not on any of our key committees 
+
+Mark Warner is not on any of our key committees 
+
 ## HEP Grants
 ```
 In the past 5 years, this state has received:
@@ -72,6 +77,9 @@ and  23  other institutions.
 <a name="VA-01"></a>
 [Back to top](#top)
 ## VA-01 -- Rep. Robert Wittman (R)
+### Committees
+Robert Wittman is not on any of our key committees 
+
 ### HEP Grants
 ```
 In the past 5 years, this district has received: $398,000.00 in SC HEP grants.
@@ -109,6 +117,9 @@ VIRGINIA INSTITUTE OF MARINE SCIENCE          2013      128672
 <a name="VA-02"></a>
 [Back to top](#top)
 ## VA-02 -- Rep. Scott Taylor (R)
+### Committees
+Scott Taylor is the #30 Republican on the House Committee on Appropriations 
+
 ### HEP Grants
 ```
 In the past 5 years, this district has received: $2,502,000.00 in SC HEP grants.
@@ -150,6 +161,9 @@ VIRGINIA WESLEYAN COLLEGE                   2014      120438
 <a name="VA-03"></a>
 [Back to top](#top)
 ## VA-03 -- Rep. Robert Scott (D)
+### Committees
+Robert Scott is not on any of our key committees 
+
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -183,6 +197,9 @@ VIRGINIA COMMONWEALTH UNIVERSITY            2012     2217983
 <a name="VA-04"></a>
 [Back to top](#top)
 ## VA-04 -- Rep. A. McEachin (D)
+### Committees
+A. McEachin is not on any of our key committees 
+
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -199,6 +216,11 @@ This district received no NSF MPS grants from 2012-2016
 <a name="VA-05"></a>
 [Back to top](#top)
 ## VA-05 -- Rep. Thomas Garrett (R)
+### Committees
+Thomas Garrett is the #7 Republican on the House Subcommittee on Early Childhood, Elementary, and Secondary Education 
+
+Thomas Garrett is the #11 Republican on the House Subcommittee on Higher Education and Workforce Development 
+
 ### HEP Grants
 ```
 In the past 5 years, this district has received: $6,890,000.00 in SC HEP grants.
@@ -232,6 +254,9 @@ University of Virginia                          2015      127285
 <a name="VA-06"></a>
 [Back to top](#top)
 ## VA-06 -- Rep. Bob Goodlatte (R)
+### Committees
+Bob Goodlatte is not on any of our key committees 
+
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -254,6 +279,9 @@ WASHINGTON AND LEE UNIVERSITY, THE 2013       91787
 <a name="VA-07"></a>
 [Back to top](#top)
 ## VA-07 -- Rep. David Brat (R)
+### Committees
+David Brat is the #6 Republican on the House Subcommittee on Early Childhood, Elementary, and Secondary Education 
+
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -275,6 +303,9 @@ UNIVERSITY OF RICHMOND 2012      720168
 <a name="VA-08"></a>
 [Back to top](#top)
 ## VA-08 -- Rep. Donald Beyer (D)
+### Committees
+Donald Beyer is the #8 Democrat on the House Committee on Science, Space, and Technology 
+
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -324,6 +355,9 @@ YALE UNIVERSITY                    2012       85591
 <a name="VA-09"></a>
 [Back to top](#top)
 ## VA-09 -- Rep. H. Griffith (R)
+### Committees
+H. Griffith is the #17 Republican on the House Committee on Energy and Commerce 
+
 ### HEP Grants
 ```
 In the past 5 years, this district has received: $3,040,000.00 in SC HEP grants.
@@ -354,6 +388,9 @@ VIRGINIA POLYTECHNIC INSTITUTE & STATE UNIVERSITY 2017       20000
 <a name="VA-10"></a>
 [Back to top](#top)
 ## VA-10 -- Rep. Barbara Comstock (R)
+### Committees
+Barbara Comstock is the #12 Republican on the House Committee on Science, Space, and Technology 
+
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -376,6 +413,9 @@ THE GEORGE WASHINGTON UNIVERSITY 2012     1520000
 <a name="VA-11"></a>
 [Back to top](#top)
 ## VA-11 -- Rep. Gerald Connolly (D)
+### Committees
+Gerald Connolly is not on any of our key committees 
+
 ### HEP Grants
 ```
 In the past 5 years, this district has received: $5,000.00 in SC HEP grants.

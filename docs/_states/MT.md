@@ -10,6 +10,15 @@ permalink : /states/MT/
 [MT-00](#MT-00)  
 
 # MT -- Sen. Steve Daines (R) and  Sen. Jon Tester (D)
+## Committees
+Steve Daines is the #14 Republican on the Senate Committee on Appropriations 
+
+Steve Daines is the #6 Republican on the Senate Committee on Energy and Natural Resources 
+
+Jon Tester is the #6 Democrat on the Senate Committee on Appropriations 
+
+Jon Tester is the #3 Democrat on the Senate Appropriations Subcommittee on Energy and Water Development 
+
 ## HEP Grants
 ```
 This state received no SC HEP grants from 2012-2016
