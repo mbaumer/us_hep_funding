@@ -11,6 +11,8 @@ permalink : /states/LA/
 
 # LA -- Sen. Bill Cassidy (R) and  Sen. John Kennedy (R)
 ## Committees
+Bill Cassidy is the #7 Republican on the Senate Energy Subcommittee on Energy 
+
 Bill Cassidy is the #10 Republican on the Senate Committee on Energy and Natural Resources 
 
 John Kennedy is the #9 Republican on the Senate Appropriations Subcommittee on Commerce, Justice, Science, and Related Agencies 
@@ -164,6 +166,8 @@ LOUISIANA STATE UNIVERSITY SYSTEM 2013      197800
 ## LA-05 -- Rep. Ralph Abraham (R) -- [Wikipedia](https://en.wikipedia.org/wiki/LA-05)
 ### Committees
 Ralph Abraham is the #15 Republican on the House Committee on Science, Space, and Technology 
+
+Ralph Abraham is the #6 Republican on the House Committee on Science, Space, and Technology; Subcommittee on Research and Technology 
 
 ### HEP Grants
 ```

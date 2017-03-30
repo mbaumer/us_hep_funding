@@ -679,6 +679,8 @@ VASSAR COLLEGE                   2012       75000
 [Back to top](#top)
 ## NY-20 -- Rep. Paul Tonko (D) -- [Wikipedia](https://en.wikipedia.org/wiki/NY-20)
 ### Committees
+Paul Tonko is the #6 Democrat on the House Committee on Science, Space, and Technology; Subcommittee on Energy 
+
 Paul Tonko is the #12 Democrat on the House Committee on Science, Space, and Technology 
 
 Paul Tonko is the #16 Democrat on the House Committee on Energy and Commerce 

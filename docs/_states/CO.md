@@ -13,9 +13,13 @@ permalink : /states/CO/
 ## Committees
 Michael Bennet is not on any of our key committees 
 
-Cory Gardner is the #13 Republican on the Senate Committee on Commerce, Science, and Transportation 
+Cory Gardner is the #1 Republican on the Senate Energy Subcommittee on Energy 
+
+Cory Gardner is the #7 Republican on the Senate Commerce Subcommittee on Science and Space 
 
 Cory Gardner is the #7 Republican on the Senate Committee on Energy and Natural Resources 
+
+Cory Gardner is the #13 Republican on the Senate Committee on Commerce, Science, and Transportation 
 
 ## HEP Grants
 ```
@@ -118,9 +122,9 @@ REGIS UNIVERSITY                           2012       44000
 [Back to top](#top)
 ## CO-02 -- Rep. Jared Polis (D) -- [Wikipedia](https://en.wikipedia.org/wiki/CO-02)
 ### Committees
-Jared Polis is the #1 Democrat on the House Subcommittee on Early Childhood, Elementary, and Secondary Education 
-
 Jared Polis is the #6 Democrat on the House Subcommittee on Higher Education and Workforce Development 
+
+Jared Polis is the #1 Democrat on the House Subcommittee on Early Childhood, Elementary, and Secondary Education 
 
 ### HEP Grants
 ```

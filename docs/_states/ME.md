@@ -17,6 +17,8 @@ Susan Collins is the #5 Republican on the Senate Committee on Appropriations
 
 Susan Collins is the #5 Republican on the Senate Appropriations Subcommittee on Energy and Water Development 
 
+Angus King is the #6 Democrat on the Senate Energy Subcommittee on Energy 
+
 Angus King is the #9 Democrat on the Senate Committee on Energy and Natural Resources 
 
 ## HEP Grants

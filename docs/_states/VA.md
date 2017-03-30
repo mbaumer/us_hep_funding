@@ -217,9 +217,9 @@ This district received no NSF MPS grants from 2012-2016
 [Back to top](#top)
 ## VA-05 -- Rep. Thomas Garrett (R) -- [Wikipedia](https://en.wikipedia.org/wiki/VA-05)
 ### Committees
-Thomas Garrett is the #7 Republican on the House Subcommittee on Early Childhood, Elementary, and Secondary Education 
-
 Thomas Garrett is the #11 Republican on the House Subcommittee on Higher Education and Workforce Development 
+
+Thomas Garrett is the #7 Republican on the House Subcommittee on Early Childhood, Elementary, and Secondary Education 
 
 ### HEP Grants
 ```
@@ -306,6 +306,8 @@ UNIVERSITY OF RICHMOND 2012      720168
 ### Committees
 Donald Beyer is the #8 Democrat on the House Committee on Science, Space, and Technology 
 
+Donald Beyer is the #6 Democrat on the House Committee on Science, Space, and Technology; Subcommittee on Research and Technology 
+
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -390,6 +392,8 @@ VIRGINIA POLYTECHNIC INSTITUTE & STATE UNIVERSITY 2017       20000
 ## VA-10 -- Rep. Barbara Comstock (R) -- [Wikipedia](https://en.wikipedia.org/wiki/VA-10)
 ### Committees
 Barbara Comstock is the #12 Republican on the House Committee on Science, Space, and Technology 
+
+Barbara Comstock is the #1 Republican on the House Committee on Science, Space, and Technology; Subcommittee on Research and Technology 
 
 ### HEP Grants
 ```

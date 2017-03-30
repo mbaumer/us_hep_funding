@@ -123,6 +123,8 @@ University of Notre Dame        2015      599544
 ### Committees
 Jim Banks is the #18 Republican on the House Committee on Science, Space, and Technology 
 
+Jim Banks is the #8 Republican on the House Committee on Science, Space, and Technology; Subcommittee on Research and Technology 
+
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -203,9 +205,9 @@ TAYLOR UNIVERSITY, INC.     2012       90000
 [Back to top](#top)
 ## IN-06 -- Rep. Luke Messer (R) -- [Wikipedia](https://en.wikipedia.org/wiki/IN-06)
 ### Committees
-Luke Messer is the #5 Republican on the House Subcommittee on Early Childhood, Elementary, and Secondary Education 
-
 Luke Messer is the #4 Republican on the House Subcommittee on Higher Education and Workforce Development 
+
+Luke Messer is the #5 Republican on the House Subcommittee on Early Childhood, Elementary, and Secondary Education 
 
 ### HEP Grants
 ```

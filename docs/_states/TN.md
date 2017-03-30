@@ -11,6 +11,8 @@ permalink : /states/TN/
 
 # TN -- Sen. Lamar Alexander (R) and  Sen. Bob Corker (R)
 ## Committees
+Lamar Alexander is the #5 Republican on the Senate Energy Subcommittee on Energy 
+
 Lamar Alexander is the #2 Republican on the Senate Appropriations Subcommittee on Commerce, Justice, Science, and Related Agencies 
 
 Lamar Alexander is the #4 Republican on the Senate Committee on Appropriations 

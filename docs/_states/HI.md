@@ -15,9 +15,11 @@ Mazie Hirono is the #8 Democrat on the Senate Committee on Energy and Natural Re
 
 Brian Schatz is the #6 Democrat on the Senate Appropriations Subcommittee on Commerce, Justice, Science, and Related Agencies 
 
-Brian Schatz is the #5 Democrat on the Senate Committee on Commerce, Science, and Transportation 
+Brian Schatz is the #2 Democrat on the Senate Commerce Subcommittee on Science and Space 
 
 Brian Schatz is the #11 Democrat on the Senate Committee on Appropriations 
+
+Brian Schatz is the #5 Democrat on the Senate Committee on Commerce, Science, and Transportation 
 
 ## HEP Grants
 ```

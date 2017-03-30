@@ -15,9 +15,11 @@ Richard Durbin is the #4 Democrat on the Senate Committee on Appropriations
 
 Richard Durbin is the #4 Democrat on the Senate Appropriations Subcommittee on Energy and Water Development 
 
-Tammy Duckworth is the #11 Democrat on the Senate Committee on Commerce, Science, and Transportation 
+Tammy Duckworth is the #7 Democrat on the Senate Energy Subcommittee on Energy 
 
 Tammy Duckworth is the #10 Democrat on the Senate Committee on Energy and Natural Resources 
+
+Tammy Duckworth is the #11 Democrat on the Senate Committee on Commerce, Science, and Transportation 
 
 ## HEP Grants
 ```
@@ -153,7 +155,11 @@ CHICAGO STATE UNIVERSITY 2012       67136
 [Back to top](#top)
 ## IL-03 -- Rep. Daniel Lipinski (D) -- [Wikipedia](https://en.wikipedia.org/wiki/IL-03)
 ### Committees
+Daniel Lipinski is the #3 Democrat on the House Committee on Science, Space, and Technology; Subcommittee on Energy 
+
 Daniel Lipinski is the #3 Democrat on the House Committee on Science, Space, and Technology 
+
+Daniel Lipinski is the #1 Democrat on the House Committee on Science, Space, and Technology; Subcommittee on Research and Technology 
 
 ### HEP Grants
 ```
@@ -445,6 +451,8 @@ This district received no NSF MPS grants from 2012-2016
 [Back to top](#top)
 ## IL-11 -- Rep. Bill Foster (D) -- [Wikipedia](https://en.wikipedia.org/wiki/IL-11)
 ### Committees
+Bill Foster is the #7 Democrat on the House Committee on Science, Space, and Technology; Subcommittee on Energy 
+
 Bill Foster is the #13 Democrat on the House Committee on Science, Space, and Technology 
 
 ### HEP Grants
@@ -593,7 +601,11 @@ UNIVERSITY OF ILLINOIS       2013    21304348
 [Back to top](#top)
 ## IL-14 -- Rep. Randy Hultgren (R) -- [Wikipedia](https://en.wikipedia.org/wiki/IL-14)
 ### Committees
+Randy Hultgren is the #5 Republican on the House Committee on Science, Space, and Technology; Subcommittee on Energy 
+
 Randy Hultgren is the #5 Republican on the House Committee on Science, Space, and Technology 
+
+Randy Hultgren is the #3 Republican on the House Committee on Science, Space, and Technology; Subcommittee on Research and Technology 
 
 ### HEP Grants
 ```
@@ -719,7 +731,11 @@ KNOX COLLEGE      2014      292100
 [Back to top](#top)
 ## IL-18 -- Rep. Darin LaHood (R) -- [Wikipedia](https://en.wikipedia.org/wiki/IL-18)
 ### Committees
+Darin LaHood is the #9 Republican on the House Committee on Science, Space, and Technology; Subcommittee on Energy 
+
 Darin LaHood is the #16 Republican on the House Committee on Science, Space, and Technology 
+
+Darin LaHood is the #5 Republican on the House Committee on Science, Space, and Technology; Subcommittee on Research and Technology 
 
 ### HEP Grants
 ```

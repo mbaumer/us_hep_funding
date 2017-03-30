@@ -160,6 +160,8 @@ This district received no NSF MPS grants from 2012-2016
 [Back to top](#top)
 ## AL-05 -- Rep. Mo Brooks (R) -- [Wikipedia](https://en.wikipedia.org/wiki/AL-05)
 ### Committees
+Mo Brooks is the #4 Republican on the House Committee on Science, Space, and Technology; Subcommittee on Energy 
+
 Mo Brooks is the #4 Republican on the House Committee on Science, Space, and Technology 
 
 ### HEP Grants

@@ -11,6 +11,8 @@ permalink : /states/ND/
 
 # ND -- Sen. John Hoeven (R) and  Sen. Heidi Heitkamp (D)
 ## Committees
+John Hoeven is the #6 Republican on the Senate Energy Subcommittee on Energy 
+
 John Hoeven is the #10 Republican on the Senate Committee on Appropriations 
 
 John Hoeven is the #8 Republican on the Senate Appropriations Subcommittee on Energy and Water Development 

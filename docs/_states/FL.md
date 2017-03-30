@@ -11,6 +11,8 @@ permalink : /states/FL/
 
 # FL -- Sen. Bill Nelson (D) and  Sen. Marco Rubio (R)
 ## Committees
+Bill Nelson is the #7 Democrat on the Senate Commerce Subcommittee on Science and Space 
+
 Bill Nelson is the #1 Democrat on the Senate Committee on Commerce, Science, and Transportation 
 
 Marco Rubio is the #16 Republican on the Senate Committee on Appropriations 
@@ -89,6 +91,8 @@ This district received no NSF MPS grants from 2012-2016
 [Back to top](#top)
 ## FL-02 -- Rep. Neal Dunn (R) -- [Wikipedia](https://en.wikipedia.org/wiki/FL-02)
 ### Committees
+Neal Dunn is the #11 Republican on the House Committee on Science, Space, and Technology; Subcommittee on Energy 
+
 Neal Dunn is the #21 Republican on the House Committee on Science, Space, and Technology 
 
 ### HEP Grants
@@ -327,7 +331,11 @@ ECKERD COLLEGE, INC. 2012      107255
 [Back to top](#top)
 ## FL-11 -- Rep. Daniel Webster (R) -- [Wikipedia](https://en.wikipedia.org/wiki/FL-11)
 ### Committees
+Daniel Webster is the #10 Republican on the House Committee on Science, Space, and Technology; Subcommittee on Energy 
+
 Daniel Webster is the #17 Republican on the House Committee on Science, Space, and Technology 
+
+Daniel Webster is the #7 Republican on the House Committee on Science, Space, and Technology; Subcommittee on Research and Technology 
 
 ### HEP Grants
 ```

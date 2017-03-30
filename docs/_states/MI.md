@@ -11,6 +11,8 @@ permalink : /states/MI/
 
 # MI -- Sen. Gary Peters (D) and  Sen. Debbie Stabenow (D)
 ## Committees
+Gary Peters is the #4 Democrat on the Senate Commerce Subcommittee on Science and Space 
+
 Gary Peters is the #9 Democrat on the Senate Committee on Commerce, Science, and Transportation 
 
 Debbie Stabenow is the #4 Democrat on the Senate Committee on Energy and Natural Resources 

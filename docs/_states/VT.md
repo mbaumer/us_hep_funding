@@ -17,6 +17,8 @@ Patrick Leahy is the #1 Democrat on the Senate Committee on Appropriations
 
 Patrick Leahy is the #9 Democrat on the Senate Appropriations Subcommittee on Energy and Water Development 
 
+Bernard Sanders is the #3 Democrat on the Senate Energy Subcommittee on Energy 
+
 Bernard Sanders is the #3 Democrat on the Senate Committee on Energy and Natural Resources 
 
 ## HEP Grants

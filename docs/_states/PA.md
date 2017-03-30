@@ -233,9 +233,9 @@ MINERALS, METALS AND MATERIALS SOCIETY, INC. 2012       25000
 [Back to top](#top)
 ## PA-05 -- Rep. Glenn Thompson (R) -- [Wikipedia](https://en.wikipedia.org/wiki/PA-05)
 ### Committees
-Glenn Thompson is the #4 Republican on the House Subcommittee on Early Childhood, Elementary, and Secondary Education 
-
 Glenn Thompson is the #2 Republican on the House Subcommittee on Higher Education and Workforce Development 
+
+Glenn Thompson is the #4 Republican on the House Subcommittee on Early Childhood, Elementary, and Secondary Education 
 
 ### HEP Grants
 ```

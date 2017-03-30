@@ -11,9 +11,11 @@ permalink : /states/WA/
 
 # WA -- Sen. Maria Cantwell (D) and  Sen. Patty Murray (D)
 ## Committees
-Maria Cantwell is the #2 Democrat on the Senate Committee on Commerce, Science, and Transportation 
+Maria Cantwell is the #9 Democrat on the Senate Energy Subcommittee on Energy 
 
 Maria Cantwell is the #1 Democrat on the Senate Committee on Energy and Natural Resources 
+
+Maria Cantwell is the #2 Democrat on the Senate Committee on Commerce, Science, and Transportation 
 
 Patty Murray is the #2 Democrat on the Senate Committee on Appropriations 
 

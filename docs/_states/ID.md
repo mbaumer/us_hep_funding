@@ -13,6 +13,8 @@ permalink : /states/ID/
 ## Committees
 Michael Crapo is not on any of our key committees 
 
+James Risch is the #2 Republican on the Senate Energy Subcommittee on Energy 
+
 James Risch is the #3 Republican on the Senate Committee on Energy and Natural Resources 
 
 ## HEP Grants

@@ -11,6 +11,8 @@ permalink : /states/AK/
 
 # AK -- Sen. Lisa Murkowski (R) and  Sen. Dan Sullivan (R)
 ## Committees
+Lisa Murkowski is the #9 Republican on the Senate Energy Subcommittee on Energy 
+
 Lisa Murkowski is the #3 Republican on the Senate Appropriations Subcommittee on Commerce, Justice, Science, and Related Agencies 
 
 Lisa Murkowski is the #6 Republican on the Senate Committee on Appropriations 
@@ -18,6 +20,8 @@ Lisa Murkowski is the #6 Republican on the Senate Committee on Appropriations
 Lisa Murkowski is the #6 Republican on the Senate Appropriations Subcommittee on Energy and Water Development 
 
 Lisa Murkowski is the #1 Republican on the Senate Committee on Energy and Natural Resources 
+
+Dan Sullivan is the #3 Republican on the Senate Commerce Subcommittee on Science and Space 
 
 Dan Sullivan is the #7 Republican on the Senate Committee on Commerce, Science, and Transportation 
 

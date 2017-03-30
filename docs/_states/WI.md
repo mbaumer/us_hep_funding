@@ -11,9 +11,13 @@ permalink : /states/WI/
 
 # WI -- Sen. Tammy Baldwin (D) and  Sen. Ron Johnson (R)
 ## Committees
-Tammy Baldwin is the #10 Democrat on the Senate Committee on Commerce, Science, and Transportation 
+Tammy Baldwin is the #5 Democrat on the Senate Commerce Subcommittee on Science and Space 
 
 Tammy Baldwin is the #12 Democrat on the Senate Committee on Appropriations 
+
+Tammy Baldwin is the #10 Democrat on the Senate Committee on Commerce, Science, and Transportation 
+
+Ron Johnson is the #5 Republican on the Senate Commerce Subcommittee on Science and Space 
 
 Ron Johnson is the #11 Republican on the Senate Committee on Commerce, Science, and Transportation 
 

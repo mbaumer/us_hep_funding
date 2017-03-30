@@ -11,6 +11,8 @@ permalink : /states/MN/
 
 # MN -- Sen. Alan Franken (D) and  Sen. Amy Klobuchar (D)
 ## Committees
+Alan Franken is the #4 Democrat on the Senate Energy Subcommittee on Energy 
+
 Alan Franken is the #5 Democrat on the Senate Committee on Energy and Natural Resources 
 
 Amy Klobuchar is the #3 Democrat on the Senate Committee on Commerce, Science, and Transportation 

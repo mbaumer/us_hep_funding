@@ -13,6 +13,8 @@ permalink : /states/OH/
 ## Committees
 Sherrod Brown is not on any of our key committees 
 
+Robert Portman is the #8 Republican on the Senate Energy Subcommittee on Energy 
+
 Robert Portman is the #11 Republican on the Senate Committee on Energy and Natural Resources 
 
 ## HEP Grants

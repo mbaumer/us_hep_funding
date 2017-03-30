@@ -238,6 +238,8 @@ SETI INSTITUTE              2012       96379
 ### Committees
 Ami Bera is the #5 Democrat on the House Committee on Science, Space, and Technology 
 
+Ami Bera is the #5 Democrat on the House Committee on Science, Space, and Technology; Subcommittee on Research and Technology 
+
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016
@@ -282,6 +284,8 @@ UNIVERSITY OF SAN FRANCISCO INC         2012       68617
 [Back to top](#top)
 ## CA-09 -- Rep. Jerry McNerney (D) -- [Wikipedia](https://en.wikipedia.org/wiki/CA-09)
 ### Committees
+Jerry McNerney is the #5 Democrat on the House Committee on Science, Space, and Technology; Subcommittee on Energy 
+
 Jerry McNerney is the #10 Democrat on the House Committee on Science, Space, and Technology 
 
 Jerry McNerney is the #13 Democrat on the House Committee on Energy and Commerce 
@@ -624,6 +628,8 @@ UNIVERSITY OF CALIFORNIA, MERCED              2012      114985
 [Back to top](#top)
 ## CA-19 -- Rep. Zoe Lofgren (D) -- [Wikipedia](https://en.wikipedia.org/wiki/CA-19)
 ### Committees
+Zoe Lofgren is the #2 Democrat on the House Committee on Science, Space, and Technology; Subcommittee on Energy 
+
 Zoe Lofgren is the #2 Democrat on the House Committee on Science, Space, and Technology 
 
 ### HEP Grants
@@ -789,7 +795,11 @@ WESTMONT COLLEGE                              2013       50000
 [Back to top](#top)
 ## CA-25 -- Rep. Steve Knight (R) -- [Wikipedia](https://en.wikipedia.org/wiki/CA-25)
 ### Committees
+Steve Knight is the #8 Republican on the House Committee on Science, Space, and Technology; Subcommittee on Energy 
+
 Steve Knight is the #10 Republican on the House Committee on Science, Space, and Technology 
+
+Steve Knight is the #4 Republican on the House Committee on Science, Space, and Technology; Subcommittee on Research and Technology 
 
 ### HEP Grants
 ```
@@ -1218,6 +1228,8 @@ CALIFORNIA STATE UNIVERSITY, FULLERTON 2012      157688
 [Back to top](#top)
 ## CA-41 -- Rep. Mark Takano (D) -- [Wikipedia](https://en.wikipedia.org/wiki/CA-41)
 ### Committees
+Mark Takano is the #8 Democrat on the House Committee on Science, Space, and Technology; Subcommittee on Energy 
+
 Mark Takano is the #14 Democrat on the House Committee on Science, Space, and Technology 
 
 Mark Takano is the #8 Democrat on the House Subcommittee on Higher Education and Workforce Development 
@@ -1415,6 +1427,8 @@ Cal State U Long Beach Fdn                    2015      125000
 [Back to top](#top)
 ## CA-48 -- Rep. Dana Rohrabacher (R) -- [Wikipedia](https://en.wikipedia.org/wiki/CA-48)
 ### Committees
+Dana Rohrabacher is the #2 Republican on the House Committee on Science, Space, and Technology; Subcommittee on Energy 
+
 Dana Rohrabacher is the #2 Republican on the House Committee on Science, Space, and Technology 
 
 ### HEP Grants
@@ -1550,9 +1564,9 @@ UNIVERSITY OF SAN DIEGO             2013      451293
 [Back to top](#top)
 ## CA-53 -- Rep. Susan Davis (D) -- [Wikipedia](https://en.wikipedia.org/wiki/CA-53)
 ### Committees
-Susan Davis is the #5 Democrat on the House Subcommittee on Early Childhood, Elementary, and Secondary Education 
-
 Susan Davis is the #1 Democrat on the House Subcommittee on Higher Education and Workforce Development 
+
+Susan Davis is the #5 Democrat on the House Subcommittee on Early Childhood, Elementary, and Secondary Education 
 
 ### HEP Grants
 ```

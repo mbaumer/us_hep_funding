@@ -13,9 +13,11 @@ permalink : /states/UT/
 ## Committees
 Orrin Hatch is not on any of our key committees 
 
-Mike Lee is the #10 Republican on the Senate Committee on Commerce, Science, and Transportation 
+Mike Lee is the #4 Republican on the Senate Commerce Subcommittee on Science and Space 
 
 Mike Lee is the #4 Republican on the Senate Committee on Energy and Natural Resources 
+
+Mike Lee is the #10 Republican on the Senate Committee on Commerce, Science, and Transportation 
 
 ## HEP Grants
 ```

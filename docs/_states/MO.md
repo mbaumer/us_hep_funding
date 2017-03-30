@@ -11,9 +11,9 @@ permalink : /states/MO/
 
 # MO -- Sen. Roy Blunt (R) and  Sen. Claire McCaskill (D)
 ## Committees
-Roy Blunt is the #3 Republican on the Senate Committee on Commerce, Science, and Transportation 
-
 Roy Blunt is the #8 Republican on the Senate Committee on Appropriations 
+
+Roy Blunt is the #3 Republican on the Senate Committee on Commerce, Science, and Transportation 
 
 Claire McCaskill is not on any of our key committees 
 

@@ -98,9 +98,9 @@ MURRAY STATE UNIVERSITY 2014      149940
 [Back to top](#top)
 ## KY-02 -- Rep. Brett Guthrie (R) -- [Wikipedia](https://en.wikipedia.org/wiki/KY-02)
 ### Committees
-Brett Guthrie is the #13 Republican on the House Committee on Energy and Commerce 
-
 Brett Guthrie is the #1 Republican on the House Subcommittee on Higher Education and Workforce Development 
+
+Brett Guthrie is the #13 Republican on the House Committee on Energy and Commerce 
 
 ### HEP Grants
 ```
@@ -154,6 +154,8 @@ UNIVERSITY OF LOUISVILLE 2012      609075
 [Back to top](#top)
 ## KY-04 -- Rep. Thomas Massie (R) -- [Wikipedia](https://en.wikipedia.org/wiki/KY-04)
 ### Committees
+Thomas Massie is the #6 Republican on the House Committee on Science, Space, and Technology; Subcommittee on Energy 
+
 Thomas Massie is the #7 Republican on the House Committee on Science, Space, and Technology 
 
 ### HEP Grants

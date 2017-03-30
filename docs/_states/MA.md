@@ -11,6 +11,8 @@ permalink : /states/MA/
 
 # MA -- Sen. Edward Markey (D) and  Sen. Elizabeth Warren (D)
 ## Committees
+Edward Markey is the #1 Democrat on the Senate Commerce Subcommittee on Science and Space 
+
 Edward Markey is the #6 Democrat on the Senate Committee on Commerce, Science, and Transportation 
 
 Elizabeth Warren is not on any of our key committees 

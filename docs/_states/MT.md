@@ -11,6 +11,8 @@ permalink : /states/MT/
 
 # MT -- Sen. Steve Daines (R) and  Sen. Jon Tester (D)
 ## Committees
+Steve Daines is the #4 Republican on the Senate Energy Subcommittee on Energy 
+
 Steve Daines is the #14 Republican on the Senate Committee on Appropriations 
 
 Steve Daines is the #6 Republican on the Senate Committee on Energy and Natural Resources 

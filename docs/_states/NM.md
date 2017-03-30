@@ -11,13 +11,17 @@ permalink : /states/NM/
 
 # NM -- Sen. Martin Heinrich (D) and  Sen. Tom Udall (D)
 ## Committees
+Martin Heinrich is the #5 Democrat on the Senate Energy Subcommittee on Energy 
+
 Martin Heinrich is the #7 Democrat on the Senate Committee on Energy and Natural Resources 
 
-Tom Udall is the #8 Democrat on the Senate Committee on Commerce, Science, and Transportation 
+Tom Udall is the #3 Democrat on the Senate Commerce Subcommittee on Science and Space 
 
 Tom Udall is the #7 Democrat on the Senate Committee on Appropriations 
 
 Tom Udall is the #5 Democrat on the Senate Appropriations Subcommittee on Energy and Water Development 
+
+Tom Udall is the #8 Democrat on the Senate Committee on Commerce, Science, and Transportation 
 
 ## HEP Grants
 ```

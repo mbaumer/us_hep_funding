@@ -13,9 +13,13 @@ permalink : /states/WV/
 ## Committees
 Shelley Capito is the #7 Republican on the Senate Appropriations Subcommittee on Commerce, Justice, Science, and Related Agencies 
 
-Shelley Capito is the #12 Republican on the Senate Committee on Commerce, Science, and Transportation 
+Shelley Capito is the #6 Republican on the Senate Commerce Subcommittee on Science and Space 
 
 Shelley Capito is the #12 Republican on the Senate Committee on Appropriations 
+
+Shelley Capito is the #12 Republican on the Senate Committee on Commerce, Science, and Transportation 
+
+Joe Manchin is the #1 Democrat on the Senate Energy Subcommittee on Energy 
 
 Joe Manchin is the #7 Democrat on the Senate Appropriations Subcommittee on Commerce, Justice, Science, and Related Agencies 
 

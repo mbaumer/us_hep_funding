@@ -11,9 +11,11 @@ permalink : /states/KS/
 
 # KS -- Sen. Jerry Moran (R) and  Sen. Pat Roberts (R)
 ## Committees
-Jerry Moran is the #6 Republican on the Senate Committee on Commerce, Science, and Transportation 
+Jerry Moran is the #2 Republican on the Senate Commerce Subcommittee on Science and Space 
 
 Jerry Moran is the #9 Republican on the Senate Committee on Appropriations 
+
+Jerry Moran is the #6 Republican on the Senate Committee on Commerce, Science, and Transportation 
 
 Pat Roberts is not on any of our key committees 
 
@@ -60,6 +62,8 @@ Kansas State University                             16660
 ## KS-01 -- Rep. Roger Marshall (R) -- [Wikipedia](https://en.wikipedia.org/wiki/KS-01)
 ### Committees
 Roger Marshall is the #20 Republican on the House Committee on Science, Space, and Technology 
+
+Roger Marshall is the #9 Republican on the House Committee on Science, Space, and Technology; Subcommittee on Research and Technology 
 
 ### HEP Grants
 ```

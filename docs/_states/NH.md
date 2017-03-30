@@ -11,6 +11,8 @@ permalink : /states/NH/
 
 # NH -- Sen. Margaret Hassan (D) and  Sen. Jeanne Shaheen (D)
 ## Committees
+Margaret Hassan is the #6 Democrat on the Senate Commerce Subcommittee on Science and Space 
+
 Margaret Hassan is the #12 Democrat on the Senate Committee on Commerce, Science, and Transportation 
 
 Jeanne Shaheen is the #1 Democrat on the Senate Appropriations Subcommittee on Commerce, Justice, Science, and Related Agencies 

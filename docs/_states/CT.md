@@ -181,6 +181,8 @@ FAIRFIELD UNIVERSITY 2012       90580
 ### Committees
 Elizabeth Esty is the #6 Democrat on the House Committee on Science, Space, and Technology 
 
+Elizabeth Esty is the #2 Democrat on the House Committee on Science, Space, and Technology; Subcommittee on Research and Technology 
+
 ### HEP Grants
 ```
 This district received no SC HEP grants from 2012-2016

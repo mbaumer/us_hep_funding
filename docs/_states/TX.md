@@ -13,6 +13,8 @@ permalink : /states/TX/
 ## Committees
 John Cornyn is not on any of our key committees 
 
+Ted Cruz is the #1 Republican on the Senate Commerce Subcommittee on Science and Space 
+
 Ted Cruz is the #4 Republican on the Senate Committee on Commerce, Science, and Transportation 
 
 ## HEP Grants
@@ -410,6 +412,8 @@ TEXAS A&M UNIVERSITY SYSTEM,THE 2014      371700
 [Back to top](#top)
 ## TX-14 -- Rep. Randy Weber (R) -- [Wikipedia](https://en.wikipedia.org/wiki/TX-14)
 ### Committees
+Randy Weber is the #1 Republican on the House Committee on Science, Space, and Technology; Subcommittee on Energy 
+
 Randy Weber is the #9 Republican on the House Committee on Science, Space, and Technology 
 
 ### HEP Grants
@@ -628,7 +632,11 @@ UNIVERSITY OF TEXAS AT SAN ANTONIO 2014      682500
 [Back to top](#top)
 ## TX-21 -- Rep. Lamar Smith (R) -- [Wikipedia](https://en.wikipedia.org/wiki/TX-21)
 ### Committees
+Lamar Smith is the #12 Republican on the House Committee on Science, Space, and Technology; Subcommittee on Energy 
+
 Lamar Smith is the #1 Republican on the House Committee on Science, Space, and Technology 
+
+Lamar Smith is the #10 Republican on the House Committee on Science, Space, and Technology; Subcommittee on Research and Technology 
 
 ### HEP Grants
 ```
@@ -857,7 +865,11 @@ This district received no NSF MPS grants from 2012-2016
 [Back to top](#top)
 ## TX-30 -- Rep. Eddie Johnson (D) -- [Wikipedia](https://en.wikipedia.org/wiki/TX-30)
 ### Committees
+Eddie Johnson is the #9 Democrat on the House Committee on Science, Space, and Technology; Subcommittee on Energy 
+
 Eddie Johnson is the #1 Democrat on the House Committee on Science, Space, and Technology 
+
+Eddie Johnson is the #7 Democrat on the House Committee on Science, Space, and Technology; Subcommittee on Research and Technology 
 
 ### HEP Grants
 ```
@@ -946,6 +958,8 @@ UNIVERSITY OF TEXAS AT DALLAS     2012     2127595
 [Back to top](#top)
 ## TX-33 -- Rep. Marc Veasey (D) -- [Wikipedia](https://en.wikipedia.org/wiki/TX-33)
 ### Committees
+Marc Veasey is the #1 Democrat on the House Committee on Science, Space, and Technology; Subcommittee on Energy 
+
 Marc Veasey is the #7 Democrat on the House Committee on Science, Space, and Technology 
 
 ### HEP Grants

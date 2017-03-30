@@ -11,9 +11,11 @@ permalink : /states/NV/
 
 # NV -- Sen. Catherine Cortez Masto (D) and  Sen. Dean Heller (R)
 ## Committees
-Catherine Cortez Masto is the #13 Democrat on the Senate Committee on Commerce, Science, and Transportation 
+Catherine Cortez Masto is the #8 Democrat on the Senate Energy Subcommittee on Energy 
 
 Catherine Cortez Masto is the #11 Democrat on the Senate Committee on Energy and Natural Resources 
+
+Catherine Cortez Masto is the #13 Democrat on the Senate Committee on Commerce, Science, and Transportation 
 
 Dean Heller is the #8 Republican on the Senate Committee on Commerce, Science, and Transportation 
 
@@ -132,7 +134,11 @@ UNIVERSITY OF NEVADA, RENO        2012      926494
 [Back to top](#top)
 ## NV-03 -- Rep. Jacky Rosen (D) -- [Wikipedia](https://en.wikipedia.org/wiki/NV-03)
 ### Committees
+Jacky Rosen is the #4 Democrat on the House Committee on Science, Space, and Technology; Subcommittee on Energy 
+
 Jacky Rosen is the #9 Democrat on the House Committee on Science, Space, and Technology 
+
+Jacky Rosen is the #3 Democrat on the House Committee on Science, Space, and Technology; Subcommittee on Research and Technology 
 
 ### HEP Grants
 ```

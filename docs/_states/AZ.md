@@ -11,6 +11,8 @@ permalink : /states/AZ/
 
 # AZ -- Sen. Jeff Flake (R) and  Sen. John McCain (R)
 ## Committees
+Jeff Flake is the #3 Republican on the Senate Energy Subcommittee on Energy 
+
 Jeff Flake is the #5 Republican on the Senate Committee on Energy and Natural Resources 
 
 John McCain is not on any of our key committees 

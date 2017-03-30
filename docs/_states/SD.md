@@ -13,6 +13,8 @@ permalink : /states/SD/
 ## Committees
 Mike Rounds is not on any of our key committees 
 
+John Thune is the #8 Republican on the Senate Commerce Subcommittee on Science and Space 
+
 John Thune is the #1 Republican on the Senate Committee on Commerce, Science, and Transportation 
 
 ## HEP Grants

@@ -64,6 +64,8 @@ U of Oklahoma                                  29958
 [Back to top](#top)
 ## OK-01 -- Rep. Jim Bridenstine (R) -- [Wikipedia](https://en.wikipedia.org/wiki/OK-01)
 ### Committees
+Jim Bridenstine is the #7 Republican on the House Committee on Science, Space, and Technology; Subcommittee on Energy 
+
 Jim Bridenstine is the #8 Republican on the House Committee on Science, Space, and Technology 
 
 ### HEP Grants
@@ -119,7 +121,11 @@ ROGERS STATE UNIVERSITY FOUNDATION, INC. 2013       74591
 [Back to top](#top)
 ## OK-03 -- Rep. Frank Lucas (R) -- [Wikipedia](https://en.wikipedia.org/wiki/OK-03)
 ### Committees
+Frank Lucas is the #3 Republican on the House Committee on Science, Space, and Technology; Subcommittee on Energy 
+
 Frank Lucas is the #3 Republican on the House Committee on Science, Space, and Technology 
+
+Frank Lucas is the #2 Republican on the House Committee on Science, Space, and Technology; Subcommittee on Research and Technology 
 
 ### HEP Grants
 ```

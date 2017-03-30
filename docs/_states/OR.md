@@ -15,6 +15,8 @@ Jeff Merkley is the #9 Democrat on the Senate Committee on Appropriations
 
 Jeff Merkley is the #7 Democrat on the Senate Appropriations Subcommittee on Energy and Water Development 
 
+Ron Wyden is the #2 Democrat on the Senate Energy Subcommittee on Energy 
+
 Ron Wyden is the #2 Democrat on the Senate Committee on Energy and Natural Resources 
 
 ## HEP Grants
@@ -60,6 +62,8 @@ and  4  other institutions.
 ## OR-01 -- Rep. Suzanne Bonamici (D) -- [Wikipedia](https://en.wikipedia.org/wiki/OR-01)
 ### Committees
 Suzanne Bonamici is the #4 Democrat on the House Committee on Science, Space, and Technology 
+
+Suzanne Bonamici is the #4 Democrat on the House Committee on Science, Space, and Technology; Subcommittee on Research and Technology 
 
 Suzanne Bonamici is the #4 Democrat on the House Subcommittee on Early Childhood, Elementary, and Secondary Education 
 
