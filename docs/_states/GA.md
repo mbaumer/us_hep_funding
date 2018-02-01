@@ -9,19 +9,19 @@ permalink : /states/GA/
 
 [GA-01](#GA-01)  [GA-02](#GA-02)  [GA-03](#GA-03)  [GA-04](#GA-04)  [GA-05](#GA-05)  [GA-06](#GA-06)  [GA-07](#GA-07)  [GA-08](#GA-08)  [GA-09](#GA-09)  [GA-10](#GA-10)  [GA-11](#GA-11)  [GA-12](#GA-12)  [GA-13](#GA-13)  [GA-14](#GA-14)  
 
-# GA -- Sen. John Isakson (R) and  Sen. David Perdue (R)
+# GA -- Sen. Johnny Isakson (R) and  Sen. David Perdue (R)
 ## Committees
-John Isakson is not on any of our key committees 
+Johnny Isakson is not on any of our key committees 
 
 David Perdue is not on any of our key committees 
 
 ## HEP Grants
 ```
-This state received no SC HEP grants from 2012-2016
+This state received no SC HEP grants from 2012-2017
 ```
 ## SC Contracts
 ```
-In the past 5 years, this state has received:
+In the past 6 years, this state has received:
 14 Office of Science contracts, totalling $150,061.15
  
                                            Amount ($)
@@ -36,42 +36,42 @@ SYSCOM TECHNOLOGIES, INC.     2015          104634.97
 ```
 ## NSF MPS Grants
 ```
-In the past 5 years, this state has received:
-356 NSF MPS grants, totalling $75,551,908.00
+In the past 6 years, this state has received:
+617 NSF MPS grants, totalling $140,099,430.00
  
-                                               Amount ($)
-Institution                                              
-GEORGIA TECH RESEARCH CORPORATION                33845973
-EMORY UNIVERSITY                                 22896364
-UNIVERSITY OF GEORGIA RESEARCH FOUNDATION, IN     8414897
-GEORGIA STATE UNIVERSITY RESEARCH FOUNDATION,     4127729
-MULTIPLE RECIPIENTS                                984000
-CLARK ATLANTA UNIVERSITY, INC.                     897500
-GEORGIA SOUTHERN UNIVERSITY RESEARCH AND SERV      789931
-Georgia Tech Research Corp                         740409
-UNIVERSITY OF WEST GEORGIA                         569718
-SPELMAN COLLEGE                                    550000
-and  11  other institutions.
+                                                    Amount ($)
+Institution                                                   
+GEORGIA TECH RESEARCH CORPORATION                     66065055
+EMORY UNIVERSITY                                      36236673
+UNIVERSITY OF GEORGIA RESEARCH FOUNDATION, IN         11998211
+GEORGIA STATE UNIVERSITY RESEARCH FOUNDATION,         11526554
+UNIVERSITY OF GEORGIA RESEARCH FOUNDATION, INC.        2220978
+CLARK ATLANTA UNIVERSITY, INC.                         1996362
+Emory University                                       1368202
+GEORGIA STATE UNIVERSITY RESEARCH FOUNDATION, INC.     1267789
+Georgia Tech Research Corp                             1263895
+MULTIPLE RECIPIENTS                                     984000
+and  20  other institutions.
 ```
 ---
 ---
 <a name="GA-01"></a>
 [Back to top](#top)
-## GA-01 -- Rep. Buddy Carter (R) -- [Wikipedia](https://en.wikipedia.org/wiki/GA-01)
+## GA-01 -- Rep. Earl L. "Buddy" Carter (R) -- [Wikipedia](https://en.wikipedia.org/wiki/GA-01)
 ### Committees
-Buddy Carter is the #31 Republican on the House Committee on Energy and Commerce 
+Earl L. "Buddy" Carter is the #30 Republican on the House Committee on Energy and Commerce 
 
 ### HEP Grants
 ```
-This district received no SC HEP grants from 2012-2016
+This district received no SC HEP grants from 2012-2017
 ```
 ### SC Contracts
 ```
-This district received no SC contracts from 2012-2017
+This district received no SC contracts from 2012-2018
 ```
 ### NSF MPS Grants
 ```
-In the past 5 years, this district has received: $105,000.00 in NSF MPS grants.
+In the past 6 years, this district has received: $105,000.00 in NSF MPS grants.
                           Amount ($)
 Institution         Year            
 BUCKNELL UNIVERSITY 2013      105000
@@ -79,63 +79,65 @@ BUCKNELL UNIVERSITY 2013      105000
 ---
 <a name="GA-02"></a>
 [Back to top](#top)
-## GA-02 -- Rep. Sanford Bishop (D) -- [Wikipedia](https://en.wikipedia.org/wiki/GA-02)
+## GA-02 -- Rep. Sanford D. Bishop, Jr. (D) -- [Wikipedia](https://en.wikipedia.org/wiki/GA-02)
 ### Committees
-Sanford Bishop is the #8 Democrat on the House Committee on Appropriations 
+Sanford D. Bishop, Jr. is the #8 Democrat on the House Committee on Appropriations 
 
 ### HEP Grants
 ```
-This district received no SC HEP grants from 2012-2016
+This district received no SC HEP grants from 2012-2017
 ```
 ### SC Contracts
 ```
-This district received no SC contracts from 2012-2017
+This district received no SC contracts from 2012-2018
 ```
 ### NSF MPS Grants
 ```
-This district received no NSF MPS grants from 2012-2016
+This district received no NSF MPS grants from 2012-2017
 ```
 ---
 <a name="GA-03"></a>
 [Back to top](#top)
-## GA-03 -- Rep. A. Ferguson (R) -- [Wikipedia](https://en.wikipedia.org/wiki/GA-03)
+## GA-03 -- Rep. A. Drew Ferguson IV (R) -- [Wikipedia](https://en.wikipedia.org/wiki/GA-03)
 ### Committees
-A. Ferguson is not on any of our key committees 
+A. Drew Ferguson IV is not on any of our key committees 
 
 ### HEP Grants
 ```
-This district received no SC HEP grants from 2012-2016
+This district received no SC HEP grants from 2012-2017
 ```
 ### SC Contracts
 ```
-This district received no SC contracts from 2012-2017
+This district received no SC contracts from 2012-2018
 ```
 ### NSF MPS Grants
 ```
-In the past 5 years, this district has received: $569,718.00 in NSF MPS grants.
+In the past 6 years, this district has received: $611,848.00 in NSF MPS grants.
                                  Amount ($)
 Institution                Year            
 UNIVERSITY OF WEST GEORGIA 2013      229699
                            2014      340019
+                           2016       23380
+                           2017       18750
 ```
 ---
 <a name="GA-04"></a>
 [Back to top](#top)
-## GA-04 -- Rep. Henry Johnson (D) -- [Wikipedia](https://en.wikipedia.org/wiki/GA-04)
+## GA-04 -- Rep. Henry C. "Hank" Johnson, Jr. (D) -- [Wikipedia](https://en.wikipedia.org/wiki/GA-04)
 ### Committees
-Henry Johnson is not on any of our key committees 
+Henry C. "Hank" Johnson, Jr. is not on any of our key committees 
 
 ### HEP Grants
 ```
-This district received no SC HEP grants from 2012-2016
+This district received no SC HEP grants from 2012-2017
 ```
 ### SC Contracts
 ```
-This district received no SC contracts from 2012-2017
+This district received no SC contracts from 2012-2018
 ```
 ### NSF MPS Grants
 ```
-In the past 5 years, this district has received: $12,979,063.00 in NSF MPS grants.
+In the past 6 years, this district has received: $12,979,063.00 in NSF MPS grants.
                                 Amount ($)
 Institution               Year            
 AGNES SCOTT COLLEGE, INC. 2012      201886
@@ -153,54 +155,71 @@ John Lewis is not on any of our key committees
 
 ### HEP Grants
 ```
-This district received no SC HEP grants from 2012-2016
+This district received no SC HEP grants from 2012-2017
 ```
 ### SC Contracts
 ```
-This district received no SC contracts from 2012-2017
+This district received no SC contracts from 2012-2018
 ```
 ### NSF MPS Grants
 ```
-In the past 5 years, this district has received: $51,857,307.00 in NSF MPS grants.
-                                                    Amount ($)
-Institution                                   Year            
-CLARK ATLANTA UNIVERSITY, INC.                2012      405000
-                                              2013      405000
-                                              2014       87500
-EMORY UNIVERSITY                              2012     6414458
-                                              2013      955133
-                                              2014     3256988
-                                              2017     -399392
-Emory University                              2015      124235
-GEORGIA STATE UNIVERSITY RESEARCH FOUNDATION, 2012     1132556
-                                              2013     1517590
-                                              2014     1477583
-GEORGIA TECH RESEARCH CORPORATION             2012    12162128
-                                              2013    15604397
-                                              2014     5709218
-                                              2017      370230
-Ga State U Res Fdn, Inc.                      2015      239530
-Georgia Tech Research Corp                    2015      740409
-MOREHOUSE COLLEGE (INC.)                      2014      120744
-MULTIPLE RECIPIENTS                           2013      450000
-                                              2014      534000
-SPELMAN COLLEGE                               2013      550000
+In the past 6 years, this district has received: $109,664,996.00 in NSF MPS grants.
+                                                         Amount ($)
+Institution                                        Year            
+AGNES SCOTT COLLEGE, INC.                          2016      255233
+CLARK ATLANTA UNIVERSITY, INC.                     2012      405000
+                                                   2013      405000
+                                                   2014       87500
+                                                   2016      693854
+                                                   2017      405008
+EMORY UNIVERSITY                                   2012     6414458
+                                                   2013      955133
+                                                   2014     3256988
+                                                   2015     4373147
+                                                   2016     6815919
+                                                   2017     1751851
+Emory University                                   2015     1260202
+GEORGIA STATE UNIVERSITY RESEARCH FOUNDATION,      2012     1132556
+                                                   2013     1517590
+                                                   2014     1477583
+                                                   2015     2200010
+                                                   2016     5198815
+GEORGIA STATE UNIVERSITY RESEARCH FOUNDATION, INC. 2017     1267789
+GEORGIA TECH RESEARCH CORPORATION                  2012    12162128
+                                                   2013    15604397
+                                                   2014     5709218
+                                                   2015     9235509
+                                                   2016    10908577
+                                                   2017    12445226
+Ga State U Res Fdn, Inc.                           2015      239530
+Georgia Tech Research Corp                         2015     1263895
+HARVARD COLLEGE, PRESIDENT & FELLOWS OF            2016       82285
+MOREHOUSE COLLEGE (INC.)                           2014      120744
+MULTIPLE RECIPIENTS                                2013      450000
+                                                   2014      534000
+PII Redacted                                       2017      150000
+SPELMAN COLLEGE                                    2013      550000
+                                                   2016      319451
+                                                   2017       16400
 ```
 ---
 <a name="GA-06"></a>
 [Back to top](#top)
-## GA-06 Unknown Rep.
+## GA-06 -- Rep. Karen C. Handel (R) -- [Wikipedia](https://en.wikipedia.org/wiki/GA-06)
+### Committees
+Karen C. Handel is the #8 Republican on the House Subcommittee on Early Childhood, Elementary, and Secondary Education 
+
 ### HEP Grants
 ```
-This district received no SC HEP grants from 2012-2016
+This district received no SC HEP grants from 2012-2017
 ```
 ### SC Contracts
 ```
-This district received no SC contracts from 2012-2017
+This district received no SC contracts from 2012-2018
 ```
 ### NSF MPS Grants
 ```
-This district received no NSF MPS grants from 2012-2016
+This district received no NSF MPS grants from 2012-2017
 ```
 ---
 <a name="GA-07"></a>
@@ -211,11 +230,11 @@ Rob Woodall is not on any of our key committees
 
 ### HEP Grants
 ```
-This district received no SC HEP grants from 2012-2016
+This district received no SC HEP grants from 2012-2017
 ```
 ### SC Contracts
 ```
-In the past 5 years, this district has received: $45,426.18 in SC contracts.
+In the past 6 years, this district has received: $45,426.18 in SC contracts.
                                            Amount ($)
 vendorname                    fiscal_year            
 GLOBAL EQUIPMENT COMPANY INC. 2012            4926.18
@@ -226,7 +245,10 @@ NEXTEL SOUTH CORP             2012           13000.00
 ```
 ### NSF MPS Grants
 ```
-This district received no NSF MPS grants from 2012-2016
+In the past 6 years, this district has received: $148,443.00 in NSF MPS grants.
+                               Amount ($)
+Institution              Year            
+GEORGIA GWINNETT COLLEGE 2016      148443
 ```
 ---
 <a name="GA-08"></a>
@@ -237,15 +259,15 @@ Austin Scott is not on any of our key committees
 
 ### HEP Grants
 ```
-This district received no SC HEP grants from 2012-2016
+This district received no SC HEP grants from 2012-2017
 ```
 ### SC Contracts
 ```
-This district received no SC contracts from 2012-2017
+This district received no SC contracts from 2012-2018
 ```
 ### NSF MPS Grants
 ```
-This district received no NSF MPS grants from 2012-2016
+This district received no NSF MPS grants from 2012-2017
 ```
 ---
 <a name="GA-09"></a>
@@ -256,15 +278,15 @@ Doug Collins is not on any of our key committees
 
 ### HEP Grants
 ```
-This district received no SC HEP grants from 2012-2016
+This district received no SC HEP grants from 2012-2017
 ```
 ### SC Contracts
 ```
-This district received no SC contracts from 2012-2017
+This district received no SC contracts from 2012-2018
 ```
 ### NSF MPS Grants
 ```
-In the past 5 years, this district has received: $86,469.00 in NSF MPS grants.
+In the past 6 years, this district has received: $86,469.00 in NSF MPS grants.
                                   Amount ($)
 Institution                 Year            
 UNIVERSITY OF NORTH GEORGIA 2014       86469
@@ -272,42 +294,48 @@ UNIVERSITY OF NORTH GEORGIA 2014       86469
 ---
 <a name="GA-10"></a>
 [Back to top](#top)
-## GA-10 -- Rep. Jody Hice (R) -- [Wikipedia](https://en.wikipedia.org/wiki/GA-10)
+## GA-10 -- Rep. Jody B. Hice (R) -- [Wikipedia](https://en.wikipedia.org/wiki/GA-10)
 ### Committees
-Jody Hice is not on any of our key committees 
+Jody B. Hice is not on any of our key committees 
 
 ### HEP Grants
 ```
-This district received no SC HEP grants from 2012-2016
+This district received no SC HEP grants from 2012-2017
 ```
 ### SC Contracts
 ```
-This district received no SC contracts from 2012-2017
+This district received no SC contracts from 2012-2018
 ```
 ### NSF MPS Grants
 ```
-In the past 5 years, this district has received: $8,492,376.00 in NSF MPS grants.
-                                                    Amount ($)
-Institution                                   Year            
-U of Georgia Res Fdn Inc                      2015       77479
-UNIVERSITY OF GEORGIA RESEARCH FOUNDATION, IN 2012     2411143
-                                              2013     1639493
-                                              2014     4364261
+In the past 6 years, this district has received: $14,415,243.00 in NSF MPS grants.
+                                                      Amount ($)
+Institution                                     Year            
+U of Georgia                                    2015        7400
+U of Georgia Res Fdn Inc                        2015      150654
+UNIVERSITY OF GEORGIA                           2016       38000
+UNIVERSITY OF GEORGIA RESEARCH FOUNDATION, IN   2012     2411143
+                                                2013     1639493
+                                                2014     4364261
+                                                2015     1640523
+                                                2016     1885938
+                                                2017       56853
+UNIVERSITY OF GEORGIA RESEARCH FOUNDATION, INC. 2017     2220978
 ```
 ---
 <a name="GA-11"></a>
 [Back to top](#top)
 ## GA-11 -- Rep. Barry Loudermilk (R) -- [Wikipedia](https://en.wikipedia.org/wiki/GA-11)
 ### Committees
-Barry Loudermilk is the #14 Republican on the House Committee on Science, Space, and Technology 
+Barry Loudermilk is the #13 Republican on the House Committee on Science, Space, and Technology 
 
 ### HEP Grants
 ```
-This district received no SC HEP grants from 2012-2016
+This district received no SC HEP grants from 2012-2017
 ```
 ### SC Contracts
 ```
-In the past 5 years, this district has received: $104,634.97 in SC contracts.
+In the past 6 years, this district has received: $104,634.97 in SC contracts.
                                        Amount ($)
 vendorname                fiscal_year            
 SYSCOM TECHNOLOGIES, INC. 2015          104634.97
@@ -315,36 +343,41 @@ SYSCOM TECHNOLOGIES, INC. 2015          104634.97
 ```
 ### NSF MPS Grants
 ```
-In the past 5 years, this district has received: $120,000.00 in NSF MPS grants.
-                                                    Amount ($)
-Institution                                   Year            
-KENNESAW STATE UNIVERSITY  RESEARCH AND SERVI 2012      120000
+In the past 6 years, this district has received: $789,021.00 in NSF MPS grants.
+                                                         Amount ($)
+Institution                                        Year            
+KENNESAW STATE UNIVERSITY  RESEARCH AND SERVI      2012      120000
+KENNESAW STATE UNIVERSITY RESEARCH AND SERVIC      2015      369000
+                                                   2016      240000
+KENNESAW STATE UNIVERSITY RESEARCH AND SERVICE ... 2017       60021
 ```
 ---
 <a name="GA-12"></a>
 [Back to top](#top)
-## GA-12 -- Rep. Rick Allen (R) -- [Wikipedia](https://en.wikipedia.org/wiki/GA-12)
+## GA-12 -- Rep. Rick W. Allen (R) -- [Wikipedia](https://en.wikipedia.org/wiki/GA-12)
 ### Committees
-Rick Allen is the #8 Republican on the House Subcommittee on Higher Education and Workforce Development 
+Rick W. Allen is the #8 Republican on the House Subcommittee on Higher Education and Workforce Development 
 
 ### HEP Grants
 ```
-This district received no SC HEP grants from 2012-2016
+This district received no SC HEP grants from 2012-2017
 ```
 ### SC Contracts
 ```
-This district received no SC contracts from 2012-2017
+This district received no SC contracts from 2012-2018
 ```
 ### NSF MPS Grants
 ```
-In the past 5 years, this district has received: $1,341,975.00 in NSF MPS grants.
+In the past 6 years, this district has received: $1,299,347.00 in NSF MPS grants.
                                                     Amount ($)
 Institution                                   Year            
 GEORGIA HEALTH SCIENCES UNIVERSITY RESEARCH I 2013     -118182
 GEORGIA SOUTHERN UNIVERSITY RESEARCH AND SERV 2012      274908
                                               2013      150583
                                               2014      364440
-Ga. Southern Univ. R&S Fdn                    2015      122997
+                                              2016     -103628
+                                              2017       34000
+Ga. Southern Univ. R&S Fdn                    2015      149997
 SAVANNAH STATE UNIVERSITY                     2012      547229
 ```
 ---
@@ -356,15 +389,15 @@ David Scott is not on any of our key committees
 
 ### HEP Grants
 ```
-This district received no SC HEP grants from 2012-2016
+This district received no SC HEP grants from 2012-2017
 ```
 ### SC Contracts
 ```
-This district received no SC contracts from 2012-2017
+This district received no SC contracts from 2012-2018
 ```
 ### NSF MPS Grants
 ```
-This district received no NSF MPS grants from 2012-2016
+This district received no NSF MPS grants from 2012-2017
 ```
 ---
 <a name="GA-14"></a>
@@ -375,14 +408,14 @@ Tom Graves is the #12 Republican on the House Committee on Appropriations
 
 ### HEP Grants
 ```
-This district received no SC HEP grants from 2012-2016
+This district received no SC HEP grants from 2012-2017
 ```
 ### SC Contracts
 ```
-This district received no SC contracts from 2012-2017
+This district received no SC contracts from 2012-2018
 ```
 ### NSF MPS Grants
 ```
-This district received no NSF MPS grants from 2012-2016
+This district received no NSF MPS grants from 2012-2017
 ```
 ---

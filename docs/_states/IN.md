@@ -17,70 +17,75 @@ Todd Young is the #14 Republican on the Senate Committee on Commerce, Science, a
 
 ## HEP Grants
 ```
-In the past 5 years, this state has received:
-25 HEP grants, totalling $16,970,000.00
+In the past 6 years, this state has received:
+30 HEP grants, totalling $19,470,000.00
  
                                  Amount ($)
 Institution                                
-Indiana University                  6667000
+Indiana University                  8307000
 INDIANA UNIVERSITY, BLOOMINGTON     3760000
+Purdue University                   3627000
 PURDUE UNIVERSITY                   3486000
-Purdue University                   3057000
+University of Notre Dame             290000
 UNIVERSITY OF NOTRE DAME                  0
 ```
 ## SC Contracts
 ```
-In the past 5 years, this state has received:
-1 Office of Science contracts, totalling $-251,255.71
+In the past 6 years, this state has received:
+10 Office of Science contracts, totalling $-251,255.71
  
-                                 Amount ($)
-vendorname          fiscal_year            
-GENERAL MOTORS CORP 2014         -251255.71
+                                  Amount ($)
+vendorname           fiscal_year            
+GENERAL MOTORS CORP  2014         -251255.71
+GLOBAL ISOTOPES, LLC 2017               0.00
+                     2018               0.00
 ```
 ## NSF MPS Grants
 ```
-In the past 5 years, this state has received:
-386 NSF MPS grants, totalling $76,171,980.00
+In the past 6 years, this state has received:
+688 NSF MPS grants, totalling $135,208,926.00
  
                                             Amount ($)
 Institution                                           
-UNIVERSITY OF NOTRE DAME DU LAC               32266801
-PURDUE UNIVERSITY                             20877434
-TRUSTEES OF INDIANA UNIVERSITY                20322811
-Indiana University                              787516
-University of Notre Dame                        599544
-LUTHERAN UNIVERSITY ASSOCIATION, INC., THE      286850
-Purdue University                               233939
-INDIANA WESLEYAN UNIVERSITY                     230000
-BUTLER UNIVERSITY                               138131
-WABASH COLLEGE                                  112897
-and  5  other institutions.
+UNIVERSITY OF NOTRE DAME DU LAC               51345868
+PURDUE UNIVERSITY                             39589665
+TRUSTEES OF INDIANA UNIVERSITY                37860221
+Purdue University                              1899843
+University of Notre Dame                       1288820
+LUTHERAN UNIVERSITY ASSOCIATION, INC., THE      884502
+Indiana University                              734547
+BALL STATE UNIVERSITY                           492572
+INDIANA WESLEYAN UNIVERSITY                     243877
+INDIANA STATE UNIVERSITY                        236926
+and  7  other institutions.
 ```
 ---
 ---
 <a name="IN-01"></a>
 [Back to top](#top)
-## IN-01 -- Rep. Peter Visclosky (D) -- [Wikipedia](https://en.wikipedia.org/wiki/IN-01)
+## IN-01 -- Rep. Peter J. Visclosky (D) -- [Wikipedia](https://en.wikipedia.org/wiki/IN-01)
 ### Committees
-Peter Visclosky is the #3 Democrat on the House Committee on Appropriations 
+Peter J. Visclosky is the #3 Democrat on the House Committee on Appropriations 
 
-Peter Visclosky is the #2 Democrat on the House Appropriations Subcommittee on Energy and Water Development 
+Peter J. Visclosky is the #2 Democrat on the House Appropriations Subcommittee on Energy and Water Development 
 
 ### HEP Grants
 ```
-This district received no SC HEP grants from 2012-2016
+This district received no SC HEP grants from 2012-2017
 ```
 ### SC Contracts
 ```
-This district received no SC contracts from 2012-2017
+This district received no SC contracts from 2012-2018
 ```
 ### NSF MPS Grants
 ```
-In the past 5 years, this district has received: $480,186.00 in NSF MPS grants.
+In the past 6 years, this district has received: $1,077,838.00 in NSF MPS grants.
                                                  Amount ($)
 Institution                                Year            
 LUTHERAN UNIVERSITY ASSOCIATION, INC., THE 2013       93125
                                            2014      193725
+                                           2015      272653
+                                           2016      324999
 PURDUE UNIVERSITY                          2013      100000
 Valparaiso University                      2015       93336
 ```
@@ -93,52 +98,59 @@ Jackie Walorski is not on any of our key committees
 
 ### HEP Grants
 ```
-In the past 5 years, this district has received: $0.00 in SC HEP grants.
+In the past 6 years, this district has received: $290,000.00 in SC HEP grants.
                                Amount ($)
 Institution              Year            
 UNIVERSITY OF NOTRE DAME 2012           0
+University of Notre Dame 2017      290000
 ```
 ### SC Contracts
 ```
-This district received no SC contracts from 2012-2017
+This district received no SC contracts from 2012-2018
 ```
 ### NSF MPS Grants
 ```
-In the past 5 years, this district has received: $32,998,720.00 in NSF MPS grants.
+In the past 6 years, this district has received: $52,908,961.00 in NSF MPS grants.
                                       Amount ($)
 Institution                     Year            
 MULTIPLE RECIPIENTS             2014       -5174
+PURDUE UNIVERSITY               2016        4200
 TRUSTEES OF INDIANA UNIVERSITY  2012      122549
                                 2013       15000
+                                2015      137698
 UNIVERSITY OF NOTRE DAME DU LAC 2012    12104510
                                 2013    10928094
                                 2014     8712095
-                                2017      522102
-University of Notre Dame        2015      599544
+                                2015     3828271
+                                2016     6558838
+                                2017     9214060
+University of Notre Dame        2015     1288820
 ```
 ---
 <a name="IN-03"></a>
 [Back to top](#top)
 ## IN-03 -- Rep. Jim Banks (R) -- [Wikipedia](https://en.wikipedia.org/wiki/IN-03)
 ### Committees
-Jim Banks is the #18 Republican on the House Committee on Science, Space, and Technology 
+Jim Banks is the #17 Republican on the House Committee on Science, Space, and Technology 
 
 Jim Banks is the #8 Republican on the House Committee on Science, Space, and Technology; Subcommittee on Research and Technology 
 
 ### HEP Grants
 ```
-This district received no SC HEP grants from 2012-2016
+This district received no SC HEP grants from 2012-2017
 ```
 ### SC Contracts
 ```
-This district received no SC contracts from 2012-2017
+This district received no SC contracts from 2012-2018
 ```
 ### NSF MPS Grants
 ```
-In the past 5 years, this district has received: $279,775.00 in NSF MPS grants.
+In the past 6 years, this district has received: $710,980.00 in NSF MPS grants.
                         Amount ($)
 Institution       Year            
 PURDUE UNIVERSITY 2012      279775
+                  2017       24689
+Purdue University 2015      406516
 ```
 ---
 <a name="IN-04"></a>
@@ -149,7 +161,7 @@ Todd Rokita is the #1 Republican on the House Subcommittee on Early Childhood, E
 
 ### HEP Grants
 ```
-In the past 5 years, this district has received: $6,543,000.00 in SC HEP grants.
+In the past 6 years, this district has received: $7,113,000.00 in SC HEP grants.
                         Amount ($)
 Institution       Year            
 PURDUE UNIVERSITY 2012     1669000
@@ -157,47 +169,58 @@ PURDUE UNIVERSITY 2012     1669000
 Purdue University 2014     1540000
                   2015      832000
                   2016      685000
+                  2017      570000
 ```
 ### SC Contracts
 ```
-This district received no SC contracts from 2012-2017
+This district received no SC contracts from 2012-2018
 ```
 ### NSF MPS Grants
 ```
-In the past 5 years, this district has received: $20,874,495.00 in NSF MPS grants.
+In the past 6 years, this district has received: $40,882,225.00 in NSF MPS grants.
                         Amount ($)
 Institution       Year            
 DEPAUW UNIVERSITY 2013       30000
+                  2017       30000
 PURDUE UNIVERSITY 2012     8393486
                   2013     7017861
                   2014     4822847
-                  2017      263465
-Purdue University 2015      233939
+                  2015     4824541
+                  2016     8679377
+                  2017     5442889
+Purdue University 2015     1493327
 WABASH COLLEGE    2012      112897
+                  2017       35000
 ```
 ---
 <a name="IN-05"></a>
 [Back to top](#top)
-## IN-05 -- Rep. Susan Brooks (R) -- [Wikipedia](https://en.wikipedia.org/wiki/IN-05)
+## IN-05 -- Rep. Susan W. Brooks (R) -- [Wikipedia](https://en.wikipedia.org/wiki/IN-05)
 ### Committees
-Susan Brooks is the #23 Republican on the House Committee on Energy and Commerce 
+Susan W. Brooks is the #22 Republican on the House Committee on Energy and Commerce 
 
 ### HEP Grants
 ```
-This district received no SC HEP grants from 2012-2016
+This district received no SC HEP grants from 2012-2017
 ```
 ### SC Contracts
 ```
-This district received no SC contracts from 2012-2017
+In the past 6 years, this district has received: $0.00 in SC contracts.
+                                  Amount ($)
+vendorname           fiscal_year            
+GLOBAL ISOTOPES, LLC 2017                  0
+                     2018                  0
 ```
 ### NSF MPS Grants
 ```
-In the past 5 years, this district has received: $320,000.00 in NSF MPS grants.
+In the past 6 years, this district has received: $333,877.00 in NSF MPS grants.
                                   Amount ($)
 Institution                 Year            
 INDIANA WESLEYAN UNIVERSITY 2012      130000
                             2013       50000
                             2014       50000
+                            2015      -66930
+                            2017       80807
 TAYLOR UNIVERSITY, INC.     2012       90000
 ```
 ---
@@ -205,21 +228,25 @@ TAYLOR UNIVERSITY, INC.     2012       90000
 [Back to top](#top)
 ## IN-06 -- Rep. Luke Messer (R) -- [Wikipedia](https://en.wikipedia.org/wiki/IN-06)
 ### Committees
-Luke Messer is the #4 Republican on the House Subcommittee on Higher Education and Workforce Development 
-
 Luke Messer is the #5 Republican on the House Subcommittee on Early Childhood, Elementary, and Secondary Education 
+
+Luke Messer is the #4 Republican on the House Subcommittee on Higher Education and Workforce Development 
 
 ### HEP Grants
 ```
-This district received no SC HEP grants from 2012-2016
+This district received no SC HEP grants from 2012-2017
 ```
 ### SC Contracts
 ```
-This district received no SC contracts from 2012-2017
+This district received no SC contracts from 2012-2018
 ```
 ### NSF MPS Grants
 ```
-This district received no NSF MPS grants from 2012-2016
+In the past 6 years, this district has received: $492,572.00 in NSF MPS grants.
+                            Amount ($)
+Institution           Year            
+BALL STATE UNIVERSITY 2015      196968
+                      2016      295604
 ```
 ---
 <a name="IN-07"></a>
@@ -230,47 +257,51 @@ André Carson is not on any of our key committees
 
 ### HEP Grants
 ```
-This district received no SC HEP grants from 2012-2016
+This district received no SC HEP grants from 2012-2017
 ```
 ### SC Contracts
 ```
-In the past 5 years, this district has received: $-251,255.71 in SC contracts.
+In the past 6 years, this district has received: $-251,255.71 in SC contracts.
                                  Amount ($)
 vendorname          fiscal_year            
 GENERAL MOTORS CORP 2014         -251255.71
 ```
 ### NSF MPS Grants
 ```
-In the past 5 years, this district has received: $3,802,144.00 in NSF MPS grants.
+In the past 6 years, this district has received: $5,513,569.00 in NSF MPS grants.
                                      Amount ($)
 Institution                    Year            
 BUTLER UNIVERSITY              2012      138131
-Indiana University             2015      615037
+Indiana University             2015      635037
 TRUSTEES OF INDIANA UNIVERSITY 2012     1056002
                                2013      745265
                                2014     1247709
+                               2015      209314
+                               2016      636538
+                               2017      845573
 ```
 ---
 <a name="IN-08"></a>
 [Back to top](#top)
 ## IN-08 -- Rep. Larry Bucshon (R) -- [Wikipedia](https://en.wikipedia.org/wiki/IN-08)
 ### Committees
-Larry Bucshon is the #21 Republican on the House Committee on Energy and Commerce 
+Larry Bucshon is the #20 Republican on the House Committee on Energy and Commerce 
 
 ### HEP Grants
 ```
-This district received no SC HEP grants from 2012-2016
+This district received no SC HEP grants from 2012-2017
 ```
 ### SC Contracts
 ```
-This district received no SC contracts from 2012-2017
+This district received no SC contracts from 2012-2018
 ```
 ### NSF MPS Grants
 ```
-In the past 5 years, this district has received: $47,345.00 in NSF MPS grants.
-                        Amount ($)
-Institution       Year            
-DEPAUW UNIVERSITY 2012       47345
+In the past 6 years, this district has received: $284,271.00 in NSF MPS grants.
+                               Amount ($)
+Institution              Year            
+DEPAUW UNIVERSITY        2012       47345
+INDIANA STATE UNIVERSITY 2015      236926
 ```
 ---
 <a name="IN-09"></a>
@@ -281,7 +312,7 @@ Trey Hollingsworth is not on any of our key committees
 
 ### HEP Grants
 ```
-In the past 5 years, this district has received: $10,427,000.00 in SC HEP grants.
+In the past 6 years, this district has received: $12,067,000.00 in SC HEP grants.
                                       Amount ($)
 Institution                     Year            
 INDIANA UNIVERSITY, BLOOMINGTON 2012     1545000
@@ -289,20 +320,24 @@ INDIANA UNIVERSITY, BLOOMINGTON 2012     1545000
 Indiana University              2014     1838000
                                 2015     3224000
                                 2016     1605000
+                                2017     1640000
 ```
 ### SC Contracts
 ```
-This district received no SC contracts from 2012-2017
+This district received no SC contracts from 2012-2018
 ```
 ### NSF MPS Grants
 ```
-In the past 5 years, this district has received: $17,369,315.00 in NSF MPS grants.
+In the past 6 years, this district has received: $33,004,633.00 in NSF MPS grants.
                                      Amount ($)
 Institution                    Year            
-Indiana University             2015      172479
+Indiana University             2015       99510
 TRUSTEES OF INDIANA UNIVERSITY 2012     6506383
                                2013     6707900
                                2014     3922003
+                               2015     5528333
+                               2016     6126692
+                               2017     4053262
 UNIVERSITY OF ILLINOIS         2013       60550
 ```
 ---

@@ -9,37 +9,37 @@ permalink : /states/NJ/
 
 [NJ-01](#NJ-01)  [NJ-02](#NJ-02)  [NJ-03](#NJ-03)  [NJ-04](#NJ-04)  [NJ-05](#NJ-05)  [NJ-06](#NJ-06)  [NJ-07](#NJ-07)  [NJ-08](#NJ-08)  [NJ-09](#NJ-09)  [NJ-10](#NJ-10)  [NJ-11](#NJ-11)  [NJ-12](#NJ-12)  
 
-# NJ -- Sen. Cory Booker (D) and  Sen. Robert Menéndez (D)
+# NJ -- Sen. Robert Menendez (D) and  Sen. Cory A. Booker (D)
 ## Committees
-Cory Booker is the #7 Democrat on the Senate Committee on Commerce, Science, and Transportation 
+Robert Menendez is not on any of our key committees 
 
-Robert Menéndez is not on any of our key committees 
+Cory A. Booker is the #7 Democrat on the Senate Committee on Commerce, Science, and Transportation 
 
 ## HEP Grants
 ```
-In the past 5 years, this state has received:
-37 HEP grants, totalling $18,251,895.00
+In the past 6 years, this state has received:
+43 HEP grants, totalling $20,884,895.00
  
                                                     Amount ($)
 Institution                                                   
-Princeton University                                   6274395
+Princeton University                                   7834395
 PRINCETON UNIVERSITY                                   5600000
-Institute for Advanced Study                           1825500
+Institute for Advanced Study                           2375500
+Rutgers, State University of New Jersey - New B...     1408000
 INSTITUTE FOR ADVANCED STUDY                           1295000
 RUTGERS UNIVERSITY, NEW BRUNSWICK                      1092000
-Rutgers, State University of New Jersey - New B...      885000
 Rutgers, The State University of New Jersey             750000
 Rutgers, The State University of New Jersey - N...      480000
 Institute of Electrical and Electronics Enginee...       50000
 ```
 ## SC Contracts
 ```
-In the past 5 years, this state has received:
-203 Office of Science contracts, totalling $508,925,690.61
+In the past 6 years, this state has received:
+227 Office of Science contracts, totalling $567,590,100.28
  
                                                       Amount ($)
 vendorname                                                      
-TRUSTEES OF PRINCETON UNIVERSITY, THE               5.081335e+08
+TRUSTEES OF PRINCETON UNIVERSITY, THE               5.667979e+08
 JOHN WILEY & SONS, INC.                             3.897130e+05
 INSTITUTE OF ELECTRICAL AND ELECTRONICS ENGINEE...  1.627600e+05
 SPRINGER SCIENCE + BUSINESS MEDIA, LLC              1.175400e+05
@@ -53,22 +53,22 @@ and  2  other firms.
 ```
 ## NSF MPS Grants
 ```
-In the past 5 years, this state has received:
-519 NSF MPS grants, totalling $146,443,483.00
+In the past 6 years, this state has received:
+804 NSF MPS grants, totalling $242,256,662.00
  
-                                               Amount ($)
-Institution                                              
-TRUSTEES OF PRINCETON UNIVERSITY, THE            84689356
-RUTGERS, THE STATE UNIVERSITY OF NEW JERSEY      28326805
-INSTITUTE FOR ADVANCED STUDY                     12860366
-Princeton University                             12468781
-NEW JERSEY INSTITUTE OF TECHNOLOGY                4655704
-STEVENS INSTITUTE OF TECHNOLOGY (INC)             1929539
-ROWAN UNIVERSITY                                   623075
-MONTCLAIR STATE UNIVERSITY STUDENT GOVERNMENT      500875
-EIF                                                198000
-COLLEGE OF NEW JERSEY                               85084
-and  5  other institutions.
+                                                    Amount ($)
+Institution                                                   
+TRUSTEES OF PRINCETON UNIVERSITY, THE                142298454
+RUTGERS, THE STATE UNIVERSITY OF NEW JERSEY           41414938
+Princeton University                                  14287199
+INSTITUTE FOR ADVANCED STUDY                          12860366
+NEW JERSEY INSTITUTE OF TECHNOLOGY                     9784281
+INSTITUTE FOR ADVANCED STUDY - LOUIS BAMBERGE          6975205
+RUTGERS, THE STATE UNIVERSITY OF NEW JERSEY00          3690921
+INSTITUTE FOR ADVANCED STUDY - LOUIS BAMBERGER ...     3466250
+STEVENS INSTITUTE OF TECHNOLOGY (INC)                  2976520
+ROWAN UNIVERSITY                                       1617440
+and  16  other institutions.
 ```
 ---
 ---
@@ -80,81 +80,82 @@ Donald Norcross is not on any of our key committees
 
 ### HEP Grants
 ```
-This district received no SC HEP grants from 2012-2016
+This district received no SC HEP grants from 2012-2017
 ```
 ### SC Contracts
 ```
-This district received no SC contracts from 2012-2017
+This district received no SC contracts from 2012-2018
 ```
 ### NSF MPS Grants
 ```
-In the past 5 years, this district has received: $784,575.00 in NSF MPS grants.
+In the past 6 years, this district has received: $843,009.00 in NSF MPS grants.
                                                   Amount ($)
 Institution                                 Year            
 ROWAN UNIVERSITY                            2012       93075
                                             2013      280000
                                             2014      250000
 RUTGERS, THE STATE UNIVERSITY OF NEW JERSEY 2012      161500
+Rutgers U Camden                            2015       58434
 ```
 ---
 <a name="NJ-02"></a>
 [Back to top](#top)
-## NJ-02 -- Rep. Frank LoBiondo (R) -- [Wikipedia](https://en.wikipedia.org/wiki/NJ-02)
+## NJ-02 -- Rep. Frank A. LoBiondo (R) -- [Wikipedia](https://en.wikipedia.org/wiki/NJ-02)
 ### Committees
-Frank LoBiondo is not on any of our key committees 
+Frank A. LoBiondo is not on any of our key committees 
 
 ### HEP Grants
 ```
-This district received no SC HEP grants from 2012-2016
+This district received no SC HEP grants from 2012-2017
 ```
 ### SC Contracts
 ```
-In the past 5 years, this district has received: $24,000.00 in SC contracts.
+In the past 6 years, this district has received: $24,000.00 in SC contracts.
                                    Amount ($)
 vendorname            fiscal_year            
 DOSZKOCS, TAMAS ENDRE 2012              24000
 ```
 ### NSF MPS Grants
 ```
-This district received no NSF MPS grants from 2012-2016
+This district received no NSF MPS grants from 2012-2017
 ```
 ---
 <a name="NJ-03"></a>
 [Back to top](#top)
-## NJ-03 -- Rep. Tom MacArthur (R) -- [Wikipedia](https://en.wikipedia.org/wiki/NJ-03)
+## NJ-03 -- Rep. Thomas MacArthur (R) -- [Wikipedia](https://en.wikipedia.org/wiki/NJ-03)
 ### Committees
-Tom MacArthur is not on any of our key committees 
+Thomas MacArthur is not on any of our key committees 
 
 ### HEP Grants
 ```
-This district received no SC HEP grants from 2012-2016
+This district received no SC HEP grants from 2012-2017
 ```
 ### SC Contracts
 ```
-This district received no SC contracts from 2012-2017
+This district received no SC contracts from 2012-2018
 ```
 ### NSF MPS Grants
 ```
-This district received no NSF MPS grants from 2012-2016
+This district received no NSF MPS grants from 2012-2017
 ```
 ---
 <a name="NJ-04"></a>
 [Back to top](#top)
-## NJ-04 -- Rep. Christopher Smith (R) -- [Wikipedia](https://en.wikipedia.org/wiki/NJ-04)
+## NJ-04 -- Rep. Christopher H. Smith (R) -- [Wikipedia](https://en.wikipedia.org/wiki/NJ-04)
 ### Committees
-Christopher Smith is not on any of our key committees 
+Christopher H. Smith is not on any of our key committees 
 
 ### HEP Grants
 ```
-This district received no SC HEP grants from 2012-2016
+This district received no SC HEP grants from 2012-2017
 ```
 ### SC Contracts
 ```
-This district received no SC contracts from 2012-2017
+This district received no SC contracts from 2012-2018
 ```
 ### NSF MPS Grants
 ```
-This district received no NSF MPS grants from 2012-2016
+This district received no NSF MPS grants from 2012-2017
 ```
 ---
 <a name="NJ-05"></a>
@@ -165,38 +166,42 @@ Josh Gottheimer is not on any of our key committees
 
 ### HEP Grants
 ```
-This district received no SC HEP grants from 2012-2016
+This district received no SC HEP grants from 2012-2017
 ```
 ### SC Contracts
 ```
-This district received no SC contracts from 2012-2017
+This district received no SC contracts from 2012-2018
 ```
 ### NSF MPS Grants
 ```
-This district received no NSF MPS grants from 2012-2016
+In the past 6 years, this district has received: $151,144.00 in NSF MPS grants.
+                                   Amount ($)
+Institution                  Year            
+RAMAPO COLLEGE OF NEW JERSEY 2016      151144
 ```
 ---
 <a name="NJ-06"></a>
 [Back to top](#top)
-## NJ-06 -- Rep. Frank Pallone (D) -- [Wikipedia](https://en.wikipedia.org/wiki/NJ-06)
+## NJ-06 -- Rep. Frank Pallone, Jr. (D) -- [Wikipedia](https://en.wikipedia.org/wiki/NJ-06)
 ### Committees
-Frank Pallone is the #1 Democrat on the House Committee on Energy and Commerce 
+Frank Pallone, Jr. is the #1 Democrat on the House Committee on Energy and Commerce 
 
 ### HEP Grants
 ```
-In the past 5 years, this district has received: $3,257,000.00 in SC HEP grants.
+In the past 6 years, this district has received: $3,780,000.00 in SC HEP grants.
                                                          Amount ($)
 Institution                                        Year            
 Institute of Electrical and Electronics Enginee... 2016       50000
 RUTGERS UNIVERSITY, NEW BRUNSWICK                  2012      658000
                                                    2013      434000
 Rutgers, State University of New Jersey - New B... 2016      885000
+                                                   2017      523000
 Rutgers, The State University of New Jersey        2014      750000
 Rutgers, The State University of New Jersey - N... 2015      480000
 ```
 ### SC Contracts
 ```
-In the past 5 years, this district has received: $167,221.95 in SC contracts.
+In the past 6 years, this district has received: $167,221.95 in SC contracts.
                                                                 Amount ($)
 vendorname                                         fiscal_year            
 INSTITUTE OF ELECTRICAL AND ELECTRONICS ENGINEE... 2012           29875.00
@@ -207,32 +212,39 @@ SHI INTERNATIONAL CORP.                            2012            4461.95
 ```
 ### NSF MPS Grants
 ```
-In the past 5 years, this district has received: $24,510,602.00 in NSF MPS grants.
-                                                  Amount ($)
-Institution                                 Year            
-RUTGERS, THE STATE UNIVERSITY OF NEW JERSEY 2012    11759202
-                                            2013     8254567
-                                            2014     4464942
-Rutgers Univ New Brunswick                  2015       31891
+In the past 6 years, this district has received: $40,383,010.00 in NSF MPS grants.
+                                                    Amount ($)
+Institution                                   Year            
+INSTITUTE OF ELECTRICAL AND ELECTRONICS ENGIN 2016        7500
+PII Redacted                                  2017      100000
+ROWAN UNIVERSITY                              2016      994365
+RUTGERS, THE STATE UNIVERSITY OF NEW JERSEY   2012    11759202
+                                              2013     8254567
+                                              2014     4464942
+                                              2015     4425411
+                                              2016     2515817
+                                              2017     3679413
+RUTGERS, THE STATE UNIVERSITY OF NEW JERSEY00 2016     3514312
+Rutgers Univ New Brunswick                    2015      667481
 ```
 ---
 <a name="NJ-07"></a>
 [Back to top](#top)
 ## NJ-07 -- Rep. Leonard Lance (R) -- [Wikipedia](https://en.wikipedia.org/wiki/NJ-07)
 ### Committees
-Leonard Lance is the #12 Republican on the House Committee on Energy and Commerce 
+Leonard Lance is the #11 Republican on the House Committee on Energy and Commerce 
 
 ### HEP Grants
 ```
-This district received no SC HEP grants from 2012-2016
+This district received no SC HEP grants from 2012-2017
 ```
 ### SC Contracts
 ```
-This district received no SC contracts from 2012-2017
+This district received no SC contracts from 2012-2018
 ```
 ### NSF MPS Grants
 ```
-This district received no NSF MPS grants from 2012-2016
+This district received no NSF MPS grants from 2012-2017
 ```
 ---
 <a name="NJ-08"></a>
@@ -243,11 +255,11 @@ Albio Sires is not on any of our key committees
 
 ### HEP Grants
 ```
-This district received no SC HEP grants from 2012-2016
+This district received no SC HEP grants from 2012-2017
 ```
 ### SC Contracts
 ```
-In the past 5 years, this district has received: $17,623.96 in SC contracts.
+In the past 6 years, this district has received: $17,623.96 in SC contracts.
                                   Amount ($)
 vendorname           fiscal_year            
 ALLOY SOFTWARE, INC. 2013            4992.96
@@ -256,28 +268,31 @@ ALLOY SOFTWARE, INC. 2013            4992.96
 ```
 ### NSF MPS Grants
 ```
-In the past 5 years, this district has received: $1,407,483.00 in NSF MPS grants.
+In the past 6 years, this district has received: $2,454,464.00 in NSF MPS grants.
                                                     Amount ($)
 Institution                                   Year            
 MONTCLAIR STATE UNIVERSITY STUDENT GOVERNMENT 2012       74888
 SETON HALL UNIVERSITY                         2012        9700
 STEVENS INSTITUTE OF TECHNOLOGY (INC)         2013      990567
                                               2014      332328
+                                              2015      864156
+                                              2016      145000
+                                              2017       37825
 ```
 ---
 <a name="NJ-09"></a>
 [Back to top](#top)
-## NJ-09 -- Rep. Bill Pascrell (D) -- [Wikipedia](https://en.wikipedia.org/wiki/NJ-09)
+## NJ-09 -- Rep. Bill Pascrell, Jr. (D) -- [Wikipedia](https://en.wikipedia.org/wiki/NJ-09)
 ### Committees
-Bill Pascrell is not on any of our key committees 
+Bill Pascrell, Jr. is not on any of our key committees 
 
 ### HEP Grants
 ```
-This district received no SC HEP grants from 2012-2016
+This district received no SC HEP grants from 2012-2017
 ```
 ### SC Contracts
 ```
-In the past 5 years, this district has received: $117,540.00 in SC contracts.
+In the past 6 years, this district has received: $117,540.00 in SC contracts.
                                                     Amount ($)
 vendorname                             fiscal_year            
 SPRINGER SCIENCE + BUSINESS MEDIA, LLC 2012              57618
@@ -285,59 +300,70 @@ SPRINGER SCIENCE + BUSINESS MEDIA, LLC 2012              57618
 ```
 ### NSF MPS Grants
 ```
-This district received no NSF MPS grants from 2012-2016
+This district received no NSF MPS grants from 2012-2017
 ```
 ---
 <a name="NJ-10"></a>
 [Back to top](#top)
-## NJ-10 -- Rep. Donald Payne (D) -- [Wikipedia](https://en.wikipedia.org/wiki/NJ-10)
+## NJ-10 -- Rep. Donald M. Payne, Jr. (D) -- [Wikipedia](https://en.wikipedia.org/wiki/NJ-10)
 ### Committees
-Donald Payne is not on any of our key committees 
+Donald M. Payne, Jr. is not on any of our key committees 
 
 ### HEP Grants
 ```
-This district received no SC HEP grants from 2012-2016
+This district received no SC HEP grants from 2012-2017
 ```
 ### SC Contracts
 ```
-This district received no SC contracts from 2012-2017
+This district received no SC contracts from 2012-2018
 ```
 ### NSF MPS Grants
 ```
-In the past 5 years, this district has received: $8,326,798.00 in NSF MPS grants.
-                                                  Amount ($)
-Institution                                 Year            
-NEW JERSEY INSTITUTE OF TECHNOLOGY          2012      633080
-                                            2013     2932190
-                                            2014     1090434
-RUTGERS, THE STATE UNIVERSITY OF NEW JERSEY 2012      814777
-                                            2013      485571
-                                            2014     1943746
-                                            2017      420000
-SETON HALL UNIVERSITY                       2014        7000
+In the past 6 years, this district has received: $16,272,366.00 in NSF MPS grants.
+                                                    Amount ($)
+Institution                                   Year            
+NEW JERSEY CITY UNIVERSITY                    2017       40350
+NEW JERSEY INSTITUTE OF TECHNOLOGY            2012      633080
+                                              2013     2932190
+                                              2014     1090434
+                                              2015      579201
+                                              2016     3283460
+                                              2017     1265916
+NJIT                                          2015        7540
+RUTGERS, THE STATE UNIVERSITY OF NEW JERSEY   2012      814777
+                                              2013      485571
+                                              2014     1943746
+                                              2015      397527
+                                              2017     2489965
+RUTGERS, THE STATE UNIVERSITY OF NEW JERSEY00 2016      176609
+Rutgers U Newark                              2015      125000
+SETON HALL UNIVERSITY                         2014        7000
 ```
 ---
 <a name="NJ-11"></a>
 [Back to top](#top)
-## NJ-11 -- Rep. Rodney Frelinghuysen (R) -- [Wikipedia](https://en.wikipedia.org/wiki/NJ-11)
+## NJ-11 -- Rep. Rodney P. Frelinghuysen (R) -- [Wikipedia](https://en.wikipedia.org/wiki/NJ-11)
 ### Committees
-Rodney Frelinghuysen is the #1 Republican on the House Committee on Appropriations 
+Rodney P. Frelinghuysen is the #1 Republican on the House Committee on Appropriations 
 
 ### HEP Grants
 ```
-This district received no SC HEP grants from 2012-2016
+This district received no SC HEP grants from 2012-2017
 ```
 ### SC Contracts
 ```
-This district received no SC contracts from 2012-2017
+This district received no SC contracts from 2012-2018
 ```
 ### NSF MPS Grants
 ```
-In the past 5 years, this district has received: $483,440.00 in NSF MPS grants.
+In the past 6 years, this district has received: $953,113.00 in NSF MPS grants.
                                                          Amount ($)
 Institution                                        Year            
+MONTCLAIR STATE UNIVERSITY                         2017      176000
 MONTCLAIR STATE UNIVERSITY STUDENT GOVERNMENT      2013      126000
                                                    2014      299987
+                                                   2015      195425
+                                                   2016       98248
 MONTCLAIR STATE UNIVERSITY STUDENT GOVERNMENT A... 2017       57453
 ```
 ---
@@ -349,7 +375,7 @@ Bonnie Watson Coleman is not on any of our key committees
 
 ### HEP Grants
 ```
-In the past 5 years, this district has received: $14,994,895.00 in SC HEP grants.
+In the past 6 years, this district has received: $17,104,895.00 in SC HEP grants.
                                    Amount ($)
 Institution                  Year            
 INSTITUTE FOR ADVANCED STUDY 2012      740000
@@ -357,15 +383,17 @@ INSTITUTE FOR ADVANCED STUDY 2012      740000
 Institute for Advanced Study 2014      645500
                              2015      630000
                              2016      550000
+                             2017      550000
 PRINCETON UNIVERSITY         2012     3410000
                              2013     2190000
 Princeton University         2014     2604000
                              2015     1840395
                              2016     1830000
+                             2017     1560000
 ```
 ### SC Contracts
 ```
-In the past 5 years, this district has received: $508,599,304.70 in SC contracts.
+In the past 6 years, this district has received: $567,263,714.37 in SC contracts.
                                                         Amount ($)
 vendorname                               fiscal_year              
 AMERICAN SOCIETY OF CIVIL ENGINEERS, THE 2015         1.550000e+04
@@ -385,25 +413,34 @@ TRUSTEES OF PRINCETON UNIVERSITY, THE    2012         8.016556e+07
                                          2014         9.044653e+07
                                          2015         9.408887e+07
                                          2016         1.214323e+08
-                                         2017         4.554207e+07
+                                         2017         9.748967e+07
+                                         2018         6.716816e+06
 ```
 ### NSF MPS Grants
 ```
-In the past 5 years, this district has received: $110,323,941.00 in NSF MPS grants.
-                                                  Amount ($)
-Institution                                 Year            
-COLLEGE OF NEW JERSEY                       2012       85084
-EIF                                         2015      198000
-INSTITUTE FOR ADVANCED STUDY                2012     3680181
-                                            2013     4170906
-                                            2014     5009279
-Inst For Advanced Study                     2015       28700
-MULTIPLE RECIPIENTS                         2014      -28846
-Princeton University                        2015    12468781
-RUTGERS, THE STATE UNIVERSITY OF NEW JERSEY 2014       22500
-TRUSTEES OF PRINCETON UNIVERSITY, THE       2012    31439700
-                                            2013    31553838
-                                            2014    21662489
-                                            2017       33329
+In the past 6 years, this district has received: $180,592,912.00 in NSF MPS grants.
+                                                         Amount ($)
+Institution                                        Year            
+COLLEGE OF NEW JERSEY                              2012       85084
+                                                   2015      994365
+                                                   2016     -994365
+EIF                                                2015      198000
+INSTITUTE FOR ADVANCED STUDY                       2012     3680181
+                                                   2013     4170906
+                                                   2014     5009279
+INSTITUTE FOR ADVANCED STUDY - LOUIS BAMBERGE      2015     3696901
+                                                   2016     3278304
+INSTITUTE FOR ADVANCED STUDY - LOUIS BAMBERGER ... 2017     3466250
+Inst For Advanced Study                            2015       28700
+MULTIPLE RECIPIENTS                                2014      -28846
+PII Redacted                                       2017      400000
+Princeton University                               2015    14287199
+RUTGERS, THE STATE UNIVERSITY OF NEW JERSEY        2014       22500
+TRUSTEES OF PRINCETON UNIVERSITY, THE              2012    31439700
+                                                   2013    31553838
+                                                   2014    21662489
+                                                   2015     8967683
+                                                   2016    27298795
+                                                   2017    21375949
 ```
 ---

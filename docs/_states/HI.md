@@ -9,13 +9,13 @@ permalink : /states/HI/
 
 [HI-01](#HI-01)  [HI-02](#HI-02)  
 
-# HI -- Sen. Mazie Hirono (D) and  Sen. Brian Schatz (D)
+# HI -- Sen. Mazie K. Hirono (D) and  Sen. Brian Schatz (D)
 ## Committees
-Mazie Hirono is the #8 Democrat on the Senate Committee on Energy and Natural Resources 
-
-Brian Schatz is the #6 Democrat on the Senate Appropriations Subcommittee on Commerce, Justice, Science, and Related Agencies 
+Mazie K. Hirono is the #8 Democrat on the Senate Committee on Energy and Natural Resources 
 
 Brian Schatz is the #2 Democrat on the Senate Commerce Subcommittee on Science and Space 
+
+Brian Schatz is the #6 Democrat on the Senate Appropriations Subcommittee on Commerce, Justice, Science, and Related Agencies 
 
 Brian Schatz is the #11 Democrat on the Senate Committee on Appropriations 
 
@@ -23,8 +23,8 @@ Brian Schatz is the #5 Democrat on the Senate Committee on Commerce, Science, an
 
 ## HEP Grants
 ```
-In the past 5 years, this state has received:
-17 HEP grants, totalling $9,112,000.00
+In the past 6 years, this state has received:
+22 HEP grants, totalling $11,036,000.00
  
                            Amount ($)
 Institution          Year            
@@ -33,22 +33,26 @@ UNIVERSITY OF HAWAII 2012     1714000
 University of Hawaii 2014     1965000
                      2015     1680000
                      2016     1570000
+                     2017     1924000
 ```
 ## SC Contracts
 ```
-This state received no SC contracts from 2012-2017
+This state received no SC contracts from 2012-2018
 ```
 ## NSF MPS Grants
 ```
-In the past 5 years, this state has received:
-42 NSF MPS grants, totalling $18,952,415.00
+In the past 6 years, this state has received:
+102 NSF MPS grants, totalling $81,342,595.00
  
-                                                  Amount ($)
-Institution                                                 
-UNIVERSITY OF HAWAII SYSTEMS                        12585130
-CALIFORNIA ASSOCIATION FOR RESEARCH IN ASTRON        6355285
-CARNEGIE MELLON UNIVERSITY                             12000
-CALIFORNIA ASSOCIATION FOR RESEARCH IN ASTRONOMY           0
+                                                    Amount ($)
+Institution                                                   
+ASSOCIATION OF UNIVERSITIES FOR RESEARCH IN AST...    42798506
+UNIVERSITY OF HAWAII SYSTEMS                          25021936
+CALIFORNIA ASSOCIATION FOR RESEARCH IN ASTRON          8093400
+ASSOCIATION OF UNIVERSITIES FOR RESEARCH IN A          3571536
+CALIFORNIA ASSOCIATION FOR RESEARCH IN ASTRONOMY       1795223
+TRUSTEES OF THE COLORADO SCHOOL OF MINES                 49994
+CARNEGIE MELLON UNIVERSITY                               12000
 ```
 ---
 ---
@@ -60,25 +64,29 @@ Colleen Hanabusa is the #15 Democrat on the House Committee on Science, Space, a
 
 ### HEP Grants
 ```
-In the past 5 years, this district has received: $5,215,000.00 in SC HEP grants.
+In the past 6 years, this district has received: $7,139,000.00 in SC HEP grants.
                            Amount ($)
 Institution          Year            
 University of Hawaii 2014     1965000
                      2015     1680000
                      2016     1570000
+                     2017     1924000
 ```
 ### SC Contracts
 ```
-This district received no SC contracts from 2012-2017
+This district received no SC contracts from 2012-2018
 ```
 ### NSF MPS Grants
 ```
-In the past 5 years, this district has received: $12,585,130.00 in NSF MPS grants.
+In the past 6 years, this district has received: $21,690,267.00 in NSF MPS grants.
                                    Amount ($)
 Institution                  Year            
 UNIVERSITY OF HAWAII SYSTEMS 2012     5649430
                              2013     4045653
                              2014     2890047
+                             2015     3932297
+                             2016     4100762
+                             2017     1072078
 ```
 ---
 <a name="HI-02"></a>
@@ -89,21 +97,29 @@ Tulsi Gabbard is not on any of our key committees
 
 ### HEP Grants
 ```
-This district received no SC HEP grants from 2012-2016
+This district received no SC HEP grants from 2012-2017
 ```
 ### SC Contracts
 ```
-This district received no SC contracts from 2012-2017
+This district received no SC contracts from 2012-2018
 ```
 ### NSF MPS Grants
 ```
-In the past 5 years, this district has received: $6,367,285.00 in NSF MPS grants.
-                                                       Amount ($)
-Institution                                      Year            
-CALIFORNIA ASSOCIATION FOR RESEARCH IN ASTRON    2012     1182447
-                                                 2013     1172838
-                                                 2014     4000000
-CALIFORNIA ASSOCIATION FOR RESEARCH IN ASTRONOMY 2017           0
-CARNEGIE MELLON UNIVERSITY                       2013       12000
+In the past 6 years, this district has received: $59,652,328.00 in NSF MPS grants.
+                                                         Amount ($)
+Institution                                        Year            
+ASSOCIATION OF UNIVERSITIES FOR RESEARCH IN A      2016     3571536
+ASSOCIATION OF UNIVERSITIES FOR RESEARCH IN AST... 2017    42798506
+CALIFORNIA ASSOCIATION FOR RESEARCH IN ASTRON      2012     1182447
+                                                   2013     1172838
+                                                   2014     4000000
+                                                   2015     1351813
+                                                   2016      386302
+CALIFORNIA ASSOCIATION FOR RESEARCH IN ASTRONOMY   2017     1795223
+CARNEGIE MELLON UNIVERSITY                         2013       12000
+TRUSTEES OF THE COLORADO SCHOOL OF MINES           2017       49994
+UNIVERSITY OF HAWAII SYSTEMS                       2015       87873
+                                                   2016      138300
+                                                   2017     3105496
 ```
 ---

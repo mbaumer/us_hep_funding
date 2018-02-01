@@ -9,24 +9,24 @@ permalink : /states/WY/
 
 [WY-00](#WY-00)  
 
-# WY -- Sen. John Barrasso (R) and  Sen. Michael Enzi (R)
+# WY -- Sen. John Barrasso (R) and  Sen. Michael B. Enzi (R)
 ## Committees
 John Barrasso is the #2 Republican on the Senate Committee on Energy and Natural Resources 
 
-Michael Enzi is not on any of our key committees 
+Michael B. Enzi is not on any of our key committees 
 
 ## HEP Grants
 ```
-This state received no SC HEP grants from 2012-2016
+This state received no SC HEP grants from 2012-2017
 ```
 ## SC Contracts
 ```
-This state received no SC contracts from 2012-2017
+This state received no SC contracts from 2012-2018
 ```
 ## NSF MPS Grants
 ```
-In the past 5 years, this state has received:
-29 NSF MPS grants, totalling $4,892,824.00
+In the past 6 years, this state has received:
+44 NSF MPS grants, totalling $6,856,618.00
  
                                    Amount ($)
 Institution                  Year            
@@ -34,6 +34,9 @@ UNIVERSITY OF HOUSTON SYSTEM 2013       27820
 UNIVERSITY OF WYOMING        2012     1388342
                              2013      994893
                              2014     2483679
+                             2015      476197
+                             2016     1045655
+                             2017      441942
 University of Wyoming        2015       -1910
 ```
 ---
@@ -46,21 +49,24 @@ Liz Cheney is not on any of our key committees
 
 ### HEP Grants
 ```
-This district received no SC HEP grants from 2012-2016
+This district received no SC HEP grants from 2012-2017
 ```
 ### SC Contracts
 ```
-This district received no SC contracts from 2012-2017
+This district received no SC contracts from 2012-2018
 ```
 ### NSF MPS Grants
 ```
-In the past 5 years, this district has received: $4,892,824.00 in NSF MPS grants.
+In the past 6 years, this district has received: $6,856,618.00 in NSF MPS grants.
                                    Amount ($)
 Institution                  Year            
 UNIVERSITY OF HOUSTON SYSTEM 2013       27820
 UNIVERSITY OF WYOMING        2012     1388342
                              2013      994893
                              2014     2483679
+                             2015      476197
+                             2016     1045655
+                             2017      441942
 University of Wyoming        2015       -1910
 ```
 ---

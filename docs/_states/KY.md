@@ -11,15 +11,15 @@ permalink : /states/KY/
 
 # KY -- Sen. Mitch McConnell (R) and  Sen. Rand Paul (R)
 ## Committees
-Mitch McConnell is the #2 Republican on the Senate Committee on Appropriations 
-
 Mitch McConnell is the #3 Republican on the Senate Appropriations Subcommittee on Energy and Water Development 
+
+Mitch McConnell is the #2 Republican on the Senate Committee on Appropriations 
 
 Rand Paul is not on any of our key committees 
 
 ## HEP Grants
 ```
-In the past 5 years, this state has received:
+In the past 6 years, this state has received:
 5 HEP grants, totalling $151,000.00
  
                                Amount ($)
@@ -31,7 +31,7 @@ University of Louisville 2014       73000
 ```
 ## SC Contracts
 ```
-In the past 5 years, this state has received:
+In the past 6 years, this state has received:
 33 Office of Science contracts, totalling $1,383,607.28
  
                                              Amount ($)
@@ -47,18 +47,20 @@ ELECTRIC ENERGY INCORPORATED    2012          350000.00
 ```
 ## NSF MPS Grants
 ```
-In the past 5 years, this state has received:
-75 NSF MPS grants, totalling $10,271,423.00
+In the past 6 years, this state has received:
+130 NSF MPS grants, totalling $19,396,932.00
  
-                                               Amount ($)
-Institution                                              
-UNIVERSITY OF KENTUCKY                            7055960
-UNIVERSITY OF LOUISVILLE                          1726601
-WESTERN KENTUCKY UNIVERSITY RESEARCH FOUNDATI      751999
-NORTHERN KENTUCKY UNIVERSITY RESEARCH FOUNDAT      385251
-MURRAY STATE UNIVERSITY                            149940
-U of Kentucky Res Fdn                              106309
-U of Louisville Res Fdn                             95363
+                                                    Amount ($)
+Institution                                                   
+UNIVERSITY OF KENTUCKY                                12732673
+UNIVERSITY OF LOUISVILLE                               3513743
+NORTHERN KENTUCKY UNIVERSITY RESEARCH FOUNDAT          1204357
+WESTERN KENTUCKY UNIVERSITY RESEARCH FOUNDATI          1180275
+NORTHERN KENTUCKY UNIVERSITY RESEARCH FOUNDATIO...      242979
+MURRAY STATE UNIVERSITY                                 224565
+EASTERN KENTUCKY UNIVERSITY                             143420
+U of Louisville Res Fdn                                  95363
+U of Kentucky Res Fdn                                    59557
 ```
 ---
 ---
@@ -70,11 +72,11 @@ James Comer is not on any of our key committees
 
 ### HEP Grants
 ```
-This district received no SC HEP grants from 2012-2016
+This district received no SC HEP grants from 2012-2017
 ```
 ### SC Contracts
 ```
-In the past 5 years, this district has received: $1,383,607.28 in SC contracts.
+In the past 6 years, this district has received: $1,383,607.28 in SC contracts.
                                              Amount ($)
 vendorname                      fiscal_year            
 BOSTON GOVERNMENT SERVICES, LLC 2013          163228.66
@@ -88,10 +90,11 @@ ELECTRIC ENERGY INCORPORATED    2012          350000.00
 ```
 ### NSF MPS Grants
 ```
-In the past 5 years, this district has received: $149,940.00 in NSF MPS grants.
+In the past 6 years, this district has received: $224,565.00 in NSF MPS grants.
                               Amount ($)
 Institution             Year            
 MURRAY STATE UNIVERSITY 2014      149940
+                        2017       74625
 ```
 ---
 <a name="KY-02"></a>
@@ -100,34 +103,36 @@ MURRAY STATE UNIVERSITY 2014      149940
 ### Committees
 Brett Guthrie is the #1 Republican on the House Subcommittee on Higher Education and Workforce Development 
 
-Brett Guthrie is the #13 Republican on the House Committee on Energy and Commerce 
+Brett Guthrie is the #12 Republican on the House Committee on Energy and Commerce 
 
 ### HEP Grants
 ```
-This district received no SC HEP grants from 2012-2016
+This district received no SC HEP grants from 2012-2017
 ```
 ### SC Contracts
 ```
-This district received no SC contracts from 2012-2017
+This district received no SC contracts from 2012-2018
 ```
 ### NSF MPS Grants
 ```
-In the past 5 years, this district has received: $751,999.00 in NSF MPS grants.
+In the past 6 years, this district has received: $1,180,275.00 in NSF MPS grants.
                                                     Amount ($)
 Institution                                   Year            
 WESTERN KENTUCKY UNIVERSITY RESEARCH FOUNDATI 2012      254000
                                               2013      497999
+                                              2015      300468
+                                              2016      127808
 ```
 ---
 <a name="KY-03"></a>
 [Back to top](#top)
-## KY-03 -- Rep. John Yarmuth (D) -- [Wikipedia](https://en.wikipedia.org/wiki/KY-03)
+## KY-03 -- Rep. John A. Yarmuth (D) -- [Wikipedia](https://en.wikipedia.org/wiki/KY-03)
 ### Committees
-John Yarmuth is not on any of our key committees 
+John A. Yarmuth is not on any of our key committees 
 
 ### HEP Grants
 ```
-In the past 5 years, this district has received: $151,000.00 in SC HEP grants.
+In the past 6 years, this district has received: $151,000.00 in SC HEP grants.
                                Amount ($)
 Institution              Year            
 UNIVERSITY OF LOUISVILLE 2012           0
@@ -137,42 +142,48 @@ University of Louisville 2014       73000
 ```
 ### SC Contracts
 ```
-This district received no SC contracts from 2012-2017
+This district received no SC contracts from 2012-2018
 ```
 ### NSF MPS Grants
 ```
-In the past 5 years, this district has received: $1,821,964.00 in NSF MPS grants.
+In the past 6 years, this district has received: $3,609,106.00 in NSF MPS grants.
                                Amount ($)
 Institution              Year            
 U of Louisville Res Fdn  2015       95363
 UNIVERSITY OF LOUISVILLE 2012      609075
                          2013      260000
                          2014      857526
+                         2015      813917
+                         2016      523225
+                         2017      450000
 ```
 ---
 <a name="KY-04"></a>
 [Back to top](#top)
 ## KY-04 -- Rep. Thomas Massie (R) -- [Wikipedia](https://en.wikipedia.org/wiki/KY-04)
 ### Committees
-Thomas Massie is the #6 Republican on the House Committee on Science, Space, and Technology; Subcommittee on Energy 
-
 Thomas Massie is the #7 Republican on the House Committee on Science, Space, and Technology 
+
+Thomas Massie is the #6 Republican on the House Committee on Science, Space, and Technology; Subcommittee on Energy 
 
 ### HEP Grants
 ```
-This district received no SC HEP grants from 2012-2016
+This district received no SC HEP grants from 2012-2017
 ```
 ### SC Contracts
 ```
-This district received no SC contracts from 2012-2017
+This district received no SC contracts from 2012-2018
 ```
 ### NSF MPS Grants
 ```
-In the past 5 years, this district has received: $385,251.00 in NSF MPS grants.
-                                                    Amount ($)
-Institution                                   Year            
-NORTHERN KENTUCKY UNIVERSITY RESEARCH FOUNDAT 2012      220251
-                                              2013      165000
+In the past 6 years, this district has received: $1,447,336.00 in NSF MPS grants.
+                                                         Amount ($)
+Institution                                        Year            
+NORTHERN KENTUCKY UNIVERSITY RESEARCH FOUNDAT      2012      220251
+                                                   2013      165000
+                                                   2015      383429
+                                                   2016      435677
+NORTHERN KENTUCKY UNIVERSITY RESEARCH FOUNDATIO... 2017      242979
 ```
 ---
 <a name="KY-05"></a>
@@ -185,40 +196,43 @@ Harold Rogers is the #2 Republican on the House Appropriations Subcommittee on C
 
 ### HEP Grants
 ```
-This district received no SC HEP grants from 2012-2016
+This district received no SC HEP grants from 2012-2017
 ```
 ### SC Contracts
 ```
-This district received no SC contracts from 2012-2017
+This district received no SC contracts from 2012-2018
 ```
 ### NSF MPS Grants
 ```
-This district received no NSF MPS grants from 2012-2016
+This district received no NSF MPS grants from 2012-2017
 ```
 ---
 <a name="KY-06"></a>
 [Back to top](#top)
-## KY-06 -- Rep. Garland Barr (R) -- [Wikipedia](https://en.wikipedia.org/wiki/KY-06)
+## KY-06 -- Rep. Andy Barr (R) -- [Wikipedia](https://en.wikipedia.org/wiki/KY-06)
 ### Committees
-Garland Barr is not on any of our key committees 
+Andy Barr is not on any of our key committees 
 
 ### HEP Grants
 ```
-This district received no SC HEP grants from 2012-2016
+This district received no SC HEP grants from 2012-2017
 ```
 ### SC Contracts
 ```
-This district received no SC contracts from 2012-2017
+This district received no SC contracts from 2012-2018
 ```
 ### NSF MPS Grants
 ```
-In the past 5 years, this district has received: $7,162,269.00 in NSF MPS grants.
-                             Amount ($)
-Institution            Year            
-U of Kentucky Res Fdn  2015      106309
-UNIVERSITY OF KENTUCKY 2012     2966674
-                       2013     2779915
-                       2014     1309271
-                       2017         100
+In the past 6 years, this district has received: $12,935,650.00 in NSF MPS grants.
+                                  Amount ($)
+Institution                 Year            
+EASTERN KENTUCKY UNIVERSITY 2016      143420
+U of Kentucky Res Fdn       2015       59557
+UNIVERSITY OF KENTUCKY      2012     2966674
+                            2013     2779915
+                            2014     1309271
+                            2015     1058279
+                            2016     2843255
+                            2017     1775279
 ```
 ---

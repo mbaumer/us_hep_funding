@@ -19,19 +19,19 @@ John McCain is not on any of our key committees
 
 ## HEP Grants
 ```
-In the past 5 years, this state has received:
-25 HEP grants, totalling $8,257,000.00
+In the past 6 years, this state has received:
+29 HEP grants, totalling $9,587,000.00
  
                           Amount ($)
 Institution                         
-University of Arizona        4243000
+University of Arizona        5403000
 UNIVERSITY OF ARIZONA        2451000
-Arizona State University      857000
+Arizona State University     1027000
 ARIZONA STATE UNIVERSITY      706000
 ```
 ## SC Contracts
 ```
-In the past 5 years, this state has received:
+In the past 6 years, this state has received:
 1 Office of Science contracts, totalling $-289,800.76
  
                                         Amount ($)
@@ -40,47 +40,50 @@ ALLIED SIGNAL AEROSPACE CO 2014         -289800.76
 ```
 ## NSF MPS Grants
 ```
-In the past 5 years, this state has received:
-262 NSF MPS grants, totalling $54,565,624.00
+In the past 6 years, this state has received:
+432 NSF MPS grants, totalling $114,693,799.00
  
-                                               Amount ($)
-Institution                                              
-UNIVERSITY OF ARIZONA                            30188496
-ARIZONA STATE UNIVERSITY                         17174140
-ASSOCIATION OF UNIVERSITIES FOR RESEARCH IN A     3614988
-LOWELL OBSERVATORY                                1351553
-NORTHERN ARIZONA UNIVERSITY                        771729
-SMITHSONIAN INSTITUTION                            435000
-Arizona State University                           325583
-U of Arizona                                       220856
-Northern Arizona Univ                              216161
-EMBRY-RIDDLE AERONAUTICAL UNIVERSITY INC           180483
-and  2  other institutions.
+                                                    Amount ($)
+Institution                                                   
+UNIVERSITY OF ARIZONA                                 49490684
+ARIZONA STATE UNIVERSITY                              30407476
+ASSOCIATION OF UNIVERSITIES FOR RESEARCH IN AST...    15284446
+ASSOCIATION OF UNIVERSITIES FOR RESEARCH IN A         11240342
+LOWELL OBSERVATORY                                     3251194
+SMITHSONIAN INSTITUTION                                1335000
+U of Arizona                                           1220365
+NORTHERN ARIZONA UNIVERSITY                             771729
+Arizona State University                                767583
+PII Redacted                                            292250
+and  4  other institutions.
 ```
 ---
 ---
 <a name="AZ-01"></a>
 [Back to top](#top)
-## AZ-01 -- Rep. Tom O'Halleran (D) -- [Wikipedia](https://en.wikipedia.org/wiki/AZ-01)
+## AZ-01 -- Rep. Tom O’Halleran (D) -- [Wikipedia](https://en.wikipedia.org/wiki/AZ-01)
 ### Committees
-Tom O'Halleran is not on any of our key committees 
+Tom O’Halleran is not on any of our key committees 
 
 ### HEP Grants
 ```
-This district received no SC HEP grants from 2012-2016
+This district received no SC HEP grants from 2012-2017
 ```
 ### SC Contracts
 ```
-This district received no SC contracts from 2012-2017
+This district received no SC contracts from 2012-2018
 ```
 ### NSF MPS Grants
 ```
-In the past 5 years, this district has received: $2,339,443.00 in NSF MPS grants.
+In the past 6 years, this district has received: $4,239,084.00 in NSF MPS grants.
                                   Amount ($)
 Institution                 Year            
 LOWELL OBSERVATORY          2012      698257
                             2013      743169
                             2014      -89873
+                            2015      362698
+                            2016     1159428
+                            2017      377515
 NORTHERN ARIZONA UNIVERSITY 2012      661982
                             2013       85257
                             2014       24490
@@ -95,72 +98,83 @@ Martha McSally is not on any of our key committees
 
 ### HEP Grants
 ```
-This district received no SC HEP grants from 2012-2016
+This district received no SC HEP grants from 2012-2017
 ```
 ### SC Contracts
 ```
-This district received no SC contracts from 2012-2017
+This district received no SC contracts from 2012-2018
 ```
 ### NSF MPS Grants
 ```
-In the past 5 years, this district has received: $2,048,192.00 in NSF MPS grants.
+In the past 6 years, this district has received: $20,533,212.00 in NSF MPS grants.
                                                          Amount ($)
 Institution                                        Year            
 ASSOCIATION OF UNIVERSITIES FOR RESEARCH IN A      2013      324758
-ASSOCIATION OF UNIVERSITIES FOR RESEARCH IN AST... 2017           0
+                                                   2016     3334167
+ASSOCIATION OF UNIVERSITIES FOR RESEARCH IN AST... 2017    14522767
+PLANETARY SCIENCE INSTITUTE                        2016      162288
+                                                   2017       65798
 SMITHSONIAN INSTITUTION                            2013      435000
+                                                   2016      400000
 THE RESEARCH FOUNDATION OF STATE UNIVERSITY O      2014        8000
 UNIVERSITY OF ARIZONA                              2013     1280434
 ```
 ---
 <a name="AZ-03"></a>
 [Back to top](#top)
-## AZ-03 -- Rep. Raúl Grijalva (D) -- [Wikipedia](https://en.wikipedia.org/wiki/AZ-03)
+## AZ-03 -- Rep. Raúl M. Grijalva (D) -- [Wikipedia](https://en.wikipedia.org/wiki/AZ-03)
 ### Committees
-Raúl Grijalva is the #2 Democrat on the House Subcommittee on Early Childhood, Elementary, and Secondary Education 
+Raúl M. Grijalva is the #2 Democrat on the House Subcommittee on Early Childhood, Elementary, and Secondary Education 
 
 ### HEP Grants
 ```
-In the past 5 years, this district has received: $4,243,000.00 in SC HEP grants.
+In the past 6 years, this district has received: $5,403,000.00 in SC HEP grants.
                             Amount ($)
 Institution           Year            
 University of Arizona 2014     1236000
                       2015     1047000
                       2016     1960000
+                      2017     1160000
 ```
 ### SC Contracts
 ```
-This district received no SC contracts from 2012-2017
+This district received no SC contracts from 2012-2018
 ```
 ### NSF MPS Grants
 ```
-In the past 5 years, this district has received: $19,823,305.00 in NSF MPS grants.
+In the past 6 years, this district has received: $45,699,233.00 in NSF MPS grants.
                                                          Amount ($)
 Institution                                        Year            
-ASSOCIATION OF UNIVERSITIES FOR RESEARCH IN AST... 2017       78635
-U of Arizona                                       2015      220856
+ASSOCIATION OF UNIVERSITIES FOR RESEARCH IN A      2015      198207
+                                                   2016     4092980
+ASSOCIATION OF UNIVERSITIES FOR RESEARCH IN AST... 2017      761679
+PII Redacted                                       2017      100000
+SMITHSONIAN INSTITUTION                            2017      500000
+U of Arizona                                       2015     1220365
 UNIVERSITY OF ARIZONA                              2013    14225860
                                                    2014     2656651
-                                                   2017     2641303
+                                                   2015     5618434
+                                                   2016     7959532
+                                                   2017     8365525
 ```
 ---
 <a name="AZ-04"></a>
 [Back to top](#top)
-## AZ-04 -- Rep. Paul Gosar (R) -- [Wikipedia](https://en.wikipedia.org/wiki/AZ-04)
+## AZ-04 -- Rep. Paul A. Gosar (R) -- [Wikipedia](https://en.wikipedia.org/wiki/AZ-04)
 ### Committees
-Paul Gosar is not on any of our key committees 
+Paul A. Gosar is not on any of our key committees 
 
 ### HEP Grants
 ```
-This district received no SC HEP grants from 2012-2016
+This district received no SC HEP grants from 2012-2017
 ```
 ### SC Contracts
 ```
-This district received no SC contracts from 2012-2017
+This district received no SC contracts from 2012-2018
 ```
 ### NSF MPS Grants
 ```
-In the past 5 years, this district has received: $180,483.00 in NSF MPS grants.
+In the past 6 years, this district has received: $180,483.00 in NSF MPS grants.
                                                Amount ($)
 Institution                              Year            
 EMBRY-RIDDLE AERONAUTICAL UNIVERSITY INC 2013      126027
@@ -171,11 +185,11 @@ EMBRY-RIDDLE AERONAUTICAL UNIVERSITY INC 2013      126027
 [Back to top](#top)
 ## AZ-05 -- Rep. Andy Biggs (R) -- [Wikipedia](https://en.wikipedia.org/wiki/AZ-05)
 ### Committees
-Andy Biggs is the #19 Republican on the House Committee on Science, Space, and Technology 
+Andy Biggs is the #18 Republican on the House Committee on Science, Space, and Technology 
 
 ### HEP Grants
 ```
-In the past 5 years, this district has received: $706,000.00 in SC HEP grants.
+In the past 6 years, this district has received: $706,000.00 in SC HEP grants.
                                Amount ($)
 Institution              Year            
 ARIZONA STATE UNIVERSITY 2012      210000
@@ -183,15 +197,16 @@ ARIZONA STATE UNIVERSITY 2012      210000
 ```
 ### SC Contracts
 ```
-This district received no SC contracts from 2012-2017
+This district received no SC contracts from 2012-2018
 ```
 ### NSF MPS Grants
 ```
-In the past 5 years, this district has received: $7,268,528.00 in NSF MPS grants.
+In the past 6 years, this district has received: $7,508,528.00 in NSF MPS grants.
                                Amount ($)
 Institution              Year            
 ARIZONA STATE UNIVERSITY 2012     7172658
                          2014       95870
+                         2017      240000
 ```
 ---
 <a name="AZ-06"></a>
@@ -202,15 +217,15 @@ David Schweikert is not on any of our key committees
 
 ### HEP Grants
 ```
-This district received no SC HEP grants from 2012-2016
+This district received no SC HEP grants from 2012-2017
 ```
 ### SC Contracts
 ```
-This district received no SC contracts from 2012-2017
+This district received no SC contracts from 2012-2018
 ```
 ### NSF MPS Grants
 ```
-This district received no NSF MPS grants from 2012-2016
+This district received no NSF MPS grants from 2012-2017
 ```
 ---
 <a name="AZ-07"></a>
@@ -221,7 +236,7 @@ Ruben Gallego is not on any of our key committees
 
 ### HEP Grants
 ```
-In the past 5 years, this district has received: $2,451,000.00 in SC HEP grants.
+In the past 6 years, this district has received: $2,451,000.00 in SC HEP grants.
                             Amount ($)
 Institution           Year            
 UNIVERSITY OF ARIZONA 2012     1219000
@@ -229,14 +244,14 @@ UNIVERSITY OF ARIZONA 2012     1219000
 ```
 ### SC Contracts
 ```
-In the past 5 years, this district has received: $-289,800.76 in SC contracts.
+In the past 6 years, this district has received: $-289,800.76 in SC contracts.
                                         Amount ($)
 vendorname                 fiscal_year            
 ALLIED SIGNAL AEROSPACE CO 2014         -289800.76
 ```
 ### NSF MPS Grants
 ```
-In the past 5 years, this district has received: $12,674,478.00 in NSF MPS grants.
+In the past 6 years, this district has received: $12,674,478.00 in NSF MPS grants.
                                                     Amount ($)
 Institution                                   Year            
 ASSOCIATION OF UNIVERSITIES FOR RESEARCH IN A 2012     3290230
@@ -246,21 +261,21 @@ UNIVERSITY OF ARIZONA                         2012     9219415
 ---
 <a name="AZ-08"></a>
 [Back to top](#top)
-## AZ-08 -- Rep. Trent Franks (R) -- [Wikipedia](https://en.wikipedia.org/wiki/AZ-08)
-### Committees
-Trent Franks is not on any of our key committees 
-
+## AZ-08 Unknown Rep.
 ### HEP Grants
 ```
-This district received no SC HEP grants from 2012-2016
+This district received no SC HEP grants from 2012-2017
 ```
 ### SC Contracts
 ```
-This district received no SC contracts from 2012-2017
+This district received no SC contracts from 2012-2018
 ```
 ### NSF MPS Grants
 ```
-This district received no NSF MPS grants from 2012-2016
+In the past 6 years, this district has received: $67,746.00 in NSF MPS grants.
+                               Amount ($)
+Institution              Year            
+ARIZONA STATE UNIVERSITY 2017       67746
 ```
 ---
 <a name="AZ-09"></a>
@@ -271,25 +286,29 @@ Kyrsten Sinema is not on any of our key committees
 
 ### HEP Grants
 ```
-In the past 5 years, this district has received: $857,000.00 in SC HEP grants.
+In the past 6 years, this district has received: $1,027,000.00 in SC HEP grants.
                                Amount ($)
 Institution              Year            
 Arizona State University 2014      417000
                          2015      340000
                          2016      100000
+                         2017      170000
 ```
 ### SC Contracts
 ```
-This district received no SC contracts from 2012-2017
+This district received no SC contracts from 2012-2018
 ```
 ### NSF MPS Grants
 ```
-In the past 5 years, this district has received: $10,231,195.00 in NSF MPS grants.
+In the past 6 years, this district has received: $23,791,035.00 in NSF MPS grants.
                                Amount ($)
 Institution              Year            
 ARIZONA STATE UNIVERSITY 2013     6048356
                          2014     3884991
-                         2017      -27735
-Arizona State University 2015      325583
+                         2015     3922242
+                         2016     3811117
+                         2017     5164496
+Arizona State University 2015      767583
+PII Redacted             2017      192250
 ```
 ---

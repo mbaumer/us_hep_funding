@@ -5,6 +5,10 @@
 layout: page
 ---
 
+<p align="center">
+<b><i>1/31/18: Updated with data for 2017-18!</i></b>
+</p>
+
 [**High-energy physics (HEP) research**](http://www.usparticlephysics.org/index.html) has wide-ranging impacts on technology, innovation, and education in the United States. In addition to HEP's national importance, Congressional offices are also concerned with the **local economic impact** of federal HEP spending in their respective districts and states.
 
 Select your state below for both statewide and district-level summaries of HEP-related spending. Please read the [FAQ]({{ site.baseurl }}/faq/) for descriptions of and caveats to interpreting the data. 

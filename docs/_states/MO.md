@@ -9,18 +9,18 @@ permalink : /states/MO/
 
 [MO-01](#MO-01)  [MO-02](#MO-02)  [MO-03](#MO-03)  [MO-04](#MO-04)  [MO-05](#MO-05)  [MO-06](#MO-06)  [MO-07](#MO-07)  [MO-08](#MO-08)  
 
-# MO -- Sen. Roy Blunt (R) and  Sen. Claire McCaskill (D)
+# MO -- Sen. Claire McCaskill (D) and  Sen. Roy Blunt (R)
 ## Committees
+Claire McCaskill is not on any of our key committees 
+
 Roy Blunt is the #8 Republican on the Senate Committee on Appropriations 
 
 Roy Blunt is the #3 Republican on the Senate Committee on Commerce, Science, and Transportation 
 
-Claire McCaskill is not on any of our key committees 
-
 ## HEP Grants
 ```
-In the past 5 years, this state has received:
-7 HEP grants, totalling $3,273,000.00
+In the past 6 years, this state has received:
+10 HEP grants, totalling $3,493,000.00
  
                                          Amount ($)
 Institution                        Year            
@@ -29,10 +29,11 @@ WASHINGTON UNIVERSITY              2012      860000
 Washington University              2014      527000
 Washington University in St. Louis 2015      480000
                                    2016      580000
+                                   2017      220000
 ```
 ## SC Contracts
 ```
-In the past 5 years, this state has received:
+In the past 6 years, this state has received:
 7 Office of Science contracts, totalling $44,653.24
  
                                 Amount ($)
@@ -44,63 +45,71 @@ ABM FEDERAL SALES, INC.            3158.47
 ```
 ## NSF MPS Grants
 ```
-In the past 5 years, this state has received:
-143 NSF MPS grants, totalling $18,232,792.00
+In the past 6 years, this state has received:
+244 NSF MPS grants, totalling $39,288,340.00
  
                                      Amount ($)
 Institution                                    
-UNIVERSITY OF MISSOURI SYSTEM           9003390
-WASHINGTON UNIVERSITY, THE              6409932
-SAINT LOUIS UNIVERSITY                  1041460
+UNIVERSITY OF MISSOURI SYSTEM          21090110
+WASHINGTON UNIVERSITY, THE             13926990
+SAINT LOUIS UNIVERSITY                  1605065
+MISSOURI STATE UNIVERSITY               1028464
 MISSOURI SYSTEM, UNIVERSITY OF           986455
-MISSOURI STATE UNIVERSITY                571299
+Washington University                    251416
 NORTHWEST MISSOURI STATE UNIVERSITY      169000
+PII Redacted                             150000
 UNIVERSITY OF FLORIDA                    110000
 U of Missouri Columbia                    24300
-TRUMAN STATE UNIVERSITY                    6849
-Washington University                    -29584
-and  1  other institutions.
+and  2  other institutions.
 ```
 ---
 ---
 <a name="MO-01"></a>
 [Back to top](#top)
-## MO-01 -- Rep. Wm. Clay (D) -- [Wikipedia](https://en.wikipedia.org/wiki/MO-01)
+## MO-01 -- Rep. Wm. Lacy Clay (D) -- [Wikipedia](https://en.wikipedia.org/wiki/MO-01)
 ### Committees
-Wm. Clay is not on any of our key committees 
+Wm. Lacy Clay is not on any of our key committees 
 
 ### HEP Grants
 ```
-In the past 5 years, this district has received: $1,587,000.00 in SC HEP grants.
+In the past 6 years, this district has received: $1,807,000.00 in SC HEP grants.
                                          Amount ($)
 Institution                        Year            
 Washington University              2014      527000
 Washington University in St. Louis 2015      480000
                                    2016      580000
+                                   2017      220000
 ```
 ### SC Contracts
 ```
-In the past 5 years, this district has received: $5,409.26 in SC contracts.
+In the past 6 years, this district has received: $5,409.26 in SC contracts.
                                          Amount ($)
 vendorname                  fiscal_year            
 WORLD WIDE TECHNOLOGY, INC. 2012            5409.26
 ```
 ### NSF MPS Grants
 ```
-In the past 5 years, this district has received: $5,904,635.00 in NSF MPS grants.
+In the past 6 years, this district has received: $15,502,644.00 in NSF MPS grants.
                                      Amount ($)
 Institution                    Year            
 MISSOURI SYSTEM, UNIVERSITY OF 2012      354721
 SAINT LOUIS UNIVERSITY         2012      142248
                                2013      899212
+                               2015      387763
+                               2016      175842
 Saint Louis University         2015      -60309
 UNIVERSITY OF FLORIDA          2014      110000
 UNIVERSITY OF MISSOURI SYSTEM  2013     1098481
                                2014      370000
+                               2015      376673
+                               2016      379673
+                               2017      480000
 WASHINGTON UNIVERSITY, THE     2013     1964604
                                2014     1055262
-                               2017           0
-Washington University          2015      -29584
+                               2015     2016667
+                               2016     3324231
+                               2017     2176160
+Washington University          2015      251416
 ```
 ---
 <a name="MO-02"></a>
@@ -111,11 +120,11 @@ Ann Wagner is not on any of our key committees
 
 ### HEP Grants
 ```
-This district received no SC HEP grants from 2012-2016
+This district received no SC HEP grants from 2012-2017
 ```
 ### SC Contracts
 ```
-In the past 5 years, this district has received: $17,239.22 in SC contracts.
+In the past 6 years, this district has received: $17,239.22 in SC contracts.
                                             Amount ($)
 vendorname                     fiscal_year            
 ABM FEDERAL SALES, INC.        2014            3158.47
@@ -124,7 +133,7 @@ AFTERMARKET TECHNOLOGIES, INC. 2013            5095.75
 ```
 ### NSF MPS Grants
 ```
-This district received no NSF MPS grants from 2012-2016
+This district received no NSF MPS grants from 2012-2017
 ```
 ---
 <a name="MO-03"></a>
@@ -135,7 +144,7 @@ Blaine Luetkemeyer is not on any of our key committees
 
 ### HEP Grants
 ```
-In the past 5 years, this district has received: $1,686,000.00 in SC HEP grants.
+In the past 6 years, this district has received: $1,686,000.00 in SC HEP grants.
                             Amount ($)
 Institution           Year            
 WASHINGTON UNIVERSITY 2012      860000
@@ -143,11 +152,11 @@ WASHINGTON UNIVERSITY 2012      860000
 ```
 ### SC Contracts
 ```
-This district received no SC contracts from 2012-2017
+This district received no SC contracts from 2012-2018
 ```
 ### NSF MPS Grants
 ```
-In the past 5 years, this district has received: $3,390,066.00 in NSF MPS grants.
+In the past 6 years, this district has received: $3,390,066.00 in NSF MPS grants.
                                  Amount ($)
 Institution                Year            
 WASHINGTON UNIVERSITY, THE 2012     3390066
@@ -161,20 +170,24 @@ Vicky Hartzler is not on any of our key committees
 
 ### HEP Grants
 ```
-This district received no SC HEP grants from 2012-2016
+This district received no SC HEP grants from 2012-2017
 ```
 ### SC Contracts
 ```
-This district received no SC contracts from 2012-2017
+This district received no SC contracts from 2012-2018
 ```
 ### NSF MPS Grants
 ```
-In the past 5 years, this district has received: $2,654,245.00 in NSF MPS grants.
+In the past 6 years, this district has received: $7,698,304.00 in NSF MPS grants.
                                     Amount ($)
 Institution                   Year            
+PII Redacted                  2017      150000
 U of Missouri Columbia        2015       24300
 UNIVERSITY OF MISSOURI SYSTEM 2013     1443419
                               2014     1186526
+                              2015     2278164
+                              2016      860156
+                              2017     1755739
 ```
 ---
 <a name="MO-05"></a>
@@ -185,22 +198,24 @@ Emanuel Cleaver is not on any of our key committees
 
 ### HEP Grants
 ```
-This district received no SC HEP grants from 2012-2016
+This district received no SC HEP grants from 2012-2017
 ```
 ### SC Contracts
 ```
-In the past 5 years, this district has received: $22,004.76 in SC contracts.
+In the past 6 years, this district has received: $22,004.76 in SC contracts.
                                    Amount ($)
 vendorname            fiscal_year            
 FISHNET SECURITY, INC 2012           22004.76
 ```
 ### NSF MPS Grants
 ```
-In the past 5 years, this district has received: $623,533.00 in NSF MPS grants.
+In the past 6 years, this district has received: $1,879,712.00 in NSF MPS grants.
                                     Amount ($)
 Institution                   Year            
 UNIVERSITY OF MISSOURI SYSTEM 2012      278533
                               2013      345000
+                              2016      464224
+                              2017      791955
 ```
 ---
 <a name="MO-06"></a>
@@ -211,15 +226,15 @@ Sam Graves is not on any of our key committees
 
 ### HEP Grants
 ```
-This district received no SC HEP grants from 2012-2016
+This district received no SC HEP grants from 2012-2017
 ```
 ### SC Contracts
 ```
-This district received no SC contracts from 2012-2017
+This district received no SC contracts from 2012-2018
 ```
 ### NSF MPS Grants
 ```
-In the past 5 years, this district has received: $175,849.00 in NSF MPS grants.
+In the past 6 years, this district has received: $175,849.00 in NSF MPS grants.
                                           Amount ($)
 Institution                         Year            
 NORTHWEST MISSOURI STATE UNIVERSITY 2012       57000
@@ -233,24 +248,26 @@ TRUMAN STATE UNIVERSITY             2013        3312
 [Back to top](#top)
 ## MO-07 -- Rep. Billy Long (R) -- [Wikipedia](https://en.wikipedia.org/wiki/MO-07)
 ### Committees
-Billy Long is the #20 Republican on the House Committee on Energy and Commerce 
+Billy Long is the #19 Republican on the House Committee on Energy and Commerce 
 
 ### HEP Grants
 ```
-This district received no SC HEP grants from 2012-2016
+This district received no SC HEP grants from 2012-2017
 ```
 ### SC Contracts
 ```
-This district received no SC contracts from 2012-2017
+This district received no SC contracts from 2012-2018
 ```
 ### NSF MPS Grants
 ```
-In the past 5 years, this district has received: $571,299.00 in NSF MPS grants.
+In the past 6 years, this district has received: $1,028,464.00 in NSF MPS grants.
                                 Amount ($)
 Institution               Year            
 MISSOURI STATE UNIVERSITY 2012      246414
                           2013      215318
                           2014      109567
+                          2016      346044
+                          2017      111121
 ```
 ---
 <a name="MO-08"></a>
@@ -261,20 +278,23 @@ Jason Smith is not on any of our key committees
 
 ### HEP Grants
 ```
-This district received no SC HEP grants from 2012-2016
+This district received no SC HEP grants from 2012-2017
 ```
 ### SC Contracts
 ```
-This district received no SC contracts from 2012-2017
+This district received no SC contracts from 2012-2018
 ```
 ### NSF MPS Grants
 ```
-In the past 5 years, this district has received: $2,908,898.00 in NSF MPS grants.
+In the past 6 years, this district has received: $7,609,034.00 in NSF MPS grants.
                                      Amount ($)
 Institution                    Year            
 MISSOURI SYSTEM, UNIVERSITY OF 2012      384797
 UNIVERSITY OF MISSOURI SYSTEM  2012      758454
                                2013     1341393
                                2014      424254
+                               2015     1303288
+                               2016     1071454
+                               2017     2325394
 ```
 ---

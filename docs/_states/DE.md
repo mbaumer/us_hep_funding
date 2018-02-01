@@ -9,43 +9,44 @@ permalink : /states/DE/
 
 [DE-00](#DE-00)  
 
-# DE -- Sen. Thomas Carper (D) and  Sen. Chris Coons (D)
+# DE -- Sen. Thomas R. Carper (D) and  Sen. Christopher A. Coons (D)
 ## Committees
-Thomas Carper is not on any of our key committees 
+Thomas R. Carper is not on any of our key committees 
 
-Chris Coons is the #5 Democrat on the Senate Appropriations Subcommittee on Commerce, Justice, Science, and Related Agencies 
+Christopher A. Coons is the #8 Democrat on the Senate Appropriations Subcommittee on Energy and Water Development 
 
-Chris Coons is the #10 Democrat on the Senate Committee on Appropriations 
+Christopher A. Coons is the #5 Democrat on the Senate Appropriations Subcommittee on Commerce, Justice, Science, and Related Agencies 
 
-Chris Coons is the #8 Democrat on the Senate Appropriations Subcommittee on Energy and Water Development 
+Christopher A. Coons is the #10 Democrat on the Senate Committee on Appropriations 
 
 ## HEP Grants
 ```
-In the past 5 years, this state has received:
-6 HEP grants, totalling $1,443,824.79
+In the past 6 years, this state has received:
+8 HEP grants, totalling $1,658,824.79
  
                              Amount ($)
 Institution            Year            
 UNIVERSITY OF DELAWARE 2012   355000.00
                        2013   358000.00
+University Of Delaware 2017   215000.00
 University of Delaware 2014   347000.00
                        2015   420000.00
                        2016   -36175.21
 ```
 ## SC Contracts
 ```
-This state received no SC contracts from 2012-2017
+This state received no SC contracts from 2012-2018
 ```
 ## NSF MPS Grants
 ```
-In the past 5 years, this state has received:
-96 NSF MPS grants, totalling $15,372,494.00
+In the past 6 years, this state has received:
+166 NSF MPS grants, totalling $28,919,356.00
  
                                                Amount ($)
 Institution                                              
-UNIVERSITY OF DELAWARE                           14612218
-DELAWARE STATE UNIVERSITY                          429889
-University of Delaware                             327387
+UNIVERSITY OF DELAWARE                           26843964
+University of Delaware                            1357597
+DELAWARE STATE UNIVERSITY                          714795
 HENRY FRANCIS DUPONT WINTERTHUR MUSEUM, INC.,        3000
 ```
 ---
@@ -58,31 +59,36 @@ Lisa Blunt Rochester is the #9 Democrat on the House Subcommittee on Higher Educ
 
 ### HEP Grants
 ```
-In the past 5 years, this district has received: $1,443,824.79 in SC HEP grants.
+In the past 6 years, this district has received: $1,658,824.79 in SC HEP grants.
                              Amount ($)
 Institution            Year            
 UNIVERSITY OF DELAWARE 2012   355000.00
                        2013   358000.00
+University Of Delaware 2017   215000.00
 University of Delaware 2014   347000.00
                        2015   420000.00
                        2016   -36175.21
 ```
 ### SC Contracts
 ```
-This district received no SC contracts from 2012-2017
+This district received no SC contracts from 2012-2018
 ```
 ### NSF MPS Grants
 ```
-In the past 5 years, this district has received: $15,372,494.00 in NSF MPS grants.
+In the past 6 years, this district has received: $28,919,356.00 in NSF MPS grants.
                                                     Amount ($)
 Institution                                   Year            
 DELAWARE STATE UNIVERSITY                     2013      -71211
                                               2014      501100
+                                              2015      225072
+                                              2017       59834
 HENRY FRANCIS DUPONT WINTERTHUR MUSEUM, INC., 2013        3000
 UNIVERSITY OF DELAWARE                        2012     6436212
                                               2013     4706203
                                               2014     3258532
-                                              2017      211271
-University of Delaware                        2015      327387
+                                              2015     3379403
+                                              2016     7488139
+                                              2017     1575475
+University of Delaware                        2015     1357597
 ```
 ---

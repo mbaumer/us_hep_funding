@@ -9,32 +9,33 @@ permalink : /states/NE/
 
 [NE-01](#NE-01)  [NE-02](#NE-02)  [NE-03](#NE-03)  
 
-# NE -- Sen. Deb Fischer (R) and  Sen. Benjamin Sasse (R)
+# NE -- Sen. Deb Fischer (R) and  Sen. Ben Sasse (R)
 ## Committees
 Deb Fischer is the #5 Republican on the Senate Committee on Commerce, Science, and Transportation 
 
-Benjamin Sasse is not on any of our key committees 
+Ben Sasse is not on any of our key committees 
 
 ## HEP Grants
 ```
-This state received no SC HEP grants from 2012-2016
+This state received no SC HEP grants from 2012-2017
 ```
 ## SC Contracts
 ```
-This state received no SC contracts from 2012-2017
+This state received no SC contracts from 2012-2018
 ```
 ## NSF MPS Grants
 ```
-In the past 5 years, this state has received:
-66 NSF MPS grants, totalling $20,585,624.00
+In the past 6 years, this state has received:
+123 NSF MPS grants, totalling $41,104,261.00
  
-                                               Amount ($)
-Institution                                              
-UNIVERSITY OF NEBRASKA                            8703224
-BOARD OF REGENTS OF THE UNIVERSITY OF NEBRASK     8129985
-U of Nebraska-Lincoln                             3554915
-DOANE COLLEGE                                      105000
-CREIGHTON UNIVERSITY                                92500
+                                                Amount ($)
+Institution                                               
+BOARD OF REGENTS OF THE UNIVERSITY OF NEBRASK     19566763
+UNIVERSITY OF NEBRASKA                            12617930
+U of Nebraska-Lincoln                              4413570
+BOARD OF REGENTS OF THE UNIVERSITY OF NEBRASKA     4308498
+DOANE COLLEGE                                       105000
+CREIGHTON UNIVERSITY                                 92500
 ```
 ---
 ---
@@ -48,22 +49,26 @@ Jeff Fortenberry is the #4 Republican on the House Appropriations Subcommittee o
 
 ### HEP Grants
 ```
-This district received no SC HEP grants from 2012-2016
+This district received no SC HEP grants from 2012-2017
 ```
 ### SC Contracts
 ```
-This district received no SC contracts from 2012-2017
+This district received no SC contracts from 2012-2018
 ```
 ### NSF MPS Grants
 ```
-In the past 5 years, this district has received: $20,388,124.00 in NSF MPS grants.
-                                                    Amount ($)
-Institution                                   Year            
-BOARD OF REGENTS OF THE UNIVERSITY OF NEBRASK 2014     8129985
-U of Nebraska-Lincoln                         2015     3554915
-UNIVERSITY OF NEBRASKA                        2012     4612438
-                                              2013     3944187
-                                              2014      146599
+In the past 6 years, this district has received: $40,906,761.00 in NSF MPS grants.
+                                                     Amount ($)
+Institution                                    Year            
+BOARD OF REGENTS OF THE UNIVERSITY OF NEBRASK  2014     8129985
+                                               2015     7154675
+                                               2016     4282103
+BOARD OF REGENTS OF THE UNIVERSITY OF NEBRASKA 2017     4308498
+U of Nebraska-Lincoln                          2015     4413570
+UNIVERSITY OF NEBRASKA                         2012     4612438
+                                               2013     3944187
+                                               2014      146599
+                                               2016     3914706
 ```
 ---
 <a name="NE-02"></a>
@@ -74,15 +79,15 @@ Don Bacon is not on any of our key committees
 
 ### HEP Grants
 ```
-This district received no SC HEP grants from 2012-2016
+This district received no SC HEP grants from 2012-2017
 ```
 ### SC Contracts
 ```
-This district received no SC contracts from 2012-2017
+This district received no SC contracts from 2012-2018
 ```
 ### NSF MPS Grants
 ```
-In the past 5 years, this district has received: $92,500.00 in NSF MPS grants.
+In the past 6 years, this district has received: $92,500.00 in NSF MPS grants.
                            Amount ($)
 Institution          Year            
 CREIGHTON UNIVERSITY 2012       92500
@@ -96,15 +101,15 @@ Adrian Smith is not on any of our key committees
 
 ### HEP Grants
 ```
-This district received no SC HEP grants from 2012-2016
+This district received no SC HEP grants from 2012-2017
 ```
 ### SC Contracts
 ```
-This district received no SC contracts from 2012-2017
+This district received no SC contracts from 2012-2018
 ```
 ### NSF MPS Grants
 ```
-In the past 5 years, this district has received: $105,000.00 in NSF MPS grants.
+In the past 6 years, this district has received: $105,000.00 in NSF MPS grants.
                     Amount ($)
 Institution   Year            
 DOANE COLLEGE 2012      105000
