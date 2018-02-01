@@ -5,10 +5,28 @@
 layout: page
 ---
 
-<div align="center">
-<b><i>1/31/18: Updated with data for 2017-18!</i></b>
-<p/>
+<style type='text/css'>
+
+.alert {
+  position: relative;
+  padding: 0.75rem 1.25rem;
+  margin-bottom: 1rem;
+  border: 1px solid transparent;
+  border-radius: 0.25rem;
+}
+
+.alert-info {
+  color: #fdfdfd;
+  background-color: #2a7ae2;
+  border-color: #bee5eb;
+}
+
+</style>
+
+<div class="alert alert-info">
+  <strong>1/31/18:</strong> Updated Members of Congress, committee assignments, and HEP spending data (complete for FY17, partial for FY18).
 </div>
+
 
 [**High-energy physics (HEP) research**](http://www.usparticlephysics.org/index.html) has wide-ranging impacts on technology, innovation, and education in the United States. In addition to HEP's national importance, Congressional offices are also concerned with the **local economic impact** of federal HEP spending in their respective districts and states.
 
