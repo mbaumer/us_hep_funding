@@ -18,7 +18,7 @@ layout: page
 .alert-info {
   color: #fdfdfd;
   background-color: #2a7ae2;
-  border-color: #bee5eb;
+  border-color: #fdfdfd;
 }
 
 </style>
