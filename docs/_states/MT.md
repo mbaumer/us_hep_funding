@@ -36,10 +36,10 @@ In the past 6 years, this state has received:
  
                                Amount ($)
 Institution                              
-MONTANA STATE UNIVERSITY, INC     6286329
-UNIVERSITY OF MONTANA SYSTEM      2225944
-UNIVERSITY OF MONTANA              342872
-Montana State University           274832
+MONTANA STATE UNIVERSITY, INC   6286329.0
+UNIVERSITY OF MONTANA SYSTEM    2225944.0
+UNIVERSITY OF MONTANA            342872.0
+Montana State University         274832.0
 ```
 ---
 ---
@@ -62,19 +62,19 @@ This district received no SC contracts from 2012-2018
 In the past 6 years, this district has received: $9,129,977.00 in NSF MPS grants.
                                     Amount ($)
 Institution                   Year            
-MONTANA STATE UNIVERSITY, INC 2012     2151989
-                              2013     1063963
-                              2014      975356
-                              2015      986985
-                              2016     1073059
-                              2017       34977
-Montana State University      2015      274832
-UNIVERSITY OF MONTANA         2016      270000
-                              2017       72872
-UNIVERSITY OF MONTANA SYSTEM  2012      246565
-                              2013      796630
-                              2014      270000
-                              2015      412750
-                              2016      499999
+MONTANA STATE UNIVERSITY, INC 2012   2151989.0
+                              2013   1063963.0
+                              2014    975356.0
+                              2015    986985.0
+                              2016   1073059.0
+                              2017     34977.0
+Montana State University      2015    274832.0
+UNIVERSITY OF MONTANA         2016    270000.0
+                              2017     72872.0
+UNIVERSITY OF MONTANA SYSTEM  2012    246565.0
+                              2013    796630.0
+                              2014    270000.0
+                              2015    412750.0
+                              2016    499999.0
 ```
 ---

@@ -37,13 +37,23 @@ def clean_doe_grant_data():
     data0 = pd.read_excel('../data/doe_grants/2017.xlsx')
     data = pd.read_excel('../data/doe_grants/2016.xlsx')
     data2 = pd.read_excel('../data/doe_grants/2015.xlsx',
-                          sheetname='DOE SC Awards FY 2015')
+                          sheet_name='DOE SC Awards FY 2015')
     data3 = pd.read_excel('../data/doe_grants/2014.xlsx',
-                          sheetname='DOE SC Awards FY 2014')
+                          sheet_name='DOE SC Awards FY 2014')
     data4 = pd.read_excel('../data/doe_grants/2013.xlsx',
-                          sheetname='DOE SC Awards FY 2013', skiprows=1)
+                          sheet_name='DOE SC Awards FY 2013', skiprows=1)
     data5 = pd.read_excel('../data/doe_grants/2012.xlsx',
-                          sheetname='DOE SC Awards FY 2012')
+                          sheet_name='DOE SC Awards FY 2012')
+
+    ### FIXES TO RAW DATA
+    data2.loc[data2['Institution'] == 'University of Minnesota', 'Congressional District'] = 'MN-05'
+    data4.loc[data4['Institution'] == 'CALIFORNIA INST. OF TECHNOLOGY', 'Congressional District *'] = 'CA-27'
+    data3.loc[data3['Institution'] == 'California Institute of Technology (CalTech)', 'Congressional District'] = 'CA-27'
+    data2.loc[data2['Institution'] == 'California Institute of Technology', 'Congressional District'] = 'CA-27'
+    data.loc[data['Institution'] == 'California Institute of Technology', 'Congressional District'] = 'CA-27'
+    data0.loc[data0['Institution'] == 'California Institute of Technology', 'Congressional District'] = 'CA-27'
+    ### END FIXES
+
     institutions = pd.concat([data0['Institution'], data['Institution'], data2['Institution'],
                               data3['Institution'], data4['Institution'], data5['Institution']], ignore_index=True, axis=0)
     districts = pd.concat([data0['Congressional District'], data['Congressional District'], data2['Congressional District'],

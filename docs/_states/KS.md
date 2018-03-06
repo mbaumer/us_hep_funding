@@ -26,10 +26,10 @@ In the past 6 years, this state has received:
  
                          Amount ($)
 Institution                        
-Kansas State University     3096000
-KANSAS STATE UNIVERSITY     1695000
-University of Kansas         449500
-UNIVERSITY OF KANSAS         258000
+Kansas State University   3096000.0
+KANSAS STATE UNIVERSITY   1695000.0
+University of Kansas       449500.0
+UNIVERSITY OF KANSAS       258000.0
 ```
 ## SC Contracts
 ```
@@ -49,14 +49,14 @@ In the past 6 years, this state has received:
  
                                                 Amount ($)
 Institution                                               
-UNIVERSITY OF KANSAS CENTER FOR RESEARCH, INC     14751156
-KANSAS STATE UNIVERSITY                            8839202
-UNIVERSITY OF KANSAS CENTER FOR RESEARCH, INC.     3400906
-WICHITA STATE UNIVERSITY                           1766029
-U of Kansas Ctr for Res In                          370149
-EMPORIA STATE UNIVERSITY                            150000
-Wichita State University                             31500
-Kansas State University                              16660
+UNIVERSITY OF KANSAS CENTER FOR RESEARCH, INC   14751156.0
+KANSAS STATE UNIVERSITY                          8839202.0
+UNIVERSITY OF KANSAS CENTER FOR RESEARCH, INC.   3400906.0
+WICHITA STATE UNIVERSITY                         1766029.0
+U of Kansas Ctr for Res In                        370149.0
+EMPORIA STATE UNIVERSITY                          150000.0
+Wichita State University                           31500.0
+Kansas State University                            16660.0
 ```
 ---
 ---
@@ -71,12 +71,12 @@ Roger W. Marshall is the #9 Republican on the House Committee on Science, Space,
 ### HEP Grants
 ```
 In the past 6 years, this district has received: $3,096,000.00 in SC HEP grants.
-                              Amount ($)
-Institution             Year            
-Kansas State University 2014      631000
-                        2015      750000
-                        2016      765000
-                        2017      950000
+                                Amount ($)
+Institution             Year              
+Kansas State University 2014.0    631000.0
+                        2015.0    750000.0
+                        2016.0    765000.0
+                        2017.0    950000.0
 ```
 ### SC Contracts
 ```
@@ -87,12 +87,12 @@ This district received no SC contracts from 2012-2018
 In the past 6 years, this district has received: $6,191,781.00 in NSF MPS grants.
                               Amount ($)
 Institution             Year            
-KANSAS STATE UNIVERSITY 2013     1136720
-                        2014      578637
-                        2015     2358606
-                        2016       17924
-                        2017     2083234
-Kansas State University 2015       16660
+KANSAS STATE UNIVERSITY 2013   1136720.0
+                        2014    578637.0
+                        2015   2358606.0
+                        2016     17924.0
+                        2017   2083234.0
+Kansas State University 2015     16660.0
 ```
 ---
 <a name="KS-02"></a>
@@ -104,16 +104,16 @@ Lynn Jenkins is not on any of our key committees
 ### HEP Grants
 ```
 In the past 6 years, this district has received: $2,402,500.00 in SC HEP grants.
-                              Amount ($)
-Institution             Year            
-KANSAS STATE UNIVERSITY 2012      775000
-                        2013      920000
-UNIVERSITY OF KANSAS    2012      210000
-                        2013       48000
-University of Kansas    2014       47500
-                        2015      140000
-                        2016           0
-                        2017      262000
+                                Amount ($)
+Institution             Year              
+KANSAS STATE UNIVERSITY 2012.0    775000.0
+                        2013.0    920000.0
+UNIVERSITY OF KANSAS    2012.0    210000.0
+                        2013.0     48000.0
+University of Kansas    2014.0     47500.0
+                        2015.0    140000.0
+                        2016.0         0.0
+                        2017.0    262000.0
 ```
 ### SC Contracts
 ```
@@ -124,13 +124,13 @@ This district received no SC contracts from 2012-2018
 In the past 6 years, this district has received: $17,561,498.00 in NSF MPS grants.
                                                      Amount ($)
 Institution                                    Year            
-KANSAS STATE UNIVERSITY                        2012     2664081
-U of Kansas Ctr for Res In                     2015      370149
-UNIVERSITY OF KANSAS CENTER FOR RESEARCH, INC  2013     3227973
-                                               2014     2785414
-                                               2015     1901601
-                                               2016     3211374
-UNIVERSITY OF KANSAS CENTER FOR RESEARCH, INC. 2017     3400906
+KANSAS STATE UNIVERSITY                        2012   2664081.0
+U of Kansas Ctr for Res In                     2015    370149.0
+UNIVERSITY OF KANSAS CENTER FOR RESEARCH, INC  2013   3227973.0
+                                               2014   2785414.0
+                                               2015   1901601.0
+                                               2016   3211374.0
+UNIVERSITY OF KANSAS CENTER FOR RESEARCH, INC. 2017   3400906.0
 ```
 ---
 <a name="KS-03"></a>
@@ -157,8 +157,8 @@ FISHNET SECURITY, INC. 2013           22004.62
 In the past 6 years, this district has received: $3,624,794.00 in NSF MPS grants.
                                                     Amount ($)
 Institution                                   Year            
-UNIVERSITY OF KANSAS CENTER FOR RESEARCH, INC 2012     3549051
-                                              2013       75743
+UNIVERSITY OF KANSAS CENTER FOR RESEARCH, INC 2012   3549051.0
+                                              2013     75743.0
 ```
 ---
 <a name="KS-04"></a>
@@ -180,11 +180,11 @@ This district received no SC contracts from 2012-2018
 In the past 6 years, this district has received: $1,947,529.00 in NSF MPS grants.
                                Amount ($)
 Institution              Year            
-EMPORIA STATE UNIVERSITY 2016      150000
-WICHITA STATE UNIVERSITY 2012      616011
-                         2015      274000
-                         2016      508018
-                         2017      368000
-Wichita State University 2015       31500
+EMPORIA STATE UNIVERSITY 2016    150000.0
+WICHITA STATE UNIVERSITY 2012    616011.0
+                         2015    274000.0
+                         2016    508018.0
+                         2017    368000.0
+Wichita State University 2015     31500.0
 ```
 ---

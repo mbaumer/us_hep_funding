@@ -36,13 +36,13 @@ In the past 6 years, this state has received:
  
                                        Amount ($)
 Institution                                      
-UNIVERSITY OF MAINE SYSTEM                3083302
-COLBY COLLEGE                              948594
-UNIVERSITY OF NEW ENGLAND                  792365
-BOWDOIN COLLEGE                            715155
-PRESIDENT & TRUSTEES OF BATES COLLEGE      504847
-Bowdoin College                            106000
-Colby College                               22957
+UNIVERSITY OF MAINE SYSTEM              3083302.0
+COLBY COLLEGE                            948594.0
+UNIVERSITY OF NEW ENGLAND                792365.0
+BOWDOIN COLLEGE                          715155.0
+PRESIDENT & TRUSTEES OF BATES COLLEGE    504847.0
+Bowdoin College                          106000.0
+Colby College                             22957.0
 ```
 ---
 ---
@@ -65,18 +65,18 @@ This district received no SC contracts from 2012-2018
 In the past 6 years, this district has received: $2,377,071.00 in NSF MPS grants.
                                 Amount ($)
 Institution               Year            
-BOWDOIN COLLEGE           2012      149980
-                          2013       62000
-                          2014      292514
-                          2016       98600
-                          2017      112061
-Bowdoin College           2015      106000
-COLBY COLLEGE             2013      378670
-                          2014       29690
-                          2017      332234
-Colby College             2015       22957
-UNIVERSITY OF NEW ENGLAND 2013      417785
-                          2015      374580
+BOWDOIN COLLEGE           2012    149980.0
+                          2013     62000.0
+                          2014    292514.0
+                          2016     98600.0
+                          2017    112061.0
+Bowdoin College           2015    106000.0
+COLBY COLLEGE             2013    378670.0
+                          2014     29690.0
+                          2017    332234.0
+Colby College             2015     22957.0
+UNIVERSITY OF NEW ENGLAND 2013    417785.0
+                          2015    374580.0
 ```
 ---
 <a name="ME-02"></a>
@@ -98,15 +98,15 @@ This district received no SC contracts from 2012-2018
 In the past 6 years, this district has received: $3,796,149.00 in NSF MPS grants.
                                             Amount ($)
 Institution                           Year            
-COLBY COLLEGE                         2012      208000
-PRESIDENT & TRUSTEES OF BATES COLLEGE 2012      518036
-                                      2013       56000
-                                      2014       41450
-                                      2015     -110639
-UNIVERSITY OF MAINE SYSTEM            2012     1800000
-                                      2013      722500
-                                      2014      214352
-                                      2015       18907
-                                      2017      327543
+COLBY COLLEGE                         2012    208000.0
+PRESIDENT & TRUSTEES OF BATES COLLEGE 2012    518036.0
+                                      2013     56000.0
+                                      2014     41450.0
+                                      2015   -110639.0
+UNIVERSITY OF MAINE SYSTEM            2012   1800000.0
+                                      2013    722500.0
+                                      2014    214352.0
+                                      2015     18907.0
+                                      2017    327543.0
 ```
 ---

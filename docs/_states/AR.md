@@ -37,12 +37,12 @@ In the past 6 years, this state has received:
  
                                         Amount ($)
 Institution                                       
-UNIVERSITY OF ARKANSAS SYSTEM              7605200
-U of Arkansas                               372474
-UNIVERSITY OF CENTRAL ARKANSAS              318913
-UNIVERSITY OF ARKANSAS SYSTEM191429745      201631
-UNIVERSITY OF ARKANSAS SYSTEM036725083       74074
-ARKANSAS STATE UNIVERSITY                    34000
+UNIVERSITY OF ARKANSAS SYSTEM            7605200.0
+U of Arkansas                             372474.0
+UNIVERSITY OF CENTRAL ARKANSAS            318913.0
+UNIVERSITY OF ARKANSAS SYSTEM191429745    201631.0
+UNIVERSITY OF ARKANSAS SYSTEM036725083     74074.0
+ARKANSAS STATE UNIVERSITY                  34000.0
 ```
 ---
 ---
@@ -65,7 +65,7 @@ This district received no SC contracts from 2012-2018
 In the past 6 years, this district has received: $34,000.00 in NSF MPS grants.
                                 Amount ($)
 Institution               Year            
-ARKANSAS STATE UNIVERSITY 2012       34000
+ARKANSAS STATE UNIVERSITY 2012     34000.0
 ```
 ---
 <a name="AR-02"></a>
@@ -90,12 +90,12 @@ ENTERGY ARKANSAS INCORPORATED 2014          -61384.56
 In the past 6 years, this district has received: $683,588.00 in NSF MPS grants.
                                              Amount ($)
 Institution                            Year            
-UNIVERSITY OF ARKANSAS SYSTEM          2012      419056
-                                       2013     -128455
-UNIVERSITY OF ARKANSAS SYSTEM036725083 2016       74074
-UNIVERSITY OF CENTRAL ARKANSAS         2013       95000
-                                       2016      223913
-                                       2017           0
+UNIVERSITY OF ARKANSAS SYSTEM          2012    419056.0
+                                       2013   -128455.0
+UNIVERSITY OF ARKANSAS SYSTEM036725083 2016     74074.0
+UNIVERSITY OF CENTRAL ARKANSAS         2013     95000.0
+                                       2016    223913.0
+                                       2017         0.0
 ```
 ---
 <a name="AR-03"></a>
@@ -117,14 +117,14 @@ This district received no SC contracts from 2012-2018
 In the past 6 years, this district has received: $7,888,704.00 in NSF MPS grants.
                                              Amount ($)
 Institution                            Year            
-U of Arkansas                          2015      372474
-UNIVERSITY OF ARKANSAS SYSTEM          2012     1225843
-                                       2013     1498220
-                                       2014      683393
-                                       2015       14200
-                                       2016      869840
-                                       2017     3023103
-UNIVERSITY OF ARKANSAS SYSTEM191429745 2016      201631
+U of Arkansas                          2015    372474.0
+UNIVERSITY OF ARKANSAS SYSTEM          2012   1225843.0
+                                       2013   1498220.0
+                                       2014    683393.0
+                                       2015     14200.0
+                                       2016    869840.0
+                                       2017   3023103.0
+UNIVERSITY OF ARKANSAS SYSTEM191429745 2016    201631.0
 ```
 ---
 <a name="AR-04"></a>

@@ -22,12 +22,12 @@ Rand Paul is not on any of our key committees
 In the past 6 years, this state has received:
 5 HEP grants, totalling $151,000.00
  
-                               Amount ($)
-Institution              Year            
-UNIVERSITY OF LOUISVILLE 2012           0
-                         2013       78000
-University of Louisville 2014       73000
-                         2015           0
+                                 Amount ($)
+Institution              Year              
+UNIVERSITY OF LOUISVILLE 2012.0         0.0
+                         2013.0     78000.0
+University of Louisville 2014.0     73000.0
+                         2015.0         0.0
 ```
 ## SC Contracts
 ```
@@ -52,15 +52,15 @@ In the past 6 years, this state has received:
  
                                                     Amount ($)
 Institution                                                   
-UNIVERSITY OF KENTUCKY                                12732673
-UNIVERSITY OF LOUISVILLE                               3513743
-NORTHERN KENTUCKY UNIVERSITY RESEARCH FOUNDAT          1204357
-WESTERN KENTUCKY UNIVERSITY RESEARCH FOUNDATI          1180275
-NORTHERN KENTUCKY UNIVERSITY RESEARCH FOUNDATIO...      242979
-MURRAY STATE UNIVERSITY                                 224565
-EASTERN KENTUCKY UNIVERSITY                             143420
-U of Louisville Res Fdn                                  95363
-U of Kentucky Res Fdn                                    59557
+UNIVERSITY OF KENTUCKY                              12732673.0
+UNIVERSITY OF LOUISVILLE                             3513743.0
+NORTHERN KENTUCKY UNIVERSITY RESEARCH FOUNDAT        1204357.0
+WESTERN KENTUCKY UNIVERSITY RESEARCH FOUNDATI        1180275.0
+NORTHERN KENTUCKY UNIVERSITY RESEARCH FOUNDATIO...    242979.0
+MURRAY STATE UNIVERSITY                               224565.0
+EASTERN KENTUCKY UNIVERSITY                           143420.0
+U of Louisville Res Fdn                                95363.0
+U of Kentucky Res Fdn                                  59557.0
 ```
 ---
 ---
@@ -93,8 +93,8 @@ ELECTRIC ENERGY INCORPORATED    2012          350000.00
 In the past 6 years, this district has received: $224,565.00 in NSF MPS grants.
                               Amount ($)
 Institution             Year            
-MURRAY STATE UNIVERSITY 2014      149940
-                        2017       74625
+MURRAY STATE UNIVERSITY 2014    149940.0
+                        2017     74625.0
 ```
 ---
 <a name="KY-02"></a>
@@ -118,10 +118,10 @@ This district received no SC contracts from 2012-2018
 In the past 6 years, this district has received: $1,180,275.00 in NSF MPS grants.
                                                     Amount ($)
 Institution                                   Year            
-WESTERN KENTUCKY UNIVERSITY RESEARCH FOUNDATI 2012      254000
-                                              2013      497999
-                                              2015      300468
-                                              2016      127808
+WESTERN KENTUCKY UNIVERSITY RESEARCH FOUNDATI 2012    254000.0
+                                              2013    497999.0
+                                              2015    300468.0
+                                              2016    127808.0
 ```
 ---
 <a name="KY-03"></a>
@@ -133,12 +133,12 @@ John A. Yarmuth is not on any of our key committees
 ### HEP Grants
 ```
 In the past 6 years, this district has received: $151,000.00 in SC HEP grants.
-                               Amount ($)
-Institution              Year            
-UNIVERSITY OF LOUISVILLE 2012           0
-                         2013       78000
-University of Louisville 2014       73000
-                         2015           0
+                                 Amount ($)
+Institution              Year              
+UNIVERSITY OF LOUISVILLE 2012.0         0.0
+                         2013.0     78000.0
+University of Louisville 2014.0     73000.0
+                         2015.0         0.0
 ```
 ### SC Contracts
 ```
@@ -149,13 +149,13 @@ This district received no SC contracts from 2012-2018
 In the past 6 years, this district has received: $3,609,106.00 in NSF MPS grants.
                                Amount ($)
 Institution              Year            
-U of Louisville Res Fdn  2015       95363
-UNIVERSITY OF LOUISVILLE 2012      609075
-                         2013      260000
-                         2014      857526
-                         2015      813917
-                         2016      523225
-                         2017      450000
+U of Louisville Res Fdn  2015     95363.0
+UNIVERSITY OF LOUISVILLE 2012    609075.0
+                         2013    260000.0
+                         2014    857526.0
+                         2015    813917.0
+                         2016    523225.0
+                         2017    450000.0
 ```
 ---
 <a name="KY-04"></a>
@@ -179,11 +179,11 @@ This district received no SC contracts from 2012-2018
 In the past 6 years, this district has received: $1,447,336.00 in NSF MPS grants.
                                                          Amount ($)
 Institution                                        Year            
-NORTHERN KENTUCKY UNIVERSITY RESEARCH FOUNDAT      2012      220251
-                                                   2013      165000
-                                                   2015      383429
-                                                   2016      435677
-NORTHERN KENTUCKY UNIVERSITY RESEARCH FOUNDATIO... 2017      242979
+NORTHERN KENTUCKY UNIVERSITY RESEARCH FOUNDAT      2012    220251.0
+                                                   2013    165000.0
+                                                   2015    383429.0
+                                                   2016    435677.0
+NORTHERN KENTUCKY UNIVERSITY RESEARCH FOUNDATIO... 2017    242979.0
 ```
 ---
 <a name="KY-05"></a>
@@ -226,13 +226,13 @@ This district received no SC contracts from 2012-2018
 In the past 6 years, this district has received: $12,935,650.00 in NSF MPS grants.
                                   Amount ($)
 Institution                 Year            
-EASTERN KENTUCKY UNIVERSITY 2016      143420
-U of Kentucky Res Fdn       2015       59557
-UNIVERSITY OF KENTUCKY      2012     2966674
-                            2013     2779915
-                            2014     1309271
-                            2015     1058279
-                            2016     2843255
-                            2017     1775279
+EASTERN KENTUCKY UNIVERSITY 2016    143420.0
+U of Kentucky Res Fdn       2015     59557.0
+UNIVERSITY OF KENTUCKY      2012   2966674.0
+                            2013   2779915.0
+                            2014   1309271.0
+                            2015   1058279.0
+                            2016   2843255.0
+                            2017   1775279.0
 ```
 ---

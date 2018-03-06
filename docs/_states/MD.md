@@ -22,15 +22,15 @@ Chris Van Hollen is the #15 Democrat on the Senate Committee on Appropriations
 In the past 6 years, this state has received:
 38 HEP grants, totalling $13,227,000.00
  
-                                            Amount ($)
-Institution                           Year            
-JOHNS HOPKINS UNIVERSITY              2012      150000
-U. OF MARYLAND, COLLEGE PARK          2012     2871000
-                                      2013     1575000
-University of Maryland - College Park 2014     2259000
-                                      2015     1682000
-                                      2016     2470000
-                                      2017     2220000
+                                              Amount ($)
+Institution                           Year              
+JOHNS HOPKINS UNIVERSITY              2012.0    150000.0
+U. OF MARYLAND, COLLEGE PARK          2012.0   2871000.0
+                                      2013.0   1575000.0
+University of Maryland - College Park 2014.0   2259000.0
+                                      2015.0   1682000.0
+                                      2016.0   2470000.0
+                                      2017.0   2220000.0
 ```
 ## SC Contracts
 ```
@@ -58,16 +58,16 @@ In the past 6 years, this state has received:
  
                                          Amount ($)
 Institution                                        
-UNIVERSITY OF MARYLAND                     62496252
-JOHNS HOPKINS UNIVERSITY, THE              45538565
-BALTIMORE CITY COMMUNITY COLLEGE            8785958
-AMERICAN PHYSICAL SOCIETY, THE              5889344
-UNIVERSITY OF MARYLAND BALTIMORE COUNTY     5468567
-U of MD College Park                        3348176
-Johns Hopkins University                     991822
-MULTIPLE RECIPIENTS                          900000
-TOWSON UNIVERSITY                            828425
-MORGAN STATE UNIVERSITY (INC)                630206
+UNIVERSITY OF MARYLAND                   62496252.0
+JOHNS HOPKINS UNIVERSITY, THE            45538565.0
+BALTIMORE CITY COMMUNITY COLLEGE          8785958.0
+AMERICAN PHYSICAL SOCIETY, THE            5889344.0
+UNIVERSITY OF MARYLAND BALTIMORE COUNTY   5468567.0
+U of MD College Park                      3348176.0
+Johns Hopkins University                   991822.0
+MULTIPLE RECIPIENTS                        900000.0
+TOWSON UNIVERSITY                          828425.0
+MORGAN STATE UNIVERSITY (INC)              630206.0
 and  20  other institutions.
 ```
 ---
@@ -87,8 +87,8 @@ This district received no SC HEP grants from 2012-2017
 In the past 6 years, this district has received: $94,500.00 in SC contracts.
                                        Amount ($)
 vendorname                fiscal_year            
-BROOKFIELD RELOCATION INC 2016              77750
-                          2017              16750
+BROOKFIELD RELOCATION INC 2016            77750.0
+                          2017            16750.0
 ```
 ### NSF MPS Grants
 ```
@@ -130,10 +130,10 @@ TOP-TIER TECHNOLOGIES, INC.    2015            7444.00
 In the past 6 years, this district has received: $1,628,221.00 in NSF MPS grants.
                                        Amount ($)
 Institution                      Year            
-BALTIMORE CITY COMMUNITY COLLEGE 2016      530545
-GOUCHER COLLEGE                  2017      427599
-TOWSON UNIVERSITY                2015      382737
-                                 2017      287340
+BALTIMORE CITY COMMUNITY COLLEGE 2016    530545.0
+GOUCHER COLLEGE                  2017    427599.0
+TOWSON UNIVERSITY                2015    382737.0
+                                 2017    287340.0
 ```
 ---
 <a name="MD-03"></a>
@@ -159,10 +159,10 @@ IMMERSION CONSULTING LLC              2014             9330.0
 In the past 6 years, this district has received: $1,463,209.00 in NSF MPS grants.
                                               Amount ($)
 Institution                             Year            
-JOHNS HOPKINS UNIVERSITY, THE           2012      550134
-                                        2013      304506
-TOWSON UNIVERSITY                       2012      158348
-UNIVERSITY OF MARYLAND BALTIMORE COUNTY 2013      450221
+JOHNS HOPKINS UNIVERSITY, THE           2012    550134.0
+                                        2013    304506.0
+TOWSON UNIVERSITY                       2012    158348.0
+UNIVERSITY OF MARYLAND BALTIMORE COUNTY 2013    450221.0
 ```
 ---
 <a name="MD-04"></a>
@@ -200,7 +200,7 @@ WYNNEWOOD TECHNOLOGIES INCORPORATED        2013          -59393.89
 In the past 6 years, this district has received: $13,148.00 in NSF MPS grants.
                        Amount ($)
 Institution      Year            
-MORAVIAN COLLEGE 2015       13148
+MORAVIAN COLLEGE 2015     13148.0
 ```
 ---
 <a name="MD-05"></a>
@@ -212,14 +212,14 @@ Steny H. Hoyer is not on any of our key committees
 ### HEP Grants
 ```
 In the past 6 years, this district has received: $13,077,000.00 in SC HEP grants.
-                                            Amount ($)
-Institution                           Year            
-U. OF MARYLAND, COLLEGE PARK          2012     2871000
-                                      2013     1575000
-University of Maryland - College Park 2014     2259000
-                                      2015     1682000
-                                      2016     2470000
-                                      2017     2220000
+                                              Amount ($)
+Institution                           Year              
+U. OF MARYLAND, COLLEGE PARK          2012.0   2871000.0
+                                      2013.0   1575000.0
+University of Maryland - College Park 2014.0   2259000.0
+                                      2015.0   1682000.0
+                                      2016.0   2470000.0
+                                      2017.0   2220000.0
 ```
 ### SC Contracts
 ```
@@ -238,33 +238,33 @@ AMERICAN PHYSICAL SOCIETY, THE             2014           58164.00
 In the past 6 years, this district has received: $81,430,220.00 in NSF MPS grants.
                                                          Amount ($)
 Institution                                        Year            
-AMERICAN ASSOCIATION OF PHYSICS TEACHERS INC       2014      128400
-                                                   2017      110543
-AMERICAN INSTITUTE OF PHYSICS INCORPORATED         2013      149413
-AMERICAN PHYSICAL SOCIETY                          2012       99000
-AMERICAN PHYSICAL SOCIETY, THE                     2012     1250000
-                                                   2013     1380960
-                                                   2014      995915
-                                                   2015       33820
-                                                   2016      925719
-                                                   2017     1302930
-AMERICAN UNIVERSITY                                2016       97761
-Assn For Women in Math                             2015       45678
-BALTIMORE CITY COMMUNITY COLLEGE                   2016     8052117
-CATHOLIC UNIVERSITY OF AMERICA (THE)               2012       56996
-                                                   2016      315544
-EDUCATION, MARYLAND DEPARTMENT OF                  2012       88392
-                                                   2016       94244
-GEORGIA TECH RESEARCH CORPORATION                  2013       11419
-MULTIPLE RECIPIENTS                                2012      900000
-U of MD College Park                               2015     3348176
-UNIVERSITY OF MARYLAND                             2012    17539593
-                                                   2013    13909081
-                                                   2014    11774787
-                                                   2015     8434079
-                                                   2016     1741592
-                                                   2017     8144637
-UNIVERSITY OF MARYLAND CENTER FOR ENVIRONMENTAL... 2017      499424
+AMERICAN ASSOCIATION OF PHYSICS TEACHERS INC       2014    128400.0
+                                                   2017    110543.0
+AMERICAN INSTITUTE OF PHYSICS INCORPORATED         2013    149413.0
+AMERICAN PHYSICAL SOCIETY                          2012     99000.0
+AMERICAN PHYSICAL SOCIETY, THE                     2012   1250000.0
+                                                   2013   1380960.0
+                                                   2014    995915.0
+                                                   2015     33820.0
+                                                   2016    925719.0
+                                                   2017   1302930.0
+AMERICAN UNIVERSITY                                2016     97761.0
+Assn For Women in Math                             2015     45678.0
+BALTIMORE CITY COMMUNITY COLLEGE                   2016   8052117.0
+CATHOLIC UNIVERSITY OF AMERICA (THE)               2012     56996.0
+                                                   2016    315544.0
+EDUCATION, MARYLAND DEPARTMENT OF                  2012     88392.0
+                                                   2016     94244.0
+GEORGIA TECH RESEARCH CORPORATION                  2013     11419.0
+MULTIPLE RECIPIENTS                                2012    900000.0
+U of MD College Park                               2015   3348176.0
+UNIVERSITY OF MARYLAND                             2012  17539593.0
+                                                   2013  13909081.0
+                                                   2014  11774787.0
+                                                   2015   8434079.0
+                                                   2016   1741592.0
+                                                   2017   8144637.0
+UNIVERSITY OF MARYLAND CENTER FOR ENVIRONMENTAL... 2017    499424.0
 ```
 ---
 <a name="MD-06"></a>
@@ -351,8 +351,8 @@ WESTWIND COMPUTER PRODUCTS, INC.                   2016            4571.00
 In the past 6 years, this district has received: $110,000.00 in NSF MPS grants.
                                                    Amount ($)
 Institution                                  Year            
-TEMPLE UNIVERSITY-OF THE COMMONWEALTH SYSTEM 2013       55000
-                                             2016       55000
+TEMPLE UNIVERSITY-OF THE COMMONWEALTH SYSTEM 2013     55000.0
+                                             2016     55000.0
 ```
 ---
 <a name="MD-07"></a>
@@ -364,9 +364,9 @@ Elijah E. Cummings is not on any of our key committees
 ### HEP Grants
 ```
 In the past 6 years, this district has received: $150,000.00 in SC HEP grants.
-                               Amount ($)
-Institution              Year            
-JOHNS HOPKINS UNIVERSITY 2012      150000
+                                 Amount ($)
+Institution              Year              
+JOHNS HOPKINS UNIVERSITY 2012.0    150000.0
 ```
 ### SC Contracts
 ```
@@ -386,28 +386,28 @@ EXETER ASSOCIATES, INC. 2012         -408667.00
 In the past 6 years, this district has received: $52,630,078.00 in NSF MPS grants.
                                               Amount ($)
 Institution                             Year            
-BALTIMORE CITY COMMUNITY COLLEGE        2016      203296
-JOHNS HOPKINS UNIVERSITY, THE           2012     7652918
-                                        2013     6782368
-                                        2014     9978677
-                                        2015     2596995
-                                        2016     8972049
-                                        2017     8700918
-Johns Hopkins University                2015      991822
-MORGAN STATE UNIVERSITY                 2017           0
-MORGAN STATE UNIVERSITY (INC)           2012      283608
-                                        2013      346598
-PII Redacted                            2017      150000
-UNIVERSITY OF MARYLAND                  2012       96307
-                                        2013      301176
-                                        2015      105000
-                                        2017      450000
-UNIVERSITY OF MARYLAND BALTIMORE COUNTY 2012      230860
-                                        2013      829983
-                                        2014      369043
-                                        2015     2841421
-                                        2016      537337
-                                        2017      209702
+BALTIMORE CITY COMMUNITY COLLEGE        2016    203296.0
+JOHNS HOPKINS UNIVERSITY, THE           2012   7652918.0
+                                        2013   6782368.0
+                                        2014   9978677.0
+                                        2015   2596995.0
+                                        2016   8972049.0
+                                        2017   8700918.0
+Johns Hopkins University                2015    991822.0
+MORGAN STATE UNIVERSITY                 2017         0.0
+MORGAN STATE UNIVERSITY (INC)           2012    283608.0
+                                        2013    346598.0
+PII Redacted                            2017    150000.0
+UNIVERSITY OF MARYLAND                  2012     96307.0
+                                        2013    301176.0
+                                        2015    105000.0
+                                        2017    450000.0
+UNIVERSITY OF MARYLAND BALTIMORE COUNTY 2012    230860.0
+                                        2013    829983.0
+                                        2014    369043.0
+                                        2015   2841421.0
+                                        2016    537337.0
+                                        2017    209702.0
 ```
 ---
 <a name="MD-08"></a>
@@ -440,11 +440,11 @@ ROBERTSINTERNATIONAL, LLC                          2012            51050.0
 In the past 6 years, this district has received: $704,395.00 in NSF MPS grants.
                                                     Amount ($)
 Institution                                   Year            
-HENRY M. JACKSON FOUNDATION FOR THE ADVANCEME 2014      149376
-MONTGOMERY COMMUNITY COLLEGE                  2016       39449
-MOUNT SAINT MARY'S UNIVERSITY, INC.           2013      329481
-REGENTS OF THE UNIVERSITY OF MICHIGAN         2016       97842
-THE GEORGE WASHINGTON UNIVERSITY              2014       63270
-UNIVERSITY OF NORTH CAROLINA AT WILMINGTON    2012       24977
+HENRY M. JACKSON FOUNDATION FOR THE ADVANCEME 2014    149376.0
+MONTGOMERY COMMUNITY COLLEGE                  2016     39449.0
+MOUNT SAINT MARY'S UNIVERSITY, INC.           2013    329481.0
+REGENTS OF THE UNIVERSITY OF MICHIGAN         2016     97842.0
+THE GEORGE WASHINGTON UNIVERSITY              2014     63270.0
+UNIVERSITY OF NORTH CAROLINA AT WILMINGTON    2012     24977.0
 ```
 ---

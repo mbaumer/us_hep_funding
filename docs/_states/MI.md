@@ -24,14 +24,14 @@ In the past 6 years, this state has received:
  
                                    Amount ($)
 Institution                                  
-University of Michigan               14715000
-UNIVERSITY OF MICHIGAN                8558000
-Michigan State University             3215000
-Wayne State University                2502000
-WAYNE STATE UNIVERSITY                 982000
-MICHIGAN STATE UNIVERSITY              899000
-MICHIGAN TECH. UNIVERSITY              505000
-Michigan Technological University      385000
+University of Michigan             14715000.0
+UNIVERSITY OF MICHIGAN              8558000.0
+Michigan State University           3215000.0
+Wayne State University              2502000.0
+WAYNE STATE UNIVERSITY               982000.0
+MICHIGAN STATE UNIVERSITY            899000.0
+MICHIGAN TECH. UNIVERSITY            505000.0
+Michigan Technological University    385000.0
 ```
 ## SC Contracts
 ```
@@ -50,18 +50,18 @@ SEI, INC.                         -1249.90
 In the past 6 years, this state has received:
 939 NSF MPS grants, totalling $313,190,922.00
  
-                                       Amount ($)
-Institution                                      
-MICHIGAN STATE UNIVERSITY               161723509
-REGENTS OF THE UNIVERSITY OF MICHIGAN    93379220
-Michigan State University                23090000
-WAYNE STATE UNIVERSITY (INC)             10093014
-MICHIGAN TECHNOLOGICAL UNIVERSITY         6353412
-CENTRAL MICHIGAN UNIVERSITY (INC)         2534275
-WESTERN MICHIGAN UNIVERSITY               2385994
-University of Michigan                    2074214
-HOPE COLLEGE                              1975921
-OAKLAND UNIVERSITY                        1842234
+                                        Amount ($)
+Institution                                       
+MICHIGAN STATE UNIVERSITY              161723509.0
+REGENTS OF THE UNIVERSITY OF MICHIGAN   93379220.0
+Michigan State University               23090000.0
+WAYNE STATE UNIVERSITY (INC)            10093014.0
+MICHIGAN TECHNOLOGICAL UNIVERSITY        6353412.0
+CENTRAL MICHIGAN UNIVERSITY (INC)        2534275.0
+WESTERN MICHIGAN UNIVERSITY              2385994.0
+University of Michigan                   2074214.0
+HOPE COLLEGE                             1975921.0
+OAKLAND UNIVERSITY                       1842234.0
 and  15  other institutions.
 ```
 ---
@@ -75,12 +75,12 @@ Jack Bergman is not on any of our key committees
 ### HEP Grants
 ```
 In the past 6 years, this district has received: $890,000.00 in SC HEP grants.
-                                        Amount ($)
-Institution                       Year            
-MICHIGAN TECH. UNIVERSITY         2012      255000
-                                  2013      250000
-Michigan Technological University 2014      385000
-                                  2015           0
+                                          Amount ($)
+Institution                       Year              
+MICHIGAN TECH. UNIVERSITY         2012.0    255000.0
+                                  2013.0    250000.0
+Michigan Technological University 2014.0    385000.0
+                                  2015.0         0.0
 ```
 ### SC Contracts
 ```
@@ -91,13 +91,13 @@ This district received no SC contracts from 2012-2018
 In the past 6 years, this district has received: $6,752,912.00 in NSF MPS grants.
                                         Amount ($)
 Institution                       Year            
-LAKE SUPERIOR STATE UNIVERSITY    2016      399500
-MICHIGAN TECHNOLOGICAL UNIVERSITY 2012     2561774
-                                  2013      767531
-                                  2014     2071707
-                                  2015      307527
-                                  2016       17446
-                                  2017      627427
+LAKE SUPERIOR STATE UNIVERSITY    2016    399500.0
+MICHIGAN TECHNOLOGICAL UNIVERSITY 2012   2561774.0
+                                  2013    767531.0
+                                  2014   2071707.0
+                                  2015    307527.0
+                                  2016     17446.0
+                                  2017    627427.0
 ```
 ---
 <a name="MI-02"></a>
@@ -122,16 +122,16 @@ HERMAN MILLER, INC. 2016           21273.78
 In the past 6 years, this district has received: $2,662,898.00 in NSF MPS grants.
                                     Amount ($)
 Institution                   Year            
-GRAND VALLEY STATE UNIVERSITY 2013       76638
-                              2014       76722
-                              2015       10590
-                              2017      526932
-Grand Valley State Univ       2015       76809
-HOPE COLLEGE                  2012      690348
-                              2013      669106
-                              2015      284338
-                              2016      225366
-MICHIGAN STATE UNIVERSITY     2014       26049
+GRAND VALLEY STATE UNIVERSITY 2013     76638.0
+                              2014     76722.0
+                              2015     10590.0
+                              2017    526932.0
+Grand Valley State Univ       2015     76809.0
+HOPE COLLEGE                  2012    690348.0
+                              2013    669106.0
+                              2015    284338.0
+                              2016    225366.0
+MICHIGAN STATE UNIVERSITY     2014     26049.0
 ```
 ---
 <a name="MI-03"></a>
@@ -156,13 +156,13 @@ SEI, INC.  2012            -1249.9
 In the past 6 years, this district has received: $1,861,351.00 in NSF MPS grants.
                                     Amount ($)
 Institution                   Year            
-ALBION COLLEGE                2015      193612
-CALVIN COLLEGE                2012      301720
-                              2013      432128
-                              2014       29473
-                              2016       89179
-                              2017      809239
-GRAND VALLEY STATE UNIVERSITY 2017        6000
+ALBION COLLEGE                2015    193612.0
+CALVIN COLLEGE                2012    301720.0
+                              2013    432128.0
+                              2014     29473.0
+                              2016     89179.0
+                              2017    809239.0
+GRAND VALLEY STATE UNIVERSITY 2017      6000.0
 ```
 ---
 <a name="MI-04"></a>
@@ -184,13 +184,13 @@ This district received no SC contracts from 2012-2018
 In the past 6 years, this district has received: $2,516,064.00 in NSF MPS grants.
                                         Amount ($)
 Institution                       Year            
-CENTRAL MICHIGAN UNIVERSITY (INC) 2012      510031
-                                  2013      258471
-                                  2014      674021
-                                  2016      263693
-                                  2017      741475
-Central Michigan U                2015      -11340
-MICHIGAN STATE UNIVERSITY         2016       79713
+CENTRAL MICHIGAN UNIVERSITY (INC) 2012    510031.0
+                                  2013    258471.0
+                                  2014    674021.0
+                                  2016    263693.0
+                                  2017    741475.0
+Central Michigan U                2015    -11340.0
+MICHIGAN STATE UNIVERSITY         2016     79713.0
 ```
 ---
 <a name="MI-05"></a>
@@ -212,9 +212,9 @@ This district received no SC contracts from 2012-2018
 In the past 6 years, this district has received: $1,181,558.00 in NSF MPS grants.
                            Amount ($)
 Institution          Year            
-KETTERING UNIVERSITY 2013       77808
-                     2014      560150
-                     2015      543600
+KETTERING UNIVERSITY 2013     77808.0
+                     2014    560150.0
+                     2015    543600.0
 ```
 ---
 <a name="MI-06"></a>
@@ -232,22 +232,22 @@ This district received no SC HEP grants from 2012-2017
 In the past 6 years, this district has received: $6,300.00 in SC contracts.
                                             Amount ($)
 vendorname                     fiscal_year            
-USER FRIENDLY CONSULTING, INC. 2016               6300
+USER FRIENDLY CONSULTING, INC. 2016             6300.0
 ```
 ### NSF MPS Grants
 ```
 In the past 6 years, this district has received: $3,051,231.00 in NSF MPS grants.
                                   Amount ($)
 Institution                 Year            
-ANDREWS UNIVERSITY INC      2014      292927
-HOPE COLLEGE                2017      106763
-KALAMAZOO COLLEGE           2012       45000
-                            2014      220547
-WESTERN MICHIGAN UNIVERSITY 2012      225000
-                            2013      748106
-                            2014      729207
-                            2015      308602
-                            2017      375079
+ANDREWS UNIVERSITY INC      2014    292927.0
+HOPE COLLEGE                2017    106763.0
+KALAMAZOO COLLEGE           2012     45000.0
+                            2014    220547.0
+WESTERN MICHIGAN UNIVERSITY 2012    225000.0
+                            2013    748106.0
+                            2014    729207.0
+                            2015    308602.0
+                            2017    375079.0
 ```
 ---
 <a name="MI-07"></a>
@@ -278,37 +278,37 @@ Mike Bishop is not on any of our key committees
 ### HEP Grants
 ```
 In the past 6 years, this district has received: $4,114,000.00 in SC HEP grants.
-                                Amount ($)
-Institution               Year            
-MICHIGAN STATE UNIVERSITY 2012      353000
-                          2013      546000
-Michigan State University 2014      600000
-                          2015      200000
-                          2016     1025000
-                          2017     1390000
+                                  Amount ($)
+Institution               Year              
+MICHIGAN STATE UNIVERSITY 2012.0    353000.0
+                          2013.0    546000.0
+Michigan State University 2014.0    600000.0
+                          2015.0    200000.0
+                          2016.0   1025000.0
+                          2017.0   1390000.0
 ```
 ### SC Contracts
 ```
 In the past 6 years, this district has received: $3,816.00 in SC contracts.
                         Amount ($)
 vendorname fiscal_year            
-MOMAR INC. 2012               3816
+MOMAR INC. 2012             3816.0
 ```
 ### NSF MPS Grants
 ```
 In the past 6 years, this district has received: $184,746,666.00 in NSF MPS grants.
                                 Amount ($)
 Institution               Year            
-MICHIGAN STATE UNIVERSITY 2012    29434755
-                          2013    28662148
-                          2014    33037878
-                          2015     9193621
-                          2016    33249410
-                          2017    28039935
-MULTIPLE RECIPIENTS       2014       -6080
-Michigan State University 2015    23090000
-OAKLAND UNIVERSITY        2013       44999
-                          2017           0
+MICHIGAN STATE UNIVERSITY 2012  29434755.0
+                          2013  28662148.0
+                          2014  33037878.0
+                          2015   9193621.0
+                          2016  33249410.0
+                          2017  28039935.0
+MULTIPLE RECIPIENTS       2014     -6080.0
+Michigan State University 2015  23090000.0
+OAKLAND UNIVERSITY        2013     44999.0
+                          2017         0.0
 ```
 ---
 <a name="MI-09"></a>
@@ -330,7 +330,7 @@ This district received no SC contracts from 2012-2018
 In the past 6 years, this district has received: $799,261.00 in NSF MPS grants.
                          Amount ($)
 Institution        Year            
-OAKLAND UNIVERSITY 2012      799261
+OAKLAND UNIVERSITY 2012    799261.0
 ```
 ---
 <a name="MI-10"></a>
@@ -352,8 +352,8 @@ This district received no SC contracts from 2012-2018
 In the past 6 years, this district has received: $86,584.00 in NSF MPS grants.
                                         Amount ($)
 Institution                       Year            
-CENTRAL MICHIGAN UNIVERSITY (INC) 2012       46584
-                                  2013       40000
+CENTRAL MICHIGAN UNIVERSITY (INC) 2012     46584.0
+                                  2013     40000.0
 ```
 ---
 <a name="MI-11"></a>
@@ -375,9 +375,9 @@ This district received no SC contracts from 2012-2018
 In the past 6 years, this district has received: $997,974.00 in NSF MPS grants.
                          Amount ($)
 Institution        Year            
-OAKLAND UNIVERSITY 2013      233994
-                   2014      123686
-                   2015      640294
+OAKLAND UNIVERSITY 2013    233994.0
+                   2014    123686.0
+                   2015    640294.0
 ```
 ---
 <a name="MI-12"></a>
@@ -389,12 +389,12 @@ Debbie Dingell is the #24 Democrat on the House Committee on Energy and Commerce
 ### HEP Grants
 ```
 In the past 6 years, this district has received: $14,715,000.00 in SC HEP grants.
-                             Amount ($)
-Institution            Year            
-University of Michigan 2014     3784000
-                       2015     3450000
-                       2016     3687000
-                       2017     3794000
+                               Amount ($)
+Institution            Year              
+University of Michigan 2014.0   3784000.0
+                       2015.0   3450000.0
+                       2016.0   3687000.0
+                       2017.0   3794000.0
 ```
 ### SC Contracts
 ```
@@ -405,14 +405,14 @@ This district received no SC contracts from 2012-2018
 In the past 6 years, this district has received: $75,503,922.00 in NSF MPS grants.
                                             Amount ($)
 Institution                           Year            
-PII Redacted                          2017      450000
-REGENTS OF THE UNIVERSITY OF MICHIGAN 2013    20953317
-                                      2014    11823895
-                                      2015    12780850
-                                      2016    15474885
-                                      2017    11814714
-UNIVERSITY OF CALIFORNIA, LOS ANGELES 2013      132047
-University of Michigan                2015     2074214
+PII Redacted                          2017    450000.0
+REGENTS OF THE UNIVERSITY OF MICHIGAN 2013  20953317.0
+                                      2014  11823895.0
+                                      2015  12780850.0
+                                      2016  15474885.0
+                                      2017  11814714.0
+UNIVERSITY OF CALIFORNIA, LOS ANGELES 2013    132047.0
+University of Michigan                2015   2074214.0
 ```
 ---
 <a name="MI-13"></a>
@@ -421,14 +421,14 @@ University of Michigan                2015     2074214
 ### HEP Grants
 ```
 In the past 6 years, this district has received: $3,484,000.00 in SC HEP grants.
-                             Amount ($)
-Institution            Year            
-WAYNE STATE UNIVERSITY 2012      500000
-                       2013      482000
-Wayne State University 2014      697000
-                       2015      595000
-                       2016      605000
-                       2017      605000
+                               Amount ($)
+Institution            Year              
+WAYNE STATE UNIVERSITY 2012.0    500000.0
+                       2013.0    482000.0
+Wayne State University 2014.0    697000.0
+                       2015.0    595000.0
+                       2016.0    605000.0
+                       2017.0    605000.0
 ```
 ### SC Contracts
 ```
@@ -439,14 +439,14 @@ This district received no SC contracts from 2012-2018
 In the past 6 years, this district has received: $12,493,142.00 in NSF MPS grants.
                                    Amount ($)
 Institution                  Year            
-WAYNE STATE UNIVERSITY       2015      673097
-                             2016      729171
-                             2017      -28259
-WAYNE STATE UNIVERSITY (INC) 2012     3474845
-                             2013     1999173
-                             2014     3977166
-                             2016      641830
-Wayne State University       2015     1026119
+WAYNE STATE UNIVERSITY       2015    673097.0
+                             2016    729171.0
+                             2017    -28259.0
+WAYNE STATE UNIVERSITY (INC) 2012   3474845.0
+                             2013   1999173.0
+                             2014   3977166.0
+                             2016    641830.0
+Wayne State University       2015   1026119.0
 ```
 ---
 <a name="MI-14"></a>
@@ -468,6 +468,6 @@ This district received no SC contracts from 2012-2018
 In the past 6 years, this district has received: $5,800.00 in NSF MPS grants.
                                   Amount ($)
 Institution                 Year            
-UNIVERSITY OF DETROIT MERCY 2013        5800
+UNIVERSITY OF DETROIT MERCY 2013      5800.0
 ```
 ---

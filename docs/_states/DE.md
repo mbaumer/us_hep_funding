@@ -24,14 +24,14 @@ Christopher A. Coons is the #10 Democrat on the Senate Committee on Appropriatio
 In the past 6 years, this state has received:
 8 HEP grants, totalling $1,658,824.79
  
-                             Amount ($)
-Institution            Year            
-UNIVERSITY OF DELAWARE 2012   355000.00
-                       2013   358000.00
-University Of Delaware 2017   215000.00
-University of Delaware 2014   347000.00
-                       2015   420000.00
-                       2016   -36175.21
+                               Amount ($)
+Institution            Year              
+UNIVERSITY OF DELAWARE 2012.0   355000.00
+                       2013.0   358000.00
+University Of Delaware 2017.0   215000.00
+University of Delaware 2014.0   347000.00
+                       2015.0   420000.00
+                       2016.0   -36175.21
 ```
 ## SC Contracts
 ```
@@ -44,10 +44,10 @@ In the past 6 years, this state has received:
  
                                                Amount ($)
 Institution                                              
-UNIVERSITY OF DELAWARE                           26843964
-University of Delaware                            1357597
-DELAWARE STATE UNIVERSITY                          714795
-HENRY FRANCIS DUPONT WINTERTHUR MUSEUM, INC.,        3000
+UNIVERSITY OF DELAWARE                         26843964.0
+University of Delaware                          1357597.0
+DELAWARE STATE UNIVERSITY                        714795.0
+HENRY FRANCIS DUPONT WINTERTHUR MUSEUM, INC.,      3000.0
 ```
 ---
 ---
@@ -60,14 +60,14 @@ Lisa Blunt Rochester is the #9 Democrat on the House Subcommittee on Higher Educ
 ### HEP Grants
 ```
 In the past 6 years, this district has received: $1,658,824.79 in SC HEP grants.
-                             Amount ($)
-Institution            Year            
-UNIVERSITY OF DELAWARE 2012   355000.00
-                       2013   358000.00
-University Of Delaware 2017   215000.00
-University of Delaware 2014   347000.00
-                       2015   420000.00
-                       2016   -36175.21
+                               Amount ($)
+Institution            Year              
+UNIVERSITY OF DELAWARE 2012.0   355000.00
+                       2013.0   358000.00
+University Of Delaware 2017.0   215000.00
+University of Delaware 2014.0   347000.00
+                       2015.0   420000.00
+                       2016.0   -36175.21
 ```
 ### SC Contracts
 ```
@@ -78,17 +78,17 @@ This district received no SC contracts from 2012-2018
 In the past 6 years, this district has received: $28,919,356.00 in NSF MPS grants.
                                                     Amount ($)
 Institution                                   Year            
-DELAWARE STATE UNIVERSITY                     2013      -71211
-                                              2014      501100
-                                              2015      225072
-                                              2017       59834
-HENRY FRANCIS DUPONT WINTERTHUR MUSEUM, INC., 2013        3000
-UNIVERSITY OF DELAWARE                        2012     6436212
-                                              2013     4706203
-                                              2014     3258532
-                                              2015     3379403
-                                              2016     7488139
-                                              2017     1575475
-University of Delaware                        2015     1357597
+DELAWARE STATE UNIVERSITY                     2013    -71211.0
+                                              2014    501100.0
+                                              2015    225072.0
+                                              2017     59834.0
+HENRY FRANCIS DUPONT WINTERTHUR MUSEUM, INC., 2013      3000.0
+UNIVERSITY OF DELAWARE                        2012   6436212.0
+                                              2013   4706203.0
+                                              2014   3258532.0
+                                              2015   3379403.0
+                                              2016   7488139.0
+                                              2017   1575475.0
+University of Delaware                        2015   1357597.0
 ```
 ---

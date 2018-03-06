@@ -22,16 +22,16 @@ In the past 6 years, this state has received:
  
                                      Amount ($)
 Institution                                    
-University of Rochester                 6669000
-Cornell University                      6198000
-SUNY - Stony Brook University           4515000
-Columbia University                     4039000
-UNIVERSITY OF ROCHESTER                 3849000
-STATE U. OF NEW YORK AT STONY BROOK     3542000
-COLUMBIA UNIVERSITY                     3025000
-CORNELL UNIVERSITY                      2523000
-Stony Brook University (SUNY)           1570000
-Syracuse University                     1275000
+University of Rochester               6669000.0
+Cornell University                    6198000.0
+SUNY - Stony Brook University         4515000.0
+Columbia University                   4039000.0
+UNIVERSITY OF ROCHESTER               3849000.0
+STATE U. OF NEW YORK AT STONY BROOK   3542000.0
+COLUMBIA UNIVERSITY                   3025000.0
+CORNELL UNIVERSITY                    2523000.0
+Stony Brook University (SUNY)         1570000.0
+Syracuse University                   1275000.0
 and  13  other institutions.
 ```
 ## SC Contracts
@@ -58,18 +58,18 @@ and  20  other firms.
 In the past 6 years, this state has received:
 1981 NSF MPS grants, totalling $634,056,158.00
  
-                                                    Amount ($)
-Institution                                                   
-CORNELL UNIVERSITY, INC                              243804394
-TRUSTEES OF COLUMBIA UNIVERSITY IN THE CITY O         67000660
-NEW YORK UNIVERSITY                                   47629402
-THE RESEARCH FOUNDATION OF STATE UNIVERSITY O         34429664
-THE TRUSTEES OF COLUMBIA UNIVERSITY IN THE CI         28264675
-RESEARCH FOUNDATION OF STATE UNIVERSITY OF NE         27931207
-Cornell University                                    23217078
-RESEARCH FOUNDATION OF THE CITY UNIVERSITY OF         21976742
-RESEARCH FOUNDATION FOR THE STATE UNIVERSITY OF...    20389633
-SYRACUSE UNIVERSITY                                   20134833
+                                                     Amount ($)
+Institution                                                    
+CORNELL UNIVERSITY, INC                             243804394.0
+TRUSTEES OF COLUMBIA UNIVERSITY IN THE CITY O        67000660.0
+NEW YORK UNIVERSITY                                  47629402.0
+THE RESEARCH FOUNDATION OF STATE UNIVERSITY O        34429664.0
+THE TRUSTEES OF COLUMBIA UNIVERSITY IN THE CI        28264675.0
+RESEARCH FOUNDATION OF STATE UNIVERSITY OF NE        27931207.0
+Cornell University                                   23217078.0
+RESEARCH FOUNDATION OF THE CITY UNIVERSITY OF        21976742.0
+RESEARCH FOUNDATION FOR THE STATE UNIVERSITY OF...   20389633.0
+SYRACUSE UNIVERSITY                                  20134833.0
 and  72  other institutions.
 ```
 ---
@@ -83,14 +83,14 @@ Lee M. Zeldin is not on any of our key committees
 ### HEP Grants
 ```
 In the past 6 years, this district has received: $10,717,000.00 in SC HEP grants.
-                                                        Amount ($)
-Institution                                       Year            
-STATE U. OF NEW YORK AT STONY BROOK               2012     1586000
-                                                  2013     1956000
-SUNY - Stony Brook University                     2016     1400000
-                                                  2017     3115000
-State University of New York (SUNY) - Stony Brook 2014     1090000
-Stony Brook University (SUNY)                     2015     1570000
+                                                          Amount ($)
+Institution                                       Year              
+STATE U. OF NEW YORK AT STONY BROOK               2012.0   1586000.0
+                                                  2013.0   1956000.0
+SUNY - Stony Brook University                     2016.0   1400000.0
+                                                  2017.0   3115000.0
+State University of New York (SUNY) - Stony Brook 2014.0   1090000.0
+Stony Brook University (SUNY)                     2015.0   1570000.0
 ```
 ### SC Contracts
 ```
@@ -140,18 +140,18 @@ THE HON COMPANY                         2012         2.028367e+04
 In the past 6 years, this district has received: $56,593,833.00 in NSF MPS grants.
                                                          Amount ($)
 Institution                                        Year            
-MUHLENBERG COLLEGE                                 2012       54000
-                                                   2015       55000
-RESEARCH FOUNDATION FOR THE STATE UNIVERSITY       2016     2012623
-                                                   2017      986438
-RESEARCH FOUNDATION FOR THE STATE UNIVERSITY OF... 2017    14721933
-RESEARCH FOUNDATION OF STATE UNIVERSITY OF NE      2016     4791983
-SUNY Stony Brook                                   2015      131489
-THE RESEARCH FOUNDATION OF STATE UNIVERSITY O      2012     6346317
-                                                   2013     8333553
-                                                   2014     9816513
-                                                   2015     9082881
-                                                   2016      261103
+MUHLENBERG COLLEGE                                 2012     54000.0
+                                                   2015     55000.0
+RESEARCH FOUNDATION FOR THE STATE UNIVERSITY       2016   2012623.0
+                                                   2017    986438.0
+RESEARCH FOUNDATION FOR THE STATE UNIVERSITY OF... 2017  14721933.0
+RESEARCH FOUNDATION OF STATE UNIVERSITY OF NE      2016   4791983.0
+SUNY Stony Brook                                   2015    131489.0
+THE RESEARCH FOUNDATION OF STATE UNIVERSITY O      2012   6346317.0
+                                                   2013   8333553.0
+                                                   2014   9816513.0
+                                                   2015   9082881.0
+                                                   2016    261103.0
 ```
 ---
 <a name="NY-02"></a>
@@ -188,17 +188,17 @@ This district received no SC HEP grants from 2012-2017
 In the past 6 years, this district has received: $6,052.00 in SC contracts.
                                 Amount ($)
 vendorname         fiscal_year            
-AIP PUBLISHING LLC 2016               6052
+AIP PUBLISHING LLC 2016             6052.0
 ```
 ### NSF MPS Grants
 ```
 In the past 6 years, this district has received: $1,197,675.00 in NSF MPS grants.
                                     Amount ($)
 Institution                   Year            
-COLD SPRING HARBOR LABORATORY 2013      854363
-LONG ISLAND UNIVERSITY        2012       60000
-                              2013      223312
-                              2016       60000
+COLD SPRING HARBOR LABORATORY 2013    854363.0
+LONG ISLAND UNIVERSITY        2012     60000.0
+                              2013    223312.0
+                              2016     60000.0
 ```
 ---
 <a name="NY-04"></a>
@@ -220,7 +220,7 @@ This district received no SC contracts from 2012-2018
 In the past 6 years, this district has received: $30,000.00 in NSF MPS grants.
                          Amount ($)
 Institution        Year            
-ADELPHI UNIVERSITY 2017       30000
+ADELPHI UNIVERSITY 2017     30000.0
 ```
 ---
 <a name="NY-05"></a>
@@ -232,11 +232,11 @@ Gregory W. Meeks is not on any of our key committees
 ### HEP Grants
 ```
 In the past 6 years, this district has received: $286,000.00 in SC HEP grants.
-                                                      Amount ($)
-Institution                                     Year            
-CITY UNIVERSITY OF NEW YORK, YORK COLLEGE       2013       93000
-City College of New York (CUNY), Queens College 2014       98000
-York College (CUNY)                             2015       95000
+                                                        Amount ($)
+Institution                                     Year              
+CITY UNIVERSITY OF NEW YORK, YORK COLLEGE       2013.0     93000.0
+City College of New York (CUNY), Queens College 2014.0     98000.0
+York College (CUNY)                             2015.0     95000.0
 ```
 ### SC Contracts
 ```
@@ -247,9 +247,9 @@ This district received no SC contracts from 2012-2018
 In the past 6 years, this district has received: $1,347,024.00 in NSF MPS grants.
                                                     Amount ($)
 Institution                                   Year            
-CUNY York College                             2015      347564
-RESEARCH FOUNDATION OF THE CITY UNIVERSITY OF 2013      648769
-                                              2014      350691
+CUNY York College                             2015    347564.0
+RESEARCH FOUNDATION OF THE CITY UNIVERSITY OF 2013    648769.0
+                                              2014    350691.0
 ```
 ---
 <a name="NY-06"></a>
@@ -273,15 +273,15 @@ This district received no SC contracts from 2012-2018
 In the past 6 years, this district has received: $4,242,945.00 in NSF MPS grants.
                                                          Amount ($)
 Institution                                        Year            
-CUNY Queens College                                2015      261000
-RESEARCH FOUNDATION OF THE CITY UNIVERSITY OF      2012      234923
-                                                   2013      608252
-                                                   2014     1367610
-                                                   2015      512323
-                                                   2016      265856
-RESEARCH FOUNDATION OF THE CITY UNIVERSITY OF N... 2017      722487
-ST JOHN'S UNIVERSITY, NEW YORK                     2012      153360
-                                                   2017      117134
+CUNY Queens College                                2015    261000.0
+RESEARCH FOUNDATION OF THE CITY UNIVERSITY OF      2012    234923.0
+                                                   2013    608252.0
+                                                   2014   1367610.0
+                                                   2015    512323.0
+                                                   2016    265856.0
+RESEARCH FOUNDATION OF THE CITY UNIVERSITY OF N... 2017    722487.0
+ST JOHN'S UNIVERSITY, NEW YORK                     2012    153360.0
+                                                   2017    117134.0
 ```
 ---
 <a name="NY-07"></a>
@@ -299,18 +299,18 @@ This district received no SC HEP grants from 2012-2017
 In the past 6 years, this district has received: $19,966.00 in SC contracts.
                                  Amount ($)
 vendorname          fiscal_year            
-OFFICE LEADER CORP. 2016              19966
+OFFICE LEADER CORP. 2016            19966.0
 ```
 ### NSF MPS Grants
 ```
 In the past 6 years, this district has received: $731,442.00 in NSF MPS grants.
                                                     Amount ($)
 Institution                                   Year            
-MULTIPLE RECIPIENTS                           2013      102100
-RESEARCH FOUNDATION OF THE CITY UNIVERSITY OF 2013       15000
-                                              2014       79999
-                                              2015       50000
-YESHIVA UNIVERSITY                            2012      484343
+MULTIPLE RECIPIENTS                           2013    102100.0
+RESEARCH FOUNDATION OF THE CITY UNIVERSITY OF 2013     15000.0
+                                              2014     79999.0
+                                              2015     50000.0
+YESHIVA UNIVERSITY                            2012    484343.0
 ```
 ---
 <a name="NY-08"></a>
@@ -328,22 +328,22 @@ This district received no SC HEP grants from 2012-2017
 In the past 6 years, this district has received: $85,484.00 in SC contracts.
                                                        Amount ($)
 vendorname                                fiscal_year            
-ALLOY, INC.                               2012               8000
-ASSOCIATION FOR COMPUTING MACHINERY, INC. 2012               7275
-NATURE AMERICA, INC.                      2012              70209
+ALLOY, INC.                               2012             8000.0
+ASSOCIATION FOR COMPUTING MACHINERY, INC. 2012             7275.0
+NATURE AMERICA, INC.                      2012            70209.0
 ```
 ### NSF MPS Grants
 ```
 In the past 6 years, this district has received: $12,582,490.00 in NSF MPS grants.
                                                    Amount ($)
 Institution                                  Year            
-AMERICAN MUSEUM OF NATURAL HISTORY, THE      2012      599074
-MULTIPLE RECIPIENTS                          2012      450000
-NEW YORK UNIVERSITY                          2012     9018056
-                                             2015      100000
-                                             2017     1677335
-New York University                          2015      380000
-POLYTECHNIC INSTITUTE OF NEW YORK UNIVERSITY 2013      358025
+AMERICAN MUSEUM OF NATURAL HISTORY, THE      2012    599074.0
+MULTIPLE RECIPIENTS                          2012    450000.0
+NEW YORK UNIVERSITY                          2012   9018056.0
+                                             2015    100000.0
+                                             2017   1677335.0
+New York University                          2015    380000.0
+POLYTECHNIC INSTITUTE OF NEW YORK UNIVERSITY 2013    358025.0
 ```
 ---
 <a name="NY-09"></a>
@@ -365,13 +365,13 @@ This district received no SC contracts from 2012-2018
 In the past 6 years, this district has received: $1,585,373.00 in NSF MPS grants.
                                                          Amount ($)
 Institution                                        Year            
-CUNY Brooklyn College                              2015      360000
-MULTIPLE RECIPIENTS                                2014      445000
-RESEARCH FOUNDATION OF THE CITY UNIVERSITY OF      2012      562844
-                                                   2013      152244
-                                                   2014      -84407
-                                                   2016      -43544
-RESEARCH FOUNDATION OF THE CITY UNIVERSITY OF N... 2017      193236
+CUNY Brooklyn College                              2015    360000.0
+MULTIPLE RECIPIENTS                                2014    445000.0
+RESEARCH FOUNDATION OF THE CITY UNIVERSITY OF      2012    562844.0
+                                                   2013    152244.0
+                                                   2014    -84407.0
+                                                   2016    -43544.0
+RESEARCH FOUNDATION OF THE CITY UNIVERSITY OF N... 2017    193236.0
 ```
 ---
 <a name="NY-10"></a>
@@ -402,35 +402,35 @@ SPRINGER SCIENCE + BUSINESS MEDIA, LLC 2014          127130.76
 In the past 6 years, this district has received: $119,005,105.00 in NSF MPS grants.
                                                     Amount ($)
 Institution                                   Year            
-AMERICAN MUSEUM OF NATURAL HISTORY, THE       2013      523624
-                                              2014      -81498
-Amer Museum of Nat Hist                       2015      213726
-BARNARD COLLEGE (INC)                         2013      505107
-                                              2015      351039
-                                              2016      879870
-                                              2017      479000
-Barnard College                               2015        7025
-Columbia University                           2015    11992838
-MULTIPLE RECIPIENTS                           2014      450000
-NEW YORK UNIVERSITY                           2013     7327023
-                                              2014     4515919
-                                              2015     3834615
-                                              2016     6864189
-                                              2017     6769724
-New York University                           2015     5140898
-PII Redacted                                  2017      550000
-POLYTECHNIC INSTITUTE OF NEW YORK UNIVERSITY  2012      724222
-RESEARCH FOUNDATION OF THE CITY UNIVERSITY OF 2013       63139
-                                              2014      499986
-                                              2016      -61562
-RFCUNY - NYC COLLEGE OF TECHNOLOGY            2012       37500
-THE TRUSTEES OF COLUMBIA UNIVERSITY IN THE CI 2013     5693317
-TRUSTEES OF COLUMBIA UNIVERSITY IN THE CITY O 2013    16725625
-                                              2014    16944778
-                                              2015     8942594
-                                              2016    19032627
-                                              2017       41781
-TRUSTEES OF PRINCETON UNIVERSITY, THE         2015       37999
+AMERICAN MUSEUM OF NATURAL HISTORY, THE       2013    523624.0
+                                              2014    -81498.0
+Amer Museum of Nat Hist                       2015    213726.0
+BARNARD COLLEGE (INC)                         2013    505107.0
+                                              2015    351039.0
+                                              2016    879870.0
+                                              2017    479000.0
+Barnard College                               2015      7025.0
+Columbia University                           2015  11992838.0
+MULTIPLE RECIPIENTS                           2014    450000.0
+NEW YORK UNIVERSITY                           2013   7327023.0
+                                              2014   4515919.0
+                                              2015   3834615.0
+                                              2016   6864189.0
+                                              2017   6769724.0
+New York University                           2015   5140898.0
+PII Redacted                                  2017    550000.0
+POLYTECHNIC INSTITUTE OF NEW YORK UNIVERSITY  2012    724222.0
+RESEARCH FOUNDATION OF THE CITY UNIVERSITY OF 2013     63139.0
+                                              2014    499986.0
+                                              2016    -61562.0
+RFCUNY - NYC COLLEGE OF TECHNOLOGY            2012     37500.0
+THE TRUSTEES OF COLUMBIA UNIVERSITY IN THE CI 2013   5693317.0
+TRUSTEES OF COLUMBIA UNIVERSITY IN THE CITY O 2013  16725625.0
+                                              2014  16944778.0
+                                              2015   8942594.0
+                                              2016  19032627.0
+                                              2017     41781.0
+TRUSTEES OF PRINCETON UNIVERSITY, THE         2015     37999.0
 ```
 ---
 <a name="NY-11"></a>
@@ -452,13 +452,13 @@ This district received no SC contracts from 2012-2018
 In the past 6 years, this district has received: $3,661,458.00 in NSF MPS grants.
                                                          Amount ($)
 Institution                                        Year            
-CUNY Staten Island                                 2015       23985
-RESEARCH FOUNDATION OF THE CITY UNIVERSITY OF      2012     1001662
-                                                   2013      646907
-                                                   2014       97100
-                                                   2015      803522
-                                                   2016      724677
-RESEARCH FOUNDATION OF THE CITY UNIVERSITY OF N... 2017      363605
+CUNY Staten Island                                 2015     23985.0
+RESEARCH FOUNDATION OF THE CITY UNIVERSITY OF      2012   1001662.0
+                                                   2013    646907.0
+                                                   2014     97100.0
+                                                   2015    803522.0
+                                                   2016    724677.0
+RESEARCH FOUNDATION OF THE CITY UNIVERSITY OF N... 2017    363605.0
 ```
 ---
 <a name="NY-12"></a>
@@ -470,9 +470,9 @@ Carolyn B. Maloney is not on any of our key committees
 ### HEP Grants
 ```
 In the past 6 years, this district has received: $0.00 in SC HEP grants.
-                                                         Amount ($)
-Institution                                        Year            
-Research Foundation of The City University of N... 2016           0
+                                                           Amount ($)
+Institution                                        Year              
+Research Foundation of The City University of N... 2016.0         0.0
 ```
 ### SC Contracts
 ```
@@ -492,31 +492,31 @@ ELSEVIER INC.                             2013          115338.30
 In the past 6 years, this district has received: $13,524,768.00 in NSF MPS grants.
                                                          Amount ($)
 Institution                                        Year            
-AMERICAN UNIVERSITY OF BEIRUT                      2015       50000
-COOPER UNION FOR THE ADVANCEMENT OF SCIENCE A      2016      109699
-CUNY Queensboro Cmty Col                           2015       49704
-METROPOLITAN MUSEUM OF ART, THE                    2016      295000
-MULTIPLE RECIPIENTS                                2012       92836
-NEW YORK UNIVERSITY                                2013      675000
-                                                   2014      444443
-                                                   2015     3583807
-                                                   2016     1622057
-                                                   2017     1197234
-NEW YORK UNIVERSITY (INC)                          2013       76635
-NEW YORK UNIVERSITY121911077                       2016      249298
-RESEARCH FOUNDATION OF THE CITY UNIVERSITY OF      2013     1315998
-                                                   2014       86000
-                                                   2015      370000
-                                                   2016      954840
-RESEARCH FOUNDATION OF THE CITY UNIVERSITY OF N... 2017       40523
-ROCKEFELLER UNIVERSITY, THE                        2015      946080
-                                                   2016      136362
-SLOAN-KETTERING INSTITUTE FOR CANCER RESEARCH      2016      327275
-                                                   2017      255257
-WEILL MEDICAL COLLEGE OF CORNELL UNIVERSITY        2013      100000
-                                                   2015      218941
-                                                   2016      137779
-YESHIVA UNIVERSITY                                 2017      190000
+AMERICAN UNIVERSITY OF BEIRUT                      2015     50000.0
+COOPER UNION FOR THE ADVANCEMENT OF SCIENCE A      2016    109699.0
+CUNY Queensboro Cmty Col                           2015     49704.0
+METROPOLITAN MUSEUM OF ART, THE                    2016    295000.0
+MULTIPLE RECIPIENTS                                2012     92836.0
+NEW YORK UNIVERSITY                                2013    675000.0
+                                                   2014    444443.0
+                                                   2015   3583807.0
+                                                   2016   1622057.0
+                                                   2017   1197234.0
+NEW YORK UNIVERSITY (INC)                          2013     76635.0
+NEW YORK UNIVERSITY121911077                       2016    249298.0
+RESEARCH FOUNDATION OF THE CITY UNIVERSITY OF      2013   1315998.0
+                                                   2014     86000.0
+                                                   2015    370000.0
+                                                   2016    954840.0
+RESEARCH FOUNDATION OF THE CITY UNIVERSITY OF N... 2017     40523.0
+ROCKEFELLER UNIVERSITY, THE                        2015    946080.0
+                                                   2016    136362.0
+SLOAN-KETTERING INSTITUTE FOR CANCER RESEARCH      2016    327275.0
+                                                   2017    255257.0
+WEILL MEDICAL COLLEGE OF CORNELL UNIVERSITY        2013    100000.0
+                                                   2015    218941.0
+                                                   2016    137779.0
+YESHIVA UNIVERSITY                                 2017    190000.0
 ```
 ---
 <a name="NY-13"></a>
@@ -528,12 +528,12 @@ Adriano Espaillat is the #10 Democrat on the House Subcommittee on Higher Educat
 ### HEP Grants
 ```
 In the past 6 years, this district has received: $4,039,000.00 in SC HEP grants.
-                          Amount ($)
-Institution         Year            
-Columbia University 2014     1353000
-                    2015      975000
-                    2016      825000
-                    2017      886000
+                            Amount ($)
+Institution         Year              
+Columbia University 2014.0   1353000.0
+                    2015.0    975000.0
+                    2016.0    825000.0
+                    2017.0    886000.0
 ```
 ### SC Contracts
 ```
@@ -544,24 +544,24 @@ This district received no SC contracts from 2012-2018
 In the past 6 years, this district has received: $13,734,808.00 in NSF MPS grants.
                                                          Amount ($)
 Institution                                        Year            
-CUNY City College                                  2015       62162
-CUNY H H Lehman College                            2015      100438
-Columbia University                                2015      435000
-RESEARCH FOUNDATION OF THE CITY UNIVERSITY OF      2012      200997
-                                                   2013     2895339
-                                                   2014     2166789
-                                                   2015     1257485
-                                                   2016     1280801
-RESEARCH FOUNDATION OF THE CITY UNIVERSITY OF N... 2017     1583391
-TRUSTEES OF COLUMBIA UNIVERSITY IN THE CITY O      2013     1057802
-                                                   2014     1039000
-                                                   2015      580000
-                                                   2016      283966
-YESHIVA UNIVERSITY                                 2013      255515
-                                                   2014      125000
-                                                   2015      559999
-                                                   2016      447438
-                                                   2017     -596314
+CUNY City College                                  2015     62162.0
+CUNY H H Lehman College                            2015    100438.0
+Columbia University                                2015    435000.0
+RESEARCH FOUNDATION OF THE CITY UNIVERSITY OF      2012    200997.0
+                                                   2013   2895339.0
+                                                   2014   2166789.0
+                                                   2015   1257485.0
+                                                   2016   1280801.0
+RESEARCH FOUNDATION OF THE CITY UNIVERSITY OF N... 2017   1583391.0
+TRUSTEES OF COLUMBIA UNIVERSITY IN THE CITY O      2013   1057802.0
+                                                   2014   1039000.0
+                                                   2015    580000.0
+                                                   2016    283966.0
+YESHIVA UNIVERSITY                                 2013    255515.0
+                                                   2014    125000.0
+                                                   2015    559999.0
+                                                   2016    447438.0
+                                                   2017   -596314.0
 ```
 ---
 <a name="NY-14"></a>
@@ -586,16 +586,16 @@ ELSEVIER INC. 2012           92108.87
 In the past 6 years, this district has received: $2,588,520.00 in NSF MPS grants.
                                                     Amount ($)
 Institution                                   Year            
-ALBERT EINSTEIN COLLEGE OF MEDICINE, INC.     2017           0
-AMERICAN INST CHEM ENGINEERS                  2012       28071
-AMERICAN UNIVERSITY OF BEIRUT                 2012      150000
-METROPOLITAN MUSEUM OF ART, THE               2012       61900
-NEW YORK UNIVERSITY (INC)                     2012       74401
-RESEARCH FOUNDATION OF THE CITY UNIVERSITY OF 2012     1699150
-                                              2013       59000
-WEILL MEDICAL COLLEGE OF CORNELL UNIVERSITY   2012      100000
-YESHIVA UNIVERSITY                            2012      123000
-                                              2014      292998
+ALBERT EINSTEIN COLLEGE OF MEDICINE, INC.     2017         0.0
+AMERICAN INST CHEM ENGINEERS                  2012     28071.0
+AMERICAN UNIVERSITY OF BEIRUT                 2012    150000.0
+METROPOLITAN MUSEUM OF ART, THE               2012     61900.0
+NEW YORK UNIVERSITY (INC)                     2012     74401.0
+RESEARCH FOUNDATION OF THE CITY UNIVERSITY OF 2012   1699150.0
+                                              2013     59000.0
+WEILL MEDICAL COLLEGE OF CORNELL UNIVERSITY   2012    100000.0
+YESHIVA UNIVERSITY                            2012    123000.0
+                                              2014    292998.0
 ```
 ---
 <a name="NY-15"></a>
@@ -611,12 +611,12 @@ José E. Serrano is the #1 Democrat on the House Appropriations Subcommittee on 
 ### HEP Grants
 ```
 In the past 6 years, this district has received: $3,769,000.00 in SC HEP grants.
-                             Amount ($)
-Institution            Year            
-COLUMBIA UNIVERSITY    2012     1625000
-                       2013     1400000
-ROCKEFELLER UNIVERSITY 2012      564000
-                       2013      180000
+                               Amount ($)
+Institution            Year              
+COLUMBIA UNIVERSITY    2012.0   1625000.0
+                       2013.0   1400000.0
+ROCKEFELLER UNIVERSITY 2012.0    564000.0
+                       2013.0    180000.0
 ```
 ### SC Contracts
 ```
@@ -627,18 +627,18 @@ This district received no SC contracts from 2012-2018
 In the past 6 years, this district has received: $26,268,518.00 in NSF MPS grants.
                                                          Amount ($)
 Institution                                        Year            
-BARNARD COLLEGE                                    2012      256911
-BARNARD COLLEGE (INC)                              2012     1235138
-FORDHAM UNIVERSITY                                 2013      116655
-                                                   2016      240545
-                                                   2017       64226
-RESEARCH FOUNDATION OF THE CITY UNIVERSITY OF      2012      851337
-                                                   2014       19000
-RESEARCH FOUNDATION OF THE CITY UNIVERSITY OF N... 2017       60726
-RFCUNY - CITY COLLEGE                              2012      228351
-THE TRUSTEES OF COLUMBIA UNIVERSITY IN THE CI      2012    22607934
-                                                   2013      -36576
-YESHIVA UNIVERSITY                                 2012      624271
+BARNARD COLLEGE                                    2012    256911.0
+BARNARD COLLEGE (INC)                              2012   1235138.0
+FORDHAM UNIVERSITY                                 2013    116655.0
+                                                   2016    240545.0
+                                                   2017     64226.0
+RESEARCH FOUNDATION OF THE CITY UNIVERSITY OF      2012    851337.0
+                                                   2014     19000.0
+RESEARCH FOUNDATION OF THE CITY UNIVERSITY OF N... 2017     60726.0
+RFCUNY - CITY COLLEGE                              2012    228351.0
+THE TRUSTEES OF COLUMBIA UNIVERSITY IN THE CI      2012  22607934.0
+                                                   2013    -36576.0
+YESHIVA UNIVERSITY                                 2012    624271.0
 ```
 ---
 <a name="NY-16"></a>
@@ -660,11 +660,11 @@ This district received no SC contracts from 2012-2018
 In the past 6 years, this district has received: $776,006.00 in NSF MPS grants.
                              Amount ($)
 Institution            Year            
-IONA COLLEGE           2013      116000
-                       2014      184153
-                       2015       20000
-                       2016      382999
-MANHATTAN COLLEGE CORP 2014       72854
+IONA COLLEGE           2013    116000.0
+                       2014    184153.0
+                       2015     20000.0
+                       2016    382999.0
+MANHATTAN COLLEGE CORP 2014     72854.0
 ```
 ---
 <a name="NY-17"></a>
@@ -682,21 +682,21 @@ This district received no SC HEP grants from 2012-2017
 In the past 6 years, this district has received: $9,210.00 in SC contracts.
                                         Amount ($)
 vendorname                 fiscal_year            
-CAMBRIDGE UNIVERSITY PRESS 2015               4493
-                           2016               4717
+CAMBRIDGE UNIVERSITY PRESS 2015             4493.0
+                           2016             4717.0
 ```
 ### NSF MPS Grants
 ```
 In the past 6 years, this district has received: $2,676,502.00 in NSF MPS grants.
                                                     Amount ($)
 Institution                                   Year            
-RESEARCH FOUNDATION OF THE CITY UNIVERSITY OF 2012      318093
-                                              2013        5922
-TRUSTEES OF COLUMBIA UNIVERSITY IN THE CITY O 2013      360000
-                                              2014     1657603
-                                              2015      236322
-                                              2016        1562
-                                              2017       97000
+RESEARCH FOUNDATION OF THE CITY UNIVERSITY OF 2012    318093.0
+                                              2013      5922.0
+TRUSTEES OF COLUMBIA UNIVERSITY IN THE CITY O 2013    360000.0
+                                              2014   1657603.0
+                                              2015    236322.0
+                                              2016      1562.0
+                                              2017     97000.0
 ```
 ---
 <a name="NY-18"></a>
@@ -718,13 +718,13 @@ This district received no SC contracts from 2012-2018
 In the past 6 years, this district has received: $553,154.00 in NSF MPS grants.
                                    Amount ($)
 Institution                  Year            
-ASSN FOR SYMBOLIC LOGIC      2013       23000
-IONA COLLEGE                 2012       76000
-SAM HOUSTON STATE UNIVERSITY 2016        8650
-                             2017       -5590
-VASSAR COLLEGE               2013       75000
-                             2015      289000
-                             2017       87094
+ASSN FOR SYMBOLIC LOGIC      2013     23000.0
+IONA COLLEGE                 2012     76000.0
+SAM HOUSTON STATE UNIVERSITY 2016      8650.0
+                             2017     -5590.0
+VASSAR COLLEGE               2013     75000.0
+                             2015    289000.0
+                             2017     87094.0
 ```
 ---
 <a name="NY-19"></a>
@@ -746,12 +746,12 @@ This district received no SC contracts from 2012-2018
 In the past 6 years, this district has received: $955,290.00 in NSF MPS grants.
                                                          Amount ($)
 Institution                                        Year            
-ASSN FOR SYMBOLIC LOGIC                            2012       30000
-BARD COLLEGE                                       2014      216000
-                                                   2017      245922
-RENSSELAER POLYTECHNIC INSTITUTE                   2013      269994
-RESEARCH FOUNDATION FOR THE STATE UNIVERSITY OF... 2017      118374
-VASSAR COLLEGE                                     2012       75000
+ASSN FOR SYMBOLIC LOGIC                            2012     30000.0
+BARD COLLEGE                                       2014    216000.0
+                                                   2017    245922.0
+RENSSELAER POLYTECHNIC INSTITUTE                   2013    269994.0
+RESEARCH FOUNDATION FOR THE STATE UNIVERSITY OF... 2017    118374.0
+VASSAR COLLEGE                                     2012     75000.0
 ```
 ---
 <a name="NY-20"></a>
@@ -767,16 +767,16 @@ Paul Tonko is the #16 Democrat on the House Committee on Energy and Commerce
 ### HEP Grants
 ```
 In the past 6 years, this district has received: $723,000.00 in SC HEP grants.
-                                                   Amount ($)
-Institution                                  Year            
-Rensselaer Polytechnic Institute             2014           0
-                                             2015      140000
-                                             2016           0
-                                             2017      131000
-SUNY - University at Albany                  2016      170000
-                                             2017      102000
-State University of New York (SUNY) - Albany 2014      180000
-University at Albany (SUNY)                  2015           0
+                                                     Amount ($)
+Institution                                  Year              
+Rensselaer Polytechnic Institute             2014.0         0.0
+                                             2015.0    140000.0
+                                             2016.0         0.0
+                                             2017.0    131000.0
+SUNY - University at Albany                  2016.0    170000.0
+                                             2017.0    102000.0
+State University of New York (SUNY) - Albany 2014.0    180000.0
+University at Albany (SUNY)                  2015.0         0.0
 ```
 ### SC Contracts
 ```
@@ -787,30 +787,30 @@ This district received no SC contracts from 2012-2018
 In the past 6 years, this district has received: $19,335,381.00 in NSF MPS grants.
                                                          Amount ($)
 Institution                                        Year            
-BARD COLLEGE                                       2012        2000
-COLLEGE OF SAINT ROSE                              2013       30000
-RENSSELAER POLYTECHNIC INSTITUTE                   2013     4838619
-                                                   2014     1561241
-                                                   2015     1272414
-                                                   2016     2158771
-                                                   2017     1948399
-RESEARCH FOUNDATION FOR THE STATE UNIVERSITY       2015      380073
-                                                   2016      556672
-RESEARCH FOUNDATION FOR THE STATE UNIVERSITY OF... 2017     2018498
-RESEARCH FOUNDATION OF STATE UNIVERSITY OF NE      2013     1236057
-                                                   2014      500555
-                                                   2015      735532
-                                                   2016      138000
-Rensselaer Polytech Inst                           2015      684507
-SIENA COLLEGE                                      2017      229558
-SIENA COLLEGE (INC)                                2013      148549
-                                                   2014       79945
-                                                   2016      267751
-THE RESEARCH FOUNDATION OF STATE UNIVERSITY O      2013       82000
-TRUSTEES OF UNION COLLEGE IN THE TOWN OF SCHE      2013      168386
-                                                   2014       48378
-                                                   2016      249476
-TRUSTEES OF UNION COLLEGE IN THE TOWN OF SCHENE... 2017           0
+BARD COLLEGE                                       2012      2000.0
+COLLEGE OF SAINT ROSE                              2013     30000.0
+RENSSELAER POLYTECHNIC INSTITUTE                   2013   4838619.0
+                                                   2014   1561241.0
+                                                   2015   1272414.0
+                                                   2016   2158771.0
+                                                   2017   1948399.0
+RESEARCH FOUNDATION FOR THE STATE UNIVERSITY       2015    380073.0
+                                                   2016    556672.0
+RESEARCH FOUNDATION FOR THE STATE UNIVERSITY OF... 2017   2018498.0
+RESEARCH FOUNDATION OF STATE UNIVERSITY OF NE      2013   1236057.0
+                                                   2014    500555.0
+                                                   2015    735532.0
+                                                   2016    138000.0
+Rensselaer Polytech Inst                           2015    684507.0
+SIENA COLLEGE                                      2017    229558.0
+SIENA COLLEGE (INC)                                2013    148549.0
+                                                   2014     79945.0
+                                                   2016    267751.0
+THE RESEARCH FOUNDATION OF STATE UNIVERSITY O      2013     82000.0
+TRUSTEES OF UNION COLLEGE IN THE TOWN OF SCHE      2013    168386.0
+                                                   2014     48378.0
+                                                   2016    249476.0
+TRUSTEES OF UNION COLLEGE IN THE TOWN OF SCHENE... 2017         0.0
 ```
 ---
 <a name="NY-21"></a>
@@ -822,12 +822,12 @@ Elise M. Stefanik is the #7 Republican on the House Subcommittee on Higher Educa
 ### HEP Grants
 ```
 In the past 6 years, this district has received: $701,000.00 in SC HEP grants.
-                                     Amount ($)
-Institution                    Year            
-RENSSELAER POLYTECHNIC INST.   2012      266000
-                               2013      320000
-STATE U. OF NEW YORK AT ALBANY 2012      115000
-                               2013           0
+                                       Amount ($)
+Institution                    Year              
+RENSSELAER POLYTECHNIC INST.   2012.0    266000.0
+                               2013.0    320000.0
+STATE U. OF NEW YORK AT ALBANY 2012.0    115000.0
+                               2013.0         0.0
 ```
 ### SC Contracts
 ```
@@ -838,19 +838,19 @@ This district received no SC contracts from 2012-2018
 In the past 6 years, this district has received: $7,895,738.00 in NSF MPS grants.
                                                     Amount ($)
 Institution                                   Year            
-CLARKSON UNIVERSITY                           2013      120000
-                                              2014      120000
-                                              2015      140501
-                                              2016      962131
-                                              2017      289537
-RENSSELAER POLYTECHNIC INSTITUTE              2012     3805400
-RESEARCH FOUNDATION OF STATE UNIVERSITY OF NE 2012     1356242
-                                              2013       77924
-                                              2014       77924
-SIENA COLLEGE (INC)                           2012       81195
-ST LAWRENCE UNIVERSITY                        2016        9630
-SUNY Potsdam                                  2015       79048
-TRUSTEES OF UNION COLLEGE IN THE TOWN OF SCHE 2012      776206
+CLARKSON UNIVERSITY                           2013    120000.0
+                                              2014    120000.0
+                                              2015    140501.0
+                                              2016    962131.0
+                                              2017    289537.0
+RENSSELAER POLYTECHNIC INSTITUTE              2012   3805400.0
+RESEARCH FOUNDATION OF STATE UNIVERSITY OF NE 2012   1356242.0
+                                              2013     77924.0
+                                              2014     77924.0
+SIENA COLLEGE (INC)                           2012     81195.0
+ST LAWRENCE UNIVERSITY                        2016      9630.0
+SUNY Potsdam                                  2015     79048.0
+TRUSTEES OF UNION COLLEGE IN THE TOWN OF SCHE 2012    776206.0
 ```
 ---
 <a name="NY-22"></a>
@@ -862,41 +862,41 @@ Claudia Tenney is not on any of our key committees
 ### HEP Grants
 ```
 In the past 6 years, this district has received: $2,523,000.00 in SC HEP grants.
-                         Amount ($)
-Institution        Year            
-CORNELL UNIVERSITY 2012     1456000
-                   2013     1067000
+                           Amount ($)
+Institution        Year              
+CORNELL UNIVERSITY 2012.0   1456000.0
+                   2013.0   1067000.0
 ```
 ### SC Contracts
 ```
 In the past 6 years, this district has received: $42,500.00 in SC contracts.
                                                           Amount ($)
 vendorname                                   fiscal_year            
-COMPUTER CONNECTION OF CENTRAL NEW YORK INC. 2013                  0
-                                             2015              42500
+COMPUTER CONNECTION OF CENTRAL NEW YORK INC. 2013                0.0
+                                             2015            42500.0
 ```
 ### NSF MPS Grants
 ```
 In the past 6 years, this district has received: $68,610,446.00 in NSF MPS grants.
                                                          Amount ($)
 Institution                                        Year            
-COLGATE UNIVERSITY                                 2013      123000
-                                                   2014      327740
-                                                   2015      373076
-                                                   2017      640376
-CORNELL UNIVERSITY, INC                            2012    51052804
-                                                   2013    10302238
-Colgate University                                 2015      184935
-HAMILTON COLLEGE                                   2013       59845
-RESEARCH FOUNDATION FOR THE STATE UNIVERSITY       2016       93111
-RESEARCH FOUNDATION FOR THE STATE UNIVERSITY OF... 2017     1484414
-RESEARCH FOUNDATION OF STATE UNIVERSITY OF NE      2012      840452
-                                                   2013      689022
-                                                   2014     1153103
-                                                   2015      328429
-                                                   2016      686894
-SUNY Binghamton                                    2015         200
-THE RESEARCH FOUNDATION OF STATE UNIVERSITY O      2013      270807
+COLGATE UNIVERSITY                                 2013    123000.0
+                                                   2014    327740.0
+                                                   2015    373076.0
+                                                   2017    640376.0
+CORNELL UNIVERSITY, INC                            2012  51052804.0
+                                                   2013  10302238.0
+Colgate University                                 2015    184935.0
+HAMILTON COLLEGE                                   2013     59845.0
+RESEARCH FOUNDATION FOR THE STATE UNIVERSITY       2016     93111.0
+RESEARCH FOUNDATION FOR THE STATE UNIVERSITY OF... 2017   1484414.0
+RESEARCH FOUNDATION OF STATE UNIVERSITY OF NE      2012    840452.0
+                                                   2013    689022.0
+                                                   2014   1153103.0
+                                                   2015    328429.0
+                                                   2016    686894.0
+SUNY Binghamton                                    2015       200.0
+THE RESEARCH FOUNDATION OF STATE UNIVERSITY O      2013    270807.0
 ```
 ---
 <a name="NY-23"></a>
@@ -908,12 +908,12 @@ Tom Reed is not on any of our key committees
 ### HEP Grants
 ```
 In the past 6 years, this district has received: $6,198,000.00 in SC HEP grants.
-                         Amount ($)
-Institution        Year            
-Cornell University 2014     1367000
-                   2015     2170000
-                   2016     1531000
-                   2017     1130000
+                           Amount ($)
+Institution        Year              
+Cornell University 2014.0   1367000.0
+                   2015.0   2170000.0
+                   2016.0   1531000.0
+                   2017.0   1130000.0
 ```
 ### SC Contracts
 ```
@@ -924,26 +924,26 @@ This district received no SC contracts from 2012-2018
 In the past 6 years, this district has received: $207,495,798.00 in NSF MPS grants.
                                                     Amount ($)
 Institution                                   Year            
-ALFRED UNIVERSITY                             2013     -741522
-                                              2014      147000
-                                              2015      147000
-                                              2016      694287
-ALFRED UNIVERSITY (INC)                       2013       29620
-CLARKSON UNIVERSITY                           2012      426156
-                                              2013      116208
-COLGATE UNIVERSITY                            2012      170827
-CORNELL UNIVERSITY, INC                       2013    38093708
-                                              2014    39433651
-                                              2015    13030157
-                                              2016    40586041
-                                              2017    51305795
-Cornell University                            2015    23217078
-HOBART AND WILLIAM SMITH COLLEGES             2013      133754
-                                              2014      210000
-                                              2016      199300
-                                              2017      107738
-ITHACA COLLEGE                                2013      185000
-THE RESEARCH FOUNDATION OF STATE UNIVERSITY O 2013        4000
+ALFRED UNIVERSITY                             2013   -741522.0
+                                              2014    147000.0
+                                              2015    147000.0
+                                              2016    694287.0
+ALFRED UNIVERSITY (INC)                       2013     29620.0
+CLARKSON UNIVERSITY                           2012    426156.0
+                                              2013    116208.0
+COLGATE UNIVERSITY                            2012    170827.0
+CORNELL UNIVERSITY, INC                       2013  38093708.0
+                                              2014  39433651.0
+                                              2015  13030157.0
+                                              2016  40586041.0
+                                              2017  51305795.0
+Cornell University                            2015  23217078.0
+HOBART AND WILLIAM SMITH COLLEGES             2013    133754.0
+                                              2014    210000.0
+                                              2016    199300.0
+                                              2017    107738.0
+ITHACA COLLEGE                                2013    185000.0
+THE RESEARCH FOUNDATION OF STATE UNIVERSITY O 2013      4000.0
 ```
 ---
 <a name="NY-24"></a>
@@ -955,12 +955,12 @@ John Katko is not on any of our key committees
 ### HEP Grants
 ```
 In the past 6 years, this district has received: $1,275,000.00 in SC HEP grants.
-                          Amount ($)
-Institution         Year            
-Syracuse University 2014      298000
-                    2015      237000
-                    2016      370000
-                    2017      370000
+                            Amount ($)
+Institution         Year              
+Syracuse University 2014.0    298000.0
+                    2015.0    237000.0
+                    2016.0    370000.0
+                    2017.0    370000.0
 ```
 ### SC Contracts
 ```
@@ -971,15 +971,15 @@ This district received no SC contracts from 2012-2018
 In the past 6 years, this district has received: $16,719,243.00 in NSF MPS grants.
                                                     Amount ($)
 Institution                                   Year            
-HAMILTON COLLEGE                              2012      143105
-HOBART AND WILLIAM SMITH COLLEGES             2012       90000
-RESEARCH FOUNDATION OF STATE UNIVERSITY OF NE 2016      510500
-SYRACUSE UNIVERSITY                           2013     4179896
-                                              2014     4359992
-                                              2015     2974803
-                                              2016     2020885
-                                              2017     2070993
-Syracuse University                           2015      369069
+HAMILTON COLLEGE                              2012    143105.0
+HOBART AND WILLIAM SMITH COLLEGES             2012     90000.0
+RESEARCH FOUNDATION OF STATE UNIVERSITY OF NE 2016    510500.0
+SYRACUSE UNIVERSITY                           2013   4179896.0
+                                              2014   4359992.0
+                                              2015   2974803.0
+                                              2016   2020885.0
+                                              2017   2070993.0
+Syracuse University                           2015    369069.0
 ```
 ---
 <a name="NY-25"></a>
@@ -991,14 +991,14 @@ Louise McIntosh Slaughter is not on any of our key committees
 ### HEP Grants
 ```
 In the past 6 years, this district has received: $7,331,000.00 in SC HEP grants.
-                              Amount ($)
-Institution             Year            
-SYRACUSE UNIVERSITY     2012      394000
-                        2013      268000
-University of Rochester 2014     1679000
-                        2015     1515000
-                        2016     1560000
-                        2017     1915000
+                                Amount ($)
+Institution             Year              
+SYRACUSE UNIVERSITY     2012.0    394000.0
+                        2013.0    268000.0
+University of Rochester 2014.0   1679000.0
+                        2015.0   1515000.0
+                        2016.0   1560000.0
+                        2017.0   1915000.0
 ```
 ### SC Contracts
 ```
@@ -1021,21 +1021,21 @@ UNIVERSITY OF ROCHESTER 2015          -93943.86
 In the past 6 years, this district has received: $25,804,991.00 in NSF MPS grants.
                                                     Amount ($)
 Institution                                   Year            
-RESEARCH FOUNDATION FOR THE STATE UNIVERSITY  2017       26385
-RESEARCH FOUNDATION OF STATE UNIVERSITY OF NE 2016        7000
-ROCHESTER INSTITUTE OF TECHNOLOGY (INC)       2013     1928972
-                                              2014      645084
-                                              2015     2015432
-                                              2016      870171
-                                              2017     1920482
-Rochester Inst of Tech                        2015      667461
-SYRACUSE UNIVERSITY                           2012     4528264
-UNIVERSITY OF ROCHESTER                       2013     3200840
-                                              2014     1080274
-                                              2015     2283048
-                                              2016     2887012
-                                              2017     3463893
-University of Rochester                       2015      280673
+RESEARCH FOUNDATION FOR THE STATE UNIVERSITY  2017     26385.0
+RESEARCH FOUNDATION OF STATE UNIVERSITY OF NE 2016      7000.0
+ROCHESTER INSTITUTE OF TECHNOLOGY (INC)       2013   1928972.0
+                                              2014    645084.0
+                                              2015   2015432.0
+                                              2016    870171.0
+                                              2017   1920482.0
+Rochester Inst of Tech                        2015    667461.0
+SYRACUSE UNIVERSITY                           2012   4528264.0
+UNIVERSITY OF ROCHESTER                       2013   3200840.0
+                                              2014   1080274.0
+                                              2015   2283048.0
+                                              2016   2887012.0
+                                              2017   3463893.0
+University of Rochester                       2015    280673.0
 ```
 ---
 <a name="NY-26"></a>
@@ -1057,17 +1057,17 @@ This district received no SC contracts from 2012-2018
 In the past 6 years, this district has received: $18,853,609.00 in NSF MPS grants.
                                                          Amount ($)
 Institution                                        Year            
-CANISIUS COLLEGE                                   2014      136500
-                                                   2015       35000
-RESEARCH FOUNDATION FOR THE STATE UNIVERSITY       2016     1255123
-RESEARCH FOUNDATION FOR THE STATE UNIVERSITY OF... 2017     1980414
-RESEARCH FOUNDATION OF STATE UNIVERSITY OF NE      2012     2820388
-                                                   2013     5260683
-                                                   2014     1289312
-                                                   2015     2072945
-                                                   2016     3358262
-SUNY Buffalo                                       2015      476795
-THE RESEARCH FOUNDATION OF STATE UNIVERSITY O      2014      168187
+CANISIUS COLLEGE                                   2014    136500.0
+                                                   2015     35000.0
+RESEARCH FOUNDATION FOR THE STATE UNIVERSITY       2016   1255123.0
+RESEARCH FOUNDATION FOR THE STATE UNIVERSITY OF... 2017   1980414.0
+RESEARCH FOUNDATION OF STATE UNIVERSITY OF NE      2012   2820388.0
+                                                   2013   5260683.0
+                                                   2014   1289312.0
+                                                   2015   2072945.0
+                                                   2016   3358262.0
+SUNY Buffalo                                       2015    476795.0
+THE RESEARCH FOUNDATION OF STATE UNIVERSITY O      2014    168187.0
 ```
 ---
 <a name="NY-27"></a>
@@ -1089,9 +1089,9 @@ This district received no SC contracts from 2012-2018
 In the past 6 years, this district has received: $476,928.00 in NSF MPS grants.
                                                          Amount ($)
 Institution                                        Year            
-CANISIUS COLLEGE                                   2012      285000
-RESEARCH FOUNDATION FOR THE STATE UNIVERSITY       2016       61625
-RESEARCH FOUNDATION FOR THE STATE UNIVERSITY OF... 2017       66000
-THE RESEARCH FOUNDATION OF STATE UNIVERSITY O      2012       64303
+CANISIUS COLLEGE                                   2012    285000.0
+RESEARCH FOUNDATION FOR THE STATE UNIVERSITY       2016     61625.0
+RESEARCH FOUNDATION FOR THE STATE UNIVERSITY OF... 2017     66000.0
+THE RESEARCH FOUNDATION OF STATE UNIVERSITY O      2012     64303.0
 ```
 ---

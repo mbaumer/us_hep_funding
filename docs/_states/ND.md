@@ -36,18 +36,18 @@ In the past 6 years, this state has received:
  
                                     Amount ($)
 Institution                   Year            
-NORTH DAKOTA STATE UNIVERSITY 2012      938649
-                              2013      540000
-                              2014      771465
-                              2015      131693
-                              2016      263718
-North Dakota State U Fargo    2015      475523
-UNIVERSITY OF NORTH DAKOTA    2012      140000
-                              2013      119051
-                              2014      291599
-                              2015      270000
-                              2016        2817
-                              2017      572940
+NORTH DAKOTA STATE UNIVERSITY 2012    938649.0
+                              2013    540000.0
+                              2014    771465.0
+                              2015    131693.0
+                              2016    263718.0
+North Dakota State U Fargo    2015    475523.0
+UNIVERSITY OF NORTH DAKOTA    2012    140000.0
+                              2013    119051.0
+                              2014    291599.0
+                              2015    270000.0
+                              2016      2817.0
+                              2017    572940.0
 ```
 ---
 ---
@@ -70,17 +70,17 @@ This district received no SC contracts from 2012-2018
 In the past 6 years, this district has received: $4,517,455.00 in NSF MPS grants.
                                     Amount ($)
 Institution                   Year            
-NORTH DAKOTA STATE UNIVERSITY 2012      938649
-                              2013      540000
-                              2014      771465
-                              2015      131693
-                              2016      263718
-North Dakota State U Fargo    2015      475523
-UNIVERSITY OF NORTH DAKOTA    2012      140000
-                              2013      119051
-                              2014      291599
-                              2015      270000
-                              2016        2817
-                              2017      572940
+NORTH DAKOTA STATE UNIVERSITY 2012    938649.0
+                              2013    540000.0
+                              2014    771465.0
+                              2015    131693.0
+                              2016    263718.0
+North Dakota State U Fargo    2015    475523.0
+UNIVERSITY OF NORTH DAKOTA    2012    140000.0
+                              2013    119051.0
+                              2014    291599.0
+                              2015    270000.0
+                              2016      2817.0
+                              2017    572940.0
 ```
 ---

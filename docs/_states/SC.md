@@ -24,15 +24,15 @@ Tim Scott is not on any of our key committees
 In the past 6 years, this state has received:
 13 HEP grants, totalling $2,746,000.00
  
-                                   Amount ($)
-Institution                  Year            
-THE CITADEL                  2012       23000
-UNIVERSITY OF SOUTH CAROLINA 2012      598000
-                             2013      345000
-University of South Carolina 2014      378000
-                             2015      460000
-                             2016      467000
-                             2017      475000
+                                     Amount ($)
+Institution                  Year              
+THE CITADEL                  2012.0     23000.0
+UNIVERSITY OF SOUTH CAROLINA 2012.0    598000.0
+                             2013.0    345000.0
+University of South Carolina 2014.0    378000.0
+                             2015.0    460000.0
+                             2016.0    467000.0
+                             2017.0    475000.0
 ```
 ## SC Contracts
 ```
@@ -51,16 +51,16 @@ In the past 6 years, this state has received:
  
                                         Amount ($)
 Institution                                       
-UNIVERSITY OF SOUTH CAROLINA              15435572
-CLEMSON UNIVERSITY                        12285835
-SOUTH CAROLINA RESEARCH FOUNDATION         6608588
-COLLEGE OF CHARLESTON                      1096399
-FURMAN UNIVERSITY                          1086264
-CLEMSON UNIVERSITY RESEARCH FOUNDATION      522372
-Furman University                           337911
-Clemson University                          337617
-MEDICAL UNIVERSITY OF SOUTH CAROLINA        316667
-WINTHROP UNIVERSITY                         291438
+UNIVERSITY OF SOUTH CAROLINA            15435572.0
+CLEMSON UNIVERSITY                      12285835.0
+SOUTH CAROLINA RESEARCH FOUNDATION       6608588.0
+COLLEGE OF CHARLESTON                    1096399.0
+FURMAN UNIVERSITY                        1086264.0
+CLEMSON UNIVERSITY RESEARCH FOUNDATION    522372.0
+Furman University                         337911.0
+Clemson University                        337617.0
+MEDICAL UNIVERSITY OF SOUTH CAROLINA      316667.0
+WINTHROP UNIVERSITY                       291438.0
 and  5  other institutions.
 ```
 ---
@@ -74,9 +74,9 @@ Mark Sanford is not on any of our key committees
 ### HEP Grants
 ```
 In the past 6 years, this district has received: $23,000.00 in SC HEP grants.
-                  Amount ($)
-Institution Year            
-THE CITADEL 2012       23000
+                    Amount ($)
+Institution Year              
+THE CITADEL 2012.0     23000.0
 ```
 ### SC Contracts
 ```
@@ -87,11 +87,11 @@ This district received no SC contracts from 2012-2018
 In the past 6 years, this district has received: $1,327,340.00 in NSF MPS grants.
                                            Amount ($)
 Institution                          Year            
-COLLEGE OF CHARLESTON                2012      546188
-                                     2014      319800
-                                     2016      230411
-College of Charleston                2015       72607
-MEDICAL UNIVERSITY OF SOUTH CAROLINA 2012      158334
+COLLEGE OF CHARLESTON                2012    546188.0
+                                     2014    319800.0
+                                     2016    230411.0
+College of Charleston                2015     72607.0
+MEDICAL UNIVERSITY OF SOUTH CAROLINA 2012    158334.0
 ```
 ---
 <a name="SC-02"></a>
@@ -132,17 +132,17 @@ This district received no SC contracts from 2012-2018
 In the past 6 years, this district has received: $13,174,533.00 in NSF MPS grants.
                                              Amount ($)
 Institution                            Year            
-CLEMSON UNIVERSITY                     2012     1759005
-                                       2013     1916470
-                                       2014     1099511
-                                       2015     1092737
-                                       2016     3613179
-                                       2017     2804933
-CLEMSON UNIVERSITY RESEARCH FOUNDATION 2012      129569
-                                       2013      375188
-                                       2016       17615
-Clemson University                     2015      337617
-SPELMAN COLLEGE                        2012       28709
+CLEMSON UNIVERSITY                     2012   1759005.0
+                                       2013   1916470.0
+                                       2014   1099511.0
+                                       2015   1092737.0
+                                       2016   3613179.0
+                                       2017   2804933.0
+CLEMSON UNIVERSITY RESEARCH FOUNDATION 2012    129569.0
+                                       2013    375188.0
+                                       2016     17615.0
+Clemson University                     2015    337617.0
+SPELMAN COLLEGE                        2012     28709.0
 ```
 ---
 <a name="SC-04"></a>
@@ -164,12 +164,12 @@ This district received no SC contracts from 2012-2018
 In the past 6 years, this district has received: $1,424,175.00 in NSF MPS grants.
                         Amount ($)
 Institution       Year            
-FURMAN UNIVERSITY 2012      199199
-                  2013      103875
-                  2014      300000
-                  2016      225000
-                  2017      258190
-Furman University 2015      337911
+FURMAN UNIVERSITY 2012    199199.0
+                  2013    103875.0
+                  2014    300000.0
+                  2016    225000.0
+                  2017    258190.0
+Furman University 2015    337911.0
 ```
 ---
 <a name="SC-05"></a>
@@ -195,8 +195,8 @@ TRIBALCO, LLC 2017         5415249.77
 In the past 6 years, this district has received: $435,651.00 in NSF MPS grants.
                           Amount ($)
 Institution         Year            
-COKER COLLEGE       2012      144213
-WINTHROP UNIVERSITY 2014      291438
+COKER COLLEGE       2012    144213.0
+WINTHROP UNIVERSITY 2014    291438.0
 ```
 ---
 <a name="SC-06"></a>
@@ -208,14 +208,14 @@ James E. Clyburn is not on any of our key committees
 ### HEP Grants
 ```
 In the past 6 years, this district has received: $2,723,000.00 in SC HEP grants.
-                                   Amount ($)
-Institution                  Year            
-UNIVERSITY OF SOUTH CAROLINA 2012      598000
-                             2013      345000
-University of South Carolina 2014      378000
-                             2015      460000
-                             2016      467000
-                             2017      475000
+                                     Amount ($)
+Institution                  Year              
+UNIVERSITY OF SOUTH CAROLINA 2012.0    598000.0
+                             2013.0    345000.0
+University of South Carolina 2014.0    378000.0
+                             2015.0    460000.0
+                             2016.0    467000.0
+                             2017.0    475000.0
 ```
 ### SC Contracts
 ```
@@ -226,21 +226,21 @@ This district received no SC contracts from 2012-2018
 In the past 6 years, this district has received: $22,382,328.00 in NSF MPS grants.
                                            Amount ($)
 Institution                          Year            
-MEDICAL UNIVERSITY OF SOUTH CAROLINA 2013      158333
-SOUTH CAROLINA RESEARCH FOUNDATION   2012     4893464
-                                     2013     1254696
-                                     2014      279428
-                                     2015       81000
-                                     2016      100000
-                                     2017           0
-SOUTH CAROLINA STATE UNIVERSITY      2014      135837
-                                     2016       28998
-U of SC Columbia                     2015       15000
-UNIVERSITY OF SOUTH CAROLINA         2013     3330308
-                                     2014     1924225
-                                     2015     1739497
-                                     2016     4357111
-                                     2017     4084431
+MEDICAL UNIVERSITY OF SOUTH CAROLINA 2013    158333.0
+SOUTH CAROLINA RESEARCH FOUNDATION   2012   4893464.0
+                                     2013   1254696.0
+                                     2014    279428.0
+                                     2015     81000.0
+                                     2016    100000.0
+                                     2017         0.0
+SOUTH CAROLINA STATE UNIVERSITY      2014    135837.0
+                                     2016     28998.0
+U of SC Columbia                     2015     15000.0
+UNIVERSITY OF SOUTH CAROLINA         2013   3330308.0
+                                     2014   1924225.0
+                                     2015   1739497.0
+                                     2016   4357111.0
+                                     2017   4084431.0
 ```
 ---
 <a name="SC-07"></a>

@@ -26,10 +26,10 @@ In the past 6 years, this state has received:
  
                                      Amount ($)
 Institution                                    
-University of Alabama                   2228000
-UNIVERSITY OF ALABAMA AT TUSCALOOSA      685000
-University of Alabama - Birmingham       367000
-UNIVERSITY OF SOUTH ALABAMA               70000
+University of Alabama                 2228000.0
+UNIVERSITY OF ALABAMA AT TUSCALOOSA    685000.0
+University of Alabama - Birmingham     367000.0
+UNIVERSITY OF SOUTH ALABAMA             70000.0
 ```
 ## SC Contracts
 ```
@@ -48,16 +48,16 @@ In the past 6 years, this state has received:
  
                                           Amount ($)
 Institution                                         
-UNIVERSITY OF ALABAMA                        7110737
-AUBURN UNIVERSITY                            5196738
-UNIVERSITY OF ALABAMA AT BIRMINGHAM          5031723
-TUSKEGEE UNIVERSITY                          2148123
-U of Alabama Birmingham                       652189
-UNIVERSITY OF ALABAMA IN HUNTSVILLE, THE      588304
-UNIVERSITY OF ALABAMA IN HUNTSVILLE           585843
-ALABAMA A & M UNIVERSITY                      502521
-U of South Alabama                            285000
-ALABAMA STATE UNIVERSITY                      271535
+UNIVERSITY OF ALABAMA                      7110737.0
+AUBURN UNIVERSITY                          5196738.0
+UNIVERSITY OF ALABAMA AT BIRMINGHAM        5031723.0
+TUSKEGEE UNIVERSITY                        2148123.0
+U of Alabama Birmingham                     652189.0
+UNIVERSITY OF ALABAMA IN HUNTSVILLE, THE    588304.0
+UNIVERSITY OF ALABAMA IN HUNTSVILLE         585843.0
+ALABAMA A & M UNIVERSITY                    502521.0
+U of South Alabama                          285000.0
+ALABAMA STATE UNIVERSITY                    271535.0
 and  2  other institutions.
 ```
 ---
@@ -71,10 +71,10 @@ Bradley Byrne is the #5 Republican on the House Subcommittee on Higher Education
 ### HEP Grants
 ```
 In the past 6 years, this district has received: $70,000.00 in SC HEP grants.
-                                  Amount ($)
-Institution                 Year            
-UNIVERSITY OF SOUTH ALABAMA 2012       70000
-                            2013           0
+                                    Amount ($)
+Institution                 Year              
+UNIVERSITY OF SOUTH ALABAMA 2012.0     70000.0
+                            2013.0         0.0
 ```
 ### SC Contracts
 ```
@@ -85,9 +85,9 @@ This district received no SC contracts from 2012-2018
 In the past 6 years, this district has received: $251,088.00 in NSF MPS grants.
                                   Amount ($)
 Institution                 Year            
-U of South Alabama          2015      285000
-UNIVERSITY OF SOUTH ALABAMA 2013      -43912
-                            2017       10000
+U of South Alabama          2015    285000.0
+UNIVERSITY OF SOUTH ALABAMA 2013    -43912.0
+                            2017     10000.0
 ```
 ---
 <a name="AL-02"></a>
@@ -111,8 +111,8 @@ This district received no SC contracts from 2012-2018
 In the past 6 years, this district has received: $409,357.00 in NSF MPS grants.
                                Amount ($)
 Institution              Year            
-ALABAMA STATE UNIVERSITY 2016      271535
-AUBURN UNIVERSITY        2015      137822
+ALABAMA STATE UNIVERSITY 2016    271535.0
+AUBURN UNIVERSITY        2015    137822.0
 ```
 ---
 <a name="AL-03"></a>
@@ -134,15 +134,15 @@ This district received no SC contracts from 2012-2018
 In the past 6 years, this district has received: $7,207,039.00 in NSF MPS grants.
                           Amount ($)
 Institution         Year            
-AUBURN UNIVERSITY   2012      328689
-                    2013      547586
-                    2014     1122896
-                    2015      220718
-                    2016     1583276
-                    2017     1255751
-TUSKEGEE UNIVERSITY 2014      862300
-                    2015      507374
-                    2017      778449
+AUBURN UNIVERSITY   2012    328689.0
+                    2013    547586.0
+                    2014   1122896.0
+                    2015    220718.0
+                    2016   1583276.0
+                    2017   1255751.0
+TUSKEGEE UNIVERSITY 2014    862300.0
+                    2015    507374.0
+                    2017    778449.0
 ```
 ---
 <a name="AL-04"></a>
@@ -191,19 +191,19 @@ VISTA TECHNOLOGIES INC  2012          -86290.97
 In the past 6 years, this district has received: $1,725,212.00 in NSF MPS grants.
                                                Amount ($)
 Institution                              Year            
-ALABAMA A & M UNIVERSITY                 2012       40500
-                                         2013       89000
-                                         2014       89000
-                                         2015      159280
-                                         2016      124741
-UNIVERSITY OF ALABAMA IN HUNTSVILLE      2012      324379
-                                         2013       84929
-                                         2014       60172
-                                         2015      198343
-                                         2016      -81980
-UNIVERSITY OF ALABAMA IN HUNTSVILLE, THE 2017      588304
-UNIVERSITY OF NORTH ALABAMA              2012       19114
-                                         2013       29430
+ALABAMA A & M UNIVERSITY                 2012     40500.0
+                                         2013     89000.0
+                                         2014     89000.0
+                                         2015    159280.0
+                                         2016    124741.0
+UNIVERSITY OF ALABAMA IN HUNTSVILLE      2012    324379.0
+                                         2013     84929.0
+                                         2014     60172.0
+                                         2015    198343.0
+                                         2016    -81980.0
+UNIVERSITY OF ALABAMA IN HUNTSVILLE, THE 2017    588304.0
+UNIVERSITY OF NORTH ALABAMA              2012     19114.0
+                                         2013     29430.0
 ```
 ---
 <a name="AL-06"></a>
@@ -234,15 +234,15 @@ Terri A. Sewell is not on any of our key committees
 ### HEP Grants
 ```
 In the past 6 years, this district has received: $3,280,000.00 in SC HEP grants.
-                                          Amount ($)
-Institution                         Year            
-UNIVERSITY OF ALABAMA AT TUSCALOOSA 2012      410000
-                                    2013      275000
-University of Alabama               2014      505000
-                                    2015      585000
-                                    2016      485000
-                                    2017      653000
-University of Alabama - Birmingham  2017      367000
+                                            Amount ($)
+Institution                         Year              
+UNIVERSITY OF ALABAMA AT TUSCALOOSA 2012.0    410000.0
+                                    2013.0    275000.0
+University of Alabama               2014.0    505000.0
+                                    2015.0    585000.0
+                                    2016.0    485000.0
+                                    2017.0    653000.0
+University of Alabama - Birmingham  2017.0    367000.0
 ```
 ### SC Contracts
 ```
@@ -253,17 +253,17 @@ This district received no SC contracts from 2012-2018
 In the past 6 years, this district has received: $12,466,853.00 in NSF MPS grants.
                                           Amount ($)
 Institution                         Year            
-U of Alabama Birmingham             2015      652189
-UNIVERSITY OF ALABAMA               2012     2205252
-                                    2013     1600098
-                                    2014     1133692
-                                    2015     1190138
-                                    2016      653761
-UNIVERSITY OF ALABAMA AT BIRMINGHAM 2012      710254
-                                    2013      753080
-                                    2014      711592
-                                    2015      771862
-                                    2016     1001050
-                                    2017     1083885
+U of Alabama Birmingham             2015    652189.0
+UNIVERSITY OF ALABAMA               2012   2205252.0
+                                    2013   1600098.0
+                                    2014   1133692.0
+                                    2015   1190138.0
+                                    2016    653761.0
+UNIVERSITY OF ALABAMA AT BIRMINGHAM 2012    710254.0
+                                    2013    753080.0
+                                    2014    711592.0
+                                    2015    771862.0
+                                    2016   1001050.0
+                                    2017   1083885.0
 ```
 ---

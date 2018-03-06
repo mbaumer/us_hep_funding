@@ -30,12 +30,12 @@ In the past 6 years, this state has received:
  
                                     Amount ($)
 Institution                                   
-University of Tennessee                2679000
-UNIVERSITY OF TENNESSEE, KNOXVILLE     1465000
-Vanderbilt University                   680000
-VANDERBILT UNIVERSITY                   480000
-Pronova Solutions LLC                    93000
-ProNova Solutions LLC                        0
+University of Tennessee              2679000.0
+UNIVERSITY OF TENNESSEE, KNOXVILLE   1465000.0
+Vanderbilt University                 680000.0
+VANDERBILT UNIVERSITY                 480000.0
+Pronova Solutions LLC                  93000.0
+ProNova Solutions LLC                      0.0
 ```
 ## SC Contracts
 ```
@@ -63,16 +63,16 @@ In the past 6 years, this state has received:
  
                                                Amount ($)
 Institution                                              
-VANDERBILT UNIVERSITY, THE                       20843637
-UNIVERSITY OF TENNESSEE                          19822861
-FISK UNIVERSITY                                   1617792
-UNIVERSITY OF MEMPHIS, THE                        1356349
-MIDDLE TENNESSEE STATE UNIVERSITY                 1230034
-UNIVERSITY OF MEMPHIS                              795978
-MULTIPLE RECIPIENTS                                793000
-OAK RIDGE ASSOCIATED UNIVERSITIES, INCORPORAT      754304
-THE VANDERBILT UNIVERSITY                          718933
-TENNESSEE TECHNOLOGICAL UNIVERSITY                 685329
+VANDERBILT UNIVERSITY, THE                     20843637.0
+UNIVERSITY OF TENNESSEE                        19822861.0
+FISK UNIVERSITY                                 1617792.0
+UNIVERSITY OF MEMPHIS, THE                      1356349.0
+MIDDLE TENNESSEE STATE UNIVERSITY               1230034.0
+UNIVERSITY OF MEMPHIS                            795978.0
+MULTIPLE RECIPIENTS                              793000.0
+OAK RIDGE ASSOCIATED UNIVERSITIES, INCORPORAT    754304.0
+THE VANDERBILT UNIVERSITY                        718933.0
+TENNESSEE TECHNOLOGICAL UNIVERSITY               685329.0
 and  13  other institutions.
 ```
 ---
@@ -102,11 +102,11 @@ WATER SOLUTIONS ENGINEERING, LLC       2013             3465.0
 In the past 6 years, this district has received: $630,641.00 in NSF MPS grants.
                                       Amount ($)
 Institution                     Year            
-EAST TENNESSEE STATE UNIVERSITY 2012      156048
-                                2013      220375
-                                2014      108260
-                                2015       86660
-                                2017       59298
+EAST TENNESSEE STATE UNIVERSITY 2012    156048.0
+                                2013    220375.0
+                                2014    108260.0
+                                2015     86660.0
+                                2017     59298.0
 ```
 ---
 <a name="TN-02"></a>
@@ -118,17 +118,17 @@ John J. Duncan, Jr. is not on any of our key committees
 ### HEP Grants
 ```
 In the past 6 years, this district has received: $4,237,000.00 in SC HEP grants.
-                                         Amount ($)
-Institution                        Year            
-ProNova Solutions LLC              2016           0
-                                   2017           0
-Pronova Solutions LLC              2015       93000
-UNIVERSITY OF TENNESSEE, KNOXVILLE 2012      674000
-                                   2013      791000
-University of Tennessee            2014      846000
-                                   2015      745000
-                                   2016      688000
-                                   2017      400000
+                                           Amount ($)
+Institution                        Year              
+ProNova Solutions LLC              2016.0         0.0
+                                   2017.0         0.0
+Pronova Solutions LLC              2015.0     93000.0
+UNIVERSITY OF TENNESSEE, KNOXVILLE 2012.0    674000.0
+                                   2013.0    791000.0
+University of Tennessee            2014.0    846000.0
+                                   2015.0    745000.0
+                                   2016.0    688000.0
+                                   2017.0    400000.0
 ```
 ### SC Contracts
 ```
@@ -204,14 +204,14 @@ WYANDOTTE SERVICES                    2015         1919864.45
 In the past 6 years, this district has received: $18,922,874.00 in NSF MPS grants.
                                Amount ($)
 Institution              Year            
-OREGON STATE UNIVERSITY  2014       32838
-U of Tennessee Knoxville 2015      265174
-UNIVERSITY OF TENNESSEE  2012     2934992
-                         2013     3497607
-                         2014     4539105
-                         2015     2409280
-                         2016     2466697
-                         2017     2777181
+OREGON STATE UNIVERSITY  2014     32838.0
+U of Tennessee Knoxville 2015    265174.0
+UNIVERSITY OF TENNESSEE  2012   2934992.0
+                         2013   3497607.0
+                         2014   4539105.0
+                         2015   2409280.0
+                         2016   2466697.0
+                         2017   2777181.0
 ```
 ---
 <a name="TN-03"></a>
@@ -300,17 +300,17 @@ ZONES, INC.                                 2012           29928.70
 In the past 6 years, this district has received: $1,843,169.00 in NSF MPS grants.
                                                       Amount ($)
 Institution                                     Year            
-MICHIGAN STATE UNIVERSITY                       2014        5000
-OAK RIDGE ASSOCIATED UNIVERSITIES, INCORPORAT   2012      529893
-                                                2014       41488
-                                                2015       38776
-                                                2016      144147
-OAK RIDGE ASSOCIATED UNIVERSITIES, INCORPORATED 2017       30847
-RUTGERS, THE STATE UNIVERSITY OF NEW JERSEY     2014      130000
-                                                2017       54910
-UNIVERSITY OF TENNESSEE                         2013      290000
-                                                2015      536997
-                                                2017       41111
+MICHIGAN STATE UNIVERSITY                       2014      5000.0
+OAK RIDGE ASSOCIATED UNIVERSITIES, INCORPORAT   2012    529893.0
+                                                2014     41488.0
+                                                2015     38776.0
+                                                2016    144147.0
+OAK RIDGE ASSOCIATED UNIVERSITIES, INCORPORATED 2017     30847.0
+RUTGERS, THE STATE UNIVERSITY OF NEW JERSEY     2014    130000.0
+                                                2017     54910.0
+UNIVERSITY OF TENNESSEE                         2013    290000.0
+                                                2015    536997.0
+                                                2017     41111.0
 ```
 ---
 <a name="TN-04"></a>
@@ -335,14 +335,14 @@ HASELWOOD SERVICES AND MANUFACTURING INCORPORATED 2012          -24106.38
 In the past 6 years, this district has received: $1,684,775.00 in NSF MPS grants.
                                         Amount ($)
 Institution                       Year            
-MIDDLE TENNESSEE STATE UNIVERSITY 2013       55000
-                                  2015      155175
-                                  2016      619877
-                                  2017      399982
-UNIVERSITY OF TENNESSEE           2012        6111
-                                  2013        3938
-                                  2016      319842
-VANDERBILT UNIVERSITY, THE        2013      124850
+MIDDLE TENNESSEE STATE UNIVERSITY 2013     55000.0
+                                  2015    155175.0
+                                  2016    619877.0
+                                  2017    399982.0
+UNIVERSITY OF TENNESSEE           2012      6111.0
+                                  2013      3938.0
+                                  2016    319842.0
+VANDERBILT UNIVERSITY, THE        2013    124850.0
 ```
 ---
 <a name="TN-05"></a>
@@ -354,45 +354,45 @@ Jim Cooper is not on any of our key committees
 ### HEP Grants
 ```
 In the past 6 years, this district has received: $1,160,000.00 in SC HEP grants.
-                            Amount ($)
-Institution           Year            
-VANDERBILT UNIVERSITY 2012      260000
-                      2013      220000
-Vanderbilt University 2014      380000
-                      2015           0
-                      2016      300000
-                      2017           0
+                              Amount ($)
+Institution           Year              
+VANDERBILT UNIVERSITY 2012.0    260000.0
+                      2013.0    220000.0
+Vanderbilt University 2014.0    380000.0
+                      2015.0         0.0
+                      2016.0    300000.0
+                      2017.0         0.0
 ```
 ### SC Contracts
 ```
 In the past 6 years, this district has received: $132,506.00 in SC contracts.
                                 Amount ($)
 vendorname         fiscal_year            
-ROGERS GROUP, INC. 2014             132506
+ROGERS GROUP, INC. 2014           132506.0
 ```
 ### NSF MPS Grants
 ```
 In the past 6 years, this district has received: $24,751,634.00 in NSF MPS grants.
                                  Amount ($)
 Institution                Year            
-FISK UNIVERSITY            2012      227792
-                           2014     1390000
-                           2017           0
-Fisk University            2015      158932
-MULTIPLE RECIPIENTS        2012      439000
-                           2013      265000
-                           2014       89000
-PII Redacted               2017      200000
-TENNESSEE STATE UNIVERSITY 2013      257110
-THE VANDERBILT UNIVERSITY  2012      354416
-                           2013      364517
-VANDERBILT UNIVERSITY, THE 2012     5939302
-                           2013     5192596
-                           2014      579085
-                           2015     4755897
-                           2016     2497741
-                           2017     1754166
-Vanderbilt University      2015      287080
+FISK UNIVERSITY            2012    227792.0
+                           2014   1390000.0
+                           2017         0.0
+Fisk University            2015    158932.0
+MULTIPLE RECIPIENTS        2012    439000.0
+                           2013    265000.0
+                           2014     89000.0
+PII Redacted               2017    200000.0
+TENNESSEE STATE UNIVERSITY 2013    257110.0
+THE VANDERBILT UNIVERSITY  2012    354416.0
+                           2013    364517.0
+VANDERBILT UNIVERSITY, THE 2012   5939302.0
+                           2013   5192596.0
+                           2014    579085.0
+                           2015   4755897.0
+                           2016   2497741.0
+                           2017   1754166.0
+Vanderbilt University      2015    287080.0
 ```
 ---
 <a name="TN-06"></a>
@@ -414,9 +414,9 @@ This district received no SC contracts from 2012-2018
 In the past 6 years, this district has received: $685,329.00 in NSF MPS grants.
                                          Amount ($)
 Institution                        Year            
-TENNESSEE TECHNOLOGICAL UNIVERSITY 2015      410480
-                                   2016      154849
-                                   2017      120000
+TENNESSEE TECHNOLOGICAL UNIVERSITY 2015    410480.0
+                                   2016    154849.0
+                                   2017    120000.0
 ```
 ---
 <a name="TN-07"></a>
@@ -442,7 +442,7 @@ LEGACY RSOURCE CONSULTING CORPORATION 2014           -9793.24
 In the past 6 years, this district has received: $200,000.00 in NSF MPS grants.
                                    Amount ($)
 Institution                  Year            
-AUSTIN PEAY STATE UNIVERSITY 2014      200000
+AUSTIN PEAY STATE UNIVERSITY 2014    200000.0
 ```
 ---
 <a name="TN-08"></a>
@@ -464,7 +464,7 @@ This district received no SC contracts from 2012-2018
 In the past 6 years, this district has received: $76,082.00 in NSF MPS grants.
                                    Amount ($)
 Institution                  Year            
-AUSTIN PEAY STATE UNIVERSITY 2017       76082
+AUSTIN PEAY STATE UNIVERSITY 2017     76082.0
 ```
 ---
 <a name="TN-09"></a>
@@ -492,13 +492,13 @@ INTERACTIVE SOLUTIONS, INC. 2012               0.00
 In the past 6 years, this district has received: $2,306,327.00 in NSF MPS grants.
                                        Amount ($)
 Institution                      Year            
-RHODES COLLEGE (TENNESSEE), INC. 2017      114000
-UNIVERSITY OF MEMPHIS            2012      569000
-                                 2013      226978
-UNIVERSITY OF MEMPHIS, THE       2014      739914
-                                 2015      101436
-                                 2016      145000
-                                 2017      369999
-University of Memphis            2015       40000
+RHODES COLLEGE (TENNESSEE), INC. 2017    114000.0
+UNIVERSITY OF MEMPHIS            2012    569000.0
+                                 2013    226978.0
+UNIVERSITY OF MEMPHIS, THE       2014    739914.0
+                                 2015    101436.0
+                                 2016    145000.0
+                                 2017    369999.0
+University of Memphis            2015     40000.0
 ```
 ---

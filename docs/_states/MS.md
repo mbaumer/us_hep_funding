@@ -24,14 +24,14 @@ Thad Cochran is the #1 Republican on the Senate Committee on Appropriations
 In the past 6 years, this state has received:
 9 HEP grants, totalling $1,840,000.00
  
-                                Amount ($)
-Institution               Year            
-UNIVERSITY OF MISSISSIPPI 2012      349000
-                          2013      118000
-University of Mississippi 2014      264000
-                          2015      412000
-                          2016      382000
-                          2017      315000
+                                  Amount ($)
+Institution               Year              
+UNIVERSITY OF MISSISSIPPI 2012.0    349000.0
+                          2013.0    118000.0
+University of Mississippi 2014.0    264000.0
+                          2015.0    412000.0
+                          2016.0    382000.0
+                          2017.0    315000.0
 ```
 ## SC Contracts
 ```
@@ -44,13 +44,13 @@ In the past 6 years, this state has received:
  
                                          Amount ($)
 Institution                                        
-UNIVERSITY OF MISSISSIPPI                   5292445
-JACKSON STATE UNIVERSITY                    3166651
-MISSISSIPPI STATE UNIVERSITY                2304507
-UNIVERSITY OF SOUTHERN MISSISSIPPI          2150536
-UNIVERSITY OF SOUTHERN MISSISSIPPI, THE     1398149
-Mississippi State Univ                       206055
-U of Southern Mississippi                   -100250
+UNIVERSITY OF MISSISSIPPI                 5292445.0
+JACKSON STATE UNIVERSITY                  3166651.0
+MISSISSIPPI STATE UNIVERSITY              2304507.0
+UNIVERSITY OF SOUTHERN MISSISSIPPI        2150536.0
+UNIVERSITY OF SOUTHERN MISSISSIPPI, THE   1398149.0
+Mississippi State Univ                     206055.0
+U of Southern Mississippi                 -100250.0
 ```
 ---
 ---
@@ -63,14 +63,14 @@ Trent Kelly is not on any of our key committees
 ### HEP Grants
 ```
 In the past 6 years, this district has received: $1,840,000.00 in SC HEP grants.
-                                Amount ($)
-Institution               Year            
-UNIVERSITY OF MISSISSIPPI 2012      349000
-                          2013      118000
-University of Mississippi 2014      264000
-                          2015      412000
-                          2016      382000
-                          2017      315000
+                                  Amount ($)
+Institution               Year              
+UNIVERSITY OF MISSISSIPPI 2012.0    349000.0
+                          2013.0    118000.0
+University of Mississippi 2014.0    264000.0
+                          2015.0    412000.0
+                          2016.0    382000.0
+                          2017.0    315000.0
 ```
 ### SC Contracts
 ```
@@ -81,12 +81,12 @@ This district received no SC contracts from 2012-2018
 In the past 6 years, this district has received: $5,292,445.00 in NSF MPS grants.
                                 Amount ($)
 Institution               Year            
-UNIVERSITY OF MISSISSIPPI 2012      897398
-                          2013     1157000
-                          2014      273038
-                          2015      995115
-                          2016      741314
-                          2017     1228580
+UNIVERSITY OF MISSISSIPPI 2012    897398.0
+                          2013   1157000.0
+                          2014    273038.0
+                          2015    995115.0
+                          2016    741314.0
+                          2017   1228580.0
 ```
 ---
 <a name="MS-02"></a>
@@ -108,12 +108,12 @@ This district received no SC contracts from 2012-2018
 In the past 6 years, this district has received: $2,926,651.00 in NSF MPS grants.
                                Amount ($)
 Institution              Year            
-JACKSON STATE UNIVERSITY 2012      620114
-                         2013     1200000
-                         2014       41174
-                         2015      337154
-                         2016      528209
-                         2017      200000
+JACKSON STATE UNIVERSITY 2012    620114.0
+                         2013   1200000.0
+                         2014     41174.0
+                         2015    337154.0
+                         2016    528209.0
+                         2017    200000.0
 ```
 ---
 <a name="MS-03"></a>
@@ -135,13 +135,13 @@ This district received no SC contracts from 2012-2018
 In the past 6 years, this district has received: $2,750,562.00 in NSF MPS grants.
                                    Amount ($)
 Institution                  Year            
-JACKSON STATE UNIVERSITY     2013      240000
-MISSISSIPPI STATE UNIVERSITY 2012      709845
-                             2013      317737
-                             2014      478207
-                             2015      762876
-                             2016       35842
-Mississippi State Univ       2015      206055
+JACKSON STATE UNIVERSITY     2013    240000.0
+MISSISSIPPI STATE UNIVERSITY 2012    709845.0
+                             2013    317737.0
+                             2014    478207.0
+                             2015    762876.0
+                             2016     35842.0
+Mississippi State Univ       2015    206055.0
 ```
 ---
 <a name="MS-04"></a>
@@ -165,12 +165,12 @@ This district received no SC contracts from 2012-2018
 In the past 6 years, this district has received: $3,448,435.00 in NSF MPS grants.
                                               Amount ($)
 Institution                             Year            
-U of Southern Mississippi               2015     -100250
-UNIVERSITY OF SOUTHERN MISSISSIPPI      2012      711002
-                                        2013      548998
-                                        2014      372682
-                                        2015        9400
-                                        2016      508454
-UNIVERSITY OF SOUTHERN MISSISSIPPI, THE 2017     1398149
+U of Southern Mississippi               2015   -100250.0
+UNIVERSITY OF SOUTHERN MISSISSIPPI      2012    711002.0
+                                        2013    548998.0
+                                        2014    372682.0
+                                        2015      9400.0
+                                        2016    508454.0
+UNIVERSITY OF SOUTHERN MISSISSIPPI, THE 2017   1398149.0
 ```
 ---

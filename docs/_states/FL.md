@@ -52,18 +52,18 @@ FLORIDA INTERNATIONAL UNIV    -24792.00
 In the past 6 years, this state has received:
 655 NSF MPS grants, totalling $301,018,495.00
  
-                                       Amount ($)
-Institution                                      
-FLORIDA STATE UNIVERSITY, THE           184136986
-UNIVERSITY OF FLORIDA                    37305377
-Florida State University                 25494440
-FLORIDA STATE UNIVERSITY                 17846981
-UNIVERSITY OF SOUTH FLORIDA               7834762
-UNIVERSITY OF MIAMI                       7214765
-UNIVERSITY OF CENTRAL FLORIDA             6655896
-FLORIDA INTERNATIONAL UNIVERSITY          5467657
-FLORIDA INSTITUTE OF TECHNOLOGY, INC.     1626722
-University of Florida                     1180081
+                                        Amount ($)
+Institution                                       
+FLORIDA STATE UNIVERSITY, THE          184136986.0
+UNIVERSITY OF FLORIDA                   37305377.0
+Florida State University                25494440.0
+FLORIDA STATE UNIVERSITY                17846981.0
+UNIVERSITY OF SOUTH FLORIDA              7834762.0
+UNIVERSITY OF MIAMI                      7214765.0
+UNIVERSITY OF CENTRAL FLORIDA            6655896.0
+FLORIDA INTERNATIONAL UNIVERSITY         5467657.0
+FLORIDA INSTITUTE OF TECHNOLOGY, INC.    1626722.0
+University of Florida                    1180081.0
 and  21  other institutions.
 ```
 ---
@@ -98,19 +98,19 @@ Neal P. Dunn is the #11 Republican on the House Committee on Science, Space, and
 ### HEP Grants
 ```
 In the past 6 years, this district has received: $14,892,999.45 in SC HEP grants.
-                               Amount ($)
-Institution              Year            
-FLORIDA A&M UNIVERSITY   2012    63000.00
-                         2013    78000.00
-FLORIDA STATE UNIVERSITY 2012  1734000.00
-                         2013  2617000.00
-Florida A&M University   2014    78000.00
-                         2015        0.00
-                         2016        0.00
-Florida State University 2014  2537000.00
-                         2015  1960999.45
-                         2016  3460000.00
-                         2017  2365000.00
+                                 Amount ($)
+Institution              Year              
+FLORIDA A&M UNIVERSITY   2012.0    63000.00
+                         2013.0    78000.00
+FLORIDA STATE UNIVERSITY 2012.0  1734000.00
+                         2013.0  2617000.00
+Florida A&M University   2014.0    78000.00
+                         2015.0        0.00
+                         2016.0        0.00
+Florida State University 2014.0  2537000.00
+                         2015.0  1960999.45
+                         2016.0  3460000.00
+                         2017.0  2365000.00
 ```
 ### SC Contracts
 ```
@@ -121,18 +121,18 @@ This district received no SC contracts from 2012-2018
 In the past 6 years, this district has received: $199,416,716.00 in NSF MPS grants.
                                                   Amount ($)
 Institution                                 Year            
-FLORIDA A & M UNIVERSITY                    2014      100000
-                                            2016       19999
-FLORIDA STATE UNIVERSITY, THE               2012    35877318
-                                            2013    36908080
-                                            2014    45754778
-                                            2015    14354578
-                                            2016    40313799
-                                            2017      205724
-Florida State University                    2015    25494440
-LOUISIANA STATE UNIVERSITY SYSTEM           2014      203000
-MICHIGAN STATE UNIVERSITY                   2015        5000
-RUTGERS, THE STATE UNIVERSITY OF NEW JERSEY 2012      180000
+FLORIDA A & M UNIVERSITY                    2014    100000.0
+                                            2016     19999.0
+FLORIDA STATE UNIVERSITY, THE               2012  35877318.0
+                                            2013  36908080.0
+                                            2014  45754778.0
+                                            2015  14354578.0
+                                            2016  40313799.0
+                                            2017    205724.0
+Florida State University                    2015  25494440.0
+LOUISIANA STATE UNIVERSITY SYSTEM           2014    203000.0
+MICHIGAN STATE UNIVERSITY                   2015      5000.0
+RUTGERS, THE STATE UNIVERSITY OF NEW JERSEY 2012    180000.0
 ```
 ---
 <a name="FL-03"></a>
@@ -144,12 +144,12 @@ Ted S. Yoho is not on any of our key committees
 ### HEP Grants
 ```
 In the past 6 years, this district has received: $9,249,000.00 in SC HEP grants.
-                            Amount ($)
-Institution           Year            
-University of Florida 2014     3093000
-                      2015     2161000
-                      2016     2385000
-                      2017     1610000
+                              Amount ($)
+Institution           Year              
+University of Florida 2014.0   3093000.0
+                      2015.0   2161000.0
+                      2016.0   2385000.0
+                      2017.0   1610000.0
 ```
 ### SC Contracts
 ```
@@ -160,13 +160,13 @@ This district received no SC contracts from 2012-2018
 In the past 6 years, this district has received: $30,737,310.00 in NSF MPS grants.
                                                     Amount ($)
 Institution                                   Year            
-FOUNDATION FOR APPLIED MOLECULAR EVOLUTION, I 2015      320000
-UNIVERSITY OF FLORIDA                         2013     6904259
-                                              2014     6184663
-                                              2015     6872029
-                                              2016     4802537
-                                              2017     4473741
-University of Florida                         2015     1180081
+FOUNDATION FOR APPLIED MOLECULAR EVOLUTION, I 2015    320000.0
+UNIVERSITY OF FLORIDA                         2013   6904259.0
+                                              2014   6184663.0
+                                              2015   6872029.0
+                                              2016   4802537.0
+                                              2017   4473741.0
+University of Florida                         2015   1180081.0
 ```
 ---
 <a name="FL-04"></a>
@@ -188,10 +188,10 @@ This district received no SC contracts from 2012-2018
 In the past 6 years, this district has received: $827,128.00 in NSF MPS grants.
                                        Amount ($)
 Institution                      Year            
-UNIVERSITY OF NORTH FLORIDA      2012        7500
-UNIVERSITY OF NORTH FLORIDA, THE 2014      407491
-                                 2016      118137
-                                 2017      294000
+UNIVERSITY OF NORTH FLORIDA      2012      7500.0
+UNIVERSITY OF NORTH FLORIDA, THE 2014    407491.0
+                                 2016    118137.0
+                                 2017    294000.0
 ```
 ---
 <a name="FL-05"></a>
@@ -213,9 +213,9 @@ This district received no SC contracts from 2012-2018
 In the past 6 years, this district has received: $28,762,715.00 in NSF MPS grants.
                                     Amount ($)
 Institution                   Year            
-FLORIDA A & M UNIVERSITY      2017      193025
-FLORIDA STATE UNIVERSITY      2017    17846981
-FLORIDA STATE UNIVERSITY, THE 2017    10722709
+FLORIDA A & M UNIVERSITY      2017    193025.0
+FLORIDA STATE UNIVERSITY      2017  17846981.0
+FLORIDA STATE UNIVERSITY, THE 2017  10722709.0
 ```
 ---
 <a name="FL-06"></a>
@@ -227,10 +227,10 @@ Ron DeSantis is not on any of our key committees
 ### HEP Grants
 ```
 In the past 6 years, this district has received: $4,654,000.00 in SC HEP grants.
-                            Amount ($)
-Institution           Year            
-UNIVERSITY OF FLORIDA 2012     2241000
-                      2013     2413000
+                              Amount ($)
+Institution           Year              
+UNIVERSITY OF FLORIDA 2012.0   2241000.0
+                      2013.0   2413000.0
 ```
 ### SC Contracts
 ```
@@ -241,11 +241,11 @@ This district received no SC contracts from 2012-2018
 In the past 6 years, this district has received: $8,651,956.00 in NSF MPS grants.
                                                Amount ($)
 Institution                              Year            
-EMBRY-RIDDLE AERONAUTICAL UNIVERSITY INC 2013      365197
-                                         2014       99925
-                                         2016       39999
-                                         2017       78687
-UNIVERSITY OF FLORIDA                    2012     8068148
+EMBRY-RIDDLE AERONAUTICAL UNIVERSITY INC 2013    365197.0
+                                         2014     99925.0
+                                         2016     39999.0
+                                         2017     78687.0
+UNIVERSITY OF FLORIDA                    2012   8068148.0
 ```
 ---
 <a name="FL-07"></a>
@@ -267,14 +267,14 @@ This district received no SC contracts from 2012-2018
 In the past 6 years, this district has received: $5,961,135.00 in NSF MPS grants.
                                                          Amount ($)
 Institution                                        Year            
-ROLLINS COLLEGE                                    2013      214745
-                                                   2016      121663
-UNIVERSITY OF CENTRAL FLORIDA                      2013     1474709
-                                                   2014     1199868
-                                                   2015     1198472
-                                                   2016      946285
-UNIVERSITY OF CENTRAL FLORIDA BOARD OF TRUSTE      2017      120806
-UNIVERSITY OF CENTRAL FLORIDA BOARD OF TRUSTEES... 2017      684587
+ROLLINS COLLEGE                                    2013    214745.0
+                                                   2016    121663.0
+UNIVERSITY OF CENTRAL FLORIDA                      2013   1474709.0
+                                                   2014   1199868.0
+                                                   2015   1198472.0
+                                                   2016    946285.0
+UNIVERSITY OF CENTRAL FLORIDA BOARD OF TRUSTE      2017    120806.0
+UNIVERSITY OF CENTRAL FLORIDA BOARD OF TRUSTEES... 2017    684587.0
 ```
 ---
 <a name="FL-08"></a>
@@ -286,12 +286,12 @@ Bill Posey is the #6 Republican on the House Committee on Science, Space, and Te
 ### HEP Grants
 ```
 In the past 6 years, this district has received: $1,071,000.00 in SC HEP grants.
-                                      Amount ($)
-Institution                     Year            
-Florida Institute of Technology 2014      201000
-                                2015      290000
-                                2016      290000
-                                2017      290000
+                                        Amount ($)
+Institution                     Year              
+Florida Institute of Technology 2014.0    201000.0
+                                2015.0    290000.0
+                                2016.0    290000.0
+                                2017.0    290000.0
 ```
 ### SC Contracts
 ```
@@ -302,11 +302,11 @@ This district received no SC contracts from 2012-2018
 In the past 6 years, this district has received: $1,634,523.00 in NSF MPS grants.
                                             Amount ($)
 Institution                           Year            
-FLORIDA INSTITUTE OF TECHNOLOGY, INC. 2013      354763
-                                      2014      294991
-                                      2016      627327
-                                      2017      271253
-Florida Institute of Tech             2015       86189
+FLORIDA INSTITUTE OF TECHNOLOGY, INC. 2013    354763.0
+                                      2014    294991.0
+                                      2016    627327.0
+                                      2017    271253.0
+Florida Institute of Tech             2015     86189.0
 ```
 ---
 <a name="FL-09"></a>
@@ -347,8 +347,8 @@ This district received no SC contracts from 2012-2018
 In the past 6 years, this district has received: $387,255.00 in NSF MPS grants.
                                                          Amount ($)
 Institution                                        Year            
-ECKERD COLLEGE, INC.                               2012      107255
-UNIVERSITY OF CENTRAL FLORIDA BOARD OF TRUSTEES... 2017      280000
+ECKERD COLLEGE, INC.                               2012    107255.0
+UNIVERSITY OF CENTRAL FLORIDA BOARD OF TRUSTEES... 2017    280000.0
 ```
 ---
 <a name="FL-11"></a>
@@ -374,8 +374,8 @@ This district received no SC contracts from 2012-2018
 In the past 6 years, this district has received: $1,883,871.00 in NSF MPS grants.
                                   Amount ($)
 Institution                 Year            
-UNIVERSITY OF SOUTH FLORIDA 2012     1863871
-                            2013       20000
+UNIVERSITY OF SOUTH FLORIDA 2012   1863871.0
+                            2013     20000.0
 ```
 ---
 <a name="FL-12"></a>
@@ -435,7 +435,7 @@ This district received no SC contracts from 2012-2018
 In the past 6 years, this district has received: $1,125,340.00 in NSF MPS grants.
                                   Amount ($)
 Institution                 Year            
-UNIVERSITY OF SOUTH FLORIDA 2017     1125340
+UNIVERSITY OF SOUTH FLORIDA 2017   1125340.0
 ```
 ---
 <a name="FL-15"></a>
@@ -447,10 +447,10 @@ Dennis A. Ross is not on any of our key committees
 ### HEP Grants
 ```
 In the past 6 years, this district has received: $299,000.00 in SC HEP grants.
-                                      Amount ($)
-Institution                     Year            
-FLORIDA INSTITUTE OF TECHNOLOGY 2012      181000
-                                2013      118000
+                                        Amount ($)
+Institution                     Year              
+FLORIDA INSTITUTE OF TECHNOLOGY 2012.0    181000.0
+                                2013.0    118000.0
 ```
 ### SC Contracts
 ```
@@ -461,14 +461,14 @@ This district received no SC contracts from 2012-2018
 In the past 6 years, this district has received: $5,977,797.00 in NSF MPS grants.
                                             Amount ($)
 Institution                           Year            
-FLORIDA INSTITUTE OF TECHNOLOGY, INC. 2012      193463
-                                      2013     -115075
-U of South Florida                    2015     1073858
-UNIVERSITY OF SOUTH FLORIDA           2013      885488
-                                      2014     1598059
-                                      2015     1062090
-                                      2016      664661
-                                      2017      615253
+FLORIDA INSTITUTE OF TECHNOLOGY, INC. 2012    193463.0
+                                      2013   -115075.0
+U of South Florida                    2015   1073858.0
+UNIVERSITY OF SOUTH FLORIDA           2013    885488.0
+                                      2014   1598059.0
+                                      2015   1062090.0
+                                      2016    664661.0
+                                      2017    615253.0
 ```
 ---
 <a name="FL-16"></a>
@@ -486,14 +486,14 @@ This district received no SC HEP grants from 2012-2017
 In the past 6 years, this district has received: $10,739.00 in SC contracts.
                                        Amount ($)
 vendorname                fiscal_year            
-TOM BRUNTON MASONRY, INC. 2013              10739
+TOM BRUNTON MASONRY, INC. 2013            10739.0
 ```
 ### NSF MPS Grants
 ```
 In the past 6 years, this district has received: $244,153.00 in NSF MPS grants.
                              Amount ($)
 Institution            Year            
-NEW COLLEGE OF FLORIDA 2014      244153
+NEW COLLEGE OF FLORIDA 2014    244153.0
 ```
 ---
 <a name="FL-17"></a>
@@ -515,8 +515,8 @@ This district received no SC contracts from 2012-2018
 In the past 6 years, this district has received: $329,172.00 in NSF MPS grants.
                           Amount ($)
 Institution         Year            
-UNIVERSITY OF MIAMI 2012      288741
-                    2013       40431
+UNIVERSITY OF MIAMI 2012    288741.0
+                    2013     40431.0
 ```
 ---
 <a name="FL-18"></a>
@@ -538,7 +538,7 @@ This district received no SC contracts from 2012-2018
 In the past 6 years, this district has received: $1,502,164.00 in NSF MPS grants.
                           Amount ($)
 Institution         Year            
-UNIVERSITY OF MIAMI 2012     1502164
+UNIVERSITY OF MIAMI 2012   1502164.0
 ```
 ---
 <a name="FL-19"></a>
@@ -560,10 +560,10 @@ This district received no SC contracts from 2012-2018
 In the past 6 years, this district has received: $407,857.00 in NSF MPS grants.
                                     Amount ($)
 Institution                   Year            
-FLORIDA ATLANTIC UNIVERSITY   2012       45000
-FLORIDA GULF COAST UNIVERSITY 2015      274466
-                              2017       58391
-Florida Gulf Coast Univ       2015       30000
+FLORIDA ATLANTIC UNIVERSITY   2012     45000.0
+FLORIDA GULF COAST UNIVERSITY 2015    274466.0
+                              2017     58391.0
+Florida Gulf Coast Univ       2015     30000.0
 ```
 ---
 <a name="FL-20"></a>
@@ -585,7 +585,7 @@ This district received no SC contracts from 2012-2018
 In the past 6 years, this district has received: $40,000.00 in NSF MPS grants.
                           Amount ($)
 Institution         Year            
-UNIVERSITY OF MIAMI 2012       40000
+UNIVERSITY OF MIAMI 2012     40000.0
 ```
 ---
 <a name="FL-21"></a>
@@ -610,7 +610,7 @@ SUPPLIES NOW, INC. 2015            4110.92
 In the past 6 years, this district has received: $1,558,838.00 in NSF MPS grants.
                                        Amount ($)
 Institution                      Year            
-FLORIDA INTERNATIONAL UNIVERSITY 2012     1558838
+FLORIDA INTERNATIONAL UNIVERSITY 2012   1558838.0
 ```
 ---
 <a name="FL-22"></a>
@@ -628,20 +628,20 @@ This district received no SC HEP grants from 2012-2017
 In the past 6 years, this district has received: $13,762.00 in SC contracts.
                                          Amount ($)
 vendorname                  fiscal_year            
-SIMPLEXGRINNELL LP          2014               7802
-TAYLOR & FRANCIS GROUP, LLC 2016               5960
+SIMPLEXGRINNELL LP          2014             7802.0
+TAYLOR & FRANCIS GROUP, LLC 2016             5960.0
 ```
 ### NSF MPS Grants
 ```
 In the past 6 years, this district has received: $476,132.00 in NSF MPS grants.
                                   Amount ($)
 Institution                 Year            
-FLORIDA ATLANTIC UNIVERSITY 2012       30000
-                            2013      165999
-                            2015      106498
-                            2016       42985
-                            2017       85085
-Florida Atlantic Univ       2015       45565
+FLORIDA ATLANTIC UNIVERSITY 2012     30000.0
+                            2013    165999.0
+                            2015    106498.0
+                            2016     42985.0
+                            2017     85085.0
+Florida Atlantic Univ       2015     45565.0
 ```
 ---
 <a name="FL-23"></a>
@@ -684,11 +684,11 @@ This district received no SC contracts from 2012-2018
 In the past 6 years, this district has received: $2,308,562.00 in NSF MPS grants.
                                     Amount ($)
 Institution                   Year            
-UNIVERSITY OF CENTRAL FLORIDA 2012     1726562
-                              2013      110000
-UNIVERSITY OF MIAMI           2013      139999
-                              2014     -139999
-                              2015      472000
+UNIVERSITY OF CENTRAL FLORIDA 2012   1726562.0
+                              2013    110000.0
+UNIVERSITY OF MIAMI           2013    139999.0
+                              2014   -139999.0
+                              2015    472000.0
 ```
 ---
 <a name="FL-25"></a>
@@ -710,8 +710,8 @@ This district received no SC contracts from 2012-2018
 In the past 6 years, this district has received: $637,712.00 in NSF MPS grants.
                                        Amount ($)
 Institution                      Year            
-FLORIDA INTERNATIONAL UNIVERSITY 2013      103086
-                                 2014      534626
+FLORIDA INTERNATIONAL UNIVERSITY 2013    103086.0
+                                 2014    534626.0
 ```
 ---
 <a name="FL-26"></a>
@@ -729,19 +729,19 @@ This district received no SC HEP grants from 2012-2017
 In the past 6 years, this district has received: $-24,792.00 in SC contracts.
                                         Amount ($)
 vendorname                 fiscal_year            
-FLORIDA INTERNATIONAL UNIV 2014             -24792
+FLORIDA INTERNATIONAL UNIV 2014           -24792.0
 ```
 ### NSF MPS Grants
 ```
 In the past 6 years, this district has received: $3,413,232.00 in NSF MPS grants.
                                        Amount ($)
 Institution                      Year            
-FLORIDA INTERNATIONAL UNIVERSITY 2013      986059
-                                 2014      213896
-                                 2015      697079
-                                 2016      444127
-                                 2017      929946
-Florida International Univ       2015      142125
+FLORIDA INTERNATIONAL UNIVERSITY 2013    986059.0
+                                 2014    213896.0
+                                 2015    697079.0
+                                 2016    444127.0
+                                 2017    929946.0
+Florida International Univ       2015    142125.0
 ```
 ---
 <a name="FL-27"></a>
@@ -766,11 +766,11 @@ PRESCIENT INCORPORATED 2014           -3281.02
 In the past 6 years, this district has received: $4,734,927.00 in NSF MPS grants.
                           Amount ($)
 Institution         Year            
-UNIVERSITY OF MIAMI 2013     1589696
-                    2014      246368
-                    2015     1043519
-                    2016     1187464
-                    2017      804382
-University of Miami 2015     -136502
+UNIVERSITY OF MIAMI 2013   1589696.0
+                    2014    246368.0
+                    2015   1043519.0
+                    2016   1187464.0
+                    2017    804382.0
+University of Miami 2015   -136502.0
 ```
 ---

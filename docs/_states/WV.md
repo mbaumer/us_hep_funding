@@ -42,13 +42,13 @@ In the past 6 years, this state has received:
  
                                                     Amount ($)
 Institution                                   Year            
-MARSHALL UNIVERSITY RESEARCH CORPORATION      2012      338845
-WEST VIRGINIA UNIVERSITY RESEARCH CORPORATION 2012     2258269
-                                              2013     2156346
-                                              2014     2904443
-                                              2015     1375140
-                                              2016     2976853
-WV Univ Research Corp                         2015     1474918
+MARSHALL UNIVERSITY RESEARCH CORPORATION      2012    338845.0
+WEST VIRGINIA UNIVERSITY RESEARCH CORPORATION 2012   2258269.0
+                                              2013   2156346.0
+                                              2014   2904443.0
+                                              2015   1375140.0
+                                              2016   2976853.0
+WV Univ Research Corp                         2015   1474918.0
 ```
 ---
 ---
@@ -71,12 +71,12 @@ This district received no SC contracts from 2012-2018
 In the past 6 years, this district has received: $13,145,969.00 in NSF MPS grants.
                                                     Amount ($)
 Institution                                   Year            
-WEST VIRGINIA UNIVERSITY RESEARCH CORPORATION 2012     2258269
-                                              2013     2156346
-                                              2014     2904443
-                                              2015     1375140
-                                              2016     2976853
-WV Univ Research Corp                         2015     1474918
+WEST VIRGINIA UNIVERSITY RESEARCH CORPORATION 2012   2258269.0
+                                              2013   2156346.0
+                                              2014   2904443.0
+                                              2015   1375140.0
+                                              2016   2976853.0
+WV Univ Research Corp                         2015   1474918.0
 ```
 ---
 <a name="WV-02"></a>
@@ -119,6 +119,6 @@ This district received no SC contracts from 2012-2018
 In the past 6 years, this district has received: $338,845.00 in NSF MPS grants.
                                                Amount ($)
 Institution                              Year            
-MARSHALL UNIVERSITY RESEARCH CORPORATION 2012      338845
+MARSHALL UNIVERSITY RESEARCH CORPORATION 2012    338845.0
 ```
 ---

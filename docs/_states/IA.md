@@ -22,10 +22,10 @@ In the past 6 years, this state has received:
  
                                                  Amount ($)
 Institution                                                
-Iowa State University of Science and Technology     3644000
-IOWA STATE UNIVERSITY                               2037000
-University of Iowa                                  1952000
-UNIVERSITY OF IOWA                                  1114000
+Iowa State University of Science and Technology   3644000.0
+IOWA STATE UNIVERSITY                             2037000.0
+University of Iowa                                1952000.0
+UNIVERSITY OF IOWA                                1114000.0
 ```
 ## SC Contracts
 ```
@@ -50,16 +50,16 @@ In the past 6 years, this state has received:
  
                                                  Amount ($)
 Institution                                                
-UNIVERSITY OF IOWA, THE                            15187839
-IOWA STATE UNIVERSITY OF SCIENCE AND TECHNOLO      15090745
-IOWA STATE UNIVERSITY OF SCIENCE AND TECHNOLOGY     2832877
-COE COLLEGE                                         1506005
-Iowa State University                               1119271
-UNIVERSITY OF NORTHERN IOWA                          599924
-DRAKE UNIVERSITY                                     595989
-TRUSTEES OF GRINNELL COLLEGE, THE                    487997
-University of Iowa                                   231500
-LUTHER COLLEGE                                       129387
+UNIVERSITY OF IOWA, THE                          15187839.0
+IOWA STATE UNIVERSITY OF SCIENCE AND TECHNOLO    15090745.0
+IOWA STATE UNIVERSITY OF SCIENCE AND TECHNOLOGY   2832877.0
+COE COLLEGE                                       1506005.0
+Iowa State University                             1119271.0
+UNIVERSITY OF NORTHERN IOWA                        599924.0
+DRAKE UNIVERSITY                                   595989.0
+TRUSTEES OF GRINNELL COLLEGE, THE                  487997.0
+University of Iowa                                 231500.0
+LUTHER COLLEGE                                     129387.0
 and  4  other institutions.
 ```
 ---
@@ -83,16 +83,16 @@ This district received no SC contracts from 2012-2018
 In the past 6 years, this district has received: $2,300,794.00 in NSF MPS grants.
                                         Amount ($)
 Institution                       Year            
-COE COLLEGE                       2013       97010
-                                  2014      707877
-                                  2017      278776
-LUTHER COLLEGE                    2015       43209
-TRUSTEES OF GRINNELL COLLEGE, THE 2017      487997
-UNI                               2015       86001
-UNIVERSITY OF NORTHERN IOWA       2012       90000
-                                  2013      195401
-                                  2014       74014
-                                  2016      240509
+COE COLLEGE                       2013     97010.0
+                                  2014    707877.0
+                                  2017    278776.0
+LUTHER COLLEGE                    2015     43209.0
+TRUSTEES OF GRINNELL COLLEGE, THE 2017    487997.0
+UNI                               2015     86001.0
+UNIVERSITY OF NORTHERN IOWA       2012     90000.0
+                                  2013    195401.0
+                                  2014     74014.0
+                                  2016    240509.0
 ```
 ---
 <a name="IA-02"></a>
@@ -104,14 +104,14 @@ David Loebsack is the #18 Democrat on the House Committee on Energy and Commerce
 ### HEP Grants
 ```
 In the past 6 years, this district has received: $3,066,000.00 in SC HEP grants.
-                         Amount ($)
-Institution        Year            
-UNIVERSITY OF IOWA 2012      666000
-                   2013      448000
-University of Iowa 2014      512000
-                   2015      478000
-                   2016      490000
-                   2017      472000
+                           Amount ($)
+Institution        Year              
+UNIVERSITY OF IOWA 2012.0    666000.0
+                   2013.0    448000.0
+University of Iowa 2014.0    512000.0
+                   2015.0    478000.0
+                   2016.0    490000.0
+                   2017.0    472000.0
 ```
 ### SC Contracts
 ```
@@ -122,14 +122,14 @@ This district received no SC contracts from 2012-2018
 In the past 6 years, this district has received: $15,841,681.00 in NSF MPS grants.
                               Amount ($)
 Institution             Year            
-COE COLLEGE             2012      422342
-UNIVERSITY OF IOWA, THE 2012     3586232
-                        2013     3102437
-                        2014     3286241
-                        2015     1517853
-                        2016     1073429
-                        2017     2621647
-University of Iowa      2015      231500
+COE COLLEGE             2012    422342.0
+UNIVERSITY OF IOWA, THE 2012   3586232.0
+                        2013   3102437.0
+                        2014   3286241.0
+                        2015   1517853.0
+                        2016   1073429.0
+                        2017   2621647.0
+University of Iowa      2015    231500.0
 ```
 ---
 <a name="IA-03"></a>
@@ -147,18 +147,18 @@ This district received no SC HEP grants from 2012-2017
 In the past 6 years, this district has received: $4,200.00 in SC contracts.
                                  Amount ($)
 vendorname          fiscal_year            
-ATRIUM HOTELS, L.P. 2012               4200
+ATRIUM HOTELS, L.P. 2012             4200.0
 ```
 ### NSF MPS Grants
 ```
 In the past 6 years, this district has received: $595,989.00 in NSF MPS grants.
                        Amount ($)
 Institution      Year            
-DRAKE UNIVERSITY 2012      175151
-                 2013      224374
-                 2014       90000
-                 2015       72465
-                 2017       33999
+DRAKE UNIVERSITY 2012    175151.0
+                 2013    224374.0
+                 2014     90000.0
+                 2015     72465.0
+                 2017     33999.0
 ```
 ---
 <a name="IA-04"></a>
@@ -170,14 +170,14 @@ Steve King is not on any of our key committees
 ### HEP Grants
 ```
 In the past 6 years, this district has received: $5,681,000.00 in SC HEP grants.
-                                                      Amount ($)
-Institution                                     Year            
-IOWA STATE UNIVERSITY                           2012     1036000
-                                                2013     1001000
-Iowa State University of Science and Technology 2014      752000
-                                                2015      752000
-                                                2016     1025000
-                                                2017     1115000
+                                                        Amount ($)
+Institution                                     Year              
+IOWA STATE UNIVERSITY                           2012.0   1036000.0
+                                                2013.0   1001000.0
+Iowa State University of Science and Technology 2014.0    752000.0
+                                                2015.0    752000.0
+                                                2016.0   1025000.0
+                                                2017.0   1115000.0
 ```
 ### SC Contracts
 ```
@@ -197,17 +197,17 @@ IOWA STATE UNIVERSITY EQUITIES CORPORATION 2012         37777583.46
 In the past 6 years, this district has received: $19,426,581.00 in NSF MPS grants.
                                                       Amount ($)
 Institution                                     Year            
-DORDT COLLEGE, INCORPORATED                     2013       55685
-IOWA STATE UNIVERSITY                           2012      120000
-IOWA STATE UNIVERSITY OF SCIENCE AND TECHNOLO   2012     2319087
-                                                2013     4164061
-                                                2014     3301295
-                                                2015     2315131
-                                                2016     2991171
-IOWA STATE UNIVERSITY OF SCIENCE AND TECHNOLOGY 2017     2832877
-Iowa State University                           2015     1119271
-LUTHER COLLEGE                                  2012       34015
-                                                2013       52163
-NORTHWESTERN COLLEGE                            2017      121825
+DORDT COLLEGE, INCORPORATED                     2013     55685.0
+IOWA STATE UNIVERSITY                           2012    120000.0
+IOWA STATE UNIVERSITY OF SCIENCE AND TECHNOLO   2012   2319087.0
+                                                2013   4164061.0
+                                                2014   3301295.0
+                                                2015   2315131.0
+                                                2016   2991171.0
+IOWA STATE UNIVERSITY OF SCIENCE AND TECHNOLOGY 2017   2832877.0
+Iowa State University                           2015   1119271.0
+LUTHER COLLEGE                                  2012     34015.0
+                                                2013     52163.0
+NORTHWESTERN COLLEGE                            2017    121825.0
 ```
 ---

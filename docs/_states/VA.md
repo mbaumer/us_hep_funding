@@ -22,16 +22,16 @@ In the past 6 years, this state has received:
  
                                                     Amount ($)
 Institution                                                   
-University of Virginia                                 5675000
-Virginia Polytechnic Institute and State Univer...     2174000
-Old Dominion University Research Foundation            1655000
-VIRGINIA, UNIVERSITY OF                                1434000
-UNIVERSITY OF VIRGINIA                                 1312000
-VIRGINIA POLYTECHNIC INSTITUTE                         1091000
-OLD DOMINION UNIVERSITY                                 847000
-Virginia Polytechnic Institute and State Univer...      665000
-College of William and Mary                             274000
-COLLEGE OF WILLIAM AND MARY                              64000
+University of Virginia                               5675000.0
+Virginia Polytechnic Institute and State Univer...   2174000.0
+Old Dominion University Research Foundation          1655000.0
+VIRGINIA, UNIVERSITY OF                              1434000.0
+UNIVERSITY OF VIRGINIA                               1312000.0
+VIRGINIA POLYTECHNIC INSTITUTE                       1091000.0
+OLD DOMINION UNIVERSITY                               847000.0
+Virginia Polytechnic Institute and State Univer...    665000.0
+College of William and Mary                           274000.0
+COLLEGE OF WILLIAM AND MARY                            64000.0
 and  2  other institutions.
 ```
 ## SC Contracts
@@ -60,16 +60,16 @@ In the past 6 years, this state has received:
  
                                                    Amount ($)
 Institution                                                  
-RECTOR & VISITORS OF THE UNIVERSITY OF VIRGIN        19658816
-VIRGINIA POLYTECHNIC INSTITUTE & STATE UNIVER        15589519
-COLLEGE OF WILLIAM & MARY, THE                        8671606
-VIRGINIA COMMONWEALTH UNIVERSITY                      6056497
-OLD DOMINION UNIVERSITY RESEARCH FOUNDATION           4626850
-GEORGE MASON UNIVERSITY                               3752921
-HAMPTON UNIVERSITY                                    2520070
-VIRGINIA POLYTECHNIC INSTITUTE & STATE UNIVERSITY     2470070
-RECTOR & VISITORS OF THE UNIVERSITY OF VIRGINIA       2461374
-THE GEORGE WASHINGTON UNIVERSITY                      2256245
+RECTOR & VISITORS OF THE UNIVERSITY OF VIRGIN      19658816.0
+VIRGINIA POLYTECHNIC INSTITUTE & STATE UNIVER      15589519.0
+COLLEGE OF WILLIAM & MARY, THE                      8671606.0
+VIRGINIA COMMONWEALTH UNIVERSITY                    6056497.0
+OLD DOMINION UNIVERSITY RESEARCH FOUNDATION         4626850.0
+GEORGE MASON UNIVERSITY                             3752921.0
+HAMPTON UNIVERSITY                                  2520070.0
+VIRGINIA POLYTECHNIC INSTITUTE & STATE UNIVERSITY   2470070.0
+RECTOR & VISITORS OF THE UNIVERSITY OF VIRGINIA     2461374.0
+THE GEORGE WASHINGTON UNIVERSITY                    2256245.0
 and  32  other institutions.
 ```
 ---
@@ -83,14 +83,14 @@ Robert J. Wittman is not on any of our key committees
 ### HEP Grants
 ```
 In the past 6 years, this district has received: $398,000.00 in SC HEP grants.
-                                  Amount ($)
-Institution                 Year            
-COLLEGE OF WILLIAM AND MARY 2013       64000
-COLLEGE OFWILLIAM AND MARY  2012       60000
-College of William and Mary 2014       64000
-                            2015      210000
-                            2016           0
-                            2017           0
+                                    Amount ($)
+Institution                 Year              
+COLLEGE OF WILLIAM AND MARY 2013.0     64000.0
+COLLEGE OFWILLIAM AND MARY  2012.0     60000.0
+College of William and Mary 2014.0     64000.0
+                            2015.0    210000.0
+                            2016.0         0.0
+                            2017.0         0.0
 ```
 ### SC Contracts
 ```
@@ -105,16 +105,16 @@ JEFFERSON SCIENCE ASSOCIATES LIMITED LIABILITY ... 2012         1.693405e+08
 In the past 6 years, this district has received: $8,992,888.00 in NSF MPS grants.
                                                     Amount ($)
 Institution                                   Year            
-CHRISTOPHER NEWPORT UNIVERSITY                2012      185000
-COLLEGE OF WILLIAM & MARY, THE                2012     1799080
-                                              2013     2247279
-                                              2014     1336187
-                                              2015     1629889
-                                              2016      938565
-College of William & Mary                     2015      557939
-NORTH CAROLINA AGRICULTURAL AND TECHNICAL STA 2012       90000
-UNIVERSITY OF NORTH CAROLINA AT WILMINGTON    2012       80277
-VIRGINIA INSTITUTE OF MARINE SCIENCE          2013      128672
+CHRISTOPHER NEWPORT UNIVERSITY                2012    185000.0
+COLLEGE OF WILLIAM & MARY, THE                2012   1799080.0
+                                              2013   2247279.0
+                                              2014   1336187.0
+                                              2015   1629889.0
+                                              2016    938565.0
+College of William & Mary                     2015    557939.0
+NORTH CAROLINA AGRICULTURAL AND TECHNICAL STA 2012     90000.0
+UNIVERSITY OF NORTH CAROLINA AT WILMINGTON    2012     80277.0
+VIRGINIA INSTITUTE OF MARINE SCIENCE          2013    128672.0
 ```
 ---
 <a name="VA-02"></a>
@@ -126,12 +126,12 @@ Scott Taylor is the #30 Republican on the House Committee on Appropriations
 ### HEP Grants
 ```
 In the past 6 years, this district has received: $2,502,000.00 in SC HEP grants.
-                                                  Amount ($)
-Institution                                 Year            
-OLD DOMINION UNIVERSITY                     2012      186000
-                                            2013      661000
-Old Dominion University Research Foundation 2015     1055000
-                                            2016      600000
+                                                    Amount ($)
+Institution                                 Year              
+OLD DOMINION UNIVERSITY                     2012.0    186000.0
+                                            2013.0    661000.0
+Old Dominion University Research Foundation 2015.0   1055000.0
+                                            2016.0    600000.0
 ```
 ### SC Contracts
 ```
@@ -152,21 +152,21 @@ SMITHFIELD POWER SWEEPIMNG LIMITED LIABILITY CO... 2013        -1.174194e+04
 In the past 6 years, this district has received: $4,396,602.00 in NSF MPS grants.
                                                     Amount ($)
 Institution                                   Year            
-CHRISTOPHER NEWPORT UNIVERSITY                2013      185000
-                                              2015      165000
-COLLEGE OF WILLIAM & MARY, THE                2017      720606
-NORTH CAROLINA AGRICULTURAL AND TECHNICAL STA 2015       60571
-OLD DOMINION UNIVERSITY RESEARCH FOUNDATION   2012      287002
-                                              2013      293600
-                                              2014      653900
-                                              2015      249797
-                                              2016      331807
-                                              2017      796633
-Old Dominion Research Fdn                     2015       76300
-SURA                                          2015       30000
-THE GEORGE WASHINGTON UNIVERSITY              2013      360000
-UNIVERSITY OF NORTH CAROLINA AT WILMINGTON    2015       65948
-VIRGINIA WESLEYAN COLLEGE                     2014      120438
+CHRISTOPHER NEWPORT UNIVERSITY                2013    185000.0
+                                              2015    165000.0
+COLLEGE OF WILLIAM & MARY, THE                2017    720606.0
+NORTH CAROLINA AGRICULTURAL AND TECHNICAL STA 2015     60571.0
+OLD DOMINION UNIVERSITY RESEARCH FOUNDATION   2012    287002.0
+                                              2013    293600.0
+                                              2014    653900.0
+                                              2015    249797.0
+                                              2016    331807.0
+                                              2017    796633.0
+Old Dominion Research Fdn                     2015     76300.0
+SURA                                          2015     30000.0
+THE GEORGE WASHINGTON UNIVERSITY              2013    360000.0
+UNIVERSITY OF NORTH CAROLINA AT WILMINGTON    2015     65948.0
+VIRGINIA WESLEYAN COLLEGE                     2014    120438.0
 ```
 ---
 <a name="VA-03"></a>
@@ -178,9 +178,9 @@ Robert C. "Bobby" Scott is not on any of our key committees
 ### HEP Grants
 ```
 In the past 6 years, this district has received: $0.00 in SC HEP grants.
-                                                  Amount ($)
-Institution                                 Year            
-Old Dominion University Research Foundation 2017           0
+                                                    Amount ($)
+Institution                                 Year              
+Old Dominion University Research Foundation 2017.0         0.0
 ```
 ### SC Contracts
 ```
@@ -195,31 +195,31 @@ JEFFERSON SCIENCE ASSOCIATES LIMITED LIABILITY ... 2017         60379834.21
 In the past 6 years, this district has received: $12,656,977.00 in NSF MPS grants.
                                                          Amount ($)
 Institution                                        Year            
-CHRISTOPHER NEWPORT UNIVERSITY                     2017      239989
-HAMPTON UNIVERSITY                                 2012      595085
-                                                   2013      459243
-                                                   2014      339125
-                                                   2015      709305
-                                                   2016      128230
-                                                   2017      289082
-NORFOLK STATE UNIVERSITY                           2012     1280705
-                                                   2013      681568
-                                                   2014       30568
-                                                   2015       45079
-                                                   2017      200000
-NORTH CAROLINA AGRICULTURAL AND TECHNICAL STATE... 2017           0
-OLD DOMINION UNIVERSITY RESEARCH FOUNDATION        2012      332446
-                                                   2013      588901
-                                                   2014      269817
-                                                   2015       30042
-                                                   2016      630405
-                                                   2017      162500
-VIRGINIA COMMONWEALTH UNIVERSITY                   2012     2217983
-                                                   2013      430907
-                                                   2014      617920
-                                                   2015     1009004
-                                                   2016     1229344
-                                                   2017      139729
+CHRISTOPHER NEWPORT UNIVERSITY                     2017    239989.0
+HAMPTON UNIVERSITY                                 2012    595085.0
+                                                   2013    459243.0
+                                                   2014    339125.0
+                                                   2015    709305.0
+                                                   2016    128230.0
+                                                   2017    289082.0
+NORFOLK STATE UNIVERSITY                           2012   1280705.0
+                                                   2013    681568.0
+                                                   2014     30568.0
+                                                   2015     45079.0
+                                                   2017    200000.0
+NORTH CAROLINA AGRICULTURAL AND TECHNICAL STATE... 2017         0.0
+OLD DOMINION UNIVERSITY RESEARCH FOUNDATION        2012    332446.0
+                                                   2013    588901.0
+                                                   2014    269817.0
+                                                   2015     30042.0
+                                                   2016    630405.0
+                                                   2017    162500.0
+VIRGINIA COMMONWEALTH UNIVERSITY                   2012   2217983.0
+                                                   2013    430907.0
+                                                   2014    617920.0
+                                                   2015   1009004.0
+                                                   2016   1229344.0
+                                                   2017    139729.0
 ```
 ---
 <a name="VA-04"></a>
@@ -241,7 +241,7 @@ This district received no SC contracts from 2012-2018
 In the past 6 years, this district has received: $411,610.00 in NSF MPS grants.
                                        Amount ($)
 Institution                      Year            
-VIRGINIA COMMONWEALTH UNIVERSITY 2017      411610
+VIRGINIA COMMONWEALTH UNIVERSITY 2017    411610.0
 ```
 ---
 <a name="VA-05"></a>
@@ -255,14 +255,14 @@ Thomas A. Garrett, Jr. is the #11 Republican on the House Subcommittee on Higher
 ### HEP Grants
 ```
 In the past 6 years, this district has received: $8,421,000.00 in SC HEP grants.
-                              Amount ($)
-Institution             Year            
-UNIVERSITY OF VIRGINIA  2012     1312000
-University of Virginia  2014     1484000
-                        2015     1480000
-                        2016     1180000
-                        2017     1531000
-VIRGINIA, UNIVERSITY OF 2013     1434000
+                                Amount ($)
+Institution             Year              
+UNIVERSITY OF VIRGINIA  2012.0   1312000.0
+University of Virginia  2014.0   1484000.0
+                        2015.0   1480000.0
+                        2016.0   1180000.0
+                        2017.0   1531000.0
+VIRGINIA, UNIVERSITY OF 2013.0   1434000.0
 ```
 ### SC Contracts
 ```
@@ -273,20 +273,20 @@ This district received no SC contracts from 2012-2018
 In the past 6 years, this district has received: $24,515,639.00 in NSF MPS grants.
                                                       Amount ($)
 Institution                                     Year            
-ASSOCIATED UNIVERSITIES, INC.                   2013       25000
-                                                2014       48420
-                                                2016       47444
-                                                2017           0
-MULTIPLE RECIPIENTS                             2013     1200000
-PII Redacted                                    2017      100000
-RECTOR & VISITORS OF THE UNIVERSITY OF VIRGIN   2012     7881751
-                                                2013     3765318
-                                                2014     1447446
-                                                2015     2593931
-                                                2016     3709352
-                                                2017      261018
-RECTOR & VISITORS OF THE UNIVERSITY OF VIRGINIA 2017     2461374
-University of Virginia                          2015      974585
+ASSOCIATED UNIVERSITIES, INC.                   2013     25000.0
+                                                2014     48420.0
+                                                2016     47444.0
+                                                2017         0.0
+MULTIPLE RECIPIENTS                             2013   1200000.0
+PII Redacted                                    2017    100000.0
+RECTOR & VISITORS OF THE UNIVERSITY OF VIRGIN   2012   7881751.0
+                                                2013   3765318.0
+                                                2014   1447446.0
+                                                2015   2593931.0
+                                                2016   3709352.0
+                                                2017    261018.0
+RECTOR & VISITORS OF THE UNIVERSITY OF VIRGINIA 2017   2461374.0
+University of Virginia                          2015    974585.0
 ```
 ---
 <a name="VA-06"></a>
@@ -308,12 +308,12 @@ This district received no SC contracts from 2012-2018
 In the past 6 years, this district has received: $1,668,456.00 in NSF MPS grants.
                                          Amount ($)
 Institution                        Year            
-JAMES MADISON UNIVERSITY           2012      661550
-                                   2013      404804
-                                   2015      318000
-                                   2016      186315
-WASHINGTON AND LEE UNIVERSITY, THE 2013       91787
-                                   2014        6000
+JAMES MADISON UNIVERSITY           2012    661550.0
+                                   2013    404804.0
+                                   2015    318000.0
+                                   2016    186315.0
+WASHINGTON AND LEE UNIVERSITY, THE 2013     91787.0
+                                   2014      6000.0
 ```
 ---
 <a name="VA-07"></a>
@@ -335,12 +335,12 @@ This district received no SC contracts from 2012-2018
 In the past 6 years, this district has received: $1,761,822.00 in NSF MPS grants.
                                                         Amount ($)
 Institution                                       Year            
-UNIVERSITY OF RICHMOND                            2012      720168
-                                                  2013      525959
-                                                  2014      439500
-                                                  2016       31195
-                                                  2017           0
-VIRGINIA POLYTECHNIC INSTITUTE & STATE UNIVERSITY 2017       45000
+UNIVERSITY OF RICHMOND                            2012    720168.0
+                                                  2013    525959.0
+                                                  2014    439500.0
+                                                  2016     31195.0
+                                                  2017         0.0
+VIRGINIA POLYTECHNIC INSTITUTE & STATE UNIVERSITY 2017     45000.0
 ```
 ---
 <a name="VA-08"></a>
@@ -385,24 +385,24 @@ SPECIAL LIBRARIES ASSOCIATION, INC. 2013            3150.00
 In the past 6 years, this district has received: $1,060,278.00 in NSF MPS grants.
                                                    Amount ($)
 Institution                                  Year            
-AMERICAN STATISTICAL ASSOCIATION             2012       44846
-                                             2013       61800
-                                             2016      201742
-                                             2017       30000
-ASSOCIATED UNIVERSITIES, INC.                2014      349812
-Amer Statistical Assoc                       2015        9000
-Dartmouth College                            2015       36068
-EMORY UNIVERSITY                             2012       35188
-NORTHWESTERN UNIVERSITY                      2016       99998
-                                             2017           0
-OPTICAL SOCIETY OF AMERICA, INCORPORATED THE 2015       15000
-REGENTS OF THE UNIVERSITY OF MICHIGAN        2015       87199
-SMITHSONIAN INSTITUTION                      2012      270000
-                                             2014     -222389
-SOFTWARE DEFINED RADIO FORUM, INC.           2012       25000
-SOUTHERN METHODIST UNIVERSITY INC            2015       13860
-YALE UNIVERSITY                              2012       85591
-                                             2013      -82437
+AMERICAN STATISTICAL ASSOCIATION             2012     44846.0
+                                             2013     61800.0
+                                             2016    201742.0
+                                             2017     30000.0
+ASSOCIATED UNIVERSITIES, INC.                2014    349812.0
+Amer Statistical Assoc                       2015      9000.0
+Dartmouth College                            2015     36068.0
+EMORY UNIVERSITY                             2012     35188.0
+NORTHWESTERN UNIVERSITY                      2016     99998.0
+                                             2017         0.0
+OPTICAL SOCIETY OF AMERICA, INCORPORATED THE 2015     15000.0
+REGENTS OF THE UNIVERSITY OF MICHIGAN        2015     87199.0
+SMITHSONIAN INSTITUTION                      2012    270000.0
+                                             2014   -222389.0
+SOFTWARE DEFINED RADIO FORUM, INC.           2012     25000.0
+SOUTHERN METHODIST UNIVERSITY INC            2015     13860.0
+YALE UNIVERSITY                              2012     85591.0
+                                             2013    -82437.0
 ```
 ---
 <a name="VA-09"></a>
@@ -414,14 +414,14 @@ H. Morgan Griffith is the #16 Republican on the House Committee on Energy and Co
 ### HEP Grants
 ```
 In the past 6 years, this district has received: $3,930,000.00 in SC HEP grants.
-                                                         Amount ($)
-Institution                                        Year            
-VIRGINIA POLYTECHNIC INSTITUTE                     2012      575000
-                                                   2013      516000
-Virginia Polytechnic Institute and State Univer... 2015      649000
-                                                   2016      635000
-                                                   2017      890000
-Virginia Polytechnic Institute and State Univer... 2014      665000
+                                                           Amount ($)
+Institution                                        Year              
+VIRGINIA POLYTECHNIC INSTITUTE                     2012.0    575000.0
+                                                   2013.0    516000.0
+Virginia Polytechnic Institute and State Univer... 2015.0    649000.0
+                                                   2016.0    635000.0
+                                                   2017.0    890000.0
+Virginia Polytechnic Institute and State Univer... 2014.0    665000.0
 ```
 ### SC Contracts
 ```
@@ -432,13 +432,13 @@ This district received no SC contracts from 2012-2018
 In the past 6 years, this district has received: $19,080,590.00 in NSF MPS grants.
                                                         Amount ($)
 Institution                                       Year            
-VA Polytechnic Inst & St U                        2015     1066001
-VIRGINIA POLYTECHNIC INSTITUTE & STATE UNIVER     2012     4214882
-                                                  2013     2338367
-                                                  2014     3479214
-                                                  2015     3080645
-                                                  2016     2476411
-VIRGINIA POLYTECHNIC INSTITUTE & STATE UNIVERSITY 2017     2425070
+VA Polytechnic Inst & St U                        2015   1066001.0
+VIRGINIA POLYTECHNIC INSTITUTE & STATE UNIVER     2012   4214882.0
+                                                  2013   2338367.0
+                                                  2014   3479214.0
+                                                  2015   3080645.0
+                                                  2016   2476411.0
+VIRGINIA POLYTECHNIC INSTITUTE & STATE UNIVERSITY 2017   2425070.0
 ```
 ---
 <a name="VA-10"></a>
@@ -458,15 +458,15 @@ This district received no SC HEP grants from 2012-2017
 In the past 6 years, this district has received: $0.00 in SC contracts.
                                Amount ($)
 vendorname        fiscal_year            
-PC MALL GOV, INC. 2012                  0
+PC MALL GOV, INC. 2012                0.0
 ```
 ### NSF MPS Grants
 ```
 In the past 6 years, this district has received: $1,896,245.00 in NSF MPS grants.
                                        Amount ($)
 Institution                      Year            
-THE GEORGE WASHINGTON UNIVERSITY 2012     1520000
-                                 2015      376245
+THE GEORGE WASHINGTON UNIVERSITY 2012   1520000.0
+                                 2015    376245.0
 ```
 ---
 <a name="VA-11"></a>
@@ -478,9 +478,9 @@ Gerald E. Connolly is not on any of our key committees
 ### HEP Grants
 ```
 In the past 6 years, this district has received: $5,000.00 in SC HEP grants.
-                              Amount ($)
-Institution             Year            
-George Mason University 2016        5000
+                                Amount ($)
+Institution             Year              
+George Mason University 2016.0      5000.0
 ```
 ### SC Contracts
 ```
@@ -509,19 +509,19 @@ TOP-TIER TECHNOLOGIES, INC.    2014           14786.00
 In the past 6 years, this district has received: $4,959,657.00 in NSF MPS grants.
                                            Amount ($)
 Institution                          Year            
-ASSOCIATION FOR WOMEN IN MATHEMATICS 2012      492399
-                                     2013       49861
-                                     2014       62322
-                                     2016      482649
-GEORGE MASON UNIVERSITY              2012      546212
-                                     2013      665445
-                                     2014      599885
-                                     2015      885120
-                                     2016      350402
-                                     2017      705857
-George Mason University              2015       19602
-SANTA FE INSTITUTE OF SCIENCE INC    2012       49903
-SOFTWARE DEFINED RADIO FORUM, INC.   2013       25000
-                                     2014       25000
+ASSOCIATION FOR WOMEN IN MATHEMATICS 2012    492399.0
+                                     2013     49861.0
+                                     2014     62322.0
+                                     2016    482649.0
+GEORGE MASON UNIVERSITY              2012    546212.0
+                                     2013    665445.0
+                                     2014    599885.0
+                                     2015    885120.0
+                                     2016    350402.0
+                                     2017    705857.0
+George Mason University              2015     19602.0
+SANTA FE INSTITUTE OF SCIENCE INC    2012     49903.0
+SOFTWARE DEFINED RADIO FORUM, INC.   2013     25000.0
+                                     2014     25000.0
 ```
 ---

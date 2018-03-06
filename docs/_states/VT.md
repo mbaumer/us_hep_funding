@@ -36,11 +36,11 @@ In the past 6 years, this state has received:
  
                                                     Amount ($)
 Institution                                                   
-UNIVERSITY OF VERMONT & STATE AGRICULTURAL CO          5267682
-UNIVERSITY OF VERMONT & STATE AGRICULTURAL COLLEGE     1248605
-PRESIDENT AND FELLOWS OF MIDDLEBURY COLLEGE             982521
-U of Vermont & St Agr Coll                               75000
-SAINT MICHAEL'S COLLEGE, INC.                             1250
+UNIVERSITY OF VERMONT & STATE AGRICULTURAL CO        5267682.0
+UNIVERSITY OF VERMONT & STATE AGRICULTURAL COLLEGE   1248605.0
+PRESIDENT AND FELLOWS OF MIDDLEBURY COLLEGE           982521.0
+U of Vermont & St Agr Coll                             75000.0
+SAINT MICHAEL'S COLLEGE, INC.                           1250.0
 ```
 ---
 ---
@@ -63,17 +63,17 @@ This district received no SC contracts from 2012-2018
 In the past 6 years, this district has received: $7,575,058.00 in NSF MPS grants.
                                                          Amount ($)
 Institution                                        Year            
-PRESIDENT AND FELLOWS OF MIDDLEBURY COLLEGE        2012      283513
-                                                   2013      277590
-                                                   2015      241418
-                                                   2016      180000
-SAINT MICHAEL'S COLLEGE, INC.                      2015        1250
-U of Vermont & St Agr Coll                         2015       75000
-UNIVERSITY OF VERMONT & STATE AGRICULTURAL CO      2012     1629793
-                                                   2013     1178383
-                                                   2014      700000
-                                                   2015      692380
-                                                   2016     1067126
-UNIVERSITY OF VERMONT & STATE AGRICULTURAL COLLEGE 2017     1248605
+PRESIDENT AND FELLOWS OF MIDDLEBURY COLLEGE        2012    283513.0
+                                                   2013    277590.0
+                                                   2015    241418.0
+                                                   2016    180000.0
+SAINT MICHAEL'S COLLEGE, INC.                      2015      1250.0
+U of Vermont & St Agr Coll                         2015     75000.0
+UNIVERSITY OF VERMONT & STATE AGRICULTURAL CO      2012   1629793.0
+                                                   2013   1178383.0
+                                                   2014    700000.0
+                                                   2015    692380.0
+                                                   2016   1067126.0
+UNIVERSITY OF VERMONT & STATE AGRICULTURAL COLLEGE 2017   1248605.0
 ```
 ---

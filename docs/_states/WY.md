@@ -30,14 +30,14 @@ In the past 6 years, this state has received:
  
                                    Amount ($)
 Institution                  Year            
-UNIVERSITY OF HOUSTON SYSTEM 2013       27820
-UNIVERSITY OF WYOMING        2012     1388342
-                             2013      994893
-                             2014     2483679
-                             2015      476197
-                             2016     1045655
-                             2017      441942
-University of Wyoming        2015       -1910
+UNIVERSITY OF HOUSTON SYSTEM 2013     27820.0
+UNIVERSITY OF WYOMING        2012   1388342.0
+                             2013    994893.0
+                             2014   2483679.0
+                             2015    476197.0
+                             2016   1045655.0
+                             2017    441942.0
+University of Wyoming        2015     -1910.0
 ```
 ---
 ---
@@ -60,13 +60,13 @@ This district received no SC contracts from 2012-2018
 In the past 6 years, this district has received: $6,856,618.00 in NSF MPS grants.
                                    Amount ($)
 Institution                  Year            
-UNIVERSITY OF HOUSTON SYSTEM 2013       27820
-UNIVERSITY OF WYOMING        2012     1388342
-                             2013      994893
-                             2014     2483679
-                             2015      476197
-                             2016     1045655
-                             2017      441942
-University of Wyoming        2015       -1910
+UNIVERSITY OF HOUSTON SYSTEM 2013     27820.0
+UNIVERSITY OF WYOMING        2012   1388342.0
+                             2013    994893.0
+                             2014   2483679.0
+                             2015    476197.0
+                             2016   1045655.0
+                             2017    441942.0
+University of Wyoming        2015     -1910.0
 ```
 ---

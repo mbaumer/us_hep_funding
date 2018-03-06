@@ -28,14 +28,14 @@ Martin Heinrich is the #7 Democrat on the Senate Committee on Energy and Natural
 In the past 6 years, this state has received:
 23 HEP grants, totalling $3,653,000.00
  
-                               Amount ($)
-Institution              Year            
-UNIVERSITY OF NEW MEXICO 2012      768000
-                         2013      701000
-University of New Mexico 2014      491000
-                         2015      490000
-                         2016      335000
-                         2017      868000
+                                 Amount ($)
+Institution              Year              
+UNIVERSITY OF NEW MEXICO 2012.0    768000.0
+                         2013.0    701000.0
+University of New Mexico 2014.0    491000.0
+                         2015.0    490000.0
+                         2016.0    335000.0
+                         2017.0    868000.0
 ```
 ## SC Contracts
 ```
@@ -63,16 +63,16 @@ In the past 6 years, this state has received:
  
                                                     Amount ($)
 Institution                                                   
-UNIVERSITY OF NEW MEXICO                              17426575
-NEW MEXICO STATE UNIVERSITY                            5106251
-NEW MEXICO HIGHLANDS UNIVERSITY                        2487500
-SANTA FE INSTITUTE OF SCIENCE                          1994250
-University of New Mexico                                709855
-NEW MEXICO INSTITUTE OF MINING AND TECHNOLOGY           569408
-NMC, INC.                                               413315
-BUCKNELL UNIVERSITY                                      78058
-New Mexico St University                                 20000
-BROWN UNIVERSITY IN PROVIDENCE IN THE STATE OF ...       15000
+UNIVERSITY OF NEW MEXICO                            17426575.0
+NEW MEXICO STATE UNIVERSITY                          5106251.0
+NEW MEXICO HIGHLANDS UNIVERSITY                      2487500.0
+SANTA FE INSTITUTE OF SCIENCE                        1994250.0
+University of New Mexico                              709855.0
+NEW MEXICO INSTITUTE OF MINING AND TECHNOLOGY         569408.0
+NMC, INC.                                             413315.0
+BUCKNELL UNIVERSITY                                    78058.0
+New Mexico St University                               20000.0
+BROWN UNIVERSITY IN PROVIDENCE IN THE STATE OF ...     15000.0
 and  1  other institutions.
 ```
 ---
@@ -86,14 +86,14 @@ Michelle Lujan Grisham is not on any of our key committees
 ### HEP Grants
 ```
 In the past 6 years, this district has received: $3,653,000.00 in SC HEP grants.
-                               Amount ($)
-Institution              Year            
-UNIVERSITY OF NEW MEXICO 2012      768000
-                         2013      701000
-University of New Mexico 2014      491000
-                         2015      490000
-                         2016      335000
-                         2017      868000
+                                 Amount ($)
+Institution              Year              
+UNIVERSITY OF NEW MEXICO 2012.0    768000.0
+                         2013.0    701000.0
+University of New Mexico 2014.0    491000.0
+                         2015.0    490000.0
+                         2016.0    335000.0
+                         2017.0    868000.0
 ```
 ### SC Contracts
 ```
@@ -115,13 +115,13 @@ VERIZON WIRELESS INC 2016             -80.92
 In the past 6 years, this district has received: $17,997,108.00 in NSF MPS grants.
                                Amount ($)
 Institution              Year            
-UNIVERSITY OF NEW MEXICO 2012     4885405
-                         2013     4100279
-                         2014     1127054
-                         2015     1188379
-                         2016     2999343
-                         2017     2986793
-University of New Mexico 2015      709855
+UNIVERSITY OF NEW MEXICO 2012   4885405.0
+                         2013   4100279.0
+                         2014   1127054.0
+                         2015   1188379.0
+                         2016   2999343.0
+                         2017   2986793.0
+University of New Mexico 2015    709855.0
 ```
 ---
 <a name="NM-02"></a>
@@ -143,15 +143,15 @@ This district received no SC contracts from 2012-2018
 In the past 6 years, this district has received: $5,695,659.00 in NSF MPS grants.
                                                     Amount ($)
 Institution                                   Year            
-NEW MEXICO INSTITUTE OF MINING AND TECHNOLOGY 2012      155000
-                                              2013      414408
-NEW MEXICO STATE UNIVERSITY                   2012      909844
-                                              2013      501518
-                                              2014     1232582
-                                              2015      828887
-                                              2016     1091657
-                                              2017      541763
-New Mexico St University                      2015       20000
+NEW MEXICO INSTITUTE OF MINING AND TECHNOLOGY 2012    155000.0
+                                              2013    414408.0
+NEW MEXICO STATE UNIVERSITY                   2012    909844.0
+                                              2013    501518.0
+                                              2014   1232582.0
+                                              2015    828887.0
+                                              2016   1091657.0
+                                              2017    541763.0
+New Mexico St University                      2015     20000.0
 ```
 ---
 <a name="NM-03"></a>
@@ -193,24 +193,24 @@ WILDFLOWER INTERNATIONAL, LTD.      2012           17133.30
 In the past 6 years, this district has received: $5,139,460.00 in NSF MPS grants.
                                                          Amount ($)
 Institution                                        Year            
-BROWN UNIVERSITY IN PROVIDENCE IN THE STATE OF ... 2017       15000
-BUCKNELL UNIVERSITY                                2016       78058
-NEW MEXICO HIGHLANDS UNIVERSITY                    2012      540000
-                                                   2013      540000
-                                                   2014       87500
-                                                   2015      660000
-                                                   2017      660000
-NMC, INC.                                          2012      115000
-                                                   2014      221074
-                                                   2015       15000
-                                                   2016       77241
-                                                   2017      -15000
-SANTA FE INSTITUTE OF SCIENCE                      2013      100000
-                                                   2014       16025
-                                                   2016     1788226
-                                                   2017       89999
-SANTA FE INSTITUTE OF SCIENCE INC                  2012       12015
-UNIVERSITY OF NEW MEXICO                           2012       91170
-                                                   2015       48152
+BROWN UNIVERSITY IN PROVIDENCE IN THE STATE OF ... 2017     15000.0
+BUCKNELL UNIVERSITY                                2016     78058.0
+NEW MEXICO HIGHLANDS UNIVERSITY                    2012    540000.0
+                                                   2013    540000.0
+                                                   2014     87500.0
+                                                   2015    660000.0
+                                                   2017    660000.0
+NMC, INC.                                          2012    115000.0
+                                                   2014    221074.0
+                                                   2015     15000.0
+                                                   2016     77241.0
+                                                   2017    -15000.0
+SANTA FE INSTITUTE OF SCIENCE                      2013    100000.0
+                                                   2014     16025.0
+                                                   2016   1788226.0
+                                                   2017     89999.0
+SANTA FE INSTITUTE OF SCIENCE INC                  2012     12015.0
+UNIVERSITY OF NEW MEXICO                           2012     91170.0
+                                                   2015     48152.0
 ```
 ---

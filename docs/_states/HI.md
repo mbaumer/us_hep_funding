@@ -26,14 +26,14 @@ Brian Schatz is the #5 Democrat on the Senate Committee on Commerce, Science, an
 In the past 6 years, this state has received:
 22 HEP grants, totalling $11,036,000.00
  
-                           Amount ($)
-Institution          Year            
-UNIVERSITY OF HAWAII 2012     1714000
-                     2013     2183000
-University of Hawaii 2014     1965000
-                     2015     1680000
-                     2016     1570000
-                     2017     1924000
+                             Amount ($)
+Institution          Year              
+UNIVERSITY OF HAWAII 2012.0   1714000.0
+                     2013.0   2183000.0
+University of Hawaii 2014.0   1965000.0
+                     2015.0   1680000.0
+                     2016.0   1570000.0
+                     2017.0   1924000.0
 ```
 ## SC Contracts
 ```
@@ -46,13 +46,13 @@ In the past 6 years, this state has received:
  
                                                     Amount ($)
 Institution                                                   
-ASSOCIATION OF UNIVERSITIES FOR RESEARCH IN AST...    42798506
-UNIVERSITY OF HAWAII SYSTEMS                          25021936
-CALIFORNIA ASSOCIATION FOR RESEARCH IN ASTRON          8093400
-ASSOCIATION OF UNIVERSITIES FOR RESEARCH IN A          3571536
-CALIFORNIA ASSOCIATION FOR RESEARCH IN ASTRONOMY       1795223
-TRUSTEES OF THE COLORADO SCHOOL OF MINES                 49994
-CARNEGIE MELLON UNIVERSITY                               12000
+ASSOCIATION OF UNIVERSITIES FOR RESEARCH IN AST...  42798506.0
+UNIVERSITY OF HAWAII SYSTEMS                        25021936.0
+CALIFORNIA ASSOCIATION FOR RESEARCH IN ASTRON        8093400.0
+ASSOCIATION OF UNIVERSITIES FOR RESEARCH IN A        3571536.0
+CALIFORNIA ASSOCIATION FOR RESEARCH IN ASTRONOMY     1795223.0
+TRUSTEES OF THE COLORADO SCHOOL OF MINES               49994.0
+CARNEGIE MELLON UNIVERSITY                             12000.0
 ```
 ---
 ---
@@ -65,12 +65,12 @@ Colleen Hanabusa is the #15 Democrat on the House Committee on Science, Space, a
 ### HEP Grants
 ```
 In the past 6 years, this district has received: $7,139,000.00 in SC HEP grants.
-                           Amount ($)
-Institution          Year            
-University of Hawaii 2014     1965000
-                     2015     1680000
-                     2016     1570000
-                     2017     1924000
+                             Amount ($)
+Institution          Year              
+University of Hawaii 2014.0   1965000.0
+                     2015.0   1680000.0
+                     2016.0   1570000.0
+                     2017.0   1924000.0
 ```
 ### SC Contracts
 ```
@@ -81,12 +81,12 @@ This district received no SC contracts from 2012-2018
 In the past 6 years, this district has received: $21,690,267.00 in NSF MPS grants.
                                    Amount ($)
 Institution                  Year            
-UNIVERSITY OF HAWAII SYSTEMS 2012     5649430
-                             2013     4045653
-                             2014     2890047
-                             2015     3932297
-                             2016     4100762
-                             2017     1072078
+UNIVERSITY OF HAWAII SYSTEMS 2012   5649430.0
+                             2013   4045653.0
+                             2014   2890047.0
+                             2015   3932297.0
+                             2016   4100762.0
+                             2017   1072078.0
 ```
 ---
 <a name="HI-02"></a>
@@ -108,18 +108,18 @@ This district received no SC contracts from 2012-2018
 In the past 6 years, this district has received: $59,652,328.00 in NSF MPS grants.
                                                          Amount ($)
 Institution                                        Year            
-ASSOCIATION OF UNIVERSITIES FOR RESEARCH IN A      2016     3571536
-ASSOCIATION OF UNIVERSITIES FOR RESEARCH IN AST... 2017    42798506
-CALIFORNIA ASSOCIATION FOR RESEARCH IN ASTRON      2012     1182447
-                                                   2013     1172838
-                                                   2014     4000000
-                                                   2015     1351813
-                                                   2016      386302
-CALIFORNIA ASSOCIATION FOR RESEARCH IN ASTRONOMY   2017     1795223
-CARNEGIE MELLON UNIVERSITY                         2013       12000
-TRUSTEES OF THE COLORADO SCHOOL OF MINES           2017       49994
-UNIVERSITY OF HAWAII SYSTEMS                       2015       87873
-                                                   2016      138300
-                                                   2017     3105496
+ASSOCIATION OF UNIVERSITIES FOR RESEARCH IN A      2016   3571536.0
+ASSOCIATION OF UNIVERSITIES FOR RESEARCH IN AST... 2017  42798506.0
+CALIFORNIA ASSOCIATION FOR RESEARCH IN ASTRON      2012   1182447.0
+                                                   2013   1172838.0
+                                                   2014   4000000.0
+                                                   2015   1351813.0
+                                                   2016    386302.0
+CALIFORNIA ASSOCIATION FOR RESEARCH IN ASTRONOMY   2017   1795223.0
+CARNEGIE MELLON UNIVERSITY                         2013     12000.0
+TRUSTEES OF THE COLORADO SCHOOL OF MINES           2017     49994.0
+UNIVERSITY OF HAWAII SYSTEMS                       2015     87873.0
+                                                   2016    138300.0
+                                                   2017   3105496.0
 ```
 ---

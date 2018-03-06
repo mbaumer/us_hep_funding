@@ -41,16 +41,16 @@ In the past 6 years, this state has received:
  
                                                     Amount ($)
 Institution                                                   
-GEORGIA TECH RESEARCH CORPORATION                     66065055
-EMORY UNIVERSITY                                      36236673
-UNIVERSITY OF GEORGIA RESEARCH FOUNDATION, IN         11998211
-GEORGIA STATE UNIVERSITY RESEARCH FOUNDATION,         11526554
-UNIVERSITY OF GEORGIA RESEARCH FOUNDATION, INC.        2220978
-CLARK ATLANTA UNIVERSITY, INC.                         1996362
-Emory University                                       1368202
-GEORGIA STATE UNIVERSITY RESEARCH FOUNDATION, INC.     1267789
-Georgia Tech Research Corp                             1263895
-MULTIPLE RECIPIENTS                                     984000
+GEORGIA TECH RESEARCH CORPORATION                   66065055.0
+EMORY UNIVERSITY                                    36236673.0
+UNIVERSITY OF GEORGIA RESEARCH FOUNDATION, IN       11998211.0
+GEORGIA STATE UNIVERSITY RESEARCH FOUNDATION,       11526554.0
+UNIVERSITY OF GEORGIA RESEARCH FOUNDATION, INC.      2220978.0
+CLARK ATLANTA UNIVERSITY, INC.                       1996362.0
+Emory University                                     1368202.0
+GEORGIA STATE UNIVERSITY RESEARCH FOUNDATION, INC.   1267789.0
+Georgia Tech Research Corp                           1263895.0
+MULTIPLE RECIPIENTS                                   984000.0
 and  20  other institutions.
 ```
 ---
@@ -74,7 +74,7 @@ This district received no SC contracts from 2012-2018
 In the past 6 years, this district has received: $105,000.00 in NSF MPS grants.
                           Amount ($)
 Institution         Year            
-BUCKNELL UNIVERSITY 2013      105000
+BUCKNELL UNIVERSITY 2013    105000.0
 ```
 ---
 <a name="GA-02"></a>
@@ -115,10 +115,10 @@ This district received no SC contracts from 2012-2018
 In the past 6 years, this district has received: $611,848.00 in NSF MPS grants.
                                  Amount ($)
 Institution                Year            
-UNIVERSITY OF WEST GEORGIA 2013      229699
-                           2014      340019
-                           2016       23380
-                           2017       18750
+UNIVERSITY OF WEST GEORGIA 2013    229699.0
+                           2014    340019.0
+                           2016     23380.0
+                           2017     18750.0
 ```
 ---
 <a name="GA-04"></a>
@@ -140,11 +140,11 @@ This district received no SC contracts from 2012-2018
 In the past 6 years, this district has received: $12,979,063.00 in NSF MPS grants.
                                 Amount ($)
 Institution               Year            
-AGNES SCOTT COLLEGE, INC. 2012      201886
-EMORY UNIVERSITY          2012      634559
-                          2013     9447147
-                          2014     2587471
-Emory University          2015      108000
+AGNES SCOTT COLLEGE, INC. 2012    201886.0
+EMORY UNIVERSITY          2012    634559.0
+                          2013   9447147.0
+                          2014   2587471.0
+Emory University          2015    108000.0
 ```
 ---
 <a name="GA-05"></a>
@@ -166,41 +166,41 @@ This district received no SC contracts from 2012-2018
 In the past 6 years, this district has received: $109,664,996.00 in NSF MPS grants.
                                                          Amount ($)
 Institution                                        Year            
-AGNES SCOTT COLLEGE, INC.                          2016      255233
-CLARK ATLANTA UNIVERSITY, INC.                     2012      405000
-                                                   2013      405000
-                                                   2014       87500
-                                                   2016      693854
-                                                   2017      405008
-EMORY UNIVERSITY                                   2012     6414458
-                                                   2013      955133
-                                                   2014     3256988
-                                                   2015     4373147
-                                                   2016     6815919
-                                                   2017     1751851
-Emory University                                   2015     1260202
-GEORGIA STATE UNIVERSITY RESEARCH FOUNDATION,      2012     1132556
-                                                   2013     1517590
-                                                   2014     1477583
-                                                   2015     2200010
-                                                   2016     5198815
-GEORGIA STATE UNIVERSITY RESEARCH FOUNDATION, INC. 2017     1267789
-GEORGIA TECH RESEARCH CORPORATION                  2012    12162128
-                                                   2013    15604397
-                                                   2014     5709218
-                                                   2015     9235509
-                                                   2016    10908577
-                                                   2017    12445226
-Ga State U Res Fdn, Inc.                           2015      239530
-Georgia Tech Research Corp                         2015     1263895
-HARVARD COLLEGE, PRESIDENT & FELLOWS OF            2016       82285
-MOREHOUSE COLLEGE (INC.)                           2014      120744
-MULTIPLE RECIPIENTS                                2013      450000
-                                                   2014      534000
-PII Redacted                                       2017      150000
-SPELMAN COLLEGE                                    2013      550000
-                                                   2016      319451
-                                                   2017       16400
+AGNES SCOTT COLLEGE, INC.                          2016    255233.0
+CLARK ATLANTA UNIVERSITY, INC.                     2012    405000.0
+                                                   2013    405000.0
+                                                   2014     87500.0
+                                                   2016    693854.0
+                                                   2017    405008.0
+EMORY UNIVERSITY                                   2012   6414458.0
+                                                   2013    955133.0
+                                                   2014   3256988.0
+                                                   2015   4373147.0
+                                                   2016   6815919.0
+                                                   2017   1751851.0
+Emory University                                   2015   1260202.0
+GEORGIA STATE UNIVERSITY RESEARCH FOUNDATION,      2012   1132556.0
+                                                   2013   1517590.0
+                                                   2014   1477583.0
+                                                   2015   2200010.0
+                                                   2016   5198815.0
+GEORGIA STATE UNIVERSITY RESEARCH FOUNDATION, INC. 2017   1267789.0
+GEORGIA TECH RESEARCH CORPORATION                  2012  12162128.0
+                                                   2013  15604397.0
+                                                   2014   5709218.0
+                                                   2015   9235509.0
+                                                   2016  10908577.0
+                                                   2017  12445226.0
+Ga State U Res Fdn, Inc.                           2015    239530.0
+Georgia Tech Research Corp                         2015   1263895.0
+HARVARD COLLEGE, PRESIDENT & FELLOWS OF            2016     82285.0
+MOREHOUSE COLLEGE (INC.)                           2014    120744.0
+MULTIPLE RECIPIENTS                                2013    450000.0
+                                                   2014    534000.0
+PII Redacted                                       2017    150000.0
+SPELMAN COLLEGE                                    2013    550000.0
+                                                   2016    319451.0
+                                                   2017     16400.0
 ```
 ---
 <a name="GA-06"></a>
@@ -248,7 +248,7 @@ NEXTEL SOUTH CORP             2012           13000.00
 In the past 6 years, this district has received: $148,443.00 in NSF MPS grants.
                                Amount ($)
 Institution              Year            
-GEORGIA GWINNETT COLLEGE 2016      148443
+GEORGIA GWINNETT COLLEGE 2016    148443.0
 ```
 ---
 <a name="GA-08"></a>
@@ -289,7 +289,7 @@ This district received no SC contracts from 2012-2018
 In the past 6 years, this district has received: $86,469.00 in NSF MPS grants.
                                   Amount ($)
 Institution                 Year            
-UNIVERSITY OF NORTH GEORGIA 2014       86469
+UNIVERSITY OF NORTH GEORGIA 2014     86469.0
 ```
 ---
 <a name="GA-10"></a>
@@ -311,16 +311,16 @@ This district received no SC contracts from 2012-2018
 In the past 6 years, this district has received: $14,415,243.00 in NSF MPS grants.
                                                       Amount ($)
 Institution                                     Year            
-U of Georgia                                    2015        7400
-U of Georgia Res Fdn Inc                        2015      150654
-UNIVERSITY OF GEORGIA                           2016       38000
-UNIVERSITY OF GEORGIA RESEARCH FOUNDATION, IN   2012     2411143
-                                                2013     1639493
-                                                2014     4364261
-                                                2015     1640523
-                                                2016     1885938
-                                                2017       56853
-UNIVERSITY OF GEORGIA RESEARCH FOUNDATION, INC. 2017     2220978
+U of Georgia                                    2015      7400.0
+U of Georgia Res Fdn Inc                        2015    150654.0
+UNIVERSITY OF GEORGIA                           2016     38000.0
+UNIVERSITY OF GEORGIA RESEARCH FOUNDATION, IN   2012   2411143.0
+                                                2013   1639493.0
+                                                2014   4364261.0
+                                                2015   1640523.0
+                                                2016   1885938.0
+                                                2017     56853.0
+UNIVERSITY OF GEORGIA RESEARCH FOUNDATION, INC. 2017   2220978.0
 ```
 ---
 <a name="GA-11"></a>
@@ -346,10 +346,10 @@ SYSCOM TECHNOLOGIES, INC. 2015          104634.97
 In the past 6 years, this district has received: $789,021.00 in NSF MPS grants.
                                                          Amount ($)
 Institution                                        Year            
-KENNESAW STATE UNIVERSITY  RESEARCH AND SERVI      2012      120000
-KENNESAW STATE UNIVERSITY RESEARCH AND SERVIC      2015      369000
-                                                   2016      240000
-KENNESAW STATE UNIVERSITY RESEARCH AND SERVICE ... 2017       60021
+KENNESAW STATE UNIVERSITY  RESEARCH AND SERVI      2012    120000.0
+KENNESAW STATE UNIVERSITY RESEARCH AND SERVIC      2015    369000.0
+                                                   2016    240000.0
+KENNESAW STATE UNIVERSITY RESEARCH AND SERVICE ... 2017     60021.0
 ```
 ---
 <a name="GA-12"></a>
@@ -371,14 +371,14 @@ This district received no SC contracts from 2012-2018
 In the past 6 years, this district has received: $1,299,347.00 in NSF MPS grants.
                                                     Amount ($)
 Institution                                   Year            
-GEORGIA HEALTH SCIENCES UNIVERSITY RESEARCH I 2013     -118182
-GEORGIA SOUTHERN UNIVERSITY RESEARCH AND SERV 2012      274908
-                                              2013      150583
-                                              2014      364440
-                                              2016     -103628
-                                              2017       34000
-Ga. Southern Univ. R&S Fdn                    2015      149997
-SAVANNAH STATE UNIVERSITY                     2012      547229
+GEORGIA HEALTH SCIENCES UNIVERSITY RESEARCH I 2013   -118182.0
+GEORGIA SOUTHERN UNIVERSITY RESEARCH AND SERV 2012    274908.0
+                                              2013    150583.0
+                                              2014    364440.0
+                                              2016   -103628.0
+                                              2017     34000.0
+Ga. Southern Univ. R&S Fdn                    2015    149997.0
+SAVANNAH STATE UNIVERSITY                     2012    547229.0
 ```
 ---
 <a name="GA-13"></a>

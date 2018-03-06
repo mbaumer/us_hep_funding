@@ -28,16 +28,16 @@ In the past 6 years, this state has received:
  
                                            Amount ($)
 Institution                                          
-University of Chicago                         5415904
-Northwestern University                       5107000
-University of Illinois - Urbana-Champaign     5038000
-U. OF ILLINOIS AT URBANA-CHAMPAIGN            4325000
-UNIVERSITY OF CHICAGO                         2468000
-NORTHWESTERN UNIVERSITY                       2436000
-Illinois Institute of Technology              2374000
-Northern Illinois University                  1527000
-University of Illinois - Champiagn            1387000
-ILLINOIS INST. OF TECHNOLOGY                  1048000
+University of Chicago                       5415904.0
+Northwestern University                     5107000.0
+University of Illinois - Urbana-Champaign   5038000.0
+U. OF ILLINOIS AT URBANA-CHAMPAIGN          4325000.0
+UNIVERSITY OF CHICAGO                       2468000.0
+NORTHWESTERN UNIVERSITY                     2436000.0
+Illinois Institute of Technology            2374000.0
+Northern Illinois University                1527000.0
+University of Illinois - Champiagn          1387000.0
+ILLINOIS INST. OF TECHNOLOGY                1048000.0
 and  3  other institutions.
 ```
 ## SC Contracts
@@ -64,18 +64,18 @@ and  98  other firms.
 In the past 6 years, this state has received:
 1390 NSF MPS grants, totalling $324,100,240.00
  
-                                  Amount ($)
-Institution                                 
-UNIVERSITY OF ILLINOIS             117061202
-UNIVERSITY OF CHICAGO, THE         102201028
-NORTHWESTERN UNIVERSITY             67062945
-University of Chicago                9806924
-ILLINOIS INSTITUTE OF TECHNOLOGY     4363018
-NORTHERN ILLINOIS UNIVERSITY INC     3259472
-ILLINOIS STATE UNIVERSITY            2894163
-SOUTHERN ILLINOIS UNIVERSITY         2072767
-U of Ill Urbana-Champaign            1697996
-LOYOLA UNIVERSITY OF CHICAGO         1684638
+                                   Amount ($)
+Institution                                  
+UNIVERSITY OF ILLINOIS            117061202.0
+UNIVERSITY OF CHICAGO, THE        102201028.0
+NORTHWESTERN UNIVERSITY            67062945.0
+University of Chicago               9806924.0
+ILLINOIS INSTITUTE OF TECHNOLOGY    4363018.0
+NORTHERN ILLINOIS UNIVERSITY INC    3259472.0
+ILLINOIS STATE UNIVERSITY           2894163.0
+SOUTHERN ILLINOIS UNIVERSITY        2072767.0
+U of Ill Urbana-Champaign           1697996.0
+LOYOLA UNIVERSITY OF CHICAGO        1684638.0
 and  31  other institutions.
 ```
 ---
@@ -89,20 +89,20 @@ Bobby L. Rush is the #2 Democrat on the House Committee on Energy and Commerce
 ### HEP Grants
 ```
 In the past 6 years, this district has received: $11,305,904.00 in SC HEP grants.
-                                       Amount ($)
-Institution                      Year            
-ILLINOIS INST. OF TECHNOLOGY     2012      510000
-                                 2013      538000
-Illinois Institute of Technology 2014      569000
-                                 2015      520000
-                                 2016      865000
-                                 2017      420000
-UNIVERSITY OF CHICAGO            2012     1291000
-                                 2013     1177000
-University of Chicago            2014     1270904
-                                 2015     1406000
-                                 2016      994000
-                                 2017     1745000
+                                         Amount ($)
+Institution                      Year              
+ILLINOIS INST. OF TECHNOLOGY     2012.0    510000.0
+                                 2013.0    538000.0
+Illinois Institute of Technology 2014.0    569000.0
+                                 2015.0    520000.0
+                                 2016.0    865000.0
+                                 2017.0    420000.0
+UNIVERSITY OF CHICAGO            2012.0   1291000.0
+                                 2013.0   1177000.0
+University of Chicago            2014.0   1270904.0
+                                 2015.0   1406000.0
+                                 2016.0    994000.0
+                                 2017.0   1745000.0
 ```
 ### SC Contracts
 ```
@@ -113,33 +113,33 @@ This district received no SC contracts from 2012-2018
 In the past 6 years, this district has received: $118,043,853.00 in NSF MPS grants.
                                                 Amount ($)
 Institution                               Year            
-CHICAGO STATE UNIVERSITY                  2013      223398
-                                          2014       95000
-                                          2016      268108
-FERMI RESEARCH ALLIANCE, LLC              2012        4000
-                                          2013        4000
-                                          2015        5000
-ILLINOIS INSTITUTE OF TECHNOLOGY          2012     1308682
-                                          2013      973436
-                                          2014      115340
-                                          2015      736072
-                                          2016      561651
-                                          2017      241039
-Illinois Inst of Tech                     2015       67949
-MULTIPLE RECIPIENTS                       2012     -154245
-                                          2013     1350000
-                                          2014       -3730
-PII Redacted                              2017      550000
-TOYOTA TECHNOLOGICAL INSTITUTE AT CHICAGO 2015      109920
-                                          2017      -58010
-UNIVERSITIES RESEARCH ASSOCIATION, INC    2016      170045
-UNIVERSITY OF CHICAGO, THE                2012    22640364
-                                          2013    20445446
-                                          2014    13784521
-                                          2015     7987877
-                                          2016    18508033
-                                          2017    18303033
-University of Chicago                     2015     9806924
+CHICAGO STATE UNIVERSITY                  2013    223398.0
+                                          2014     95000.0
+                                          2016    268108.0
+FERMI RESEARCH ALLIANCE, LLC              2012      4000.0
+                                          2013      4000.0
+                                          2015      5000.0
+ILLINOIS INSTITUTE OF TECHNOLOGY          2012   1308682.0
+                                          2013    973436.0
+                                          2014    115340.0
+                                          2015    736072.0
+                                          2016    561651.0
+                                          2017    241039.0
+Illinois Inst of Tech                     2015     67949.0
+MULTIPLE RECIPIENTS                       2012   -154245.0
+                                          2013   1350000.0
+                                          2014     -3730.0
+PII Redacted                              2017    550000.0
+TOYOTA TECHNOLOGICAL INSTITUTE AT CHICAGO 2015    109920.0
+                                          2017    -58010.0
+UNIVERSITIES RESEARCH ASSOCIATION, INC    2016    170045.0
+UNIVERSITY OF CHICAGO, THE                2012  22640364.0
+                                          2013  20445446.0
+                                          2014  13784521.0
+                                          2015   7987877.0
+                                          2016  18508033.0
+                                          2017  18303033.0
+University of Chicago                     2015   9806924.0
 ```
 ---
 <a name="IL-02"></a>
@@ -161,9 +161,9 @@ This district received no SC contracts from 2012-2018
 In the past 6 years, this district has received: $631,577.00 in NSF MPS grants.
                                  Amount ($)
 Institution                Year            
-CHICAGO STATE UNIVERSITY   2012       67136
-                           2017      130000
-UNIVERSITY OF CHICAGO, THE 2016      434441
+CHICAGO STATE UNIVERSITY   2012     67136.0
+                           2017    130000.0
+UNIVERSITY OF CHICAGO, THE 2016    434441.0
 ```
 ---
 <a name="IL-03"></a>
@@ -254,10 +254,10 @@ WESTWIND COMPUTER PRODUCTS, INC.                   2016         4.544100e+03
 In the past 6 years, this district has received: $420,228.00 in NSF MPS grants.
                                  Amount ($)
 Institution                Year            
-MICHIGAN STATE UNIVERSITY  2017        5000
-NORTHWESTERN UNIVERSITY    2016      319747
-PURDUE UNIVERSITY          2013       47921
-UNIVERSITY OF CHICAGO, THE 2016       47560
+MICHIGAN STATE UNIVERSITY  2017      5000.0
+NORTHWESTERN UNIVERSITY    2016    319747.0
+PURDUE UNIVERSITY          2013     47921.0
+UNIVERSITY OF CHICAGO, THE 2016     47560.0
 ```
 ---
 <a name="IL-04"></a>
@@ -298,8 +298,8 @@ This district received no SC contracts from 2012-2018
 In the past 6 years, this district has received: $427,643.00 in NSF MPS grants.
                                        Amount ($)
 Institution                      Year            
-NORTHEASTERN ILLINOIS UNIVERSITY 2012      247659
-                                 2016      179984
+NORTHEASTERN ILLINOIS UNIVERSITY 2012    247659.0
+                                 2016    179984.0
 ```
 ---
 <a name="IL-06"></a>
@@ -321,8 +321,8 @@ This district received no SC contracts from 2012-2018
 In the past 6 years, this district has received: $383,355.00 in NSF MPS grants.
                                        Amount ($)
 Institution                      Year            
-TRUSTEES OF WHEATON COLLEGE, THE 2012       84000
-                                 2013      299355
+TRUSTEES OF WHEATON COLLEGE, THE 2012     84000.0
+                                 2013    299355.0
 ```
 ---
 <a name="IL-07"></a>
@@ -334,13 +334,13 @@ Danny K. Davis is not on any of our key committees
 ### HEP Grants
 ```
 In the past 6 years, this district has received: $439,000.00 in SC HEP grants.
-                                        Amount ($)
-Institution                       Year            
-UNIVERSITY OF ILLINOIS AT CHICAGO 2012      100000
-                                  2013      101000
-University of Illinois - Chicago  2014       98000
-                                  2015      140000
-                                  2016           0
+                                          Amount ($)
+Institution                       Year              
+UNIVERSITY OF ILLINOIS AT CHICAGO 2012.0    100000.0
+                                  2013.0    101000.0
+University of Illinois - Chicago  2014.0     98000.0
+                                  2015.0    140000.0
+                                  2016.0         0.0
 ```
 ### SC Contracts
 ```
@@ -367,24 +367,24 @@ TAB PRODUCTS CO, LLC                             2013           10602.82
 In the past 6 years, this district has received: $22,761,997.00 in NSF MPS grants.
                                        Amount ($)
 Institution                      Year            
-ADLER PLANETARIUM, THE           2012      151615
-                                 2013      163170
-ART INSTITUTE OF CHICAGO, THE    2012       42268
-DE PAUL UNIVERSITY               2012      -22536
-ILLINOIS INSTITUTE OF TECHNOLOGY 2017      363978
-LOYOLA UNIVERSITY OF CHICAGO     2012      346097
-                                 2013      221352
-NORTHWESTERN UNIVERSITY          2017      140000
-Northwestern U Chicago           2015      140000
-ROOSEVELT UNIVERSITY             2012       85000
-                                 2013       85000
-U of Illinois Chicago            2015      671163
-UNIVERSITY OF ILLINOIS           2012     3184940
-                                 2013     4076143
-                                 2014     3169425
-                                 2015     3551625
-                                 2016     2778566
-                                 2017     3614191
+ADLER PLANETARIUM, THE           2012    151615.0
+                                 2013    163170.0
+ART INSTITUTE OF CHICAGO, THE    2012     42268.0
+DE PAUL UNIVERSITY               2012    -22536.0
+ILLINOIS INSTITUTE OF TECHNOLOGY 2017    363978.0
+LOYOLA UNIVERSITY OF CHICAGO     2012    346097.0
+                                 2013    221352.0
+NORTHWESTERN UNIVERSITY          2017    140000.0
+Northwestern U Chicago           2015    140000.0
+ROOSEVELT UNIVERSITY             2012     85000.0
+                                 2013     85000.0
+U of Illinois Chicago            2015    671163.0
+UNIVERSITY OF ILLINOIS           2012   3184940.0
+                                 2013   4076143.0
+                                 2014   3169425.0
+                                 2015   3551625.0
+                                 2016   2778566.0
+                                 2017   3614191.0
 ```
 ---
 <a name="IL-08"></a>
@@ -418,14 +418,14 @@ Janice D. Schakowsky is the #8 Democrat on the House Committee on Energy and Com
 ### HEP Grants
 ```
 In the past 6 years, this district has received: $7,543,000.00 in SC HEP grants.
-                              Amount ($)
-Institution             Year            
-NORTHWESTERN UNIVERSITY 2012     1072000
-                        2013     1364000
-Northwestern University 2014     1822000
-                        2015      875000
-                        2016     1565000
-                        2017      845000
+                                Amount ($)
+Institution             Year              
+NORTHWESTERN UNIVERSITY 2012.0   1072000.0
+                        2013.0   1364000.0
+Northwestern University 2014.0   1822000.0
+                        2015.0    875000.0
+                        2016.0   1565000.0
+                        2017.0    845000.0
 ```
 ### SC Contracts
 ```
@@ -436,21 +436,21 @@ This district received no SC contracts from 2012-2018
 In the past 6 years, this district has received: $69,352,239.00 in NSF MPS grants.
                                    Amount ($)
 Institution                  Year            
-LOYOLA UNIVERSITY OF CHICAGO 2012      135162
-                             2014      -31366
-                             2015      365430
-                             2016       33998
-                             2017      613965
-Loyola Univ of Chicago       2015      104917
-MULTIPLE RECIPIENTS          2012      450000
-NORTHWESTERN UNIVERSITY      2012    12156344
-                             2013    14590696
-                             2014     8326777
-                             2015    10355881
-                             2016    11363633
-                             2017     9809867
-Northwestern University      2015     1027182
-UNIVERSITY OF CHICAGO, THE   2014       49753
+LOYOLA UNIVERSITY OF CHICAGO 2012    135162.0
+                             2014    -31366.0
+                             2015    365430.0
+                             2016     33998.0
+                             2017    613965.0
+Loyola Univ of Chicago       2015    104917.0
+MULTIPLE RECIPIENTS          2012    450000.0
+NORTHWESTERN UNIVERSITY      2012  12156344.0
+                             2013  14590696.0
+                             2014   8326777.0
+                             2015  10355881.0
+                             2016  11363633.0
+                             2017   9809867.0
+Northwestern University      2015   1027182.0
+UNIVERSITY OF CHICAGO, THE   2014     49753.0
 ```
 ---
 <a name="IL-10"></a>
@@ -507,9 +507,9 @@ WESTERN MANAGEMENT DEVELOPMENT CENTER         2013          -13000.00
 In the past 6 years, this district has received: $1,089,631.00 in NSF MPS grants.
                                    Amount ($)
 Institution                  Year            
-ILLINOIS STATE UNIVERSITY    2012      440832
-                             2017      399999
-ILLINOIS WESLEYAN UNIVERSITY 2012      248800
+ILLINOIS STATE UNIVERSITY    2012    440832.0
+                             2017    399999.0
+ILLINOIS WESLEYAN UNIVERSITY 2012    248800.0
 ```
 ---
 <a name="IL-12"></a>
@@ -531,13 +531,13 @@ This district received no SC contracts from 2012-2018
 In the past 6 years, this district has received: $1,636,777.00 in NSF MPS grants.
                                    Amount ($)
 Institution                  Year            
-SOUTHERN ILLINOIS UNIVERSITY 2012      270824
-                             2013      105000
-                             2014      930947
-                             2015      340006
-                             2016      163493
-                             2017     -283493
-Southern Ill U Carbondale    2015      110000
+SOUTHERN ILLINOIS UNIVERSITY 2012    270824.0
+                             2013    105000.0
+                             2014    930947.0
+                             2015    340006.0
+                             2016    163493.0
+                             2017   -283493.0
+Southern Ill U Carbondale    2015    110000.0
 ```
 ---
 <a name="IL-13"></a>
@@ -549,12 +549,12 @@ Rodney Davis is not on any of our key committees
 ### HEP Grants
 ```
 In the past 6 years, this district has received: $6,425,000.00 in SC HEP grants.
-                                                Amount ($)
-Institution                               Year            
-University of Illinois - Champiagn        2015     1387000
-University of Illinois - Urbana-Champaign 2014     1733000
-                                          2016      985000
-                                          2017     2320000
+                                                  Amount ($)
+Institution                               Year              
+University of Illinois - Champiagn        2015.0   1387000.0
+University of Illinois - Urbana-Champaign 2014.0   1733000.0
+                                          2016.0    985000.0
+                                          2017.0   2320000.0
 ```
 ### SC Contracts
 ```
@@ -621,22 +621,22 @@ YORK TELECOM CORPORATION                       2012        -1.022060e+03
 In the past 6 years, this district has received: $81,129,625.00 in NSF MPS grants.
                                             Amount ($)
 Institution                           Year            
-ILLINOIS STATE UNIVERSITY             2013      671573
-                                      2014      396800
-                                      2015      659959
-                                      2016      225000
-ILLINOIS WESLEYAN UNIVERSITY          2017           0
-MICHIGAN STATE UNIVERSITY             2012        5000
-SOUTHERN ILLINOIS UNIVERSITY          2013      200002
-                                      2014       35000
-                                      2015      229757
-SOUTHERN ILLINOIS UNIVERSITY006331342 2016      399969
-U of Ill Urbana-Champaign             2015     1697996
-UNIVERSITY OF ILLINOIS                2013    21304348
-                                      2014    13846081
-                                      2015    13264698
-                                      2016    11939790
-                                      2017    16253652
+ILLINOIS STATE UNIVERSITY             2013    671573.0
+                                      2014    396800.0
+                                      2015    659959.0
+                                      2016    225000.0
+ILLINOIS WESLEYAN UNIVERSITY          2017         0.0
+MICHIGAN STATE UNIVERSITY             2012      5000.0
+SOUTHERN ILLINOIS UNIVERSITY          2013    200002.0
+                                      2014     35000.0
+                                      2015    229757.0
+SOUTHERN ILLINOIS UNIVERSITY006331342 2016    399969.0
+U of Ill Urbana-Champaign             2015   1697996.0
+UNIVERSITY OF ILLINOIS                2013  21304348.0
+                                      2014  13846081.0
+                                      2015  13264698.0
+                                      2016  11939790.0
+                                      2017  16253652.0
 ```
 ---
 <a name="IL-14"></a>
@@ -652,10 +652,10 @@ Randy Hultgren is the #3 Republican on the House Committee on Science, Space, an
 ### HEP Grants
 ```
 In the past 6 years, this district has received: $290,000.00 in SC HEP grants.
-                                   Amount ($)
-Institution                  Year            
-NORTHERN ILLINOIS UNIVERSITY 2012       98000
-                             2013      192000
+                                     Amount ($)
+Institution                  Year              
+NORTHERN ILLINOIS UNIVERSITY 2012.0     98000.0
+                             2013.0    192000.0
 ```
 ### SC Contracts
 ```
@@ -678,18 +678,18 @@ KEVIN E O'CONNOR AND ASSOCS LTMD                  2015         2.250000e+04
 In the past 6 years, this district has received: $2,504,916.00 in NSF MPS grants.
                                                          Amount ($)
 Institution                                        Year            
-CAPITOL COLLEGE                                    2012       25433
-FERMI RESEARCH ALLIANCE, LLC                       2012        7812
-                                                   2014        7928
-ILLINOIS INSTITUTE OF TECHNOLOGY                   2013       62820
-NORTHERN ILLINOIS UNIVERSITY INC                   2012      430011
-                                                   2015      180000
-PURDUE UNIVERSITY                                  2012      100000
-                                                   2015      135912
-RESEARCH FOUNDATION FOR THE STATE UNIVERSITY OF... 2017      160000
-RESEARCH FOUNDATION OF STATE UNIVERSITY OF NE      2012      750000
-                                                   2015      265000
-RUTGERS, THE STATE UNIVERSITY OF NEW JERSEY        2013      380000
+CAPITOL COLLEGE                                    2012     25433.0
+FERMI RESEARCH ALLIANCE, LLC                       2012      7812.0
+                                                   2014      7928.0
+ILLINOIS INSTITUTE OF TECHNOLOGY                   2013     62820.0
+NORTHERN ILLINOIS UNIVERSITY INC                   2012    430011.0
+                                                   2015    180000.0
+PURDUE UNIVERSITY                                  2012    100000.0
+                                                   2015    135912.0
+RESEARCH FOUNDATION FOR THE STATE UNIVERSITY OF... 2017    160000.0
+RESEARCH FOUNDATION OF STATE UNIVERSITY OF NE      2012    750000.0
+                                                   2015    265000.0
+RUTGERS, THE STATE UNIVERSITY OF NEW JERSEY        2013    380000.0
 ```
 ---
 <a name="IL-15"></a>
@@ -701,10 +701,10 @@ John Shimkus is the #4 Republican on the House Committee on Energy and Commerce
 ### HEP Grants
 ```
 In the past 6 years, this district has received: $4,325,000.00 in SC HEP grants.
-                                         Amount ($)
-Institution                        Year            
-U. OF ILLINOIS AT URBANA-CHAMPAIGN 2012     1882000
-                                   2013     2443000
+                                           Amount ($)
+Institution                        Year              
+U. OF ILLINOIS AT URBANA-CHAMPAIGN 2012.0   1882000.0
+                                   2013.0   2443000.0
 ```
 ### SC Contracts
 ```
@@ -715,15 +715,15 @@ This district received no SC contracts from 2012-2018
 In the past 6 years, this district has received: $21,670,294.00 in NSF MPS grants.
                                    Amount ($)
 Institution                  Year            
-EASTERN ILLINOIS UNIVERSITY  2012      275643
-                             2013       67274
-                             2015      417973
-                             2016      409530
-                             2017      165680
-ILLINOIS WESLEYAN UNIVERSITY 2012      256451
-UNIVERSITY OF ILLINOIS       2012    19813761
-                             2013      163982
-                             2016      100000
+EASTERN ILLINOIS UNIVERSITY  2012    275643.0
+                             2013     67274.0
+                             2015    417973.0
+                             2016    409530.0
+                             2017    165680.0
+ILLINOIS WESLEYAN UNIVERSITY 2012    256451.0
+UNIVERSITY OF ILLINOIS       2012  19813761.0
+                             2013    163982.0
+                             2016    100000.0
 ```
 ---
 <a name="IL-16"></a>
@@ -735,12 +735,12 @@ Adam Kinzinger is the #15 Republican on the House Committee on Energy and Commer
 ### HEP Grants
 ```
 In the past 6 years, this district has received: $1,527,000.00 in SC HEP grants.
-                                   Amount ($)
-Institution                  Year            
-Northern Illinois University 2014      625000
-                             2015      210000
-                             2016      400000
-                             2017      292000
+                                     Amount ($)
+Institution                  Year              
+Northern Illinois University 2014.0    625000.0
+                             2015.0    210000.0
+                             2016.0    400000.0
+                             2017.0    292000.0
 ```
 ### SC Contracts
 ```
@@ -751,11 +751,11 @@ This district received no SC contracts from 2012-2018
 In the past 6 years, this district has received: $2,649,461.00 in NSF MPS grants.
                                        Amount ($)
 Institution                      Year            
-NORTHERN ILLINOIS UNIVERSITY INC 2013      954961
-                                 2014      377757
-                                 2015      280000
-                                 2016      358160
-                                 2017      678583
+NORTHERN ILLINOIS UNIVERSITY INC 2013    954961.0
+                                 2014    377757.0
+                                 2015    280000.0
+                                 2016    358160.0
+                                 2017    678583.0
 ```
 ---
 <a name="IL-17"></a>
@@ -777,11 +777,11 @@ This district received no SC contracts from 2012-2018
 In the past 6 years, this district has received: $698,075.00 in NSF MPS grants.
                          Amount ($)
 Institution        Year            
-AUGUSTANA COLLEGE  2012       40611
-                   2014      123843
-                   2017        1000
-BRADLEY UNIVERSITY 2017      240521
-KNOX COLLEGE       2014      292100
+AUGUSTANA COLLEGE  2012     40611.0
+                   2014    123843.0
+                   2017      1000.0
+BRADLEY UNIVERSITY 2017    240521.0
+KNOX COLLEGE       2014    292100.0
 ```
 ---
 <a name="IL-18"></a>
@@ -807,9 +807,9 @@ This district received no SC contracts from 2012-2018
 In the past 6 years, this district has received: $619,338.00 in NSF MPS grants.
                                       Amount ($)
 Institution                     Year            
-ILLINOIS STATE UNIVERSITY       2013      100000
-ILLINOIS WESLEYAN UNIVERSITY    2013      178261
-                                2014       91182
-WESTERN ILLINOIS UNIVERSITY INC 2013      249895
+ILLINOIS STATE UNIVERSITY       2013    100000.0
+ILLINOIS WESLEYAN UNIVERSITY    2013    178261.0
+                                2014     91182.0
+WESTERN ILLINOIS UNIVERSITY INC 2013    249895.0
 ```
 ---

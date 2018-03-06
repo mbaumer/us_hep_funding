@@ -32,11 +32,11 @@ In the past 6 years, this state has received:
  
                                     Amount ($)
 Institution                                   
-BOISE STATE UNIVERSITY                 4135593
-IDAHO STATE UNIVERSITY                 1908429
-REGENTS OF THE UNIVERSITY OF IDAHO     1189175
-Boise State University                  774586
-UNIVERSITY OF IDAHO                     536655
+BOISE STATE UNIVERSITY               4135593.0
+IDAHO STATE UNIVERSITY               1908429.0
+REGENTS OF THE UNIVERSITY OF IDAHO   1189175.0
+Boise State University                774586.0
+UNIVERSITY OF IDAHO                   536655.0
 ```
 ---
 ---
@@ -59,10 +59,10 @@ This district received no SC contracts from 2012-2018
 In the past 6 years, this district has received: $1,725,830.00 in NSF MPS grants.
                                          Amount ($)
 Institution                        Year            
-REGENTS OF THE UNIVERSITY OF IDAHO 2013     1139506
-                                   2016      182437
-                                   2017     -132768
-UNIVERSITY OF IDAHO                2012      536655
+REGENTS OF THE UNIVERSITY OF IDAHO 2013   1139506.0
+                                   2016    182437.0
+                                   2017   -132768.0
+UNIVERSITY OF IDAHO                2012    536655.0
 ```
 ---
 <a name="ID-02"></a>
@@ -86,18 +86,18 @@ This district received no SC contracts from 2012-2018
 In the past 6 years, this district has received: $6,818,608.00 in NSF MPS grants.
                              Amount ($)
 Institution            Year            
-BOISE STATE UNIVERSITY 2012      653049
-                       2013      548123
-                       2014      912789
-                       2015       24186
-                       2016      417882
-                       2017     1579564
-Boise State University 2015      774586
-IDAHO STATE UNIVERSITY 2012      541671
-                       2013      533425
-                       2014       18310
-                       2015      303747
-                       2016      264598
-                       2017      246678
+BOISE STATE UNIVERSITY 2012    653049.0
+                       2013    548123.0
+                       2014    912789.0
+                       2015     24186.0
+                       2016    417882.0
+                       2017   1579564.0
+Boise State University 2015    774586.0
+IDAHO STATE UNIVERSITY 2012    541671.0
+                       2013    533425.0
+                       2014     18310.0
+                       2015    303747.0
+                       2016    264598.0
+                       2017    246678.0
 ```
 ---

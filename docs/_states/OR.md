@@ -24,14 +24,14 @@ Ron Wyden is the #2 Democrat on the Senate Committee on Energy and Natural Resou
 In the past 6 years, this state has received:
 27 HEP grants, totalling $6,879,000.00
  
-                           Amount ($)
-Institution          Year            
-UNIVERSITY OF OREGON 2012     1158000
-                     2013      878000
-University of Oregon 2014     1731000
-                     2015      981000
-                     2016     1035000
-                     2017     1096000
+                             Amount ($)
+Institution          Year              
+UNIVERSITY OF OREGON 2012.0   1158000.0
+                     2013.0    878000.0
+University of Oregon 2014.0   1731000.0
+                     2015.0    981000.0
+                     2016.0   1035000.0
+                     2017.0   1096000.0
 ```
 ## SC Contracts
 ```
@@ -44,16 +44,16 @@ In the past 6 years, this state has received:
  
                                            Amount ($)
 Institution                                          
-OREGON STATE UNIVERSITY                      23280992
-UNIVERSITY OF OREGON                         22386124
-PORTLAND STATE UNIVERSITY                     2441501
-U of Oregon Eugene                            1212198
-Oregon State University                       1103427
-OREGON HEALTH & SCIENCE UNIVERSITY             921373
-WILLAMETTE UNIVERSITY                          727927
-UNIVERSITY OF PUERTO RICO                      669492
-SISTEMA UNIVERSITARIO ANA G. MENDEZ, INC.      605413
-LEWIS & CLARK COLLEGE                          449764
+OREGON STATE UNIVERSITY                    23280992.0
+UNIVERSITY OF OREGON                       22386124.0
+PORTLAND STATE UNIVERSITY                   2441501.0
+U of Oregon Eugene                          1212198.0
+Oregon State University                     1103427.0
+OREGON HEALTH & SCIENCE UNIVERSITY           921373.0
+WILLAMETTE UNIVERSITY                        727927.0
+UNIVERSITY OF PUERTO RICO                    669492.0
+SISTEMA UNIVERSITARIO ANA G. MENDEZ, INC.    605413.0
+LEWIS & CLARK COLLEGE                        449764.0
 and  7  other institutions.
 ```
 ---
@@ -81,12 +81,12 @@ This district received no SC contracts from 2012-2018
 In the past 6 years, this district has received: $866,994.00 in NSF MPS grants.
                                 Amount ($)
 Institution               Year            
-PACIFIC UNIVERSITY        2012       91885
-                          2013       37185
-                          2015      291626
-PORTLAND STATE UNIVERSITY 2012      201086
-                          2013       29212
-UNIVERSITY OF OREGON      2015      216000
+PACIFIC UNIVERSITY        2012     91885.0
+                          2013     37185.0
+                          2015    291626.0
+PORTLAND STATE UNIVERSITY 2012    201086.0
+                          2013     29212.0
+UNIVERSITY OF OREGON      2015    216000.0
 ```
 ---
 <a name="OR-02"></a>
@@ -127,21 +127,21 @@ This district received no SC contracts from 2012-2018
 In the past 6 years, this district has received: $4,028,306.00 in NSF MPS grants.
                                          Amount ($)
 Institution                        Year            
-LEWIS & CLARK COLLEGE              2014      220116
-                                   2015      195008
-                                   2017       34640
-OREGON HEALTH & SCIENCE UNIVERSITY 2014      258101
-                                   2015      513689
-                                   2017      149583
-PORTLAND STATE UNIVERSITY          2013      674000
-                                   2014      210540
-                                   2015      149936
-                                   2016     1019855
-                                   2017      156872
-Portland State University          2015       95000
-REED INSTITUTE, THE                2014      172146
-                                   2017      150820
-Reed College                       2015       28000
+LEWIS & CLARK COLLEGE              2014    220116.0
+                                   2015    195008.0
+                                   2017     34640.0
+OREGON HEALTH & SCIENCE UNIVERSITY 2014    258101.0
+                                   2015    513689.0
+                                   2017    149583.0
+PORTLAND STATE UNIVERSITY          2013    674000.0
+                                   2014    210540.0
+                                   2015    149936.0
+                                   2016   1019855.0
+                                   2017    156872.0
+Portland State University          2015     95000.0
+REED INSTITUTE, THE                2014    172146.0
+                                   2017    150820.0
+Reed College                       2015     28000.0
 ```
 ---
 <a name="OR-04"></a>
@@ -153,14 +153,14 @@ Peter A. DeFazio is not on any of our key committees
 ### HEP Grants
 ```
 In the past 6 years, this district has received: $6,879,000.00 in SC HEP grants.
-                           Amount ($)
-Institution          Year            
-UNIVERSITY OF OREGON 2012     1158000
-                     2013      878000
-University of Oregon 2014     1731000
-                     2015      981000
-                     2016     1035000
-                     2017     1096000
+                             Amount ($)
+Institution          Year              
+UNIVERSITY OF OREGON 2012.0   1158000.0
+                     2013.0    878000.0
+University of Oregon 2014.0   1731000.0
+                     2015.0    981000.0
+                     2016.0   1035000.0
+                     2017.0   1096000.0
 ```
 ### SC Contracts
 ```
@@ -171,20 +171,20 @@ This district received no SC contracts from 2012-2018
 In the past 6 years, this district has received: $46,379,196.00 in NSF MPS grants.
                                              Amount ($)
 Institution                            Year            
-OREGON STATE UNIVERSITY                2013      863599
-                                       2014    11142701
-                                       2015     2251137
-                                       2016     4124353
-                                       2017     3480657
-Oregon State University                2015     1103427
-REGENTS OF THE UNIVERSITY OF MINNESOTA 2015       31000
-U of Oregon Eugene                     2015     1212198
-UNIVERSITY OF OREGON                   2012     3533958
-                                       2013     3881220
-                                       2014     3663795
-                                       2015     1802360
-                                       2016     6457380
-                                       2017     2831411
+OREGON STATE UNIVERSITY                2013    863599.0
+                                       2014  11142701.0
+                                       2015   2251137.0
+                                       2016   4124353.0
+                                       2017   3480657.0
+Oregon State University                2015   1103427.0
+REGENTS OF THE UNIVERSITY OF MINNESOTA 2015     31000.0
+U of Oregon Eugene                     2015   1212198.0
+UNIVERSITY OF OREGON                   2012   3533958.0
+                                       2013   3881220.0
+                                       2014   3663795.0
+                                       2015   1802360.0
+                                       2016   6457380.0
+                                       2017   2831411.0
 ```
 ---
 <a name="OR-05"></a>
@@ -206,12 +206,12 @@ This district received no SC contracts from 2012-2018
 In the past 6 years, this district has received: $2,414,027.00 in NSF MPS grants.
                               Amount ($)
 Institution             Year            
-OREGON STATE UNIVERSITY 2012     1293545
-                        2013      125000
-WILLAMETTE UNIVERSITY   2012      559231
-                        2013       45158
-                        2014        5000
-                        2015      118538
-Willamette University   2015      267555
+OREGON STATE UNIVERSITY 2012   1293545.0
+                        2013    125000.0
+WILLAMETTE UNIVERSITY   2012    559231.0
+                        2013     45158.0
+                        2014      5000.0
+                        2015    118538.0
+Willamette University   2015    267555.0
 ```
 ---
