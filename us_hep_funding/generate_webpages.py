@@ -3,77 +3,49 @@ import numpy as np
 import sys
 import codecs
 
-N_YEARS_STR = '6'
-END_YEAR = 2017
+contracts = pd.read_pickle('../new_data/cleaned/sc_contracts.pkl')
+contracts_by_state = contracts.groupby(['State'])
+contracts_by_district = contracts.groupby('District')
 
-#DOE SC Contracts
-contracts = pd.read_pickle('../cleaned_data/sc_contracts.pkl')
-contracts = contracts.rename(columns = {
-    'dollarsobligated':'Amount ($)',
-})
-
-doe_state_list = []
-contracts = contracts.dropna(subset=['placeofperformancecongressionaldistrict'])
-for dist in contracts['placeofperformancecongressionaldistrict']:
-    doe_state_list.append(str(dist[:2]))
-contracts['place_of_performance_state'] = doe_state_list
-
-contracts_by_state = contracts.groupby(['place_of_performance_state'])
-contracts_by_district = contracts.groupby('placeofperformancecongressionaldistrict')
+start_year = np.min(contracts['Year'])
+n_years = len(contracts['Year'].unique())
+end_year = int(start_year) + n_years - 1
 
 #DOE HEP grants
-grants = pd.read_pickle('../cleaned_data/hep_grants.pkl')
-grants = grants.rename(columns = {
-    'Amount':'Amount ($)',
-})
-
-state_list = []
-for state in grants['State']:
-    if len(state) >2:
-        state_list.append(state[1:])
-    else:
-        state_list.append(state)
-grants['State'] = state_list
-    
+grants = pd.read_pickle('../new_data/cleaned/hep_grants.pkl')
 grants_by_district = grants.groupby(['District'])
 grants_by_state = grants.groupby(['State'])
 
 #NSF MPS Grants
-nsf_grants = pd.read_pickle('../cleaned_data/nsf_mps_grants.pkl')
-nsf_grants = nsf_grants.rename(columns = {
-    'fed_funding_amount':'Amount ($)',
-    'recipient_name' : 'Institution',
-    'fiscal_year' : 'Year',
-    'principal_place_state_code' : 'State'
-})
+nsf_grants = pd.read_pickle('../new_data/cleaned/nsf_mps_grants.pkl')
 nsf_by_state = nsf_grants.groupby(['State'])
-nsf_by_district = nsf_grants.groupby(['cong_dist'])
+nsf_by_district = nsf_grants.groupby(['District'])
 
 #legislators = pd.read_pickle('../data/old_data/old_cleaned_data/legislator_key_info')
 #committee_members = pd.read_pickle('../data/old_data/old_cleaned_data/committee_memberships').groupby(4)
 
-legislators = pd.read_pickle('../cleaned_data/legislator_key_info.pkl')
-committee_members = pd.read_pickle('../cleaned_data/committee_memberships.pkl').groupby(4)
+legislators = pd.read_pickle('../new_data/cleaned/legislator_key_info.pkl')
+committee_members = pd.read_pickle('../new_data/cleaned/committee_memberships.pkl').groupby(4)
 
 
 def get_nsf_grants_by_district(distcode):
     try: 
         nsf_by_district.get_group(distcode)
     except KeyError: 
-        print 'This district received no NSF MPS grants from 2012-'+str(END_YEAR)
+        print 'This district received no NSF MPS grants from '+str(start_year)+'-'+str(end_year)
         return
-    print 'In the past '+N_YEARS_STR+' years, this district has received:', '${:,.2f}'.format(nsf_by_district.get_group(distcode)['Amount ($)'].sum()), 'in NSF MPS grants.'
+    print 'In the past '+str(n_years)+' years, this district has received:', '${:,.2f}'.format(nsf_by_district.get_group(distcode)['Amount ($)'].sum()), 'in NSF MPS grants.'
     print nsf_by_district.get_group(distcode).groupby(['Institution','Year'])[['Amount ($)']].sum()
     
 def get_nsf_grants_by_state(distcode):
     try: 
         nsf_by_state.get_group(distcode)
     except KeyError: 
-        print 'This state received no NSF MPS grants from 2012-'+str(END_YEAR)
+        print 'This state received no NSF MPS grants from '+str(start_year)+'-'+str(end_year)
         return
     n_contracts = nsf_by_state.get_group(distcode)['Amount ($)'].count()
     total_contract_value = nsf_by_state.get_group(distcode)['Amount ($)'].sum()
-    print 'In the past '+N_YEARS_STR+' years, this state has received:'
+    print 'In the past '+str(n_years)+' years, this state has received:'
     print n_contracts, 'NSF MPS grants, totalling', '${:,.2f}'.format(total_contract_value)
     print ' '
     n_institutes = len(nsf_by_state.get_group(distcode).groupby(['Institution'])[['Amount ($)']])
@@ -87,29 +59,29 @@ def get_state_contracts(distcode):
     try: 
         contracts_by_state.get_group(distcode)
     except KeyError: 
-        print 'This state received no SC contracts from 2012-'+str(END_YEAR+1)
+        print 'This state received no SC contracts from '+str(start_year)+'-'+str(end_year)
         return
     n_contracts = contracts_by_state.get_group(distcode)['Amount ($)'].count()
     total_contract_value = contracts_by_state.get_group(distcode)['Amount ($)'].sum()
-    print 'In the past '+N_YEARS_STR+' years, this state has received:'
+    print 'In the past '+str(n_years)+' years, this state has received:'
     print n_contracts, 'Office of Science contracts, totalling', '${:,.2f}'.format(total_contract_value)
     print ' '
-    n_firms = len(contracts_by_state.get_group(distcode).groupby(['vendorname'])[['Amount ($)']])
+    n_firms = len(contracts_by_state.get_group(distcode).groupby(['Vendor'])[['Amount ($)']])
     if n_firms < 4:
-        print contracts_by_state.get_group(distcode).groupby(['vendorname','fiscal_year'])[['Amount ($)']].sum()
+        print contracts_by_state.get_group(distcode).groupby(['Vendor','Year'])[['Amount ($)']].sum()
     else:
-        print contracts_by_state.get_group(distcode).groupby(['vendorname'])[['Amount ($)']].sum().sort_values(['Amount ($)'],ascending=False).head(n=10)
+        print contracts_by_state.get_group(distcode).groupby(['Vendor'])[['Amount ($)']].sum().sort_values(['Amount ($)'],ascending=False).head(n=10)
         if n_firms > 10: print 'and ', n_firms-10, ' other firms.'
 
 def get_state_grants(distcode):
     try: 
         grants_by_state.get_group(distcode)
     except KeyError: 
-        print 'This state received no SC HEP grants from 2012-'+str(END_YEAR)
+        print 'This state received no SC HEP grants from '+str(start_year)+'-'+str(end_year)
         return
     n_contracts = grants_by_state.get_group(distcode)['Amount ($)'].count()
     total_contract_value = grants_by_state.get_group(distcode)['Amount ($)'].sum()
-    print 'In the past '+N_YEARS_STR+' years, this state has received:'
+    print 'In the past '+str(n_years)+' years, this state has received:'
     print n_contracts, 'HEP grants, totalling', '${:,.2f}'.format(total_contract_value)
     print ' '
     n_institutes = len(grants_by_state.get_group(distcode).groupby(['Institution'])[['Amount ($)']])
@@ -143,18 +115,18 @@ def get_district_contracts(distcode):
     try: 
         contracts_by_district.get_group(distcode)
     except KeyError: 
-        print 'This district received no SC contracts from 2012-'+str(END_YEAR+1)
+        print 'This district received no SC contracts from '+str(start_year)+'-'+str(end_year)
         return
-    print 'In the past '+N_YEARS_STR+' years, this district has received:', '${:,.2f}'.format(contracts_by_district.get_group(distcode)['Amount ($)'].sum()), 'in SC contracts.'
-    print contracts_by_district.get_group(distcode).groupby(['vendorname','fiscal_year'])[['Amount ($)']].sum()
+    print 'In the past '+str(n_years)+' years, this district has received:', '${:,.2f}'.format(contracts_by_district.get_group(distcode)['Amount ($)'].sum()), 'in SC contracts.'
+    print contracts_by_district.get_group(distcode).groupby(['Vendor','Year'])[['Amount ($)']].sum()
 
 def get_district_grants(distcode):
     try: 
         grants_by_district.get_group(distcode)
     except KeyError: 
-        print 'This district received no SC HEP grants from 2012-'+str(END_YEAR)
+        print 'This district received no SC HEP grants from '+str(start_year)+'-'+str(end_year)
         return
-    print 'In the past '+N_YEARS_STR+' years, this district has received:', '${:,.2f}'.format(grants_by_district.get_group(distcode)['Amount ($)'].sum()), 'in SC HEP grants.'
+    print 'In the past '+str(n_years)+' years, this district has received:', '${:,.2f}'.format(grants_by_district.get_group(distcode)['Amount ($)'].sum()), 'in SC HEP grants.'
     print grants_by_district.get_group(distcode).groupby(['Institution','Year']).sum()
     
     

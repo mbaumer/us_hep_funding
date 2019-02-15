@@ -13,41 +13,51 @@ permalink : /states/DE/
 ## Committees
 Thomas R. Carper is not on any of our key committees 
 
-Christopher A. Coons is the #8 Democrat on the Senate Appropriations Subcommittee on Energy and Water Development 
-
 Christopher A. Coons is the #5 Democrat on the Senate Appropriations Subcommittee on Commerce, Justice, Science, and Related Agencies 
 
 Christopher A. Coons is the #10 Democrat on the Senate Committee on Appropriations 
 
+Christopher A. Coons is the #8 Democrat on the Senate Appropriations Subcommittee on Energy and Water Development 
+
 ## HEP Grants
 ```
-In the past 6 years, this state has received:
-8 HEP grants, totalling $1,658,824.79
+In the past 8 years, this state has received:
+9 HEP grants, totalling $1,658,825.00
  
-                               Amount ($)
-Institution            Year              
-UNIVERSITY OF DELAWARE 2012.0   355000.00
-                       2013.0   358000.00
-University Of Delaware 2017.0   215000.00
-University of Delaware 2014.0   347000.00
-                       2015.0   420000.00
-                       2016.0   -36175.21
+                             Amount ($)
+Institution            Year            
+UNIVERSITY OF DELAWARE 2012      355000
+                       2013      358000
+University Of Delaware 2017      215000
+                       2018           0
+University of Delaware 2014      347000
+                       2015      420000
+                       2016      -36175
 ```
 ## SC Contracts
 ```
-This state received no SC contracts from 2012-2018
+This state received no SC contracts from 2012-2019
 ```
 ## NSF MPS Grants
 ```
-In the past 6 years, this state has received:
-166 NSF MPS grants, totalling $28,919,356.00
+In the past 8 years, this state has received:
+212 NSF MPS grants, totalling $36,517,082.00
  
-                                               Amount ($)
-Institution                                              
-UNIVERSITY OF DELAWARE                         26843964.0
-University of Delaware                          1357597.0
-DELAWARE STATE UNIVERSITY                        714795.0
-HENRY FRANCIS DUPONT WINTERTHUR MUSEUM, INC.,      3000.0
+                                                    Amount ($)
+Institution                                   Year            
+DELAWARE STATE UNIVERSITY                     2013      -71211
+                                              2014      501100
+                                              2015      225072
+                                              2017      175533
+HENRY FRANCIS DUPONT WINTERTHUR MUSEUM, INC., 2013        3000
+UNIVERSITY OF DELAWARE                        2012     6442312
+                                              2013     4710203
+                                              2014     3258532
+                                              2015     4737000
+                                              2016     7488139
+                                              2017     3329697
+                                              2018     5634810
+                                              2019       82895
 ```
 ---
 ---
@@ -55,40 +65,42 @@ HENRY FRANCIS DUPONT WINTERTHUR MUSEUM, INC.,      3000.0
 [Back to top](#top)
 ## DE-00 -- Rep. Lisa Blunt Rochester (D) -- [Wikipedia](https://en.wikipedia.org/wiki/DE-00)
 ### Committees
-Lisa Blunt Rochester is the #9 Democrat on the House Subcommittee on Higher Education and Workforce Development 
+Lisa Blunt Rochester is the #29 Republican on the House Committee on Energy and Commerce 
 
 ### HEP Grants
 ```
-In the past 6 years, this district has received: $1,658,824.79 in SC HEP grants.
-                               Amount ($)
-Institution            Year              
-UNIVERSITY OF DELAWARE 2012.0   355000.00
-                       2013.0   358000.00
-University Of Delaware 2017.0   215000.00
-University of Delaware 2014.0   347000.00
-                       2015.0   420000.00
-                       2016.0   -36175.21
+In the past 8 years, this district has received: $1,658,825.00 in SC HEP grants.
+                             Amount ($)
+Institution            Year            
+UNIVERSITY OF DELAWARE 2012      355000
+                       2013      358000
+University Of Delaware 2017      215000
+                       2018           0
+University of Delaware 2014      347000
+                       2015      420000
+                       2016      -36175
 ```
 ### SC Contracts
 ```
-This district received no SC contracts from 2012-2018
+This district received no SC contracts from 2012-2019
 ```
 ### NSF MPS Grants
 ```
-In the past 6 years, this district has received: $28,919,356.00 in NSF MPS grants.
+In the past 8 years, this district has received: $36,517,082.00 in NSF MPS grants.
                                                     Amount ($)
 Institution                                   Year            
-DELAWARE STATE UNIVERSITY                     2013    -71211.0
-                                              2014    501100.0
-                                              2015    225072.0
-                                              2017     59834.0
-HENRY FRANCIS DUPONT WINTERTHUR MUSEUM, INC., 2013      3000.0
-UNIVERSITY OF DELAWARE                        2012   6436212.0
-                                              2013   4706203.0
-                                              2014   3258532.0
-                                              2015   3379403.0
-                                              2016   7488139.0
-                                              2017   1575475.0
-University of Delaware                        2015   1357597.0
+DELAWARE STATE UNIVERSITY                     2013      -71211
+                                              2014      501100
+                                              2015      225072
+                                              2017      175533
+HENRY FRANCIS DUPONT WINTERTHUR MUSEUM, INC., 2013        3000
+UNIVERSITY OF DELAWARE                        2012     6442312
+                                              2013     4710203
+                                              2014     3258532
+                                              2015     4737000
+                                              2016     7488139
+                                              2017     3329697
+                                              2018     5634810
+                                              2019       82895
 ```
 ---

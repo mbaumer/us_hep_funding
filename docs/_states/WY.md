@@ -17,27 +17,31 @@ Michael B. Enzi is not on any of our key committees
 
 ## HEP Grants
 ```
-This state received no SC HEP grants from 2012-2017
+In the past 8 years, this state has received:
+1 HEP grants, totalling $205,000.00
+ 
+                            Amount ($)
+Institution           Year            
+University of Wyoming 2018      205000
 ```
 ## SC Contracts
 ```
-This state received no SC contracts from 2012-2018
+This state received no SC contracts from 2012-2019
 ```
 ## NSF MPS Grants
 ```
-In the past 6 years, this state has received:
-44 NSF MPS grants, totalling $6,856,618.00
+In the past 8 years, this state has received:
+55 NSF MPS grants, totalling $8,743,607.00
  
-                                   Amount ($)
-Institution                  Year            
-UNIVERSITY OF HOUSTON SYSTEM 2013     27820.0
-UNIVERSITY OF WYOMING        2012   1388342.0
-                             2013    994893.0
-                             2014   2483679.0
-                             2015    476197.0
-                             2016   1045655.0
-                             2017    441942.0
-University of Wyoming        2015     -1910.0
+                            Amount ($)
+Institution           Year            
+UNIVERSITY OF WYOMING 2012     1388342
+                      2013      994893
+                      2014     2483679
+                      2015      474287
+                      2016     1045655
+                      2017      622782
+                      2018     1733969
 ```
 ---
 ---
@@ -49,24 +53,26 @@ Liz Cheney is not on any of our key committees
 
 ### HEP Grants
 ```
-This district received no SC HEP grants from 2012-2017
+In the past 8 years, this district has received: $205,000.00 in SC HEP grants.
+                            Amount ($)
+Institution           Year            
+University of Wyoming 2018      205000
 ```
 ### SC Contracts
 ```
-This district received no SC contracts from 2012-2018
+This district received no SC contracts from 2012-2019
 ```
 ### NSF MPS Grants
 ```
-In the past 6 years, this district has received: $6,856,618.00 in NSF MPS grants.
-                                   Amount ($)
-Institution                  Year            
-UNIVERSITY OF HOUSTON SYSTEM 2013     27820.0
-UNIVERSITY OF WYOMING        2012   1388342.0
-                             2013    994893.0
-                             2014   2483679.0
-                             2015    476197.0
-                             2016   1045655.0
-                             2017    441942.0
-University of Wyoming        2015     -1910.0
+In the past 8 years, this district has received: $8,743,607.00 in NSF MPS grants.
+                            Amount ($)
+Institution           Year            
+UNIVERSITY OF WYOMING 2012     1388342
+                      2013      994893
+                      2014     2483679
+                      2015      474287
+                      2016     1045655
+                      2017      622782
+                      2018     1733969
 ```
 ---

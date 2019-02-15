@@ -11,64 +11,62 @@ permalink : /states/MA/
 
 # MA -- Sen. Edward J. Markey (D) and  Sen. Elizabeth Warren (D)
 ## Committees
-Edward J. Markey is the #1 Democrat on the Senate Commerce Subcommittee on Science and Space 
-
-Edward J. Markey is the #6 Democrat on the Senate Committee on Commerce, Science, and Transportation 
+Edward J. Markey is the #5 Democrat on the Senate Committee on Commerce, Science, and Transportation 
 
 Elizabeth Warren is not on any of our key committees 
 
 ## HEP Grants
 ```
-In the past 6 years, this state has received:
-159 HEP grants, totalling $89,971,000.00
+In the past 8 years, this state has received:
+196 HEP grants, totalling $107,775,000.00
  
                                              Amount ($)
 Institution                                            
-Massachusetts Institute of Technology        23888000.0
-MASSACHUSETTS INST. OF TECHNOLOGY            17228000.0
-Boston University                             8986000.0
-Massachusetts Institute of Technology (MIT)   7749000.0
-Harvard University                            5423000.0
-BOSTON UNIVERSITY                             4347000.0
-HARVARD UNIVERSITY                            3979000.0
-Brandeis University                           3095000.0
-President and Fellows of Harvard College      2674000.0
-University of Massachusetts - Amherst         2538000.0
-and  11  other institutions.
+Massachusetts Institute of Technology          34140000
+MASSACHUSETTS INST. OF TECHNOLOGY              17228000
+Boston University                              11155000
+Massachusetts Institute of Technology (MIT)     7749000
+Harvard University                              5423000
+BOSTON UNIVERSITY                               4347000
+HARVARD UNIVERSITY                              3979000
+Brandeis University                             3780000
+University of Massachusetts - Amherst           3363000
+Tufts University                                3113000
+and  12  other institutions.
 ```
 ## SC Contracts
 ```
-In the past 6 years, this state has received:
-25 Office of Science contracts, totalling $95,757.88
+In the past 8 years, this state has received:
+25 Office of Science contracts, totalling $95,757.00
  
                                            Amount ($)
-vendorname                                           
-RAPID7 LLC                                   62928.04
-PUBLISHERS INTL LINKING ASSOC                30247.05
-AMERICAN METEOROLOGICAL SOCIETY, INC.        26203.00
-MASSACHUSETTS MEDICAL SOCIETY INC            18450.00
-IRON MOUNTAIN INFORMATION MANAGEMENT, LLC     4829.93
-MASSACHUSETTS MEDICAL SOCIETY                 3100.00
-ARTHUR D LITTLE INC                         -50000.14
+Vendor                                               
+RAPID7 LLC                                      62927
+PUBLISHERS INTL LINKING ASSOC                   30247
+AMERICAN METEOROLOGICAL SOCIETY, INC.           26203
+MASSACHUSETTS MEDICAL SOCIETY INC               18450
+IRON MOUNTAIN INFORMATION MANAGEMENT, LLC        4830
+MASSACHUSETTS MEDICAL SOCIETY                    3100
+ARTHUR D LITTLE INC                            -50000
 ```
 ## NSF MPS Grants
 ```
-In the past 6 years, this state has received:
-1468 NSF MPS grants, totalling $349,222,204.00
+In the past 8 years, this state has received:
+2021 NSF MPS grants, totalling $458,333,973.00
  
                                           Amount ($)
 Institution                                         
-MASSACHUSETTS INSTITUTE OF TECHNOLOGY     82124708.0
-HARVARD COLLEGE, PRESIDENT & FELLOWS OF   70574856.0
-UNIVERSITY OF MASSACHUSETTS               38894654.0
-TRUSTEES OF BOSTON UNIVERSITY             29943908.0
-BRANDEIS UNIVERSITY                       15023568.0
-PRESIDENT AND FELLOWS OF HARVARD COLLEGE  13098690.0
-NORTHEASTERN UNIVERSITY                   11272878.0
-TRUSTEES OF TUFTS COLLEGE INC             10913992.0
-BOSTON COLLEGE, TRUSTEES OF               10691832.0
-MIT                                        7308681.0
-and  40  other institutions.
+MASSACHUSETTS INSTITUTE OF TECHNOLOGY      113484830
+HARVARD COLLEGE, PRESIDENT & FELLOWS OF     72215141
+UNIVERSITY OF MASSACHUSETTS                 54344480
+PRESIDENT AND FELLOWS OF HARVARD COLLEGE    42098480
+TRUSTEES OF BOSTON UNIVERSITY               37527485
+BRANDEIS UNIVERSITY                         22194074
+NORTHEASTERN UNIVERSITY                     15770571
+TRUSTEES OF TUFTS COLLEGE INC               14370274
+BOSTON COLLEGE, TRUSTEES OF                 13927255
+SMITHSONIAN INSTITUTION                     11115177
+and  38  other institutions.
 ```
 ---
 ---
@@ -80,35 +78,40 @@ Richard E. Neal is not on any of our key committees
 
 ### HEP Grants
 ```
-In the past 6 years, this district has received: $1,086,000.00 in SC HEP grants.
-                                     Amount ($)
-Institution                  Year              
-U. OF MASSACHUSETTS, AMHERST 2012.0    454000.0
-                             2013.0    632000.0
+In the past 8 years, this district has received: $1,086,000.00 in SC HEP grants.
+                                   Amount ($)
+Institution                  Year            
+U. OF MASSACHUSETTS, AMHERST 2012      454000
+                             2013      632000
 ```
 ### SC Contracts
 ```
-This district received no SC contracts from 2012-2018
+This district received no SC contracts from 2012-2019
 ```
 ### NSF MPS Grants
 ```
-In the past 6 years, this district has received: $11,416,286.00 in NSF MPS grants.
+In the past 8 years, this district has received: $23,337,460.00 in NSF MPS grants.
                                                Amount ($)
 Institution                              Year            
-AMHERST COLLEGE, TRUSTEES OF             2012    600305.0
-BARD COLLEGE AT SIMON'S ROCK             2016     24672.0
-PRESIDENT & TRUSTEES OF WILLIAMS COLLEGE 2012    358083.0
-                                         2013    269372.0
-                                         2014    288962.0
-                                         2015     22000.0
-                                         2016    186999.0
-                                         2017    478775.0
-THE TRUSTEES OF MOUNT HOLYOKE COLLEGE    2013    228644.0
-                                         2014    197073.0
-TRUSTEES OF MOUNT HOLYOKE COLLEGE, THE   2017    570150.0
-UNIVERSITY OF MASSACHUSETTS              2012   7776331.0
-WESTERN NEW ENGLAND UNIVERSITY           2014     49920.0
-                                         2015    365000.0
+AMHERST COLLEGE, TRUSTEES OF             2012      600305
+BARD COLLEGE AT SIMON'S ROCK             2016       24672
+PRESIDENT & TRUSTEES OF WILLIAMS COLLEGE 2012      358083
+                                         2013      269372
+                                         2014      288962
+                                         2015       22000
+                                         2016      186999
+                                         2017      478775
+                                         2018      257520
+THE TRUSTEES OF MOUNT HOLYOKE COLLEGE    2013      228644
+                                         2014      197073
+TRUSTEES OF MOUNT HOLYOKE COLLEGE, THE   2017      570150
+                                         2018      566708
+UNIVERSITY OF MASSACHUSETTS              2012     8416331
+                                         2017     5408007
+                                         2018     4763708
+                                         2019      285231
+WESTERN NEW ENGLAND UNIVERSITY           2014       49920
+                                         2015      365000
 ```
 ---
 <a name="MA-02"></a>
@@ -119,191 +122,195 @@ James P. McGovern is not on any of our key committees
 
 ### HEP Grants
 ```
-In the past 6 years, this district has received: $2,538,000.00 in SC HEP grants.
-                                              Amount ($)
-Institution                           Year              
-University of Massachusetts - Amherst 2014.0    559000.0
-                                      2015.0    659000.0
-                                      2016.0    660000.0
-                                      2017.0    660000.0
+In the past 8 years, this district has received: $3,363,000.00 in SC HEP grants.
+                                            Amount ($)
+Institution                           Year            
+University of Massachusetts - Amherst 2014      559000
+                                      2015      659000
+                                      2016      660000
+                                      2017      660000
+                                      2018      825000
 ```
 ### SC Contracts
 ```
-This district received no SC contracts from 2012-2018
+This district received no SC contracts from 2012-2019
 ```
 ### NSF MPS Grants
 ```
-In the past 6 years, this district has received: $38,305,451.00 in NSF MPS grants.
+In the past 8 years, this district has received: $44,160,445.00 in NSF MPS grants.
                                                     Amount ($)
 Institution                                   Year            
-AMHERST COLLEGE, TRUSTEES OF                  2013    891728.0
-                                              2014    493289.0
-                                              2015   1019858.0
-                                              2016    141920.0
-COLLEGE OF THE HOLY CROSS                     2014    135490.0
-Clark University                              2015    376618.0
-NATIONAL COLLEGIATE INVENTORS & INNOVATORS AL 2013     47590.0
-THE TRUSTEES OF MOUNT HOLYOKE COLLEGE         2012    548737.0
-TRUSTEES OF CLARK UNIVERSITY                  2015    275956.0
-TRUSTEES OF THE SMITH COLLEGE, THE            2012   1829717.0
-                                              2013     35000.0
-                                              2014    401649.0
-                                              2016    695521.0
-                                              2017     67915.0
-U of Massachusetts Amherst                    2015   2393058.0
-UNIVERSITY OF MASSACHUSETTS                   2012    640000.0
-                                              2013   8760449.0
-                                              2014   2526510.0
-                                              2015   6743644.0
-                                              2016   4197811.0
-                                              2017   2627360.0
-WORCESTER POLYTECHNIC INSTITUTE               2013   1042254.0
-                                              2014    259925.0
-                                              2015    766392.0
-                                              2016   1056900.0
-                                              2017    330160.0
+AMHERST COLLEGE, TRUSTEES OF                  2013      891728
+                                              2014      493289
+                                              2015     1019858
+                                              2016      141920
+                                              2017      624310
+                                              2018     1331825
+CLARK UNIVERSITY                              2015      376618
+COLLEGE OF THE HOLY CROSS                     2014      135490
+NATIONAL COLLEGIATE INVENTORS & INNOVATORS AL 2013       47590
+THE TRUSTEES OF MOUNT HOLYOKE COLLEGE         2012      548737
+TRUSTEES OF CLARK UNIVERSITY                  2015      275956
+TRUSTEES OF THE SMITH COLLEGE, THE            2012     1873917
+                                              2013       35000
+                                              2014      401649
+                                              2016      695521
+                                              2017      176326
+                                              2018      424425
+U OF MASSACHUSETTS AMHERST                    2015     2393058
+UNIVERSITY OF MASSACHUSETTS                   2013     8760449
+                                              2014     2526510
+                                              2015     6743644
+                                              2016     4197811
+                                              2017     4628027
+                                              2018      595685
+WORCESTER POLYTECHNIC INSTITUTE               2013     1042254
+                                              2014      259925
+                                              2015      766392
+                                              2016     1056900
+                                              2017      452973
+                                              2018     1242658
 ```
 ---
 <a name="MA-03"></a>
 [Back to top](#top)
-## MA-03 -- Rep. Niki Tsongas (D) -- [Wikipedia](https://en.wikipedia.org/wiki/MA-03)
+## MA-03 -- Rep. Lori Trahan (D) -- [Wikipedia](https://en.wikipedia.org/wiki/MA-03)
 ### Committees
-Niki Tsongas is not on any of our key committees 
+Lori Trahan is the #16 Republican on the House Subcommittee on Higher Education and Workforce Development 
 
 ### HEP Grants
 ```
-This district received no SC HEP grants from 2012-2017
+This district received no SC HEP grants from 2012-2019
 ```
 ### SC Contracts
 ```
-This district received no SC contracts from 2012-2018
+This district received no SC contracts from 2012-2019
 ```
 ### NSF MPS Grants
 ```
-In the past 6 years, this district has received: $3,468,601.00 in NSF MPS grants.
-                                            Amount ($)
-Institution                           Year            
-COLLEGE OF THE HOLY CROSS             2012    151058.0
-MASSACHUSETTS INSTITUTE OF TECHNOLOGY 2013     91882.0
-                                      2015     62987.0
-                                      2017    372821.0
-NEROC                                 2013    785824.0
-TRUSTEES OF CLARK UNIVERSITY          2012    100000.0
-UNIVERSITY OF MASSACHUSETTS           2012     50000.0
-                                      2013    150001.0
-                                      2015     90000.0
-                                      2016    318263.0
-WORCESTER POLYTECHNIC INSTITUTE       2012   1108913.0
-                                      2013    186852.0
+In the past 8 years, this district has received: $2,207,091.00 in NSF MPS grants.
+                                      Amount ($)
+Institution                     Year            
+COLLEGE OF THE HOLY CROSS       2012      151058
+NEROC                           2018     -431655
+TRUSTEES OF CLARK UNIVERSITY    2012      100000
+UNIVERSITY OF MASSACHUSETTS     2012       50000
+                                2013      150001
+                                2015       90000
+                                2016      318263
+                                2018      483659
+WORCESTER POLYTECHNIC INSTITUTE 2012     1108913
+                                2013      186852
 ```
 ---
 <a name="MA-04"></a>
 [Back to top](#top)
 ## MA-04 -- Rep. Joseph P. Kennedy III (D) -- [Wikipedia](https://en.wikipedia.org/wiki/MA-04)
 ### Committees
-Joseph P. Kennedy III is the #20 Democrat on the House Committee on Energy and Commerce 
+Joseph P. Kennedy III is the #19 Republican on the House Committee on Energy and Commerce 
 
 ### HEP Grants
 ```
-In the past 6 years, this district has received: $8,000.00 in SC HEP grants.
-                          Amount ($)
-Institution       Year              
-Wellesley College 2017.0      8000.0
+In the past 8 years, this district has received: $8,000.00 in SC HEP grants.
+                        Amount ($)
+Institution       Year            
+Wellesley College 2017        8000
 ```
 ### SC Contracts
 ```
-This district received no SC contracts from 2012-2018
+This district received no SC contracts from 2012-2019
 ```
 ### NSF MPS Grants
 ```
-In the past 6 years, this district has received: $13,912,916.00 in NSF MPS grants.
+In the past 8 years, this district has received: $16,638,745.00 in NSF MPS grants.
                                                     Amount ($)
 Institution                                   Year            
-BOSTON COLLEGE, TRUSTEES OF                   2012   2661616.0
-                                              2013   2163859.0
-                                              2014   1890381.0
-                                              2015    685730.0
-                                              2016   2077164.0
-                                              2017   1213082.0
-Boston College                                2015    581294.0
-FRANKLIN W. OLIN COLLEGE OF ENGINEERING, INC. 2013     84269.0
-TRUSTEES OF BOSTON UNIVERSITY                 2014    539294.0
-UNIVERSITY OF MASSACHUSETTS                   2012    800283.0
-WELLESLEY COLLEGE                             2012    116000.0
-                                              2013     58000.0
-                                              2015    845000.0
-                                              2016     48773.0
-                                              2017      7000.0
-WHEATON COLLEGE                               2012     94114.0
-                                              2013     47057.0
+BOSTON COLLEGE                                2015      610994
+BOSTON COLLEGE, TRUSTEES OF                   2012     2687261
+                                              2013     2195524
+                                              2014     1925164
+                                              2015      685730
+                                              2016     2077164
+                                              2017     2234331
+                                              2018     2052013
+                                              2019       70068
+FRANKLIN W. OLIN COLLEGE OF ENGINEERING, INC. 2013       84269
+UNIVERSITY OF MASSACHUSETTS                   2012      800283
+WELLESLEY COLLEGE                             2012      116000
+                                              2013       58000
+                                              2015      845000
+                                              2016       48773
+                                              2017        7000
+WHEATON COLLEGE                               2012       94114
+                                              2013       47057
 ```
 ---
 <a name="MA-05"></a>
 [Back to top](#top)
 ## MA-05 -- Rep. Katherine M. Clark (D) -- [Wikipedia](https://en.wikipedia.org/wiki/MA-05)
 ### Committees
-Katherine M. Clark is the #21 Democrat on the House Committee on Appropriations 
+Katherine M. Clark is the #21 Republican on the House Committee on Appropriations 
 
 ### HEP Grants
 ```
-In the past 6 years, this district has received: $13,043,000.00 in SC HEP grants.
-                                                           Amount ($)
-Institution                                        Year              
-Brandeis University                                2014.0    900000.0
-                                                   2016.0   1525000.0
-                                                   2017.0    670000.0
-Brandies University                                2015.0    901000.0
-Harvard University                                 2014.0   2100000.0
-                                                   2016.0   1455000.0
-                                                   2017.0   1868000.0
-President and Fellows of Harvard College           2015.0   2674000.0
-Smithsonian Institute - Smithsonian Astrophysic... 2016.0         0.0
-Smithsonian Institute /Smithsonian Astrophysica... 2014.0    475000.0
-                                                   2015.0    475000.0
+In the past 8 years, this district has received: $16,783,000.00 in SC HEP grants.
+                                                         Amount ($)
+Institution                                        Year            
+Brandeis University                                2014      900000
+                                                   2016     1525000
+                                                   2017      670000
+                                                   2018      685000
+Brandies University                                2015      901000
+Harvard College                                    2018     2655000
+Harvard University                                 2014     2100000
+                                                   2016     1455000
+                                                   2017     1868000
+President and Fellows of Harvard College           2015     2674000
+Smithsonian Institute - Smithsonian Astrophysic... 2016           0
+                                                   2018      400000
+Smithsonian Institute /Smithsonian Astrophysica... 2014      475000
+                                                   2015      475000
 ```
 ### SC Contracts
 ```
-In the past 6 years, this district has received: $12,800.00 in SC contracts.
-                                               Amount ($)
-vendorname                        fiscal_year            
-MASSACHUSETTS MEDICAL SOCIETY     2014             3100.0
-MASSACHUSETTS MEDICAL SOCIETY INC 2014             9700.0
+In the past 8 years, this district has received: $12,800.00 in SC contracts.
+                                        Amount ($)
+Vendor                            Year            
+MASSACHUSETTS MEDICAL SOCIETY     2014        3100
+MASSACHUSETTS MEDICAL SOCIETY INC 2014        9700
 ```
 ### NSF MPS Grants
 ```
-In the past 6 years, this district has received: $105,338,729.00 in NSF MPS grants.
+In the past 8 years, this district has received: $141,971,597.00 in NSF MPS grants.
                                                Amount ($)
 Institution                              Year            
-BRANDEIS UNIVERSITY                      2013   2927137.0
-                                         2014   1591598.0
-                                         2015   1378959.0
-                                         2016   2537853.0
-                                         2017   3191816.0
-Brandeis University                      2015   4000000.0
-HARVARD COLLEGE, PRESIDENT & FELLOWS OF  2013  17783781.0
-                                         2014  11893534.0
-                                         2015  11410707.0
-                                         2016  12652323.0
-Harvard University                       2015   5821633.0
-MASSACHUSETTS INSTITUTE OF TECHNOLOGY    2012    349789.0
-                                         2015    400000.0
-MULTIPLE RECIPIENTS                      2013     89000.0
-Miami Univ                               2015     18000.0
-NEROC                                    2012    972160.0
-PII Redacted                             2017    884500.0
-PRESIDENT AND FELLOWS OF HARVARD COLLEGE 2016   1367385.0
-                                         2017  11065565.0
-SMITHSONIAN INSTITUTION                  2013   1724967.0
-                                         2014    968415.0
-                                         2015    697505.0
-                                         2016    649505.0
-                                         2017   1580035.0
-Smithsonian-Astrophys Obs                2015   6502314.0
-TRUSTEES OF TUFTS COLLEGE INC            2013    105260.0
-                                         2016    700296.0
-                                         2017    484675.0
-Tufts University                         2015     95018.0
-UNIVERSITY OF MASSACHUSETTS              2012   1494999.0
+BRANDEIS UNIVERSITY                      2013     2947137
+                                         2014     1591598
+                                         2015     5378959
+                                         2016     2537853
+                                         2017     3267012
+                                         2018     3067330
+HARVARD COLLEGE, PRESIDENT & FELLOWS OF  2013    19341781
+                                         2014    12393534
+                                         2015    12295696
+                                         2016    12763107
+HARVARD UNIVERSITY                       2015     5821633
+MULTIPLE RECIPIENTS                      2013       89000
+PII REDACTED                             2017      350000
+                                         2018      150000
+PRESIDENT AND FELLOWS OF HARVARD COLLEGE 2016     2003125
+                                         2017    14373141
+                                         2018    26130631
+                                         2019     -408417
+REDACTED DUE TO PII                      2018       53258
+SMITHSONIAN INSTITUTION                  2013     2159967
+                                         2014      968415
+                                         2015      697505
+                                         2016     1049505
+                                         2017     2606516
+                                         2018     2345998
+SMITHSONIAN-ASTROPHYS OBS                2015     6502314
+UNIVERSITY OF MASSACHUSETTS              2012     1494999
 ```
 ---
 <a name="MA-06"></a>
@@ -314,127 +321,131 @@ Seth Moulton is not on any of our key committees
 
 ### HEP Grants
 ```
-This district received no SC HEP grants from 2012-2017
+This district received no SC HEP grants from 2012-2019
 ```
 ### SC Contracts
 ```
-In the past 6 years, this district has received: $30,247.05 in SC contracts.
-                                           Amount ($)
-vendorname                    fiscal_year            
-PUBLISHERS INTL LINKING ASSOC 2013           10000.00
-                              2014           10000.00
-                              2015           10000.00
-                              2016               0.00
-                              2017             247.05
+In the past 8 years, this district has received: $30,247.00 in SC contracts.
+                                    Amount ($)
+Vendor                        Year            
+PUBLISHERS INTL LINKING ASSOC 2013       10000
+                              2014       10000
+                              2015       10000
+                              2016           0
+                              2017         247
 ```
 ### NSF MPS Grants
 ```
-In the past 6 years, this district has received: $513,528.00 in NSF MPS grants.
+In the past 8 years, this district has received: $513,528.00 in NSF MPS grants.
                               Amount ($)
 Institution             Year            
-AERODYNE RESEARCH, INC. 2013     60000.0
-                        2016     90000.0
-                        2017    160000.0
-GORDON COLLEGE          2017    203528.0
+AERODYNE RESEARCH, INC. 2013       60000
+                        2016       90000
+                        2017      160000
+GORDON COLLEGE          2017      203528
 ```
 ---
 <a name="MA-07"></a>
 [Back to top](#top)
-## MA-07 -- Rep. Michael E. Capuano (D) -- [Wikipedia](https://en.wikipedia.org/wiki/MA-07)
+## MA-07 -- Rep. Ayanna Pressley (D) -- [Wikipedia](https://en.wikipedia.org/wiki/MA-07)
 ### Committees
-Michael E. Capuano is not on any of our key committees 
+Ayanna Pressley is not on any of our key committees 
 
 ### HEP Grants
 ```
-In the past 6 years, this district has received: $46,567,000.00 in SC HEP grants.
-                                                    Amount ($)
-Institution                                 Year              
-BRANDEIS UNIVERSITY                         2012.0   1002000.0
-                                            2013.0    948000.0
-Boston University                           2014.0   2075000.0
-                                            2015.0   2281000.0
-                                            2016.0   2770000.0
-                                            2017.0   1860000.0
-Massachusetts Institute of Technology       2015.0   8655000.0
-                                            2016.0   7840000.0
-                                            2017.0   7393000.0
-Massachusetts Institute of Technology (MIT) 2014.0   7749000.0
-Northeastern University                     2014.0    150000.0
-                                            2015.0    150000.0
-                                            2016.0    150000.0
-                                            2017.0    150000.0
-TUFTS UNIVERSITY                            2012.0    582000.0
-                                            2013.0    517000.0
-Tufts University                            2014.0    635000.0
-                                            2015.0    545000.0
-                                            2016.0    555000.0
-                                            2017.0    560000.0
+In the past 8 years, this district has received: $59,806,000.00 in SC HEP grants.
+                                                  Amount ($)
+Institution                                 Year            
+BRANDEIS UNIVERSITY                         2012     1002000
+                                            2013      948000
+Boston University                           2014     2075000
+                                            2015     2281000
+                                            2016     2770000
+                                            2017     1860000
+                                            2018     2169000
+Massachusetts Institute of Technology       2015     8655000
+                                            2016     7840000
+                                            2017     7393000
+                                            2018    10252000
+Massachusetts Institute of Technology (MIT) 2014     7749000
+Northeastern University                     2014      150000
+                                            2015      150000
+                                            2016      150000
+                                            2017      150000
+TUFTS UNIVERSITY                            2012      582000
+                                            2013      517000
+Tufts University                            2014      635000
+                                            2015      545000
+                                            2016      555000
+                                            2017      560000
+                                            2018      818000
 ```
 ### SC Contracts
 ```
-In the past 6 years, this district has received: $7,616.79 in SC contracts.
-                                               Amount ($)
-vendorname                        fiscal_year            
-ARTHUR D LITTLE INC               2014          -50000.14
-MASSACHUSETTS MEDICAL SOCIETY INC 2013            8750.00
-RAPID7 LLC                        2013            8837.50
-                                  2014           19303.87
-                                  2015           20725.56
+In the past 8 years, this district has received: $7,615.00 in SC contracts.
+                                        Amount ($)
+Vendor                            Year            
+ARTHUR D LITTLE INC               2014      -50000
+MASSACHUSETTS MEDICAL SOCIETY INC 2013        8750
+RAPID7 LLC                        2013        8837
+                                  2014       19303
+                                  2015       20725
 ```
 ### NSF MPS Grants
 ```
-In the past 6 years, this district has received: $118,059,278.00 in NSF MPS grants.
-                                                    Amount ($)
-Institution                                   Year            
-ALGEBRA PROJECT INC, THE                      2017    299276.0
-AMERICAN ASSOCIATION OF VARIABLE STAR OBSERVE 2014    432366.0
-BRANDEIS UNIVERSITY                           2012   3396205.0
-Boston University                             2015    399041.0
-CHILDREN'S HOSPITAL CORPORATION, THE          2013    176697.0
-                                              2014    123303.0
-                                              2017    169195.0
-DANA-FARBER CANCER INSTITUTE, INC.            2013    305197.0
-                                              2016    470000.0
-                                              2017         0.0
-EMMANUEL COLLEGE                              2013    240086.0
-                                              2017    285163.0
-HARVARD COLLEGE, PRESIDENT & FELLOWS OF       2014    500000.0
-                                              2015    884989.0
-                                              2016     28499.0
-MASSACHUSETTS GENERAL HOSPITAL, THE           2015    482302.0
-                                              2016    127274.0
-MASSACHUSETTS INSTITUTE OF TECHNOLOGY         2013  13063389.0
-                                              2014   9441832.0
-                                              2015  11271209.0
-                                              2016  12284569.0
-                                              2017  12251861.0
-MIT                                           2015   7308681.0
-MULTIPLE RECIPIENTS                           2014   -161897.0
-NEROC                                         2013    159879.0
-                                              2015    315537.0
-NORTHEASTERN UNIVERSITY                       2013   3359774.0
-                                              2014   1710770.0
-                                              2015    360844.0
-                                              2016    877667.0
-                                              2017   2483838.0
-Northeastern University                       2015    833856.0
-PII Redacted                                  2017    750000.0
-PRESIDENT AND FELLOWS OF HARVARD COLLEGE      2016    635740.0
-                                              2017     30000.0
-TRUSTEES OF BOSTON UNIVERSITY                 2013   6598292.0
-                                              2014   4830189.0
-                                              2015   3248684.0
-                                              2016   5140605.0
-                                              2017   3513162.0
-TRUSTEES OF PRINCETON UNIVERSITY, THE         2016    121258.0
-TRUSTEES OF TUFTS COLLEGE INC                 2012   1804875.0
-                                              2013   1936019.0
-                                              2014   1216783.0
-                                              2015   1191887.0
-                                              2016   1453498.0
-                                              2017   1193884.0
-Tufts University                              2015     93000.0
-WHITEHEAD INSTITUTE FOR BIOMEDICAL RESEARCH   2017    420000.0
+In the past 8 years, this district has received: $164,593,024.00 in NSF MPS grants.
+                                                      Amount ($)
+Institution                                     Year            
+ALGEBRA PROJECT INC, THE                        2017      299276
+AMERICAN ASSOCIATION OF VARIABLE STAR OBSERVE   2014      432366
+AMERICAN ASSOCIATION OF VARIABLE STAR OBSERVERS 2018           0
+BOSTON UNIVERSITY                               2015      413841
+BRANDEIS UNIVERSITY                             2012     3404185
+CHILDREN'S HOSPITAL CORPORATION, THE            2013      176697
+                                                2014      123303
+                                                2017      169195
+                                                2018      149654
+DANA-FARBER CANCER INSTITUTE, INC.              2013      305197
+                                                2016      470000
+                                                2017      160790
+                                                2018      263584
+EMMANUEL COLLEGE                                2013      240086
+                                                2017      285163
+MASSACHUSETTS INSTITUTE OF TECHNOLOGY           2013    13235271
+                                                2014     9441832
+                                                2015    11734196
+                                                2016    12289419
+                                                2017    18943672
+                                                2018    24643774
+                                                2019      312508
+MIT                                             2015     7308681
+MULTIPLE RECIPIENTS                             2014     -161897
+NEROC                                           2013      945703
+                                                2015      315537
+NORTHEASTERN UNIVERSITY                         2013     3359774
+                                                2014     1710770
+                                                2015     1194700
+                                                2016      877667
+                                                2017     3161525
+                                                2018     2986150
+PII REDACTED                                    2017      500000
+                                                2018      900000
+REDACTED DUE TO PII                             2018      200000
+TRUSTEES OF BOSTON UNIVERSITY                   2013     6598292
+                                                2014     5369483
+                                                2015     3272214
+                                                2016     5140605
+                                                2017     5286632
+                                                2018     5544960
+                                                2019      241617
+TRUSTEES OF TUFTS COLLEGE INC                   2013     2056279
+                                                2014     1246783
+                                                2015     1191887
+                                                2016     2153794
+                                                2017     2292755
+                                                2018     2797086
+TUFTS UNIVERSITY                                2015      188018
+WHITEHEAD INSTITUTE FOR BIOMEDICAL RESEARCH     2017      420000
 ```
 ---
 <a name="MA-08"></a>
@@ -445,56 +456,61 @@ Stephen F. Lynch is not on any of our key committees
 
 ### HEP Grants
 ```
-In the past 6 years, this district has received: $26,729,000.00 in SC HEP grants.
-                                              Amount ($)
-Institution                           Year              
-BOSTON UNIVERSITY                     2012.0   2427000.0
-                                      2013.0   1920000.0
-HARVARD UNIVERSITY                    2012.0   1976000.0
-                                      2013.0   2003000.0
-MASSACHUSETTS INST. OF TECHNOLOGY     2012.0   8700000.0
-                                      2013.0   8528000.0
-NORTHEASTERN UNIVERSITY               2013.0    150000.0
-SMITHSONIAN ASTROPHYSICAL OBSERVATORY 2012.0    550000.0
-                                      2013.0    475000.0
+In the past 8 years, this district has received: $26,729,000.00 in SC HEP grants.
+                                            Amount ($)
+Institution                           Year            
+BOSTON UNIVERSITY                     2012     2427000
+                                      2013     1920000
+HARVARD UNIVERSITY                    2012     1976000
+                                      2013     2003000
+MASSACHUSETTS INST. OF TECHNOLOGY     2012     8700000
+                                      2013     8528000
+NORTHEASTERN UNIVERSITY               2013      150000
+SMITHSONIAN ASTROPHYSICAL OBSERVATORY 2012      550000
+                                      2013      475000
 ```
 ### SC Contracts
 ```
-In the past 6 years, this district has received: $35,159.04 in SC contracts.
-                                                       Amount ($)
-vendorname                                fiscal_year            
-AMERICAN METEOROLOGICAL SOCIETY, INC.     2013            5239.00
-                                          2015            5395.00
-                                          2016            5634.00
-IRON MOUNTAIN INFORMATION MANAGEMENT, LLC 2016            7050.72
-                                          2017           -2220.79
-RAPID7 LLC                                2012           14061.11
+In the past 8 years, this district has received: $35,160.00 in SC contracts.
+                                                Amount ($)
+Vendor                                    Year            
+AMERICAN METEOROLOGICAL SOCIETY, INC.     2013        5239
+                                          2015        5395
+                                          2016        5634
+IRON MOUNTAIN INFORMATION MANAGEMENT, LLC 2016        7050
+                                          2017       -2220
+RAPID7 LLC                                2012       14062
 ```
 ### NSF MPS Grants
 ```
-In the past 6 years, this district has received: $56,530,263.00 in NSF MPS grants.
-                                                    Amount ($)
-Institution                                   Year            
-DANA-FARBER CANCER INSTITUTE, INC.            2012    146269.0
-EMMANUEL COLLEGE                              2012    232922.0
-HARVARD COLLEGE, PRESIDENT & FELLOWS OF       2012  15253753.0
-                                              2013    167270.0
-MASSACHUSETTS GENERAL HOSPITAL, THE           2016   1063863.0
-MASSACHUSETTS INSTITUTE OF TECHNOLOGY         2012  22240669.0
-                                              2013    293700.0
-MULTIPLE RECIPIENTS                           2012   3835000.0
-                                              2013    522000.0
-                                              2014    714333.0
-NORTHEASTERN UNIVERSITY                       2012   2414875.0
-                                              2013     65110.0
-RESEARCH FOUNDATION OF THE CITY UNIVERSITY OF 2015      5000.0
-SMITHSONIAN INSTITUTION                       2012   1287271.0
-TRUSTEES OF BOSTON UNIVERSITY                 2012   6073682.0
-TRUSTEES OF TUFTS COLLEGE INC                 2012    826815.0
-UNIVERSITY OF MASSACHUSETTS                   2013    646359.0
-                                              2014    240000.0
-                                              2015    156381.0
-                                              2016    344991.0
+In the past 8 years, this district has received: $62,300,629.00 in NSF MPS grants.
+                                              Amount ($)
+Institution                             Year            
+DANA-FARBER CANCER INSTITUTE, INC.      2012      146269
+EMMANUEL COLLEGE                        2012      232922
+HARVARD COLLEGE, PRESIDENT & FELLOWS OF 2012    15253753
+                                        2013      167270
+MASSACHUSETTS GENERAL HOSPITAL, THE     2015      482302
+                                        2016     1191137
+                                        2017      100000
+                                        2018       63863
+MASSACHUSETTS INSTITUTE OF TECHNOLOGY   2012    22590458
+                                        2013      293700
+MULTIPLE RECIPIENTS                     2012     3835000
+                                        2013      522000
+                                        2014      714333
+NEROC                                   2012      972160
+NORTHEASTERN UNIVERSITY                 2012     2414875
+                                        2013       65110
+SMITHSONIAN INSTITUTION                 2012     1287271
+SUFFOLK UNIVERSITY                      2018      294000
+TRUSTEES OF BOSTON UNIVERSITY           2012     6073682
+TRUSTEES OF TUFTS COLLEGE INC           2012     2631690
+UNIVERSITY OF MASSACHUSETTS             2013      688614
+                                        2014      240000
+                                        2015      156381
+                                        2016      344991
+                                        2018     1538848
 ```
 ---
 <a name="MA-09"></a>
@@ -505,27 +521,33 @@ William R. Keating is not on any of our key committees
 
 ### HEP Grants
 ```
-This district received no SC HEP grants from 2012-2017
+This district received no SC HEP grants from 2012-2019
 ```
 ### SC Contracts
 ```
-In the past 6 years, this district has received: $9,935.00 in SC contracts.
-                                                   Amount ($)
-vendorname                            fiscal_year            
-AMERICAN METEOROLOGICAL SOCIETY, INC. 2012             9935.0
+In the past 8 years, this district has received: $9,935.00 in SC contracts.
+                                            Amount ($)
+Vendor                                Year            
+AMERICAN METEOROLOGICAL SOCIETY, INC. 2012        9935
 ```
 ### NSF MPS Grants
 ```
-In the past 6 years, this district has received: $1,677,152.00 in NSF MPS grants.
+In the past 8 years, this district has received: $2,611,454.00 in NSF MPS grants.
                                                     Amount ($)
 Institution                                   Year            
-FRANKLIN W. OLIN COLLEGE OF ENGINEERING, INC. 2012    266190.0
-NANTUCKET MARIA MITCHELL ASSOCIATION, THE     2014     79690.0
-UNIVERSITY OF MASSACHUSETTS                   2012    138000.0
-                                              2013    270074.0
-                                              2014    658253.0
-                                              2015     11465.0
-                                              2016     19995.0
-                                              2017    233485.0
+FRANKLIN W. OLIN COLLEGE OF ENGINEERING, INC. 2012      266190
+NANTUCKET MARIA MITCHELL ASSOCIATION, THE     2014       79690
+                                              2017       79690
+                                              2018      363096
+PII REDACTED                                  2017      100000
+REDACTED DUE TO PII                           2018      100000
+                                              2019      -40250
+UNIVERSITY OF MASSACHUSETTS                   2012      138000
+                                              2013      270074
+                                              2014      658253
+                                              2015       11465
+                                              2016       19995
+                                              2017      233485
+                                              2018      331766
 ```
 ---

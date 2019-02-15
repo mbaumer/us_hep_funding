@@ -24,7 +24,7 @@ layout: page
 </style>
 
 <div class="alert alert-info">
-  <strong>1/31/18:</strong> Updated Members of Congress, committee assignments, and HEP spending data (complete for FY17, partial for FY18).
+  <strong>2/15/19:</strong> Updated Members of Congress, committee assignments, and HEP spending data (complete for FY18, partial for FY19).
 </div>
 
 

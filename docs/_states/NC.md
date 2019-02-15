@@ -17,47 +17,47 @@ Thom Tillis is not on any of our key committees
 
 ## HEP Grants
 ```
-In the past 6 years, this state has received:
-22 HEP grants, totalling $8,602,000.00
+In the past 8 years, this state has received:
+25 HEP grants, totalling $10,417,000.00
  
                                    Amount ($)
 Institution                                  
-Duke University                     6386000.0
-DUKE UNIVERSITY                     1916000.0
-North Carolina State University      300000.0
-U. OF NORTH CAROLINA, CHAPEL HILL         0.0
+Duke University                       7886000
+DUKE UNIVERSITY                       1916000
+North Carolina State University        615000
+U. OF NORTH CAROLINA, CHAPEL HILL           0
 ```
 ## SC Contracts
 ```
-In the past 6 years, this state has received:
-6 Office of Science contracts, totalling $-12,173.60
+In the past 8 years, this state has received:
+6 Office of Science contracts, totalling $-12,173.00
  
-                                           Amount ($)
-vendorname                    fiscal_year            
-CLEMENTS BERNARD MILLER PLLC  2012               0.00
-                              2013           -4510.05
-                              2014          -10710.00
-DUKE ENERGY CORPORATION       2015              -2.55
-OXFORD UNIVERSITY PRESS, INC. 2012            3049.00
+                                    Amount ($)
+Vendor                        Year            
+CLEMENTS BERNARD MILLER PLLC  2012           0
+                              2013       -4510
+                              2014      -10710
+DUKE ENERGY CORPORATION       2015          -2
+OXFORD UNIVERSITY PRESS, INC. 2012        3049
 ```
 ## NSF MPS Grants
 ```
-In the past 6 years, this state has received:
-688 NSF MPS grants, totalling $137,596,990.00
+In the past 8 years, this state has received:
+929 NSF MPS grants, totalling $185,623,627.00
  
                                              Amount ($)
 Institution                                            
-UNIVERSITY OF NORTH CAROLINA AT CHAPEL HILL  50836983.0
-NORTH CAROLINA STATE UNIVERSITY              33430464.0
-DUKE UNIVERSITY                              33266389.0
-U of NC Chapel Hill                           4258079.0
-WAKE FOREST UNIVERSITY                        2761232.0
-North Carolina State U                        2115404.0
-UNIVERSITY OF NORTH CAROLINA AT CHARLOTTE     1983049.0
-UNIVERSITY OF NORTH CAROLINA AT GREENSBORO    1857514.0
-UNIVERSITY OF NORTH CAROLINA AT WILMINGTON    1307159.0
-NORTH CAROLINA CENTRAL UNIVERSITY              917000.0
-and  20  other institutions.
+UNIVERSITY OF NORTH CAROLINA AT CHAPEL HILL    67060279
+DUKE UNIVERSITY                                49105809
+NORTH CAROLINA STATE UNIVERSITY                42719763
+U OF NC CHAPEL HILL                             4285079
+NORTH CAROLINA CENTRAL UNIVERSITY               3882429
+WAKE FOREST UNIVERSITY                          3119586
+UNIVERSITY OF NORTH CAROLINA AT CHARLOTTE       2250004
+UNIVERSITY OF NORTH CAROLINA AT GREENSBORO      2181712
+NORTH CAROLINA STATE U                          2140404
+UNIVERSITY OF NORTH CAROLINA AT WILMINGTON      1637391
+and  18  other institutions.
 ```
 ---
 ---
@@ -65,38 +65,40 @@ and  20  other institutions.
 [Back to top](#top)
 ## NC-01 -- Rep. G. K. Butterfield (D) -- [Wikipedia](https://en.wikipedia.org/wiki/NC-01)
 ### Committees
-G. K. Butterfield is the #9 Democrat on the House Committee on Energy and Commerce 
+G. K. Butterfield is the #8 Republican on the House Committee on Energy and Commerce 
 
 ### HEP Grants
 ```
-In the past 6 years, this district has received: $6,386,000.00 in SC HEP grants.
-                        Amount ($)
-Institution     Year              
-Duke University 2014.0   1417000.0
-                2015.0   2104000.0
-                2016.0   1375000.0
-                2017.0   1490000.0
+In the past 8 years, this district has received: $7,886,000.00 in SC HEP grants.
+                      Amount ($)
+Institution     Year            
+Duke University 2014     1417000
+                2015     2104000
+                2016     1375000
+                2017     1490000
+                2018     1500000
 ```
 ### SC Contracts
 ```
-This district received no SC contracts from 2012-2018
+This district received no SC contracts from 2012-2019
 ```
 ### NSF MPS Grants
 ```
-In the past 6 years, this district has received: $29,501,203.00 in NSF MPS grants.
+In the past 8 years, this district has received: $47,430,877.00 in NSF MPS grants.
                                         Amount ($)
 Institution                       Year            
-DUKE UNIVERSITY                   2013   7315989.0
-                                  2014   5781882.0
-                                  2015   4966348.0
-                                  2016   5444519.0
-                                  2017   3812867.0
-Duke University                   2015    875175.0
-ELIZABETH CITY STATE UNIVERSITY   2013    237423.0
-NORTH CAROLINA CENTRAL UNIVERSITY 2015    660000.0
-                                  2016    177000.0
-                                  2017     80000.0
-PII Redacted                      2017    150000.0
+DUKE UNIVERSITY                   2013     7345989
+                                  2014     5781882
+                                  2015     5841523
+                                  2016     5444519
+                                  2017     5361111
+                                  2018    13386001
+ELIZABETH CITY STATE UNIVERSITY   2013      237423
+NORTH CAROLINA CENTRAL UNIVERSITY 2015      660000
+                                  2016      177000
+                                  2017      740000
+                                  2018     2305429
+PII REDACTED                      2017      150000
 ```
 ---
 <a name="NC-02"></a>
@@ -107,97 +109,97 @@ George Holding is not on any of our key committees
 
 ### HEP Grants
 ```
-This district received no SC HEP grants from 2012-2017
+This district received no SC HEP grants from 2012-2019
 ```
 ### SC Contracts
 ```
-This district received no SC contracts from 2012-2018
+This district received no SC contracts from 2012-2019
 ```
 ### NSF MPS Grants
 ```
-In the past 6 years, this district has received: $180,000.00 in NSF MPS grants.
-                                      Amount ($)
-Institution                     Year            
-NORTH CAROLINA STATE UNIVERSITY 2012    180000.0
+This district received no NSF MPS grants from 2012-2019
 ```
 ---
 <a name="NC-03"></a>
 [Back to top](#top)
-## NC-03 -- Rep. Walter B. Jones (R) -- [Wikipedia](https://en.wikipedia.org/wiki/NC-03)
-### Committees
-Walter B. Jones is not on any of our key committees 
-
+## NC-03 Unknown Rep.
 ### HEP Grants
 ```
-This district received no SC HEP grants from 2012-2017
+This district received no SC HEP grants from 2012-2019
 ```
 ### SC Contracts
 ```
-This district received no SC contracts from 2012-2018
+This district received no SC contracts from 2012-2019
 ```
 ### NSF MPS Grants
 ```
-In the past 6 years, this district has received: $1,318,712.00 in NSF MPS grants.
+In the past 8 years, this district has received: $1,384,660.00 in NSF MPS grants.
                                                  Amount ($)
 Institution                                Year            
-EAST CAROLINA UNIVERSITY                   2012    155468.0
-                                           2017    252000.0
-UNIVERSITY OF NORTH CAROLINA AT WILMINGTON 2013    151244.0
-                                           2014     30000.0
-                                           2015    400000.0
-                                           2016    330000.0
+EAST CAROLINA UNIVERSITY                   2012      155468
+                                           2017      252000
+UNIVERSITY OF NORTH CAROLINA AT WILMINGTON 2013      151244
+                                           2014       30000
+                                           2015      465948
+                                           2016      330000
 ```
 ---
 <a name="NC-04"></a>
 [Back to top](#top)
 ## NC-04 -- Rep. David E. Price (D) -- [Wikipedia](https://en.wikipedia.org/wiki/NC-04)
 ### Committees
-David E. Price is the #6 Democrat on the House Committee on Appropriations 
+David E. Price is the #6 Republican on the House Committee on Appropriations 
 
 ### HEP Grants
 ```
-In the past 6 years, this district has received: $2,216,000.00 in SC HEP grants.
-                                          Amount ($)
-Institution                       Year              
-DUKE UNIVERSITY                   2012.0   1351000.0
-                                  2013.0    565000.0
-North Carolina State University   2014.0    300000.0
-                                  2015.0         0.0
-                                  2016.0         0.0
-U. OF NORTH CAROLINA, CHAPEL HILL 2012.0         0.0
-                                  2013.0         0.0
+In the past 8 years, this district has received: $2,531,000.00 in SC HEP grants.
+                                        Amount ($)
+Institution                       Year            
+DUKE UNIVERSITY                   2012     1351000
+                                  2013      565000
+North Carolina State University   2014      300000
+                                  2015           0
+                                  2016           0
+                                  2018      315000
+U. OF NORTH CAROLINA, CHAPEL HILL 2012           0
+                                  2013           0
 ```
 ### SC Contracts
 ```
-In the past 6 years, this district has received: $3,049.00 in SC contracts.
-                                           Amount ($)
-vendorname                    fiscal_year            
-OXFORD UNIVERSITY PRESS, INC. 2012             3049.0
+In the past 8 years, this district has received: $3,049.00 in SC contracts.
+                                    Amount ($)
+Vendor                        Year            
+OXFORD UNIVERSITY PRESS, INC. 2012        3049
 ```
 ### NSF MPS Grants
 ```
-In the past 6 years, this district has received: $96,643,614.00 in NSF MPS grants.
+In the past 8 years, this district has received: $122,522,099.00 in NSF MPS grants.
                                                   Amount ($)
 Institution                                 Year            
-DUKE UNIVERSITY                             2012   5937070.0
-                                            2013      7714.0
-FAYETTEVILLE STATE UNIVERSITY               2016    201900.0
-NORTH CAROLINA STATE UNIVERSITY             2012   7441102.0
-                                            2013   7614714.0
-                                            2014   3340526.0
-                                            2015   4890975.0
-                                            2016   4422447.0
-                                            2017   5540700.0
-North Carolina State U                      2015   2115404.0
-REGENTS OF THE UNIVERSITY OF MICHIGAN       2012      5000.0
-U of NC Chapel Hill                         2015   4258079.0
-UNIVERSITY OF NORTH CAROLINA AT CHAPEL HILL 2012  12419066.0
-                                            2013   7398193.0
-                                            2014   8690828.0
-                                            2015   4580503.0
-                                            2016   8487640.0
-                                            2017   9260753.0
-UNIVERSITY OF OKLAHOMA                      2014     31000.0
+DUKE UNIVERSITY                             2012     5937070
+                                            2013        7714
+FAYETTEVILLE STATE UNIVERSITY               2016      201900
+NATIONAL INSTITUTE OF STATISTICAL SCIENCES  2016        9900
+                                            2018        9990
+NORTH CAROLINA STATE U                      2015     2140404
+NORTH CAROLINA STATE UNIVERSITY             2012     7621102
+                                            2013     7647135
+                                            2014     3340526
+                                            2015     4890975
+                                            2016     4422447
+                                            2017     7989901
+                                            2018     6861540
+                                            2019      -53863
+PII REDACTED                                2018      150000
+U OF NC CHAPEL HILL                         2015     4285079
+UNIVERSITY OF NORTH CAROLINA AT CHAPEL HILL 2012    12419066
+                                            2013     7398193
+                                            2014     8690828
+                                            2015     4766212
+                                            2016     8487640
+                                            2017    11267194
+                                            2018    13783146
+                                            2019      248000
 ```
 ---
 <a name="NC-05"></a>
@@ -208,55 +210,58 @@ Virginia Foxx is not on any of our key committees
 
 ### HEP Grants
 ```
-This district received no SC HEP grants from 2012-2017
+This district received no SC HEP grants from 2012-2019
 ```
 ### SC Contracts
 ```
-This district received no SC contracts from 2012-2018
+This district received no SC contracts from 2012-2019
 ```
 ### NSF MPS Grants
 ```
-In the past 6 years, this district has received: $3,902,099.00 in NSF MPS grants.
+In the past 8 years, this district has received: $4,769,880.00 in NSF MPS grants.
                                              Amount ($)
 Institution                            Year            
-APPALACHIAN STATE UNIVERSITY           2012    519866.0
-                                       2013     72450.0
-Appalachian State Univ                 2015    299891.0
-UNIVERSITY OF OREGON                   2016     22840.0
-WAKE FOREST UNIVERSITY                 2012    253517.0
-                                       2013    441275.0
-                                       2014    390000.0
-                                       2015    576587.0
-                                       2016    767911.0
-                                       2017    289984.0
-WAKE FOREST UNIVERSITY HEALTH SCIENCES 2016      9424.0
-Wake Forest University                 2015    258354.0
+APPALACHIAN STATE UNIV                 2015      299891
+APPALACHIAN STATE UNIVERSITY           2012      519866
+                                       2013       72450
+WAKE FOREST UNIVERSITY                 2012      295475
+                                       2013      441275
+                                       2014      390000
+                                       2015      834941
+                                       2016      767911
+                                       2017      389984
+WAKE FOREST UNIVERSITY HEALTH SCIENCES 2016        9424
+WINSTON-SALEM STATE UNIVERSITY (INC)   2018      748663
 ```
 ---
 <a name="NC-06"></a>
 [Back to top](#top)
 ## NC-06 -- Rep. Mark Walker (R) -- [Wikipedia](https://en.wikipedia.org/wiki/NC-06)
 ### Committees
-Mark Walker is not on any of our key committees 
+Mark Walker is the #6 Democrat on the House Subcommittee on Higher Education and Workforce Development 
 
 ### HEP Grants
 ```
-This district received no SC HEP grants from 2012-2017
+This district received no SC HEP grants from 2012-2019
 ```
 ### SC Contracts
 ```
-This district received no SC contracts from 2012-2018
+This district received no SC contracts from 2012-2019
 ```
 ### NSF MPS Grants
 ```
-In the past 6 years, this district has received: $684,939.00 in NSF MPS grants.
-                                                 Amount ($)
-Institution                                Year            
-UNIVERSITY OF NORTH CAROLINA AT GREENSBORO 2013    267782.0
-                                           2014     47468.0
-                                           2015     33000.0
-                                           2016     31730.0
-                                           2017    304959.0
+In the past 8 years, this district has received: $2,363,979.00 in NSF MPS grants.
+                                                         Amount ($)
+Institution                                        Year            
+ELON UNIVERSITY                                    2012       38685
+NORTH CAROLINA AGRICULTURAL AND TECHNICAL STATE... 2017      173858
+                                                   2018      183337
+UNIVERSITY OF NORTH CAROLINA AT GREENSBORO         2013      309782
+                                                   2014     1053420
+                                                   2015      236834
+                                                   2016       40505
+                                                   2017      304959
+                                                   2018       22599
 ```
 ---
 <a name="NC-07"></a>
@@ -267,67 +272,68 @@ David Rouzer is not on any of our key committees
 
 ### HEP Grants
 ```
-This district received no SC HEP grants from 2012-2017
+This district received no SC HEP grants from 2012-2019
 ```
 ### SC Contracts
 ```
-This district received no SC contracts from 2012-2018
+This district received no SC contracts from 2012-2019
 ```
 ### NSF MPS Grants
 ```
-In the past 6 years, this district has received: $395,915.00 in NSF MPS grants.
+In the past 8 years, this district has received: $660,199.00 in NSF MPS grants.
                                                  Amount ($)
 Institution                                Year            
-UNIVERSITY OF NORTH CAROLINA AT WILMINGTON 2012     78004.0
-                                           2013     64228.0
-                                           2017    253683.0
+UNIVERSITY OF NORTH CAROLINA AT WILMINGTON 2012      183258
+                                           2013       64228
+                                           2017      322416
+                                           2018       90297
 ```
 ---
 <a name="NC-08"></a>
 [Back to top](#top)
 ## NC-08 -- Rep. Richard Hudson (R) -- [Wikipedia](https://en.wikipedia.org/wiki/NC-08)
 ### Committees
-Richard Hudson is the #24 Republican on the House Committee on Energy and Commerce 
+Richard Hudson is the #20 Democrat on the House Committee on Energy and Commerce 
 
 ### HEP Grants
 ```
-This district received no SC HEP grants from 2012-2017
+This district received no SC HEP grants from 2012-2019
 ```
 ### SC Contracts
 ```
-In the past 6 years, this district has received: $0.00 in SC contracts.
-                                          Amount ($)
-vendorname                   fiscal_year            
-CLEMENTS BERNARD MILLER PLLC 2012                0.0
+In the past 8 years, this district has received: $0.00 in SC contracts.
+                                   Amount ($)
+Vendor                       Year            
+CLEMENTS BERNARD MILLER PLLC 2012           0
 ```
 ### NSF MPS Grants
 ```
-In the past 6 years, this district has received: $156,951.00 in NSF MPS grants.
+In the past 8 years, this district has received: $756,951.00 in NSF MPS grants.
                                                Amount ($)
 Institution                              Year            
-UNIVERSITY OF NORTH CAROLINA AT PEMBROKE 2015    156951.0
+FAYETTEVILLE STATE UNIVERSITY            2018      600000
+                                         2019           0
+UNIVERSITY OF NORTH CAROLINA AT PEMBROKE 2015      156951
 ```
 ---
 <a name="NC-09"></a>
 [Back to top](#top)
-## NC-09 -- Rep. Robert Pittenger (R) -- [Wikipedia](https://en.wikipedia.org/wiki/NC-09)
-### Committees
-Robert Pittenger is not on any of our key committees 
-
+## NC-09 Unknown Rep.
 ### HEP Grants
 ```
-This district received no SC HEP grants from 2012-2017
+This district received no SC HEP grants from 2012-2019
 ```
 ### SC Contracts
 ```
-This district received no SC contracts from 2012-2018
+This district received no SC contracts from 2012-2019
 ```
 ### NSF MPS Grants
 ```
-In the past 6 years, this district has received: $299,917.00 in NSF MPS grants.
+In the past 8 years, this district has received: $593,917.00 in NSF MPS grants.
                                         Amount ($)
 Institution                       Year            
-TRUSTEES OF DAVIDSON COLLEGE, THE 2016    299917.0
+TRUSTEES OF DAVIDSON COLLEGE, THE 2016      299917
+                                  2017      294000
 ```
 ---
 <a name="NC-10"></a>
@@ -338,18 +344,18 @@ Patrick T. McHenry is not on any of our key committees
 
 ### HEP Grants
 ```
-This district received no SC HEP grants from 2012-2017
+This district received no SC HEP grants from 2012-2019
 ```
 ### SC Contracts
 ```
-This district received no SC contracts from 2012-2018
+This district received no SC contracts from 2012-2019
 ```
 ### NSF MPS Grants
 ```
-In the past 6 years, this district has received: $82,500.00 in NSF MPS grants.
+In the past 8 years, this district has received: $82,500.00 in NSF MPS grants.
                                                 Amount ($)
 Institution                               Year            
-UNIVERSITY OF NORTH CAROLINA AT ASHEVILLE 2013     82500.0
+UNIVERSITY OF NORTH CAROLINA AT ASHEVILLE 2013       82500
 ```
 ---
 <a name="NC-11"></a>
@@ -360,62 +366,59 @@ Mark Meadows is not on any of our key committees
 
 ### HEP Grants
 ```
-This district received no SC HEP grants from 2012-2017
+This district received no SC HEP grants from 2012-2019
 ```
 ### SC Contracts
 ```
-This district received no SC contracts from 2012-2018
+This district received no SC contracts from 2012-2019
 ```
 ### NSF MPS Grants
 ```
-In the past 6 years, this district has received: $197,272.00 in NSF MPS grants.
+In the past 8 years, this district has received: $197,272.00 in NSF MPS grants.
                                                 Amount ($)
 Institution                               Year            
-UNIVERSITY OF NORTH CAROLINA AT ASHEVILLE 2012    197272.0
+UNIVERSITY OF NORTH CAROLINA AT ASHEVILLE 2012      197272
 ```
 ---
 <a name="NC-12"></a>
 [Back to top](#top)
 ## NC-12 -- Rep. Alma S. Adams (D) -- [Wikipedia](https://en.wikipedia.org/wiki/NC-12)
 ### Committees
-Alma S. Adams is the #3 Democrat on the House Subcommittee on Higher Education and Workforce Development 
+Alma S. Adams is the #7 Republican on the House Subcommittee on Higher Education and Workforce Development 
 
 ### HEP Grants
 ```
-This district received no SC HEP grants from 2012-2017
+This district received no SC HEP grants from 2012-2019
 ```
 ### SC Contracts
 ```
-In the past 6 years, this district has received: $-15,222.60 in SC contracts.
-                                          Amount ($)
-vendorname                   fiscal_year            
-CLEMENTS BERNARD MILLER PLLC 2013           -4510.05
-                             2014          -10710.00
-DUKE ENERGY CORPORATION      2015              -2.55
+In the past 8 years, this district has received: $-15,222.00 in SC contracts.
+                                   Amount ($)
+Vendor                       Year            
+CLEMENTS BERNARD MILLER PLLC 2013       -4510
+                             2014      -10710
+DUKE ENERGY CORPORATION      2015          -2
 ```
 ### NSF MPS Grants
 ```
-In the past 6 years, this district has received: $4,013,169.00 in NSF MPS grants.
-                                                     Amount ($)
-Institution                                    Year            
-NORTH CAROLINA AGRICULTURAL AND TECHNICAL STA  2012    105000.0
-                                               2013     90000.0
-                                               2014    100001.0
-                                               2015     75000.0
-                                               2016     42840.0
-U of NC Charlotte                              2015     59953.0
-UNIVERSITY OF CALIFORNIA, DAVIS                2016     40000.0
-UNIVERSITY OF NORTH CAROLINA AT CHARLOTTE      2012    395367.0
-                                               2013    374351.0
-                                               2014    395656.0
-                                               2015    391475.0
-                                               2016    426200.0
-UNIVERSITY OF NORTH CAROLINA AT CHARLOTTE, THE 2017    484807.0
-UNIVERSITY OF NORTH CAROLINA AT GREENSBORO     2013     42000.0
-                                               2014    735952.0
-                                               2015    203834.0
-                                               2016      8775.0
-WAKE FOREST UNIVERSITY                         2012     41958.0
+In the past 8 years, this district has received: $4,125,594.00 in NSF MPS grants.
+                                                         Amount ($)
+Institution                                        Year            
+NORTH CAROLINA AGRICULTURAL AND TECHNICAL STA      2012      195000
+                                                   2013       90000
+                                                   2014      100001
+                                                   2015      135571
+                                                   2016       42840
+NORTH CAROLINA AGRICULTURAL AND TECHNICAL STATE... 2017           0
+U OF NC CHARLOTTE                                  2015       59953
+UNIVERSITY OF NORTH CAROLINA AT CHARLOTTE          2012      395367
+                                                   2013      641306
+                                                   2014      395656
+                                                   2015      391475
+                                                   2016      426200
+UNIVERSITY OF NORTH CAROLINA AT CHARLOTTE, THE     2017      544819
+                                                   2018      630287
+                                                   2019       77119
 ```
 ---
 <a name="NC-13"></a>
@@ -426,18 +429,20 @@ Ted Budd is not on any of our key committees
 
 ### HEP Grants
 ```
-This district received no SC HEP grants from 2012-2017
+This district received no SC HEP grants from 2012-2019
 ```
 ### SC Contracts
 ```
-This district received no SC contracts from 2012-2018
+This district received no SC contracts from 2012-2019
 ```
 ### NSF MPS Grants
 ```
-In the past 6 years, this district has received: $220,699.00 in NSF MPS grants.
+In the past 8 years, this district has received: $735,699.00 in NSF MPS grants.
                                                  Amount ($)
 Institution                                Year            
-ELON UNIVERSITY                            2012     38685.0
-UNIVERSITY OF NORTH CAROLINA AT GREENSBORO 2012    182014.0
+HIGH POINT UNIVERSITY                      2018      522086
+UNIVERSITY OF NORTH CAROLINA AT GREENSBORO 2012      182014
+                                           2017       22599
+                                           2018        9000
 ```
 ---

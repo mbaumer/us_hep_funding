@@ -11,66 +11,68 @@ permalink : /states/WA/
 
 # WA -- Sen. Maria Cantwell (D) and  Sen. Patty Murray (D)
 ## Committees
-Maria Cantwell is the #9 Democrat on the Senate Energy Subcommittee on Energy 
+Maria Cantwell is the #3 Democrat on the Senate Energy Subcommittee on Energy 
 
-Maria Cantwell is the #1 Democrat on the Senate Committee on Energy and Natural Resources 
+Maria Cantwell is the #3 Democrat on the Senate Committee on Energy and Natural Resources 
 
-Maria Cantwell is the #2 Democrat on the Senate Committee on Commerce, Science, and Transportation 
-
-Patty Murray is the #2 Democrat on the Senate Appropriations Subcommittee on Energy and Water Development 
+Maria Cantwell is the #1 Democrat on the Senate Committee on Commerce, Science, and Transportation 
 
 Patty Murray is the #2 Democrat on the Senate Committee on Appropriations 
 
+Patty Murray is the #2 Democrat on the Senate Appropriations Subcommittee on Energy and Water Development 
+
 ## HEP Grants
 ```
-In the past 6 years, this state has received:
-32 HEP grants, totalling $13,814,000.00
+In the past 8 years, this state has received:
+37 HEP grants, totalling $15,364,000.00
  
-                                          Amount ($)
-Institution                       Year              
-UNIVERSITY OF WASHINGTON, SEATTLE 2012.0   2371000.0
-                                  2013.0   1884000.0
-University of Washington          2014.0   3046000.0
-                                  2015.0   2230000.0
-                                  2016.0   2945000.0
-                                  2017.0   1338000.0
+                                        Amount ($)
+Institution                       Year            
+UNIVERSITY OF WASHINGTON, SEATTLE 2012     2371000
+                                  2013     1884000
+University of Washington          2014     3046000
+                                  2015     2230000
+                                  2016     2945000
+                                  2017     1338000
+                                  2018     1550000
 ```
 ## SC Contracts
 ```
-In the past 6 years, this state has received:
-349 Office of Science contracts, totalling $5,425,778,584.36
+In the past 8 years, this state has received:
+411 Office of Science contracts, totalling $6,699,171,792.00
  
-                                                     Amount ($)
-vendorname                                                     
-BATTELLE MEMORIAL INSTITUTE                        5.425533e+09
-YAHSGS LLC                                         1.500000e+05
-CH2M HILL PLATEAU REMEDIATION COMPANY              3.125700e+04
-DELACY CONSULTING LLC                              2.080000e+04
-THERRIEN COMPANY INC, THE                          1.880000e+04
-INSIGHT PUBLIC SECTOR, INC.                        1.261686e+04
-LEVERAGE INFORMATION SYSTEMS, INC.                 8.162000e+03
-SOLUTION PLANNING AND CONTRACT ENVIRONMENT, INC.   3.950640e+03
-JOHNSON CONTROLS GOVERNMENT SYSTEMS LLC            0.000000e+00
-MICROSOFT CORPORATION SITZ IN REDMOND CORPORATION  0.000000e+00
+                                                  Amount ($)
+Vendor                                                      
+BATTELLE MEMORIAL INSTITUTE                       6698893719
+YAHSGS LLC                                            150000
+RENO/TAHOE REALTY GROUP, LLC                           32489
+CH2M HILL PLATEAU REMEDIATION COMPANY                  31257
+DELACY CONSULTING LLC                                  20800
+THERRIEN COMPANY INC, THE                              18800
+INSIGHT PUBLIC SECTOR, INC.                            12615
+LEVERAGE INFORMATION SYSTEMS, INC.                      8162
+SOLUTION PLANNING AND CONTRACT ENVIRONMENT, INC.        3950
+JOHNSON CONTROLS GOVERNMENT SYSTEMS LLC                    0
+and  1  other firms.
 ```
 ## NSF MPS Grants
 ```
-In the past 6 years, this state has received:
-469 NSF MPS grants, totalling $117,278,616.00
+In the past 8 years, this state has received:
+619 NSF MPS grants, totalling $144,623,803.00
  
                                         Amount ($)
 Institution                                       
-UNIVERSITY OF WASHINGTON                86758503.0
-WASHINGTON STATE UNIVERSITY             13308936.0
-WESTERN WASHINGTON UNIVERSITY            4510940.0
-MULTIPLE RECIPIENTS                      3046834.0
-U of Washington                          1869657.0
-ASTROPHYSICAL RESEARCH CONSORTIUM        1472956.0
-SEATTLE UNIVERSITY                       1274273.0
-UNIVERSITY OF PUGET SOUND, THE            912015.0
-FRED HUTCHINSON CANCER RESEARCH CENTER    897461.0
-CENTRAL WASHINGTON UNIVERSITY INC         837006.0
-and  12  other institutions.
+UNIVERSITY OF WASHINGTON                 108207099
+WASHINGTON STATE UNIVERSITY               16481706
+WESTERN WASHINGTON UNIVERSITY              5733957
+MULTIPLE RECIPIENTS                        3046834
+U OF WASHINGTON                            1869657
+SEATTLE UNIVERSITY                         1624278
+ASTROPHYSICAL RESEARCH CONSORTIUM          1472956
+UNIVERSITY OF PUGET SOUND, THE             1182015
+FRED HUTCHINSON CANCER RESEARCH CENTER     1023783
+WHITMAN COLLEGE, INC                        994213
+and  10  other institutions.
 ```
 ---
 ---
@@ -82,23 +84,23 @@ Suzan K. DelBene is not on any of our key committees
 
 ### HEP Grants
 ```
-This district received no SC HEP grants from 2012-2017
+This district received no SC HEP grants from 2012-2019
 ```
 ### SC Contracts
 ```
-In the past 6 years, this district has received: $8,162.00 in SC contracts.
-                                                               Amount ($)
-vendorname                                        fiscal_year            
-LEVERAGE INFORMATION SYSTEMS, INC.                2015             8162.0
-MICROSOFT CORPORATION SITZ IN REDMOND CORPORATION 2014            10000.0
-                                                  2015           -10000.0
+In the past 8 years, this district has received: $8,162.00 in SC contracts.
+                                                        Amount ($)
+Vendor                                            Year            
+LEVERAGE INFORMATION SYSTEMS, INC.                2015        8162
+MICROSOFT CORPORATION SITZ IN REDMOND CORPORATION 2014       10000
+                                                  2015      -10000
 ```
 ### NSF MPS Grants
 ```
-In the past 6 years, this district has received: $246,941.00 in NSF MPS grants.
-                      Amount ($)
-Institution     Year            
-U of Washington 2015    246941.0
+In the past 8 years, this district has received: $79,950.00 in NSF MPS grants.
+                                          Amount ($)
+Institution                         Year            
+NORTHWEST RESEARCH ASSOCIATES, INC. 2015       79950
 ```
 ---
 <a name="WA-02"></a>
@@ -109,233 +111,240 @@ Rick Larsen is not on any of our key committees
 
 ### HEP Grants
 ```
-This district received no SC HEP grants from 2012-2017
+This district received no SC HEP grants from 2012-2019
 ```
 ### SC Contracts
 ```
-This district received no SC contracts from 2012-2018
+This district received no SC contracts from 2012-2019
 ```
 ### NSF MPS Grants
 ```
-In the past 6 years, this district has received: $4,560,746.00 in NSF MPS grants.
+In the past 8 years, this district has received: $5,783,763.00 in NSF MPS grants.
                                     Amount ($)
 Institution                   Year            
-WESTERN WASHINGTON UNIVERSITY 2012    951730.0
-                              2013    575949.0
-                              2014   1368549.0
-                              2015    892500.0
-                              2016     33884.0
-                              2017    688328.0
-Western Washington Univ       2015     49806.0
+WESTERN WASHINGTON UNIV       2015       49806
+WESTERN WASHINGTON UNIVERSITY 2012      951730
+                              2013      575949
+                              2014     1368549
+                              2015      892500
+                              2016       33884
+                              2017      779054
+                              2018     1132291
 ```
 ---
 <a name="WA-03"></a>
 [Back to top](#top)
 ## WA-03 -- Rep. Jaime Herrera Beutler (R) -- [Wikipedia](https://en.wikipedia.org/wiki/WA-03)
 ### Committees
-Jaime Herrera Beutler is the #18 Republican on the House Committee on Appropriations 
-
-Jaime Herrera Beutler is the #6 Republican on the House Appropriations Subcommittee on Energy and Water Development 
+Jaime Herrera Beutler is the #13 Democrat on the House Committee on Appropriations 
 
 ### HEP Grants
 ```
-This district received no SC HEP grants from 2012-2017
+This district received no SC HEP grants from 2012-2019
 ```
 ### SC Contracts
 ```
-This district received no SC contracts from 2012-2018
+This district received no SC contracts from 2012-2019
 ```
 ### NSF MPS Grants
 ```
-This district received no NSF MPS grants from 2012-2017
+This district received no NSF MPS grants from 2012-2019
 ```
 ---
 <a name="WA-04"></a>
 [Back to top](#top)
 ## WA-04 -- Rep. Dan Newhouse (R) -- [Wikipedia](https://en.wikipedia.org/wiki/WA-04)
 ### Committees
-Dan Newhouse is the #28 Republican on the House Committee on Appropriations 
+Dan Newhouse is the #4 Democrat on the House Appropriations Subcommittee on Energy and Water Development 
 
-Dan Newhouse is the #8 Republican on the House Appropriations Subcommittee on Energy and Water Development 
+Dan Newhouse is the #20 Democrat on the House Committee on Appropriations 
 
 ### HEP Grants
 ```
-This district received no SC HEP grants from 2012-2017
+This district received no SC HEP grants from 2012-2019
 ```
 ### SC Contracts
 ```
-In the past 6 years, this district has received: $5,425,739,005.50 in SC contracts.
-                                                                Amount ($)
-vendorname                                       fiscal_year              
-BATTELLE MEMORIAL INSTITUTE                      2012         8.384316e+08
-                                                 2013         9.463131e+08
-                                                 2014         8.451911e+08
-                                                 2015         8.177980e+08
-                                                 2016         9.864324e+08
-                                                 2017         8.702507e+08
-                                                 2018         1.211160e+08
-CH2M HILL PLATEAU REMEDIATION COMPANY            2016         3.125700e+04
-DELACY CONSULTING LLC                            2017         2.080000e+04
-JOHNSON CONTROLS GOVERNMENT SYSTEMS LLC          2017         0.000000e+00
-                                                 2018         0.000000e+00
-SOLUTION PLANNING AND CONTRACT ENVIRONMENT, INC. 2017         3.950640e+03
-YAHSGS LLC                                       2012         1.500000e+05
-                                                 2013         0.000000e+00
-                                                 2014         0.000000e+00
+In the past 8 years, this district has received: $6,699,132,215.00 in SC contracts.
+                                                       Amount ($)
+Vendor                                           Year            
+BATTELLE MEMORIAL INSTITUTE                      2012   838431530
+                                                 2013   946313133
+                                                 2014   845191105
+                                                 2015   817798006
+                                                 2016   986432428
+                                                 2017   870250694
+                                                 2018   929615217
+                                                 2019   464861606
+CH2M HILL PLATEAU REMEDIATION COMPANY            2016       31257
+DELACY CONSULTING LLC                            2017       20800
+JOHNSON CONTROLS GOVERNMENT SYSTEMS LLC          2017           0
+                                                 2018           0
+RENO/TAHOE REALTY GROUP, LLC                     2018       32489
+                                                 2019           0
+SOLUTION PLANNING AND CONTRACT ENVIRONMENT, INC. 2017        3950
+YAHSGS LLC                                       2012      150000
+                                                 2013           0
+                                                 2014           0
 ```
 ### NSF MPS Grants
 ```
-In the past 6 years, this district has received: $478,243.00 in NSF MPS grants.
-                                         Amount ($)
-Institution                        Year            
-BATTELLE MEMORIAL INSTITUTE        2015      5000.0
-CENTRAL WASHINGTON UNIVERSITY INC  2012    317073.0
-SOUTH CAROLINA RESEARCH FOUNDATION 2012      5000.0
-WASHINGTON STATE UNIVERSITY        2014    151170.0
-                                   2017         0.0
+In the past 8 years, this district has received: $322,073.00 in NSF MPS grants.
+                                        Amount ($)
+Institution                       Year            
+BATTELLE MEMORIAL INSTITUTE       2015        5000
+CENTRAL WASHINGTON UNIVERSITY INC 2012      317073
 ```
 ---
 <a name="WA-05"></a>
 [Back to top](#top)
 ## WA-05 -- Rep. Cathy McMorris Rodgers (R) -- [Wikipedia](https://en.wikipedia.org/wiki/WA-05)
 ### Committees
-Cathy McMorris Rodgers is the #9 Republican on the House Committee on Energy and Commerce 
+Cathy McMorris Rodgers is the #7 Democrat on the House Committee on Energy and Commerce 
 
 ### HEP Grants
 ```
-This district received no SC HEP grants from 2012-2017
+This district received no SC HEP grants from 2012-2019
 ```
 ### SC Contracts
 ```
-In the past 6 years, this district has received: $12,616.86 in SC contracts.
-                                         Amount ($)
-vendorname                  fiscal_year            
-INSIGHT PUBLIC SECTOR, INC. 2012           12616.86
+In the past 8 years, this district has received: $12,615.00 in SC contracts.
+                                  Amount ($)
+Vendor                      Year            
+INSIGHT PUBLIC SECTOR, INC. 2012       12615
 ```
 ### NSF MPS Grants
 ```
-In the past 6 years, this district has received: $14,632,071.00 in NSF MPS grants.
+In the past 8 years, this district has received: $18,651,681.00 in NSF MPS grants.
                                             Amount ($)
 Institution                           Year            
-EASTERN WASHINGTON UNIVERSITY         2013    120000.0
-                                      2017    300000.0
-THE CORPORATION OF GONZAGA UNIVERSITY 2012    241494.0
-                                      2014     36276.0
-WASHINGTON STATE UNIVERSITY           2012   5187408.0
-                                      2013   2578423.0
-                                      2014   1261837.0
-                                      2015   1413411.0
-                                      2016   1410020.0
-                                      2017   1306667.0
-WHITMAN COLLEGE, INC                  2012     80000.0
-                                      2015    385400.0
-                                      2017    223143.0
-WHITWORTH UNIVERSITY                  2017     87992.0
+EASTERN WASHINGTON UNIVERSITY         2013      120000
+                                      2017      300000
+THE CORPORATION OF GONZAGA UNIVERSITY 2012      241494
+                                      2014       36276
+WASHINGTON STATE UNIVERSITY           2012     5187408
+                                      2013     2578423
+                                      2014     1413007
+                                      2015     1413411
+                                      2016     1919959
+                                      2017     1571127
+                                      2018     2398371
+WHITMAN COLLEGE, INC                  2012       80000
+                                      2015      385400
+                                      2017      223143
+                                      2018      448386
+                                      2019     -142716
+WHITWORTH UNIVERSITY                  2017      152992
+                                      2018      325000
 ```
 ---
 <a name="WA-06"></a>
 [Back to top](#top)
 ## WA-06 -- Rep. Derek Kilmer (D) -- [Wikipedia](https://en.wikipedia.org/wiki/WA-06)
 ### Committees
-Derek Kilmer is the #17 Democrat on the House Committee on Appropriations 
+Derek Kilmer is the #5 Republican on the House Appropriations Subcommittee on Energy and Water Development 
 
-Derek Kilmer is the #2 Democrat on the House Appropriations Subcommittee on Commerce, Justice, and Science 
+Derek Kilmer is the #17 Republican on the House Committee on Appropriations 
 
 ### HEP Grants
 ```
-This district received no SC HEP grants from 2012-2017
+This district received no SC HEP grants from 2012-2019
 ```
 ### SC Contracts
 ```
-In the past 6 years, this district has received: $18,800.00 in SC contracts.
-                                       Amount ($)
-vendorname                fiscal_year            
-THERRIEN COMPANY INC, THE 2017            18800.0
-                          2018                0.0
+In the past 8 years, this district has received: $18,800.00 in SC contracts.
+                                Amount ($)
+Vendor                    Year            
+THERRIEN COMPANY INC, THE 2017       18800
+                          2018           0
 ```
 ### NSF MPS Grants
 ```
-In the past 6 years, this district has received: $1,068,015.00 in NSF MPS grants.
+In the past 8 years, this district has received: $1,182,015.00 in NSF MPS grants.
                                      Amount ($)
 Institution                    Year            
-UNIVERSITY OF PUGET SOUND, THE 2013    197157.0
-                               2014     33830.0
-                               2015    347120.0
-                               2017    333908.0
-UNIVERSITY OF WASHINGTON       2016    156000.0
+UNIVERSITY OF PUGET SOUND, THE 2013      197157
+                               2014       33830
+                               2015      347120
+                               2017      333908
+                               2018      270000
 ```
 ---
 <a name="WA-07"></a>
 [Back to top](#top)
 ## WA-07 -- Rep. Pramila Jayapal (D) -- [Wikipedia](https://en.wikipedia.org/wiki/WA-07)
 ### Committees
-Pramila Jayapal is not on any of our key committees 
+Pramila Jayapal is the #9 Republican on the House Subcommittee on Higher Education and Workforce Development 
 
 ### HEP Grants
 ```
-In the past 6 years, this district has received: $13,814,000.00 in SC HEP grants.
-                                          Amount ($)
-Institution                       Year              
-UNIVERSITY OF WASHINGTON, SEATTLE 2012.0   2371000.0
-                                  2013.0   1884000.0
-University of Washington          2014.0   3046000.0
-                                  2015.0   2230000.0
-                                  2016.0   2945000.0
-                                  2017.0   1338000.0
+In the past 8 years, this district has received: $15,364,000.00 in SC HEP grants.
+                                        Amount ($)
+Institution                       Year            
+UNIVERSITY OF WASHINGTON, SEATTLE 2012     2371000
+                                  2013     1884000
+University of Washington          2014     3046000
+                                  2015     2230000
+                                  2016     2945000
+                                  2017     1338000
+                                  2018     1550000
 ```
 ### SC Contracts
 ```
-This district received no SC contracts from 2012-2018
+This district received no SC contracts from 2012-2019
 ```
 ### NSF MPS Grants
 ```
-In the past 6 years, this district has received: $94,366,569.00 in NSF MPS grants.
+In the past 8 years, this district has received: $116,217,740.00 in NSF MPS grants.
                                              Amount ($)
 Institution                            Year            
-ASTROPHYSICAL RESEARCH CONSORTIUM      2012   1472956.0
-FRED HUTCHINSON CANCER RESEARCH CENTER 2012    496702.0
-                                       2013    315914.0
-                                       2016     84845.0
-MULTIPLE RECIPIENTS                    2012   1443000.0
-                                       2013   1520000.0
-                                       2014     83834.0
-PII Redacted                           2017    100000.0
-REGENTS OF THE UNIVERSITY OF IDAHO     2016     20646.0
-SEATTLE UNIVERSITY                     2012    362911.0
-                                       2017    240542.0
-U of Washington                        2015   1622716.0
-UNIVERSITY OF WASHINGTON               2012  23932208.0
-                                       2013  14477453.0
-                                       2014  16229898.0
-                                       2015   7243056.0
-                                       2016  14972676.0
-                                       2017   9747212.0
+ASTROPHYSICAL RESEARCH CONSORTIUM      2012     1472956
+FRED HUTCHINSON CANCER RESEARCH CENTER 2012      496702
+                                       2013      315914
+                                       2016       84845
+                                       2017       42575
+                                       2018       83747
+MULTIPLE RECIPIENTS                    2012     1443000
+                                       2013     1520000
+                                       2014       83834
+PII REDACTED                           2017       84500
+                                       2018      150000
+SEATTLE UNIVERSITY                     2012      362911
+U OF WASHINGTON                        2015     1869657
+UNIVERSITY OF WASHINGTON               2012    23984893
+                                       2013    14522953
+                                       2014    16280498
+                                       2015     7243056
+                                       2016    15128676
+                                       2017    16152429
+                                       2018    14876157
+                                       2019       18437
 ```
 ---
 <a name="WA-08"></a>
 [Back to top](#top)
-## WA-08 -- Rep. David G. Reichert (R) -- [Wikipedia](https://en.wikipedia.org/wiki/WA-08)
+## WA-08 -- Rep. Kim Schrier (D) -- [Wikipedia](https://en.wikipedia.org/wiki/WA-08)
 ### Committees
-David G. Reichert is not on any of our key committees 
+Kim Schrier is the #2 Republican on the House Subcommittee on Early Childhood, Elementary, and Secondary Education 
 
 ### HEP Grants
 ```
-This district received no SC HEP grants from 2012-2017
+This district received no SC HEP grants from 2012-2019
 ```
 ### SC Contracts
 ```
-This district received no SC contracts from 2012-2018
+This district received no SC contracts from 2012-2019
 ```
 ### NSF MPS Grants
 ```
-In the past 6 years, this district has received: $595,214.00 in NSF MPS grants.
+In the past 8 years, this district has received: $595,214.00 in NSF MPS grants.
                                         Amount ($)
 Institution                       Year            
-CENTRAL WASHINGTON UNIVERSITY INC 2013    175735.0
-                                  2014     79759.0
-                                  2016    264439.0
-                                  2017         0.0
-Central Washington Univ           2015     75281.0
+CENTRAL WASHINGTON UNIV           2015       75281
+CENTRAL WASHINGTON UNIVERSITY INC 2013      175735
+                                  2014       79759
+                                  2016      264439
+                                  2017           0
 ```
 ---
 <a name="WA-09"></a>
@@ -346,21 +355,22 @@ Adam Smith is not on any of our key committees
 
 ### HEP Grants
 ```
-This district received no SC HEP grants from 2012-2017
+This district received no SC HEP grants from 2012-2019
 ```
 ### SC Contracts
 ```
-This district received no SC contracts from 2012-2018
+This district received no SC contracts from 2012-2019
 ```
 ### NSF MPS Grants
 ```
-In the past 6 years, this district has received: $950,817.00 in NSF MPS grants.
+In the past 8 years, this district has received: $1,261,367.00 in NSF MPS grants.
                          Amount ($)
 Institution        Year            
-SEATTLE UNIVERSITY 2013    343438.0
-                   2015    118737.0
-                   2016    208645.0
-Seattle University 2015    279997.0
+SEATTLE UNIVERSITY 2013      343438
+                   2015      398734
+                   2016      208645
+                   2017      240542
+                   2018       70008
 ```
 ---
 <a name="WA-10"></a>
@@ -371,18 +381,19 @@ Denny Heck is not on any of our key committees
 
 ### HEP Grants
 ```
-This district received no SC HEP grants from 2012-2017
+This district received no SC HEP grants from 2012-2019
 ```
 ### SC Contracts
 ```
-This district received no SC contracts from 2012-2018
+This district received no SC contracts from 2012-2019
 ```
 ### NSF MPS Grants
 ```
-In the past 6 years, this district has received: $380,000.00 in NSF MPS grants.
+In the past 8 years, this district has received: $530,000.00 in NSF MPS grants.
                                       Amount ($)
 Institution                     Year            
-PACIFIC LUTHERAN UNIVERSITY INC 2014    192000.0
-                                2017    188000.0
+PACIFIC LUTHERAN UNIVERSITY INC 2014      192000
+                                2017      188000
+PII REDACTED                    2018      150000
 ```
 ---

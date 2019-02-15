@@ -11,38 +11,37 @@ permalink : /states/ME/
 
 # ME -- Sen. Susan M. Collins (R) and  Sen. Angus S. King, Jr. (I)
 ## Committees
-Susan M. Collins is the #5 Republican on the Senate Appropriations Subcommittee on Energy and Water Development 
-
 Susan M. Collins is the #4 Republican on the Senate Appropriations Subcommittee on Commerce, Justice, Science, and Related Agencies 
 
-Susan M. Collins is the #5 Republican on the Senate Committee on Appropriations 
+Susan M. Collins is the #4 Republican on the Senate Committee on Appropriations 
 
-Angus S. King, Jr. is the #6 Democrat on the Senate Energy Subcommittee on Energy 
+Susan M. Collins is the #4 Republican on the Senate Appropriations Subcommittee on Energy and Water Development 
 
-Angus S. King, Jr. is the #9 Democrat on the Senate Committee on Energy and Natural Resources 
+Angus S. King, Jr. is the #7 Democrat on the Senate Energy Subcommittee on Energy 
+
+Angus S. King, Jr. is the #8 Democrat on the Senate Committee on Energy and Natural Resources 
 
 ## HEP Grants
 ```
-This state received no SC HEP grants from 2012-2017
+This state received no SC HEP grants from 2012-2019
 ```
 ## SC Contracts
 ```
-This state received no SC contracts from 2012-2018
+This state received no SC contracts from 2012-2019
 ```
 ## NSF MPS Grants
 ```
-In the past 6 years, this state has received:
-33 NSF MPS grants, totalling $6,173,220.00
+In the past 8 years, this state has received:
+43 NSF MPS grants, totalling $8,012,974.00
  
                                        Amount ($)
 Institution                                      
-UNIVERSITY OF MAINE SYSTEM              3083302.0
-COLBY COLLEGE                            948594.0
-UNIVERSITY OF NEW ENGLAND                792365.0
-BOWDOIN COLLEGE                          715155.0
-PRESIDENT & TRUSTEES OF BATES COLLEGE    504847.0
-Bowdoin College                          106000.0
-Colby College                             22957.0
+UNIVERSITY OF MAINE SYSTEM                3619202
+BOWDOIN COLLEGE                           1258970
+COLBY COLLEGE                             1165692
+UNIVERSITY OF NEW ENGLAND                  792365
+PRESIDENT & TRUSTEES OF BATES COLLEGE      777191
+BIGELOW LABORATORY FOR OCEAN SCIENCES      399554
 ```
 ---
 ---
@@ -50,63 +49,69 @@ Colby College                             22957.0
 [Back to top](#top)
 ## ME-01 -- Rep. Chellie Pingree (D) -- [Wikipedia](https://en.wikipedia.org/wiki/ME-01)
 ### Committees
-Chellie Pingree is the #15 Democrat on the House Committee on Appropriations 
+Chellie Pingree is the #15 Republican on the House Committee on Appropriations 
 
 ### HEP Grants
 ```
-This district received no SC HEP grants from 2012-2017
+This district received no SC HEP grants from 2012-2019
 ```
 ### SC Contracts
 ```
-This district received no SC contracts from 2012-2018
+This district received no SC contracts from 2012-2019
 ```
 ### NSF MPS Grants
 ```
-In the past 6 years, this district has received: $2,377,071.00 in NSF MPS grants.
-                                Amount ($)
-Institution               Year            
-BOWDOIN COLLEGE           2012    149980.0
-                          2013     62000.0
-                          2014    292514.0
-                          2016     98600.0
-                          2017    112061.0
-Bowdoin College           2015    106000.0
-COLBY COLLEGE             2013    378670.0
-                          2014     29690.0
-                          2017    332234.0
-Colby College             2015     22957.0
-UNIVERSITY OF NEW ENGLAND 2013    417785.0
-                          2015    374580.0
+In the past 8 years, this district has received: $3,408,581.00 in NSF MPS grants.
+                                            Amount ($)
+Institution                           Year            
+BIGELOW LABORATORY FOR OCEAN SCIENCES 2018      399554
+BOWDOIN COLLEGE                       2012      149980
+                                      2013       62000
+                                      2014      292514
+                                      2015      106000
+                                      2016       98600
+                                      2017      112061
+                                      2018      437815
+COLBY COLLEGE                         2013      378670
+                                      2014       29690
+                                      2015       22957
+                                      2017      332234
+                                      2018      194141
+UNIVERSITY OF NEW ENGLAND             2013      417785
+                                      2015      374580
 ```
 ---
 <a name="ME-02"></a>
 [Back to top](#top)
-## ME-02 -- Rep. Bruce Poliquin (R) -- [Wikipedia](https://en.wikipedia.org/wiki/ME-02)
+## ME-02 -- Rep. Jared F. Golden (D) -- [Wikipedia](https://en.wikipedia.org/wiki/ME-02)
 ### Committees
-Bruce Poliquin is not on any of our key committees 
+Jared F. Golden is not on any of our key committees 
 
 ### HEP Grants
 ```
-This district received no SC HEP grants from 2012-2017
+This district received no SC HEP grants from 2012-2019
 ```
 ### SC Contracts
 ```
-This district received no SC contracts from 2012-2018
+This district received no SC contracts from 2012-2019
 ```
 ### NSF MPS Grants
 ```
-In the past 6 years, this district has received: $3,796,149.00 in NSF MPS grants.
+In the past 8 years, this district has received: $4,604,393.00 in NSF MPS grants.
                                             Amount ($)
 Institution                           Year            
-COLBY COLLEGE                         2012    208000.0
-PRESIDENT & TRUSTEES OF BATES COLLEGE 2012    518036.0
-                                      2013     56000.0
-                                      2014     41450.0
-                                      2015   -110639.0
-UNIVERSITY OF MAINE SYSTEM            2012   1800000.0
-                                      2013    722500.0
-                                      2014    214352.0
-                                      2015     18907.0
-                                      2017    327543.0
+COLBY COLLEGE                         2012      208000
+PRESIDENT & TRUSTEES OF BATES COLLEGE 2012      518036
+                                      2013       56000
+                                      2014       41450
+                                      2015     -110639
+                                      2016       12000
+                                      2018      260344
+UNIVERSITY OF MAINE SYSTEM            2012     1800000
+                                      2013      722500
+                                      2014      214352
+                                      2015       18907
+                                      2017      327543
+                                      2018      535900
 ```
 ---

@@ -9,78 +9,82 @@ permalink : /states/ND/
 
 [ND-00](#ND-00)  
 
-# ND -- Sen. John Hoeven (R) and  Sen. Heidi Heitkamp (D)
+# ND -- Sen. John Hoeven (R) and  Sen. Kevin Cramer (R)
 ## Committees
-John Hoeven is the #6 Republican on the Senate Energy Subcommittee on Energy 
+John Hoeven is the #9 Republican on the Senate Energy Subcommittee on Energy 
 
-John Hoeven is the #8 Republican on the Senate Appropriations Subcommittee on Energy and Water Development 
+John Hoeven is the #9 Republican on the Senate Committee on Appropriations 
 
-John Hoeven is the #9 Republican on the Senate Committee on Energy and Natural Resources 
+John Hoeven is the #7 Republican on the Senate Appropriations Subcommittee on Energy and Water Development 
 
-John Hoeven is the #10 Republican on the Senate Committee on Appropriations 
+John Hoeven is the #11 Republican on the Senate Committee on Energy and Natural Resources 
 
-Heidi Heitkamp is not on any of our key committees 
+Kevin Cramer is not on any of our key committees 
 
 ## HEP Grants
 ```
-This state received no SC HEP grants from 2012-2017
+This state received no SC HEP grants from 2012-2019
 ```
 ## SC Contracts
 ```
-This state received no SC contracts from 2012-2018
+This state received no SC contracts from 2012-2019
 ```
 ## NSF MPS Grants
 ```
-In the past 6 years, this state has received:
-26 NSF MPS grants, totalling $4,517,455.00
+In the past 8 years, this state has received:
+30 NSF MPS grants, totalling $5,537,890.00
  
                                     Amount ($)
 Institution                   Year            
-NORTH DAKOTA STATE UNIVERSITY 2012    938649.0
-                              2013    540000.0
-                              2014    771465.0
-                              2015    131693.0
-                              2016    263718.0
-North Dakota State U Fargo    2015    475523.0
-UNIVERSITY OF NORTH DAKOTA    2012    140000.0
-                              2013    119051.0
-                              2014    291599.0
-                              2015    270000.0
-                              2016      2817.0
-                              2017    572940.0
+NORTH DAKOTA STATE U FARGO    2015      475523
+NORTH DAKOTA STATE UNIVERSITY 2012      938649
+                              2013      540000
+                              2014      771465
+                              2015      131693
+                              2016      263718
+                              2018      690435
+UNIVERSITY OF NORTH DAKOTA    2012      140000
+                              2013      119051
+                              2014      291599
+                              2015      270000
+                              2016        2817
+                              2017      572940
+                              2018      330000
 ```
 ---
 ---
 <a name="ND-00"></a>
 [Back to top](#top)
-## ND-00 -- Rep. Kevin Cramer (R) -- [Wikipedia](https://en.wikipedia.org/wiki/ND-00)
+## ND-00 -- Rep. Kelly Armstrong (R) -- [Wikipedia](https://en.wikipedia.org/wiki/ND-00)
 ### Committees
-Kevin Cramer is the #26 Republican on the House Committee on Energy and Commerce 
+Kelly Armstrong is not on any of our key committees 
 
 ### HEP Grants
 ```
-This district received no SC HEP grants from 2012-2017
+This district received no SC HEP grants from 2012-2019
 ```
 ### SC Contracts
 ```
-This district received no SC contracts from 2012-2018
+This district received no SC contracts from 2012-2019
 ```
 ### NSF MPS Grants
 ```
-In the past 6 years, this district has received: $4,517,455.00 in NSF MPS grants.
+In the past 8 years, this district has received: $5,537,890.00 in NSF MPS grants.
                                     Amount ($)
 Institution                   Year            
-NORTH DAKOTA STATE UNIVERSITY 2012    938649.0
-                              2013    540000.0
-                              2014    771465.0
-                              2015    131693.0
-                              2016    263718.0
-North Dakota State U Fargo    2015    475523.0
-UNIVERSITY OF NORTH DAKOTA    2012    140000.0
-                              2013    119051.0
-                              2014    291599.0
-                              2015    270000.0
-                              2016      2817.0
-                              2017    572940.0
+NORTH DAKOTA STATE U FARGO    2015      475523
+NORTH DAKOTA STATE UNIVERSITY 2012      938649
+                              2013      540000
+                              2014      771465
+                              2015      131693
+                              2016      263718
+                              2018      690435
+UNIVERSITY OF NORTH DAKOTA    2012      140000
+                              2013      119051
+                              2014      291599
+                              2015      270000
+                              2016        2817
+                              2017      572940
+                              2018      330000
 ```
 ---
