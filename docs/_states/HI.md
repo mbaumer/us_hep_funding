@@ -22,35 +22,33 @@ Brian Schatz is the #11 Democrat on the Senate Committee on Appropriations
 Brian Schatz is the #4 Democrat on the Senate Committee on Commerce, Science, and Transportation 
 
 ## HEP Grants
-```
 In the past 8 years, this state has received:
-25 HEP grants, totalling $12,561,000.00
- 
-                           Amount ($)
-Institution          Year            
-UNIVERSITY OF HAWAII 2012     1714000
-                     2013     2183000
-University of Hawaii 2014     1965000
-                     2015     1680000
-                     2016     1570000
-                     2017     1924000
-                     2018     1525000
+25 HEP grants, totalling <b> $12,561,000</b>
 ```
-## SC Contracts
+  Year  Institution             Amount ($)
+------  --------------------  ------------
+  2018  University of Hawaii     1,525,000
+  2017  University of Hawaii     1,924,000
+  2016  University of Hawaii     1,570,000
+  2015  University of Hawaii     1,680,000
+  2014  University of Hawaii     1,965,000
+  2013  UNIVERSITY OF HAWAII     2,183,000
+  2012  UNIVERSITY OF HAWAII     1,714,000
+```
+### SC Contracts
 ```
 This state received no SC contracts from 2012-2019
 ```
 ## NSF MPS Grants
-```
 In the past 8 years, this state has received:
-121 NSF MPS grants, totalling $44,593,977.00
- 
-                                                  Amount ($)
-Institution                                                 
-UNIVERSITY OF HAWAII SYSTEMS                        29694872
-CALIFORNIA ASSOCIATION FOR RESEARCH IN ASTRON        8093400
-CALIFORNIA ASSOCIATION FOR RESEARCH IN ASTRONOMY     6172037
-CHAMINADE UNIVERSITY OF HONOLULU                      633668
+105 NSF MPS grants, totalling <b> $45,289,273</b>
+```
+Institution                                         Amount ($)
+------------------------------------------------  ------------
+UNIVERSITY OF HAWAII SYSTEMS                        30,390,168
+CALIFORNIA ASSOCIATION FOR RESEARCH IN ASTRON        8,093,400
+CALIFORNIA ASSOCIATION FOR RESEARCH IN ASTRONOMY     6,172,037
+CHAMINADE UNIVERSITY OF HONOLULU                       633,668
 ```
 ---
 ---
@@ -63,34 +61,35 @@ Ed Case is the #6 Democrat on the House Appropriations Subcommittee on Commerce,
 Ed Case is the #30 Democrat on the House Committee on Appropriations 
 
 ### HEP Grants
+In the past 8 years, this district has received:<b> $8,664,000 </b>in SC HEP grants.
 ```
-In the past 8 years, this district has received: $8,664,000.00 in SC HEP grants.
-                           Amount ($)
-Institution          Year            
-University of Hawaii 2014     1965000
-                     2015     1680000
-                     2016     1570000
-                     2017     1924000
-                     2018     1525000
+Institution             Amount ($)    Start  End      Principal Investigator    Project Title
+--------------------  ------------  -------  -------  ------------------------  ---------------------------------------------------------------------------------------------------------
+University of Hawaii       340,000     2017  Ongoing  Gorham, Peter             Research in New High Energy Physics Detectors with Picosecond Timing Capabilities
+University of Hawaii         9,000     2017  2018     Vahsen, Sven              Negative Ion Drift Time Projection Chamber Development for High-Resolution Tracking
+University of Hawaii        70,000     2017  2018     Varner, Gary              High-speed, bunch-by-bunch x-ray beam diagnostics for monitoring nanometer dimension bunches in SuperKEKB
+University of Hawaii     7,495,000     2014  Ongoing  Browder, Thomas           Research in High Energy Physics
+University of Hawaii       600,000     2014  Ongoing  Maricic, Jelena           Resolving Reactor Antineutrino Anomaly with Strong Antineutrino Source
+University of Hawaii       150,000     2014  2015     Vahsen, Sven Einar        Participation in the Belle and Belle II Experiments at the Intensity Frontier
 ```
 ### SC Contracts
 ```
 This district received no SC contracts from 2012-2019
 ```
 ### NSF MPS Grants
+In the past 8 years, this district has received:<b> $30,797,663 </b>in NSF MPS grants.
 ```
-In the past 8 years, this district has received: $30,102,367.00 in NSF MPS grants.
-                                       Amount ($)
-Institution                      Year            
-CHAMINADE UNIVERSITY OF HONOLULU 2018      633668
-UNIVERSITY OF HAWAII SYSTEMS     2012     5649430
-                                 2013     4223361
-                                 2014     2890047
-                                 2015     3932297
-                                 2016     4488000
-                                 2017     4807733
-                                 2018     3287739
-                                 2019      190092
+  Year  Institution                         Amount ($)
+------  --------------------------------  ------------
+  2019  UNIVERSITY OF HAWAII SYSTEMS           190,092
+  2018  CHAMINADE UNIVERSITY OF HONOLULU       633,668
+  2018  UNIVERSITY OF HAWAII SYSTEMS         3,571,275
+  2017  UNIVERSITY OF HAWAII SYSTEMS         4,993,450
+  2016  UNIVERSITY OF HAWAII SYSTEMS         4,488,000
+  2015  UNIVERSITY OF HAWAII SYSTEMS         3,932,297
+  2014  UNIVERSITY OF HAWAII SYSTEMS         2,935,106
+  2013  UNIVERSITY OF HAWAII SYSTEMS         4,404,345
+  2012  UNIVERSITY OF HAWAII SYSTEMS         5,649,430
 ```
 ---
 <a name="HI-02"></a>
@@ -108,18 +107,18 @@ This district received no SC HEP grants from 2012-2019
 This district received no SC contracts from 2012-2019
 ```
 ### NSF MPS Grants
+In the past 8 years, this district has received:<b> $14,491,610 </b>in NSF MPS grants.
 ```
-In the past 8 years, this district has received: $14,491,610.00 in NSF MPS grants.
-                                                       Amount ($)
-Institution                                      Year            
-CALIFORNIA ASSOCIATION FOR RESEARCH IN ASTRON    2012     1182447
-                                                 2013     1172838
-                                                 2014     4000000
-                                                 2015     1351813
-                                                 2016      386302
-CALIFORNIA ASSOCIATION FOR RESEARCH IN ASTRONOMY 2017     2132829
-                                                 2018     4039208
-UNIVERSITY OF HAWAII SYSTEMS                     2015       87873
-                                                 2016      138300
+  Year  Institution                                         Amount ($)
+------  ------------------------------------------------  ------------
+  2018  CALIFORNIA ASSOCIATION FOR RESEARCH IN ASTRONOMY     4,039,208
+  2017  CALIFORNIA ASSOCIATION FOR RESEARCH IN ASTRONOMY     2,132,829
+  2016  CALIFORNIA ASSOCIATION FOR RESEARCH IN ASTRON          386,302
+  2016  UNIVERSITY OF HAWAII SYSTEMS                           138,300
+  2015  CALIFORNIA ASSOCIATION FOR RESEARCH IN ASTRON        1,351,813
+  2015  UNIVERSITY OF HAWAII SYSTEMS                            87,873
+  2014  CALIFORNIA ASSOCIATION FOR RESEARCH IN ASTRON        4,000,000
+  2013  CALIFORNIA ASSOCIATION FOR RESEARCH IN ASTRON        1,172,838
+  2012  CALIFORNIA ASSOCIATION FOR RESEARCH IN ASTRON        1,182,447
 ```
 ---

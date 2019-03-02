@@ -21,21 +21,20 @@ Mike Crapo is not on any of our key committees
 ```
 This state received no SC HEP grants from 2012-2019
 ```
-## SC Contracts
+### SC Contracts
 ```
 This state received no SC contracts from 2012-2019
 ```
 ## NSF MPS Grants
-```
 In the past 8 years, this state has received:
-74 NSF MPS grants, totalling $9,967,872.00
- 
-                                    Amount ($)
-Institution                                   
-BOISE STATE UNIVERSITY                 6007369
-IDAHO STATE UNIVERSITY                 2158908
-REGENTS OF THE UNIVERSITY OF IDAHO     1264940
-UNIVERSITY OF IDAHO                     536655
+66 NSF MPS grants, totalling <b> $10,124,031</b>
+```
+Institution                           Amount ($)
+----------------------------------  ------------
+BOISE STATE UNIVERSITY                 6,007,369
+IDAHO STATE UNIVERSITY                 2,158,908
+REGENTS OF THE UNIVERSITY OF IDAHO     1,421,099
+UNIVERSITY OF IDAHO                      536,655
 ```
 ---
 ---
@@ -54,15 +53,15 @@ This district received no SC HEP grants from 2012-2019
 This district received no SC contracts from 2012-2019
 ```
 ### NSF MPS Grants
+In the past 8 years, this district has received:<b> $1,957,754 </b>in NSF MPS grants.
 ```
-In the past 8 years, this district has received: $1,801,595.00 in NSF MPS grants.
-                                         Amount ($)
-Institution                        Year            
-REGENTS OF THE UNIVERSITY OF IDAHO 2013     1139506
-                                   2016      203083
-                                   2017     -132768
-                                   2018       55119
-UNIVERSITY OF IDAHO                2012      536655
+  Year  Institution                           Amount ($)
+------  ----------------------------------  ------------
+  2018  REGENTS OF THE UNIVERSITY OF IDAHO        55,119
+  2017  REGENTS OF THE UNIVERSITY OF IDAHO        23,391
+  2016  REGENTS OF THE UNIVERSITY OF IDAHO       203,083
+  2013  REGENTS OF THE UNIVERSITY OF IDAHO     1,139,506
+  2012  UNIVERSITY OF IDAHO                      536,655
 ```
 ---
 <a name="ID-02"></a>
@@ -82,24 +81,24 @@ This district received no SC HEP grants from 2012-2019
 This district received no SC contracts from 2012-2019
 ```
 ### NSF MPS Grants
+In the past 8 years, this district has received:<b> $8,166,277 </b>in NSF MPS grants.
 ```
-In the past 8 years, this district has received: $8,166,277.00 in NSF MPS grants.
-                             Amount ($)
-Institution            Year            
-BOISE STATE UNIVERSITY 2012      653049
-                       2013      548123
-                       2014      912789
-                       2015      798772
-                       2016      417882
-                       2017     1721555
-                       2018      874072
-                       2019       81127
-IDAHO STATE UNIVERSITY 2012      541671
-                       2013      533425
-                       2014       18310
-                       2015      303747
-                       2016      264598
-                       2017      246678
-                       2018      250479
+  Year  Institution               Amount ($)
+------  ----------------------  ------------
+  2019  BOISE STATE UNIVERSITY        81,127
+  2018  BOISE STATE UNIVERSITY       874,072
+  2018  IDAHO STATE UNIVERSITY       250,479
+  2017  BOISE STATE UNIVERSITY     1,721,555
+  2017  IDAHO STATE UNIVERSITY       246,678
+  2016  BOISE STATE UNIVERSITY       417,882
+  2016  IDAHO STATE UNIVERSITY       264,598
+  2015  BOISE STATE UNIVERSITY       798,772
+  2015  IDAHO STATE UNIVERSITY       303,747
+  2014  BOISE STATE UNIVERSITY       912,789
+  2014  IDAHO STATE UNIVERSITY        18,310
+  2013  BOISE STATE UNIVERSITY       548,123
+  2013  IDAHO STATE UNIVERSITY       533,425
+  2012  BOISE STATE UNIVERSITY       653,049
+  2012  IDAHO STATE UNIVERSITY       541,671
 ```
 ---

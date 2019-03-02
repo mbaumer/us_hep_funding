@@ -25,23 +25,22 @@ Angus S. King, Jr. is the #8 Independent on the Senate Committee on Energy and N
 ```
 This state received no SC HEP grants from 2012-2019
 ```
-## SC Contracts
+### SC Contracts
 ```
 This state received no SC contracts from 2012-2019
 ```
 ## NSF MPS Grants
-```
 In the past 8 years, this state has received:
-43 NSF MPS grants, totalling $8,012,974.00
- 
-                                       Amount ($)
-Institution                                      
-UNIVERSITY OF MAINE SYSTEM                3619202
-BOWDOIN COLLEGE                           1258970
-COLBY COLLEGE                             1165692
-UNIVERSITY OF NEW ENGLAND                  792365
-PRESIDENT & TRUSTEES OF BATES COLLEGE      777191
-BIGELOW LABORATORY FOR OCEAN SCIENCES      399554
+41 NSF MPS grants, totalling <b> $8,123,613</b>
+```
+Institution                              Amount ($)
+-------------------------------------  ------------
+UNIVERSITY OF MAINE SYSTEM                3,619,202
+BOWDOIN COLLEGE                           1,258,970
+COLBY COLLEGE                             1,165,692
+PRESIDENT & TRUSTEES OF BATES COLLEGE       887,830
+UNIVERSITY OF NEW ENGLAND                   792,365
+BIGELOW LABORATORY FOR OCEAN SCIENCES       399,554
 ```
 ---
 ---
@@ -60,25 +59,25 @@ This district received no SC HEP grants from 2012-2019
 This district received no SC contracts from 2012-2019
 ```
 ### NSF MPS Grants
+In the past 8 years, this district has received:<b> $3,408,581 </b>in NSF MPS grants.
 ```
-In the past 8 years, this district has received: $3,408,581.00 in NSF MPS grants.
-                                            Amount ($)
-Institution                           Year            
-BIGELOW LABORATORY FOR OCEAN SCIENCES 2018      399554
-BOWDOIN COLLEGE                       2012      149980
-                                      2013       62000
-                                      2014      292514
-                                      2015      106000
-                                      2016       98600
-                                      2017      112061
-                                      2018      437815
-COLBY COLLEGE                         2013      378670
-                                      2014       29690
-                                      2015       22957
-                                      2017      332234
-                                      2018      194141
-UNIVERSITY OF NEW ENGLAND             2013      417785
-                                      2015      374580
+  Year  Institution                              Amount ($)
+------  -------------------------------------  ------------
+  2018  BIGELOW LABORATORY FOR OCEAN SCIENCES       399,554
+  2018  BOWDOIN COLLEGE                             437,815
+  2018  COLBY COLLEGE                               194,141
+  2017  BOWDOIN COLLEGE                             112,061
+  2017  COLBY COLLEGE                               332,234
+  2016  BOWDOIN COLLEGE                              98,600
+  2015  BOWDOIN COLLEGE                             106,000
+  2015  COLBY COLLEGE                                22,957
+  2015  UNIVERSITY OF NEW ENGLAND                   374,580
+  2014  BOWDOIN COLLEGE                             292,514
+  2014  COLBY COLLEGE                                29,690
+  2013  BOWDOIN COLLEGE                              62,000
+  2013  COLBY COLLEGE                               378,670
+  2013  UNIVERSITY OF NEW ENGLAND                   417,785
+  2012  BOWDOIN COLLEGE                             149,980
 ```
 ---
 <a name="ME-02"></a>
@@ -96,22 +95,21 @@ This district received no SC HEP grants from 2012-2019
 This district received no SC contracts from 2012-2019
 ```
 ### NSF MPS Grants
+In the past 8 years, this district has received:<b> $4,715,032 </b>in NSF MPS grants.
 ```
-In the past 8 years, this district has received: $4,604,393.00 in NSF MPS grants.
-                                            Amount ($)
-Institution                           Year            
-COLBY COLLEGE                         2012      208000
-PRESIDENT & TRUSTEES OF BATES COLLEGE 2012      518036
-                                      2013       56000
-                                      2014       41450
-                                      2015     -110639
-                                      2016       12000
-                                      2018      260344
-UNIVERSITY OF MAINE SYSTEM            2012     1800000
-                                      2013      722500
-                                      2014      214352
-                                      2015       18907
-                                      2017      327543
-                                      2018      535900
+  Year  Institution                              Amount ($)
+------  -------------------------------------  ------------
+  2018  PRESIDENT & TRUSTEES OF BATES COLLEGE       260,344
+  2018  UNIVERSITY OF MAINE SYSTEM                  535,900
+  2017  UNIVERSITY OF MAINE SYSTEM                  327,543
+  2016  PRESIDENT & TRUSTEES OF BATES COLLEGE        12,000
+  2015  UNIVERSITY OF MAINE SYSTEM                   18,907
+  2014  PRESIDENT & TRUSTEES OF BATES COLLEGE        41,450
+  2014  UNIVERSITY OF MAINE SYSTEM                  214,352
+  2013  PRESIDENT & TRUSTEES OF BATES COLLEGE        56,000
+  2013  UNIVERSITY OF MAINE SYSTEM                  722,500
+  2012  COLBY COLLEGE                               208,000
+  2012  PRESIDENT & TRUSTEES OF BATES COLLEGE       518,036
+  2012  UNIVERSITY OF MAINE SYSTEM                1,800,000
 ```
 ---

@@ -18,49 +18,46 @@ Roy Blunt is the #3 Republican on the Senate Committee on Commerce, Science, and
 Josh Hawley is not on any of our key committees 
 
 ## HEP Grants
-```
 In the past 8 years, this state has received:
-13 HEP grants, totalling $4,308,000.00
- 
-                                         Amount ($)
-Institution                        Year            
-WASHINGTON UNIVERSITY              2012      860000
-                                   2013      826000
-Washington University              2014      527000
-Washington University in St. Louis 2015      480000
-                                   2016      580000
-                                   2017      220000
-                                   2018      815000
+13 HEP grants, totalling <b> $4,308,000</b>
 ```
-## SC Contracts
+  Year  Institution                           Amount ($)
+------  ----------------------------------  ------------
+  2018  Washington University in St. Louis       815,000
+  2017  Washington University in St. Louis       220,000
+  2016  Washington University in St. Louis       580,000
+  2015  Washington University in St. Louis       480,000
+  2014  Washington University                    527,000
+  2013  WASHINGTON UNIVERSITY                    826,000
+  2012  WASHINGTON UNIVERSITY                    860,000
 ```
+### SC Contracts
 In the past 8 years, this state has received:
-7 Office of Science contracts, totalling $44,650.00
- 
-                                Amount ($)
-Vendor                                    
-FISHNET SECURITY, INC                22004
-AFTERMARKET TECHNOLOGIES, INC.       14080
-WORLD WIDE TECHNOLOGY, INC.           5408
-ABM FEDERAL SALES, INC.               3158
+6 Office of Science contracts, totalling <b> $44,654</b>
+```
+Vendor                            Amount ($)  Item
+------------------------------  ------------  ---------------
+FISHNET SECURITY, INC                 22,005  ADP SOFTWARE
+AFTERMARKET TECHNOLOGIES, INC.        14,081  ADP SOFTWARE
+WORLD WIDE TECHNOLOGY, INC.            5,410  ADP SOFTWARE
+ABM FEDERAL SALES, INC.                3,158  OFFICE SUPPLIES
 ```
 ## NSF MPS Grants
-```
 In the past 8 years, this state has received:
-326 NSF MPS grants, totalling $50,838,816.00
- 
-                                     Amount ($)
-Institution                                    
-UNIVERSITY OF MISSOURI SYSTEM          27409408
-WASHINGTON UNIVERSITY, THE             18802250
-SAINT LOUIS UNIVERSITY                  1553756
-MISSOURI STATE UNIVERSITY               1185382
-MISSOURI SYSTEM, UNIVERSITY OF           986455
-NORTHWEST MISSOURI STATE UNIVERSITY      469000
-WASHINGTON UNIVERSITY                    251416
-PII REDACTED                             150000
-U OF MISSOURI COLUMBIA                    24300
-TRUMAN STATE UNIVERSITY                    6849
+309 NSF MPS grants, totalling <b> $51,959,837</b>
+```
+Institution                            Amount ($)
+-----------------------------------  ------------
+UNIVERSITY OF MISSOURI SYSTEM          28,108,639
+WASHINGTON UNIVERSITY, THE             19,097,647
+SAINT LOUIS UNIVERSITY                  1,614,065
+MISSOURI STATE UNIVERSITY               1,185,382
+MISSOURI SYSTEM, UNIVERSITY OF            986,455
+NORTHWEST MISSOURI STATE UNIVERSITY       469,000
+WASHINGTON UNIVERSITY                     317,500
+PII REDACTED                              150,000
+U OF MISSOURI COLUMBIA                     24,300
+TRUMAN STATE UNIVERSITY                     6,849
 ```
 ---
 ---
@@ -71,46 +68,46 @@ TRUMAN STATE UNIVERSITY                    6849
 Wm. Lacy Clay is not on any of our key committees 
 
 ### HEP Grants
+In the past 8 years, this district has received:<b> $2,622,000 </b>in SC HEP grants.
 ```
-In the past 8 years, this district has received: $2,622,000.00 in SC HEP grants.
-                                         Amount ($)
-Institution                        Year            
-Washington University              2014      527000
-Washington University in St. Louis 2015      480000
-                                   2016      580000
-                                   2017      220000
-                                   2018      815000
+Institution                           Amount ($)    Start  End      Principal Investigator    Project Title
+----------------------------------  ------------  -------  -------  ------------------------  -----------------------------------------------------------------------------
+Washington University in St. Louis     1,035,000     2017  Ongoing  Buckley, James            Theoretical and Experimental Studies in Particle Physics and Cosmology
+Washington University in St. Louis       200,000     2016  Ongoing  Buckley, James            Development of High-QE GaN Photodetectors for Liquid Noble Particle Detectors
+Washington University in St. Louis       860,000     2015  2018     Buckley, James            Studies In Quantum Field Theory And Astroparticle Physics
+Washington University                    527,000     2014  2015     Buckley, James            STUDIES IN QUANTUM FIELD THEORY AND ASTROPARTICLE PHYSICS
 ```
 ### SC Contracts
+In the past 8 years, this district has received:
+2 Office of Science contracts, totalling <b> $5,410</b>
 ```
-In the past 8 years, this district has received: $5,408.00 in SC contracts.
-                                  Amount ($)
-Vendor                      Year            
-WORLD WIDE TECHNOLOGY, INC. 2012        5408
+  Year  Vendor                         Amount ($)  Item
+------  ---------------------------  ------------  ------------
+  2012  WORLD WIDE TECHNOLOGY, INC.         5,410  ADP SOFTWARE
 ```
 ### NSF MPS Grants
+In the past 8 years, this district has received:<b> $21,757,767 </b>in NSF MPS grants.
 ```
-In the past 8 years, this district has received: $21,631,374.00 in NSF MPS grants.
-                                     Amount ($)
-Institution                    Year            
-MISSOURI SYSTEM, UNIVERSITY OF 2012      354721
-SAINT LOUIS UNIVERSITY         2012      142248
-                               2013      899212
-                               2015      327454
-                               2016      184842
-UNIVERSITY OF MISSOURI SYSTEM  2013     1098481
-                               2014      370000
-                               2015      376673
-                               2016      379673
-                               2017      480000
-                               2018     1382500
-WASHINGTON UNIVERSITY          2015      251416
-WASHINGTON UNIVERSITY, THE     2013     1964604
-                               2014     1055262
-                               2015     2016667
-                               2016     3324231
-                               2017     3436323
-                               2018     3587067
+  Year  Institution                       Amount ($)
+------  ------------------------------  ------------
+  2018  WASHINGTON UNIVERSITY, THE         3,587,067
+  2018  UNIVERSITY OF MISSOURI SYSTEM      1,382,500
+  2017  WASHINGTON UNIVERSITY, THE         3,436,323
+  2017  UNIVERSITY OF MISSOURI SYSTEM        480,000
+  2016  WASHINGTON UNIVERSITY, THE         3,324,231
+  2016  UNIVERSITY OF MISSOURI SYSTEM        379,673
+  2016  SAINT LOUIS UNIVERSITY               184,842
+  2015  WASHINGTON UNIVERSITY, THE         2,016,667
+  2015  WASHINGTON UNIVERSITY                317,500
+  2015  UNIVERSITY OF MISSOURI SYSTEM        376,673
+  2015  SAINT LOUIS UNIVERSITY               387,763
+  2014  WASHINGTON UNIVERSITY, THE         1,055,262
+  2014  UNIVERSITY OF MISSOURI SYSTEM        370,000
+  2013  WASHINGTON UNIVERSITY, THE         1,964,604
+  2013  UNIVERSITY OF MISSOURI SYSTEM      1,098,481
+  2013  SAINT LOUIS UNIVERSITY               899,212
+  2012  SAINT LOUIS UNIVERSITY               142,248
+  2012  MISSOURI SYSTEM, UNIVERSITY OF       354,721
 ```
 ---
 <a name="MO-02"></a>
@@ -124,13 +121,14 @@ Ann Wagner is not on any of our key committees
 This district received no SC HEP grants from 2012-2019
 ```
 ### SC Contracts
+In the past 8 years, this district has received:
+3 Office of Science contracts, totalling <b> $17,239</b>
 ```
-In the past 8 years, this district has received: $17,238.00 in SC contracts.
-                                     Amount ($)
-Vendor                         Year            
-ABM FEDERAL SALES, INC.        2014        3158
-AFTERMARKET TECHNOLOGIES, INC. 2013        5095
-                               2014        8985
+  Year  Vendor                            Amount ($)  Item
+------  ------------------------------  ------------  ---------------
+  2014  ABM FEDERAL SALES, INC.                3,158  OFFICE SUPPLIES
+  2014  AFTERMARKET TECHNOLOGIES, INC.         8,985  ADP SOFTWARE
+  2013  AFTERMARKET TECHNOLOGIES, INC.         5,096  ADP SOFTWARE
 ```
 ### NSF MPS Grants
 ```
@@ -144,24 +142,23 @@ This district received no NSF MPS grants from 2012-2019
 Blaine Luetkemeyer is not on any of our key committees 
 
 ### HEP Grants
+In the past 8 years, this district has received:<b> $1,686,000 </b>in SC HEP grants.
 ```
-In the past 8 years, this district has received: $1,686,000.00 in SC HEP grants.
-                            Amount ($)
-Institution           Year            
-WASHINGTON UNIVERSITY 2012      860000
-                      2013      826000
+Institution              Amount ($)    Start    End  Principal Investigator    Project Title
+---------------------  ------------  -------  -----  ------------------------  ---------------------------------------------------------
+WASHINGTON UNIVERSITY     1,686,000     2012   2014  Bender, Ogilvie, Bernard  Studies in Quantum Field Theory and Astroparticle Physics
 ```
 ### SC Contracts
 ```
 This district received no SC contracts from 2012-2019
 ```
 ### NSF MPS Grants
+In the past 8 years, this district has received:<b> $3,713,493 </b>in NSF MPS grants.
 ```
-In the past 8 years, this district has received: $3,418,096.00 in NSF MPS grants.
-                                 Amount ($)
-Institution                Year            
-WASHINGTON UNIVERSITY, THE 2012     3390066
-                           2013       28030
+  Year  Institution                   Amount ($)
+------  --------------------------  ------------
+  2013  WASHINGTON UNIVERSITY, THE        28,030
+  2012  WASHINGTON UNIVERSITY, THE     3,685,463
 ```
 ---
 <a name="MO-04"></a>
@@ -179,19 +176,19 @@ This district received no SC HEP grants from 2012-2019
 This district received no SC contracts from 2012-2019
 ```
 ### NSF MPS Grants
+In the past 8 years, this district has received:<b> $11,356,323 </b>in NSF MPS grants.
 ```
-In the past 8 years, this district has received: $10,775,229.00 in NSF MPS grants.
-                                    Amount ($)
-Institution                   Year            
-PII REDACTED                  2017      150000
-U OF MISSOURI COLUMBIA        2015       24300
-UNIVERSITY OF MISSOURI SYSTEM 2013     1443419
-                              2014     1186526
-                              2015     2278164
-                              2016      876357
-                              2017     1998153
-                              2018     3121805
-                              2019     -303495
+  Year  Institution                      Amount ($)
+------  -----------------------------  ------------
+  2019  UNIVERSITY OF MISSOURI SYSTEM        53,058
+  2018  UNIVERSITY OF MISSOURI SYSTEM     3,121,805
+  2017  PII REDACTED                        150,000
+  2017  UNIVERSITY OF MISSOURI SYSTEM     1,998,153
+  2016  UNIVERSITY OF MISSOURI SYSTEM       876,357
+  2015  U OF MISSOURI COLUMBIA               24,300
+  2015  UNIVERSITY OF MISSOURI SYSTEM     2,278,164
+  2014  UNIVERSITY OF MISSOURI SYSTEM     1,186,526
+  2013  UNIVERSITY OF MISSOURI SYSTEM     1,667,960
 ```
 ---
 <a name="MO-05"></a>
@@ -205,22 +202,22 @@ Emanuel Cleaver is not on any of our key committees
 This district received no SC HEP grants from 2012-2019
 ```
 ### SC Contracts
+In the past 8 years, this district has received:
+1 Office of Science contracts, totalling <b> $22,005</b>
 ```
-In the past 8 years, this district has received: $22,004.00 in SC contracts.
-                            Amount ($)
-Vendor                Year            
-FISHNET SECURITY, INC 2012       22004
+  Year  Vendor                   Amount ($)  Item
+------  ---------------------  ------------  ------------
+  2012  FISHNET SECURITY, INC        22,005  ADP SOFTWARE
 ```
 ### NSF MPS Grants
+In the past 8 years, this district has received:<b> $1,879,712 </b>in NSF MPS grants.
 ```
-In the past 8 years, this district has received: $1,761,575.00 in NSF MPS grants.
-                                    Amount ($)
-Institution                   Year            
-UNIVERSITY OF MISSOURI SYSTEM 2012      278533
-                              2013      345000
-                              2016      464224
-                              2017      791955
-                              2018     -118137
+  Year  Institution                      Amount ($)
+------  -----------------------------  ------------
+  2017  UNIVERSITY OF MISSOURI SYSTEM       791,955
+  2016  UNIVERSITY OF MISSOURI SYSTEM       464,224
+  2013  UNIVERSITY OF MISSOURI SYSTEM       345,000
+  2012  UNIVERSITY OF MISSOURI SYSTEM       278,533
 ```
 ---
 <a name="MO-06"></a>
@@ -238,16 +235,16 @@ This district received no SC HEP grants from 2012-2019
 This district received no SC contracts from 2012-2019
 ```
 ### NSF MPS Grants
+In the past 8 years, this district has received:<b> $475,849 </b>in NSF MPS grants.
 ```
-In the past 8 years, this district has received: $475,849.00 in NSF MPS grants.
-                                          Amount ($)
-Institution                         Year            
-NORTHWEST MISSOURI STATE UNIVERSITY 2012       57000
-                                    2013       57000
-                                    2014       55000
-                                    2018      300000
-TRUMAN STATE UNIVERSITY             2013        3312
-                                    2014        3537
+  Year  Institution                            Amount ($)
+------  -----------------------------------  ------------
+  2018  NORTHWEST MISSOURI STATE UNIVERSITY       300,000
+  2014  NORTHWEST MISSOURI STATE UNIVERSITY        55,000
+  2014  TRUMAN STATE UNIVERSITY                     3,537
+  2013  NORTHWEST MISSOURI STATE UNIVERSITY        57,000
+  2013  TRUMAN STATE UNIVERSITY                     3,312
+  2012  NORTHWEST MISSOURI STATE UNIVERSITY        57,000
 ```
 ---
 <a name="MO-07"></a>
@@ -265,16 +262,16 @@ This district received no SC HEP grants from 2012-2019
 This district received no SC contracts from 2012-2019
 ```
 ### NSF MPS Grants
+In the past 8 years, this district has received:<b> $1,185,382 </b>in NSF MPS grants.
 ```
-In the past 8 years, this district has received: $1,185,382.00 in NSF MPS grants.
-                                Amount ($)
-Institution               Year            
-MISSOURI STATE UNIVERSITY 2012      246414
-                          2013      215318
-                          2014      109567
-                          2016      346044
-                          2017      111121
-                          2018      156918
+  Year  Institution                  Amount ($)
+------  -------------------------  ------------
+  2018  MISSOURI STATE UNIVERSITY       156,918
+  2017  MISSOURI STATE UNIVERSITY       111,121
+  2016  MISSOURI STATE UNIVERSITY       346,044
+  2014  MISSOURI STATE UNIVERSITY       109,567
+  2013  MISSOURI STATE UNIVERSITY       215,318
+  2012  MISSOURI STATE UNIVERSITY       246,414
 ```
 ---
 <a name="MO-08"></a>
@@ -292,18 +289,18 @@ This district received no SC HEP grants from 2012-2019
 This district received no SC contracts from 2012-2019
 ```
 ### NSF MPS Grants
+In the past 8 years, this district has received:<b> $9,587,044 </b>in NSF MPS grants.
 ```
-In the past 8 years, this district has received: $9,587,044.00 in NSF MPS grants.
-                                     Amount ($)
-Institution                    Year            
-MISSOURI SYSTEM, UNIVERSITY OF 2012      384797
-UNIVERSITY OF MISSOURI SYSTEM  2012      758454
-                               2013     1341393
-                               2014      424254
-                               2015     1303288
-                               2016     1071454
-                               2017     2595407
-                               2018     1479816
-                               2019      228181
+  Year  Institution                       Amount ($)
+------  ------------------------------  ------------
+  2019  UNIVERSITY OF MISSOURI SYSTEM        228,181
+  2018  UNIVERSITY OF MISSOURI SYSTEM      1,479,816
+  2017  UNIVERSITY OF MISSOURI SYSTEM      2,595,407
+  2016  UNIVERSITY OF MISSOURI SYSTEM      1,071,454
+  2015  UNIVERSITY OF MISSOURI SYSTEM      1,303,288
+  2014  UNIVERSITY OF MISSOURI SYSTEM        424,254
+  2013  UNIVERSITY OF MISSOURI SYSTEM      1,341,393
+  2012  MISSOURI SYSTEM, UNIVERSITY OF       384,797
+  2012  UNIVERSITY OF MISSOURI SYSTEM        758,454
 ```
 ---

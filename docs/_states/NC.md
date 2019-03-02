@@ -16,48 +16,58 @@ Richard Burr is not on any of our key committees
 Thom Tillis is not on any of our key committees 
 
 ## HEP Grants
-```
 In the past 8 years, this state has received:
-25 HEP grants, totalling $10,417,000.00
- 
-                                   Amount ($)
-Institution                                  
-Duke University                       7886000
-DUKE UNIVERSITY                       1916000
-North Carolina State University        615000
-U. OF NORTH CAROLINA, CHAPEL HILL           0
+25 HEP grants, totalling <b> $10,417,000</b>
 ```
-## SC Contracts
+Institution                          Amount ($)
+---------------------------------  ------------
+Duke University                       7,886,000
+DUKE UNIVERSITY                       1,916,000
+North Carolina State University         615,000
+U. OF NORTH CAROLINA, CHAPEL HILL             0
 ```
+### SC Contracts
 In the past 8 years, this state has received:
-6 Office of Science contracts, totalling $-12,173.00
- 
-                                    Amount ($)
-Vendor                        Year            
-CLEMENTS BERNARD MILLER PLLC  2012           0
-                              2013       -4510
-                              2014      -10710
-DUKE ENERGY CORPORATION       2015          -2
-OXFORD UNIVERSITY PRESS, INC. 2012        3049
+1 Office of Science contracts, totalling <b> $3,049</b>
+```
+  Year  Vendor                           Amount ($)  Item
+------  -----------------------------  ------------  --------------------------
+  2012  OXFORD UNIVERSITY PRESS, INC.         3,049  NEWSPAPERS AND PERIODICALS
 ```
 ## NSF MPS Grants
-```
 In the past 8 years, this state has received:
-929 NSF MPS grants, totalling $185,623,627.00
- 
-                                             Amount ($)
-Institution                                            
-UNIVERSITY OF NORTH CAROLINA AT CHAPEL HILL    67060279
-DUKE UNIVERSITY                                49105809
-NORTH CAROLINA STATE UNIVERSITY                42719763
-U OF NC CHAPEL HILL                             4285079
-NORTH CAROLINA CENTRAL UNIVERSITY               3882429
-WAKE FOREST UNIVERSITY                          3119586
-UNIVERSITY OF NORTH CAROLINA AT CHARLOTTE       2250004
-UNIVERSITY OF NORTH CAROLINA AT GREENSBORO      2181712
-NORTH CAROLINA STATE U                          2140404
-UNIVERSITY OF NORTH CAROLINA AT WILMINGTON      1637391
-and  18  other institutions.
+864 NSF MPS grants, totalling <b> $189,447,677</b>
+```
+Institution                                                   Amount ($)
+----------------------------------------------------------  ------------
+UNIVERSITY OF NORTH CAROLINA AT CHAPEL HILL                   67,871,607
+DUKE UNIVERSITY                                               50,142,055
+NORTH CAROLINA STATE UNIVERSITY                               44,264,991
+U OF NC CHAPEL HILL                                            4,285,079
+NORTH CAROLINA CENTRAL UNIVERSITY                              3,882,429
+WAKE FOREST UNIVERSITY                                         3,119,586
+UNIVERSITY OF NORTH CAROLINA AT CHARLOTTE                      2,282,157
+UNIVERSITY OF NORTH CAROLINA AT GREENSBORO                     2,181,712
+NORTH CAROLINA STATE U                                         2,179,404
+UNIVERSITY OF NORTH CAROLINA AT WILMINGTON                     1,637,391
+UNIVERSITY OF NORTH CAROLINA AT CHARLOTTE, THE                 1,612,320
+FAYETTEVILLE STATE UNIVERSITY                                    801,900
+WINSTON-SALEM STATE UNIVERSITY (INC)                             748,663
+TRUSTEES OF DAVIDSON COLLEGE, THE                                593,917
+APPALACHIAN STATE UNIVERSITY                                     592,316
+NORTH CAROLINA AGRICULTURAL AND TECHNICAL STA                    563,412
+HIGH POINT UNIVERSITY                                            522,086
+EAST CAROLINA UNIVERSITY                                         407,468
+NORTH CAROLINA AGRICULTURAL AND TECHNICAL STATE UNIVERSITY       357,195
+PII REDACTED                                                     300,000
+APPALACHIAN STATE UNIV                                           299,891
+UNIVERSITY OF NORTH CAROLINA AT ASHEVILLE                        279,772
+ELIZABETH CITY STATE UNIVERSITY                                  237,423
+UNIVERSITY OF NORTH CAROLINA AT PEMBROKE                         156,951
+U OF NC CHARLOTTE                                                 59,953
+ELON UNIVERSITY                                                   38,685
+NATIONAL INSTITUTE OF STATISTICAL SCIENCES                        19,890
+WAKE FOREST UNIVERSITY HEALTH SCIENCES                             9,424
 ```
 ---
 ---
@@ -68,37 +78,37 @@ and  18  other institutions.
 G. K. Butterfield is the #8 Democrat on the House Committee on Energy and Commerce 
 
 ### HEP Grants
+In the past 8 years, this district has received:<b> $7,886,000 </b>in SC HEP grants.
 ```
-In the past 8 years, this district has received: $7,886,000.00 in SC HEP grants.
-                      Amount ($)
-Institution     Year            
-Duke University 2014     1417000
-                2015     2104000
-                2016     1375000
-                2017     1490000
-                2018     1500000
+Institution        Amount ($)    Start  End      Principal Investigator    Project Title
+---------------  ------------  -------  -------  ------------------------  ------------------------------------------------------------------------------------
+Duke University       750,000     2015  Ongoing  Barbeau, Phillip          Coherent Neutrino-Nucleus Scattering: A Tool to Search for New Physics
+Duke University     5,649,000     2015  Ongoing  Walter, Christopher       Research in High Energy Physics at Duke University
+Duke University       140,000     2014  2016     Katsouleas, Thomas C.     Theoretical and Experimental Studies of Plasma Acceleration of Electrons and Protons
+Duke University     1,297,000     2014  2015     Kotwal, Ashutosh          Research in High Energy Physics at Duke University
+Duke University        50,000     2014  2017     Kotwal, Ashutosh          W Boson Mass Measurement at CDF
 ```
 ### SC Contracts
 ```
 This district received no SC contracts from 2012-2019
 ```
 ### NSF MPS Grants
+In the past 8 years, this district has received:<b> $48,362,191 </b>in NSF MPS grants.
 ```
-In the past 8 years, this district has received: $47,430,877.00 in NSF MPS grants.
-                                        Amount ($)
-Institution                       Year            
-DUKE UNIVERSITY                   2013     7345989
-                                  2014     5781882
-                                  2015     5841523
-                                  2016     5444519
-                                  2017     5361111
-                                  2018    13386001
-ELIZABETH CITY STATE UNIVERSITY   2013      237423
-NORTH CAROLINA CENTRAL UNIVERSITY 2015      660000
-                                  2016      177000
-                                  2017      740000
-                                  2018     2305429
-PII REDACTED                      2017      150000
+  Year  Institution                          Amount ($)
+------  ---------------------------------  ------------
+  2018  DUKE UNIVERSITY                      13,386,001
+  2018  NORTH CAROLINA CENTRAL UNIVERSITY     2,305,429
+  2017  DUKE UNIVERSITY                       6,188,424
+  2017  NORTH CAROLINA CENTRAL UNIVERSITY       740,000
+  2017  PII REDACTED                            150,000
+  2016  DUKE UNIVERSITY                       5,444,519
+  2016  NORTH CAROLINA CENTRAL UNIVERSITY       177,000
+  2015  DUKE UNIVERSITY                       5,841,523
+  2015  NORTH CAROLINA CENTRAL UNIVERSITY       660,000
+  2014  DUKE UNIVERSITY                       5,885,883
+  2013  DUKE UNIVERSITY                       7,345,989
+  2013  ELIZABETH CITY STATE UNIVERSITY         237,423
 ```
 ---
 <a name="NC-02"></a>
@@ -132,16 +142,16 @@ This district received no SC HEP grants from 2012-2019
 This district received no SC contracts from 2012-2019
 ```
 ### NSF MPS Grants
+In the past 8 years, this district has received:<b> $1,384,660 </b>in NSF MPS grants.
 ```
-In the past 8 years, this district has received: $1,384,660.00 in NSF MPS grants.
-                                                 Amount ($)
-Institution                                Year            
-EAST CAROLINA UNIVERSITY                   2012      155468
-                                           2017      252000
-UNIVERSITY OF NORTH CAROLINA AT WILMINGTON 2013      151244
-                                           2014       30000
-                                           2015      465948
-                                           2016      330000
+  Year  Institution                                   Amount ($)
+------  ------------------------------------------  ------------
+  2017  EAST CAROLINA UNIVERSITY                         252,000
+  2016  UNIVERSITY OF NORTH CAROLINA AT WILMINGTON       330,000
+  2015  UNIVERSITY OF NORTH CAROLINA AT WILMINGTON       465,948
+  2014  UNIVERSITY OF NORTH CAROLINA AT WILMINGTON        30,000
+  2013  UNIVERSITY OF NORTH CAROLINA AT WILMINGTON       151,244
+  2012  EAST CAROLINA UNIVERSITY                         155,468
 ```
 ---
 <a name="NC-04"></a>
@@ -151,55 +161,55 @@ UNIVERSITY OF NORTH CAROLINA AT WILMINGTON 2013      151244
 David E. Price is the #6 Democrat on the House Committee on Appropriations 
 
 ### HEP Grants
+In the past 8 years, this district has received:<b> $2,531,000 </b>in SC HEP grants.
 ```
-In the past 8 years, this district has received: $2,531,000.00 in SC HEP grants.
-                                        Amount ($)
-Institution                       Year            
-DUKE UNIVERSITY                   2012     1351000
-                                  2013      565000
-North Carolina State University   2014      300000
-                                  2015           0
-                                  2016           0
-                                  2018      315000
-U. OF NORTH CAROLINA, CHAPEL HILL 2012           0
-                                  2013           0
+Institution                          Amount ($)    Start  End      Principal Investigator    Project Title
+---------------------------------  ------------  -------  -------  ------------------------  -----------------------------------------------------------------------------------------------------
+North Carolina State University         315,000     2018  Ongoing  Green, Matthew            Measurement of Coherent Elastic Neutrino-Nucleus Scattering with Germanium Detectors at the SNS
+North Carolina State University         300,000     2014  2017     Schwartz, Justin          Superconducting joints between (RE)Ba2Cu3O7- coated conductors via electric field assisted processing
+DUKE UNIVERSITY                          70,000     2013  2014     Katsouleas                Theoretical and Experimental studies of Plasma acceleration of electrons and protons
+DUKE UNIVERSITY                               0     2013  2014     Kotwal                    Research in High Energy Physics at Duke University
+DUKE UNIVERSITY                          43,000     2013  2014     Kotwal                    W Boson Mass Measurement at CDF
+DUKE UNIVERSITY                       1,803,000     2012  2014     Kotwal                    Research in High Energy Physics at Duke University
+U. OF NORTH CAROLINA, CHAPEL HILL             0     2012  2014     Ng                        Theoretical Research in Cosmology, High-Energy Physics and String Theory at UNC-CH
 ```
 ### SC Contracts
+In the past 8 years, this district has received:
+1 Office of Science contracts, totalling <b> $3,049</b>
 ```
-In the past 8 years, this district has received: $3,049.00 in SC contracts.
-                                    Amount ($)
-Vendor                        Year            
-OXFORD UNIVERSITY PRESS, INC. 2012        3049
+  Year  Vendor                           Amount ($)  Item
+------  -----------------------------  ------------  --------------------------
+  2012  OXFORD UNIVERSITY PRESS, INC.         3,049  NEWSPAPERS AND PERIODICALS
 ```
 ### NSF MPS Grants
+In the past 8 years, this district has received:<b> $125,022,587 </b>in NSF MPS grants.
 ```
-In the past 8 years, this district has received: $122,522,099.00 in NSF MPS grants.
-                                                  Amount ($)
-Institution                                 Year            
-DUKE UNIVERSITY                             2012     5937070
-                                            2013        7714
-FAYETTEVILLE STATE UNIVERSITY               2016      201900
-NATIONAL INSTITUTE OF STATISTICAL SCIENCES  2016        9900
-                                            2018        9990
-NORTH CAROLINA STATE U                      2015     2140404
-NORTH CAROLINA STATE UNIVERSITY             2012     7621102
-                                            2013     7647135
-                                            2014     3340526
-                                            2015     4890975
-                                            2016     4422447
-                                            2017     7989901
-                                            2018     6861540
-                                            2019      -53863
-PII REDACTED                                2018      150000
-U OF NC CHAPEL HILL                         2015     4285079
-UNIVERSITY OF NORTH CAROLINA AT CHAPEL HILL 2012    12419066
-                                            2013     7398193
-                                            2014     8690828
-                                            2015     4766212
-                                            2016     8487640
-                                            2017    11267194
-                                            2018    13783146
-                                            2019      248000
+  Year  Institution                                    Amount ($)
+------  -------------------------------------------  ------------
+  2019  UNIVERSITY OF NORTH CAROLINA AT CHAPEL HILL       248,000
+  2019  NORTH CAROLINA STATE UNIVERSITY                    48,820
+  2018  UNIVERSITY OF NORTH CAROLINA AT CHAPEL HILL    13,783,146
+  2018  PII REDACTED                                      150,000
+  2018  NORTH CAROLINA STATE UNIVERSITY                 7,296,508
+  2018  NATIONAL INSTITUTE OF STATISTICAL SCIENCES          9,990
+  2017  UNIVERSITY OF NORTH CAROLINA AT CHAPEL HILL    11,267,194
+  2017  NORTH CAROLINA STATE UNIVERSITY                 7,999,901
+  2016  NATIONAL INSTITUTE OF STATISTICAL SCIENCES          9,900
+  2016  UNIVERSITY OF NORTH CAROLINA AT CHAPEL HILL     8,692,688
+  2016  NORTH CAROLINA STATE UNIVERSITY                 4,782,569
+  2016  FAYETTEVILLE STATE UNIVERSITY                     201,900
+  2015  UNIVERSITY OF NORTH CAROLINA AT CHAPEL HILL     4,901,212
+  2015  U OF NC CHAPEL HILL                             4,285,079
+  2015  NORTH CAROLINA STATE UNIVERSITY                 4,890,975
+  2015  NORTH CAROLINA STATE U                          2,179,404
+  2014  UNIVERSITY OF NORTH CAROLINA AT CHAPEL HILL     9,162,108
+  2014  NORTH CAROLINA STATE UNIVERSITY                 3,811,327
+  2013  UNIVERSITY OF NORTH CAROLINA AT CHAPEL HILL     7,398,193
+  2013  NORTH CAROLINA STATE UNIVERSITY                 7,743,268
+  2013  DUKE UNIVERSITY                                   112,646
+  2012  NORTH CAROLINA STATE UNIVERSITY                 7,691,623
+  2012  UNIVERSITY OF NORTH CAROLINA AT CHAPEL HILL    12,419,066
+  2012  DUKE UNIVERSITY                                 5,937,070
 ```
 ---
 <a name="NC-05"></a>
@@ -217,21 +227,21 @@ This district received no SC HEP grants from 2012-2019
 This district received no SC contracts from 2012-2019
 ```
 ### NSF MPS Grants
+In the past 8 years, this district has received:<b> $4,769,880 </b>in NSF MPS grants.
 ```
-In the past 8 years, this district has received: $4,769,880.00 in NSF MPS grants.
-                                             Amount ($)
-Institution                            Year            
-APPALACHIAN STATE UNIV                 2015      299891
-APPALACHIAN STATE UNIVERSITY           2012      519866
-                                       2013       72450
-WAKE FOREST UNIVERSITY                 2012      295475
-                                       2013      441275
-                                       2014      390000
-                                       2015      834941
-                                       2016      767911
-                                       2017      389984
-WAKE FOREST UNIVERSITY HEALTH SCIENCES 2016        9424
-WINSTON-SALEM STATE UNIVERSITY (INC)   2018      748663
+  Year  Institution                               Amount ($)
+------  --------------------------------------  ------------
+  2018  WINSTON-SALEM STATE UNIVERSITY (INC)         748,663
+  2017  WAKE FOREST UNIVERSITY                       389,984
+  2016  WAKE FOREST UNIVERSITY                       767,911
+  2016  WAKE FOREST UNIVERSITY HEALTH SCIENCES         9,424
+  2015  APPALACHIAN STATE UNIV                       299,891
+  2015  WAKE FOREST UNIVERSITY                       834,941
+  2014  WAKE FOREST UNIVERSITY                       390,000
+  2013  APPALACHIAN STATE UNIVERSITY                  72,450
+  2013  WAKE FOREST UNIVERSITY                       441,275
+  2012  APPALACHIAN STATE UNIVERSITY                 519,866
+  2012  WAKE FOREST UNIVERSITY                       295,475
 ```
 ---
 <a name="NC-06"></a>
@@ -249,19 +259,19 @@ This district received no SC HEP grants from 2012-2019
 This district received no SC contracts from 2012-2019
 ```
 ### NSF MPS Grants
+In the past 8 years, this district has received:<b> $2,363,979 </b>in NSF MPS grants.
 ```
-In the past 8 years, this district has received: $2,363,979.00 in NSF MPS grants.
-                                                         Amount ($)
-Institution                                        Year            
-ELON UNIVERSITY                                    2012       38685
-NORTH CAROLINA AGRICULTURAL AND TECHNICAL STATE... 2017      173858
-                                                   2018      183337
-UNIVERSITY OF NORTH CAROLINA AT GREENSBORO         2013      309782
-                                                   2014     1053420
-                                                   2015      236834
-                                                   2016       40505
-                                                   2017      304959
-                                                   2018       22599
+  Year  Institution                                                   Amount ($)
+------  ----------------------------------------------------------  ------------
+  2018  NORTH CAROLINA AGRICULTURAL AND TECHNICAL STATE UNIVERSITY       183,337
+  2018  UNIVERSITY OF NORTH CAROLINA AT GREENSBORO                        22,599
+  2017  NORTH CAROLINA AGRICULTURAL AND TECHNICAL STATE UNIVERSITY       173,858
+  2017  UNIVERSITY OF NORTH CAROLINA AT GREENSBORO                       304,959
+  2016  UNIVERSITY OF NORTH CAROLINA AT GREENSBORO                        40,505
+  2015  UNIVERSITY OF NORTH CAROLINA AT GREENSBORO                       236,834
+  2014  UNIVERSITY OF NORTH CAROLINA AT GREENSBORO                     1,053,420
+  2013  UNIVERSITY OF NORTH CAROLINA AT GREENSBORO                       309,782
+  2012  ELON UNIVERSITY                                                   38,685
 ```
 ---
 <a name="NC-07"></a>
@@ -279,14 +289,14 @@ This district received no SC HEP grants from 2012-2019
 This district received no SC contracts from 2012-2019
 ```
 ### NSF MPS Grants
+In the past 8 years, this district has received:<b> $660,199 </b>in NSF MPS grants.
 ```
-In the past 8 years, this district has received: $660,199.00 in NSF MPS grants.
-                                                 Amount ($)
-Institution                                Year            
-UNIVERSITY OF NORTH CAROLINA AT WILMINGTON 2012      183258
-                                           2013       64228
-                                           2017      322416
-                                           2018       90297
+  Year  Institution                                   Amount ($)
+------  ------------------------------------------  ------------
+  2018  UNIVERSITY OF NORTH CAROLINA AT WILMINGTON        90,297
+  2017  UNIVERSITY OF NORTH CAROLINA AT WILMINGTON       322,416
+  2013  UNIVERSITY OF NORTH CAROLINA AT WILMINGTON        64,228
+  2012  UNIVERSITY OF NORTH CAROLINA AT WILMINGTON       183,258
 ```
 ---
 <a name="NC-08"></a>
@@ -301,19 +311,15 @@ This district received no SC HEP grants from 2012-2019
 ```
 ### SC Contracts
 ```
-In the past 8 years, this district has received: $0.00 in SC contracts.
-                                   Amount ($)
-Vendor                       Year            
-CLEMENTS BERNARD MILLER PLLC 2012           0
+This district received no SC contracts from 2012-2019
 ```
 ### NSF MPS Grants
+In the past 8 years, this district has received:<b> $756,951 </b>in NSF MPS grants.
 ```
-In the past 8 years, this district has received: $756,951.00 in NSF MPS grants.
-                                               Amount ($)
-Institution                              Year            
-FAYETTEVILLE STATE UNIVERSITY            2018      600000
-                                         2019           0
-UNIVERSITY OF NORTH CAROLINA AT PEMBROKE 2015      156951
+  Year  Institution                                 Amount ($)
+------  ----------------------------------------  ------------
+  2018  FAYETTEVILLE STATE UNIVERSITY                  600,000
+  2015  UNIVERSITY OF NORTH CAROLINA AT PEMBROKE       156,951
 ```
 ---
 <a name="NC-09"></a>
@@ -328,12 +334,12 @@ This district received no SC HEP grants from 2012-2019
 This district received no SC contracts from 2012-2019
 ```
 ### NSF MPS Grants
+In the past 8 years, this district has received:<b> $593,917 </b>in NSF MPS grants.
 ```
-In the past 8 years, this district has received: $593,917.00 in NSF MPS grants.
-                                        Amount ($)
-Institution                       Year            
-TRUSTEES OF DAVIDSON COLLEGE, THE 2016      299917
-                                  2017      294000
+  Year  Institution                          Amount ($)
+------  ---------------------------------  ------------
+  2017  TRUSTEES OF DAVIDSON COLLEGE, THE       294,000
+  2016  TRUSTEES OF DAVIDSON COLLEGE, THE       299,917
 ```
 ---
 <a name="NC-10"></a>
@@ -351,11 +357,11 @@ This district received no SC HEP grants from 2012-2019
 This district received no SC contracts from 2012-2019
 ```
 ### NSF MPS Grants
+In the past 8 years, this district has received:<b> $82,500 </b>in NSF MPS grants.
 ```
-In the past 8 years, this district has received: $82,500.00 in NSF MPS grants.
-                                                Amount ($)
-Institution                               Year            
-UNIVERSITY OF NORTH CAROLINA AT ASHEVILLE 2013       82500
+  Year  Institution                                  Amount ($)
+------  -----------------------------------------  ------------
+  2013  UNIVERSITY OF NORTH CAROLINA AT ASHEVILLE        82,500
 ```
 ---
 <a name="NC-11"></a>
@@ -373,11 +379,11 @@ This district received no SC HEP grants from 2012-2019
 This district received no SC contracts from 2012-2019
 ```
 ### NSF MPS Grants
+In the past 8 years, this district has received:<b> $197,272 </b>in NSF MPS grants.
 ```
-In the past 8 years, this district has received: $197,272.00 in NSF MPS grants.
-                                                Amount ($)
-Institution                               Year            
-UNIVERSITY OF NORTH CAROLINA AT ASHEVILLE 2012      197272
+  Year  Institution                                  Amount ($)
+------  -----------------------------------------  ------------
+  2012  UNIVERSITY OF NORTH CAROLINA AT ASHEVILLE       197,272
 ```
 ---
 <a name="NC-12"></a>
@@ -392,33 +398,27 @@ This district received no SC HEP grants from 2012-2019
 ```
 ### SC Contracts
 ```
-In the past 8 years, this district has received: $-15,222.00 in SC contracts.
-                                   Amount ($)
-Vendor                       Year            
-CLEMENTS BERNARD MILLER PLLC 2013       -4510
-                             2014      -10710
-DUKE ENERGY CORPORATION      2015          -2
+This district received no SC contracts from 2012-2019
 ```
 ### NSF MPS Grants
+In the past 8 years, this district has received:<b> $4,517,842 </b>in NSF MPS grants.
 ```
-In the past 8 years, this district has received: $4,125,594.00 in NSF MPS grants.
-                                                         Amount ($)
-Institution                                        Year            
-NORTH CAROLINA AGRICULTURAL AND TECHNICAL STA      2012      195000
-                                                   2013       90000
-                                                   2014      100001
-                                                   2015      135571
-                                                   2016       42840
-NORTH CAROLINA AGRICULTURAL AND TECHNICAL STATE... 2017           0
-U OF NC CHARLOTTE                                  2015       59953
-UNIVERSITY OF NORTH CAROLINA AT CHARLOTTE          2012      395367
-                                                   2013      641306
-                                                   2014      395656
-                                                   2015      391475
-                                                   2016      426200
-UNIVERSITY OF NORTH CAROLINA AT CHARLOTTE, THE     2017      544819
-                                                   2018      630287
-                                                   2019       77119
+  Year  Institution                                       Amount ($)
+------  ----------------------------------------------  ------------
+  2019  UNIVERSITY OF NORTH CAROLINA AT CHARLOTTE, THE       135,489
+  2018  UNIVERSITY OF NORTH CAROLINA AT CHARLOTTE, THE       932,012
+  2017  UNIVERSITY OF NORTH CAROLINA AT CHARLOTTE, THE       544,819
+  2016  NORTH CAROLINA AGRICULTURAL AND TECHNICAL STA         42,840
+  2016  UNIVERSITY OF NORTH CAROLINA AT CHARLOTTE            426,200
+  2015  NORTH CAROLINA AGRICULTURAL AND TECHNICAL STA        135,571
+  2015  U OF NC CHARLOTTE                                     59,953
+  2015  UNIVERSITY OF NORTH CAROLINA AT CHARLOTTE            391,475
+  2014  NORTH CAROLINA AGRICULTURAL AND TECHNICAL STA        100,001
+  2014  UNIVERSITY OF NORTH CAROLINA AT CHARLOTTE            427,809
+  2013  NORTH CAROLINA AGRICULTURAL AND TECHNICAL STA         90,000
+  2013  UNIVERSITY OF NORTH CAROLINA AT CHARLOTTE            641,306
+  2012  NORTH CAROLINA AGRICULTURAL AND TECHNICAL STA        195,000
+  2012  UNIVERSITY OF NORTH CAROLINA AT CHARLOTTE            395,367
 ```
 ---
 <a name="NC-13"></a>
@@ -436,13 +436,13 @@ This district received no SC HEP grants from 2012-2019
 This district received no SC contracts from 2012-2019
 ```
 ### NSF MPS Grants
+In the past 8 years, this district has received:<b> $735,699 </b>in NSF MPS grants.
 ```
-In the past 8 years, this district has received: $735,699.00 in NSF MPS grants.
-                                                 Amount ($)
-Institution                                Year            
-HIGH POINT UNIVERSITY                      2018      522086
-UNIVERSITY OF NORTH CAROLINA AT GREENSBORO 2012      182014
-                                           2017       22599
-                                           2018        9000
+  Year  Institution                                   Amount ($)
+------  ------------------------------------------  ------------
+  2018  HIGH POINT UNIVERSITY                            522,086
+  2018  UNIVERSITY OF NORTH CAROLINA AT GREENSBORO         9,000
+  2017  UNIVERSITY OF NORTH CAROLINA AT GREENSBORO        22,599
+  2012  UNIVERSITY OF NORTH CAROLINA AT GREENSBORO       182,014
 ```
 ---

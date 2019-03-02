@@ -25,31 +25,30 @@ Kevin Cramer is not on any of our key committees
 ```
 This state received no SC HEP grants from 2012-2019
 ```
-## SC Contracts
+### SC Contracts
 ```
 This state received no SC contracts from 2012-2019
 ```
 ## NSF MPS Grants
-```
 In the past 8 years, this state has received:
-30 NSF MPS grants, totalling $5,537,890.00
- 
-                                    Amount ($)
-Institution                   Year            
-NORTH DAKOTA STATE U FARGO    2015      475523
-NORTH DAKOTA STATE UNIVERSITY 2012      938649
-                              2013      540000
-                              2014      771465
-                              2015      131693
-                              2016      263718
-                              2018      690435
-UNIVERSITY OF NORTH DAKOTA    2012      140000
-                              2013      119051
-                              2014      291599
-                              2015      270000
-                              2016        2817
-                              2017      572940
-                              2018      330000
+26 NSF MPS grants, totalling <b> $5,937,485</b>
+```
+  Year  Institution                      Amount ($)
+------  -----------------------------  ------------
+  2018  NORTH DAKOTA STATE UNIVERSITY       930,030
+  2018  UNIVERSITY OF NORTH DAKOTA          330,000
+  2017  UNIVERSITY OF NORTH DAKOTA          572,940
+  2016  NORTH DAKOTA STATE UNIVERSITY       263,718
+  2016  UNIVERSITY OF NORTH DAKOTA            2,817
+  2015  NORTH DAKOTA STATE U FARGO          475,523
+  2015  NORTH DAKOTA STATE UNIVERSITY       131,693
+  2015  UNIVERSITY OF NORTH DAKOTA          270,000
+  2014  NORTH DAKOTA STATE UNIVERSITY       771,465
+  2014  UNIVERSITY OF NORTH DAKOTA          291,599
+  2013  NORTH DAKOTA STATE UNIVERSITY       540,000
+  2013  UNIVERSITY OF NORTH DAKOTA          119,051
+  2012  NORTH DAKOTA STATE UNIVERSITY       938,649
+  2012  UNIVERSITY OF NORTH DAKOTA          300,000
 ```
 ---
 ---
@@ -68,23 +67,23 @@ This district received no SC HEP grants from 2012-2019
 This district received no SC contracts from 2012-2019
 ```
 ### NSF MPS Grants
+In the past 8 years, this district has received:<b> $5,937,485 </b>in NSF MPS grants.
 ```
-In the past 8 years, this district has received: $5,537,890.00 in NSF MPS grants.
-                                    Amount ($)
-Institution                   Year            
-NORTH DAKOTA STATE U FARGO    2015      475523
-NORTH DAKOTA STATE UNIVERSITY 2012      938649
-                              2013      540000
-                              2014      771465
-                              2015      131693
-                              2016      263718
-                              2018      690435
-UNIVERSITY OF NORTH DAKOTA    2012      140000
-                              2013      119051
-                              2014      291599
-                              2015      270000
-                              2016        2817
-                              2017      572940
-                              2018      330000
+  Year  Institution                      Amount ($)
+------  -----------------------------  ------------
+  2018  NORTH DAKOTA STATE UNIVERSITY       930,030
+  2018  UNIVERSITY OF NORTH DAKOTA          330,000
+  2017  UNIVERSITY OF NORTH DAKOTA          572,940
+  2016  NORTH DAKOTA STATE UNIVERSITY       263,718
+  2016  UNIVERSITY OF NORTH DAKOTA            2,817
+  2015  NORTH DAKOTA STATE U FARGO          475,523
+  2015  NORTH DAKOTA STATE UNIVERSITY       131,693
+  2015  UNIVERSITY OF NORTH DAKOTA          270,000
+  2014  NORTH DAKOTA STATE UNIVERSITY       771,465
+  2014  UNIVERSITY OF NORTH DAKOTA          291,599
+  2013  NORTH DAKOTA STATE UNIVERSITY       540,000
+  2013  UNIVERSITY OF NORTH DAKOTA          119,051
+  2012  NORTH DAKOTA STATE UNIVERSITY       938,649
+  2012  UNIVERSITY OF NORTH DAKOTA          300,000
 ```
 ---

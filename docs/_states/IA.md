@@ -16,52 +16,51 @@ Chuck Grassley is not on any of our key committees
 Joni Ernst is not on any of our key committees 
 
 ## HEP Grants
-```
 In the past 8 years, this state has received:
-44 HEP grants, totalling $11,058,632.00
- 
-                                                 Amount ($)
-Institution                                                
-Iowa State University of Science and Technology     4949632
-University of Iowa                                  2958000
-IOWA STATE UNIVERSITY                               2037000
-UNIVERSITY OF IOWA                                  1114000
+44 HEP grants, totalling <b> $11,058,632</b>
 ```
-## SC Contracts
+Institution                                        Amount ($)
+-----------------------------------------------  ------------
+Iowa State University of Science and Technology     4,949,632
+University of Iowa                                  2,958,000
+IOWA STATE UNIVERSITY                               2,037,000
+UNIVERSITY OF IOWA                                  1,114,000
 ```
+### SC Contracts
 In the past 8 years, this state has received:
-143 Office of Science contracts, totalling $406,412,606.00
- 
-                                                 Amount ($)
-Vendor                                     Year            
-ATRIUM HOTELS, L.P.                        2012        4200
-IOWA STATE UNIVERSITY EQUITIES CORPORATION 2012    37777581
-                                           2013    64291257
-                                           2014    52082816
-                                           2015    53582142
-                                           2016    61850312
-                                           2017    60308157
-                                           2018    61478831
-                                           2019    15037310
+2 Office of Science contracts, totalling <b> $406,626,657</b>
+```
+  Year  Vendor                                        Amount ($)  Item
+------  ------------------------------------------  ------------  ----------------------------------------
+  2019  IOWA STATE UNIVERSITY EQUITIES CORPORATION    15,037,310  OPER OF GOVT R&D GOCO FACILITIES
+  2018  IOWA STATE UNIVERSITY EQUITIES CORPORATION    61,478,835  OPER OF GOVT R&D GOCO FACILITIES
+  2017  IOWA STATE UNIVERSITY EQUITIES CORPORATION    60,308,158  OPER OF GOVT R&D GOCO FACILITIES
+  2016  IOWA STATE UNIVERSITY EQUITIES CORPORATION    61,876,446  OPER OF GOVT R&D GOCO FACILITIES
+  2015  IOWA STATE UNIVERSITY EQUITIES CORPORATION    53,582,329  OPER OF GOVT R&D GOCO FACILITIES
+  2014  IOWA STATE UNIVERSITY EQUITIES CORPORATION    52,084,624  OPER OF GOVT R&D GOCO FACILITIES
+  2013  IOWA STATE UNIVERSITY EQUITIES CORPORATION    64,291,258  OPER OF GOVT R&D GOCO FACILITIES
+  2012  ATRIUM HOTELS, L.P.                                4,200  EDUCATION/TRAINING- VOCATIONAL/TECHNICAL
+  2012  IOWA STATE UNIVERSITY EQUITIES CORPORATION    37,963,497  OPER OF GOVT R&D GOCO FACILITIES
 ```
 ## NSF MPS Grants
-```
 In the past 8 years, this state has received:
-302 NSF MPS grants, totalling $44,443,174.00
- 
-                                                 Amount ($)
-Institution                                                
-UNIVERSITY OF IOWA, THE                            17355641
-IOWA STATE UNIVERSITY OF SCIENCE AND TECHNOLO      15090745
-IOWA STATE UNIVERSITY OF SCIENCE AND TECHNOLOGY     5937038
-COE COLLEGE                                         1661253
-IOWA STATE UNIVERSITY                               1259271
-TRUSTEES OF GRINNELL COLLEGE, THE                    972297
-UNIVERSITY OF NORTHERN IOWA                          744229
-DRAKE UNIVERSITY                                     695989
-LUTHER COLLEGE                                       231700
-UNIVERSITY OF IOWA                                   231500
-and  3  other institutions.
+278 NSF MPS grants, totalling <b> $46,305,966</b>
+```
+Institution                                        Amount ($)
+-----------------------------------------------  ------------
+UNIVERSITY OF IOWA, THE                            17,814,002
+IOWA STATE UNIVERSITY OF SCIENCE AND TECHNOLO      16,209,193
+IOWA STATE UNIVERSITY OF SCIENCE AND TECHNOLOGY     6,082,297
+COE COLLEGE                                         1,661,253
+IOWA STATE UNIVERSITY                               1,374,966
+TRUSTEES OF GRINNELL COLLEGE, THE                     972,297
+UNIVERSITY OF NORTHERN IOWA                           769,258
+DRAKE UNIVERSITY                                      695,989
+LUTHER COLLEGE                                        231,700
+UNIVERSITY OF IOWA                                    231,500
+NORTHWESTERN COLLEGE                                  121,825
+UNI                                                    86,001
+DORDT COLLEGE, INCORPORATED                            55,685
 ```
 ---
 ---
@@ -80,26 +79,25 @@ This district received no SC HEP grants from 2012-2019
 This district received no SC contracts from 2012-2019
 ```
 ### NSF MPS Grants
+In the past 8 years, this district has received:<b> $3,211,989 </b>in NSF MPS grants.
 ```
-In the past 8 years, this district has received: $3,186,960.00 in NSF MPS grants.
-                                        Amount ($)
-Institution                       Year            
-COE COLLEGE                       2013       97010
-                                  2014      707877
-                                  2017      278776
-                                  2018      155248
-LUTHER COLLEGE                    2015       43209
-                                  2017       47838
-                                  2018       54475
-TRUSTEES OF GRINNELL COLLEGE, THE 2017      487997
-                                  2018           0
-                                  2019      484300
-UNI                               2015       86001
-UNIVERSITY OF NORTHERN IOWA       2012       90000
-                                  2013      195401
-                                  2014       74014
-                                  2016      240509
-                                  2017      144305
+  Year  Institution                          Amount ($)
+------  ---------------------------------  ------------
+  2019  TRUSTEES OF GRINNELL COLLEGE, THE       484,300
+  2018  COE COLLEGE                             155,248
+  2018  LUTHER COLLEGE                           54,475
+  2017  COE COLLEGE                             278,776
+  2017  LUTHER COLLEGE                           47,838
+  2017  TRUSTEES OF GRINNELL COLLEGE, THE       487,997
+  2017  UNIVERSITY OF NORTHERN IOWA             169,334
+  2016  UNIVERSITY OF NORTHERN IOWA             240,509
+  2015  LUTHER COLLEGE                           43,209
+  2015  UNI                                      86,001
+  2014  COE COLLEGE                             707,877
+  2014  UNIVERSITY OF NORTHERN IOWA              74,014
+  2013  COE COLLEGE                              97,010
+  2013  UNIVERSITY OF NORTHERN IOWA             195,401
+  2012  UNIVERSITY OF NORTHERN IOWA              90,000
 ```
 ---
 <a name="IA-02"></a>
@@ -109,36 +107,40 @@ UNIVERSITY OF NORTHERN IOWA       2012       90000
 David Loebsack is the #17 Democrat on the House Committee on Energy and Commerce 
 
 ### HEP Grants
+In the past 8 years, this district has received:<b> $4,072,000 </b>in SC HEP grants.
 ```
-In the past 8 years, this district has received: $4,072,000.00 in SC HEP grants.
-                         Amount ($)
-Institution        Year            
-UNIVERSITY OF IOWA 2012      666000
-                   2013      448000
-University of Iowa 2014      512000
-                   2015      478000
-                   2016      490000
-                   2017      472000
-                   2018     1006000
+Institution           Amount ($)    Start  End      Principal Investigator    Project Title
+------------------  ------------  -------  -------  ------------------------  ---------------------------------------------------------------------------------------
+University of Iowa       566,000     2018  Ongoing  Meurice, Yannick          Foundations of Quantum Computing for Gauge Theories and Quantum Gravity
+University of Iowa     1,617,000     2015  Ongoing  Nachtman, Jane            High Energy Experimental and Theoretical Physics Research at the University of Iowa
+University of Iowa       368,000     2014  2016     Mallik, Usha              To Continue to Explore the Energy Frontier with the ATLAS Detector
+University of Iowa       192,000     2014  2016     Meurice, Yannick          Research in Lattice Gauge Theory and in the Phenomenology of  Neutrinos and Dark Matter
+University of Iowa       215,000     2014  2015     Onel, Yasar               CMS Physics Research and Upgrades for the Energy Frontier
+UNIVERSITY OF IOWA       154,000     2013  2014     Mallik                    To Continue to Explore the Energy Frontier with the ATLAS Detector
+UNIVERSITY OF IOWA        99,000     2013  2014     Meurice                   Research in Lattice Gauge Theory and in the Phenomenology of Neutrinos and Dark Matter
+UNIVERSITY OF IOWA       195,000     2013  2014     Onel                      CMS Physics Research and Upgrades for the Energy Frontier
+UNIVERSITY OF IOWA       622,000     2012  2014     Mallik                    High Energy Physics
+UNIVERSITY OF IOWA        40,000     2012  2013     Meurice                   Infrared Fixed Points in Multiflavor Lattice Gauge Theory
+UNIVERSITY OF IOWA         4,000     2012  2014     Onel                      Secondary Emission Sampling Calorimetry Sensor Development
 ```
 ### SC Contracts
 ```
 This district received no SC contracts from 2012-2019
 ```
 ### NSF MPS Grants
+In the past 8 years, this district has received:<b> $18,467,844 </b>in NSF MPS grants.
 ```
-In the past 8 years, this district has received: $18,009,483.00 in NSF MPS grants.
-                              Amount ($)
-Institution             Year            
-COE COLLEGE             2012      422342
-UNIVERSITY OF IOWA      2015      231500
-UNIVERSITY OF IOWA, THE 2012     3675560
-                        2013     3102437
-                        2014     3306241
-                        2015     1517853
-                        2016     1073429
-                        2017     2809563
-                        2018     1870558
+  Year  Institution                Amount ($)
+------  -----------------------  ------------
+  2018  UNIVERSITY OF IOWA, THE     1,870,558
+  2017  UNIVERSITY OF IOWA, THE     3,089,268
+  2016  UNIVERSITY OF IOWA, THE     1,073,429
+  2015  UNIVERSITY OF IOWA            231,500
+  2015  UNIVERSITY OF IOWA, THE     1,517,853
+  2014  UNIVERSITY OF IOWA, THE     3,345,190
+  2013  UNIVERSITY OF IOWA, THE     3,102,437
+  2012  COE COLLEGE                   422,342
+  2012  UNIVERSITY OF IOWA, THE     3,815,267
 ```
 ---
 <a name="IA-03"></a>
@@ -152,23 +154,24 @@ Cynthia Axne is not on any of our key committees
 This district received no SC HEP grants from 2012-2019
 ```
 ### SC Contracts
+In the past 8 years, this district has received:
+1 Office of Science contracts, totalling <b> $4,200</b>
 ```
-In the past 8 years, this district has received: $4,200.00 in SC contracts.
-                          Amount ($)
-Vendor              Year            
-ATRIUM HOTELS, L.P. 2012        4200
+  Year  Vendor                 Amount ($)  Item
+------  -------------------  ------------  ----------------------------------------
+  2012  ATRIUM HOTELS, L.P.         4,200  EDUCATION/TRAINING- VOCATIONAL/TECHNICAL
 ```
 ### NSF MPS Grants
+In the past 8 years, this district has received:<b> $695,989 </b>in NSF MPS grants.
 ```
-In the past 8 years, this district has received: $695,989.00 in NSF MPS grants.
-                       Amount ($)
-Institution      Year            
-DRAKE UNIVERSITY 2012      175151
-                 2013      224374
-                 2014       90000
-                 2015       72465
-                 2017       33999
-                 2018      100000
+  Year  Institution         Amount ($)
+------  ----------------  ------------
+  2018  DRAKE UNIVERSITY       100,000
+  2017  DRAKE UNIVERSITY        33,999
+  2015  DRAKE UNIVERSITY        72,465
+  2014  DRAKE UNIVERSITY        90,000
+  2013  DRAKE UNIVERSITY       224,374
+  2012  DRAKE UNIVERSITY       175,151
 ```
 ---
 <a name="IA-04"></a>
@@ -178,50 +181,56 @@ DRAKE UNIVERSITY 2012      175151
 Steve King is not on any of our key committees 
 
 ### HEP Grants
+In the past 8 years, this district has received:<b> $6,986,632 </b>in SC HEP grants.
 ```
-In the past 8 years, this district has received: $6,986,632.00 in SC HEP grants.
-                                                      Amount ($)
-Institution                                     Year            
-IOWA STATE UNIVERSITY                           2012     1036000
-                                                2013     1001000
-Iowa State University of Science and Technology 2014      752000
-                                                2015      752000
-                                                2016     1025000
-                                                2017     1115000
-                                                2018     1305632
+Institution                                        Amount ($)    Start  End      Principal Investigator    Project Title
+-----------------------------------------------  ------------  -------  -------  ------------------------  ---------------------------------------------------------------------------------------------------------
+Iowa State University of Science and Technology       420,632     2018  Ongoing  Sanchez, Mayly            Accelerator Neutrino Neutron Interaction Experiment (ANNIE) Physics Phase
+Iowa State University of Science and Technology       225,000     2017  Ongoing  Wetstein, Matthew         Understanding Critical Systematics on Neutrino Oscillation Experiments from Neutrino-Nucleus Interactions
+Iowa State University of Science and Technology     1,295,000     2016  Ongoing  Sanchez, Mayly            Experimental Research at the Intensity Frontier and the Cosmic Frontier in High Energy Physics
+Iowa State University of Science and Technology       150,000     2016  2018     Sanchez, Mayly            The Accelerator Neutrino Neutron Interaction Experiment (ANNIE)
+Iowa State University of Science and Technology     2,314,000     2014  Ongoing  Cochran, James            Investigations in Experimental and Theoretical High Energy Physics
+Iowa State University of Science and Technology       360,000     2014  2016     Krennrich, Frank          Investigations in Gamma Ray Astrophysics and Astroparticle Physics
+Iowa State University of Science and Technology       185,000     2014  2017     Sanchez, Mayly            Neutrino Physics in the NOvA Experiment
+IOWA STATE UNIVERSITY                                 462,000     2013  2014     Cochran                   Investigations in Experimental and Theoretical High Energy Physics
+IOWA STATE UNIVERSITY                                 170,000     2013  2014     Krennrich                 Investigations in Gamma Ray Astrophysics and Astroparticle Physics
+IOWA STATE UNIVERSITY                                  55,000     2012  2013     Chen                      Test the Standard Model Using Boosted W/Z bosons and D*   Jets at the ATLAS Experiment
+IOWA STATE UNIVERSITY                               1,208,000     2012  2014     Krennrich, Cochran        Investigations in Experimental and Theoretical High Energy Physics
+IOWA STATE UNIVERSITY                                 142,000     2012  2014     Sanchez                   Neutrino Physics in the NOvA Experiment
 ```
 ### SC Contracts
+In the past 8 years, this district has received:
+1 Office of Science contracts, totalling <b> $406,622,457</b>
 ```
-In the past 8 years, this district has received: $406,408,406.00 in SC contracts.
-                                                 Amount ($)
-Vendor                                     Year            
-IOWA STATE UNIVERSITY EQUITIES CORPORATION 2012    37777581
-                                           2013    64291257
-                                           2014    52082816
-                                           2015    53582142
-                                           2016    61850312
-                                           2017    60308157
-                                           2018    61478831
-                                           2019    15037310
+  Year  Vendor                                        Amount ($)  Item
+------  ------------------------------------------  ------------  --------------------------------
+  2019  IOWA STATE UNIVERSITY EQUITIES CORPORATION    15,037,310  OPER OF GOVT R&D GOCO FACILITIES
+  2018  IOWA STATE UNIVERSITY EQUITIES CORPORATION    61,478,835  OPER OF GOVT R&D GOCO FACILITIES
+  2017  IOWA STATE UNIVERSITY EQUITIES CORPORATION    60,308,158  OPER OF GOVT R&D GOCO FACILITIES
+  2016  IOWA STATE UNIVERSITY EQUITIES CORPORATION    61,876,446  OPER OF GOVT R&D GOCO FACILITIES
+  2015  IOWA STATE UNIVERSITY EQUITIES CORPORATION    53,582,329  OPER OF GOVT R&D GOCO FACILITIES
+  2014  IOWA STATE UNIVERSITY EQUITIES CORPORATION    52,084,624  OPER OF GOVT R&D GOCO FACILITIES
+  2013  IOWA STATE UNIVERSITY EQUITIES CORPORATION    64,291,258  OPER OF GOVT R&D GOCO FACILITIES
+  2012  IOWA STATE UNIVERSITY EQUITIES CORPORATION    37,963,497  OPER OF GOVT R&D GOCO FACILITIES
 ```
 ### NSF MPS Grants
+In the past 8 years, this district has received:<b> $23,930,144 </b>in NSF MPS grants.
 ```
-In the past 8 years, this district has received: $22,550,742.00 in NSF MPS grants.
-                                                      Amount ($)
-Institution                                     Year            
-DORDT COLLEGE, INCORPORATED                     2013       55685
-IOWA STATE UNIVERSITY                           2012      120000
-                                                2015     1139271
-IOWA STATE UNIVERSITY OF SCIENCE AND TECHNOLO   2012     2319087
-                                                2013     4164061
-                                                2014     3301295
-                                                2015     2315131
-                                                2016     2991171
-IOWA STATE UNIVERSITY OF SCIENCE AND TECHNOLOGY 2017     3762197
-                                                2018     2030799
-                                                2019      144042
-LUTHER COLLEGE                                  2012       34015
-                                                2013       52163
-NORTHWESTERN COLLEGE                            2017      121825
+  Year  Institution                                        Amount ($)
+------  -----------------------------------------------  ------------
+  2019  IOWA STATE UNIVERSITY OF SCIENCE AND TECHNOLOGY       144,042
+  2018  IOWA STATE UNIVERSITY OF SCIENCE AND TECHNOLOGY     2,127,610
+  2017  IOWA STATE UNIVERSITY OF SCIENCE AND TECHNOLOGY     3,810,645
+  2017  NORTHWESTERN COLLEGE                                  121,825
+  2016  IOWA STATE UNIVERSITY OF SCIENCE AND TECHNOLO       3,908,510
+  2015  IOWA STATE UNIVERSITY                               1,254,966
+  2015  IOWA STATE UNIVERSITY OF SCIENCE AND TECHNOLO       2,315,131
+  2014  IOWA STATE UNIVERSITY OF SCIENCE AND TECHNOLO       3,301,295
+  2013  DORDT COLLEGE, INCORPORATED                            55,685
+  2013  IOWA STATE UNIVERSITY OF SCIENCE AND TECHNOLO       4,164,061
+  2013  LUTHER COLLEGE                                         52,163
+  2012  IOWA STATE UNIVERSITY                                 120,000
+  2012  IOWA STATE UNIVERSITY OF SCIENCE AND TECHNOLO       2,520,196
+  2012  LUTHER COLLEGE                                         34,015
 ```
 ---

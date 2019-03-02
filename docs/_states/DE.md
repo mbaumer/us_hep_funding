@@ -20,44 +20,41 @@ Christopher A. Coons is the #10 Democrat on the Senate Committee on Appropriatio
 Christopher A. Coons is the #8 Democrat on the Senate Appropriations Subcommittee on Energy and Water Development 
 
 ## HEP Grants
-```
 In the past 8 years, this state has received:
-9 HEP grants, totalling $1,658,825.00
- 
-                             Amount ($)
-Institution            Year            
-UNIVERSITY OF DELAWARE 2012      355000
-                       2013      358000
-University Of Delaware 2017      215000
-                       2018           0
-University of Delaware 2014      347000
-                       2015      420000
-                       2016      -36175
+9 HEP grants, totalling <b> $1,658,825</b>
 ```
-## SC Contracts
+  Year  Institution               Amount ($)
+------  ----------------------  ------------
+  2018  University Of Delaware             0
+  2017  University Of Delaware       215,000
+  2016  University of Delaware       -36,175
+  2015  University of Delaware       420,000
+  2014  University of Delaware       347,000
+  2013  UNIVERSITY OF DELAWARE       358,000
+  2012  UNIVERSITY OF DELAWARE       355,000
+```
+### SC Contracts
 ```
 This state received no SC contracts from 2012-2019
 ```
 ## NSF MPS Grants
-```
 In the past 8 years, this state has received:
-212 NSF MPS grants, totalling $36,517,082.00
- 
-                                                    Amount ($)
-Institution                                   Year            
-DELAWARE STATE UNIVERSITY                     2013      -71211
-                                              2014      501100
-                                              2015      225072
-                                              2017      175533
-HENRY FRANCIS DUPONT WINTERTHUR MUSEUM, INC., 2013        3000
-UNIVERSITY OF DELAWARE                        2012     6442312
-                                              2013     4710203
-                                              2014     3258532
-                                              2015     4737000
-                                              2016     7488139
-                                              2017     3329697
-                                              2018     5634810
-                                              2019       82895
+195 NSF MPS grants, totalling <b> $37,093,195</b>
+```
+  Year  Institution                                      Amount ($)
+------  ---------------------------------------------  ------------
+  2019  UNIVERSITY OF DELAWARE                               82,895
+  2018  UNIVERSITY OF DELAWARE                            5,711,722
+  2017  DELAWARE STATE UNIVERSITY                           175,533
+  2017  UNIVERSITY OF DELAWARE                            3,329,697
+  2016  UNIVERSITY OF DELAWARE                            7,708,351
+  2015  DELAWARE STATE UNIVERSITY                           225,072
+  2015  UNIVERSITY OF DELAWARE                            4,786,457
+  2014  DELAWARE STATE UNIVERSITY                           501,100
+  2014  UNIVERSITY OF DELAWARE                            3,258,532
+  2013  HENRY FRANCIS DUPONT WINTERTHUR MUSEUM, INC.,         3,000
+  2013  UNIVERSITY OF DELAWARE                            4,710,377
+  2012  UNIVERSITY OF DELAWARE                            6,600,459
 ```
 ---
 ---
@@ -68,39 +65,35 @@ UNIVERSITY OF DELAWARE                        2012     6442312
 Lisa Blunt Rochester is the #29 Democrat on the House Committee on Energy and Commerce 
 
 ### HEP Grants
+In the past 8 years, this district has received:<b> $1,658,825 </b>in SC HEP grants.
 ```
-In the past 8 years, this district has received: $1,658,825.00 in SC HEP grants.
-                             Amount ($)
-Institution            Year            
-UNIVERSITY OF DELAWARE 2012      355000
-                       2013      358000
-University Of Delaware 2017      215000
-                       2018           0
-University of Delaware 2014      347000
-                       2015      420000
-                       2016      -36175
+Institution               Amount ($)    Start  End      Principal Investigator    Project Title
+----------------------  ------------  -------  -------  ------------------------  -----------------------------
+University Of Delaware       215,000     2017  Ongoing  Shafi, Qaisar             Particle Theory and Cosmology
+University of Delaware       420,000     2015  2017     Shafi, Qaisar             Particle Theory and Cosmology
+University of Delaware       310,825     2014  2017     Shafi, Qaisar             Particle Theory and Cosmology
+UNIVERSITY OF DELAWARE       713,000     2012  2014     Shafi                     Particle Theory and Cosmology
 ```
 ### SC Contracts
 ```
 This district received no SC contracts from 2012-2019
 ```
 ### NSF MPS Grants
+In the past 8 years, this district has received:<b> $37,093,195 </b>in NSF MPS grants.
 ```
-In the past 8 years, this district has received: $36,517,082.00 in NSF MPS grants.
-                                                    Amount ($)
-Institution                                   Year            
-DELAWARE STATE UNIVERSITY                     2013      -71211
-                                              2014      501100
-                                              2015      225072
-                                              2017      175533
-HENRY FRANCIS DUPONT WINTERTHUR MUSEUM, INC., 2013        3000
-UNIVERSITY OF DELAWARE                        2012     6442312
-                                              2013     4710203
-                                              2014     3258532
-                                              2015     4737000
-                                              2016     7488139
-                                              2017     3329697
-                                              2018     5634810
-                                              2019       82895
+  Year  Institution                                      Amount ($)
+------  ---------------------------------------------  ------------
+  2019  UNIVERSITY OF DELAWARE                               82,895
+  2018  UNIVERSITY OF DELAWARE                            5,711,722
+  2017  DELAWARE STATE UNIVERSITY                           175,533
+  2017  UNIVERSITY OF DELAWARE                            3,329,697
+  2016  UNIVERSITY OF DELAWARE                            7,708,351
+  2015  DELAWARE STATE UNIVERSITY                           225,072
+  2015  UNIVERSITY OF DELAWARE                            4,786,457
+  2014  DELAWARE STATE UNIVERSITY                           501,100
+  2014  UNIVERSITY OF DELAWARE                            3,258,532
+  2013  HENRY FRANCIS DUPONT WINTERTHUR MUSEUM, INC.,         3,000
+  2013  UNIVERSITY OF DELAWARE                            4,710,377
+  2012  UNIVERSITY OF DELAWARE                            6,600,459
 ```
 ---

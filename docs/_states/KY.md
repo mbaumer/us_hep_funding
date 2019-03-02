@@ -18,52 +18,45 @@ Mitch McConnell is the #2 Republican on the Senate Appropriations Subcommittee o
 Rand Paul is not on any of our key committees 
 
 ## HEP Grants
-```
 In the past 8 years, this state has received:
-7 HEP grants, totalling $563,000.00
- 
-                               Amount ($)
-Institution              Year            
-UNIVERSITY OF LOUISVILLE 2012           0
-                         2013       78000
-University of Kentucky   2018      412000
-University of Louisville 2014       73000
-                         2015           0
+7 HEP grants, totalling <b> $563,000</b>
 ```
-## SC Contracts
+  Year  Institution                 Amount ($)
+------  ------------------------  ------------
+  2018  University of Kentucky         412,000
+  2015  University of Louisville             0
+  2014  University of Louisville        73,000
+  2013  UNIVERSITY OF LOUISVILLE        78,000
+  2012  UNIVERSITY OF LOUISVILLE             0
 ```
+### SC Contracts
 In the past 8 years, this state has received:
-33 Office of Science contracts, totalling $1,383,606.00
- 
-                                      Amount ($)
-Vendor                          Year            
-BOSTON GOVERNMENT SERVICES, LLC 2013      163228
-                                2014      258734
-                                2015      -38356
-ELECTRIC ENERGY INCORPORATED    2012      350000
-                                2013      650000
-                                2014           0
-                                2015           0
-                                2016           0
+2 Office of Science contracts, totalling <b> $1,421,964</b>
+```
+  Year  Vendor                             Amount ($)  Item
+------  -------------------------------  ------------  --------------------------------------------
+  2014  BOSTON GOVERNMENT SERVICES, LLC       258,735  SUPPORT- PROFESSIONAL: ENGINEERING/TECHNICAL
+  2013  BOSTON GOVERNMENT SERVICES, LLC       163,229  SUPPORT- PROFESSIONAL: ENGINEERING/TECHNICAL
+  2013  ELECTRIC ENERGY INCORPORATED          650,000  UTILITIES- ELECTRIC
+  2012  ELECTRIC ENERGY INCORPORATED          350,000  UTILITIES- ELECTRIC
 ```
 ## NSF MPS Grants
-```
 In the past 8 years, this state has received:
-172 NSF MPS grants, totalling $25,666,722.00
- 
-                                                    Amount ($)
-Institution                                                   
-UNIVERSITY OF KENTUCKY                                17933100
-UNIVERSITY OF LOUISVILLE                               3988220
-NORTHERN KENTUCKY UNIVERSITY RESEARCH FOUNDAT          1204357
-WESTERN KENTUCKY UNIVERSITY RESEARCH FOUNDATI          1180275
-MURRAY STATE UNIVERSITY                                 531326
-WESTERN KENTUCKY UNIVERSITY RESEARCH FOUNDATION...      288125
-NORTHERN KENTUCKY UNIVERSITY                            242978
-EASTERN KENTUCKY UNIVERSITY                             143420
-U OF LOUISVILLE RES FDN                                  95363
-U OF KENTUCKY RES FDN                                    59557
-and  1  other institutions.
+159 NSF MPS grants, totalling <b> $26,839,125</b>
+```
+Institution                                             Amount ($)
+----------------------------------------------------  ------------
+UNIVERSITY OF KENTUCKY                                  18,566,719
+UNIVERSITY OF LOUISVILLE                                 4,083,583
+NORTHERN KENTUCKY UNIVERSITY RESEARCH FOUNDAT            1,204,357
+WESTERN KENTUCKY UNIVERSITY RESEARCH FOUNDATI            1,180,275
+MURRAY STATE UNIVERSITY                                    531,326
+WESTERN KENTUCKY UNIVERSITY RESEARCH FOUNDATION INC        288,125
+U OF KENTUCKY RES FDN                                      260,000
+NORTHERN KENTUCKY UNIVERSITY RESEARCH FOUNDATION INC       242,979
+NORTHERN KENTUCKY UNIVERSITY                               242,978
+EASTERN KENTUCKY UNIVERSITY                                143,420
+U OF LOUISVILLE RES FDN                                     95,363
 ```
 ---
 ---
@@ -78,27 +71,24 @@ James Comer is the #7 Republican on the House Subcommittee on Higher Education a
 This district received no SC HEP grants from 2012-2019
 ```
 ### SC Contracts
+In the past 8 years, this district has received:
+2 Office of Science contracts, totalling <b> $1,421,964</b>
 ```
-In the past 8 years, this district has received: $1,383,606.00 in SC contracts.
-                                      Amount ($)
-Vendor                          Year            
-BOSTON GOVERNMENT SERVICES, LLC 2013      163228
-                                2014      258734
-                                2015      -38356
-ELECTRIC ENERGY INCORPORATED    2012      350000
-                                2013      650000
-                                2014           0
-                                2015           0
-                                2016           0
+  Year  Vendor                             Amount ($)  Item
+------  -------------------------------  ------------  --------------------------------------------
+  2014  BOSTON GOVERNMENT SERVICES, LLC       258,735  SUPPORT- PROFESSIONAL: ENGINEERING/TECHNICAL
+  2013  BOSTON GOVERNMENT SERVICES, LLC       163,229  SUPPORT- PROFESSIONAL: ENGINEERING/TECHNICAL
+  2013  ELECTRIC ENERGY INCORPORATED          650,000  UTILITIES- ELECTRIC
+  2012  ELECTRIC ENERGY INCORPORATED          350,000  UTILITIES- ELECTRIC
 ```
 ### NSF MPS Grants
+In the past 8 years, this district has received:<b> $531,326 </b>in NSF MPS grants.
 ```
-In the past 8 years, this district has received: $531,326.00 in NSF MPS grants.
-                              Amount ($)
-Institution             Year            
-MURRAY STATE UNIVERSITY 2014      149940
-                        2017       74625
-                        2018      306761
+  Year  Institution                Amount ($)
+------  -----------------------  ------------
+  2018  MURRAY STATE UNIVERSITY       306,761
+  2017  MURRAY STATE UNIVERSITY        74,625
+  2014  MURRAY STATE UNIVERSITY       149,940
 ```
 ---
 <a name="KY-02"></a>
@@ -118,15 +108,15 @@ This district received no SC HEP grants from 2012-2019
 This district received no SC contracts from 2012-2019
 ```
 ### NSF MPS Grants
+In the past 8 years, this district has received:<b> $1,468,400 </b>in NSF MPS grants.
 ```
-In the past 8 years, this district has received: $1,468,400.00 in NSF MPS grants.
-                                                         Amount ($)
-Institution                                        Year            
-WESTERN KENTUCKY UNIVERSITY RESEARCH FOUNDATI      2012      254000
-                                                   2013      497999
-                                                   2015      300468
-                                                   2016      127808
-WESTERN KENTUCKY UNIVERSITY RESEARCH FOUNDATION... 2018      288125
+  Year  Institution                                            Amount ($)
+------  ---------------------------------------------------  ------------
+  2018  WESTERN KENTUCKY UNIVERSITY RESEARCH FOUNDATION INC       288,125
+  2016  WESTERN KENTUCKY UNIVERSITY RESEARCH FOUNDATI             127,808
+  2015  WESTERN KENTUCKY UNIVERSITY RESEARCH FOUNDATI             300,468
+  2013  WESTERN KENTUCKY UNIVERSITY RESEARCH FOUNDATI             497,999
+  2012  WESTERN KENTUCKY UNIVERSITY RESEARCH FOUNDATI             254,000
 ```
 ---
 <a name="KY-03"></a>
@@ -136,32 +126,31 @@ WESTERN KENTUCKY UNIVERSITY RESEARCH FOUNDATION... 2018      288125
 John A. Yarmuth is not on any of our key committees 
 
 ### HEP Grants
+In the past 8 years, this district has received:<b> $151,000 </b>in SC HEP grants.
 ```
-In the past 8 years, this district has received: $151,000.00 in SC HEP grants.
-                               Amount ($)
-Institution              Year            
-UNIVERSITY OF LOUISVILLE 2012           0
-                         2013       78000
-University of Louisville 2014       73000
-                         2015           0
+Institution                 Amount ($)    Start    End  Principal Investigator    Project Title
+------------------------  ------------  -------  -----  ------------------------  ----------------------------------------------------------------------------------------------
+University of Louisville        73,000     2014   2016  Brown, David              Studies of Hadronic Physics With the BaBar Detector at SLAC and the ATLAS Detector and the LHC
+UNIVERSITY OF LOUISVILLE        78,000     2013   2014  Brown                     Studies of Hadronic Physics With the BaBar Detector at SLAC and the ATLAS Detector and the LHC
+UNIVERSITY OF LOUISVILLE             0     2012   2014  Brown                     Contributions to Studies of CP Violation and Hadronic Physics with the Babar Collaboration
 ```
 ### SC Contracts
 ```
 This district received no SC contracts from 2012-2019
 ```
 ### NSF MPS Grants
+In the past 8 years, this district has received:<b> $4,178,946 </b>in NSF MPS grants.
 ```
-In the past 8 years, this district has received: $4,083,583.00 in NSF MPS grants.
-                               Amount ($)
-Institution              Year            
-U OF LOUISVILLE RES FDN  2015       95363
-UNIVERSITY OF LOUISVILLE 2012      609075
-                         2013      260000
-                         2014      857526
-                         2015      813917
-                         2016      523225
-                         2017      450000
-                         2018      474477
+  Year  Institution                 Amount ($)
+------  ------------------------  ------------
+  2018  UNIVERSITY OF LOUISVILLE       474,477
+  2017  UNIVERSITY OF LOUISVILLE       450,000
+  2016  UNIVERSITY OF LOUISVILLE       523,225
+  2015  U OF LOUISVILLE RES FDN         95,363
+  2015  UNIVERSITY OF LOUISVILLE       909,280
+  2014  UNIVERSITY OF LOUISVILLE       857,526
+  2013  UNIVERSITY OF LOUISVILLE       260,000
+  2012  UNIVERSITY OF LOUISVILLE       609,075
 ```
 ---
 <a name="KY-04"></a>
@@ -179,17 +168,16 @@ This district received no SC HEP grants from 2012-2019
 This district received no SC contracts from 2012-2019
 ```
 ### NSF MPS Grants
+In the past 8 years, this district has received:<b> $1,690,314 </b>in NSF MPS grants.
 ```
-In the past 8 years, this district has received: $1,447,336.00 in NSF MPS grants.
-                                                         Amount ($)
-Institution                                        Year            
-NORTHERN KENTUCKY UNIVERSITY                       2018      242978
-NORTHERN KENTUCKY UNIVERSITY RESEARCH FOUNDAT      2012      220251
-                                                   2013      165000
-                                                   2015      383429
-                                                   2016      435677
-NORTHERN KENTUCKY UNIVERSITY RESEARCH FOUNDATIO... 2017      242979
-                                                   2018     -242978
+  Year  Institution                                             Amount ($)
+------  ----------------------------------------------------  ------------
+  2018  NORTHERN KENTUCKY UNIVERSITY                               242,978
+  2017  NORTHERN KENTUCKY UNIVERSITY RESEARCH FOUNDATION INC       242,979
+  2016  NORTHERN KENTUCKY UNIVERSITY RESEARCH FOUNDAT              435,677
+  2015  NORTHERN KENTUCKY UNIVERSITY RESEARCH FOUNDAT              383,429
+  2013  NORTHERN KENTUCKY UNIVERSITY RESEARCH FOUNDAT              165,000
+  2012  NORTHERN KENTUCKY UNIVERSITY RESEARCH FOUNDAT              220,251
 ```
 ---
 <a name="KY-05"></a>
@@ -218,30 +206,31 @@ This district received no NSF MPS grants from 2012-2019
 Andy Barr is not on any of our key committees 
 
 ### HEP Grants
+In the past 8 years, this district has received:<b> $412,000 </b>in SC HEP grants.
 ```
-In the past 8 years, this district has received: $412,000.00 in SC HEP grants.
-                             Amount ($)
-Institution            Year            
-University of Kentucky 2018      412000
+Institution               Amount ($)    Start  End      Principal Investigator    Project Title
+----------------------  ------------  -------  -------  ------------------------  -------------------------------------------------------------------------------
+University of Kentucky         5,000     2018  Ongoing  Hill, Richard             From nucleons to nuclei: enabling discovery for neutrinos, dark matter and more
+University of Kentucky       407,000     2018  Ongoing  Hill, Richard             High energy physics tools for precision neutrino interactions
 ```
 ### SC Contracts
 ```
 This district received no SC contracts from 2012-2019
 ```
 ### NSF MPS Grants
+In the past 8 years, this district has received:<b> $18,970,139 </b>in NSF MPS grants.
 ```
-In the past 8 years, this district has received: $18,136,077.00 in NSF MPS grants.
-                                  Amount ($)
-Institution                 Year            
-EASTERN KENTUCKY UNIVERSITY 2016      143420
-U OF KENTUCKY RES FDN       2015       59557
-UNIVERSITY OF KENTUCKY      2012     3008958
-                            2013     2779915
-                            2014     1309271
-                            2015     1058279
-                            2016     2843255
-                            2017     2377476
-                            2018     4490902
-                            2019       65044
+  Year  Institution                    Amount ($)
+------  ---------------------------  ------------
+  2019  UNIVERSITY OF KENTUCKY             65,044
+  2018  UNIVERSITY OF KENTUCKY          4,490,902
+  2017  UNIVERSITY OF KENTUCKY          2,761,259
+  2016  EASTERN KENTUCKY UNIVERSITY       143,420
+  2016  UNIVERSITY OF KENTUCKY          2,843,255
+  2015  U OF KENTUCKY RES FDN             260,000
+  2015  UNIVERSITY OF KENTUCKY          1,058,279
+  2014  UNIVERSITY OF KENTUCKY          1,433,029
+  2013  UNIVERSITY OF KENTUCKY          2,905,993
+  2012  UNIVERSITY OF KENTUCKY          3,008,958
 ```
 ---

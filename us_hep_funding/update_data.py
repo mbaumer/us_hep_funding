@@ -99,7 +99,8 @@ def clean_doe_contract_data():
     
     sc_contracts = sc_contracts.dropna(subset=['District'])
     sc_contracts['District'] = sc_contracts['State'] + sc_contracts['District'].map(int).map(str).str.zfill(2)
-    sc_contracts['Amount ($)'] = sc_contracts['Amount ($)'].map(int)
+    sc_contracts = sc_contracts[sc_contracts['Amount ($)'] > 0]
+    sc_contracts['Amount ($)'] = sc_contracts['Amount ($)'].round(0)
     
     sc_contracts.to_pickle('../new_data/cleaned/sc_contracts.pkl')
 
@@ -139,8 +140,20 @@ def clean_doe_grant_data():
                         data3['State'], data4['State'], data5['State']], ignore_index=True, axis=0)
     programs = pd.concat([dataA['Program Office'], data0['Organization'], data['Organization'], data2['Organization'],
                           data3['Organization'], data4['SC Program'], data5['SC Program']], ignore_index=True, axis=0)
-    fulldata = pd.concat([programs, years, states, districts, institutions, amounts], axis=1, keys=[
-                         'SC Office', 'Year', 'State', 'District', 'Institution', 'Amount ($)'])
+    titles = pd.concat([dataA['Title'],data0['Title'],data['Title'],
+                        data2['Project Title'],data3['Project Title'],
+                        data4['Project Title'],data5['Project Title'],],ignore_index=True,axis=0)
+    award_nums = pd.concat([dataA['Award Number'],data0['Award Number'],
+                            data['Award Number'],data2['Award Number'],
+                            data3['Award Number'],data4['Award Number'],data5['Award Number']],ignore_index=True,axis=0)
+    
+    pis = pd.concat([dataA['Principlal Investigator'],data0['Principlal Investigator'],
+                     data['Principal Investigator'],data2['Principal Investigator'],
+                     data3['Principal Investigator'],data4['Principal Investigator(s)'],
+                     data5['Principal Investigator(s)'],],ignore_index=True,axis=0)
+    
+    fulldata = pd.concat([programs, years, states, districts, institutions, amounts,titles,pis,award_nums], axis=1, keys=[
+                         'SC Office', 'Year', 'State', 'District', 'Institution', 'Amount ($)','Project Title','Principal Investigator','Award Number'])
 
     fulldata['State'] = fulldata['State'].map(str).map(str.strip)
     
@@ -156,8 +169,10 @@ def clean_doe_grant_data():
 
     hepdata = fulldata[fulldata['SC Office'] == 'HEP']
     hepdata = hepdata.dropna(subset=['Amount ($)'])
-    hepdata['Amount ($)'] = hepdata['Amount ($)'].map(int)
-    
+    hepdata['Project Title'].replace('&#8208;','-',inplace=True)
+    #unicode problems in the raw data
+    hepdata['Project Title'].loc[1675] = 'High Energy Physics - Energy, Intensity, Theoretical Frontier'
+    hepdata['Project Title'].loc[4357] = 'High Energy Physics - Energy, Intensity, Theoretical Frontier' 
     hepdata.to_pickle('../new_data/cleaned/hep_grants.pkl')
 
 
@@ -192,7 +207,8 @@ def clean_nsf_grant_data():
     mps_grants.loc[mps_grants['District'] == 'OR00', 'State'] = 'PR'
     mps_grants.loc[mps_grants['District'] == 'OR00', 'District'] = 'PR00'
     
-    mps_grants['Amount ($)'] = mps_grants['Amount ($)'].map(int)
+    mps_grants = mps_grants[mps_grants['Amount ($)'] > 0]
+    mps_grants['Amount ($)'] = mps_grants['Amount ($)'].round(0)
     pd.to_pickle(mps_grants, '../new_data/cleaned/nsf_mps_grants.pkl')
 
 

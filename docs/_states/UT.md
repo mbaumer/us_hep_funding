@@ -20,45 +20,42 @@ Mike Lee is the #11 Republican on the Senate Committee on Commerce, Science, and
 Mitt Romney is not on any of our key committees 
 
 ## HEP Grants
-```
 In the past 8 years, this state has received:
-19 HEP grants, totalling $3,715,000.00
- 
-                         Amount ($)
-Institution        Year            
-UNIVERSITY OF UTAH 2012       78000
-                   2013      245000
-University of Utah 2014      343000
-                   2015      657000
-                   2016     1052000
-                   2017      500000
-                   2018      840000
+19 HEP grants, totalling <b> $3,715,000</b>
 ```
-## SC Contracts
+  Year  Institution           Amount ($)
+------  ------------------  ------------
+  2018  University of Utah       840,000
+  2017  University of Utah       500,000
+  2016  University of Utah     1,052,000
+  2015  University of Utah       657,000
+  2014  University of Utah       343,000
+  2013  UNIVERSITY OF UTAH       245,000
+  2012  UNIVERSITY OF UTAH        78,000
 ```
+### SC Contracts
 In the past 8 years, this state has received:
-3 Office of Science contracts, totalling $9,829.00
- 
-                            Amount ($)
-Vendor                Year            
-OVID TECHNOLOGIES INC 2012        3028
-                      2014        3270
-                      2015        3531
+3 Office of Science contracts, totalling <b> $9,829</b>
+```
+  Year  Vendor                   Amount ($)  Item
+------  ---------------------  ------------  --------------------------
+  2015  OVID TECHNOLOGIES INC         3,531  NEWSPAPERS AND PERIODICALS
+  2014  OVID TECHNOLOGIES INC         3,270  NEWSPAPERS AND PERIODICALS
+  2012  OVID TECHNOLOGIES INC         3,028  NEWSPAPERS AND PERIODICALS
 ```
 ## NSF MPS Grants
-```
 In the past 8 years, this state has received:
-341 NSF MPS grants, totalling $79,522,976.00
- 
-                          Amount ($)
-Institution                         
-UNIVERSITY OF UTAH, THE     57302615
-BRIGHAM YOUNG UNIVERSITY    14715108
-UTAH STATE UNIVERSITY        5358219
-UNIVERSITY OF UTAH           1412034
-PII REDACTED                  300000
-UTAH VALLEY UNIVERSITY        300000
-DIXIE STATE UNIVERSITY        135000
+326 NSF MPS grants, totalling <b> $80,413,436</b>
+```
+Institution                 Amount ($)
+------------------------  ------------
+UNIVERSITY OF UTAH, THE     58,193,075
+BRIGHAM YOUNG UNIVERSITY    14,715,108
+UTAH STATE UNIVERSITY        5,358,219
+UNIVERSITY OF UTAH           1,412,034
+PII REDACTED                   300,000
+UTAH VALLEY UNIVERSITY         300,000
+DIXIE STATE UNIVERSITY         135,000
 ```
 ---
 ---
@@ -73,24 +70,25 @@ Rob Bishop is not on any of our key committees
 This district received no SC HEP grants from 2012-2019
 ```
 ### SC Contracts
+In the past 8 years, this district has received:
+1 Office of Science contracts, totalling <b> $3,028</b>
 ```
-In the past 8 years, this district has received: $3,028.00 in SC contracts.
-                            Amount ($)
-Vendor                Year            
-OVID TECHNOLOGIES INC 2012        3028
+  Year  Vendor                   Amount ($)  Item
+------  ---------------------  ------------  --------------------------
+  2012  OVID TECHNOLOGIES INC         3,028  NEWSPAPERS AND PERIODICALS
 ```
 ### NSF MPS Grants
+In the past 8 years, this district has received:<b> $5,358,219 </b>in NSF MPS grants.
 ```
-In the past 8 years, this district has received: $5,358,219.00 in NSF MPS grants.
-                            Amount ($)
-Institution           Year            
-UTAH STATE UNIVERSITY 2012      107800
-                      2013     1239268
-                      2014     1119543
-                      2015      312014
-                      2016      188391
-                      2017     1698561
-                      2018      692642
+  Year  Institution              Amount ($)
+------  ---------------------  ------------
+  2018  UTAH STATE UNIVERSITY       692,642
+  2017  UTAH STATE UNIVERSITY     1,698,561
+  2016  UTAH STATE UNIVERSITY       188,391
+  2015  UTAH STATE UNIVERSITY       312,014
+  2014  UTAH STATE UNIVERSITY     1,119,543
+  2013  UTAH STATE UNIVERSITY     1,239,268
+  2012  UTAH STATE UNIVERSITY       107,800
 ```
 ---
 <a name="UT-02"></a>
@@ -100,39 +98,42 @@ UTAH STATE UNIVERSITY 2012      107800
 Chris Stewart is the #18 Republican on the House Committee on Appropriations 
 
 ### HEP Grants
+In the past 8 years, this district has received:<b> $3,715,000 </b>in SC HEP grants.
 ```
-In the past 8 years, this district has received: $3,715,000.00 in SC HEP grants.
-                         Amount ($)
-Institution        Year            
-UNIVERSITY OF UTAH 2012       78000
-                   2013      245000
-University of Utah 2014      343000
-                   2015      657000
-                   2016     1052000
-                   2017      500000
-                   2018      840000
+Institution           Amount ($)    Start  End      Principal Investigator    Project Title
+------------------  ------------  -------  -------  ------------------------  ----------------------------------------------------------------------------------------------------------------------
+University of Utah       840,000     2018  Ongoing  DAWSON, KYLE              The Extended Baryon Oscillation Spectroscopic Survey at Apache Point Observatory
+University of Utah       550,000     2016  2017     DAWSON, KYLE              Spectral Templates and Models of Small-scale Clustering for eBOSS and DESI
+University of Utah         2,000     2016  2017     DAWSON, KYLE              Snowbird Particle Astrophysics and Cosmology Conference: The Galaxy/Halo Connection
+University of Utah     1,350,000     2015  2018     Dawson, Kyle              The Extended Baryon Oscillation Spectroscopic Survey at Apache Point Observatory
+University of Utah       327,000     2014  2017     Bolton, Adam              Integrating Advanced Software and Statistical Methods for Spectroscopic Dark-Energy Surveys
+University of Utah       245,000     2014  Ongoing  Dawson, Kyle              Spectral Templates and Models of Small-scale Clustering for eBOSS and DESI
+University of Utah        78,000     2014  2015     DeTar, Carleton           Searching for Physics Beyond the Standard Model: Strongly Coupled Field Theories at the Intensity and Energy Frontiers
+UNIVERSITY OF UTAH       150,000     2013  2014     Bolton                    Integrating Advanced Software and Statistical Methods for Spectroscopic Dark-Energy Surveys
+UNIVERSITY OF UTAH        95,000     2013  2014     Dawson                    Modeling Spectra of 160,000 BOSS Quasars for Lyman Alpha Studies
+UNIVERSITY OF UTAH        78,000     2012  2014     Detar                     Searching for Physics Beyond the Standard Model: Strongly Coupled Field Theories at the Intensity and Energy Frontiers
 ```
 ### SC Contracts
 ```
 This district received no SC contracts from 2012-2019
 ```
 ### NSF MPS Grants
+In the past 8 years, this district has received:<b> $60,040,109 </b>in NSF MPS grants.
 ```
-In the past 8 years, this district has received: $59,149,649.00 in NSF MPS grants.
-                              Amount ($)
-Institution             Year            
-DIXIE STATE UNIVERSITY  2015      135000
-PII REDACTED            2017      150000
-                        2018      150000
-UNIVERSITY OF UTAH      2015     1412034
-UNIVERSITY OF UTAH, THE 2012    10668783
-                        2013     8921795
-                        2014     8808133
-                        2015     4325370
-                        2016     6899593
-                        2017    10475573
-                        2018     6980759
-                        2019      222609
+  Year  Institution                Amount ($)
+------  -----------------------  ------------
+  2019  UNIVERSITY OF UTAH, THE       387,810
+  2018  PII REDACTED                  150,000
+  2018  UNIVERSITY OF UTAH, THE     7,464,742
+  2017  PII REDACTED                  150,000
+  2017  UNIVERSITY OF UTAH, THE    10,475,573
+  2016  UNIVERSITY OF UTAH, THE     7,140,869
+  2015  DIXIE STATE UNIVERSITY        135,000
+  2015  UNIVERSITY OF UTAH          1,412,034
+  2015  UNIVERSITY OF UTAH, THE     4,325,370
+  2014  UNIVERSITY OF UTAH, THE     8,808,133
+  2013  UNIVERSITY OF UTAH, THE     8,921,795
+  2012  UNIVERSITY OF UTAH, THE    10,668,783
 ```
 ---
 <a name="UT-03"></a>
@@ -150,19 +151,18 @@ This district received no SC HEP grants from 2012-2019
 This district received no SC contracts from 2012-2019
 ```
 ### NSF MPS Grants
+In the past 8 years, this district has received:<b> $15,015,108 </b>in NSF MPS grants.
 ```
-In the past 8 years, this district has received: $15,015,108.00 in NSF MPS grants.
-                               Amount ($)
-Institution              Year            
-BRIGHAM YOUNG UNIVERSITY 2012     2278835
-                         2013      893763
-                         2014     1108690
-                         2015      625808
-                         2016      906169
-                         2017     1630742
-                         2018     7271101
-UTAH VALLEY UNIVERSITY   2016      300000
-                         2018           0
+  Year  Institution                 Amount ($)
+------  ------------------------  ------------
+  2018  BRIGHAM YOUNG UNIVERSITY     7,271,101
+  2017  BRIGHAM YOUNG UNIVERSITY     1,630,742
+  2016  BRIGHAM YOUNG UNIVERSITY       906,169
+  2016  UTAH VALLEY UNIVERSITY         300,000
+  2015  BRIGHAM YOUNG UNIVERSITY       625,808
+  2014  BRIGHAM YOUNG UNIVERSITY     1,108,690
+  2013  BRIGHAM YOUNG UNIVERSITY       893,763
+  2012  BRIGHAM YOUNG UNIVERSITY     2,278,835
 ```
 ---
 <a name="UT-04"></a>
@@ -178,12 +178,13 @@ Ben McAdams is the #6 Democrat on the House Committee on Science, Space, and Tec
 This district received no SC HEP grants from 2012-2019
 ```
 ### SC Contracts
+In the past 8 years, this district has received:
+2 Office of Science contracts, totalling <b> $6,801</b>
 ```
-In the past 8 years, this district has received: $6,801.00 in SC contracts.
-                            Amount ($)
-Vendor                Year            
-OVID TECHNOLOGIES INC 2014        3270
-                      2015        3531
+  Year  Vendor                   Amount ($)  Item
+------  ---------------------  ------------  --------------------------
+  2015  OVID TECHNOLOGIES INC         3,531  NEWSPAPERS AND PERIODICALS
+  2014  OVID TECHNOLOGIES INC         3,270  NEWSPAPERS AND PERIODICALS
 ```
 ### NSF MPS Grants
 ```

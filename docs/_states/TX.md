@@ -16,54 +16,127 @@ John Cornyn is not on any of our key committees
 Ted Cruz is the #4 Republican on the Senate Committee on Commerce, Science, and Transportation 
 
 ## HEP Grants
-```
 In the past 8 years, this state has received:
-157 HEP grants, totalling $47,507,892.00
- 
-                                        Amount ($)
-Institution                                       
-Texas A&M University                       6644908
-Southern Methodist University              4763000
-University of Texas - Austin               4626984
-University of Texas - Arlington            3884000
-University of Houston                      3666000
-TEXAS A&M UNIVERSITY, COLLEGE STATION      3316000
-Texas Tech University                      2377000
-UNIVERSITY OF TEXAS, AUSTIN                2323000
-William Marsh Rice University              2260000
-Texas A&M University - College Station     1764000
-and  14  other institutions.
+157 HEP grants, totalling <b> $47,507,892</b>
 ```
-## SC Contracts
+Institution                               Amount ($)
+--------------------------------------  ------------
+Texas A&M University                       6,644,908
+Southern Methodist University              4,763,000
+University of Texas - Austin               4,626,984
+University of Texas - Arlington            3,884,000
+University of Houston                      3,666,000
+TEXAS A&M UNIVERSITY, COLLEGE STATION      3,316,000
+Texas Tech University                      2,377,000
+UNIVERSITY OF TEXAS, AUSTIN                2,323,000
+William Marsh Rice University              2,260,000
+Texas A&M University - College Station     1,764,000
+SOUTHERN METHODIST UNIVERSITY              1,648,000
+TEXAS TECH UNIVERSITY                      1,401,000
+UNIVERSITY OF  TEXAS, ARLINGTON            1,362,000
+RICE UNIVERSITY                            1,326,000
+Baylor University                          1,208,000
+University of Texas at Arlington           1,125,000
+University of Texas at Austin                915,000
+UNIVERSITY OF HOUSTON                        764,000
+Rice University                              638,000
+UNIVERSITY OF TEXAS, DALLAS                  535,000
+BAYLOR UNIVERSITY                            503,000
+University of Texas - Dallas                 333,000
+University of Texas at Dallas                125,000
+Texas A&M Research Foundation                      0
 ```
+### SC Contracts
 In the past 8 years, this state has received:
-7 Office of Science contracts, totalling $20,389.00
- 
-                                          Amount ($)
-Vendor                                              
-ALLIED ASSOCIATES COMMERCIAL FLOORS, INC       14963
-DELL MARKETING L.P.                             9995
-ALL BUSINESS MACHINES, INC.                        0
-DELL FINANCIAL SERVICES L. P.                  -4569
+4 Office of Science contracts, totalling <b> $61,090</b>
+```
+  Year  Vendor                                      Amount ($)  Item
+------  ----------------------------------------  ------------  --------------------------------
+  2018  ALL BUSINESS MACHINES, INC.                     35,929  TRACTOR, FULL TRACKED, LOW SPEED
+  2016  ALLIED ASSOCIATES COMMERCIAL FLOORS, INC        14,963  OFFICE FURNITURE
+  2013  DELL MARKETING L.P.                              4,037  ADP SOFTWARE
+  2012  DELL MARKETING L.P.                              6,161  ADP SOFTWARE
 ```
 ## NSF MPS Grants
-```
 In the past 8 years, this state has received:
-1857 NSF MPS grants, totalling $319,733,643.00
- 
-                                          Amount ($)
-Institution                                         
-UNIVERSITY OF TEXAS AT AUSTIN               69734300
-WILLIAM MARSH RICE UNIVERSITY               61686522
-TEXAS A & M UNIVERSITY                      44188101
-UNIVERSITY OF HOUSTON SYSTEM                21239608
-UNIVERSITY OF TEXAS AT DALLAS               13226680
-TEXAS TECH UNIVERSITY SYSTEM                 8294028
-TEXAS A&M ENGINEERING EXPERIMENT STATION     7654014
-UNIVERSITY OF TEXAS AT EL PASO               7477585
-UNIVERSITY OF NORTH TEXAS                    7128118
-UNIVERSITY OF TEXAS AT ARLINGTON             6972921
-and  65  other institutions.
+1714 NSF MPS grants, totalling <b> $332,561,769</b>
+```
+Institution                                                                 Amount ($)
+------------------------------------------------------------------------  ------------
+UNIVERSITY OF TEXAS AT AUSTIN                                               74,492,226
+WILLIAM MARSH RICE UNIVERSITY                                               62,291,429
+TEXAS A & M UNIVERSITY                                                      45,133,405
+UNIVERSITY OF HOUSTON SYSTEM                                                22,498,357
+UNIVERSITY OF TEXAS AT DALLAS                                               13,226,680
+TEXAS TECH UNIVERSITY SYSTEM                                                 8,880,268
+TEXAS A&M ENGINEERING EXPERIMENT STATION                                     8,392,624
+UNIVERSITY OF NORTH TEXAS                                                    7,928,510
+UNIVERSITY OF TEXAS AT EL PASO                                               7,477,585
+UNIVERSITY OF TEXAS AT ARLINGTON                                             7,309,102
+UNIVERSITY OF TEXAS AT SAN ANTONIO                                           5,485,030
+BAYLOR UNIVERSITY                                                            5,418,074
+TEXAS A & M RESEARCH FOUNDATION                                              5,130,828
+UNIVERSITY OF TEXAS SYSTEM                                                   4,857,189
+SOUTHERN METHODIST UNIVERSITY INC                                            4,662,472
+TRINITY UNIVERSITY                                                           3,040,613
+TEXAS STATE UNIVERSITY                                                       2,769,254
+TEXAS A&M UNIVERSITY-COMMERCE                                                2,703,839
+TEXAS STATE UNIVERSITY-SAN MARCOS                                            2,513,404
+SOUTHWEST RESEARCH INSTITUTE                                                 2,395,435
+UNIVERSITY OF TEXAS - PAN AMERICAN                                           2,299,001
+BAYLOR COLLEGE OF MEDICINE                                                   2,061,975
+TEXAS ENGINEERING EXPERIMENT STATION                                         1,750,258
+UNIVERSITY OF TEXAS AT SAN ANTONIO, THE                                      1,746,083
+UNIVERSITY OF TEXAS AT BROWNSVILLE                                           1,708,869
+UNIVERSITY OF TEXAS RIO GRANDE VALLEY, THE                                   1,697,601
+TEXAS A&M MAIN CAMPUS                                                        1,669,246
+TEXAS CHRISTIAN UNIVERSITY INC                                               1,664,734
+SOUTHERN METHODIST UNIVERSITY                                                1,473,993
+UNIVERSITY OF TEXAS MEDICAL BRANCH AT GALVEST                                1,274,248
+TEXAS TECH UNIVERSITY                                                        1,099,989
+SAM HOUSTON STATE UNIVERSITY                                                 1,084,922
+U OF HOUSTON                                                                   936,038
+UNIVERSITY OF TEXAS HEALTH SCIENCE CENTER OF                                   856,522
+UNIVERSITY OF TEXAS M D ANDERSON                                               777,916
+HOUSTON COMMUNITY COLLEGE, INC.                                                729,292
+SOUTHERN METHODIST UNIV                                                        717,841
+UNIVERSITY OF TEXAS M D ANDERSON CANCER CENTER                                 708,981
+UNIVERSITY OF TEXAS SOUTHWESTERN MEDICAL CENT                                  690,000
+WILLIAM MARSH RICE UNIV                                                        689,135
+TEXAS TECH UNIVERSITY HEALTH SCIENCES CENTER                                   616,464
+LAMAR UNIVERSITY                                                               611,819
+UNIVERSITY OF TEXAS MEDICAL BRANCH AT GALVESTON                                593,075
+U OF TEXAS AUSTIN                                                              551,971
+TEXAS A&M UNIVERSITY-CORPUS CHRISTI                                            550,000
+UNIVERSITY OF TEXAS HEALTH SCIENCE CENTER AT                                   505,042
+TEXAS A&M INTERNATIONAL UNIVERSITY FOUNDATION                                  494,097
+JACOBS TECHNOLOGY INC.                                                         493,232
+UNIVERSITY OF TEXAS AT TYLER, THE                                              489,266
+TEXAS A & M UNIVERSITY SYSTEM HEALTH SCIENCE                                   472,514
+TEXAS SOUTHERN UNIVERSITY                                                      420,551
+UT SOUTHWESTERN                                                                405,000
+TEXAS A&M UNIVERSITY SYSTEM,THE                                                381,686
+U OF TEXAS DALLAS                                                              349,996
+U OF TEXAS HSC SAN ANTONIO                                                     307,000
+AUSTIN COLLEGE                                                                 299,000
+UNIVERSITY OF TEXAS RIO GRANDE VALLEY FOUNDATION (UTRGV FOUNDATION), THE       286,000
+PRAIRIE VIEW A & M UNIVERSITY                                                  268,650
+TEXAS A&M UNIVERSITY-KINGSVILLE                                                229,395
+METHODIST HOSPITAL RESEARCH INSTITUTE, THE                                     228,398
+U OF TEXAS SAN ANTONIO                                                         193,635
+UNIVERSITY OF TEXAS RIO GRANDE VALLEY (UTRGV)                                  192,120
+STEPHEN F AUSTIN STATE UNIVERSITY                                              187,258
+MULTIPLE RECIPIENTS                                                            174,000
+UNIVERSITY OF TEXAS HEALTH SCIENCE CENTER AT HOUSTON                           164,496
+PRAIRIE VIEW A&M U                                                             159,387
+PII REDACTED                                                                   150,000
+U OF TEXAS BROWNSVILLE                                                         126,000
+TEXAS ENGINEERING EXP STA                                                      100,000
+THE TEXAS A&M U SYS HSC RF                                                      99,999
+TEXAS A&M UNIVERSITY                                                            95,416
+ABILENE CHRISTIAN UNIV                                                          51,199
+ABILENE CHRISTIAN UNIVERSITY                                                    51,135
+MIDWESTERN STATE UNIVERSITY                                                     21,000
 ```
 ---
 ---
@@ -82,17 +155,17 @@ This district received no SC HEP grants from 2012-2019
 This district received no SC contracts from 2012-2019
 ```
 ### NSF MPS Grants
+In the past 8 years, this district has received:<b> $676,524 </b>in NSF MPS grants.
 ```
-In the past 8 years, this district has received: $676,524.00 in NSF MPS grants.
-                                        Amount ($)
-Institution                       Year            
-STEPHEN F AUSTIN STATE UNIVERSITY 2017      179995
-                                  2018        7263
-UNIVERSITY OF TEXAS AT TYLER, THE 2012       71265
-                                  2013       71265
-                                  2014       85003
-                                  2017      254443
-                                  2018        7290
+  Year  Institution                          Amount ($)
+------  ---------------------------------  ------------
+  2018  STEPHEN F AUSTIN STATE UNIVERSITY         7,263
+  2018  UNIVERSITY OF TEXAS AT TYLER, THE         7,290
+  2017  STEPHEN F AUSTIN STATE UNIVERSITY       179,995
+  2017  UNIVERSITY OF TEXAS AT TYLER, THE       254,443
+  2014  UNIVERSITY OF TEXAS AT TYLER, THE        85,003
+  2013  UNIVERSITY OF TEXAS AT TYLER, THE        71,265
+  2012  UNIVERSITY OF TEXAS AT TYLER, THE        71,265
 ```
 ---
 <a name="TX-02"></a>
@@ -102,33 +175,32 @@ UNIVERSITY OF TEXAS AT TYLER, THE 2012       71265
 Dan Crenshaw is not on any of our key committees 
 
 ### HEP Grants
+In the past 8 years, this district has received:<b> $2,898,000 </b>in SC HEP grants.
 ```
-In the past 8 years, this district has received: $2,898,000.00 in SC HEP grants.
-                                    Amount ($)
-Institution                   Year            
-Rice University               2014      638000
-William Marsh Rice University 2015      561000
-                              2016      590000
-                              2017      684000
-                              2018      425000
+Institution                      Amount ($)    Start  End      Principal Investigator    Project Title
+-----------------------------  ------------  -------  -------  ------------------------  --------------------------------
+William Marsh Rice University       239,000     2017  Ongoing  Amin, Mustafa             Wires, Solitons and the Big Bang
+William Marsh Rice University       590,000     2016  2017     Padley, Brian             High Energy Physics
+William Marsh Rice University     1,431,000     2015  Ongoing  Padley, Paul              High Energy Physics
+Rice University                     638,000     2014  2015     Padley, Paul              High Energy Physics
 ```
 ### SC Contracts
 ```
 This district received no SC contracts from 2012-2019
 ```
 ### NSF MPS Grants
+In the past 8 years, this district has received:<b> $56,884,944 </b>in NSF MPS grants.
 ```
-In the past 8 years, this district has received: $56,256,488.00 in NSF MPS grants.
-                                    Amount ($)
-Institution                   Year            
-WILLIAM MARSH RICE UNIV       2015      665586
-WILLIAM MARSH RICE UNIVERSITY 2013    10034547
-                              2014     6925261
-                              2015     8289631
-                              2016     8327512
-                              2017    10920579
-                              2018    10386429
-                              2019      706943
+  Year  Institution                      Amount ($)
+------  -----------------------------  ------------
+  2019  WILLIAM MARSH RICE UNIVERSITY       706,943
+  2018  WILLIAM MARSH RICE UNIVERSITY    10,747,742
+  2017  WILLIAM MARSH RICE UNIVERSITY    10,920,579
+  2016  WILLIAM MARSH RICE UNIVERSITY     8,327,512
+  2015  WILLIAM MARSH RICE UNIV             689,135
+  2015  WILLIAM MARSH RICE UNIVERSITY     8,422,392
+  2014  WILLIAM MARSH RICE UNIVERSITY     7,036,094
+  2013  WILLIAM MARSH RICE UNIVERSITY    10,034,547
 ```
 ---
 <a name="TX-03"></a>
@@ -138,24 +210,24 @@ WILLIAM MARSH RICE UNIVERSITY 2013    10034547
 Van Taylor is the #4 Republican on the House Subcommittee on Early Childhood, Elementary, and Secondary Education 
 
 ### HEP Grants
+In the past 8 years, this district has received:<b> $535,000 </b>in SC HEP grants.
 ```
-In the past 8 years, this district has received: $535,000.00 in SC HEP grants.
-                                  Amount ($)
-Institution                 Year            
-UNIVERSITY OF TEXAS, DALLAS 2012      326000
-                            2013      209000
+Institution                    Amount ($)    Start    End  Principal Investigator    Project Title
+---------------------------  ------------  -------  -----  ------------------------  ---------------------------
+UNIVERSITY OF TEXAS, DALLAS       209,000     2013   2014  Izen                      Elementary Particle Physics
+UNIVERSITY OF TEXAS, DALLAS       326,000     2012   2013  Izen                      Elementary Particle Physics
 ```
 ### SC Contracts
 ```
 This district received no SC contracts from 2012-2019
 ```
 ### NSF MPS Grants
+In the past 8 years, this district has received:<b> $3,360,834 </b>in NSF MPS grants.
 ```
-In the past 8 years, this district has received: $3,360,834.00 in NSF MPS grants.
-                                    Amount ($)
-Institution                   Year            
-UNIVERSITY OF TEXAS AT DALLAS 2017     2018382
-                              2018     1342452
+  Year  Institution                      Amount ($)
+------  -----------------------------  ------------
+  2018  UNIVERSITY OF TEXAS AT DALLAS     1,342,452
+  2017  UNIVERSITY OF TEXAS AT DALLAS     2,018,382
 ```
 ---
 <a name="TX-04"></a>
@@ -173,17 +245,17 @@ This district received no SC HEP grants from 2012-2019
 This district received no SC contracts from 2012-2019
 ```
 ### NSF MPS Grants
+In the past 8 years, this district has received:<b> $3,098,255 </b>in NSF MPS grants.
 ```
-In the past 8 years, this district has received: $3,098,255.00 in NSF MPS grants.
-                                    Amount ($)
-Institution                   Year            
-AUSTIN COLLEGE                2017      299000
-TEXAS A&M UNIVERSITY          2015       95416
-TEXAS A&M UNIVERSITY-COMMERCE 2012      176227
-                              2013     1127384
-                              2014      550792
-                              2017      633169
-                              2018      216267
+  Year  Institution                      Amount ($)
+------  -----------------------------  ------------
+  2018  TEXAS A&M UNIVERSITY-COMMERCE       216,267
+  2017  AUSTIN COLLEGE                      299,000
+  2017  TEXAS A&M UNIVERSITY-COMMERCE       633,169
+  2015  TEXAS A&M UNIVERSITY                 95,416
+  2014  TEXAS A&M UNIVERSITY-COMMERCE       550,792
+  2013  TEXAS A&M UNIVERSITY-COMMERCE     1,127,384
+  2012  TEXAS A&M UNIVERSITY-COMMERCE       176,227
 ```
 ---
 <a name="TX-05"></a>
@@ -212,32 +284,35 @@ This district received no NSF MPS grants from 2012-2019
 Ron Wright is not on any of our key committees 
 
 ### HEP Grants
+In the past 8 years, this district has received:<b> $6,371,000 </b>in SC HEP grants.
 ```
-In the past 8 years, this district has received: $6,371,000.00 in SC HEP grants.
-                                       Amount ($)
-Institution                      Year            
-UNIVERSITY OF  TEXAS, ARLINGTON  2012      637000
-                                 2013      725000
-University of Texas - Arlington  2014      834000
-                                 2015     1010000
-                                 2016      890000
-                                 2017     1150000
-University of Texas at Arlington 2018     1125000
+Institution                         Amount ($)    Start  End      Principal Investigator    Project Title
+--------------------------------  ------------  -------  -------  ------------------------  ----------------------------------------------------------------------------------------------------------------------------------------------
+University of Texas at Arlington     1,125,000     2018  Ongoing  White, Andrew             RESEARCH IN ELEMENTARY PARTICLE PHYSICS
+University of Texas - Arlington          5,000     2017  2018     White, Andrew             Sensor Development for Future e+ e-  Colliders
+University of Texas - Arlington        125,000     2015  2018     Brandt, Andrew            Development of a Long Life Photomultiplier Tube for High Flux Applications
+University of Texas - Arlington              0     2014  2015     Brandt, Andrew            Advanced Detector Research:  Electronics for a Picosecond Time-of-Flight Measurement
+University of Texas - Arlington        150,000     2014  2015     Farbin, Amir              Model-Independent Dark-Matter Searches at the ATLAS Experiment & Applications of Many-core Computing to High Energy Physics; PI - Amir Farbin
+University of Texas - Arlington      3,604,000     2014  2018     White, Andrew             Research In Elementary Particle Physics
+UNIVERSITY OF  TEXAS, ARLINGTON         50,000     2013  2014     Yu                        Development of Large Area Gas Electron Multiplier Detector and Its Application to a Digital Hadron Calorimeter for Future Collider Experiments
+UNIVERSITY OF  TEXAS, ARLINGTON         37,000     2012  2013     Brandt                    Advanced Detector Research:  Electronics for a Picosecond Time-of-Flight Measurement
+UNIVERSITY OF  TEXAS, ARLINGTON      1,265,000     2012  2014     White                     Research in Experimental Elementary Particle Physics
+UNIVERSITY OF  TEXAS, ARLINGTON         10,000     2012  2013     Yu                        Support for the 2012 International Workshop on Future Linear Colliders
 ```
 ### SC Contracts
 ```
 This district received no SC contracts from 2012-2019
 ```
 ### NSF MPS Grants
+In the past 8 years, this district has received:<b> $3,916,977 </b>in NSF MPS grants.
 ```
-In the past 8 years, this district has received: $3,889,410.00 in NSF MPS grants.
-                                       Amount ($)
-Institution                      Year            
-UNIVERSITY OF TEXAS AT ARLINGTON 2015      793260
-                                 2016     1408150
-                                 2017     1340575
-                                 2018      247517
-                                 2019       99908
+  Year  Institution                         Amount ($)
+------  --------------------------------  ------------
+  2019  UNIVERSITY OF TEXAS AT ARLINGTON        99,908
+  2018  UNIVERSITY OF TEXAS AT ARLINGTON       275,084
+  2017  UNIVERSITY OF TEXAS AT ARLINGTON     1,340,575
+  2016  UNIVERSITY OF TEXAS AT ARLINGTON     1,408,150
+  2015  UNIVERSITY OF TEXAS AT ARLINGTON       793,260
 ```
 ---
 <a name="TX-07"></a>
@@ -249,25 +324,25 @@ Lizzie Fletcher is the #3 Democrat on the House Committee on Science, Space, and
 Lizzie Fletcher is the #7 Democrat on the House Committee on Science, Space, and Technology 
 
 ### HEP Grants
+In the past 8 years, this district has received:<b> $1,326,000 </b>in SC HEP grants.
 ```
-In the past 8 years, this district has received: $1,326,000.00 in SC HEP grants.
-                      Amount ($)
-Institution     Year            
-RICE UNIVERSITY 2012      740000
-                2013      586000
+Institution        Amount ($)    Start    End  Principal Investigator     Project Title
+---------------  ------------  -------  -----  -------------------------  -------------------
+RICE UNIVERSITY       586,000     2013   2014  Padley                     High Energy Physics
+RICE UNIVERSITY       740,000     2012   2013  Padley, Roberts, Corcoran  High Energy Physics
 ```
 ### SC Contracts
 ```
 This district received no SC contracts from 2012-2019
 ```
 ### NSF MPS Grants
+In the past 8 years, this district has received:<b> $6,286,968 </b>in NSF MPS grants.
 ```
-In the past 8 years, this district has received: $6,286,968.00 in NSF MPS grants.
-                                    Amount ($)
-Institution                   Year            
-BAYLOR COLLEGE OF MEDICINE    2012      191348
-WILLIAM MARSH RICE UNIVERSITY 2012     5690243
-                              2013      405377
+  Year  Institution                      Amount ($)
+------  -----------------------------  ------------
+  2013  WILLIAM MARSH RICE UNIVERSITY       405,377
+  2012  BAYLOR COLLEGE OF MEDICINE          191,348
+  2012  WILLIAM MARSH RICE UNIVERSITY     5,690,243
 ```
 ---
 <a name="TX-08"></a>
@@ -277,28 +352,28 @@ WILLIAM MARSH RICE UNIVERSITY 2012     5690243
 Kevin Brady is not on any of our key committees 
 
 ### HEP Grants
+In the past 8 years, this district has received:<b> $710,000 </b>in SC HEP grants.
 ```
-In the past 8 years, this district has received: $710,000.00 in SC HEP grants.
-                                            Amount ($)
-Institution                           Year            
-TEXAS A&M UNIVERSITY, COLLEGE STATION 2012       65000
-                                      2013      645000
+Institution                              Amount ($)    Start    End  Principal Investigator    Project Title
+-------------------------------------  ------------  -------  -----  ------------------------  -----------------------------------------------------------------------------------------------------------------------------------------------------------
+TEXAS A&M UNIVERSITY, COLLEGE STATION       645,000     2013   2014  Toback, Webb              High Energy Physics at Texas A&M University
+TEXAS A&M UNIVERSITY, COLLEGE STATION        65,000     2012   2013  Eusebi                    Enhancing the Discovery Reach of the CMS Detector, Upgraded Jet Energy Correction and Uncertainties as a Critical Component to Advanced Analysis Techniques
 ```
 ### SC Contracts
 ```
 This district received no SC contracts from 2012-2019
 ```
 ### NSF MPS Grants
+In the past 8 years, this district has received:<b> $1,084,922 </b>in NSF MPS grants.
 ```
-In the past 8 years, this district has received: $1,079,332.00 in NSF MPS grants.
-                                   Amount ($)
-Institution                  Year            
-SAM HOUSTON STATE UNIVERSITY 2013      403834
-                             2014      137572
-                             2015       25000
-                             2016       35560
-                             2017      237366
-                             2018      240000
+  Year  Institution                     Amount ($)
+------  ----------------------------  ------------
+  2018  SAM HOUSTON STATE UNIVERSITY       240,000
+  2017  SAM HOUSTON STATE UNIVERSITY       242,956
+  2016  SAM HOUSTON STATE UNIVERSITY        35,560
+  2015  SAM HOUSTON STATE UNIVERSITY        25,000
+  2014  SAM HOUSTON STATE UNIVERSITY       137,572
+  2013  SAM HOUSTON STATE UNIVERSITY       403,834
 ```
 ---
 <a name="TX-09"></a>
@@ -316,25 +391,25 @@ This district received no SC HEP grants from 2012-2019
 This district received no SC contracts from 2012-2019
 ```
 ### NSF MPS Grants
+In the past 8 years, this district has received:<b> $4,255,460 </b>in NSF MPS grants.
 ```
-In the past 8 years, this district has received: $4,255,460.00 in NSF MPS grants.
-                                                         Amount ($)
-Institution                                        Year            
-BAYLOR COLLEGE OF MEDICINE                         2013     1000419
-                                                   2014      186302
-                                                   2015      186302
-                                                   2016      186302
-                                                   2017      311302
-METHODIST HOSPITAL RESEARCH INSTITUTE, THE         2013      228398
-UNIVERSITY OF TEXAS HEALTH SCIENCE CENTER AT       2013      147000
-                                                   2015      220042
-                                                   2016      138000
-UNIVERSITY OF TEXAS HEALTH SCIENCE CENTER AT HO... 2017      164496
-UNIVERSITY OF TEXAS M D ANDERSON                   2014      296463
-                                                   2015      417034
-                                                   2016       64419
-UNIVERSITY OF TEXAS M D ANDERSON CANCER CENTER     2017      427817
-                                                   2018      281164
+  Year  Institution                                             Amount ($)
+------  ----------------------------------------------------  ------------
+  2018  UNIVERSITY OF TEXAS M D ANDERSON CANCER CENTER             281,164
+  2017  BAYLOR COLLEGE OF MEDICINE                                 311,302
+  2017  UNIVERSITY OF TEXAS HEALTH SCIENCE CENTER AT HOUSTON       164,496
+  2017  UNIVERSITY OF TEXAS M D ANDERSON CANCER CENTER             427,817
+  2016  BAYLOR COLLEGE OF MEDICINE                                 186,302
+  2016  UNIVERSITY OF TEXAS HEALTH SCIENCE CENTER AT               138,000
+  2016  UNIVERSITY OF TEXAS M D ANDERSON                            64,419
+  2015  BAYLOR COLLEGE OF MEDICINE                                 186,302
+  2015  UNIVERSITY OF TEXAS HEALTH SCIENCE CENTER AT               220,042
+  2015  UNIVERSITY OF TEXAS M D ANDERSON                           417,034
+  2014  BAYLOR COLLEGE OF MEDICINE                                 186,302
+  2014  UNIVERSITY OF TEXAS M D ANDERSON                           296,463
+  2013  BAYLOR COLLEGE OF MEDICINE                               1,000,419
+  2013  METHODIST HOSPITAL RESEARCH INSTITUTE, THE                 228,398
+  2013  UNIVERSITY OF TEXAS HEALTH SCIENCE CENTER AT               147,000
 ```
 ---
 <a name="TX-10"></a>
@@ -348,25 +423,25 @@ Michael T. McCaul is not on any of our key committees
 This district received no SC HEP grants from 2012-2019
 ```
 ### SC Contracts
+In the past 8 years, this district has received:
+1 Office of Science contracts, totalling <b> $6,161</b>
 ```
-In the past 8 years, this district has received: $1,390.00 in SC contracts.
-                                    Amount ($)
-Vendor                        Year            
-DELL FINANCIAL SERVICES L. P. 2012       -4569
-DELL MARKETING L.P.           2012        5959
+  Year  Vendor                 Amount ($)  Item
+------  -------------------  ------------  ------------
+  2012  DELL MARKETING L.P.         6,161  ADP SOFTWARE
 ```
 ### NSF MPS Grants
+In the past 8 years, this district has received:<b> $11,108,414 </b>in NSF MPS grants.
 ```
-In the past 8 years, this district has received: $11,108,414.00 in NSF MPS grants.
-                                        Amount ($)
-Institution                       Year            
-PRAIRIE VIEW A & M UNIVERSITY     2013       48000
-                                  2017      220650
-PRAIRIE VIEW A&M U                2014      159387
-TEXAS STATE UNIVERSITY            2014      467113
-TEXAS STATE UNIVERSITY-SAN MARCOS 2012     1697183
-                                  2013      816221
-UNIVERSITY OF TEXAS AT AUSTIN     2012     7699860
+  Year  Institution                          Amount ($)
+------  ---------------------------------  ------------
+  2017  PRAIRIE VIEW A & M UNIVERSITY           220,650
+  2014  PRAIRIE VIEW A&M U                      159,387
+  2014  TEXAS STATE UNIVERSITY                  467,113
+  2013  PRAIRIE VIEW A & M UNIVERSITY            48,000
+  2013  TEXAS STATE UNIVERSITY-SAN MARCOS       816,221
+  2012  TEXAS STATE UNIVERSITY-SAN MARCOS     1,697,183
+  2012  UNIVERSITY OF TEXAS AT AUSTIN         7,699,860
 ```
 ---
 <a name="TX-11"></a>
@@ -403,17 +478,17 @@ This district received no SC HEP grants from 2012-2019
 This district received no SC contracts from 2012-2019
 ```
 ### NSF MPS Grants
+In the past 8 years, this district has received:<b> $1,664,734 </b>in NSF MPS grants.
 ```
-In the past 8 years, this district has received: $1,664,734.00 in NSF MPS grants.
-                                     Amount ($)
-Institution                    Year            
-TEXAS CHRISTIAN UNIVERSITY INC 2012       43440
-                               2013      497726
-                               2014      143690
-                               2015      300000
-                               2016       72768
-                               2017      552110
-                               2018       55000
+  Year  Institution                       Amount ($)
+------  ------------------------------  ------------
+  2018  TEXAS CHRISTIAN UNIVERSITY INC        55,000
+  2017  TEXAS CHRISTIAN UNIVERSITY INC       552,110
+  2016  TEXAS CHRISTIAN UNIVERSITY INC        72,768
+  2015  TEXAS CHRISTIAN UNIVERSITY INC       300,000
+  2014  TEXAS CHRISTIAN UNIVERSITY INC       143,690
+  2013  TEXAS CHRISTIAN UNIVERSITY INC       497,726
+  2012  TEXAS CHRISTIAN UNIVERSITY INC        43,440
 ```
 ---
 <a name="TX-13"></a>
@@ -431,13 +506,13 @@ This district received no SC HEP grants from 2012-2019
 This district received no SC contracts from 2012-2019
 ```
 ### NSF MPS Grants
+In the past 8 years, this district has received:<b> $402,686 </b>in NSF MPS grants.
 ```
-In the past 8 years, this district has received: $402,686.00 in NSF MPS grants.
-                                      Amount ($)
-Institution                     Year            
-MIDWESTERN STATE UNIVERSITY     2018       21000
-TEXAS A&M UNIVERSITY SYSTEM,THE 2014      371700
-                                2016        9986
+  Year  Institution                        Amount ($)
+------  -------------------------------  ------------
+  2018  MIDWESTERN STATE UNIVERSITY            21,000
+  2016  TEXAS A&M UNIVERSITY SYSTEM,THE         9,986
+  2014  TEXAS A&M UNIVERSITY SYSTEM,THE       371,700
 ```
 ---
 <a name="TX-14"></a>
@@ -455,18 +530,17 @@ This district received no SC HEP grants from 2012-2019
 This district received no SC contracts from 2012-2019
 ```
 ### NSF MPS Grants
+In the past 8 years, this district has received:<b> $2,479,142 </b>in NSF MPS grants.
 ```
-In the past 8 years, this district has received: $2,479,142.00 in NSF MPS grants.
-                                                      Amount ($)
-Institution                                     Year            
-LAMAR UNIVERSITY                                2016      525000
-                                                2018       86819
-UNIVERSITY OF TEXAS MEDICAL BRANCH AT GALVEST   2012      210000
-                                                2013      480000
-                                                2014      133596
-                                                2016      450652
-UNIVERSITY OF TEXAS MEDICAL BRANCH AT GALVESTON 2017      593075
-                                                2018           0
+  Year  Institution                                        Amount ($)
+------  -----------------------------------------------  ------------
+  2018  LAMAR UNIVERSITY                                       86,819
+  2017  UNIVERSITY OF TEXAS MEDICAL BRANCH AT GALVESTON       593,075
+  2016  LAMAR UNIVERSITY                                      525,000
+  2016  UNIVERSITY OF TEXAS MEDICAL BRANCH AT GALVEST         450,652
+  2014  UNIVERSITY OF TEXAS MEDICAL BRANCH AT GALVEST         133,596
+  2013  UNIVERSITY OF TEXAS MEDICAL BRANCH AT GALVEST         480,000
+  2012  UNIVERSITY OF TEXAS MEDICAL BRANCH AT GALVEST         210,000
 ```
 ---
 <a name="TX-15"></a>
@@ -484,15 +558,15 @@ This district received no SC HEP grants from 2012-2019
 This district received no SC contracts from 2012-2019
 ```
 ### NSF MPS Grants
+In the past 8 years, this district has received:<b> $2,491,121 </b>in NSF MPS grants.
 ```
-In the past 8 years, this district has received: $2,491,121.00 in NSF MPS grants.
-                                                    Amount ($)
-Institution                                   Year            
-UNIVERSITY OF TEXAS - PAN AMERICAN            2012      578998
-                                              2013      682547
-                                              2014       87456
-                                              2015      950000
-UNIVERSITY OF TEXAS RIO GRANDE VALLEY (UTRGV) 2016      192120
+  Year  Institution                                      Amount ($)
+------  ---------------------------------------------  ------------
+  2016  UNIVERSITY OF TEXAS RIO GRANDE VALLEY (UTRGV)       192,120
+  2015  UNIVERSITY OF TEXAS - PAN AMERICAN                  950,000
+  2014  UNIVERSITY OF TEXAS - PAN AMERICAN                   87,456
+  2013  UNIVERSITY OF TEXAS - PAN AMERICAN                  682,547
+  2012  UNIVERSITY OF TEXAS - PAN AMERICAN                  578,998
 ```
 ---
 <a name="TX-16"></a>
@@ -510,17 +584,17 @@ This district received no SC HEP grants from 2012-2019
 This district received no SC contracts from 2012-2019
 ```
 ### NSF MPS Grants
+In the past 8 years, this district has received:<b> $7,477,585 </b>in NSF MPS grants.
 ```
-In the past 8 years, this district has received: $7,477,585.00 in NSF MPS grants.
-                                     Amount ($)
-Institution                    Year            
-UNIVERSITY OF TEXAS AT EL PASO 2012     1374004
-                               2013     1095400
-                               2014      638265
-                               2015      545527
-                               2016      141286
-                               2017     1249107
-                               2018     2433996
+  Year  Institution                       Amount ($)
+------  ------------------------------  ------------
+  2018  UNIVERSITY OF TEXAS AT EL PASO     2,433,996
+  2017  UNIVERSITY OF TEXAS AT EL PASO     1,249,107
+  2016  UNIVERSITY OF TEXAS AT EL PASO       141,286
+  2015  UNIVERSITY OF TEXAS AT EL PASO       545,527
+  2014  UNIVERSITY OF TEXAS AT EL PASO       638,265
+  2013  UNIVERSITY OF TEXAS AT EL PASO     1,095,400
+  2012  UNIVERSITY OF TEXAS AT EL PASO     1,374,004
 ```
 ---
 <a name="TX-17"></a>
@@ -530,69 +604,69 @@ UNIVERSITY OF TEXAS AT EL PASO 2012     1374004
 Bill Flores is the #17 Republican on the House Committee on Energy and Commerce 
 
 ### HEP Grants
+In the past 8 years, this district has received:<b> $12,725,908 </b>in SC HEP grants.
 ```
-In the past 8 years, this district has received: $12,725,908.00 in SC HEP grants.
-                                             Amount ($)
-Institution                            Year            
-BAYLOR UNIVERSITY                      2012      270000
-                                       2013      233000
-Baylor University                      2014      233000
-                                       2015      160000
-                                       2016      265000
-                                       2017      270000
-                                       2018      280000
-TEXAS A&M UNIVERSITY, COLLEGE STATION  2012     1732000
-                                       2013      874000
-Texas A&M Research Foundation          2015           0
-Texas A&M University                   2015     1835000
-                                       2016     1375000
-                                       2017     1995000
-                                       2018     1439908
-Texas A&M University - College Station 2014     1764000
+Institution                               Amount ($)    Start  End      Principal Investigator             Project Title
+--------------------------------------  ------------  -------  -------  ---------------------------------  -----------------------------------------------------------------------------------------------------------------
+Texas A&M University                         480,000     2018  Ongoing  Mahapatra, Rupak                   The SuperCDMS Program at Texas A&M University
+Texas A&M University                          74,908     2018  Ongoing  Mirabolfathi, Nader                Sub-Kelvin High Mass CCD Detectors For Dark Matter and Neutrino Searches
+Texas A&M University                         460,000     2017  Ongoing  Mahapatra, Rupak                   Ultra-low Threshold Cryogenic High Voltage Detectors for WIMP Search and Coherent Neutrino Scattering Experiments
+Texas A&M Research Foundation                      0     2015  2016     Mahapatra, Rupak                   Ton Scale Germanium: Beyond Zeptobarn Wimp Cross-Section
+Texas A&M University                       1,745,000     2015  Ongoing  Mahapatra, Rupak                   The Supercdms Program At Texas A&M University
+Texas A&M University                         300,000     2015  2018     McIntyre, Peter                    Lattice and Beam Dynamics Studies and Critical Component Development for a 15mA CW Strong Focusing Cyclotron
+Texas A&M University                       3,585,000     2015  Ongoing  Webb, Robert                       High Energy Physics at Texas A&M University
+Baylor University                          1,208,000     2014  Ongoing  Hatakeyama, Kenichi                Elementary Particle Physics at Baylor
+Texas A&M University - College Station       170,000     2014  2015     Mahapatra, Rupak                   Ton Scale Germanium: Beyond Zeptobarn WIMP Cross-section
+Texas A&M University - College Station       350,000     2014  2015     McIntyre, Peter                    High-Field Dipole Technology for LHC Tripler
+Texas A&M University - College Station     1,244,000     2014  2015     Webb, Robert                       High Energy Physics at Texas A&M University
+TEXAS A&M UNIVERSITY, COLLEGE STATION              0     2013  2014     McIntyre                           SRF-Test Cavity to test SRF materials to and beyond the BCS Limit
+BAYLOR UNIVERSITY                            448,000     2012  2014     Dittmann                           Elementary Particle Physics at Baylor
+BAYLOR UNIVERSITY                             55,000     2012  2014     Wang                               Horava-Lifshitz Theory and Applications to Cosmology and Astrophysics
+TEXAS A&M UNIVERSITY, COLLEGE STATION      1,511,000     2012  2014     McIntyre                           New Technology for Future Colliders
+TEXAS A&M UNIVERSITY, COLLEGE STATION      1,095,000     2012  2014     Webb, Nanopoulos, Kamon, McIntyre  High Energy Physics Research at Texas A&M University
 ```
 ### SC Contracts
 ```
 This district received no SC contracts from 2012-2019
 ```
 ### NSF MPS Grants
+In the past 8 years, this district has received:<b> $68,218,147 </b>in NSF MPS grants.
 ```
-In the past 8 years, this district has received: $65,550,716.00 in NSF MPS grants.
-                                                   Amount ($)
-Institution                                  Year            
-ABILENE CHRISTIAN UNIV                       2015       51199
-BAYLOR UNIVERSITY                            2012      863820
-                                             2013      294190
-                                             2014     1097524
-                                             2015      461088
-                                             2016      444216
-                                             2017      713860
-                                             2018     1458351
-TEXAS A & M RESEARCH FOUNDATION              2012     3399597
-                                             2013      961397
-                                             2014       15000
-                                             2015      -38830
-TEXAS A & M UNIVERSITY                       2012     5006664
-                                             2013     8376716
-                                             2014     3812962
-                                             2015     3485096
-                                             2016     6927665
-                                             2017     6523259
-                                             2018     9543288
-                                             2019      512451
-TEXAS A & M UNIVERSITY SYSTEM HEALTH SCIENCE 2012      272516
-                                             2013       99999
-                                             2014       99999
-TEXAS A&M ENGINEERING EXPERIMENT STATION     2013      935390
-                                             2014      766553
-                                             2015     1449284
-                                             2016     1047686
-                                             2017     1732900
-                                             2018     1722201
-TEXAS A&M MAIN CAMPUS                        2015     1564418
-TEXAS ENGINEERING EXP STA                    2015      100000
-TEXAS ENGINEERING EXPERIMENT STATION         2012     1291730
-                                             2013      458528
-THE TEXAS A&M U SYS HSC RF                   2015       99999
+  Year  Institution                                     Amount ($)
+------  --------------------------------------------  ------------
+  2019  TEXAS A & M UNIVERSITY                             565,046
+  2018  TEXAS A&M ENGINEERING EXPERIMENT STATION         1,852,390
+  2018  TEXAS A & M UNIVERSITY                           9,543,288
+  2018  BAYLOR UNIVERSITY                                1,543,376
+  2017  TEXAS A&M ENGINEERING EXPERIMENT STATION         1,732,900
+  2017  TEXAS A & M UNIVERSITY                           6,523,259
+  2017  BAYLOR UNIVERSITY                                  713,860
+  2016  TEXAS A&M ENGINEERING EXPERIMENT STATION         1,296,348
+  2016  TEXAS A & M UNIVERSITY                           6,927,665
+  2016  BAYLOR UNIVERSITY                                  444,216
+  2015  BAYLOR UNIVERSITY                                  461,088
+  2015  THE TEXAS A&M U SYS HSC RF                          99,999
+  2015  TEXAS ENGINEERING EXP STA                          100,000
+  2015  TEXAS A&M MAIN CAMPUS                            1,669,246
+  2015  TEXAS A&M ENGINEERING EXPERIMENT STATION         1,449,284
+  2015  TEXAS A & M UNIVERSITY                           3,752,166
+  2015  ABILENE CHRISTIAN UNIV                              51,199
+  2014  TEXAS A&M ENGINEERING EXPERIMENT STATION           853,807
+  2014  TEXAS A & M UNIVERSITY SYSTEM HEALTH SCIENCE        99,999
+  2014  TEXAS A & M UNIVERSITY                           4,438,601
+  2014  TEXAS A & M RESEARCH FOUNDATION                     15,000
+  2014  BAYLOR UNIVERSITY                                1,097,524
+  2013  TEXAS ENGINEERING EXPERIMENT STATION               458,528
+  2013  TEXAS A&M ENGINEERING EXPERIMENT STATION         1,207,895
+  2013  TEXAS A & M UNIVERSITY SYSTEM HEALTH SCIENCE        99,999
+  2013  TEXAS A & M UNIVERSITY                           8,376,716
+  2013  TEXAS A & M RESEARCH FOUNDATION                  1,476,680
+  2013  BAYLOR UNIVERSITY                                  294,190
+  2012  TEXAS A & M RESEARCH FOUNDATION                  3,639,148
+  2012  TEXAS ENGINEERING EXPERIMENT STATION             1,291,730
+  2012  TEXAS A & M UNIVERSITY SYSTEM HEALTH SCIENCE       272,516
+  2012  TEXAS A & M UNIVERSITY                           5,006,664
+  2012  BAYLOR UNIVERSITY                                  863,820
 ```
 ---
 <a name="TX-18"></a>
@@ -602,40 +676,40 @@ THE TEXAS A&M U SYS HSC RF                   2015       99999
 Sheila Jackson Lee is not on any of our key committees 
 
 ### HEP Grants
+In the past 8 years, this district has received:<b> $4,430,000 </b>in SC HEP grants.
 ```
-In the past 8 years, this district has received: $4,430,000.00 in SC HEP grants.
-                            Amount ($)
-Institution           Year            
-UNIVERSITY OF HOUSTON 2012      521000
-                      2013      243000
-University of Houston 2014      594000
-                      2015      501000
-                      2016      850000
-                      2017      476000
-                      2018     1245000
+Institution              Amount ($)    Start  End      Principal Investigator    Project Title
+---------------------  ------------  -------  -------  ------------------------  ---------------------------------------------------------------------------------------
+University of Houston       505,000     2018  Ongoing  Hungerford, Ed V.         Particle Physics Research at The University of Houston
+University of Houston        58,000     2017  2018     Koerner, Lisa             Precision Measurement of Electron Antineutrino Disappearance in the Daya Bay Experiment
+University of Houston     1,140,000     2016  Ongoing  Selvamanickam, Venkat     High Performance High-Field Superconducting Wires for Next Generation Accelerators
+University of Houston     1,640,000     2014  2018     Lau, Kwong                Particle Physics Research at The University of Houston
+University of Houston       323,000     2014  2017     Whitehead, Lisa           Precision Measurement of Electron Antineutrino Disappearance in the Daya Bay Experiment
+UNIVERSITY OF HOUSTON       395,000     2012  2014     Lau                       A Proposal to Measure the Neutrino Mixing Angle Theta_13 in the Daya Bay Experiment
+UNIVERSITY OF HOUSTON       369,000     2012  2014     Whitehead                 Precision Measurement of Electron Antineutrino Disappearance in the Daya Bay Experiment
 ```
 ### SC Contracts
 ```
 This district received no SC contracts from 2012-2019
 ```
 ### NSF MPS Grants
+In the past 8 years, this district has received:<b> $24,434,238 </b>in NSF MPS grants.
 ```
-In the past 8 years, this district has received: $23,175,489.00 in NSF MPS grants.
-                                      Amount ($)
-Institution                     Year            
-HOUSTON COMMUNITY COLLEGE, INC. 2015      729292
-TEXAS SOUTHERN UNIVERSITY       2013       65100
-                                2014       81500
-                                2018      273951
-U OF HOUSTON                    2015      936038
-UNIVERSITY OF HOUSTON SYSTEM    2012     2986444
-                                2013     1862230
-                                2014     3134116
-                                2015     3050037
-                                2016     2101879
-                                2017     4511991
-                                2018     3259121
-                                2019      183790
+  Year  Institution                        Amount ($)
+------  -------------------------------  ------------
+  2019  UNIVERSITY OF HOUSTON SYSTEM          183,790
+  2018  TEXAS SOUTHERN UNIVERSITY             273,951
+  2018  UNIVERSITY OF HOUSTON SYSTEM        3,396,733
+  2017  UNIVERSITY OF HOUSTON SYSTEM        4,971,991
+  2016  UNIVERSITY OF HOUSTON SYSTEM        2,101,879
+  2015  HOUSTON COMMUNITY COLLEGE, INC.       729,292
+  2015  U OF HOUSTON                          936,038
+  2015  UNIVERSITY OF HOUSTON SYSTEM        3,050,037
+  2014  TEXAS SOUTHERN UNIVERSITY              81,500
+  2014  UNIVERSITY OF HOUSTON SYSTEM        3,134,116
+  2013  TEXAS SOUTHERN UNIVERSITY              65,100
+  2013  UNIVERSITY OF HOUSTON SYSTEM        2,409,890
+  2012  UNIVERSITY OF HOUSTON SYSTEM        3,099,921
 ```
 ---
 <a name="TX-19"></a>
@@ -645,39 +719,42 @@ UNIVERSITY OF HOUSTON SYSTEM    2012     2986444
 Jodey C. Arrington is not on any of our key committees 
 
 ### HEP Grants
+In the past 8 years, this district has received:<b> $3,778,000 </b>in SC HEP grants.
 ```
-In the past 8 years, this district has received: $3,778,000.00 in SC HEP grants.
-                            Amount ($)
-Institution           Year            
-TEXAS TECH UNIVERSITY 2012      697000
-                      2013      704000
-Texas Tech University 2014      707000
-                      2015      250000
-                      2016      470000
-                      2017      480000
-                      2018      470000
+Institution              Amount ($)    Start  End      Principal Investigator    Project Title
+---------------------  ------------  -------  -------  ------------------------  ---------------------------------------------------------------------------------------------
+Texas Tech University       470,000     2017  2018     AKCHURIN, Nural           Experimental Particle Physics Research at Texas Tech University
+Texas Tech University        10,000     2017  2018     Kunori, Shuichi           R&D on silicon detectors for future collider experiments
+Texas Tech University       940,000     2016  Ongoing  Akchurin, Nural           Experimental Particle Physics Research at Texas Tech University
+Texas Tech University       250,000     2015  2016     AKCHURIN, Nural           Experimental Particle Physics Research At Texas Tech University
+Texas Tech University       240,000     2014  2017     Wigmans, Richard          The Superdream Project
+Texas Tech University       467,000     2014  2015     Wigmans, Richard          Experimental Particle Physics Research at Texas Tech University
+TEXAS TECH UNIVERSITY         9,000     2012  2013     Akchurin                  CALOR2012 XVth International Conference on Calorimetry in High Energy Physics, June 4-8, 2012
+TEXAS TECH UNIVERSITY       495,000     2012  2014     Wigmans                   The SuperDREAM Project
+TEXAS TECH UNIVERSITY       897,000     2012  2014     Wigmans                   Experimental Particle Physics Research at Texas Tech University
+TEXAS TECH UNIVERSITY             0     2012  2013     Wigmans                   Experimental Particle Physics Research
 ```
 ### SC Contracts
 ```
 This district received no SC contracts from 2012-2019
 ```
 ### NSF MPS Grants
+In the past 8 years, this district has received:<b> $10,647,856 </b>in NSF MPS grants.
 ```
-In the past 8 years, this district has received: $10,061,616.00 in NSF MPS grants.
-                                                   Amount ($)
-Institution                                  Year            
-ABILENE CHRISTIAN UNIVERSITY                 2017       51135
-TEXAS TECH UNIVERSITY                        2015     1099989
-TEXAS TECH UNIVERSITY HEALTH SCIENCES CENTER 2016      443322
-                                             2018      173142
-TEXAS TECH UNIVERSITY SYSTEM                 2012     1124268
-                                             2013      694500
-                                             2014     1740120
-                                             2015     1110188
-                                             2016     2158121
-                                             2017     1369482
-                                             2018       54825
-                                             2019       42524
+  Year  Institution                                     Amount ($)
+------  --------------------------------------------  ------------
+  2019  TEXAS TECH UNIVERSITY SYSTEM                       117,987
+  2018  TEXAS TECH UNIVERSITY HEALTH SCIENCES CENTER       173,142
+  2018  TEXAS TECH UNIVERSITY SYSTEM                       565,602
+  2017  ABILENE CHRISTIAN UNIVERSITY                        51,135
+  2017  TEXAS TECH UNIVERSITY SYSTEM                     1,369,482
+  2016  TEXAS TECH UNIVERSITY HEALTH SCIENCES CENTER       443,322
+  2016  TEXAS TECH UNIVERSITY SYSTEM                     2,158,121
+  2015  TEXAS TECH UNIVERSITY                            1,099,989
+  2015  TEXAS TECH UNIVERSITY SYSTEM                     1,110,188
+  2014  TEXAS TECH UNIVERSITY SYSTEM                     1,740,120
+  2013  TEXAS TECH UNIVERSITY SYSTEM                       694,500
+  2012  TEXAS TECH UNIVERSITY SYSTEM                     1,124,268
 ```
 ---
 <a name="TX-20"></a>
@@ -695,19 +772,19 @@ This district received no SC HEP grants from 2012-2019
 This district received no SC contracts from 2012-2019
 ```
 ### NSF MPS Grants
+In the past 8 years, this district has received:<b> $5,045,729 </b>in NSF MPS grants.
 ```
-In the past 8 years, this district has received: $5,045,729.00 in NSF MPS grants.
-                                              Amount ($)
-Institution                             Year            
-SOUTHWEST RESEARCH INSTITUTE            2012      383017
-                                        2014      395000
-                                        2015      701119
-                                        2016      159323
-                                        2017      428092
-                                        2018      328884
-UNIVERSITY OF TEXAS AT SAN ANTONIO      2017      904211
-UNIVERSITY OF TEXAS AT SAN ANTONIO, THE 2017      194159
-                                        2018     1551924
+  Year  Institution                                Amount ($)
+------  ---------------------------------------  ------------
+  2018  SOUTHWEST RESEARCH INSTITUTE                  328,884
+  2018  UNIVERSITY OF TEXAS AT SAN ANTONIO, THE     1,551,924
+  2017  SOUTHWEST RESEARCH INSTITUTE                  428,092
+  2017  UNIVERSITY OF TEXAS AT SAN ANTONIO            904,211
+  2017  UNIVERSITY OF TEXAS AT SAN ANTONIO, THE       194,159
+  2016  SOUTHWEST RESEARCH INSTITUTE                  159,323
+  2015  SOUTHWEST RESEARCH INSTITUTE                  701,119
+  2014  SOUTHWEST RESEARCH INSTITUTE                  395,000
+  2012  SOUTHWEST RESEARCH INSTITUTE                  383,017
 ```
 ---
 <a name="TX-21"></a>
@@ -717,38 +794,38 @@ UNIVERSITY OF TEXAS AT SAN ANTONIO, THE 2017      194159
 Chip Roy is not on any of our key committees 
 
 ### HEP Grants
+In the past 8 years, this district has received:<b> $2,323,000 </b>in SC HEP grants.
 ```
-In the past 8 years, this district has received: $2,323,000.00 in SC HEP grants.
-                                  Amount ($)
-Institution                 Year            
-UNIVERSITY OF TEXAS, AUSTIN 2012     1239000
-                            2013     1084000
+Institution                    Amount ($)    Start    End  Principal Investigator    Project Title
+---------------------------  ------------  -------  -----  ------------------------  ---------------------------------------------------------------------------------------
+UNIVERSITY OF TEXAS, AUSTIN        95,000     2012   2013  Downer                    Organization of the 15th Advanced Accelerator Concepts (AAC) Workshop, June 10-15, 2012
+UNIVERSITY OF TEXAS, AUSTIN       663,000     2012   2014  Downer                    Laser Wakefield Acceleration: Channeling, Seeding, and Diagnostics
+UNIVERSITY OF TEXAS, AUSTIN     1,195,000     2012   2014  Ritchie                   Research in High Energy Physics
+UNIVERSITY OF TEXAS, AUSTIN       370,000     2012   2014  Shvets                    Investigations of the Plasma and Structure-Based Particle Accelerators
 ```
 ### SC Contracts
 ```
 This district received no SC contracts from 2012-2019
 ```
 ### NSF MPS Grants
+In the past 8 years, this district has received:<b> $11,921,172 </b>in NSF MPS grants.
 ```
-In the past 8 years, this district has received: $11,373,599.00 in NSF MPS grants.
-                                                   Amount ($)
-Institution                                  Year            
-TEXAS STATE UNIVERSITY                       2017      541530
-                                             2018      851742
-                                             2019      -14549
-TRINITY UNIVERSITY                           2012      485460
-                                             2013     1188764
-                                             2014      -36043
-                                             2015      160554
-                                             2017      681055
-                                             2018      166338
-                                             2019      309248
-U OF TEXAS HSC SAN ANTONIO                   2015      307000
-UNIVERSITY OF TEXAS AT AUSTIN                2012     6006114
-                                             2013     -130136
-UNIVERSITY OF TEXAS HEALTH SCIENCE CENTER OF 2013      263926
-                                             2014      430000
-                                             2016      162596
+  Year  Institution                                     Amount ($)
+------  --------------------------------------------  ------------
+  2019  TRINITY UNIVERSITY                                 309,248
+  2018  TEXAS STATE UNIVERSITY                             910,594
+  2018  TRINITY UNIVERSITY                                 166,338
+  2017  TEXAS STATE UNIVERSITY                             541,530
+  2017  TRINITY UNIVERSITY                                 681,055
+  2016  UNIVERSITY OF TEXAS HEALTH SCIENCE CENTER OF       162,596
+  2015  TRINITY UNIVERSITY                                 160,554
+  2015  U OF TEXAS HSC SAN ANTONIO                         307,000
+  2014  TRINITY UNIVERSITY                                  49,194
+  2014  UNIVERSITY OF TEXAS HEALTH SCIENCE CENTER OF       430,000
+  2013  TRINITY UNIVERSITY                               1,188,764
+  2013  UNIVERSITY OF TEXAS HEALTH SCIENCE CENTER OF       263,926
+  2012  TRINITY UNIVERSITY                                 485,460
+  2012  UNIVERSITY OF TEXAS AT AUSTIN                    6,264,913
 ```
 ---
 <a name="TX-22"></a>
@@ -768,11 +845,11 @@ This district received no SC HEP grants from 2012-2019
 This district received no SC contracts from 2012-2019
 ```
 ### NSF MPS Grants
+In the past 8 years, this district has received:<b> $150,000 </b>in NSF MPS grants.
 ```
-In the past 8 years, this district has received: $150,000.00 in NSF MPS grants.
-                                   Amount ($)
-Institution                  Year            
-UNIVERSITY OF HOUSTON SYSTEM 2012      150000
+  Year  Institution                     Amount ($)
+------  ----------------------------  ------------
+  2012  UNIVERSITY OF HOUSTON SYSTEM       150,000
 ```
 ---
 <a name="TX-23"></a>
@@ -790,16 +867,16 @@ This district received no SC HEP grants from 2012-2019
 This district received no SC contracts from 2012-2019
 ```
 ### NSF MPS Grants
+In the past 8 years, this district has received:<b> $4,774,454 </b>in NSF MPS grants.
 ```
-In the past 8 years, this district has received: $4,774,454.00 in NSF MPS grants.
-                                         Amount ($)
-Institution                        Year            
-U OF TEXAS SAN ANTONIO             2015      193635
-UNIVERSITY OF TEXAS AT SAN ANTONIO 2012      665902
-                                   2013      696331
-                                   2014      770000
-                                   2015      969223
-                                   2016     1479363
+  Year  Institution                           Amount ($)
+------  ----------------------------------  ------------
+  2016  UNIVERSITY OF TEXAS AT SAN ANTONIO     1,479,363
+  2015  U OF TEXAS SAN ANTONIO                   193,635
+  2015  UNIVERSITY OF TEXAS AT SAN ANTONIO       969,223
+  2014  UNIVERSITY OF TEXAS AT SAN ANTONIO       770,000
+  2013  UNIVERSITY OF TEXAS AT SAN ANTONIO       696,331
+  2012  UNIVERSITY OF TEXAS AT SAN ANTONIO       665,902
 ```
 ---
 <a name="TX-24"></a>
@@ -817,13 +894,13 @@ This district received no SC HEP grants from 2012-2019
 This district received no SC contracts from 2012-2019
 ```
 ### NSF MPS Grants
+In the past 8 years, this district has received:<b> $3,392,125 </b>in NSF MPS grants.
 ```
-In the past 8 years, this district has received: $3,083,511.00 in NSF MPS grants.
-                                       Amount ($)
-Institution                      Year            
-UNIVERSITY OF TEXAS AT ARLINGTON 2012      817670
-                                 2013     2207841
-                                 2014       58000
+  Year  Institution                         Amount ($)
+------  --------------------------------  ------------
+  2014  UNIVERSITY OF TEXAS AT ARLINGTON        58,000
+  2013  UNIVERSITY OF TEXAS AT ARLINGTON     2,516,455
+  2012  UNIVERSITY OF TEXAS AT ARLINGTON       817,670
 ```
 ---
 <a name="TX-25"></a>
@@ -833,37 +910,40 @@ UNIVERSITY OF TEXAS AT ARLINGTON 2012      817670
 Roger Williams is not on any of our key committees 
 
 ### HEP Grants
+In the past 8 years, this district has received:<b> $5,541,984 </b>in SC HEP grants.
 ```
-In the past 8 years, this district has received: $5,541,984.00 in SC HEP grants.
-                                    Amount ($)
-Institution                   Year            
-University of Texas - Austin  2014     1058000
-                              2015     1563984
-                              2016     1035000
-                              2017      970000
-University of Texas at Austin 2018      915000
+Institution                      Amount ($)    Start  End      Principal Investigator    Project Title
+-----------------------------  ------------  -------  -------  ------------------------  ----------------------------------------------------------------------
+University of Texas at Austin       425,000     2018  Ongoing  Downer, Michael           Multi-GeV Laser-Plasma Acceleration Physics
+University of Texas at Austin       490,000     2018  Ongoing  Ritchie, Jack             Research in High Energy Physics
+University of Texas at Austin             0     2018  Ongoing  Shih, Chih-Kang           Investigations of the Plasma and Structure-Based Particle Accelerators
+University of Texas - Austin         40,000     2017  2018     Andeen, Timothy           Building Towards Discovery: Preparing for New Physics at The LHC
+University of Texas - Austin         -6,016     2015  2016     Ritchie, Jack             Closeout Modification For Grant #De-Fg02-93Er40757.
+University of Texas - Austin              0     2014  2015     Downer, Michael           LASER WAKEFIELD ACCELERATION: CHANNELING, SEEDING, AND DIAGNOSTICS
+University of Texas - Austin      1,400,000     2014  2018     Downer, Michael           Multi-Gev Laser-Plasma Acceleration Physics
+University of Texas - Austin      2,462,000     2014  2018     Ritchie, Jack             Research in High Energy Physics
+University of Texas - Austin        731,000     2014  2018     Shvets, Gennady           Investigations of the Plasma and Structure-Based Particle Accelerators
 ```
 ### SC Contracts
 ```
 This district received no SC contracts from 2012-2019
 ```
 ### NSF MPS Grants
+In the past 8 years, this district has received:<b> $66,260,613 </b>in NSF MPS grants.
 ```
-In the past 8 years, this district has received: $61,198,239.00 in NSF MPS grants.
-                                    Amount ($)
-Institution                   Year            
-MULTIPLE RECIPIENTS           2013      174000
-                              2014      -84545
-PII REDACTED                  2018      150000
-U OF TEXAS AUSTIN             2015       37429
-UNIVERSITY OF TEXAS AT AUSTIN 2013     9098226
-                              2014     6426665
-                              2015     5840175
-                              2016     6269338
-                              2017    14036888
-                              2018    14219604
-                              2019      267566
-UNIVERSITY OF TEXAS SYSTEM    2016     4762893
+  Year  Institution                      Amount ($)
+------  -----------------------------  ------------
+  2019  UNIVERSITY OF TEXAS AT AUSTIN       267,566
+  2018  PII REDACTED                        150,000
+  2018  UNIVERSITY OF TEXAS AT AUSTIN    14,928,332
+  2017  UNIVERSITY OF TEXAS AT AUSTIN    15,442,588
+  2016  UNIVERSITY OF TEXAS AT AUSTIN     6,705,894
+  2016  UNIVERSITY OF TEXAS SYSTEM        4,857,189
+  2015  U OF TEXAS AUSTIN                   551,971
+  2015  UNIVERSITY OF TEXAS AT AUSTIN     6,030,175
+  2014  UNIVERSITY OF TEXAS AT AUSTIN     6,622,531
+  2013  MULTIPLE RECIPIENTS                 174,000
+  2013  UNIVERSITY OF TEXAS AT AUSTIN    10,530,367
 ```
 ---
 <a name="TX-26"></a>
@@ -881,17 +961,17 @@ This district received no SC HEP grants from 2012-2019
 This district received no SC contracts from 2012-2019
 ```
 ### NSF MPS Grants
+In the past 8 years, this district has received:<b> $7,928,510 </b>in NSF MPS grants.
 ```
-In the past 8 years, this district has received: $7,128,118.00 in NSF MPS grants.
-                                Amount ($)
-Institution               Year            
-UNIVERSITY OF NORTH TEXAS 2012     1298235
-                          2013      417009
-                          2014     2121412
-                          2015     2389045
-                          2016     -616670
-                          2017      434820
-                          2018     1084267
+  Year  Institution                  Amount ($)
+------  -------------------------  ------------
+  2018  UNIVERSITY OF NORTH TEXAS     1,084,267
+  2017  UNIVERSITY OF NORTH TEXAS       434,820
+  2016  UNIVERSITY OF NORTH TEXAS       183,722
+  2015  UNIVERSITY OF NORTH TEXAS     2,389,045
+  2014  UNIVERSITY OF NORTH TEXAS     2,121,412
+  2013  UNIVERSITY OF NORTH TEXAS       417,009
+  2012  UNIVERSITY OF NORTH TEXAS     1,298,235
 ```
 ---
 <a name="TX-27"></a>
@@ -909,14 +989,14 @@ This district received no SC HEP grants from 2012-2019
 This district received no SC contracts from 2012-2019
 ```
 ### NSF MPS Grants
+In the past 8 years, this district has received:<b> $923,837 </b>in NSF MPS grants.
 ```
-In the past 8 years, this district has received: $923,837.00 in NSF MPS grants.
-                                          Amount ($)
-Institution                         Year            
-TEXAS A&M UNIVERSITY-CORPUS CHRISTI 2012      275000
-                                    2015       61137
-                                    2017      213863
-UNIVERSITY OF TEXAS AT BROWNSVILLE  2012      373837
+  Year  Institution                            Amount ($)
+------  -----------------------------------  ------------
+  2017  TEXAS A&M UNIVERSITY-CORPUS CHRISTI       213,863
+  2015  TEXAS A&M UNIVERSITY-CORPUS CHRISTI        61,137
+  2012  TEXAS A&M UNIVERSITY-CORPUS CHRISTI       275,000
+  2012  UNIVERSITY OF TEXAS AT BROWNSVILLE        373,837
 ```
 ---
 <a name="TX-28"></a>
@@ -930,23 +1010,23 @@ Henry Cuellar is the #14 Democrat on the House Committee on Appropriations
 This district received no SC HEP grants from 2012-2019
 ```
 ### SC Contracts
+In the past 8 years, this district has received:
+1 Office of Science contracts, totalling <b> $14,963</b>
 ```
-In the past 8 years, this district has received: $14,963.00 in SC contracts.
-                                               Amount ($)
-Vendor                                   Year            
-ALLIED ASSOCIATES COMMERCIAL FLOORS, INC 2016       14963
+  Year  Vendor                                      Amount ($)  Item
+------  ----------------------------------------  ------------  ----------------
+  2016  ALLIED ASSOCIATES COMMERCIAL FLOORS, INC        14,963  OFFICE FURNITURE
 ```
 ### NSF MPS Grants
+In the past 8 years, this district has received:<b> $1,344,114 </b>in NSF MPS grants.
 ```
-In the past 8 years, this district has received: $1,320,658.00 in NSF MPS grants.
-                                                    Amount ($)
-Institution                                   Year            
-TEXAS A&M INTERNATIONAL UNIVERSITY FOUNDATION 2012      159357
-                                              2013      274900
-                                              2015       59840
-TEXAS STATE UNIVERSITY                        2015      165964
-                                              2016      684053
-                                              2017      -23456
+  Year  Institution                                      Amount ($)
+------  ---------------------------------------------  ------------
+  2016  TEXAS STATE UNIVERSITY                              684,053
+  2015  TEXAS A&M INTERNATIONAL UNIVERSITY FOUNDATION        59,840
+  2015  TEXAS STATE UNIVERSITY                              165,964
+  2013  TEXAS A&M INTERNATIONAL UNIVERSITY FOUNDATION       274,900
+  2012  TEXAS A&M INTERNATIONAL UNIVERSITY FOUNDATION       159,357
 ```
 ---
 <a name="TX-29"></a>
@@ -983,14 +1063,13 @@ This district received no SC HEP grants from 2012-2019
 This district received no SC contracts from 2012-2019
 ```
 ### NSF MPS Grants
+In the past 8 years, this district has received:<b> $1,095,000 </b>in NSF MPS grants.
 ```
-In the past 8 years, this district has received: $690,000.00 in NSF MPS grants.
-                                                    Amount ($)
-Institution                                   Year            
-UNIVERSITY OF TEXAS SOUTHWESTERN MEDICAL CENT 2012      476711
-                                              2013      213289
-                                              2015     -405000
-UT SOUTHWESTERN                               2015      405000
+  Year  Institution                                      Amount ($)
+------  ---------------------------------------------  ------------
+  2015  UT SOUTHWESTERN                                     405,000
+  2013  UNIVERSITY OF TEXAS SOUTHWESTERN MEDICAL CENT       213,289
+  2012  UNIVERSITY OF TEXAS SOUTHWESTERN MEDICAL CENT       476,711
 ```
 ---
 <a name="TX-31"></a>
@@ -1004,11 +1083,12 @@ John R. Carter is the #5 Republican on the House Committee on Appropriations
 This district received no SC HEP grants from 2012-2019
 ```
 ### SC Contracts
+In the past 8 years, this district has received:
+1 Office of Science contracts, totalling <b> $4,037</b>
 ```
-In the past 8 years, this district has received: $4,036.00 in SC contracts.
-                          Amount ($)
-Vendor              Year            
-DELL MARKETING L.P. 2013        4036
+  Year  Vendor                 Amount ($)  Item
+------  -------------------  ------------  ------------
+  2013  DELL MARKETING L.P.         4,037  ADP SOFTWARE
 ```
 ### NSF MPS Grants
 ```
@@ -1022,46 +1102,50 @@ This district received no NSF MPS grants from 2012-2019
 Colin Z. Allred is not on any of our key committees 
 
 ### HEP Grants
+In the past 8 years, this district has received:<b> $6,869,000 </b>in SC HEP grants.
 ```
-In the past 8 years, this district has received: $6,869,000.00 in SC HEP grants.
-                                    Amount ($)
-Institution                   Year            
-SOUTHERN METHODIST UNIVERSITY 2012      907000
-                              2013      741000
-Southern Methodist University 2014     1063000
-                              2015     1159000
-                              2016      800000
-                              2017     1011000
-                              2018      730000
-University of Texas - Dallas  2014      173000
-                              2015      100000
-                              2016       60000
-                              2017           0
-University of Texas at Dallas 2018      125000
+Institution                      Amount ($)    Start  End      Principal Investigator    Project Title
+-----------------------------  ------------  -------  -------  ------------------------  --------------------------------------------------------------------------------------------------------------------
+University of Texas at Dallas       125,000     2018  Ongoing  Ishak-Boushaki, Mustapha  Numerical Codes for the DESC-LSST Analysis Pipeline: Core Cosmology Library Standard Modules and Beyond wCDM Modules
+Southern Methodist University       265,000     2017  Ongoing  Kehoe, Robert             Research on the DESI Experiment at Southern Methodist Univeristy
+University of Texas - Dallas         60,000     2016  2017     Izen, Joseph              Elementary Particle Physics
+Southern Methodist University       145,000     2015  2016     Nadolsky, Pavel           Studies Of Qcd Structure In High Energy Collisions
+Southern Methodist University       300,000     2014  2016     Coan, Thomas              High Energy Neutrino Physics with NOvA
+Southern Methodist University       250,000     2014  2017     Gui, PIng                 Design and Implementation of Low-Power GigaBit Transceivers with SEU Tolerance for LHC Upgrade
+Southern Methodist University       150,000     2014  2016     Nadolsky, Pavel           Integrated Analysis of Particle Interactions at Hardon Colliders
+Southern Methodist University       267,000     2014  2016     Olness, Frederick         Theoretical Research in Particle Physics at Southern Methodist University
+Southern Methodist University     3,386,000     2014  Ongoing  Stroynowski, Ryszard      Research in High Energy Physics at Southern Methodist University
+University of Texas - Dallas        273,000     2014  2018     IZEN, Joseph              Elementary Particle Physics
+SOUTHERN METHODIST UNIVERSITY       123,000     2013  2014     Coan                      High Energy Neutrino Physics with NOvA
+SOUTHERN METHODIST UNIVERSITY             0     2013  2014     Olness                    Theoretical Research in Particle Physics at Southern Methodist University
+SOUTHERN METHODIST UNIVERSITY       545,000     2013  2014     Stroynowski               Research at the Energy Frontier at Southern Methodist University
+SOUTHERN METHODIST UNIVERSITY       148,000     2012  2014     Gui                       Design and Implementation of Low-Power GigaBit Transceivers with SEU Tolerance for LHC Upgrade
+SOUTHERN METHODIST UNIVERSITY        55,000     2012  2013     Sekula                    A Search for Charged Higgs Boson via H^{ }\to\tau^{ }\nu
+SOUTHERN METHODIST UNIVERSITY       777,000     2012  2013     Stroynowski               High Energy Physics
 ```
 ### SC Contracts
 ```
 This district received no SC contracts from 2012-2019
 ```
 ### NSF MPS Grants
+In the past 8 years, this district has received:<b> $17,070,148 </b>in NSF MPS grants.
 ```
-In the past 8 years, this district has received: $16,792,885.00 in NSF MPS grants.
-                                        Amount ($)
-Institution                       Year            
-SOUTHERN METHODIST UNIV           2015      717841
-SOUTHERN METHODIST UNIVERSITY     2018     1473993
-SOUTHERN METHODIST UNIVERSITY INC 2012      920063
-                                  2013      600283
-                                  2014      501957
-                                  2015      591882
-                                  2016      433626
-                                  2017     1337398
-U OF TEXAS DALLAS                 2015      349996
-UNIVERSITY OF TEXAS AT DALLAS     2012     2127595
-                                  2013     2216709
-                                  2014     1297917
-                                  2015     2197120
-                                  2016     2026505
+  Year  Institution                          Amount ($)
+------  ---------------------------------  ------------
+  2018  SOUTHERN METHODIST UNIVERSITY         1,473,993
+  2017  SOUTHERN METHODIST UNIVERSITY INC     1,337,398
+  2016  SOUTHERN METHODIST UNIVERSITY INC       433,626
+  2016  UNIVERSITY OF TEXAS AT DALLAS         2,026,505
+  2015  SOUTHERN METHODIST UNIV                 717,841
+  2015  SOUTHERN METHODIST UNIVERSITY INC       591,882
+  2015  U OF TEXAS DALLAS                       349,996
+  2015  UNIVERSITY OF TEXAS AT DALLAS         2,197,120
+  2014  SOUTHERN METHODIST UNIVERSITY INC       676,957
+  2014  UNIVERSITY OF TEXAS AT DALLAS         1,297,917
+  2013  SOUTHERN METHODIST UNIVERSITY INC       600,283
+  2013  UNIVERSITY OF TEXAS AT DALLAS         2,216,709
+  2012  SOUTHERN METHODIST UNIVERSITY INC     1,022,326
+  2012  UNIVERSITY OF TEXAS AT DALLAS         2,127,595
 ```
 ---
 <a name="TX-33"></a>
@@ -1098,19 +1182,18 @@ This district received no SC HEP grants from 2012-2019
 This district received no SC contracts from 2012-2019
 ```
 ### NSF MPS Grants
+In the past 8 years, this district has received:<b> $3,674,028 </b>in NSF MPS grants.
 ```
-In the past 8 years, this district has received: $3,444,607.00 in NSF MPS grants.
-                                                         Amount ($)
-Institution                                        Year            
-TEXAS A & M UNIVERSITY KINGSVILLE                  2017     -217956
-TEXAS A&M UNIVERSITY-KINGSVILLE                    2016      229395
-U OF TEXAS BROWNSVILLE                             2015      126000
-UNIVERSITY OF TEXAS AT BROWNSVILLE                 2013      584262
-                                                   2014      265801
-                                                   2015      473504
-UNIVERSITY OF TEXAS RIO GRANDE VALLEY FOUNDATIO... 2017      286000
-UNIVERSITY OF TEXAS RIO GRANDE VALLEY, THE         2017     1051221
-                                                   2018      646380
+  Year  Institution                                                                 Amount ($)
+------  ------------------------------------------------------------------------  ------------
+  2018  UNIVERSITY OF TEXAS RIO GRANDE VALLEY, THE                                     646,380
+  2017  UNIVERSITY OF TEXAS RIO GRANDE VALLEY FOUNDATION (UTRGV FOUNDATION), THE       286,000
+  2017  UNIVERSITY OF TEXAS RIO GRANDE VALLEY, THE                                   1,051,221
+  2016  TEXAS A&M UNIVERSITY-KINGSVILLE                                                229,395
+  2015  U OF TEXAS BROWNSVILLE                                                         126,000
+  2015  UNIVERSITY OF TEXAS AT BROWNSVILLE                                             484,969
+  2014  UNIVERSITY OF TEXAS AT BROWNSVILLE                                             265,801
+  2013  UNIVERSITY OF TEXAS AT BROWNSVILLE                                             584,262
 ```
 ---
 <a name="TX-35"></a>
@@ -1124,11 +1207,12 @@ Lloyd Doggett is not on any of our key committees
 This district received no SC HEP grants from 2012-2019
 ```
 ### SC Contracts
+In the past 8 years, this district has received:
+1 Office of Science contracts, totalling <b> $35,929</b>
 ```
-In the past 8 years, this district has received: $0.00 in SC contracts.
-                                  Amount ($)
-Vendor                      Year            
-ALL BUSINESS MACHINES, INC. 2018           0
+  Year  Vendor                         Amount ($)  Item
+------  ---------------------------  ------------  --------------------------------
+  2018  ALL BUSINESS MACHINES, INC.        35,929  TRACTOR, FULL TRACKED, LOW SPEED
 ```
 ### NSF MPS Grants
 ```
@@ -1150,12 +1234,11 @@ This district received no SC HEP grants from 2012-2019
 This district received no SC contracts from 2012-2019
 ```
 ### NSF MPS Grants
+In the past 8 years, this district has received:<b> $493,232 </b>in NSF MPS grants.
 ```
-In the past 8 years, this district has received: $493,232.00 in NSF MPS grants.
-                             Amount ($)
-Institution            Year            
-JACOBS TECHNOLOGY INC. 2016      325139
-                       2017           0
-                       2018      168093
+  Year  Institution               Amount ($)
+------  ----------------------  ------------
+  2018  JACOBS TECHNOLOGY INC.       168,093
+  2016  JACOBS TECHNOLOGY INC.       325,139
 ```
 ---

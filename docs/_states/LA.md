@@ -22,39 +22,42 @@ John Kennedy is the #12 Republican on the Senate Committee on Appropriations
 John Kennedy is the #8 Republican on the Senate Appropriations Subcommittee on Energy and Water Development 
 
 ## HEP Grants
-```
 In the past 8 years, this state has received:
-16 HEP grants, totalling $3,748,000.00
- 
-                                            Amount ($)
-Institution                                           
-Louisiana State University and A&M College     1942000
-LOUISIANA STATE UNIVERSITY                      837000
-Louisiana Tech University                       546000
-LOUISIANA TECH UNIVERSITY                       423000
+16 HEP grants, totalling <b> $3,748,000</b>
 ```
-## SC Contracts
+Institution                                   Amount ($)
+------------------------------------------  ------------
+Louisiana State University and A&M College     1,942,000
+LOUISIANA STATE UNIVERSITY                       837,000
+Louisiana Tech University                        546,000
+LOUISIANA TECH UNIVERSITY                        423,000
+```
+### SC Contracts
 ```
 This state received no SC contracts from 2012-2019
 ```
 ## NSF MPS Grants
-```
 In the past 8 years, this state has received:
-328 NSF MPS grants, totalling $49,361,780.00
- 
-                                                    Amount ($)
-Institution                                                   
-LOUISIANA STATE UNIVERSITY SYSTEM                     14371958
-LOUISIANA STATE UNIVERSITY                             9852508
-ADMINISTRATORS OF THE TULANE EDUCATIONAL FUND          7841568
-ADMINISTRATORS OF THE TULANE EDUCATIONAL FUND, THE     5823772
-SOUTHERN UNIVERSITY AND ANM COLLEGE SYSTEM             2405000
-LOUISIANA STATE UNIVERSITY SYSTEM075050765             1957088
-UNIVERSITY OF NEW ORLEANS                              1667016
-XAVIER UNIVERSITY OF LOUISIANA                         1413138
-LOUISIANA TECH UNIVERSITY                               969620
-BATON ROUGE AREA FOUNDATION INC                         766496
-and  7  other institutions.
+298 NSF MPS grants, totalling <b> $52,649,784</b>
+```
+Institution                                           Amount ($)
+--------------------------------------------------  ------------
+LOUISIANA STATE UNIVERSITY SYSTEM                     14,787,055
+LOUISIANA STATE UNIVERSITY                             9,852,508
+ADMINISTRATORS OF THE TULANE EDUCATIONAL FUND          7,918,809
+ADMINISTRATORS OF THE TULANE EDUCATIONAL FUND, THE     6,621,011
+UNIVERSITY OF NEW ORLEANS                              2,703,031
+SOUTHERN UNIVERSITY AND ANM COLLEGE SYSTEM             2,405,000
+LOUISIANA STATE UNIVERSITY SYSTEM075050765             1,957,088
+XAVIER UNIVERSITY OF LOUISIANA                         1,413,138
+UNIVERSITY OF LOUISIANA AT LAFAYETTE                   1,232,681
+LOUISIANA TECH UNIVERSITY                                969,620
+BATON ROUGE AREA FOUNDATION INC                          766,496
+LA ST U & A&M COLL                                       751,200
+BATON ROUGE AREA FOUNDATION, THE                         696,967
+SOUTHEASTERN LOUISIANA UNIVERSITY                        375,786
+TULANE UNIVERSITY                                        158,784
+UNIV OF LOUISIANA AT LAFAY                                40,610
 ```
 ---
 ---
@@ -73,20 +76,20 @@ This district received no SC HEP grants from 2012-2019
 This district received no SC contracts from 2012-2019
 ```
 ### NSF MPS Grants
+In the past 8 years, this district has received:<b> $13,101,616 </b>in NSF MPS grants.
 ```
-In the past 8 years, this district has received: $12,227,136.00 in NSF MPS grants.
-                                                         Amount ($)
-Institution                                        Year            
-ADMINISTRATORS OF THE TULANE EDUCATIONAL FUND      2013     1833655
-                                                   2014      617020
-                                                   2015     1227497
-                                                   2016     2190622
-ADMINISTRATORS OF THE TULANE EDUCATIONAL FUND, THE 2017     1530028
-                                                   2018     3813428
-                                                   2019      480316
-SOUTHEASTERN LOUISIANA UNIVERSITY                  2013      274000
-                                                   2016      101786
-TULANE UNIVERSITY                                  2015      158784
+  Year  Institution                                           Amount ($)
+------  --------------------------------------------------  ------------
+  2019  ADMINISTRATORS OF THE TULANE EDUCATIONAL FUND, THE       558,332
+  2018  ADMINISTRATORS OF THE TULANE EDUCATIONAL FUND, THE     3,813,428
+  2017  ADMINISTRATORS OF THE TULANE EDUCATIONAL FUND, THE     2,249,251
+  2016  ADMINISTRATORS OF THE TULANE EDUCATIONAL FUND          2,267,863
+  2016  SOUTHEASTERN LOUISIANA UNIVERSITY                        101,786
+  2015  ADMINISTRATORS OF THE TULANE EDUCATIONAL FUND          1,227,497
+  2015  TULANE UNIVERSITY                                        158,784
+  2014  ADMINISTRATORS OF THE TULANE EDUCATIONAL FUND            617,020
+  2013  ADMINISTRATORS OF THE TULANE EDUCATIONAL FUND          1,833,655
+  2013  SOUTHEASTERN LOUISIANA UNIVERSITY                        274,000
 ```
 ---
 <a name="LA-02"></a>
@@ -104,25 +107,25 @@ This district received no SC HEP grants from 2012-2019
 This district received no SC contracts from 2012-2019
 ```
 ### NSF MPS Grants
+In the past 8 years, this district has received:<b> $7,568,943 </b>in NSF MPS grants.
 ```
-In the past 8 years, this district has received: $6,532,928.00 in NSF MPS grants.
-                                                    Amount ($)
-Institution                                   Year            
-ADMINISTRATORS OF THE TULANE EDUCATIONAL FUND 2012     1957024
-                                              2013       15750
-SOUTHERN UNIVERSITY AND ANM COLLEGE SYSTEM    2013      480000
-                                              2017      500000
-                                              2018      500000
-UNIVERSITY OF NEW ORLEANS                     2012      542608
-                                              2013      527114
-                                              2014      282427
-                                              2015      170440
-                                              2016        9465
-                                              2018      134962
-XAVIER UNIVERSITY OF LOUISIANA                2012       14338
-                                              2014      200000
-                                              2016      498951
-                                              2018      699849
+  Year  Institution                                      Amount ($)
+------  ---------------------------------------------  ------------
+  2018  SOUTHERN UNIVERSITY AND ANM COLLEGE SYSTEM          500,000
+  2018  UNIVERSITY OF NEW ORLEANS                           134,962
+  2018  XAVIER UNIVERSITY OF LOUISIANA                      699,849
+  2017  SOUTHERN UNIVERSITY AND ANM COLLEGE SYSTEM          500,000
+  2016  UNIVERSITY OF NEW ORLEANS                             9,465
+  2016  XAVIER UNIVERSITY OF LOUISIANA                      498,951
+  2015  UNIVERSITY OF NEW ORLEANS                           170,440
+  2014  UNIVERSITY OF NEW ORLEANS                           658,050
+  2014  XAVIER UNIVERSITY OF LOUISIANA                      200,000
+  2013  ADMINISTRATORS OF THE TULANE EDUCATIONAL FUND        15,750
+  2013  SOUTHERN UNIVERSITY AND ANM COLLEGE SYSTEM          480,000
+  2013  UNIVERSITY OF NEW ORLEANS                           902,114
+  2012  ADMINISTRATORS OF THE TULANE EDUCATIONAL FUND     1,957,024
+  2012  UNIVERSITY OF NEW ORLEANS                           828,000
+  2012  XAVIER UNIVERSITY OF LOUISIANA                       14,338
 ```
 ---
 <a name="LA-03"></a>
@@ -140,17 +143,16 @@ This district received no SC HEP grants from 2012-2019
 This district received no SC contracts from 2012-2019
 ```
 ### NSF MPS Grants
+In the past 8 years, this district has received:<b> $1,273,291 </b>in NSF MPS grants.
 ```
-In the past 8 years, this district has received: $721,656.00 in NSF MPS grants.
-                                           Amount ($)
-Institution                          Year            
-MULTIPLE RECIPIENTS                  2013     -141500
-UNIV OF LOUISIANA AT LAFAY           2015       40610
-UNIVERSITY OF LOUISIANA AT LAFAYETTE 2013      580000
-                                     2014     -158265
-                                     2016      200000
-                                     2017      103130
-                                     2018       97681
+  Year  Institution                             Amount ($)
+------  ------------------------------------  ------------
+  2018  UNIVERSITY OF LOUISIANA AT LAFAYETTE        97,681
+  2017  UNIVERSITY OF LOUISIANA AT LAFAYETTE       175,000
+  2016  UNIVERSITY OF LOUISIANA AT LAFAYETTE       200,000
+  2015  UNIV OF LOUISIANA AT LAFAY                  40,610
+  2014  UNIVERSITY OF LOUISIANA AT LAFAYETTE       180,000
+  2013  UNIVERSITY OF LOUISIANA AT LAFAYETTE       580,000
 ```
 ---
 <a name="LA-04"></a>
@@ -168,11 +170,11 @@ This district received no SC HEP grants from 2012-2019
 This district received no SC contracts from 2012-2019
 ```
 ### NSF MPS Grants
+In the past 8 years, this district has received:<b> $197,800 </b>in NSF MPS grants.
 ```
-In the past 8 years, this district has received: $197,800.00 in NSF MPS grants.
-                                        Amount ($)
-Institution                       Year            
-LOUISIANA STATE UNIVERSITY SYSTEM 2013      197800
+  Year  Institution                          Amount ($)
+------  ---------------------------------  ------------
+  2013  LOUISIANA STATE UNIVERSITY SYSTEM       197,800
 ```
 ---
 <a name="LA-05"></a>
@@ -182,32 +184,30 @@ LOUISIANA STATE UNIVERSITY SYSTEM 2013      197800
 Ralph Lee Abraham is not on any of our key committees 
 
 ### HEP Grants
+In the past 8 years, this district has received:<b> $969,000 </b>in SC HEP grants.
 ```
-In the past 8 years, this district has received: $969,000.00 in SC HEP grants.
-                                Amount ($)
-Institution               Year            
-LOUISIANA TECH UNIVERSITY 2012      238000
-                          2013      185000
-Louisiana Tech University 2014      208000
-                          2015      208000
-                          2016      130000
-                          2017           0
+Institution                  Amount ($)    Start    End  Principal Investigator    Project Title
+-------------------------  ------------  -------  -----  ------------------------  ---------------------------------------------------------------------
+Louisiana Tech University       130,000     2016   2017  Sawyer, H.                Testing the Standard Model at the Large Hadron Collider
+Louisiana Tech University       416,000     2014   2018  Sawyer, Lee               TESTING THE STANDARD MODEL AT THE LARGE HADRON COLLIDER
+LOUISIANA TECH UNIVERSITY       185,000     2013   2014  Sawyer                    High Energy Physics Research at the Energy Frontier at Louisiana Tech
+LOUISIANA TECH UNIVERSITY       238,000     2012   2014  Sawyer                    Research in High Energy Physics
 ```
 ### SC Contracts
 ```
 This district received no SC contracts from 2012-2019
 ```
 ### NSF MPS Grants
+In the past 8 years, this district has received:<b> $969,620 </b>in NSF MPS grants.
 ```
-In the past 8 years, this district has received: $969,620.00 in NSF MPS grants.
-                                Amount ($)
-Institution               Year            
-LOUISIANA TECH UNIVERSITY 2012      124821
-                          2013      286281
-                          2014      200000
-                          2015      209604
-                          2017      109999
-                          2018       38915
+  Year  Institution                  Amount ($)
+------  -------------------------  ------------
+  2018  LOUISIANA TECH UNIVERSITY        38,915
+  2017  LOUISIANA TECH UNIVERSITY       109,999
+  2015  LOUISIANA TECH UNIVERSITY       209,604
+  2014  LOUISIANA TECH UNIVERSITY       200,000
+  2013  LOUISIANA TECH UNIVERSITY       286,281
+  2012  LOUISIANA TECH UNIVERSITY       124,821
 ```
 ---
 <a name="LA-06"></a>
@@ -217,44 +217,42 @@ LOUISIANA TECH UNIVERSITY 2012      124821
 Garret Graves is not on any of our key committees 
 
 ### HEP Grants
+In the past 8 years, this district has received:<b> $2,779,000 </b>in SC HEP grants.
 ```
-In the past 8 years, this district has received: $2,779,000.00 in SC HEP grants.
-                                                 Amount ($)
-Institution                                Year            
-LOUISIANA STATE UNIVERSITY                 2012      420000
-                                           2013      417000
-Louisiana State University and A&M College 2014      494000
-                                           2015      448000
-                                           2016      365000
-                                           2017      235000
-                                           2018      400000
+Institution                                   Amount ($)    Start  End      Principal Investigator    Project Title
+------------------------------------------  ------------  -------  -------  ------------------------  -------------------------------------------------------------------
+Louisiana State University and A&M College     1,000,000     2016  Ongoing  Kutter, Thomas            Research in Elementary Particle Physics and Cosmic Ray Physics
+Louisiana State University and A&M College       942,000     2014  2016     Matthews, James           Research in Elementary Particle Physics and Cosmic Ray Physics
+LOUISIANA STATE UNIVERSITY                       417,000     2013  2014     Matthews                  Research in Elementary Particle Physics and Cosmic Ray Physics
+LOUISIANA STATE UNIVERSITY                       410,000     2012  2013     Matthews, Metcalf         Research in Elementary Particle Physics and Cosmic Ray Physics
+LOUISIANA STATE UNIVERSITY                        10,000     2012  2013     Suller                    2012 International Particle Accelerator Conference, May 20-25, 2012
 ```
 ### SC Contracts
 ```
 This district received no SC contracts from 2012-2019
 ```
 ### NSF MPS Grants
+In the past 8 years, this district has received:<b> $29,538,514 </b>in NSF MPS grants.
 ```
-In the past 8 years, this district has received: $28,824,239.00 in NSF MPS grants.
-                                                 Amount ($)
-Institution                                Year            
-BATON ROUGE AREA FOUNDATION INC            2012      276350
-                                           2013      266070
-                                           2015      224076
-BATON ROUGE AREA FOUNDATION, THE           2016      150218
-                                           2017      100763
-                                           2018      445986
-LA ST U & A&M COLL                         2015      452022
-LOUISIANA STATE UNIVERSITY                 2016      611833
-                                           2017     4476807
-                                           2018     4763868
-LOUISIANA STATE UNIVERSITY SYSTEM          2012     4647037
-                                           2013     3540095
-                                           2014     2994329
-                                           2015     2592497
-                                           2016      400200
-LOUISIANA STATE UNIVERSITY SYSTEM075050765 2016     1957088
-SOUTHERN UNIVERSITY AND ANM COLLEGE SYSTEM 2012      425000
-                                           2015      500000
+  Year  Institution                                   Amount ($)
+------  ------------------------------------------  ------------
+  2018  LOUISIANA STATE UNIVERSITY                     4,763,868
+  2018  BATON ROUGE AREA FOUNDATION, THE                 445,986
+  2017  LOUISIANA STATE UNIVERSITY                     4,476,807
+  2017  BATON ROUGE AREA FOUNDATION, THE                 100,763
+  2016  BATON ROUGE AREA FOUNDATION, THE                 150,218
+  2016  LOUISIANA STATE UNIVERSITY SYSTEM075050765     1,957,088
+  2016  LOUISIANA STATE UNIVERSITY SYSTEM                400,200
+  2016  LOUISIANA STATE UNIVERSITY                       611,833
+  2015  SOUTHERN UNIVERSITY AND ANM COLLEGE SYSTEM       500,000
+  2015  LOUISIANA STATE UNIVERSITY SYSTEM              2,592,497
+  2015  LA ST U & A&M COLL                               751,200
+  2015  BATON ROUGE AREA FOUNDATION INC                  224,076
+  2014  LOUISIANA STATE UNIVERSITY SYSTEM              3,045,395
+  2013  LOUISIANA STATE UNIVERSITY SYSTEM              3,787,961
+  2013  BATON ROUGE AREA FOUNDATION INC                  266,070
+  2012  LOUISIANA STATE UNIVERSITY SYSTEM              4,763,202
+  2012  SOUTHERN UNIVERSITY AND ANM COLLEGE SYSTEM       425,000
+  2012  BATON ROUGE AREA FOUNDATION INC                  276,350
 ```
 ---

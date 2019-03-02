@@ -16,49 +16,57 @@ Amy Klobuchar is the #2 Democrat on the Senate Committee on Commerce, Science, a
 Tina Smith is not on any of our key committees 
 
 ## HEP Grants
-```
 In the past 8 years, this state has received:
-31 HEP grants, totalling $19,180,000.00
- 
-                                           Amount ($)
-Institution                          Year            
-UNIVERSITY OF MINNESOTA, DULUTH      2012       45000
-UNIVERSITY OF MINNESOTA, MINNEAPOLIS 2012     2956000
-                                     2013     4152000
-University of Minnesota              2014     2461000
-                                     2015     2479000
-                                     2016     2470000
-                                     2017     2218000
-                                     2018     2399000
+31 HEP grants, totalling <b> $19,180,000</b>
 ```
-## SC Contracts
+  Year  Institution                             Amount ($)
+------  ------------------------------------  ------------
+  2018  University of Minnesota                  2,399,000
+  2017  University of Minnesota                  2,218,000
+  2016  University of Minnesota                  2,470,000
+  2015  University of Minnesota                  2,479,000
+  2014  University of Minnesota                  2,461,000
+  2013  UNIVERSITY OF MINNESOTA, MINNEAPOLIS     4,152,000
+  2012  UNIVERSITY OF MINNESOTA, DULUTH             45,000
+  2012  UNIVERSITY OF MINNESOTA, MINNEAPOLIS     2,956,000
 ```
+### SC Contracts
 In the past 8 years, this state has received:
-3 Office of Science contracts, totalling $21,551.00
- 
-                                   Amount ($)
-Vendor                       Year            
-IDEAL SYSTEM SOLUTIONS, INC. 2014        6326
-WORLD DATA PRODUCTS, INC.    2013       15225
+3 Office of Science contracts, totalling <b> $21,551</b>
+```
+  Year  Vendor                          Amount ($)  Item
+------  ----------------------------  ------------  ---------------------------------------------------
+  2014  IDEAL SYSTEM SOLUTIONS, INC.         6,326  ADP CENTRAL PROCESSING UNIT (CPU, COMPUTER), HYBRID
+  2013  WORLD DATA PRODUCTS, INC.            7,235  ADP INPUT/OUTPUT AND STORAGE DEVICES
+  2013  WORLD DATA PRODUCTS, INC.            7,990  ADPE SYSTEM CONFIGURATION
 ```
 ## NSF MPS Grants
-```
 In the past 8 years, this state has received:
-529 NSF MPS grants, totalling $147,448,045.00
- 
-                                        Amount ($)
-Institution                                       
-REGENTS OF THE UNIVERSITY OF MINNESOTA   130001704
-U OF MINNESOTA-TWIN CITIES                 7145740
-CARLETON COLLEGE                           2657897
-MACALESTER COLLEGE                         2389963
-ST. OLAF COLLEGE                           1553582
-GUSTAVUS ADOLPHUS COLLEGE                   870470
-ST CLOUD STATE UNIVERSITY                   566460
-UNIVERSITY OF ST. THOMAS                    535652
-BETHEL UNIVERSITY                           443837
-U OF MINNESOTA DULUTH                       428629
-and  11  other institutions.
+512 NSF MPS grants, totalling <b> $148,356,924</b>
+```
+Institution                                      Amount ($)
+---------------------------------------------  ------------
+REGENTS OF THE UNIVERSITY OF MINNESOTA          130,673,684
+U OF MINNESOTA-TWIN CITIES                        7,201,037
+CARLETON COLLEGE                                  2,708,895
+MACALESTER COLLEGE                                2,442,219
+ST. OLAF COLLEGE                                  1,553,582
+GUSTAVUS ADOLPHUS COLLEGE                           870,470
+ST CLOUD STATE UNIVERSITY                           566,460
+UNIVERSITY OF ST. THOMAS                            535,652
+BETHEL UNIVERSITY                                   443,837
+U OF MINNESOTA DULUTH                               428,629
+CONFERENCE BOARD OF THE MATHEMATICAL SCIENCES       255,976
+AUGSBURG COLLEGE                                    157,925
+PII REDACTED                                        150,000
+WINONA STATE UNIVERSITY                              90,035
+COLLEGE OF SAINT BENEDICT                            85,000
+NORTH HENNEPIN COMMUNITY COLLEGE                     72,183
+HAMLINE UNIVERSITY                                   54,950
+MINNESOTA STATE UNIVERSITY, MANKATO                  24,000
+SAINT OLAF COLLEGE                                   19,390
+SAINT MARY'S UNIVERSITY OF MINNESOTA                 14,000
+COLLEGE OF ST SCHOLASTICA INC                         9,000
 ```
 ---
 ---
@@ -77,17 +85,17 @@ This district received no SC HEP grants from 2012-2019
 This district received no SC contracts from 2012-2019
 ```
 ### NSF MPS Grants
+In the past 8 years, this district has received:<b> $998,505 </b>in NSF MPS grants.
 ```
-In the past 8 years, this district has received: $998,505.00 in NSF MPS grants.
-                                           Amount ($)
-Institution                          Year            
-GUSTAVUS ADOLPHUS COLLEGE            2012      190515
-                                     2013       13450
-                                     2015      212763
-                                     2018      453742
-MINNESOTA STATE UNIVERSITY, MANKATO  2012       24000
-SAINT MARY'S UNIVERSITY OF MINNESOTA 2012       14000
-WINONA STATE UNIVERSITY              2019       90035
+  Year  Institution                             Amount ($)
+------  ------------------------------------  ------------
+  2019  WINONA STATE UNIVERSITY                     90,035
+  2018  GUSTAVUS ADOLPHUS COLLEGE                  453,742
+  2015  GUSTAVUS ADOLPHUS COLLEGE                  212,763
+  2013  GUSTAVUS ADOLPHUS COLLEGE                   13,450
+  2012  GUSTAVUS ADOLPHUS COLLEGE                  190,515
+  2012  MINNESOTA STATE UNIVERSITY, MANKATO         24,000
+  2012  SAINT MARY'S UNIVERSITY OF MINNESOTA        14,000
 ```
 ---
 <a name="MN-02"></a>
@@ -105,23 +113,23 @@ This district received no SC HEP grants from 2012-2019
 This district received no SC contracts from 2012-2019
 ```
 ### NSF MPS Grants
+In the past 8 years, this district has received:<b> $4,281,867 </b>in NSF MPS grants.
 ```
-In the past 8 years, this district has received: $4,230,869.00 in NSF MPS grants.
-                         Amount ($)
-Institution        Year            
-CARLETON COLLEGE   2012      537152
-                   2013      732758
-                   2014      335465
-                   2015      230048
-                   2016      514906
-                   2017      248608
-                   2018       58960
-SAINT OLAF COLLEGE 2015       19390
-ST. OLAF COLLEGE   2012      321529
-                   2013      310952
-                   2015      310884
-                   2016      440018
-                   2017      170199
+  Year  Institution           Amount ($)
+------  ------------------  ------------
+  2018  CARLETON COLLEGE         109,958
+  2017  CARLETON COLLEGE         248,608
+  2017  ST. OLAF COLLEGE         170,199
+  2016  CARLETON COLLEGE         514,906
+  2016  ST. OLAF COLLEGE         440,018
+  2015  CARLETON COLLEGE         230,048
+  2015  SAINT OLAF COLLEGE        19,390
+  2015  ST. OLAF COLLEGE         310,884
+  2014  CARLETON COLLEGE         335,465
+  2013  CARLETON COLLEGE         732,758
+  2013  ST. OLAF COLLEGE         310,952
+  2012  CARLETON COLLEGE         537,152
+  2012  ST. OLAF COLLEGE         321,529
 ```
 ---
 <a name="MN-03"></a>
@@ -135,19 +143,21 @@ Dean Phillips is not on any of our key committees
 This district received no SC HEP grants from 2012-2019
 ```
 ### SC Contracts
+In the past 8 years, this district has received:
+3 Office of Science contracts, totalling <b> $21,551</b>
 ```
-In the past 8 years, this district has received: $21,551.00 in SC contracts.
-                                   Amount ($)
-Vendor                       Year            
-IDEAL SYSTEM SOLUTIONS, INC. 2014        6326
-WORLD DATA PRODUCTS, INC.    2013       15225
+  Year  Vendor                          Amount ($)  Item
+------  ----------------------------  ------------  ---------------------------------------------------
+  2014  IDEAL SYSTEM SOLUTIONS, INC.         6,326  ADP CENTRAL PROCESSING UNIT (CPU, COMPUTER), HYBRID
+  2013  WORLD DATA PRODUCTS, INC.            7,235  ADP INPUT/OUTPUT AND STORAGE DEVICES
+  2013  WORLD DATA PRODUCTS, INC.            7,990  ADPE SYSTEM CONFIGURATION
 ```
 ### NSF MPS Grants
+In the past 8 years, this district has received:<b> $72,183 </b>in NSF MPS grants.
 ```
-In the past 8 years, this district has received: $72,183.00 in NSF MPS grants.
-                                       Amount ($)
-Institution                      Year            
-NORTH HENNEPIN COMMUNITY COLLEGE 2012       72183
+  Year  Institution                         Amount ($)
+------  --------------------------------  ------------
+  2012  NORTH HENNEPIN COMMUNITY COLLEGE        72,183
 ```
 ---
 <a name="MN-04"></a>
@@ -165,28 +175,27 @@ This district received no SC HEP grants from 2012-2019
 This district received no SC contracts from 2012-2019
 ```
 ### NSF MPS Grants
+In the past 8 years, this district has received:<b> $3,732,634 </b>in NSF MPS grants.
 ```
-In the past 8 years, this district has received: $3,602,030.00 in NSF MPS grants.
-                                                    Amount ($)
-Institution                                   Year            
-BETHEL UNIVERSITY                             2012      230349
-                                              2013      128899
-                                              2015       13429
-                                              2018       71160
-CONFERENCE BOARD OF THE MATHEMATICAL SCIENCES 2018      255976
-HAMLINE UNIVERSITY                            2013      -78348
-                                              2014       54950
-MACALESTER COLLEGE                            2012      486314
-                                              2013      514987
-                                              2014      601419
-                                              2015      258780
-                                              2016      253682
-                                              2017      -17956
-                                              2018      292737
-UNIVERSITY OF ST. THOMAS                      2012      192173
-                                              2013       52987
-                                              2014      190492
-                                              2018      100000
+  Year  Institution                                      Amount ($)
+------  ---------------------------------------------  ------------
+  2018  UNIVERSITY OF ST. THOMAS                            100,000
+  2018  MACALESTER COLLEGE                                  292,737
+  2018  CONFERENCE BOARD OF THE MATHEMATICAL SCIENCES       255,976
+  2018  BETHEL UNIVERSITY                                    71,160
+  2017  MACALESTER COLLEGE                                   34,300
+  2016  MACALESTER COLLEGE                                  253,682
+  2015  BETHEL UNIVERSITY                                    13,429
+  2015  MACALESTER COLLEGE                                  258,780
+  2014  UNIVERSITY OF ST. THOMAS                            190,492
+  2014  MACALESTER COLLEGE                                  601,419
+  2014  HAMLINE UNIVERSITY                                   54,950
+  2013  UNIVERSITY OF ST. THOMAS                             52,987
+  2013  MACALESTER COLLEGE                                  514,987
+  2013  BETHEL UNIVERSITY                                   128,899
+  2012  MACALESTER COLLEGE                                  486,314
+  2012  UNIVERSITY OF ST. THOMAS                            192,173
+  2012  BETHEL UNIVERSITY                                   230,349
 ```
 ---
 <a name="MN-05"></a>
@@ -196,38 +205,40 @@ UNIVERSITY OF ST. THOMAS                      2012      192173
 Ilhan Omar is the #12 Democrat on the House Subcommittee on Higher Education and Workforce Development 
 
 ### HEP Grants
+In the past 8 years, this district has received:<b> $19,135,000 </b>in SC HEP grants.
 ```
-In the past 8 years, this district has received: $19,135,000.00 in SC HEP grants.
-                                           Amount ($)
-Institution                          Year            
-UNIVERSITY OF MINNESOTA, MINNEAPOLIS 2012     2956000
-                                     2013     4152000
-University of Minnesota              2014     2461000
-                                     2015     2479000
-                                     2016     2470000
-                                     2017     2218000
-                                     2018     2399000
+Institution                             Amount ($)    Start  End      Principal Investigator    Project Title
+------------------------------------  ------------  -------  -------  ------------------------  ---------------------------------------------------------------------------------------------------------
+University of Minnesota                  1,782,000     2014  Ongoing  Cushman, Priscilla        Physics at the Cosmic Frontier:  Direct Detection of Dark Matter with SuperCDMS
+University of Minnesota                     50,000     2014  2016     Mandic, Vuk               Development of Large Cryogenic Semiconductor Detectors
+University of Minnesota                  4,918,000     2014  Ongoing  Marshak, Marvin           Experimental Research at the Intensity Frontier in High Energy Physics
+University of Minnesota                  2,177,000     2014  Ongoing  Olive, Keith              Theoretical High Energy Physics at the University of Minnesota
+University of Minnesota                  3,100,000     2014  Ongoing  Rusack, Roger             Physics at the Energy and Intensity Frontiers
+UNIVERSITY OF MINNESOTA, MINNEAPOLIS        99,000     2013  2014     Cronin-Hennessy           Community Summer Study 2013: Snowmass on the Mississippi, July 29 - August 6, 2013
+UNIVERSITY OF MINNESOTA, MINNEAPOLIS        32,000     2013  2014     Pawloski                  Study of Muon Neutrino and Muon Anti-Neutrino Disappearance with the NOvA Neutrino Oscillation Experiment
+UNIVERSITY OF MINNESOTA, MINNEAPOLIS     3,169,000     2012  2014     Marshak                   Collaborative Research and Development in Neutrino Physics
+UNIVERSITY OF MINNESOTA, MINNEAPOLIS     3,808,000     2012  2014     Rusack, Olive             Experimental and Theoretical High Energy Physics
 ```
 ### SC Contracts
 ```
 This district received no SC contracts from 2012-2019
 ```
 ### NSF MPS Grants
+In the past 8 years, this district has received:<b> $134,936,334 </b>in NSF MPS grants.
 ```
-In the past 8 years, this district has received: $134,209,057.00 in NSF MPS grants.
-                                             Amount ($)
-Institution                            Year            
-AUGSBURG COLLEGE                       2012      157925
-PII REDACTED                           2017      150000
-REGENTS OF THE UNIVERSITY OF MINNESOTA 2012    22583571
-                                       2013    18367277
-                                       2014    17629107
-                                       2015    15975092
-                                       2016    11785351
-                                       2017    19584607
-                                       2018    20612344
-                                       2019      218043
-U OF MINNESOTA-TWIN CITIES             2015     7145740
+  Year  Institution                               Amount ($)
+------  --------------------------------------  ------------
+  2019  REGENTS OF THE UNIVERSITY OF MINNESOTA       218,043
+  2018  REGENTS OF THE UNIVERSITY OF MINNESOTA    20,612,344
+  2017  PII REDACTED                                 150,000
+  2017  REGENTS OF THE UNIVERSITY OF MINNESOTA    19,584,607
+  2016  REGENTS OF THE UNIVERSITY OF MINNESOTA    11,995,568
+  2015  REGENTS OF THE UNIVERSITY OF MINNESOTA    15,975,092
+  2015  U OF MINNESOTA-TWIN CITIES                 7,201,037
+  2014  REGENTS OF THE UNIVERSITY OF MINNESOTA    17,629,107
+  2013  REGENTS OF THE UNIVERSITY OF MINNESOTA    18,519,448
+  2012  AUGSBURG COLLEGE                             157,925
+  2012  REGENTS OF THE UNIVERSITY OF MINNESOTA    22,893,163
 ```
 ---
 <a name="MN-06"></a>
@@ -245,15 +256,14 @@ This district received no SC HEP grants from 2012-2019
 This district received no SC contracts from 2012-2019
 ```
 ### NSF MPS Grants
+In the past 8 years, this district has received:<b> $651,460 </b>in NSF MPS grants.
 ```
-In the past 8 years, this district has received: $651,460.00 in NSF MPS grants.
-                                Amount ($)
-Institution               Year            
-COLLEGE OF SAINT BENEDICT 2012       42500
-                          2013       42500
-ST CLOUD STATE UNIVERSITY 2012      129809
-                          2014      436651
-                          2017           0
+  Year  Institution                  Amount ($)
+------  -------------------------  ------------
+  2014  ST CLOUD STATE UNIVERSITY       436,651
+  2013  COLLEGE OF SAINT BENEDICT        42,500
+  2012  COLLEGE OF SAINT BENEDICT        42,500
+  2012  ST CLOUD STATE UNIVERSITY       129,809
 ```
 ---
 <a name="MN-07"></a>
@@ -271,12 +281,12 @@ This district received no SC HEP grants from 2012-2019
 This district received no SC contracts from 2012-2019
 ```
 ### NSF MPS Grants
+In the past 8 years, this district has received:<b> $140,000 </b>in NSF MPS grants.
 ```
-In the past 8 years, this district has received: $140,000.00 in NSF MPS grants.
-                                             Amount ($)
-Institution                            Year            
-REGENTS OF THE UNIVERSITY OF MINNESOTA 2016       94830
-                                       2018       45170
+  Year  Institution                               Amount ($)
+------  --------------------------------------  ------------
+  2018  REGENTS OF THE UNIVERSITY OF MINNESOTA        45,170
+  2016  REGENTS OF THE UNIVERSITY OF MINNESOTA        94,830
 ```
 ---
 <a name="MN-08"></a>
@@ -286,29 +296,29 @@ REGENTS OF THE UNIVERSITY OF MINNESOTA 2016       94830
 Pete Stauber is not on any of our key committees 
 
 ### HEP Grants
+In the past 8 years, this district has received:<b> $45,000 </b>in SC HEP grants.
 ```
-In the past 8 years, this district has received: $45,000.00 in SC HEP grants.
-                                      Amount ($)
-Institution                     Year            
-UNIVERSITY OF MINNESOTA, DULUTH 2012       45000
+Institution                        Amount ($)    Start    End  Principal Investigator    Project Title
+-------------------------------  ------------  -------  -----  ------------------------  ----------------------------------------------------------------------
+UNIVERSITY OF MINNESOTA, DULUTH        45,000     2012   2013  Hiller                    Nonperturbative Analysis of Field Theories Quantized on the Light Cone
 ```
 ### SC Contracts
 ```
 This district received no SC contracts from 2012-2019
 ```
 ### NSF MPS Grants
+In the past 8 years, this district has received:<b> $3,543,941 </b>in NSF MPS grants.
 ```
-In the past 8 years, this district has received: $3,543,941.00 in NSF MPS grants.
-                                             Amount ($)
-Institution                            Year            
-COLLEGE OF ST SCHOLASTICA INC          2016        9000
-REGENTS OF THE UNIVERSITY OF MINNESOTA 2012      489270
-                                       2013      693056
-                                       2014      437081
-                                       2015      150662
-                                       2016      290048
-                                       2017      525087
-                                       2018      521108
-U OF MINNESOTA DULUTH                  2015      428629
+  Year  Institution                               Amount ($)
+------  --------------------------------------  ------------
+  2018  REGENTS OF THE UNIVERSITY OF MINNESOTA       521,108
+  2017  REGENTS OF THE UNIVERSITY OF MINNESOTA       525,087
+  2016  COLLEGE OF ST SCHOLASTICA INC                  9,000
+  2016  REGENTS OF THE UNIVERSITY OF MINNESOTA       290,048
+  2015  REGENTS OF THE UNIVERSITY OF MINNESOTA       150,662
+  2015  U OF MINNESOTA DULUTH                        428,629
+  2014  REGENTS OF THE UNIVERSITY OF MINNESOTA       437,081
+  2013  REGENTS OF THE UNIVERSITY OF MINNESOTA       693,056
+  2012  REGENTS OF THE UNIVERSITY OF MINNESOTA       489,270
 ```
 ---

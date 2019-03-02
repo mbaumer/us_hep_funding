@@ -22,57 +22,53 @@ Martin Heinrich is the #1 Democrat on the Senate Energy Subcommittee on Energy
 Martin Heinrich is the #6 Democrat on the Senate Committee on Energy and Natural Resources 
 
 ## HEP Grants
-```
 In the past 8 years, this state has received:
-32 HEP grants, totalling $4,503,000.00
- 
-                               Amount ($)
-Institution              Year            
-UNIVERSITY OF NEW MEXICO 2012      768000
-                         2013      701000
-University of New Mexico 2014      491000
-                         2015      490000
-                         2016      335000
-                         2017      868000
-                         2018      850000
+32 HEP grants, totalling <b> $4,503,000</b>
 ```
-## SC Contracts
+  Year  Institution                 Amount ($)
+------  ------------------------  ------------
+  2018  University of New Mexico       850,000
+  2017  University of New Mexico       868,000
+  2016  University of New Mexico       335,000
+  2015  University of New Mexico       490,000
+  2014  University of New Mexico       491,000
+  2013  UNIVERSITY OF NEW MEXICO       701,000
+  2012  UNIVERSITY OF NEW MEXICO       768,000
 ```
+### SC Contracts
 In the past 8 years, this state has received:
-62 Office of Science contracts, totalling $5,546,391.00
- 
-                                   Amount ($)
-Vendor                                       
-GROUPEMENT INTERET PUBLIC ARRONAX     4000620
-DEEP WEB TECHNOLOGIES, LLC             949600
-DEEP WEB TECHNOLOGIES, INC.            229950
-PERIKIN ENTERPRISES, LLC               211172
-LUNATEK LLC                            128777
-HOLMAN'S INC.                           38472
-WILDFLOWER INTERNATIONAL, LTD.          17133
-IDEAL SYSTEM SOLUTIONS, INC.            10331
-HOLMANS USA LLC                             0
-LECHEL, INC.                                0
-and  4  other firms.
+36 Office of Science contracts, totalling <b> $7,013,737</b>
+```
+Vendor                               Amount ($)  Item
+---------------------------------  ------------  ---------------------------------------------------------
+GROUPEMENT INTERET PUBLIC ARRONAX     5,428,300  MEDICAL AND SURGICAL INSTRUMENTS, EQUIPMENT, AND SUPPLIES
+DEEP WEB TECHNOLOGIES, LLC              542,300  IT AND TELECOM- IT STRATEGY AND ARCHITECTURE
+DEEP WEB TECHNOLOGIES, LLC              407,300  SUPPORT- ADMINISTRATIVE: INFORMATION RETRIEVAL
+PERIKIN ENTERPRISES, LLC                211,172  CONSTRUCTION OF OFFICE BUILDINGS
+DEEP WEB TECHNOLOGIES, INC.             157,950  IT AND TELECOM- IT STRATEGY AND ARCHITECTURE
+LUNATEK LLC                             128,778  INFORMATION TECHNOLOGY SUPPORT EQUIPMENT
+DEEP WEB TECHNOLOGIES, INC.              72,000  NEWSPAPERS AND PERIODICALS
+HOLMAN'S INC.                            38,473  ADPE SYSTEM CONFIGURATION
+WILDFLOWER INTERNATIONAL, LTD.           17,133  ADPE SYSTEM CONFIGURATION
+IDEAL SYSTEM SOLUTIONS, INC.             10,331  ADP CENTRAL PROCESSING UNIT (CPU, COMPUTER), DIGITAL
 ```
 ## NSF MPS Grants
-```
 In the past 8 years, this state has received:
-209 NSF MPS grants, totalling $36,550,686.00
- 
-                                                    Amount ($)
-Institution                                                   
-UNIVERSITY OF NEW MEXICO                              23576846
-NEW MEXICO STATE UNIVERSITY                            5567840
-NEW MEXICO HIGHLANDS UNIVERSITY                        3147500
-SANTA FE INSTITUTE OF SCIENCE                          2022130
-NEW MEXICO INSTITUTE OF MINING AND TECHNOLOGY           651887
-NAVAJO TECHNICAL COLLEGE                                600000
-NMC, INC.                                               503315
-EXPLORA SCIENCE CENTER & CHILDREN'S MUSEUM OF A...      299250
-REDACTED DUE TO PII                                     100000
-SANTA FE INSTITUTE OF SCIENCE INC                        61918
-and  1  other institutions.
+190 NSF MPS grants, totalling <b> $37,980,126</b>
+```
+Institution                                                  Amount ($)
+---------------------------------------------------------  ------------
+UNIVERSITY OF NEW MEXICO                                     23,881,579
+NEW MEXICO STATE UNIVERSITY                                   6,031,700
+NEW MEXICO HIGHLANDS UNIVERSITY                               3,147,500
+SANTA FE INSTITUTE OF SCIENCE                                 2,247,977
+NEW MEXICO INSTITUTE OF MINING AND TECHNOLOGY                   651,887
+NAVAJO TECHNICAL COLLEGE                                        600,000
+NMC, INC.                                                       518,315
+NEW MEXICO ST UNIVERSITY                                        440,000
+EXPLORA SCIENCE CENTER & CHILDREN'S MUSEUM OF ALBUQUERQUE       299,250
+REDACTED DUE TO PII                                             100,000
+SANTA FE INSTITUTE OF SCIENCE INC                                61,918
 ```
 ---
 ---
@@ -83,48 +79,53 @@ and  1  other institutions.
 Debra A. Haaland is not on any of our key committees 
 
 ### HEP Grants
+In the past 8 years, this district has received:<b> $4,503,000 </b>in SC HEP grants.
 ```
-In the past 8 years, this district has received: $4,503,000.00 in SC HEP grants.
-                               Amount ($)
-Institution              Year            
-UNIVERSITY OF NEW MEXICO 2012      768000
-                         2013      701000
-University of New Mexico 2014      491000
-                         2015      490000
-                         2016      335000
-                         2017      868000
-                         2018      850000
+Institution                 Amount ($)    Start  End      Principal Investigator    Project Title
+------------------------  ------------  -------  -------  ------------------------  -------------------------------------------------------------------------------------------------------------------------------------------
+University of New Mexico       150,000     2018  Ongoing  Seidel, Sally             Collider Physics
+University of New Mexico       100,000     2018  Ongoing  Loomba, Dinesh            Exploring novel technologies for particle tracking in gas TPCs
+University of New Mexico       600,000     2018  Ongoing  Biedron, Sandra           Research in Advanced Artificial Intelligence Techniques for Modern Accelerator Control
+University of New Mexico       360,000     2017  Ongoing  Heinemann, Klaus          Re-evaluation of Spin-Orbit Dynamics of Polarized e+e- Beams in High Energy Circular Accelerators and Storage Rings: Theory and Computation
+University of New Mexico        10,000     2017  2018     Seidel, Sally             CPAD2017: New Technologies for Discovery
+University of New Mexico       150,000     2017  Ongoing  Seidel, Sally             Collider Physics
+University of New Mexico       340,000     2017  Ongoing  Heinemann, Klaus          Numerical Optimization for Spin Dynamics in Electron (Positron) Storage Rings
+University of New Mexico         8,000     2017  Ongoing  Loomba, Dinesh            Negative Ion Drift TPC Development for High-Resolution Tracking
+University of New Mexico       335,000     2016  Ongoing  Matthews, John            UNM High Energy Physics: Tasks A and B
+University of New Mexico        10,000     2015  2016     Seidel, Sally             Vertex2015: The 24Th International Workshop On Vertex Detectors
+University of New Mexico        41,000     2014  2015     Ellison, James            INVESTIGATIONS OF BEAM DYNAMICS ISSUES AT CURRENT AND FUTURE HADRON ACCELERATORS
+University of New Mexico       420,000     2014  2016     Matthews, John            Exploring the Cosmic Frontier: Task A, B and C
+University of New Mexico       510,000     2014  2017     Seidel, Sally             Collider Physics
+UNIVERSITY OF NEW MEXICO       285,000     2013  2014     Matthews                  Exploring the Cosmic Frontier: Task A, B and C
+UNIVERSITY OF NEW MEXICO       243,000     2013  2014     Seidel                    Collider Physics
+UNIVERSITY OF NEW MEXICO        10,000     2013  2014     Seidel                    22nd RD50 Workshop on Radiation Hard Semiconductor Devices for High Luminosity Colliders, June 3-5, 2013
+UNIVERSITY OF NEW MEXICO       602,000     2012  2014     Matthews, Seidel, Gold    New Mexico Center for Particle Physics (NMCPP) -- Task A:  Collider Physics; Task A2 Collider Physics; Task B:  Particle Astrophysics
+UNIVERSITY OF NEW MEXICO       329,000     2012  2014     Ellison                   Investigations of Beam Dynamics Issues at Current and Future Hadron Accelerators
 ```
 ### SC Contracts
+In the past 8 years, this district has received:
+4 Office of Science contracts, totalling <b> $343,805</b>
 ```
-In the past 8 years, this district has received: $304,140.00 in SC contracts.
-                               Amount ($)
-Vendor                   Year            
-HOLMAN'S INC.            2012        3474
-                         2015       34998
-HOLMANS USA LLC          2015           0
-LECHEL, INC.             2017           0
-LUNATEK LLC              2016       94160
-ORTIZ & LOPEZ, PLLC      2012           0
-                         2013      -33314
-                         2014       -6270
-PERIKIN ENTERPRISES, LLC 2018      211172
-VERIZON WIRELESS INC     2016         -80
+  Year  Vendor                      Amount ($)  Item
+------  ------------------------  ------------  ----------------------------------------
+  2018  PERIKIN ENTERPRISES, LLC       211,172  CONSTRUCTION OF OFFICE BUILDINGS
+  2016  LUNATEK LLC                     94,160  INFORMATION TECHNOLOGY SUPPORT EQUIPMENT
+  2015  HOLMAN'S INC.                   34,998  ADPE SYSTEM CONFIGURATION
+  2012  HOLMAN'S INC.                    3,475  ADPE SYSTEM CONFIGURATION
 ```
 ### NSF MPS Grants
+In the past 8 years, this district has received:<b> $24,180,829 </b>in NSF MPS grants.
 ```
-In the past 8 years, this district has received: $23,876,096.00 in NSF MPS grants.
-                                                         Amount ($)
-Institution                                        Year            
-EXPLORA SCIENCE CENTER & CHILDREN'S MUSEUM OF A... 2018      299250
-UNIVERSITY OF NEW MEXICO                           2012     4976575
-                                                   2013     4100279
-                                                   2014     1127054
-                                                   2015     1946386
-                                                   2016     2999343
-                                                   2017     3704874
-                                                   2018     4807026
-                                                   2019      -84691
+  Year  Institution                                                  Amount ($)
+------  ---------------------------------------------------------  ------------
+  2018  EXPLORA SCIENCE CENTER & CHILDREN'S MUSEUM OF ALBUQUERQUE       299,250
+  2018  UNIVERSITY OF NEW MEXICO                                      4,807,026
+  2017  UNIVERSITY OF NEW MEXICO                                      3,704,874
+  2016  UNIVERSITY OF NEW MEXICO                                      2,999,343
+  2015  UNIVERSITY OF NEW MEXICO                                      2,166,428
+  2014  UNIVERSITY OF NEW MEXICO                                      1,127,054
+  2013  UNIVERSITY OF NEW MEXICO                                      4,100,279
+  2012  UNIVERSITY OF NEW MEXICO                                      4,976,575
 ```
 ---
 <a name="NM-02"></a>
@@ -142,22 +143,22 @@ This district received no SC HEP grants from 2012-2019
 This district received no SC contracts from 2012-2019
 ```
 ### NSF MPS Grants
+In the past 8 years, this district has received:<b> $7,223,587 </b>in NSF MPS grants.
 ```
-In the past 8 years, this district has received: $6,339,727.00 in NSF MPS grants.
-                                                    Amount ($)
-Institution                                   Year            
-NEW MEXICO INSTITUTE OF MINING AND TECHNOLOGY 2012      155000
-                                              2013      414408
-                                              2018       82479
-NEW MEXICO ST UNIVERSITY                      2015       20000
-NEW MEXICO STATE UNIVERSITY                   2012      909844
-                                              2013      501518
-                                              2014     1232582
-                                              2015      828887
-                                              2016     1091657
-                                              2017      636619
-                                              2018      366733
-REDACTED DUE TO PII                           2018      100000
+  Year  Institution                                      Amount ($)
+------  ---------------------------------------------  ------------
+  2018  NEW MEXICO INSTITUTE OF MINING AND TECHNOLOGY        82,479
+  2018  NEW MEXICO STATE UNIVERSITY                         452,903
+  2018  REDACTED DUE TO PII                                 100,000
+  2017  NEW MEXICO STATE UNIVERSITY                         909,531
+  2016  NEW MEXICO STATE UNIVERSITY                       1,091,657
+  2015  NEW MEXICO ST UNIVERSITY                            440,000
+  2015  NEW MEXICO STATE UNIVERSITY                         828,887
+  2014  NEW MEXICO STATE UNIVERSITY                       1,337,360
+  2013  NEW MEXICO INSTITUTE OF MINING AND TECHNOLOGY       414,408
+  2013  NEW MEXICO STATE UNIVERSITY                         501,518
+  2012  NEW MEXICO INSTITUTE OF MINING AND TECHNOLOGY       155,000
+  2012  NEW MEXICO STATE UNIVERSITY                         909,844
 ```
 ---
 <a name="NM-03"></a>
@@ -171,52 +172,41 @@ Ben Ray Luján is the #14 Democrat on the House Committee on Energy and Commerce
 This district received no SC HEP grants from 2012-2019
 ```
 ### SC Contracts
+In the past 8 years, this district has received:
+32 Office of Science contracts, totalling <b> $6,669,932</b>
 ```
-In the past 8 years, this district has received: $5,242,251.00 in SC contracts.
-                                          Amount ($)
-Vendor                              Year            
-DEEP WEB TECHNOLOGIES, INC.         2014        9450
-                                    2015      148500
-                                    2016       72000
-DEEP WEB TECHNOLOGIES, LLC          2012      321800
-                                    2013      274300
-                                    2014      301000
-                                    2015       52500
-GROUPEMENT INTERET PUBLIC ARRONAX   2013     1056000
-                                    2014     1187500
-                                    2015     3184800
-                                    2016    -1427680
-                                    2017           0
-                                    2018           0
-IDEAL SYSTEM SOLUTIONS, INC.        2013       10331
-LUNATEK LLC                         2016       34617
-NUCLEAR MEDICINE SOLUTIONS, INC     2016           0
-                                    2017           0
-                                    2018           0
-STRATEGIC MANAGEMENT SOLUTIONS, LLC 2012           0
-WILDFLOWER INTERNATIONAL, LTD.      2012       17133
+Vendor                               Amount ($)  Item
+---------------------------------  ------------  ---------------------------------------------------------
+GROUPEMENT INTERET PUBLIC ARRONAX     5,428,300  MEDICAL AND SURGICAL INSTRUMENTS, EQUIPMENT, AND SUPPLIES
+DEEP WEB TECHNOLOGIES, LLC              542,300  IT AND TELECOM- IT STRATEGY AND ARCHITECTURE
+DEEP WEB TECHNOLOGIES, LLC              407,300  SUPPORT- ADMINISTRATIVE: INFORMATION RETRIEVAL
+DEEP WEB TECHNOLOGIES, INC.             157,950  IT AND TELECOM- IT STRATEGY AND ARCHITECTURE
+DEEP WEB TECHNOLOGIES, INC.              72,000  NEWSPAPERS AND PERIODICALS
+LUNATEK LLC                              34,618  INFORMATION TECHNOLOGY SUPPORT EQUIPMENT
+WILDFLOWER INTERNATIONAL, LTD.           17,133  ADPE SYSTEM CONFIGURATION
+IDEAL SYSTEM SOLUTIONS, INC.             10,331  ADP CENTRAL PROCESSING UNIT (CPU, COMPUTER), DIGITAL
 ```
 ### NSF MPS Grants
+In the past 8 years, this district has received:<b> $6,575,710 </b>in NSF MPS grants.
 ```
-In the past 8 years, this district has received: $6,334,863.00 in NSF MPS grants.
-                                        Amount ($)
-Institution                       Year            
-NAVAJO TECHNICAL COLLEGE          2018      600000
-NEW MEXICO HIGHLANDS UNIVERSITY   2012      540000
-                                  2013      540000
-                                  2014       87500
-                                  2015      660000
-                                  2017     1320000
-NMC, INC.                         2012      115000
-                                  2014      221074
-                                  2015       15000
-                                  2016       77241
-                                  2017       75000
-SANTA FE INSTITUTE OF SCIENCE     2013      100000
-                                  2014       16025
-                                  2016     1788226
-                                  2017       89999
-                                  2018       27880
-SANTA FE INSTITUTE OF SCIENCE INC 2012       61918
+  Year  Institution                          Amount ($)
+------  ---------------------------------  ------------
+  2018  SANTA FE INSTITUTE OF SCIENCE           150,000
+  2018  NAVAJO TECHNICAL COLLEGE                600,000
+  2017  SANTA FE INSTITUTE OF SCIENCE           193,726
+  2017  NMC, INC.                                90,000
+  2017  NEW MEXICO HIGHLANDS UNIVERSITY       1,320,000
+  2016  SANTA FE INSTITUTE OF SCIENCE         1,788,226
+  2016  NMC, INC.                                77,241
+  2015  NMC, INC.                                15,000
+  2015  NEW MEXICO HIGHLANDS UNIVERSITY         660,000
+  2014  SANTA FE INSTITUTE OF SCIENCE            16,025
+  2014  NMC, INC.                               221,074
+  2014  NEW MEXICO HIGHLANDS UNIVERSITY          87,500
+  2013  SANTA FE INSTITUTE OF SCIENCE           100,000
+  2013  NEW MEXICO HIGHLANDS UNIVERSITY         540,000
+  2012  NMC, INC.                               115,000
+  2012  SANTA FE INSTITUTE OF SCIENCE INC        61,918
+  2012  NEW MEXICO HIGHLANDS UNIVERSITY         540,000
 ```
 ---

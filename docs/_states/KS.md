@@ -20,41 +20,38 @@ Jerry Moran is the #8 Republican on the Senate Committee on Appropriations
 Jerry Moran is the #6 Republican on the Senate Committee on Commerce, Science, and Transportation 
 
 ## HEP Grants
-```
 In the past 8 years, this state has received:
-27 HEP grants, totalling $6,456,500.00
- 
-                         Amount ($)
-Institution                        
-Kansas State University     4054000
-KANSAS STATE UNIVERSITY     1695000
-University of Kansas         449500
-UNIVERSITY OF KANSAS         258000
+27 HEP grants, totalling <b> $6,456,500</b>
 ```
-## SC Contracts
+Institution                Amount ($)
+-----------------------  ------------
+Kansas State University     4,054,000
+KANSAS STATE UNIVERSITY     1,695,000
+University of Kansas          449,500
+UNIVERSITY OF KANSAS          258,000
 ```
+### SC Contracts
 In the past 8 years, this state has received:
-3 Office of Science contracts, totalling $66,012.00
- 
-                             Amount ($)
-Vendor                 Year            
-FISHNET SECURITY, INC. 2013       22004
-                       2014       22004
-                       2015       22004
+3 Office of Science contracts, totalling <b> $66,015</b>
+```
+  Year  Vendor                    Amount ($)  Item
+------  ----------------------  ------------  ------------
+  2015  FISHNET SECURITY, INC.        22,005  ADP SOFTWARE
+  2014  FISHNET SECURITY, INC.        22,005  ADP SOFTWARE
+  2013  FISHNET SECURITY, INC.        22,005  ADP SOFTWARE
 ```
 ## NSF MPS Grants
-```
 In the past 8 years, this state has received:
-200 NSF MPS grants, totalling $36,520,370.00
- 
-                                                Amount ($)
-Institution                                               
-UNIVERSITY OF KANSAS CENTER FOR RESEARCH, INC     14751156
-KANSAS STATE UNIVERSITY                           11709213
-UNIVERSITY OF KANSAS CENTER FOR RESEARCH, INC.     7365823
-WICHITA STATE UNIVERSITY                           2174029
-U OF KANSAS CTR FOR RES IN                          370149
-EMPORIA STATE UNIVERSITY                            150000
+187 NSF MPS grants, totalling <b> $37,711,467</b>
+```
+Institution                                       Amount ($)
+----------------------------------------------  ------------
+UNIVERSITY OF KANSAS CENTER FOR RESEARCH, INC     15,355,314
+KANSAS STATE UNIVERSITY                           12,296,152
+UNIVERSITY OF KANSAS CENTER FOR RESEARCH, INC.     7,365,823
+WICHITA STATE UNIVERSITY                           2,174,029
+U OF KANSAS CTR FOR RES IN                           370,149
+EMPORIA STATE UNIVERSITY                             150,000
 ```
 ---
 ---
@@ -65,31 +62,29 @@ EMPORIA STATE UNIVERSITY                            150000
 Roger W. Marshall is the #7 Republican on the House Committee on Science, Space, and Technology 
 
 ### HEP Grants
+In the past 8 years, this district has received:<b> $4,054,000 </b>in SC HEP grants.
 ```
-In the past 8 years, this district has received: $4,054,000.00 in SC HEP grants.
-                              Amount ($)
-Institution             Year            
-Kansas State University 2014      631000
-                        2015      750000
-                        2016      765000
-                        2017      950000
-                        2018      958000
+Institution                Amount ($)    Start  End      Principal Investigator    Project Title
+-----------------------  ------------  -------  -------  ------------------------  --------------------------------------------------------------------------------------------
+Kansas State University        83,000     2018  Ongoing  Ratra, Bharat             Testing Non-Flat, Dynamical Dark Energy, Inflation Models
+Kansas State University     3,371,000     2014  Ongoing  Horton-Smith, Glenn       Research at Kansas State University into the Basic Nature of Matter, Energy, Space, and Time
+Kansas State University       600,000     2014  2018     Ivanov, Andrew            Quest for a Top Quark Partner and Upgrade of the Pixel Detector Readout Chain at the CMS
 ```
 ### SC Contracts
 ```
 This district received no SC contracts from 2012-2019
 ```
 ### NSF MPS Grants
+In the past 8 years, this district has received:<b> $9,632,071 </b>in NSF MPS grants.
 ```
-In the past 8 years, this district has received: $9,045,132.00 in NSF MPS grants.
-                              Amount ($)
-Institution             Year            
-KANSAS STATE UNIVERSITY 2013     1136720
-                        2014      578637
-                        2015     2375266
-                        2016       17924
-                        2017     2999052
-                        2018     1937533
+  Year  Institution                Amount ($)
+------  -----------------------  ------------
+  2018  KANSAS STATE UNIVERSITY     2,444,904
+  2017  KANSAS STATE UNIVERSITY     3,043,002
+  2016  KANSAS STATE UNIVERSITY        17,924
+  2015  KANSAS STATE UNIVERSITY     2,375,266
+  2014  KANSAS STATE UNIVERSITY       614,255
+  2013  KANSAS STATE UNIVERSITY     1,136,720
 ```
 ---
 <a name="KS-02"></a>
@@ -99,37 +94,38 @@ KANSAS STATE UNIVERSITY 2013     1136720
 Steven C. Watkins, Jr. is the #10 Republican on the House Subcommittee on Higher Education and Workforce Development 
 
 ### HEP Grants
+In the past 8 years, this district has received:<b> $2,402,500 </b>in SC HEP grants.
 ```
-In the past 8 years, this district has received: $2,402,500.00 in SC HEP grants.
-                              Amount ($)
-Institution             Year            
-KANSAS STATE UNIVERSITY 2012      775000
-                        2013      920000
-UNIVERSITY OF KANSAS    2012      210000
-                        2013       48000
-University of Kansas    2014       47500
-                        2015      140000
-                        2016           0
-                        2017      262000
-                        2018           0
+Institution                Amount ($)    Start  End      Principal Investigator    Project Title
+-----------------------  ------------  -------  -------  ------------------------  ----------------------------------------------------------------------------------------
+University of Kansas          136,000     2017  Ongoing  Kong, Kyoungchul          Searches for New Phenomena Beyond the Standard Model
+University of Kansas          126,000     2017  Ongoing  Lewis, Ian                Searches for New Physics in Standard Model Processes
+University of Kansas          187,500     2014  2018     Kong, Kyoungchul          Search for New Phenomena Beyond the Standard Model
+KANSAS STATE UNIVERSITY       920,000     2013  2014     Horton-Smith              Heavy Quark and Neutrino Physics
+KANSAS STATE UNIVERSITY             0     2013  2014     Ivanov                    Quest for a Top Quark Partner and Upgrade of the Pixel Detector Readout Chain at the CMS
+UNIVERSITY OF KANSAS                0     2013  2014     Marfatia                  Research In Theoretical Particle Physics
+KANSAS STATE UNIVERSITY       720,000     2012  2013     Bolton                    Heavy Quark and Neutrino Physics
+KANSAS STATE UNIVERSITY        55,000     2012  2013     Ivanov                    Exploiting Third Generation Quarks for New Physics Discoveries at the Energy Frontier
+UNIVERSITY OF KANSAS           98,000     2012  2014     Kong                      Hunt for New Physics at the Large Hadron Collider
+UNIVERSITY OF KANSAS          160,000     2012  2013     Ralston                   Research in Theoretical Particle Physics
 ```
 ### SC Contracts
 ```
 This district received no SC contracts from 2012-2019
 ```
 ### NSF MPS Grants
+In the past 8 years, this district has received:<b> $21,989,179 </b>in NSF MPS grants.
 ```
-In the past 8 years, this district has received: $21,526,415.00 in NSF MPS grants.
-                                                     Amount ($)
-Institution                                    Year            
-KANSAS STATE UNIVERSITY                        2012     2664081
-U OF KANSAS CTR FOR RES IN                     2015      370149
-UNIVERSITY OF KANSAS CENTER FOR RESEARCH, INC  2013     3227973
-                                               2014     2785414
-                                               2015     1901601
-                                               2016     3211374
-UNIVERSITY OF KANSAS CENTER FOR RESEARCH, INC. 2017     4099408
-                                               2018     3266415
+  Year  Institution                                       Amount ($)
+------  ----------------------------------------------  ------------
+  2018  UNIVERSITY OF KANSAS CENTER FOR RESEARCH, INC.     3,266,415
+  2017  UNIVERSITY OF KANSAS CENTER FOR RESEARCH, INC.     4,099,408
+  2016  UNIVERSITY OF KANSAS CENTER FOR RESEARCH, INC      3,211,374
+  2015  U OF KANSAS CTR FOR RES IN                           370,149
+  2015  UNIVERSITY OF KANSAS CENTER FOR RESEARCH, INC      2,364,365
+  2014  UNIVERSITY OF KANSAS CENTER FOR RESEARCH, INC      2,785,414
+  2013  UNIVERSITY OF KANSAS CENTER FOR RESEARCH, INC      3,227,973
+  2012  KANSAS STATE UNIVERSITY                            2,664,081
 ```
 ---
 <a name="KS-03"></a>
@@ -143,21 +139,22 @@ Sharice Davids is not on any of our key committees
 This district received no SC HEP grants from 2012-2019
 ```
 ### SC Contracts
+In the past 8 years, this district has received:
+3 Office of Science contracts, totalling <b> $66,015</b>
 ```
-In the past 8 years, this district has received: $66,012.00 in SC contracts.
-                             Amount ($)
-Vendor                 Year            
-FISHNET SECURITY, INC. 2013       22004
-                       2014       22004
-                       2015       22004
+  Year  Vendor                    Amount ($)  Item
+------  ----------------------  ------------  ------------
+  2015  FISHNET SECURITY, INC.        22,005  ADP SOFTWARE
+  2014  FISHNET SECURITY, INC.        22,005  ADP SOFTWARE
+  2013  FISHNET SECURITY, INC.        22,005  ADP SOFTWARE
 ```
 ### NSF MPS Grants
+In the past 8 years, this district has received:<b> $3,766,188 </b>in NSF MPS grants.
 ```
-In the past 8 years, this district has received: $3,624,794.00 in NSF MPS grants.
-                                                    Amount ($)
-Institution                                   Year            
-UNIVERSITY OF KANSAS CENTER FOR RESEARCH, INC 2012     3549051
-                                              2013       75743
+  Year  Institution                                      Amount ($)
+------  ---------------------------------------------  ------------
+  2013  UNIVERSITY OF KANSAS CENTER FOR RESEARCH, INC        87,000
+  2012  UNIVERSITY OF KANSAS CENTER FOR RESEARCH, INC     3,679,188
 ```
 ---
 <a name="KS-04"></a>
@@ -175,15 +172,15 @@ This district received no SC HEP grants from 2012-2019
 This district received no SC contracts from 2012-2019
 ```
 ### NSF MPS Grants
+In the past 8 years, this district has received:<b> $2,324,029 </b>in NSF MPS grants.
 ```
-In the past 8 years, this district has received: $2,324,029.00 in NSF MPS grants.
-                               Amount ($)
-Institution              Year            
-EMPORIA STATE UNIVERSITY 2016      150000
-WICHITA STATE UNIVERSITY 2012      616011
-                         2015      305500
-                         2016      508018
-                         2017      728000
-                         2018       16500
+  Year  Institution                 Amount ($)
+------  ------------------------  ------------
+  2018  WICHITA STATE UNIVERSITY        16,500
+  2017  WICHITA STATE UNIVERSITY       728,000
+  2016  EMPORIA STATE UNIVERSITY       150,000
+  2016  WICHITA STATE UNIVERSITY       508,018
+  2015  WICHITA STATE UNIVERSITY       305,500
+  2012  WICHITA STATE UNIVERSITY       616,011
 ```
 ---

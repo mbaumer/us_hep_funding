@@ -16,57 +16,101 @@ Edward J. Markey is the #5 Democrat on the Senate Committee on Commerce, Science
 Elizabeth Warren is not on any of our key committees 
 
 ## HEP Grants
-```
 In the past 8 years, this state has received:
-196 HEP grants, totalling $107,775,000.00
- 
-                                             Amount ($)
-Institution                                            
-Massachusetts Institute of Technology          34140000
-MASSACHUSETTS INST. OF TECHNOLOGY              17228000
-Boston University                              11155000
-Massachusetts Institute of Technology (MIT)     7749000
-Harvard University                              5423000
-BOSTON UNIVERSITY                               4347000
-HARVARD UNIVERSITY                              3979000
-Brandeis University                             3780000
-University of Massachusetts - Amherst           3363000
-Tufts University                                3113000
-and  12  other institutions.
+196 HEP grants, totalling <b> $107,775,000</b>
 ```
-## SC Contracts
+Institution                                                      Amount ($)
+-------------------------------------------------------------  ------------
+Massachusetts Institute of Technology                            34,140,000
+MASSACHUSETTS INST. OF TECHNOLOGY                                17,228,000
+Boston University                                                11,155,000
+Massachusetts Institute of Technology (MIT)                       7,749,000
+Harvard University                                                5,423,000
+BOSTON UNIVERSITY                                                 4,347,000
+HARVARD UNIVERSITY                                                3,979,000
+Brandeis University                                               3,780,000
+University of Massachusetts - Amherst                             3,363,000
+Tufts University                                                  3,113,000
+President and Fellows of Harvard College                          2,674,000
+Harvard College                                                   2,655,000
+BRANDEIS UNIVERSITY                                               1,950,000
+TUFTS UNIVERSITY                                                  1,099,000
+U. OF MASSACHUSETTS, AMHERST                                      1,086,000
+SMITHSONIAN ASTROPHYSICAL OBSERVATORY                             1,025,000
+Smithsonian Institute /Smithsonian Astrophysical Observatory        950,000
+Brandies University                                                 901,000
+Northeastern University                                             600,000
+Smithsonian Institute - Smithsonian Astrophysical Observatory       400,000
+NORTHEASTERN UNIVERSITY                                             150,000
+Wellesley College                                                     8,000
 ```
+### SC Contracts
 In the past 8 years, this state has received:
-25 Office of Science contracts, totalling $95,757.00
- 
-                                           Amount ($)
-Vendor                                               
-RAPID7 LLC                                      62927
-PUBLISHERS INTL LINKING ASSOC                   30247
-AMERICAN METEOROLOGICAL SOCIETY, INC.           26203
-MASSACHUSETTS MEDICAL SOCIETY INC               18450
-IRON MOUNTAIN INFORMATION MANAGEMENT, LLC        4830
-MASSACHUSETTS MEDICAL SOCIETY                    3100
-ARTHUR D LITTLE INC                            -50000
+16 Office of Science contracts, totalling <b> $151,763</b>
+```
+Vendor                                       Amount ($)  Item
+-----------------------------------------  ------------  -------------------------------------------------------------------------------------------
+RAPID7 LLC                                       66,711  ADP SOFTWARE
+PUBLISHERS INTL LINKING ASSOC                    30,248  NEWSPAPERS AND PERIODICALS
+AMERICAN METEOROLOGICAL SOCIETY, INC.            20,808  NEWSPAPERS AND PERIODICALS
+MASSACHUSETTS MEDICAL SOCIETY INC                18,450  NEWSPAPERS AND PERIODICALS
+IRON MOUNTAIN INFORMATION MANAGEMENT, LLC         7,051  IT AND TELECOM- DATA CENTERS AND STORAGE
+AMERICAN METEOROLOGICAL SOCIETY, INC.             5,395  SUPPORT- PROFESSIONAL: CERTIFICATIONS AND ACCREDITATIONS (OTHER THAN EDUC OR INFO TECH C&A)
+MASSACHUSETTS MEDICAL SOCIETY                     3,100  NEWSPAPERS AND PERIODICALS
 ```
 ## NSF MPS Grants
-```
 In the past 8 years, this state has received:
-2021 NSF MPS grants, totalling $458,333,973.00
- 
-                                          Amount ($)
-Institution                                         
-MASSACHUSETTS INSTITUTE OF TECHNOLOGY      113484830
-HARVARD COLLEGE, PRESIDENT & FELLOWS OF     72215141
-UNIVERSITY OF MASSACHUSETTS                 54344480
-PRESIDENT AND FELLOWS OF HARVARD COLLEGE    42098480
-TRUSTEES OF BOSTON UNIVERSITY               37527485
-BRANDEIS UNIVERSITY                         22194074
-NORTHEASTERN UNIVERSITY                     15770571
-TRUSTEES OF TUFTS COLLEGE INC               14370274
-BOSTON COLLEGE, TRUSTEES OF                 13927255
-SMITHSONIAN INSTITUTION                     11115177
-and  38  other institutions.
+1882 NSF MPS grants, totalling <b> $468,256,427</b>
+```
+Institution                                      Amount ($)
+---------------------------------------------  ------------
+MASSACHUSETTS INSTITUTE OF TECHNOLOGY           117,835,345
+HARVARD COLLEGE, PRESIDENT & FELLOWS OF          73,146,137
+UNIVERSITY OF MASSACHUSETTS                      54,839,182
+PRESIDENT AND FELLOWS OF HARVARD COLLEGE         43,348,507
+TRUSTEES OF BOSTON UNIVERSITY                    38,418,830
+BRANDEIS UNIVERSITY                              22,399,677
+NORTHEASTERN UNIVERSITY                          15,924,473
+TRUSTEES OF TUFTS COLLEGE INC                    14,402,817
+BOSTON COLLEGE, TRUSTEES OF                      14,116,627
+SMITHSONIAN INSTITUTION                          11,115,177
+MIT                                               7,769,227
+SMITHSONIAN-ASTROPHYS OBS                         6,502,314
+WORCESTER POLYTECHNIC INSTITUTE                   6,116,867
+HARVARD UNIVERSITY                                5,821,633
+AMHERST COLLEGE, TRUSTEES OF                      5,220,889
+MULTIPLE RECIPIENTS                               5,160,333
+TRUSTEES OF THE SMITH COLLEGE, THE                3,606,838
+U OF MASSACHUSETTS AMHERST                        2,393,058
+NEROC                                             2,233,400
+PII REDACTED                                      2,000,000
+PRESIDENT & TRUSTEES OF WILLIAMS COLLEGE          1,861,711
+MASSACHUSETTS GENERAL HOSPITAL, THE               1,837,302
+DANA-FARBER CANCER INSTITUTE, INC.                1,345,840
+TRUSTEES OF MOUNT HOLYOKE COLLEGE, THE            1,136,858
+WELLESLEY COLLEGE                                 1,109,773
+THE TRUSTEES OF MOUNT HOLYOKE COLLEGE             1,104,059
+EMMANUEL COLLEGE                                    758,171
+CHILDREN'S HOSPITAL CORPORATION, THE                618,849
+BOSTON COLLEGE                                      611,094
+NANTUCKET MARIA MITCHELL ASSOCIATION, THE           522,476
+AMERICAN ASSOCIATION OF VARIABLE STAR OBSERVE       432,366
+WHITEHEAD INSTITUTE FOR BIOMEDICAL RESEARCH         420,000
+WESTERN NEW ENGLAND UNIVERSITY                      414,920
+BOSTON UNIVERSITY                                   413,841
+REDACTED DUE TO PII                                 400,000
+CLARK UNIVERSITY                                    376,618
+TRUSTEES OF CLARK UNIVERSITY                        375,956
+FRANKLIN W. OLIN COLLEGE OF ENGINEERING, INC.       350,459
+AERODYNE RESEARCH, INC.                             310,000
+ALGEBRA PROJECT INC, THE                            299,276
+SUFFOLK UNIVERSITY                                  294,000
+COLLEGE OF THE HOLY CROSS                           286,548
+GORDON COLLEGE                                      203,528
+TUFTS UNIVERSITY                                    188,018
+WHEATON COLLEGE                                     141,171
+NATIONAL COLLEGIATE INVENTORS & INNOVATORS AL        47,590
+BARD COLLEGE AT SIMON'S ROCK                         24,672
 ```
 ---
 ---
@@ -77,41 +121,41 @@ and  38  other institutions.
 Richard E. Neal is not on any of our key committees 
 
 ### HEP Grants
+In the past 8 years, this district has received:<b> $1,086,000 </b>in SC HEP grants.
 ```
-In the past 8 years, this district has received: $1,086,000.00 in SC HEP grants.
-                                   Amount ($)
-Institution                  Year            
-U. OF MASSACHUSETTS, AMHERST 2012      454000
-                             2013      632000
+Institution                     Amount ($)    Start    End  Principal Investigator    Project Title
+----------------------------  ------------  -------  -----  ------------------------  ---------------------------------------------------------------------------------
+U. OF MASSACHUSETTS, AMHERST       540,000     2013   2014  Willocq                   High Energy Physics Research on the ATLAS Experiment at the Large Hadron Collider
+U. OF MASSACHUSETTS, AMHERST       546,000     2012   2014  Willocq, Brau             Experimental Elementary Particle Physics Research
 ```
 ### SC Contracts
 ```
 This district received no SC contracts from 2012-2019
 ```
 ### NSF MPS Grants
+In the past 8 years, this district has received:<b> $23,532,713 </b>in NSF MPS grants.
 ```
-In the past 8 years, this district has received: $23,337,460.00 in NSF MPS grants.
-                                               Amount ($)
-Institution                              Year            
-AMHERST COLLEGE, TRUSTEES OF             2012      600305
-BARD COLLEGE AT SIMON'S ROCK             2016       24672
-PRESIDENT & TRUSTEES OF WILLIAMS COLLEGE 2012      358083
-                                         2013      269372
-                                         2014      288962
-                                         2015       22000
-                                         2016      186999
-                                         2017      478775
-                                         2018      257520
-THE TRUSTEES OF MOUNT HOLYOKE COLLEGE    2013      228644
-                                         2014      197073
-TRUSTEES OF MOUNT HOLYOKE COLLEGE, THE   2017      570150
-                                         2018      566708
-UNIVERSITY OF MASSACHUSETTS              2012     8416331
-                                         2017     5408007
-                                         2018     4763708
-                                         2019      285231
-WESTERN NEW ENGLAND UNIVERSITY           2014       49920
-                                         2015      365000
+  Year  Institution                                 Amount ($)
+------  ----------------------------------------  ------------
+  2019  UNIVERSITY OF MASSACHUSETTS                    285,231
+  2018  UNIVERSITY OF MASSACHUSETTS                  4,829,356
+  2018  TRUSTEES OF MOUNT HOLYOKE COLLEGE, THE         566,708
+  2018  PRESIDENT & TRUSTEES OF WILLIAMS COLLEGE       257,520
+  2017  UNIVERSITY OF MASSACHUSETTS                  5,408,007
+  2017  TRUSTEES OF MOUNT HOLYOKE COLLEGE, THE         570,150
+  2017  PRESIDENT & TRUSTEES OF WILLIAMS COLLEGE       478,775
+  2016  BARD COLLEGE AT SIMON'S ROCK                    24,672
+  2016  PRESIDENT & TRUSTEES OF WILLIAMS COLLEGE       186,999
+  2015  WESTERN NEW ENGLAND UNIVERSITY                 365,000
+  2015  PRESIDENT & TRUSTEES OF WILLIAMS COLLEGE        22,000
+  2014  WESTERN NEW ENGLAND UNIVERSITY                  49,920
+  2014  THE TRUSTEES OF MOUNT HOLYOKE COLLEGE          197,073
+  2014  PRESIDENT & TRUSTEES OF WILLIAMS COLLEGE       288,962
+  2013  THE TRUSTEES OF MOUNT HOLYOKE COLLEGE          358,249
+  2013  PRESIDENT & TRUSTEES OF WILLIAMS COLLEGE       269,372
+  2012  PRESIDENT & TRUSTEES OF WILLIAMS COLLEGE       358,083
+  2012  UNIVERSITY OF MASSACHUSETTS                  8,416,331
+  2012  AMHERST COLLEGE, TRUSTEES OF                   600,305
 ```
 ---
 <a name="MA-02"></a>
@@ -121,55 +165,52 @@ WESTERN NEW ENGLAND UNIVERSITY           2014       49920
 James P. McGovern is not on any of our key committees 
 
 ### HEP Grants
+In the past 8 years, this district has received:<b> $3,363,000 </b>in SC HEP grants.
 ```
-In the past 8 years, this district has received: $3,363,000.00 in SC HEP grants.
-                                            Amount ($)
-Institution                           Year            
-University of Massachusetts - Amherst 2014      559000
-                                      2015      659000
-                                      2016      660000
-                                      2017      660000
-                                      2018      825000
+Institution                              Amount ($)    Start  End      Principal Investigator    Project Title
+-------------------------------------  ------------  -------  -------  ------------------------  ---------------------------------------------------------------------------------
+University of Massachusetts - Amherst       150,000     2018  Ongoing  Hertel, Scott             Internal Calibration of the LZ Dark Matter Experiment
+University of Massachusetts - Amherst     3,213,000     2014  Ongoing  Willocq, Stephane         High Energy Physics Research on the ATLAS Experiment at the Large Hadron Collider
 ```
 ### SC Contracts
 ```
 This district received no SC contracts from 2012-2019
 ```
 ### NSF MPS Grants
+In the past 8 years, this district has received:<b> $44,707,153 </b>in NSF MPS grants.
 ```
-In the past 8 years, this district has received: $44,160,445.00 in NSF MPS grants.
-                                                    Amount ($)
-Institution                                   Year            
-AMHERST COLLEGE, TRUSTEES OF                  2013      891728
-                                              2014      493289
-                                              2015     1019858
-                                              2016      141920
-                                              2017      624310
-                                              2018     1331825
-CLARK UNIVERSITY                              2015      376618
-COLLEGE OF THE HOLY CROSS                     2014      135490
-NATIONAL COLLEGIATE INVENTORS & INNOVATORS AL 2013       47590
-THE TRUSTEES OF MOUNT HOLYOKE COLLEGE         2012      548737
-TRUSTEES OF CLARK UNIVERSITY                  2015      275956
-TRUSTEES OF THE SMITH COLLEGE, THE            2012     1873917
-                                              2013       35000
-                                              2014      401649
-                                              2016      695521
-                                              2017      176326
-                                              2018      424425
-U OF MASSACHUSETTS AMHERST                    2015     2393058
-UNIVERSITY OF MASSACHUSETTS                   2013     8760449
-                                              2014     2526510
-                                              2015     6743644
-                                              2016     4197811
-                                              2017     4628027
-                                              2018      595685
-WORCESTER POLYTECHNIC INSTITUTE               2013     1042254
-                                              2014      259925
-                                              2015      766392
-                                              2016     1056900
-                                              2017      452973
-                                              2018     1242658
+  Year  Institution                                      Amount ($)
+------  ---------------------------------------------  ------------
+  2018  WORCESTER POLYTECHNIC INSTITUTE                   1,242,658
+  2018  UNIVERSITY OF MASSACHUSETTS                         595,685
+  2018  TRUSTEES OF THE SMITH COLLEGE, THE                  424,425
+  2018  AMHERST COLLEGE, TRUSTEES OF                      1,331,825
+  2017  WORCESTER POLYTECHNIC INSTITUTE                     452,973
+  2017  UNIVERSITY OF MASSACHUSETTS                       5,057,081
+  2017  TRUSTEES OF THE SMITH COLLEGE, THE                  176,326
+  2017  AMHERST COLLEGE, TRUSTEES OF                        741,964
+  2016  WORCESTER POLYTECHNIC INSTITUTE                   1,056,900
+  2016  UNIVERSITY OF MASSACHUSETTS                       4,197,811
+  2016  TRUSTEES OF THE SMITH COLLEGE, THE                  695,521
+  2016  AMHERST COLLEGE, TRUSTEES OF                        141,920
+  2015  UNIVERSITY OF MASSACHUSETTS                       6,743,644
+  2015  WORCESTER POLYTECHNIC INSTITUTE                     766,392
+  2015  U OF MASSACHUSETTS AMHERST                        2,393,058
+  2015  TRUSTEES OF CLARK UNIVERSITY                        275,956
+  2015  CLARK UNIVERSITY                                    376,618
+  2015  AMHERST COLLEGE, TRUSTEES OF                      1,019,858
+  2014  WORCESTER POLYTECHNIC INSTITUTE                     259,925
+  2014  UNIVERSITY OF MASSACHUSETTS                       2,526,510
+  2014  TRUSTEES OF THE SMITH COLLEGE, THE                  401,649
+  2014  COLLEGE OF THE HOLY CROSS                           135,490
+  2014  AMHERST COLLEGE, TRUSTEES OF                        493,289
+  2013  WORCESTER POLYTECHNIC INSTITUTE                   1,042,254
+  2013  UNIVERSITY OF MASSACHUSETTS                       8,760,449
+  2013  TRUSTEES OF THE SMITH COLLEGE, THE                   35,000
+  2013  NATIONAL COLLEGIATE INVENTORS & INNOVATORS AL        47,590
+  2013  AMHERST COLLEGE, TRUSTEES OF                        891,728
+  2012  TRUSTEES OF THE SMITH COLLEGE, THE                1,873,917
+  2012  THE TRUSTEES OF MOUNT HOLYOKE COLLEGE               548,737
 ```
 ---
 <a name="MA-03"></a>
@@ -187,20 +228,19 @@ This district received no SC HEP grants from 2012-2019
 This district received no SC contracts from 2012-2019
 ```
 ### NSF MPS Grants
+In the past 8 years, this district has received:<b> $2,638,746 </b>in NSF MPS grants.
 ```
-In the past 8 years, this district has received: $2,207,091.00 in NSF MPS grants.
-                                      Amount ($)
-Institution                     Year            
-COLLEGE OF THE HOLY CROSS       2012      151058
-NEROC                           2018     -431655
-TRUSTEES OF CLARK UNIVERSITY    2012      100000
-UNIVERSITY OF MASSACHUSETTS     2012       50000
-                                2013      150001
-                                2015       90000
-                                2016      318263
-                                2018      483659
-WORCESTER POLYTECHNIC INSTITUTE 2012     1108913
-                                2013      186852
+  Year  Institution                        Amount ($)
+------  -------------------------------  ------------
+  2018  UNIVERSITY OF MASSACHUSETTS           483,659
+  2016  UNIVERSITY OF MASSACHUSETTS           318,263
+  2015  UNIVERSITY OF MASSACHUSETTS            90,000
+  2013  UNIVERSITY OF MASSACHUSETTS           150,001
+  2013  WORCESTER POLYTECHNIC INSTITUTE       186,852
+  2012  COLLEGE OF THE HOLY CROSS             151,058
+  2012  TRUSTEES OF CLARK UNIVERSITY          100,000
+  2012  UNIVERSITY OF MASSACHUSETTS            50,000
+  2012  WORCESTER POLYTECHNIC INSTITUTE     1,108,913
 ```
 ---
 <a name="MA-04"></a>
@@ -210,39 +250,39 @@ WORCESTER POLYTECHNIC INSTITUTE 2012     1108913
 Joseph P. Kennedy III is the #19 Democrat on the House Committee on Energy and Commerce 
 
 ### HEP Grants
+In the past 8 years, this district has received:<b> $8,000 </b>in SC HEP grants.
 ```
-In the past 8 years, this district has received: $8,000.00 in SC HEP grants.
-                        Amount ($)
-Institution       Year            
-Wellesley College 2017        8000
+Institution          Amount ($)    Start    End  Principal Investigator    Project Title
+-----------------  ------------  -------  -----  ------------------------  -----------------------------------------------------------------------------------
+Wellesley College         8,000     2017   2018  Battat, James             Negative Ion Drift Time Projection Chamber Development for High-Resolution Tracking
 ```
 ### SC Contracts
 ```
 This district received no SC contracts from 2012-2019
 ```
 ### NSF MPS Grants
+In the past 8 years, this district has received:<b> $16,863,217 </b>in NSF MPS grants.
 ```
-In the past 8 years, this district has received: $16,638,745.00 in NSF MPS grants.
-                                                    Amount ($)
-Institution                                   Year            
-BOSTON COLLEGE                                2015      610994
-BOSTON COLLEGE, TRUSTEES OF                   2012     2687261
-                                              2013     2195524
-                                              2014     1925164
-                                              2015      685730
-                                              2016     2077164
-                                              2017     2234331
-                                              2018     2052013
-                                              2019       70068
-FRANKLIN W. OLIN COLLEGE OF ENGINEERING, INC. 2013       84269
-UNIVERSITY OF MASSACHUSETTS                   2012      800283
-WELLESLEY COLLEGE                             2012      116000
-                                              2013       58000
-                                              2015      845000
-                                              2016       48773
-                                              2017        7000
-WHEATON COLLEGE                               2012       94114
-                                              2013       47057
+  Year  Institution                                      Amount ($)
+------  ---------------------------------------------  ------------
+  2019  BOSTON COLLEGE, TRUSTEES OF                          70,068
+  2018  BOSTON COLLEGE, TRUSTEES OF                       2,241,385
+  2017  WELLESLEY COLLEGE                                     7,000
+  2017  BOSTON COLLEGE, TRUSTEES OF                       2,234,331
+  2016  WELLESLEY COLLEGE                                    48,773
+  2016  BOSTON COLLEGE, TRUSTEES OF                       2,077,164
+  2015  BOSTON COLLEGE, TRUSTEES OF                         685,730
+  2015  WELLESLEY COLLEGE                                   845,000
+  2015  BOSTON COLLEGE                                      611,094
+  2014  BOSTON COLLEGE, TRUSTEES OF                       1,925,164
+  2013  WHEATON COLLEGE                                      47,057
+  2013  WELLESLEY COLLEGE                                    58,000
+  2013  FRANKLIN W. OLIN COLLEGE OF ENGINEERING, INC.        84,269
+  2013  BOSTON COLLEGE, TRUSTEES OF                       2,195,524
+  2012  UNIVERSITY OF MASSACHUSETTS                         800,283
+  2012  WHEATON COLLEGE                                      94,114
+  2012  WELLESLEY COLLEGE                                   151,000
+  2012  BOSTON COLLEGE, TRUSTEES OF                       2,687,261
 ```
 ---
 <a name="MA-05"></a>
@@ -252,65 +292,76 @@ WHEATON COLLEGE                               2012       94114
 Katherine M. Clark is the #21 Democrat on the House Committee on Appropriations 
 
 ### HEP Grants
+In the past 8 years, this district has received:<b> $16,783,000 </b>in SC HEP grants.
 ```
-In the past 8 years, this district has received: $16,783,000.00 in SC HEP grants.
-                                                         Amount ($)
-Institution                                        Year            
-Brandeis University                                2014      900000
-                                                   2016     1525000
-                                                   2017      670000
-                                                   2018      685000
-Brandies University                                2015      901000
-Harvard College                                    2018     2655000
-Harvard University                                 2014     2100000
-                                                   2016     1455000
-                                                   2017     1868000
-President and Fellows of Harvard College           2015     2674000
-Smithsonian Institute - Smithsonian Astrophysic... 2016           0
-                                                   2018      400000
-Smithsonian Institute /Smithsonian Astrophysica... 2014      475000
-                                                   2015      475000
+Institution                                                      Amount ($)    Start  End      Principal Investigator    Project Title
+-------------------------------------------------------------  ------------  -------  -------  ------------------------  ------------------------------------------------------------------------------------------------------
+Harvard College                                                     319,000     2018  Ongoing  Schwartz, Matthew         Jet physics and quantum field theory for the Large Hadron Collider
+Harvard College                                                     146,000     2018  Ongoing  Dvorkin, Cora             Exploring New Physics on Cosmological Scales
+Harvard College                                                     285,000     2018  Ongoing  Eisenstein, Daniel        Pursuing Dark Energy with Large Galaxy Redshift Surveys: Baryon Acoustic Oscillations and Beyond
+Harvard College                                                   1,275,000     2018  Ongoing  Morii, Masahiro           Particle Physics and Cosmology Research
+Harvard College                                                     630,000     2018  Ongoing  Strominger, Andrew        Research in Theoretical High Energy Physics
+Smithsonian Institute - Smithsonian Astrophysical Observatory       400,000     2018  Ongoing  Walsworth, Ronald         Towards Directional Detection of WIMP Dark Matter using Spectroscopy of Quantum Defects in Diamond
+Harvard University                                                  310,000     2017  2018     Schwartz , Matthew        Quantum Field Theory and Theoretical Particle Physics
+Brandeis University                                                 840,000     2016  Ongoing  Sciolla, Gabriella        Brandeis High Energy Experimental
+Harvard University                                                        0     2016  2017     Schwartz, Matthew         Jet physics and quantum field theory for the Large Hadron Collider
+Smithsonian Institute - Smithsonian Astrophysical Observatory             0     2016  Ongoing  Benbow, Wystan            THE APPLICATION OF TWO DIMENSIONAL IMAGING TO VERY HIGH ENERGY GAMMA RAY ASTRONOMY
+Harvard University                                                        0     2016  2018     Eisenstein, Daniel        Pursuing Dark Energy with Large Galaxy Redshift Surveys: Baryon Acoustic Oscillations and Beyond
+President and Fellows of Harvard College                            270,000     2015  2016     Eisenstein, Daniel        Pursuing Dark Energy With Large Galaxy Redshift Surveys: Baryon Acoustic Oscillations And Beyond
+President and Fellows of Harvard College                            500,000     2015  2016     Strominger, Andrew        Research Theoretical In High Energy Physics
+President and Fellows of Harvard College                          1,604,000     2015  2016     Morii, Masahiro           Particle Physics And Cosmology Research
+President and Fellows of Harvard College                            300,000     2015  2016     Schwartz, Matthew         Jet Physics And Quantum Field Theory For The Large Hadron Collider
+Brandies University                                                 260,000     2015  2016     Sciolla, Gabriella        Brandeis High Energy Experimental
+Brandies University                                                 190,000     2015  2016     Lawrence, Albion          Research In Quantum Field Theory, Cosmology, And String Theory
+Brandies University                                                 451,000     2015  2016     Blocker, Craig            Experimental High Energy Physics Comparative Review Proposal And Progress Report - Brandeis University
+Brandeis University                                               1,936,000     2014  Ongoing  Blocker, Craig            Experimental High Energy Physics at Brandeis University
+Harvard University                                                4,509,000     2014  2018     Morii, Masahiro           Particle Physics and Cosmology Research
+Harvard University                                                  454,000     2014  2018     Strominger, Andrew        Research in Theoretical High Energy Physics
+Harvard University                                                  150,000     2014  2015     Schwartz, Matthew         Understanding Jets at the Large Hadron Collider
+Brandeis University                                               1,004,000     2014  Ongoing  Lawrence, Albion          Research in Quantum Field Theory, Cosmology, and String Theory
+Smithsonian Institute /Smithsonian Astrophysical Observatory        950,000     2014  2016     Benbow, Wystan            The Application Of Two Dimensional Imaging To Very High Energy Gamma Ray Astronomy
 ```
 ### SC Contracts
+In the past 8 years, this district has received:
+2 Office of Science contracts, totalling <b> $12,800</b>
 ```
-In the past 8 years, this district has received: $12,800.00 in SC contracts.
-                                        Amount ($)
-Vendor                            Year            
-MASSACHUSETTS MEDICAL SOCIETY     2014        3100
-MASSACHUSETTS MEDICAL SOCIETY INC 2014        9700
+  Year  Vendor                               Amount ($)  Item
+------  ---------------------------------  ------------  --------------------------
+  2014  MASSACHUSETTS MEDICAL SOCIETY             3,100  NEWSPAPERS AND PERIODICALS
+  2014  MASSACHUSETTS MEDICAL SOCIETY INC         9,700  NEWSPAPERS AND PERIODICALS
 ```
 ### NSF MPS Grants
+In the past 8 years, this district has received:<b> $144,112,329 </b>in NSF MPS grants.
 ```
-In the past 8 years, this district has received: $141,971,597.00 in NSF MPS grants.
-                                               Amount ($)
-Institution                              Year            
-BRANDEIS UNIVERSITY                      2013     2947137
-                                         2014     1591598
-                                         2015     5378959
-                                         2016     2537853
-                                         2017     3267012
-                                         2018     3067330
-HARVARD COLLEGE, PRESIDENT & FELLOWS OF  2013    19341781
-                                         2014    12393534
-                                         2015    12295696
-                                         2016    12763107
-HARVARD UNIVERSITY                       2015     5821633
-MULTIPLE RECIPIENTS                      2013       89000
-PII REDACTED                             2017      350000
-                                         2018      150000
-PRESIDENT AND FELLOWS OF HARVARD COLLEGE 2016     2003125
-                                         2017    14373141
-                                         2018    26130631
-                                         2019     -408417
-REDACTED DUE TO PII                      2018       53258
-SMITHSONIAN INSTITUTION                  2013     2159967
-                                         2014      968415
-                                         2015      697505
-                                         2016     1049505
-                                         2017     2606516
-                                         2018     2345998
-SMITHSONIAN-ASTROPHYS OBS                2015     6502314
-UNIVERSITY OF MASSACHUSETTS              2012     1494999
+  Year  Institution                                 Amount ($)
+------  ----------------------------------------  ------------
+  2019  PRESIDENT AND FELLOWS OF HARVARD COLLEGE       498,529
+  2018  SMITHSONIAN INSTITUTION                      2,345,998
+  2018  REDACTED DUE TO PII                            100,000
+  2018  PRESIDENT AND FELLOWS OF HARVARD COLLEGE    26,278,138
+  2018  PII REDACTED                                   150,000
+  2018  BRANDEIS UNIVERSITY                          3,067,330
+  2017  SMITHSONIAN INSTITUTION                      2,606,516
+  2017  PRESIDENT AND FELLOWS OF HARVARD COLLEGE    14,568,715
+  2017  PII REDACTED                                   350,000
+  2017  BRANDEIS UNIVERSITY                          3,472,615
+  2016  HARVARD COLLEGE, PRESIDENT & FELLOWS OF     12,763,107
+  2016  SMITHSONIAN INSTITUTION                      1,049,505
+  2016  PRESIDENT AND FELLOWS OF HARVARD COLLEGE     2,003,125
+  2016  BRANDEIS UNIVERSITY                          2,537,853
+  2015  SMITHSONIAN-ASTROPHYS OBS                    6,502,314
+  2015  SMITHSONIAN INSTITUTION                        697,505
+  2015  HARVARD UNIVERSITY                           5,821,633
+  2015  HARVARD COLLEGE, PRESIDENT & FELLOWS OF     12,455,142
+  2015  BRANDEIS UNIVERSITY                          5,378,959
+  2014  SMITHSONIAN INSTITUTION                        968,415
+  2014  HARVARD COLLEGE, PRESIDENT & FELLOWS OF     12,622,161
+  2014  BRANDEIS UNIVERSITY                          1,591,598
+  2013  BRANDEIS UNIVERSITY                          2,947,137
+  2013  SMITHSONIAN INSTITUTION                      2,159,967
+  2013  MULTIPLE RECIPIENTS                             89,000
+  2013  HARVARD COLLEGE, PRESIDENT & FELLOWS OF     19,592,068
+  2012  UNIVERSITY OF MASSACHUSETTS                  1,494,999
 ```
 ---
 <a name="MA-06"></a>
@@ -324,25 +375,25 @@ Seth Moulton is not on any of our key committees
 This district received no SC HEP grants from 2012-2019
 ```
 ### SC Contracts
+In the past 8 years, this district has received:
+3 Office of Science contracts, totalling <b> $30,248</b>
 ```
-In the past 8 years, this district has received: $30,247.00 in SC contracts.
-                                    Amount ($)
-Vendor                        Year            
-PUBLISHERS INTL LINKING ASSOC 2013       10000
-                              2014       10000
-                              2015       10000
-                              2016           0
-                              2017         247
+  Year  Vendor                           Amount ($)  Item
+------  -----------------------------  ------------  --------------------------
+  2017  PUBLISHERS INTL LINKING ASSOC           248  NEWSPAPERS AND PERIODICALS
+  2015  PUBLISHERS INTL LINKING ASSOC        10,000  NEWSPAPERS AND PERIODICALS
+  2014  PUBLISHERS INTL LINKING ASSOC        10,000  NEWSPAPERS AND PERIODICALS
+  2013  PUBLISHERS INTL LINKING ASSOC        10,000  NEWSPAPERS AND PERIODICALS
 ```
 ### NSF MPS Grants
+In the past 8 years, this district has received:<b> $513,528 </b>in NSF MPS grants.
 ```
-In the past 8 years, this district has received: $513,528.00 in NSF MPS grants.
-                              Amount ($)
-Institution             Year            
-AERODYNE RESEARCH, INC. 2013       60000
-                        2016       90000
-                        2017      160000
-GORDON COLLEGE          2017      203528
+  Year  Institution                Amount ($)
+------  -----------------------  ------------
+  2017  AERODYNE RESEARCH, INC.       160,000
+  2017  GORDON COLLEGE                203,528
+  2016  AERODYNE RESEARCH, INC.        90,000
+  2013  AERODYNE RESEARCH, INC.        60,000
 ```
 ---
 <a name="MA-07"></a>
@@ -352,100 +403,128 @@ GORDON COLLEGE          2017      203528
 Ayanna Pressley is not on any of our key committees 
 
 ### HEP Grants
+In the past 8 years, this district has received:<b> $59,806,000 </b>in SC HEP grants.
 ```
-In the past 8 years, this district has received: $59,806,000.00 in SC HEP grants.
-                                                  Amount ($)
-Institution                                 Year            
-BRANDEIS UNIVERSITY                         2012     1002000
-                                            2013      948000
-Boston University                           2014     2075000
-                                            2015     2281000
-                                            2016     2770000
-                                            2017     1860000
-                                            2018     2169000
-Massachusetts Institute of Technology       2015     8655000
-                                            2016     7840000
-                                            2017     7393000
-                                            2018    10252000
-Massachusetts Institute of Technology (MIT) 2014     7749000
-Northeastern University                     2014      150000
-                                            2015      150000
-                                            2016      150000
-                                            2017      150000
-TUFTS UNIVERSITY                            2012      582000
-                                            2013      517000
-Tufts University                            2014      635000
-                                            2015      545000
-                                            2016      555000
-                                            2017      560000
-                                            2018      818000
+Institution                                    Amount ($)    Start  End      Principal Investigator     Project Title
+-------------------------------------------  ------------  -------  -------  -------------------------  -----------------------------------------------------------------------------------------------------------------------
+Boston University                                  98,000     2018  Ongoing  Roberts, Lee               Precision Muon Physics at Fermilab
+Tufts University                                  248,000     2018  Ongoing  Love, Peter John           Towards practical quantum simulation for High Energy Physics
+Tufts University                                  570,000     2018  Ongoing  Gallagher, Hugh            High Energy Physics at Tufts University
+Massachusetts Institute of Technology             344,000     2018  Ongoing  Harlow, Daniel             Algebraic Approach Toward Quantum Information in Quantum Field Theory and Holography
+Massachusetts Institute of Technology             179,000     2018  Ongoing  Harlow, Daniel             The Black Hole Interior in AdS/CFT and Beyond
+Massachusetts Institute of Technology             300,000     2018  Ongoing  Berggren, Karl             Bosonic Dark Matter Search Using Superconducting Nanowire Single-Photon Detectors
+Boston University                                 350,000     2018  Ongoing  Sushkov, Alexander         Quantum system engineering for a next-generation search for axion dark matter
+Massachusetts Institute of Technology             400,000     2018  Ongoing  Vuletic, Vladan            Quantum simulation: From spin models to gauge-gravity correspondence
+Massachusetts Institute of Technology             264,000     2018  Ongoing  Thaler, Jesse              Quantum Algorithms for Collider Physics
+Boston University                                 120,000     2017  2018     Bose, Tulika               LHC Research at Boston University
+Boston University                                       0     2017  Ongoing  Schmaltz, Martin           Topics in Theoretical Particle Physics
+Boston University                               1,280,000     2016  Ongoing  Kearns, Edward             Research in Neutrino Physics, Particle Astrophysics and Cosmology
+Massachusetts Institute of Technology           2,942,000     2016  Ongoing  Wyslouch, Boleslaw         AMS Thermal Cooling System
+Massachusetts Institute of Technology           1,275,000     2016  Ongoing  Temkin, Richard            High Frequency, High Gradient Accelerator Research
+Massachusetts Institute of Technology             274,000     2016  2017     Milner, Richard            AMS Operations
+Massachusetts Institute of Technology             120,000     2016  2017     Thaler, Jesse              Boosting the Search for New Physics at the Frontiers
+Boston University                               1,050,000     2016  2017     Cohen, Andrew              Topics in Theoretical Particle Physics
+Boston University                               2,101,000     2016  Ongoing  Butler, John               LHC Research at Boston University
+Massachusetts Institute of Technology             150,000     2015  2016     Thaler, Jesse              Interpreting New Data From The High Energy Frontier
+Massachusetts Institute of Technology             425,000     2015  2016     Temkin, Richard            High Gradient Accelerator Research
+Massachusetts Institute of Technology          11,680,000     2015  Ongoing  Wyslouch, Boleslaw         Ams Operations
+Massachusetts Institute of Technology           6,657,000     2015  Ongoing  Wyslouch, Boleslaw         Ams Research
+Massachusetts Institute of Technology           4,215,000     2015  Ongoing  Wyslouch, Boleslaw         Task A: Particle Physics Collaboration
+Massachusetts Institute of Technology             611,000     2015  Ongoing  Wyslouch, Boleslaw         Lepton Quark Studies, Task F Summary
+Massachusetts Institute of Technology             750,000     2015  Ongoing  Slatyer, Tracy             Confronting Dark Matter with the Multiwavelength Sky
+Massachusetts Institute of Technology           2,827,000     2015  Ongoing  Wyslouch, Boleslaw         Theoretical High Energy Physics
+Massachusetts Institute of Technology             727,000     2015  Ongoing  Minervini, Joseph          Compact, low-cost, light-weight, superconducting, ironless cyclotrons for hadron radiotherapy
+Boston University                               2,250,000     2015  Ongoing  Roberts, Bradley           Precision Muon Physics at Fermilab
+Massachusetts Institute of Technology (MIT)     1,005,000     2014  2015     Milner, Richard            LABORATORY FOR NUCLEAR SCIENCE - HIGH ENERGY PHYSICS PROGRAM
+Massachusetts Institute of Technology (MIT)     1,292,000     2014  2015     Milner, Richard            AMS Research
+Massachusetts Institute of Technology (MIT)       980,000     2014  2015     Milner, Richard            Task A: Particle Physics Collaboration
+Massachusetts Institute of Technology (MIT)       317,000     2014  2015     Milner, Richard            Lepton Quark Studies, Task F Summary
+Massachusetts Institute of Technology (MIT)       818,000     2014  2015     Milner, Richard            Theoretical High Energy Physics
+Massachusetts Institute of Technology (MIT)       425,000     2014  2015     Temkin, Richard            High Gradient Accelerator Research
+Massachusetts Institute of Technology (MIT)       150,000     2014  2015     Thaler, Jesse              Interpreting New Data from the High Energy Frontier
+Northeastern University                           600,000     2014  2018     Orimoto, Toyoko            Search for the Higgs and Physics Beyond the Standard Model with the CMS Electromagnetic Calorimeter
+Tufts University                                  105,000     2014  2015     Beauchemin, Pierre-Hugues  Search for New Phenomena Using W/Z + (b)-jets Measurements Performed with the ATLAS Detector
+Massachusetts Institute of Technology (MIT)     2,762,000     2014  2015     Milner, Richard            AMS Operations
+Tufts University                                2,190,000     2014  2018     Mann, William              High Energy Physics at Tufts University
+Boston University                                 126,000     2014  2017     Sulak, Lawrence            Exploring High Energy Interactions with CMS at the LHC
+Boston University                                       0     2014  2015     Schmaltz, Martin           The ttbar Asymmetry and Beyond:  Graduate Fellowship in High Energy
+Boston University                                 370,000     2014  2017     Rohlf, James               Physics with CMS and Electronic Updgrades
+Boston University                                 136,000     2014  2016     Lane, Kenneth              Research in Electroweak and Flavor Symmetry Breaking
+Boston University                                  10,000     2014  2015     Kearns, Edward             Support for the 26th International Conference on Neutrino Physics and Astrophysics (Neutrino 2014, June 2-7, 2014)
+Boston University                                 655,000     2014  2016     Kearns, Edward             Research in Neutrino Physics and Particle Astrophysics
+Boston University                               1,144,000     2014  2017     Cohen, Andrew              Topics In Theoretical Particle Physics
+Boston University                               1,022,000     2014  2017     Butler, John               Energy Frontier Research with ATLAS
+Boston University                                 135,000     2014  2015     Brower, Richard            Searching for Physics Beyond the Standard Model:  Strongly-Coupled Field Theories at the Intensity and Energy Frontiers
+Boston University                                 308,000     2014  2017     Bose, Tulika               Triggering on New Physics with the CMS Detector
+BRANDEIS UNIVERSITY                               191,000     2013  2014     Lawrence                   Research in Quantum Field Theory, Cosmology, and String Theory
+BRANDEIS UNIVERSITY                               547,000     2013  2014     Blocker                    Experimental High Energy Physics Comparative Review Proposal and Progress Report - Brandeis University
+BRANDEIS UNIVERSITY                             1,212,000     2012  2014     Blocker                    Research in Elementary Particle Physics
+TUFTS UNIVERSITY                                1,099,000     2012  2014     Mann                       High Energy Physics at Tufts University
 ```
 ### SC Contracts
+In the past 8 years, this district has received:
+4 Office of Science contracts, totalling <b> $57,618</b>
 ```
-In the past 8 years, this district has received: $7,615.00 in SC contracts.
-                                        Amount ($)
-Vendor                            Year            
-ARTHUR D LITTLE INC               2014      -50000
-MASSACHUSETTS MEDICAL SOCIETY INC 2013        8750
-RAPID7 LLC                        2013        8837
-                                  2014       19303
-                                  2015       20725
+  Year  Vendor                               Amount ($)  Item
+------  ---------------------------------  ------------  --------------------------
+  2015  RAPID7 LLC                               20,726  ADP SOFTWARE
+  2014  RAPID7 LLC                               19,304  ADP SOFTWARE
+  2013  MASSACHUSETTS MEDICAL SOCIETY INC         8,750  NEWSPAPERS AND PERIODICALS
+  2013  RAPID7 LLC                                8,838  ADP SOFTWARE
 ```
 ### NSF MPS Grants
+In the past 8 years, this district has received:<b> $169,660,469 </b>in NSF MPS grants.
 ```
-In the past 8 years, this district has received: $164,593,024.00 in NSF MPS grants.
-                                                      Amount ($)
-Institution                                     Year            
-ALGEBRA PROJECT INC, THE                        2017      299276
-AMERICAN ASSOCIATION OF VARIABLE STAR OBSERVE   2014      432366
-AMERICAN ASSOCIATION OF VARIABLE STAR OBSERVERS 2018           0
-BOSTON UNIVERSITY                               2015      413841
-BRANDEIS UNIVERSITY                             2012     3404185
-CHILDREN'S HOSPITAL CORPORATION, THE            2013      176697
-                                                2014      123303
-                                                2017      169195
-                                                2018      149654
-DANA-FARBER CANCER INSTITUTE, INC.              2013      305197
-                                                2016      470000
-                                                2017      160790
-                                                2018      263584
-EMMANUEL COLLEGE                                2013      240086
-                                                2017      285163
-MASSACHUSETTS INSTITUTE OF TECHNOLOGY           2013    13235271
-                                                2014     9441832
-                                                2015    11734196
-                                                2016    12289419
-                                                2017    18943672
-                                                2018    24643774
-                                                2019      312508
-MIT                                             2015     7308681
-MULTIPLE RECIPIENTS                             2014     -161897
-NEROC                                           2013      945703
-                                                2015      315537
-NORTHEASTERN UNIVERSITY                         2013     3359774
-                                                2014     1710770
-                                                2015     1194700
-                                                2016      877667
-                                                2017     3161525
-                                                2018     2986150
-PII REDACTED                                    2017      500000
-                                                2018      900000
-REDACTED DUE TO PII                             2018      200000
-TRUSTEES OF BOSTON UNIVERSITY                   2013     6598292
-                                                2014     5369483
-                                                2015     3272214
-                                                2016     5140605
-                                                2017     5286632
-                                                2018     5544960
-                                                2019      241617
-TRUSTEES OF TUFTS COLLEGE INC                   2013     2056279
-                                                2014     1246783
-                                                2015     1191887
-                                                2016     2153794
-                                                2017     2292755
-                                                2018     2797086
-TUFTS UNIVERSITY                                2015      188018
-WHITEHEAD INSTITUTE FOR BIOMEDICAL RESEARCH     2017      420000
+  Year  Institution                                      Amount ($)
+------  ---------------------------------------------  ------------
+  2019  TRUSTEES OF BOSTON UNIVERSITY                       241,617
+  2019  MASSACHUSETTS INSTITUTE OF TECHNOLOGY               577,706
+  2018  TRUSTEES OF TUFTS COLLEGE INC                     2,811,618
+  2018  TRUSTEES OF BOSTON UNIVERSITY                     5,544,960
+  2018  REDACTED DUE TO PII                                 200,000
+  2018  PII REDACTED                                        900,000
+  2018  NORTHEASTERN UNIVERSITY                           3,091,361
+  2018  MASSACHUSETTS INSTITUTE OF TECHNOLOGY            24,719,487
+  2018  DANA-FARBER CANCER INSTITUTE, INC.                  263,584
+  2018  CHILDREN'S HOSPITAL CORPORATION, THE                149,654
+  2017  MASSACHUSETTS INSTITUTE OF TECHNOLOGY            19,484,308
+  2017  ALGEBRA PROJECT INC, THE                            299,276
+  2017  CHILDREN'S HOSPITAL CORPORATION, THE                169,195
+  2017  DANA-FARBER CANCER INSTITUTE, INC.                  160,790
+  2017  EMMANUEL COLLEGE                                    285,163
+  2017  WHITEHEAD INSTITUTE FOR BIOMEDICAL RESEARCH         420,000
+  2017  NORTHEASTERN UNIVERSITY                           3,161,525
+  2017  PII REDACTED                                        500,000
+  2017  TRUSTEES OF BOSTON UNIVERSITY                     5,414,238
+  2017  TRUSTEES OF TUFTS COLLEGE INC                     2,292,755
+  2016  NORTHEASTERN UNIVERSITY                             877,667
+  2016  TRUSTEES OF TUFTS COLLEGE INC                     2,153,794
+  2016  TRUSTEES OF BOSTON UNIVERSITY                     5,156,301
+  2016  MASSACHUSETTS INSTITUTE OF TECHNOLOGY            12,574,582
+  2016  DANA-FARBER CANCER INSTITUTE, INC.                  470,000
+  2015  BOSTON UNIVERSITY                                   413,841
+  2015  TUFTS UNIVERSITY                                    188,018
+  2015  TRUSTEES OF TUFTS COLLEGE INC                     1,191,887
+  2015  TRUSTEES OF BOSTON UNIVERSITY                     3,272,214
+  2015  NORTHEASTERN UNIVERSITY                           1,194,700
+  2015  NEROC                                               315,537
+  2015  MIT                                               7,769,227
+  2015  MASSACHUSETTS INSTITUTE OF TECHNOLOGY            12,140,723
+  2014  AMERICAN ASSOCIATION OF VARIABLE STAR OBSERVE       432,366
+  2014  CHILDREN'S HOSPITAL CORPORATION, THE                123,303
+  2014  MASSACHUSETTS INSTITUTE OF TECHNOLOGY            10,231,314
+  2014  NORTHEASTERN UNIVERSITY                           1,759,461
+  2014  TRUSTEES OF BOSTON UNIVERSITY                     6,092,924
+  2014  TRUSTEES OF TUFTS COLLEGE INC                     1,246,783
+  2013  NEROC                                               945,703
+  2013  DANA-FARBER CANCER INSTITUTE, INC.                  305,197
+  2013  EMMANUEL COLLEGE                                    240,086
+  2013  MASSACHUSETTS INSTITUTE OF TECHNOLOGY            14,257,775
+  2013  CHILDREN'S HOSPITAL CORPORATION, THE                176,697
+  2013  NORTHEASTERN UNIVERSITY                           3,359,774
+  2013  TRUSTEES OF BOSTON UNIVERSITY                     6,622,894
+  2013  TRUSTEES OF TUFTS COLLEGE INC                     2,056,279
+  2012  BRANDEIS UNIVERSITY                               3,404,185
 ```
 ---
 <a name="MA-08"></a>
@@ -455,62 +534,76 @@ WHITEHEAD INSTITUTE FOR BIOMEDICAL RESEARCH     2017      420000
 Stephen F. Lynch is not on any of our key committees 
 
 ### HEP Grants
+In the past 8 years, this district has received:<b> $26,729,000 </b>in SC HEP grants.
 ```
-In the past 8 years, this district has received: $26,729,000.00 in SC HEP grants.
-                                            Amount ($)
-Institution                           Year            
-BOSTON UNIVERSITY                     2012     2427000
-                                      2013     1920000
-HARVARD UNIVERSITY                    2012     1976000
-                                      2013     2003000
-MASSACHUSETTS INST. OF TECHNOLOGY     2012     8700000
-                                      2013     8528000
-NORTHEASTERN UNIVERSITY               2013      150000
-SMITHSONIAN ASTROPHYSICAL OBSERVATORY 2012      550000
-                                      2013      475000
+Institution                              Amount ($)    Start    End  Principal Investigator    Project Title
+-------------------------------------  ------------  -------  -----  ------------------------  -----------------------------------------------------------------------------------------------------------------------
+BOSTON UNIVERSITY                            72,000     2013   2014  Sulak                     Exploring High Energy Interactions with CMS at the LHC
+NORTHEASTERN UNIVERSITY                     150,000     2013   2014  Orimoto                   Search for the Higgs and Physics Beyond the Standard Model with the CMS Electromagnetic Calorimeter
+BOSTON UNIVERSITY                           485,000     2013   2014  Butler                    Energy Frontier Research with ATLAS
+BOSTON UNIVERSITY                           566,000     2013   2014  Cohen                     Topics in Theoretical Particle Physics
+BOSTON UNIVERSITY                           362,000     2013   2014  Kearns                    Research in Neutrino Physics and Particle Astrophysics
+BOSTON UNIVERSITY                            67,000     2013   2014  Lane                      Research on Electroweak and Flavor Symmetry Breaking
+BOSTON UNIVERSITY                           188,000     2013   2014  Rohlf                     Physics with CMS and Electronic Upgrades
+BOSTON UNIVERSITY                           126,000     2013   2014  Bose                      Triggering on New Physics with the CMS Detector
+MASSACHUSETTS INST. OF TECHNOLOGY           390,000     2013   2014  Temkin                    High Gradient Accelerator Research
+MASSACHUSETTS INST. OF TECHNOLOGY           100,000     2013   2014  Chen                      Theoretical and Computational Investigation of High-Brightness Beams
+MASSACHUSETTS INST. OF TECHNOLOGY           117,000     2012   2013  Chen                      Theoretical and Computational Investigation of Periodically Focused Intense Charged Particle Beams
+SMITHSONIAN ASTROPHYSICAL OBSERVATORY        80,000     2012   2014  Benbow                    Expanding the Discovery Potential of Veritas Via Moonlight Observations
+MASSACHUSETTS INST. OF TECHNOLOGY           300,000     2012   2014  Thaler                    Interpreting New Data from the High Energy Frontier
+MASSACHUSETTS INST. OF TECHNOLOGY           599,000     2012   2014  Temkin                    17 GHz High Gradient Accelerator Research
+MASSACHUSETTS INST. OF TECHNOLOGY        15,722,000     2012   2014  Milner                    Laboratory for Nuclear Science - High Energy Physics Program
+BOSTON UNIVERSITY                            73,000     2012   2014  Black                     Exotic Physics with the Top Quark at the LHC
+HARVARD UNIVERSITY                          677,000     2012   2014  Strominger                Research Theoretical in High Energy Physics
+HARVARD UNIVERSITY                        3,302,000     2012   2014  Morii                     Research in High Energy Physics
+BOSTON UNIVERSITY                           108,000     2012   2014  Schmaltz                  The ttbar Asymmetry and Beyond:  Graduate Fellowship in High Energy
+BOSTON UNIVERSITY                         2,165,000     2012   2014  Kearns                    Research in Particle Physics
+BOSTON UNIVERSITY                                 0     2012   2013  Brower, Rebbi             SciDAC:  National Computational Infrastructure for Lattice Gauge Theory
+BOSTON UNIVERSITY                           135,000     2012   2014  Brower                    Searching for Physics Beyond the Standard Model:  Strongly-Coupled Field Theories at the Intensity and Energy Frontiers
+SMITHSONIAN ASTROPHYSICAL OBSERVATORY       945,000     2012   2014  Benbow                    The Application of Two Dimensional Imaging to Very High Energy Gamma Ray Astronomy
 ```
 ### SC Contracts
+In the past 8 years, this district has received:
+5 Office of Science contracts, totalling <b> $41,162</b>
 ```
-In the past 8 years, this district has received: $35,160.00 in SC contracts.
-                                                Amount ($)
-Vendor                                    Year            
-AMERICAN METEOROLOGICAL SOCIETY, INC.     2013        5239
-                                          2015        5395
-                                          2016        5634
-IRON MOUNTAIN INFORMATION MANAGEMENT, LLC 2016        7050
-                                          2017       -2220
-RAPID7 LLC                                2012       14062
+  Year  Vendor                                       Amount ($)  Item
+------  -----------------------------------------  ------------  -------------------------------------------------------------------------------------------
+  2016  AMERICAN METEOROLOGICAL SOCIETY, INC.             5,634  NEWSPAPERS AND PERIODICALS
+  2016  IRON MOUNTAIN INFORMATION MANAGEMENT, LLC         7,051  IT AND TELECOM- DATA CENTERS AND STORAGE
+  2015  AMERICAN METEOROLOGICAL SOCIETY, INC.             5,395  SUPPORT- PROFESSIONAL: CERTIFICATIONS AND ACCREDITATIONS (OTHER THAN EDUC OR INFO TECH C&A)
+  2013  AMERICAN METEOROLOGICAL SOCIETY, INC.             5,239  NEWSPAPERS AND PERIODICALS
+  2012  RAPID7 LLC                                       17,843  ADP SOFTWARE
 ```
 ### NSF MPS Grants
+In the past 8 years, this district has received:<b> $63,576,568 </b>in NSF MPS grants.
 ```
-In the past 8 years, this district has received: $62,300,629.00 in NSF MPS grants.
-                                              Amount ($)
-Institution                             Year            
-DANA-FARBER CANCER INSTITUTE, INC.      2012      146269
-EMMANUEL COLLEGE                        2012      232922
-HARVARD COLLEGE, PRESIDENT & FELLOWS OF 2012    15253753
-                                        2013      167270
-MASSACHUSETTS GENERAL HOSPITAL, THE     2015      482302
-                                        2016     1191137
-                                        2017      100000
-                                        2018       63863
-MASSACHUSETTS INSTITUTE OF TECHNOLOGY   2012    22590458
-                                        2013      293700
-MULTIPLE RECIPIENTS                     2012     3835000
-                                        2013      522000
-                                        2014      714333
-NEROC                                   2012      972160
-NORTHEASTERN UNIVERSITY                 2012     2414875
-                                        2013       65110
-SMITHSONIAN INSTITUTION                 2012     1287271
-SUFFOLK UNIVERSITY                      2018      294000
-TRUSTEES OF BOSTON UNIVERSITY           2012     6073682
-TRUSTEES OF TUFTS COLLEGE INC           2012     2631690
-UNIVERSITY OF MASSACHUSETTS             2013      688614
-                                        2014      240000
-                                        2015      156381
-                                        2016      344991
-                                        2018     1538848
+  Year  Institution                                Amount ($)
+------  ---------------------------------------  ------------
+  2018  UNIVERSITY OF MASSACHUSETTS                 1,538,848
+  2018  SUFFOLK UNIVERSITY                            294,000
+  2018  MASSACHUSETTS GENERAL HOSPITAL, THE            63,863
+  2017  MASSACHUSETTS GENERAL HOSPITAL, THE           100,000
+  2016  UNIVERSITY OF MASSACHUSETTS                   344,991
+  2016  MASSACHUSETTS GENERAL HOSPITAL, THE         1,191,137
+  2015  UNIVERSITY OF MASSACHUSETTS                   156,381
+  2015  MASSACHUSETTS GENERAL HOSPITAL, THE           482,302
+  2014  UNIVERSITY OF MASSACHUSETTS                   240,000
+  2014  MULTIPLE RECIPIENTS                           714,333
+  2013  NORTHEASTERN UNIVERSITY                        65,110
+  2013  UNIVERSITY OF MASSACHUSETTS                   688,614
+  2013  MULTIPLE RECIPIENTS                           522,000
+  2013  MASSACHUSETTS INSTITUTE OF TECHNOLOGY         293,700
+  2013  HARVARD COLLEGE, PRESIDENT & FELLOWS OF       173,018
+  2012  EMMANUEL COLLEGE                              232,922
+  2012  TRUSTEES OF TUFTS COLLEGE INC               2,649,701
+  2012  TRUSTEES OF BOSTON UNIVERSITY               6,073,682
+  2012  SMITHSONIAN INSTITUTION                     1,287,271
+  2012  NORTHEASTERN UNIVERSITY                     2,414,875
+  2012  NEROC                                         972,160
+  2012  MULTIPLE RECIPIENTS                         3,835,000
+  2012  MASSACHUSETTS INSTITUTE OF TECHNOLOGY      23,555,750
+  2012  HARVARD COLLEGE, PRESIDENT & FELLOWS OF    15,540,641
+  2012  DANA-FARBER CANCER INSTITUTE, INC.            146,269
 ```
 ---
 <a name="MA-09"></a>
@@ -524,30 +617,30 @@ William R. Keating is not on any of our key committees
 This district received no SC HEP grants from 2012-2019
 ```
 ### SC Contracts
+In the past 8 years, this district has received:
+2 Office of Science contracts, totalling <b> $9,935</b>
 ```
-In the past 8 years, this district has received: $9,935.00 in SC contracts.
-                                            Amount ($)
-Vendor                                Year            
-AMERICAN METEOROLOGICAL SOCIETY, INC. 2012        9935
+  Year  Vendor                                   Amount ($)  Item
+------  -------------------------------------  ------------  --------------------------
+  2012  AMERICAN METEOROLOGICAL SOCIETY, INC.         9,935  NEWSPAPERS AND PERIODICALS
 ```
 ### NSF MPS Grants
+In the past 8 years, this district has received:<b> $2,651,704 </b>in NSF MPS grants.
 ```
-In the past 8 years, this district has received: $2,611,454.00 in NSF MPS grants.
-                                                    Amount ($)
-Institution                                   Year            
-FRANKLIN W. OLIN COLLEGE OF ENGINEERING, INC. 2012      266190
-NANTUCKET MARIA MITCHELL ASSOCIATION, THE     2014       79690
-                                              2017       79690
-                                              2018      363096
-PII REDACTED                                  2017      100000
-REDACTED DUE TO PII                           2018      100000
-                                              2019      -40250
-UNIVERSITY OF MASSACHUSETTS                   2012      138000
-                                              2013      270074
-                                              2014      658253
-                                              2015       11465
-                                              2016       19995
-                                              2017      233485
-                                              2018      331766
+  Year  Institution                                      Amount ($)
+------  ---------------------------------------------  ------------
+  2018  NANTUCKET MARIA MITCHELL ASSOCIATION, THE           363,096
+  2018  REDACTED DUE TO PII                                 100,000
+  2018  UNIVERSITY OF MASSACHUSETTS                         331,766
+  2017  NANTUCKET MARIA MITCHELL ASSOCIATION, THE            79,690
+  2017  PII REDACTED                                        100,000
+  2017  UNIVERSITY OF MASSACHUSETTS                         233,485
+  2016  UNIVERSITY OF MASSACHUSETTS                          19,995
+  2015  UNIVERSITY OF MASSACHUSETTS                          11,465
+  2014  NANTUCKET MARIA MITCHELL ASSOCIATION, THE            79,690
+  2014  UNIVERSITY OF MASSACHUSETTS                         658,253
+  2013  UNIVERSITY OF MASSACHUSETTS                         270,074
+  2012  FRANKLIN W. OLIN COLLEGE OF ENGINEERING, INC.       266,190
+  2012  UNIVERSITY OF MASSACHUSETTS                         138,000
 ```
 ---

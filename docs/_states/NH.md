@@ -20,40 +20,38 @@ Jeanne Shaheen is the #6 Democrat on the Senate Appropriations Subcommittee on E
 Margaret Wood Hassan is not on any of our key committees 
 
 ## HEP Grants
-```
 In the past 8 years, this state has received:
-6 HEP grants, totalling $915,000.00
- 
-                        Amount ($)
-Institution       Year            
-DARTMOUTH COLLEGE 2013      150000
-Dartmouth College 2014      175000
-                  2015      200000
-                  2016      390000
-                  2017           0
-                  2018           0
+6 HEP grants, totalling <b> $915,000</b>
 ```
-## SC Contracts
+  Year  Institution          Amount ($)
+------  -----------------  ------------
+  2018  Dartmouth College             0
+  2017  Dartmouth College             0
+  2016  Dartmouth College       390,000
+  2015  Dartmouth College       200,000
+  2014  Dartmouth College       175,000
+  2013  DARTMOUTH COLLEGE       150,000
 ```
+### SC Contracts
 In the past 8 years, this state has received:
-4 Office of Science contracts, totalling $36,733.00
- 
-                                          Amount ($)
-Vendor                              Year            
-DOCUMENT MANAGEMENT SOLUTIONS, INC. 2012       21335
-RED RIVER COMPUTER CO., INC.        2013       15398
+3 Office of Science contracts, totalling <b> $37,016</b>
+```
+  Year  Vendor                                 Amount ($)  Item
+------  -----------------------------------  ------------  -------------------------
+  2013  RED RIVER COMPUTER CO., INC.               15,680  ADPE SYSTEM CONFIGURATION
+  2012  DOCUMENT MANAGEMENT SOLUTIONS, INC.         8,556  ADP SUPPLIES
+  2012  DOCUMENT MANAGEMENT SOLUTIONS, INC.        12,780  ADPE SYSTEM CONFIGURATION
 ```
 ## NSF MPS Grants
-```
 In the past 8 years, this state has received:
-102 NSF MPS grants, totalling $21,704,846.00
- 
-                                    Amount ($)
-Institution                                   
-TRUSTEES OF DARTMOUTH COLLEGE         13415947
-UNIVERSITY SYSTEM OF NEW HAMPSHIRE     4702323
-MULTIPLE RECIPIENTS                    3300000
-DARTMOUTH COLLEGE                       286576
+96 NSF MPS grants, totalling <b> $22,289,760</b>
+```
+Institution                           Amount ($)
+----------------------------------  ------------
+TRUSTEES OF DARTMOUTH COLLEGE         13,545,970
+UNIVERSITY SYSTEM OF NEW HAMPSHIRE     5,157,214
+MULTIPLE RECIPIENTS                    3,300,000
+DARTMOUTH COLLEGE                        286,576
 ```
 ---
 ---
@@ -68,24 +66,26 @@ Chris Pappas is not on any of our key committees
 This district received no SC HEP grants from 2012-2019
 ```
 ### SC Contracts
+In the past 8 years, this district has received:
+2 Office of Science contracts, totalling <b> $21,336</b>
 ```
-In the past 8 years, this district has received: $21,335.00 in SC contracts.
-                                          Amount ($)
-Vendor                              Year            
-DOCUMENT MANAGEMENT SOLUTIONS, INC. 2012       21335
+  Year  Vendor                                 Amount ($)  Item
+------  -----------------------------------  ------------  -------------------------
+  2012  DOCUMENT MANAGEMENT SOLUTIONS, INC.         8,556  ADP SUPPLIES
+  2012  DOCUMENT MANAGEMENT SOLUTIONS, INC.        12,780  ADPE SYSTEM CONFIGURATION
 ```
 ### NSF MPS Grants
+In the past 8 years, this district has received:<b> $4,893,514 </b>in NSF MPS grants.
 ```
-In the past 8 years, this district has received: $4,438,623.00 in NSF MPS grants.
-                                         Amount ($)
-Institution                        Year            
-UNIVERSITY SYSTEM OF NEW HAMPSHIRE 2012     1542799
-                                   2013      558002
-                                   2014      726064
-                                   2015      490499
-                                   2016      389999
-                                   2017      213132
-                                   2018      518128
+  Year  Institution                           Amount ($)
+------  ----------------------------------  ------------
+  2018  UNIVERSITY SYSTEM OF NEW HAMPSHIRE       518,128
+  2017  UNIVERSITY SYSTEM OF NEW HAMPSHIRE       603,131
+  2016  UNIVERSITY SYSTEM OF NEW HAMPSHIRE       389,999
+  2015  UNIVERSITY SYSTEM OF NEW HAMPSHIRE       490,499
+  2014  UNIVERSITY SYSTEM OF NEW HAMPSHIRE       790,956
+  2013  UNIVERSITY SYSTEM OF NEW HAMPSHIRE       558,002
+  2012  UNIVERSITY SYSTEM OF NEW HAMPSHIRE     1,542,799
 ```
 ---
 <a name="NH-02"></a>
@@ -95,38 +95,35 @@ UNIVERSITY SYSTEM OF NEW HAMPSHIRE 2012     1542799
 Ann M. Kuster is the #25 Democrat on the House Committee on Energy and Commerce 
 
 ### HEP Grants
+In the past 8 years, this district has received:<b> $915,000 </b>in SC HEP grants.
 ```
-In the past 8 years, this district has received: $915,000.00 in SC HEP grants.
-                        Amount ($)
-Institution       Year            
-DARTMOUTH COLLEGE 2013      150000
-Dartmouth College 2014      175000
-                  2015      200000
-                  2016      390000
-                  2017           0
-                  2018           0
+Institution          Amount ($)    Start  End      Principal Investigator    Project Title
+-----------------  ------------  -------  -------  ------------------------  -------------------------------------------------------------------------------------
+Dartmouth College       765,000     2014  Ongoing  Caldwell, Robert          Dartmouth Theory Group at the Cosmic Frontier:  The Origin and Nature of our Universe
+DARTMOUTH COLLEGE       150,000     2013  2014     Caldwell                  Dartmouth Theory Group at the Cosmic Frontier: The Origin and Nature of our Universe
 ```
 ### SC Contracts
+In the past 8 years, this district has received:
+1 Office of Science contracts, totalling <b> $15,680</b>
 ```
-In the past 8 years, this district has received: $15,398.00 in SC contracts.
-                                   Amount ($)
-Vendor                       Year            
-RED RIVER COMPUTER CO., INC. 2013       15398
+  Year  Vendor                          Amount ($)  Item
+------  ----------------------------  ------------  -------------------------
+  2013  RED RIVER COMPUTER CO., INC.        15,680  ADPE SYSTEM CONFIGURATION
 ```
 ### NSF MPS Grants
+In the past 8 years, this district has received:<b> $17,396,246 </b>in NSF MPS grants.
 ```
-In the past 8 years, this district has received: $17,266,223.00 in NSF MPS grants.
-                                         Amount ($)
-Institution                        Year            
-DARTMOUTH COLLEGE                  2015      286576
-MULTIPLE RECIPIENTS                2014     3300000
-TRUSTEES OF DARTMOUTH COLLEGE      2012     1323149
-                                   2013     2321016
-                                   2014     1531664
-                                   2015     2279653
-                                   2016     1538795
-                                   2017     2164332
-                                   2018     2257338
-UNIVERSITY SYSTEM OF NEW HAMPSHIRE 2013      263700
+  Year  Institution                           Amount ($)
+------  ----------------------------------  ------------
+  2018  TRUSTEES OF DARTMOUTH COLLEGE          2,257,338
+  2017  TRUSTEES OF DARTMOUTH COLLEGE          2,164,332
+  2016  TRUSTEES OF DARTMOUTH COLLEGE          1,538,795
+  2015  DARTMOUTH COLLEGE                        286,576
+  2015  TRUSTEES OF DARTMOUTH COLLEGE          2,322,297
+  2014  MULTIPLE RECIPIENTS                    3,300,000
+  2014  TRUSTEES OF DARTMOUTH COLLEGE          1,531,664
+  2013  TRUSTEES OF DARTMOUTH COLLEGE          2,321,016
+  2013  UNIVERSITY SYSTEM OF NEW HAMPSHIRE       263,700
+  2012  TRUSTEES OF DARTMOUTH COLLEGE          1,410,528
 ```
 ---

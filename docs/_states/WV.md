@@ -29,27 +29,26 @@ Shelley Moore Capito is the #10 Republican on the Senate Committee on Commerce, 
 ```
 This state received no SC HEP grants from 2012-2019
 ```
-## SC Contracts
+### SC Contracts
 ```
 This state received no SC contracts from 2012-2019
 ```
 ## NSF MPS Grants
-```
 In the past 8 years, this state has received:
-94 NSF MPS grants, totalling $20,168,136.00
- 
-                                                    Amount ($)
-Institution                                   Year            
-MARSHALL UNIVERSITY RESEARCH CORPORATION      2012      338845
-                                              2018      415000
-WEST VIRGINIA UNIVERSITY RESEARCH CORPORATION 2012     2258269
-                                              2013     2156346
-                                              2014     2904443
-                                              2015     1375140
-                                              2016     2976853
-                                              2017     2436019
-                                              2018     3832303
-WV UNIV RESEARCH CORP                         2015     1474918
+91 NSF MPS grants, totalling <b> $20,557,795</b>
+```
+  Year  Institution                                      Amount ($)
+------  ---------------------------------------------  ------------
+  2018  MARSHALL UNIVERSITY RESEARCH CORPORATION            415,000
+  2018  WEST VIRGINIA UNIVERSITY RESEARCH CORPORATION     3,832,303
+  2017  WEST VIRGINIA UNIVERSITY RESEARCH CORPORATION     2,436,019
+  2016  WEST VIRGINIA UNIVERSITY RESEARCH CORPORATION     3,277,030
+  2015  WEST VIRGINIA UNIVERSITY RESEARCH CORPORATION     1,375,140
+  2015  WV UNIV RESEARCH CORP                             1,474,918
+  2014  WEST VIRGINIA UNIVERSITY RESEARCH CORPORATION     2,904,443
+  2013  WEST VIRGINIA UNIVERSITY RESEARCH CORPORATION     2,156,346
+  2012  MARSHALL UNIVERSITY RESEARCH CORPORATION            338,845
+  2012  WEST VIRGINIA UNIVERSITY RESEARCH CORPORATION     2,347,751
 ```
 ---
 ---
@@ -68,18 +67,18 @@ This district received no SC HEP grants from 2012-2019
 This district received no SC contracts from 2012-2019
 ```
 ### NSF MPS Grants
+In the past 8 years, this district has received:<b> $19,803,950 </b>in NSF MPS grants.
 ```
-In the past 8 years, this district has received: $19,414,291.00 in NSF MPS grants.
-                                                    Amount ($)
-Institution                                   Year            
-WEST VIRGINIA UNIVERSITY RESEARCH CORPORATION 2012     2258269
-                                              2013     2156346
-                                              2014     2904443
-                                              2015     1375140
-                                              2016     2976853
-                                              2017     2436019
-                                              2018     3832303
-WV UNIV RESEARCH CORP                         2015     1474918
+  Year  Institution                                      Amount ($)
+------  ---------------------------------------------  ------------
+  2018  WEST VIRGINIA UNIVERSITY RESEARCH CORPORATION     3,832,303
+  2017  WEST VIRGINIA UNIVERSITY RESEARCH CORPORATION     2,436,019
+  2016  WEST VIRGINIA UNIVERSITY RESEARCH CORPORATION     3,277,030
+  2015  WEST VIRGINIA UNIVERSITY RESEARCH CORPORATION     1,375,140
+  2015  WV UNIV RESEARCH CORP                             1,474,918
+  2014  WEST VIRGINIA UNIVERSITY RESEARCH CORPORATION     2,904,443
+  2013  WEST VIRGINIA UNIVERSITY RESEARCH CORPORATION     2,156,346
+  2012  WEST VIRGINIA UNIVERSITY RESEARCH CORPORATION     2,347,751
 ```
 ---
 <a name="WV-02"></a>
@@ -116,11 +115,11 @@ This district received no SC HEP grants from 2012-2019
 This district received no SC contracts from 2012-2019
 ```
 ### NSF MPS Grants
+In the past 8 years, this district has received:<b> $753,845 </b>in NSF MPS grants.
 ```
-In the past 8 years, this district has received: $753,845.00 in NSF MPS grants.
-                                               Amount ($)
-Institution                              Year            
-MARSHALL UNIVERSITY RESEARCH CORPORATION 2012      338845
-                                         2018      415000
+  Year  Institution                                 Amount ($)
+------  ----------------------------------------  ------------
+  2018  MARSHALL UNIVERSITY RESEARCH CORPORATION       415,000
+  2012  MARSHALL UNIVERSITY RESEARCH CORPORATION       338,845
 ```
 ---

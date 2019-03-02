@@ -20,50 +20,47 @@ Lindsey Graham is the #6 Republican on the Senate Appropriations Subcommittee on
 Tim Scott is not on any of our key committees 
 
 ## HEP Grants
-```
 In the past 8 years, this state has received:
-14 HEP grants, totalling $2,986,000.00
- 
-                                   Amount ($)
-Institution                  Year            
-THE CITADEL                  2012       23000
-UNIVERSITY OF SOUTH CAROLINA 2012      598000
-                             2013      345000
-University of South Carolina 2014      378000
-                             2015      460000
-                             2016      467000
-                             2017      475000
-                             2018      240000
+14 HEP grants, totalling <b> $2,986,000</b>
 ```
-## SC Contracts
+  Year  Institution                     Amount ($)
+------  ----------------------------  ------------
+  2018  University of South Carolina       240,000
+  2017  University of South Carolina       475,000
+  2016  University of South Carolina       467,000
+  2015  University of South Carolina       460,000
+  2014  University of South Carolina       378,000
+  2013  UNIVERSITY OF SOUTH CAROLINA       345,000
+  2012  THE CITADEL                         23,000
+  2012  UNIVERSITY OF SOUTH CAROLINA       598,000
 ```
+### SC Contracts
 In the past 8 years, this state has received:
-18 Office of Science contracts, totalling $7,444,079.00
- 
-                    Amount ($)
-Vendor        Year            
-TRIBALCO, LLC 2017     5415246
-              2018     2028833
-              2019           0
+6 Office of Science contracts, totalling <b> $7,507,172</b>
+```
+  Year  Vendor           Amount ($)  Item
+------  -------------  ------------  -------------------------------------------------------------
+  2018  TRIBALCO, LLC     2,028,834  RADIO AND TELEVISION COMMUNICATION EQUIPMENT, EXCEPT AIRBORNE
+  2017  TRIBALCO, LLC     5,478,338  RADIO AND TELEVISION COMMUNICATION EQUIPMENT, EXCEPT AIRBORNE
 ```
 ## NSF MPS Grants
-```
 In the past 8 years, this state has received:
-272 NSF MPS grants, totalling $49,384,874.00
- 
-                                        Amount ($)
-Institution                                       
-UNIVERSITY OF SOUTH CAROLINA              21560422
-CLEMSON UNIVERSITY                        16479847
-SOUTH CAROLINA RESEARCH FOUNDATION         6613588
-FURMAN UNIVERSITY                          1812134
-COLLEGE OF CHARLESTON                      1204966
-CLEMSON UNIVERSITY RESEARCH FOUNDATION      522372
-MEDICAL UNIVERSITY OF SOUTH CAROLINA        316667
-WINTHROP UNIVERSITY                         291438
-VOORHEES COLLEGE                            259392
-SOUTH CAROLINA STATE UNIVERSITY             164835
-and  2  other institutions.
+260 NSF MPS grants, totalling <b> $49,916,138</b>
+```
+Institution                               Amount ($)
+--------------------------------------  ------------
+UNIVERSITY OF SOUTH CAROLINA              21,560,422
+CLEMSON UNIVERSITY                        16,919,552
+SOUTH CAROLINA RESEARCH FOUNDATION         6,705,147
+FURMAN UNIVERSITY                          1,812,134
+COLLEGE OF CHARLESTON                      1,204,966
+CLEMSON UNIVERSITY RESEARCH FOUNDATION       522,372
+MEDICAL UNIVERSITY OF SOUTH CAROLINA         316,667
+WINTHROP UNIVERSITY                          291,438
+VOORHEES COLLEGE                             259,392
+SOUTH CAROLINA STATE UNIVERSITY              164,835
+COKER COLLEGE                                144,213
+U OF SC COLUMBIA                              15,000
 ```
 ---
 ---
@@ -74,27 +71,27 @@ and  2  other institutions.
 Joe Cunningham is not on any of our key committees 
 
 ### HEP Grants
+In the past 8 years, this district has received:<b> $23,000 </b>in SC HEP grants.
 ```
-In the past 8 years, this district has received: $23,000.00 in SC HEP grants.
-                  Amount ($)
-Institution Year            
-THE CITADEL 2012       23000
+Institution      Amount ($)    Start    End  Principal Investigator    Project Title
+-------------  ------------  -------  -----  ------------------------  --------------------------------------------------------------------------------
+THE CITADEL          23,000     2012   2013  Yost                      Precision Studies of Hadronic and Electro-Weak Interactions for Collider Physics
 ```
 ### SC Contracts
 ```
 This district received no SC contracts from 2012-2019
 ```
 ### NSF MPS Grants
+In the past 8 years, this district has received:<b> $1,363,300 </b>in NSF MPS grants.
 ```
-In the past 8 years, this district has received: $1,363,300.00 in NSF MPS grants.
-                                           Amount ($)
-Institution                          Year            
-COLLEGE OF CHARLESTON                2012      546188
-                                     2014      319800
-                                     2015       72607
-                                     2016      230411
-                                     2018       35960
-MEDICAL UNIVERSITY OF SOUTH CAROLINA 2012      158334
+  Year  Institution                             Amount ($)
+------  ------------------------------------  ------------
+  2018  COLLEGE OF CHARLESTON                       35,960
+  2016  COLLEGE OF CHARLESTON                      230,411
+  2015  COLLEGE OF CHARLESTON                       72,607
+  2014  COLLEGE OF CHARLESTON                      319,800
+  2012  COLLEGE OF CHARLESTON                      546,188
+  2012  MEDICAL UNIVERSITY OF SOUTH CAROLINA       158,334
 ```
 ---
 <a name="SC-02"></a>
@@ -112,12 +109,12 @@ This district received no SC HEP grants from 2012-2019
 This district received no SC contracts from 2012-2019
 ```
 ### NSF MPS Grants
+In the past 8 years, this district has received:<b> $7,617,274 </b>in NSF MPS grants.
 ```
-In the past 8 years, this district has received: $7,617,274.00 in NSF MPS grants.
-                                   Amount ($)
-Institution                  Year            
-UNIVERSITY OF SOUTH CAROLINA 2017     4084431
-                             2018     3532843
+  Year  Institution                     Amount ($)
+------  ----------------------------  ------------
+  2018  UNIVERSITY OF SOUTH CAROLINA     3,532,843
+  2017  UNIVERSITY OF SOUTH CAROLINA     4,084,431
 ```
 ---
 <a name="SC-03"></a>
@@ -135,21 +132,21 @@ This district received no SC HEP grants from 2012-2019
 This district received no SC contracts from 2012-2019
 ```
 ### NSF MPS Grants
+In the past 8 years, this district has received:<b> $17,441,924 </b>in NSF MPS grants.
 ```
-In the past 8 years, this district has received: $17,002,219.00 in NSF MPS grants.
-                                             Amount ($)
-Institution                            Year            
-CLEMSON UNIVERSITY                     2012     1759005
-                                       2013     1916470
-                                       2014     1099511
-                                       2015     1430354
-                                       2016     3613179
-                                       2017     3176933
-                                       2018     3626653
-                                       2019     -142258
-CLEMSON UNIVERSITY RESEARCH FOUNDATION 2012      129569
-                                       2013      375188
-                                       2016       17615
+  Year  Institution                               Amount ($)
+------  --------------------------------------  ------------
+  2019  CLEMSON UNIVERSITY                           105,657
+  2018  CLEMSON UNIVERSITY                         3,626,653
+  2017  CLEMSON UNIVERSITY                         3,176,933
+  2016  CLEMSON UNIVERSITY                         3,613,179
+  2016  CLEMSON UNIVERSITY RESEARCH FOUNDATION        17,615
+  2015  CLEMSON UNIVERSITY                         1,430,354
+  2014  CLEMSON UNIVERSITY                         1,099,511
+  2013  CLEMSON UNIVERSITY                         2,108,260
+  2013  CLEMSON UNIVERSITY RESEARCH FOUNDATION       375,188
+  2012  CLEMSON UNIVERSITY                         1,759,005
+  2012  CLEMSON UNIVERSITY RESEARCH FOUNDATION       129,569
 ```
 ---
 <a name="SC-04"></a>
@@ -169,17 +166,17 @@ This district received no SC HEP grants from 2012-2019
 This district received no SC contracts from 2012-2019
 ```
 ### NSF MPS Grants
+In the past 8 years, this district has received:<b> $1,812,134 </b>in NSF MPS grants.
 ```
-In the past 8 years, this district has received: $1,812,134.00 in NSF MPS grants.
-                        Amount ($)
-Institution       Year            
-FURMAN UNIVERSITY 2012      199199
-                  2013      103875
-                  2014      300000
-                  2015      337911
-                  2016      225000
-                  2017      258190
-                  2018      387959
+  Year  Institution          Amount ($)
+------  -----------------  ------------
+  2018  FURMAN UNIVERSITY       387,959
+  2017  FURMAN UNIVERSITY       258,190
+  2016  FURMAN UNIVERSITY       225,000
+  2015  FURMAN UNIVERSITY       337,911
+  2014  FURMAN UNIVERSITY       300,000
+  2013  FURMAN UNIVERSITY       103,875
+  2012  FURMAN UNIVERSITY       199,199
 ```
 ---
 <a name="SC-05"></a>
@@ -193,21 +190,21 @@ Ralph Norman is the #9 Republican on the House Committee on Science, Space, and 
 This district received no SC HEP grants from 2012-2019
 ```
 ### SC Contracts
+In the past 8 years, this district has received:
+6 Office of Science contracts, totalling <b> $7,507,172</b>
 ```
-In the past 8 years, this district has received: $7,444,079.00 in SC contracts.
-                    Amount ($)
-Vendor        Year            
-TRIBALCO, LLC 2017     5415246
-              2018     2028833
-              2019           0
+  Year  Vendor           Amount ($)  Item
+------  -------------  ------------  -------------------------------------------------------------
+  2018  TRIBALCO, LLC     2,028,834  RADIO AND TELEVISION COMMUNICATION EQUIPMENT, EXCEPT AIRBORNE
+  2017  TRIBALCO, LLC     5,478,338  RADIO AND TELEVISION COMMUNICATION EQUIPMENT, EXCEPT AIRBORNE
 ```
 ### NSF MPS Grants
+In the past 8 years, this district has received:<b> $435,651 </b>in NSF MPS grants.
 ```
-In the past 8 years, this district has received: $435,651.00 in NSF MPS grants.
-                          Amount ($)
-Institution         Year            
-COKER COLLEGE       2012      144213
-WINTHROP UNIVERSITY 2014      291438
+  Year  Institution            Amount ($)
+------  -------------------  ------------
+  2014  WINTHROP UNIVERSITY       291,438
+  2012  COKER COLLEGE             144,213
 ```
 ---
 <a name="SC-06"></a>
@@ -217,44 +214,43 @@ WINTHROP UNIVERSITY 2014      291438
 James E. Clyburn is not on any of our key committees 
 
 ### HEP Grants
+In the past 8 years, this district has received:<b> $2,963,000 </b>in SC HEP grants.
 ```
-In the past 8 years, this district has received: $2,963,000.00 in SC HEP grants.
-                                   Amount ($)
-Institution                  Year            
-UNIVERSITY OF SOUTH CAROLINA 2012      598000
-                             2013      345000
-University of South Carolina 2014      378000
-                             2015      460000
-                             2016      467000
-                             2017      475000
-                             2018      240000
+Institution                     Amount ($)    Start  End      Principal Investigator    Project Title
+----------------------------  ------------  -------  -------  ------------------------  -----------------------------------------------------------------------------------------------------------
+University of South Carolina             0     2015  2016     Rosenfeld, Carl           Closeout Modification
+University of South Carolina     1,957,000     2014  Ongoing  Petti, Roberto            Neutrino and Flavor Physics at the Intensity Frontier
+University of South Carolina             0     2014  2016     Purohit, Milind           Energy Frontier Physics: Experimental Particle Physics research to be done using the ATLAS detector at CERN
+University of South Carolina        63,000     2014  2016     Purohit, Milind           Electron-Positron Physics with Belle II
+UNIVERSITY OF SOUTH CAROLINA       290,000     2013  2014     Petti                     Experimental Neutrino Physics
+UNIVERSITY OF SOUTH CAROLINA        55,000     2013  2014     Purohit                   Energy Frontier Physics: Experimental Particle Physics research to be done using the ATLAS detector at CERN
+UNIVERSITY OF SOUTH CAROLINA       598,000     2012  2013     Rosenfeld, Purohit        Experimental Particle Physics
 ```
 ### SC Contracts
 ```
 This district received no SC contracts from 2012-2019
 ```
 ### NSF MPS Grants
+In the past 8 years, this district has received:<b> $21,245,855 </b>in NSF MPS grants.
 ```
-In the past 8 years, this district has received: $21,154,296.00 in NSF MPS grants.
-                                           Amount ($)
-Institution                          Year            
-MEDICAL UNIVERSITY OF SOUTH CAROLINA 2013      158333
-SOUTH CAROLINA RESEARCH FOUNDATION   2012     4898464
-                                     2013     1254696
-                                     2014      279428
-                                     2015       81000
-                                     2016      100000
-                                     2017           0
-SOUTH CAROLINA STATE UNIVERSITY      2014      135837
-                                     2016       28998
-U OF SC COLUMBIA                     2015       15000
-UNIVERSITY OF SOUTH CAROLINA         2013     3330308
-                                     2014     1924225
-                                     2015     1739497
-                                     2016     4383409
-                                     2017      996036
-                                     2018     1569673
-VOORHEES COLLEGE                     2017      259392
+  Year  Institution                             Amount ($)
+------  ------------------------------------  ------------
+  2018  UNIVERSITY OF SOUTH CAROLINA             1,569,673
+  2017  UNIVERSITY OF SOUTH CAROLINA               996,036
+  2017  VOORHEES COLLEGE                           259,392
+  2016  SOUTH CAROLINA RESEARCH FOUNDATION         100,000
+  2016  SOUTH CAROLINA STATE UNIVERSITY             28,998
+  2016  UNIVERSITY OF SOUTH CAROLINA             4,383,409
+  2015  SOUTH CAROLINA RESEARCH FOUNDATION          81,000
+  2015  U OF SC COLUMBIA                            15,000
+  2015  UNIVERSITY OF SOUTH CAROLINA             1,739,497
+  2014  SOUTH CAROLINA RESEARCH FOUNDATION         279,428
+  2014  SOUTH CAROLINA STATE UNIVERSITY            135,837
+  2014  UNIVERSITY OF SOUTH CAROLINA             1,924,225
+  2013  MEDICAL UNIVERSITY OF SOUTH CAROLINA       158,333
+  2013  SOUTH CAROLINA RESEARCH FOUNDATION       1,254,696
+  2013  UNIVERSITY OF SOUTH CAROLINA             3,330,308
+  2012  SOUTH CAROLINA RESEARCH FOUNDATION       4,990,023
 ```
 ---
 <a name="SC-07"></a>

@@ -16,47 +16,60 @@ Johnny Isakson is not on any of our key committees
 David Perdue is not on any of our key committees 
 
 ## HEP Grants
-```
 In the past 8 years, this state has received:
-1 HEP grants, totalling $500,000.00
- 
-                                      Amount ($)
-Institution                     Year            
-Georgia Institute of Technology 2018      500000
+1 HEP grants, totalling <b> $500,000</b>
 ```
-## SC Contracts
+  Year  Institution                        Amount ($)
+------  -------------------------------  ------------
+  2018  Georgia Institute of Technology       500,000
 ```
+### SC Contracts
 In the past 8 years, this state has received:
-14 Office of Science contracts, totalling $150,060.00
- 
-                                    Amount ($)
-Vendor                        Year            
-GLOBAL EQUIPMENT COMPANY INC. 2012        4926
-NEXTEL SOUTH CORP             2012       13000
-                              2013       18000
-                              2014        5000
-                              2015        4500
-SYSCOM TECHNOLOGIES, INC.     2015      104634
-                              2016           0
+9 Office of Science contracts, totalling <b> $150,061</b>
+```
+  Year  Vendor                           Amount ($)  Item
+------  -----------------------------  ------------  -----------------------------------------------
+  2015  NEXTEL SOUTH CORP                     4,500  TELEPHONE AND TELEGRAPH EQUIPMENT
+  2015  SYSCOM TECHNOLOGIES, INC.           104,635  ADPE SYSTEM CONFIGURATION
+  2014  NEXTEL SOUTH CORP                     5,000  TELEPHONE AND TELEGRAPH EQUIPMENT
+  2013  NEXTEL SOUTH CORP                    18,000  TELEPHONE AND TELEGRAPH EQUIPMENT
+  2012  GLOBAL EQUIPMENT COMPANY INC.         4,926  CHAIN AND WIRE ROPE
+  2012  NEXTEL SOUTH CORP                    13,000  IT AND TELECOM- OTHER IT AND TELECOMMUNICATIONS
 ```
 ## NSF MPS Grants
-```
 In the past 8 years, this state has received:
-839 NSF MPS grants, totalling $183,620,068.00
- 
-                                                    Amount ($)
-Institution                                                   
-GEORGIA TECH RESEARCH CORPORATION                     88675350
-EMORY UNIVERSITY                                      49906082
-UNIVERSITY OF GEORGIA RESEARCH FOUNDATION, IN         11998211
-GEORGIA STATE UNIVERSITY RESEARCH FOUNDATION,         11676554
-UNIVERSITY OF GEORGIA RESEARCH FOUNDATION, INC.        6582245
-GEORGIA STATE UNIVERSITY RESEARCH FOUNDATION, INC.     3319576
-CLARK ATLANTA UNIVERSITY, INC.                         1996362
-SPELMAN COLLEGE                                        1513576
-GEORGIA TECH RESEARCH CORP                             1263895
-MULTIPLE RECIPIENTS                                     984000
-and  19  other institutions.
+786 NSF MPS grants, totalling <b> $188,652,876</b>
+```
+Institution                                                          Amount ($)
+-----------------------------------------------------------------  ------------
+GEORGIA TECH RESEARCH CORPORATION                                    91,893,221
+EMORY UNIVERSITY                                                     50,797,356
+UNIVERSITY OF GEORGIA RESEARCH FOUNDATION, IN                        12,304,487
+GEORGIA STATE UNIVERSITY RESEARCH FOUNDATION,                        11,676,554
+UNIVERSITY OF GEORGIA RESEARCH FOUNDATION, INC.                       6,674,029
+GEORGIA STATE UNIVERSITY RESEARCH FOUNDATION, INC.                    3,402,403
+CLARK ATLANTA UNIVERSITY, INC.                                        1,996,362
+SPELMAN COLLEGE                                                       1,513,576
+GEORGIA TECH RESEARCH CORP                                            1,263,895
+MULTIPLE RECIPIENTS                                                     984,000
+GEORGIA SOUTHERN UNIVERSITY RESEARCH AND SERV                           870,128
+GEORGIA SOUTHERN UNIVERSITY RESEARCH AND SERVICE FOUNDATION, INC.       644,125
+UNIVERSITY OF WEST GEORGIA                                              611,848
+KENNESAW STATE UNIVERSITY RESEARCH AND SERVIC                           609,000
+SAVANNAH STATE UNIVERSITY                                               547,229
+KENNESAW STATE UNIVERSITY RESEARCH AND SERVICE FOUNDATION, INC.         529,231
+AGNES SCOTT COLLEGE, INC.                                               457,119
+PII REDACTED                                                            450,000
+U OF GEORGIA RES FDN INC                                                325,423
+GA STATE U RES FDN, INC.                                                239,530
+UNIVERSITY OF NORTH GEORGIA                                             215,469
+GEORGIA GWINNETT COLLEGE                                                188,374
+GA. SOUTHERN UNIV. R&S FDN                                              149,997
+MOREHOUSE COLLEGE (INC.)                                                120,744
+KENNESAW STATE UNIVERSITY  RESEARCH AND SERVI                           120,000
+UNIVERSITY OF GEORGIA                                                    38,000
+AUGUSTA UNIVERSITY RESEARCH INSTITUTE, INC.                              23,376
+U OF GEORGIA                                                              7,400
 ```
 ---
 ---
@@ -113,11 +126,11 @@ This district received no SC HEP grants from 2012-2019
 This district received no SC contracts from 2012-2019
 ```
 ### NSF MPS Grants
+In the past 8 years, this district has received:<b> $18,750 </b>in NSF MPS grants.
 ```
-In the past 8 years, this district has received: $18,750.00 in NSF MPS grants.
-                                 Amount ($)
-Institution                Year            
-UNIVERSITY OF WEST GEORGIA 2017       18750
+  Year  Institution                   Amount ($)
+------  --------------------------  ------------
+  2017  UNIVERSITY OF WEST GEORGIA        18,750
 ```
 ---
 <a name="GA-04"></a>
@@ -135,15 +148,15 @@ This district received no SC HEP grants from 2012-2019
 This district received no SC contracts from 2012-2019
 ```
 ### NSF MPS Grants
+In the past 8 years, this district has received:<b> $24,901,032 </b>in NSF MPS grants.
 ```
-In the past 8 years, this district has received: $24,901,032.00 in NSF MPS grants.
-                                Amount ($)
-Institution               Year            
-AGNES SCOTT COLLEGE, INC. 2012      201886
-EMORY UNIVERSITY          2012     7084205
-                          2013    10402280
-                          2014     5844459
-                          2015     1368202
+  Year  Institution                  Amount ($)
+------  -------------------------  ------------
+  2015  EMORY UNIVERSITY              1,368,202
+  2014  EMORY UNIVERSITY              5,844,459
+  2013  EMORY UNIVERSITY             10,402,280
+  2012  AGNES SCOTT COLLEGE, INC.       201,886
+  2012  EMORY UNIVERSITY              7,084,205
 ```
 ---
 <a name="GA-05"></a>
@@ -153,59 +166,59 @@ EMORY UNIVERSITY          2012     7084205
 John Lewis is not on any of our key committees 
 
 ### HEP Grants
+In the past 8 years, this district has received:<b> $500,000 </b>in SC HEP grants.
 ```
-In the past 8 years, this district has received: $500,000.00 in SC HEP grants.
-                                      Amount ($)
-Institution                     Year            
-Georgia Institute of Technology 2018      500000
+Institution                        Amount ($)    Start  End      Principal Investigator    Project Title
+-------------------------------  ------------  -------  -------  ------------------------  ------------------------------------------------------------------------------------------------------------------------------
+Georgia Institute of Technology       500,000     2018  Ongoing  Otte, Nepomuk             Research and Development of High-Sensitivity UV Solid-State Photon-Counting Devices for High-Energy Physics and Related Fields
 ```
 ### SC Contracts
 ```
 This district received no SC contracts from 2012-2019
 ```
 ### NSF MPS Grants
+In the past 8 years, this district has received:<b> $139,743,728 </b>in NSF MPS grants.
 ```
-In the past 8 years, this district has received: $135,551,756.00 in NSF MPS grants.
-                                                         Amount ($)
-Institution                                        Year            
-AGNES SCOTT COLLEGE, INC.                          2016      255233
-CLARK ATLANTA UNIVERSITY, INC.                     2012      405000
-                                                   2013      405000
-                                                   2014       87500
-                                                   2016      693854
-                                                   2017      405008
-EMORY UNIVERSITY                                   2015     4373147
-                                                   2016     6815919
-                                                   2017     6773192
-                                                   2018     7018520
-                                                   2019      226158
-GA STATE U RES FDN, INC.                           2015      239530
-GEORGIA STATE UNIVERSITY RESEARCH FOUNDATION,      2012     1132556
-                                                   2013     1667590
-                                                   2014     1477583
-                                                   2015     2200010
-                                                   2016     5198815
-GEORGIA STATE UNIVERSITY RESEARCH FOUNDATION, INC. 2017     1919482
-                                                   2018     1400094
-GEORGIA TECH RESEARCH CORP                         2015     1263895
-GEORGIA TECH RESEARCH CORPORATION                  2012    12162128
-                                                   2013    15757238
-                                                   2014     5709218
-                                                   2015     9235509
-                                                   2016    10908577
-                                                   2017    15961056
-                                                   2018    18567688
-                                                   2019      373936
-MOREHOUSE COLLEGE (INC.)                           2014      120744
-MULTIPLE RECIPIENTS                                2013      450000
-                                                   2014      534000
-PII REDACTED                                       2017      150000
-                                                   2018      150000
-SPELMAN COLLEGE                                    2012       28709
-                                                   2013      550000
-                                                   2016      319451
-                                                   2017       16400
-                                                   2018      599016
+  Year  Institution                                           Amount ($)
+------  --------------------------------------------------  ------------
+  2019  GEORGIA TECH RESEARCH CORPORATION                        373,936
+  2019  EMORY UNIVERSITY                                         226,158
+  2018  SPELMAN COLLEGE                                          599,016
+  2018  PII REDACTED                                             150,000
+  2018  GEORGIA TECH RESEARCH CORPORATION                     18,859,145
+  2018  GEORGIA STATE UNIVERSITY RESEARCH FOUNDATION, INC.     1,482,921
+  2018  EMORY UNIVERSITY                                       7,410,402
+  2017  GEORGIA STATE UNIVERSITY RESEARCH FOUNDATION, INC.     1,919,482
+  2017  CLARK ATLANTA UNIVERSITY, INC.                           405,008
+  2017  EMORY UNIVERSITY                                       7,272,584
+  2017  PII REDACTED                                             150,000
+  2017  GEORGIA TECH RESEARCH CORPORATION                     16,181,056
+  2017  SPELMAN COLLEGE                                           16,400
+  2016  CLARK ATLANTA UNIVERSITY, INC.                           693,854
+  2016  SPELMAN COLLEGE                                          319,451
+  2016  GEORGIA TECH RESEARCH CORPORATION                     11,617,698
+  2016  GEORGIA STATE UNIVERSITY RESEARCH FOUNDATION,          5,198,815
+  2016  EMORY UNIVERSITY                                       6,815,919
+  2016  AGNES SCOTT COLLEGE, INC.                                255,233
+  2015  GEORGIA TECH RESEARCH CORP                             1,263,895
+  2015  GEORGIA STATE UNIVERSITY RESEARCH FOUNDATION,          2,200,010
+  2015  GA STATE U RES FDN, INC.                                 239,530
+  2015  EMORY UNIVERSITY                                       4,373,147
+  2015  GEORGIA TECH RESEARCH CORPORATION                      9,352,206
+  2014  GEORGIA STATE UNIVERSITY RESEARCH FOUNDATION,          1,477,583
+  2014  MULTIPLE RECIPIENTS                                      534,000
+  2014  MOREHOUSE COLLEGE (INC.)                                 120,744
+  2014  GEORGIA TECH RESEARCH CORPORATION                      6,388,629
+  2014  CLARK ATLANTA UNIVERSITY, INC.                            87,500
+  2013  SPELMAN COLLEGE                                          550,000
+  2013  MULTIPLE RECIPIENTS                                      450,000
+  2013  GEORGIA TECH RESEARCH CORPORATION                     16,916,747
+  2013  GEORGIA STATE UNIVERSITY RESEARCH FOUNDATION,          1,667,590
+  2013  CLARK ATLANTA UNIVERSITY, INC.                           405,000
+  2012  GEORGIA TECH RESEARCH CORPORATION                     12,203,804
+  2012  GEORGIA STATE UNIVERSITY RESEARCH FOUNDATION,          1,132,556
+  2012  SPELMAN COLLEGE                                           28,709
+  2012  CLARK ATLANTA UNIVERSITY, INC.                           405,000
 ```
 ---
 <a name="GA-06"></a>
@@ -238,23 +251,24 @@ Rob Woodall is not on any of our key committees
 This district received no SC HEP grants from 2012-2019
 ```
 ### SC Contracts
+In the past 8 years, this district has received:
+7 Office of Science contracts, totalling <b> $45,426</b>
 ```
-In the past 8 years, this district has received: $45,426.00 in SC contracts.
-                                    Amount ($)
-Vendor                        Year            
-GLOBAL EQUIPMENT COMPANY INC. 2012        4926
-NEXTEL SOUTH CORP             2012       13000
-                              2013       18000
-                              2014        5000
-                              2015        4500
+  Year  Vendor                           Amount ($)  Item
+------  -----------------------------  ------------  -----------------------------------------------
+  2015  NEXTEL SOUTH CORP                     4,500  TELEPHONE AND TELEGRAPH EQUIPMENT
+  2014  NEXTEL SOUTH CORP                     5,000  TELEPHONE AND TELEGRAPH EQUIPMENT
+  2013  NEXTEL SOUTH CORP                    18,000  TELEPHONE AND TELEGRAPH EQUIPMENT
+  2012  GLOBAL EQUIPMENT COMPANY INC.         4,926  CHAIN AND WIRE ROPE
+  2012  NEXTEL SOUTH CORP                    13,000  IT AND TELECOM- OTHER IT AND TELECOMMUNICATIONS
 ```
 ### NSF MPS Grants
+In the past 8 years, this district has received:<b> $188,374 </b>in NSF MPS grants.
 ```
-In the past 8 years, this district has received: $188,374.00 in NSF MPS grants.
-                               Amount ($)
-Institution              Year            
-GEORGIA GWINNETT COLLEGE 2016      148443
-                         2018       39931
+  Year  Institution                 Amount ($)
+------  ------------------------  ------------
+  2018  GEORGIA GWINNETT COLLEGE        39,931
+  2016  GEORGIA GWINNETT COLLEGE       148,443
 ```
 ---
 <a name="GA-08"></a>
@@ -272,13 +286,13 @@ This district received no SC HEP grants from 2012-2019
 This district received no SC contracts from 2012-2019
 ```
 ### NSF MPS Grants
+In the past 8 years, this district has received:<b> $593,098 </b>in NSF MPS grants.
 ```
-In the past 8 years, this district has received: $593,098.00 in NSF MPS grants.
-                                 Amount ($)
-Institution                Year            
-UNIVERSITY OF WEST GEORGIA 2013      229699
-                           2014      340019
-                           2016       23380
+  Year  Institution                   Amount ($)
+------  --------------------------  ------------
+  2016  UNIVERSITY OF WEST GEORGIA        23,380
+  2014  UNIVERSITY OF WEST GEORGIA       340,019
+  2013  UNIVERSITY OF WEST GEORGIA       229,699
 ```
 ---
 <a name="GA-09"></a>
@@ -296,12 +310,12 @@ This district received no SC HEP grants from 2012-2019
 This district received no SC contracts from 2012-2019
 ```
 ### NSF MPS Grants
+In the past 8 years, this district has received:<b> $215,469 </b>in NSF MPS grants.
 ```
-In the past 8 years, this district has received: $215,469.00 in NSF MPS grants.
-                                  Amount ($)
-Institution                 Year            
-UNIVERSITY OF NORTH GEORGIA 2014       86469
-                            2018      129000
+  Year  Institution                    Amount ($)
+------  ---------------------------  ------------
+  2018  UNIVERSITY OF NORTH GEORGIA       129,000
+  2014  UNIVERSITY OF NORTH GEORGIA        86,469
 ```
 ---
 <a name="GA-10"></a>
@@ -319,22 +333,22 @@ This district received no SC HEP grants from 2012-2019
 This district received no SC contracts from 2012-2019
 ```
 ### NSF MPS Grants
+In the past 8 years, this district has received:<b> $19,499,339 </b>in NSF MPS grants.
 ```
-In the past 8 years, this district has received: $18,926,510.00 in NSF MPS grants.
-                                                      Amount ($)
-Institution                                     Year            
-PII REDACTED                                    2018      150000
-U OF GEORGIA                                    2015        7400
-U OF GEORGIA RES FDN INC                        2015      150654
-UNIVERSITY OF GEORGIA                           2016       38000
-UNIVERSITY OF GEORGIA RESEARCH FOUNDATION, IN   2012     2411143
-                                                2013     1639493
-                                                2014     4364261
-                                                2015     1640523
-                                                2016     1885938
-                                                2017       56853
-UNIVERSITY OF GEORGIA RESEARCH FOUNDATION, INC. 2017     2991351
-                                                2018     3590894
+  Year  Institution                                        Amount ($)
+------  -----------------------------------------------  ------------
+  2018  PII REDACTED                                          150,000
+  2018  UNIVERSITY OF GEORGIA RESEARCH FOUNDATION, INC.     3,682,678
+  2017  UNIVERSITY OF GEORGIA RESEARCH FOUNDATION, IN          56,853
+  2017  UNIVERSITY OF GEORGIA RESEARCH FOUNDATION, INC.     2,991,351
+  2016  UNIVERSITY OF GEORGIA                                  38,000
+  2016  UNIVERSITY OF GEORGIA RESEARCH FOUNDATION, IN       1,885,938
+  2015  U OF GEORGIA                                            7,400
+  2015  U OF GEORGIA RES FDN INC                              325,423
+  2015  UNIVERSITY OF GEORGIA RESEARCH FOUNDATION, IN       1,640,523
+  2014  UNIVERSITY OF GEORGIA RESEARCH FOUNDATION, IN       4,416,673
+  2013  UNIVERSITY OF GEORGIA RESEARCH FOUNDATION, IN       1,802,950
+  2012  UNIVERSITY OF GEORGIA RESEARCH FOUNDATION, IN       2,501,550
 ```
 ---
 <a name="GA-11"></a>
@@ -348,23 +362,23 @@ Barry Loudermilk is not on any of our key committees
 This district received no SC HEP grants from 2012-2019
 ```
 ### SC Contracts
+In the past 8 years, this district has received:
+2 Office of Science contracts, totalling <b> $104,635</b>
 ```
-In the past 8 years, this district has received: $104,634.00 in SC contracts.
-                                Amount ($)
-Vendor                    Year            
-SYSCOM TECHNOLOGIES, INC. 2015      104634
-                          2016           0
+  Year  Vendor                       Amount ($)  Item
+------  -------------------------  ------------  -------------------------
+  2015  SYSCOM TECHNOLOGIES, INC.       104,635  ADPE SYSTEM CONFIGURATION
 ```
 ### NSF MPS Grants
+In the past 8 years, this district has received:<b> $1,258,231 </b>in NSF MPS grants.
 ```
-In the past 8 years, this district has received: $1,258,231.00 in NSF MPS grants.
-                                                         Amount ($)
-Institution                                        Year            
-KENNESAW STATE UNIVERSITY  RESEARCH AND SERVI      2012      120000
-KENNESAW STATE UNIVERSITY RESEARCH AND SERVIC      2015      369000
-                                                   2016      240000
-KENNESAW STATE UNIVERSITY RESEARCH AND SERVICE ... 2017       60021
-                                                   2018      469210
+  Year  Institution                                                        Amount ($)
+------  ---------------------------------------------------------------  ------------
+  2018  KENNESAW STATE UNIVERSITY RESEARCH AND SERVICE FOUNDATION, INC.       469,210
+  2017  KENNESAW STATE UNIVERSITY RESEARCH AND SERVICE FOUNDATION, INC.        60,021
+  2016  KENNESAW STATE UNIVERSITY RESEARCH AND SERVIC                         240,000
+  2015  KENNESAW STATE UNIVERSITY RESEARCH AND SERVIC                         369,000
+  2012  KENNESAW STATE UNIVERSITY  RESEARCH AND SERVI                         120,000
 ```
 ---
 <a name="GA-12"></a>
@@ -382,21 +396,19 @@ This district received no SC HEP grants from 2012-2019
 This district received no SC contracts from 2012-2019
 ```
 ### NSF MPS Grants
+In the past 8 years, this district has received:<b> $2,234,855 </b>in NSF MPS grants.
 ```
-In the past 8 years, this district has received: $1,966,848.00 in NSF MPS grants.
-                                                         Amount ($)
-Institution                                        Year            
-AUGUSTA UNIVERSITY RESEARCH INSTITUTE, INC.        2018       23376
-GA. SOUTHERN UNIV. R&S FDN                         2015      149997
-GEORGIA HEALTH SCIENCES UNIVERSITY RESEARCH I      2013     -118182
-GEORGIA SOUTHERN UNIVERSITY RESEARCH AND SERV      2012      274908
-                                                   2013      150583
-                                                   2014      364440
-                                                   2016     -103628
-                                                   2017       34000
-GEORGIA SOUTHERN UNIVERSITY RESEARCH AND SERVIC... 2017       67000
-                                                   2018      577125
-SAVANNAH STATE UNIVERSITY                          2012      547229
+  Year  Institution                                                          Amount ($)
+------  -----------------------------------------------------------------  ------------
+  2018  AUGUSTA UNIVERSITY RESEARCH INSTITUTE, INC.                              23,376
+  2018  GEORGIA SOUTHERN UNIVERSITY RESEARCH AND SERVICE FOUNDATION, INC.       577,125
+  2017  GEORGIA SOUTHERN UNIVERSITY RESEARCH AND SERV                            34,000
+  2017  GEORGIA SOUTHERN UNIVERSITY RESEARCH AND SERVICE FOUNDATION, INC.        67,000
+  2015  GA. SOUTHERN UNIV. R&S FDN                                              149,997
+  2014  GEORGIA SOUTHERN UNIVERSITY RESEARCH AND SERV                           364,440
+  2013  GEORGIA SOUTHERN UNIVERSITY RESEARCH AND SERV                           196,780
+  2012  GEORGIA SOUTHERN UNIVERSITY RESEARCH AND SERV                           274,908
+  2012  SAVANNAH STATE UNIVERSITY                                               547,229
 ```
 ---
 <a name="GA-13"></a>

@@ -20,42 +20,40 @@ Ron Wyden is the #2 Democrat on the Senate Energy Subcommittee on Energy
 Ron Wyden is the #2 Democrat on the Senate Committee on Energy and Natural Resources 
 
 ## HEP Grants
-```
 In the past 8 years, this state has received:
-31 HEP grants, totalling $7,880,800.00
- 
-                           Amount ($)
-Institution          Year            
-UNIVERSITY OF OREGON 2012     1158000
-                     2013      878000
-University of Oregon 2014     1731000
-                     2015      981000
-                     2016     1035000
-                     2017     1096000
-                     2018     1001800
+31 HEP grants, totalling <b> $7,880,800</b>
 ```
-## SC Contracts
+  Year  Institution             Amount ($)
+------  --------------------  ------------
+  2018  University of Oregon     1,001,800
+  2017  University of Oregon     1,096,000
+  2016  University of Oregon     1,035,000
+  2015  University of Oregon       981,000
+  2014  University of Oregon     1,731,000
+  2013  UNIVERSITY OF OREGON       878,000
+  2012  UNIVERSITY OF OREGON     1,158,000
+```
+### SC Contracts
 ```
 This state received no SC contracts from 2012-2019
 ```
 ## NSF MPS Grants
-```
 In the past 8 years, this state has received:
-323 NSF MPS grants, totalling $66,911,887.00
- 
-                                    Amount ($)
-Institution                                   
-UNIVERSITY OF OREGON                  28607650
-OREGON STATE UNIVERSITY               28269473
-PORTLAND STATE UNIVERSITY              4183178
-OREGON HEALTH & SCIENCE UNIVERSITY     1341373
-U OF OREGON EUGENE                     1235098
-WILLAMETTE UNIVERSITY                  1025990
-LEWIS & CLARK COLLEGE                   891525
-REED INSTITUTE, THE                     614768
-PACIFIC UNIVERSITY                      534155
-LINFIELD COLLEGE                        180677
-and  1  other institutions.
+311 NSF MPS grants, totalling <b> $67,380,914</b>
+```
+Institution                           Amount ($)
+----------------------------------  ------------
+UNIVERSITY OF OREGON                  28,922,070
+OREGON STATE UNIVERSITY               28,342,080
+PORTLAND STATE UNIVERSITY              4,183,178
+OREGON HEALTH & SCIENCE UNIVERSITY     1,341,373
+U OF OREGON EUGENE                     1,235,098
+WILLAMETTE UNIVERSITY                  1,025,990
+LEWIS & CLARK COLLEGE                    973,525
+REED INSTITUTE, THE                      614,768
+PACIFIC UNIVERSITY                       534,155
+LINFIELD COLLEGE                         180,677
+REED COLLEGE                              28,000
 ```
 ---
 ---
@@ -76,18 +74,18 @@ This district received no SC HEP grants from 2012-2019
 This district received no SC contracts from 2012-2019
 ```
 ### NSF MPS Grants
+In the past 8 years, this district has received:<b> $945,130 </b>in NSF MPS grants.
 ```
-In the past 8 years, this district has received: $945,130.00 in NSF MPS grants.
-                                Amount ($)
-Institution               Year            
-LINFIELD COLLEGE          2018      180677
-PACIFIC UNIVERSITY        2012       91885
-                          2013       37185
-                          2015      291626
-                          2017       44284
-                          2018       69175
-PORTLAND STATE UNIVERSITY 2012      201086
-                          2013       29212
+  Year  Institution                  Amount ($)
+------  -------------------------  ------------
+  2018  LINFIELD COLLEGE                180,677
+  2018  PACIFIC UNIVERSITY               69,175
+  2017  PACIFIC UNIVERSITY               44,284
+  2015  PACIFIC UNIVERSITY              291,626
+  2013  PACIFIC UNIVERSITY               37,185
+  2013  PORTLAND STATE UNIVERSITY        29,212
+  2012  PACIFIC UNIVERSITY               91,885
+  2012  PORTLAND STATE UNIVERSITY       201,086
 ```
 ---
 <a name="OR-02"></a>
@@ -124,30 +122,30 @@ This district received no SC HEP grants from 2012-2019
 This district received no SC contracts from 2012-2019
 ```
 ### NSF MPS Grants
+In the past 8 years, this district has received:<b> $6,910,546 </b>in NSF MPS grants.
 ```
-In the past 8 years, this district has received: $6,828,546.00 in NSF MPS grants.
-                                         Amount ($)
-Institution                        Year            
-LEWIS & CLARK COLLEGE              2014      220116
-                                   2015      195008
-                                   2017       34640
-                                   2018      441761
-OREGON HEALTH & SCIENCE UNIVERSITY 2014      258101
-                                   2015      513689
-                                   2017      149583
-                                   2018      420000
-PORTLAND STATE UNIVERSITY          2013      709024
-                                   2014      210540
-                                   2015      244936
-                                   2016     1019855
-                                   2017      156872
-                                   2018     1271963
-                                   2019      339690
-REED COLLEGE                       2015       28000
-REED INSTITUTE, THE                2014      172146
-                                   2017      150820
-                                   2018      122736
-                                   2019      169066
+  Year  Institution                           Amount ($)
+------  ----------------------------------  ------------
+  2019  REED INSTITUTE, THE                      169,066
+  2019  PORTLAND STATE UNIVERSITY                339,690
+  2018  REED INSTITUTE, THE                      122,736
+  2018  PORTLAND STATE UNIVERSITY              1,271,963
+  2018  OREGON HEALTH & SCIENCE UNIVERSITY       420,000
+  2018  LEWIS & CLARK COLLEGE                    441,761
+  2017  OREGON HEALTH & SCIENCE UNIVERSITY       149,583
+  2017  REED INSTITUTE, THE                      150,820
+  2017  PORTLAND STATE UNIVERSITY                156,872
+  2017  LEWIS & CLARK COLLEGE                    116,640
+  2016  PORTLAND STATE UNIVERSITY              1,019,855
+  2015  REED COLLEGE                              28,000
+  2015  PORTLAND STATE UNIVERSITY                244,936
+  2015  OREGON HEALTH & SCIENCE UNIVERSITY       513,689
+  2015  LEWIS & CLARK COLLEGE                    195,008
+  2014  LEWIS & CLARK COLLEGE                    220,116
+  2014  REED INSTITUTE, THE                      172,146
+  2014  PORTLAND STATE UNIVERSITY                210,540
+  2014  OREGON HEALTH & SCIENCE UNIVERSITY       258,101
+  2013  PORTLAND STATE UNIVERSITY                709,024
 ```
 ---
 <a name="OR-04"></a>
@@ -157,41 +155,49 @@ REED INSTITUTE, THE                2014      172146
 Peter A. DeFazio is not on any of our key committees 
 
 ### HEP Grants
+In the past 8 years, this district has received:<b> $7,880,800 </b>in SC HEP grants.
 ```
-In the past 8 years, this district has received: $7,880,800.00 in SC HEP grants.
-                           Amount ($)
-Institution          Year            
-UNIVERSITY OF OREGON 2012     1158000
-                     2013      878000
-University of Oregon 2014     1731000
-                     2015      981000
-                     2016     1035000
-                     2017     1096000
-                     2018     1001800
+Institution             Amount ($)    Start  End      Principal Investigator    Project Title
+--------------------  ------------  -------  -------  ------------------------  ----------------------------------------------------------------------------------------
+University of Oregon         7,800     2018  Ongoing  Brau, James               CALOR 2018 Conference
+University of Oregon       354,000     2018  Ongoing  Kribs, Graham             Theoretical Investigations in Particle Physics
+University of Oregon         5,000     2017  2018     Brau, James               Sensor Development for Future e+e- Colliders
+University of Oregon     1,290,000     2017  Ongoing  Brau, James               Experimental High Energy Physics
+University of Oregon        91,000     2017  2018     Cohen, Timothy            Leaving No Stone Unturned in the Pursuit of New Physics
+University of Oregon       190,000     2015  2018     Brau, James               Silicon-tungsten Electromagnetic Calorimetry and CMOS Vertex Sensor Development
+University of Oregon     1,851,000     2014  2017     Brau, James               Theory Of Elementary Particles; Task B: Experimental High Energy Physics
+University of Oregon             0     2014  2015     Brau, James               Sid Detector R&D
+University of Oregon       114,000     2014  2016     Chang, Spencer            New Physics in Higgs and Dark Matter Phenomenology
+University of Oregon     1,192,000     2014  2018     Kribs, Graham             Theoretical Investigations in Particle Physics
+University of Oregon       750,000     2014  Ongoing  Majewski, Stephanie       Search for New Physics with Top Quarks and Upgrade to the ATLAS Liquid Argon Calorimeter
+UNIVERSITY OF OREGON        60,000     2013  2014     Chang                     New Physics in Higgs and Dark Matter Phenomenology
+UNIVERSITY OF OREGON             0     2012  2013     Brau                      University-Based Detector Research & Development for the International Linear Collider
+UNIVERSITY OF OREGON             0     2012  2014     Brau                      Sid Detector R&D
+UNIVERSITY OF OREGON     1,976,000     2012  2014     Brau                      Task A:  Theory of Elementary Particles; Task B Experimental High Energy Physics
 ```
 ### SC Contracts
 ```
 This district received no SC contracts from 2012-2019
 ```
 ### NSF MPS Grants
+In the past 8 years, this district has received:<b> $57,080,703 </b>in NSF MPS grants.
 ```
-In the past 8 years, this district has received: $56,693,676.00 in NSF MPS grants.
-                              Amount ($)
-Institution             Year            
-OREGON STATE UNIVERSITY 2013      863599
-                        2014    11175539
-                        2015     3354564
-                        2016     4124353
-                        2017     4420345
-                        2018     2912528
-U OF OREGON EUGENE      2015     1235098
-UNIVERSITY OF OREGON    2012     3581118
-                        2013     3881220
-                        2014     3663795
-                        2015     2018360
-                        2016     6480220
-                        2017     4505887
-                        2018     4477050
+  Year  Institution                Amount ($)
+------  -----------------------  ------------
+  2018  OREGON STATE UNIVERSITY     2,912,528
+  2018  UNIVERSITY OF OREGON        4,670,471
+  2017  OREGON STATE UNIVERSITY     4,420,345
+  2017  UNIVERSITY OF OREGON        4,505,887
+  2016  OREGON STATE UNIVERSITY     4,124,353
+  2016  UNIVERSITY OF OREGON        6,480,220
+  2015  OREGON STATE UNIVERSITY     3,427,171
+  2015  U OF OREGON EUGENE          1,235,098
+  2015  UNIVERSITY OF OREGON        2,018,360
+  2014  OREGON STATE UNIVERSITY    11,175,539
+  2014  UNIVERSITY OF OREGON        3,784,794
+  2013  OREGON STATE UNIVERSITY       863,599
+  2013  UNIVERSITY OF OREGON        3,881,220
+  2012  UNIVERSITY OF OREGON        3,581,118
 ```
 ---
 <a name="OR-05"></a>
@@ -209,16 +215,16 @@ This district received no SC HEP grants from 2012-2019
 This district received no SC contracts from 2012-2019
 ```
 ### NSF MPS Grants
+In the past 8 years, this district has received:<b> $2,444,535 </b>in NSF MPS grants.
 ```
-In the past 8 years, this district has received: $2,444,535.00 in NSF MPS grants.
-                              Amount ($)
-Institution             Year            
-OREGON STATE UNIVERSITY 2012     1293545
-                        2013      125000
-WILLAMETTE UNIVERSITY   2012      559231
-                        2013       45158
-                        2014        5000
-                        2015      386093
-                        2017       30508
+  Year  Institution                Amount ($)
+------  -----------------------  ------------
+  2017  WILLAMETTE UNIVERSITY          30,508
+  2015  WILLAMETTE UNIVERSITY         386,093
+  2014  WILLAMETTE UNIVERSITY           5,000
+  2013  OREGON STATE UNIVERSITY       125,000
+  2013  WILLAMETTE UNIVERSITY          45,158
+  2012  OREGON STATE UNIVERSITY     1,293,545
+  2012  WILLAMETTE UNIVERSITY         559,231
 ```
 ---

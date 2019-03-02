@@ -18,43 +18,36 @@ Martha McSally is the #7 Republican on the Senate Energy Subcommittee on Energy
 Martha McSally is the #9 Republican on the Senate Committee on Energy and Natural Resources 
 
 ## HEP Grants
-```
 In the past 8 years, this state has received:
-32 HEP grants, totalling $11,122,000.00
- 
-                          Amount ($)
-Institution                         
-University of Arizona        6673000
-UNIVERSITY OF ARIZONA        2451000
-Arizona State University     1292000
-ARIZONA STATE UNIVERSITY      706000
+32 HEP grants, totalling <b> $11,122,000</b>
 ```
-## SC Contracts
+Institution                 Amount ($)
+------------------------  ------------
+University of Arizona        6,673,000
+UNIVERSITY OF ARIZONA        2,451,000
+Arizona State University     1,292,000
+ARIZONA STATE UNIVERSITY       706,000
 ```
-In the past 8 years, this state has received:
-1 Office of Science contracts, totalling $-289,800.00
- 
-                                 Amount ($)
-Vendor                     Year            
-ALLIED SIGNAL AEROSPACE CO 2014     -289800
+### SC Contracts
+```
+This state received no SC contracts from 2012-2019
 ```
 ## NSF MPS Grants
-```
 In the past 8 years, this state has received:
-538 NSF MPS grants, totalling $106,352,746.00
- 
-                                            Amount ($)
-Institution                                           
-UNIVERSITY OF ARIZONA                         61402328
-ARIZONA STATE UNIVERSITY                      37424924
-LOWELL OBSERVATORY                             3370758
-NORTHERN ARIZONA UNIVERSITY                    1312592
-U OF ARIZONA                                   1220365
-PLANETARY SCIENCE INSTITUTE                     656495
-PII REDACTED                                    392250
-REDACTED DUE TO PII                             300000
-NORTHERN ARIZONA UNIV                           216161
-MARICOPA COUNTY COMMUNITY COLLEGE DISTRICT       56873
+504 NSF MPS grants, totalling <b> $107,588,660</b>
+```
+Institution                                   Amount ($)
+------------------------------------------  ------------
+UNIVERSITY OF ARIZONA                         62,046,330
+ARIZONA STATE UNIVERSITY                      37,604,169
+LOWELL OBSERVATORY                             3,775,675
+NORTHERN ARIZONA UNIVERSITY                    1,312,592
+U OF ARIZONA                                   1,220,365
+PLANETARY SCIENCE INSTITUTE                      656,495
+PII REDACTED                                     400,000
+REDACTED DUE TO PII                              300,000
+NORTHERN ARIZONA UNIV                            216,161
+MARICOPA COUNTY COMMUNITY COLLEGE DISTRICT        56,873
 ```
 ---
 ---
@@ -73,24 +66,24 @@ This district received no SC HEP grants from 2012-2019
 This district received no SC contracts from 2012-2019
 ```
 ### NSF MPS Grants
+In the past 8 years, this district has received:<b> $5,304,428 </b>in NSF MPS grants.
 ```
-In the past 8 years, this district has received: $4,899,511.00 in NSF MPS grants.
-                                  Amount ($)
-Institution                 Year            
-LOWELL OBSERVATORY          2012      698257
-                            2013      743169
-                            2014      -89873
-                            2015      362698
-                            2016     1159428
-                            2017      377515
-                            2018      119564
-NORTHERN ARIZONA UNIV       2015      216161
-NORTHERN ARIZONA UNIVERSITY 2012      661982
-                            2013       85257
-                            2014       24490
-                            2017      133018
-                            2018      210502
-                            2019      197343
+  Year  Institution                    Amount ($)
+------  ---------------------------  ------------
+  2019  NORTHERN ARIZONA UNIVERSITY       197,343
+  2018  LOWELL OBSERVATORY                119,564
+  2018  NORTHERN ARIZONA UNIVERSITY       210,502
+  2017  LOWELL OBSERVATORY                377,515
+  2017  NORTHERN ARIZONA UNIVERSITY       133,018
+  2016  LOWELL OBSERVATORY              1,159,428
+  2015  LOWELL OBSERVATORY                362,698
+  2015  NORTHERN ARIZONA UNIV             216,161
+  2014  LOWELL OBSERVATORY                315,044
+  2014  NORTHERN ARIZONA UNIVERSITY        24,490
+  2013  LOWELL OBSERVATORY                743,169
+  2013  NORTHERN ARIZONA UNIVERSITY        85,257
+  2012  LOWELL OBSERVATORY                698,257
+  2012  NORTHERN ARIZONA UNIVERSITY       661,982
 ```
 ---
 <a name="AZ-02"></a>
@@ -110,14 +103,14 @@ This district received no SC HEP grants from 2012-2019
 This district received no SC contracts from 2012-2019
 ```
 ### NSF MPS Grants
+In the past 8 years, this district has received:<b> $1,936,929 </b>in NSF MPS grants.
 ```
-In the past 8 years, this district has received: $1,936,929.00 in NSF MPS grants.
-                                  Amount ($)
-Institution                 Year            
-PLANETARY SCIENCE INSTITUTE 2016      162288
-                            2017       65798
-                            2018      428409
-UNIVERSITY OF ARIZONA       2013     1280434
+  Year  Institution                    Amount ($)
+------  ---------------------------  ------------
+  2018  PLANETARY SCIENCE INSTITUTE       428,409
+  2017  PLANETARY SCIENCE INSTITUTE        65,798
+  2016  PLANETARY SCIENCE INSTITUTE       162,288
+  2013  UNIVERSITY OF ARIZONA           1,280,434
 ```
 ---
 <a name="AZ-03"></a>
@@ -127,35 +120,36 @@ UNIVERSITY OF ARIZONA       2013     1280434
 Raúl M. Grijalva is the #2 Democrat on the House Subcommittee on Higher Education and Workforce Development 
 
 ### HEP Grants
+In the past 8 years, this district has received:<b> $6,673,000 </b>in SC HEP grants.
 ```
-In the past 8 years, this district has received: $6,673,000.00 in SC HEP grants.
-                            Amount ($)
-Institution           Year            
-University of Arizona 2014     1236000
-                      2015     1047000
-                      2016     1960000
-                      2017     1160000
-                      2018     1270000
+Institution              Amount ($)    Start  End      Principal Investigator    Project Title
+---------------------  ------------  -------  -------  ------------------------  -----------------------------------------------------------------------------------------------------------------
+University of Arizona     2,430,000     2017  Ongoing  JOHNS, KENNENTH           University of Arizona High Energy Physics Program
+University of Arizona     1,210,000     2016  2017     Johns, Kenneth            University of Arizona High Energy Physics Program
+University of Arizona       750,000     2016  Ongoing  Rozo, Eduardo             Constraining Dark Energy with Galaxy Clusters and Baryon Acoustic Oscillations
+University of Arizona        64,000     2014  2016     Toussaint, Douglas        Searching for Physics Beyond the Std Model: Strongly-Coupled Field Theories at the Intensity and Energy Frontiers
+University of Arizona     2,119,000     2014  2016     johns, kenneth            University of Arizona High Energy Physics Program
+University of Arizona       100,000     2014  2016     johns, kenneth            Cosmic Frontier Research in the University of Arizona High Energy Physics Program
 ```
 ### SC Contracts
 ```
 This district received no SC contracts from 2012-2019
 ```
 ### NSF MPS Grants
+In the past 8 years, this district has received:<b> $52,807,907 </b>in NSF MPS grants.
 ```
-In the past 8 years, this district has received: $52,258,011.00 in NSF MPS grants.
-                            Amount ($)
-Institution           Year            
-PII REDACTED          2017      200000
-REDACTED DUE TO PII   2018      100000
-U OF ARIZONA          2015     1220365
-UNIVERSITY OF ARIZONA 2013    14225860
-                      2014     2656651
-                      2015     5618434
-                      2016     7959532
-                      2017    10944950
-                      2018     9247528
-                      2019       84691
+  Year  Institution              Amount ($)
+------  ---------------------  ------------
+  2019  UNIVERSITY OF ARIZONA        84,691
+  2018  REDACTED DUE TO PII         100,000
+  2018  UNIVERSITY OF ARIZONA     9,414,921
+  2017  PII REDACTED                200,000
+  2017  UNIVERSITY OF ARIZONA    10,968,894
+  2016  UNIVERSITY OF ARIZONA     7,982,523
+  2015  U OF ARIZONA              1,220,365
+  2015  UNIVERSITY OF ARIZONA     5,618,434
+  2014  UNIVERSITY OF ARIZONA     2,992,219
+  2013  UNIVERSITY OF ARIZONA    14,225,860
 ```
 ---
 <a name="AZ-04"></a>
@@ -184,24 +178,24 @@ This district received no NSF MPS grants from 2012-2019
 Andy Biggs is the #6 Republican on the House Committee on Science, Space, and Technology 
 
 ### HEP Grants
+In the past 8 years, this district has received:<b> $706,000 </b>in SC HEP grants.
 ```
-In the past 8 years, this district has received: $706,000.00 in SC HEP grants.
-                               Amount ($)
-Institution              Year            
-ARIZONA STATE UNIVERSITY 2012      210000
-                         2013      496000
+Institution                 Amount ($)    Start    End  Principal Investigator    Project Title
+------------------------  ------------  -------  -----  ------------------------  -----------------------------------------------------------------------
+ARIZONA STATE UNIVERSITY       140,000     2012   2014  Comfort                   Search for New Physics in Neutral Kaon Decays
+ARIZONA STATE UNIVERSITY       566,000     2012   2014  Krauss                    Theoretical Research at the High Energy Frontier:  Cosmology and Beyond
 ```
 ### SC Contracts
 ```
 This district received no SC contracts from 2012-2019
 ```
 ### NSF MPS Grants
+In the past 8 years, this district has received:<b> $7,272,658 </b>in NSF MPS grants.
 ```
-In the past 8 years, this district has received: $7,272,658.00 in NSF MPS grants.
-                               Amount ($)
-Institution              Year            
-ARIZONA STATE UNIVERSITY 2012     7172658
-REDACTED DUE TO PII      2018      100000
+  Year  Institution                 Amount ($)
+------  ------------------------  ------------
+  2018  REDACTED DUE TO PII            100,000
+  2012  ARIZONA STATE UNIVERSITY     7,172,658
 ```
 ---
 <a name="AZ-06"></a>
@@ -230,27 +224,26 @@ This district received no NSF MPS grants from 2012-2019
 Ruben Gallego is not on any of our key committees 
 
 ### HEP Grants
+In the past 8 years, this district has received:<b> $2,451,000 </b>in SC HEP grants.
 ```
-In the past 8 years, this district has received: $2,451,000.00 in SC HEP grants.
-                            Amount ($)
-Institution           Year            
-UNIVERSITY OF ARIZONA 2012     1219000
-                      2013     1232000
+Institution              Amount ($)    Start    End  Principal Investigator            Project Title
+---------------------  ------------  -------  -----  --------------------------------  ------------------------------------------------------------------------------------------------------------------
+UNIVERSITY OF ARIZONA     1,000,000     2013   2014  Johns                             University of Arizona High Energy Physics Program
+UNIVERSITY OF ARIZONA             0     2013   2014  Johns                             BOOST 2013 Workshop Hosted by the University of Arizona
+UNIVERSITY OF ARIZONA     1,387,000     2012   2014  Rutherfoord, Sarcevic, Toussaint  University of Arizona High Energy Physics Program
+UNIVERSITY OF ARIZONA        64,000     2012   2014  Toussaint                         Searching for Physics Beyond the Std Model:  Strongly-Coupled Field Theories at the Intensity and Energy Frontiers
 ```
 ### SC Contracts
 ```
-In the past 8 years, this district has received: $-289,800.00 in SC contracts.
-                                 Amount ($)
-Vendor                     Year            
-ALLIED SIGNAL AEROSPACE CO 2014     -289800
+This district received no SC contracts from 2012-2019
 ```
 ### NSF MPS Grants
+In the past 8 years, this district has received:<b> $9,478,354 </b>in NSF MPS grants.
 ```
-In the past 8 years, this district has received: $9,384,248.00 in NSF MPS grants.
-                            Amount ($)
-Institution           Year            
-UNIVERSITY OF ARIZONA 2012     9219415
-                      2013      164833
+  Year  Institution              Amount ($)
+------  ---------------------  ------------
+  2013  UNIVERSITY OF ARIZONA       164,833
+  2012  UNIVERSITY OF ARIZONA     9,313,521
 ```
 ---
 <a name="AZ-08"></a>
@@ -279,34 +272,35 @@ This district received no NSF MPS grants from 2012-2019
 Greg Stanton is not on any of our key committees 
 
 ### HEP Grants
+In the past 8 years, this district has received:<b> $1,292,000 </b>in SC HEP grants.
 ```
-In the past 8 years, this district has received: $1,292,000.00 in SC HEP grants.
-                               Amount ($)
-Institution              Year            
-Arizona State University 2014      417000
-                         2015      340000
-                         2016      100000
-                         2017      170000
-                         2018      265000
+Institution                 Amount ($)    Start  End      Principal Investigator    Project Title
+------------------------  ------------  -------  -------  ------------------------  -----------------------------------------------------------------------
+Arizona State University       265,000     2018  Ongoing  Vachaspati, Tanmay        Theoretical Research at the High Energy Frontier: Cosmology and Beyond.
+Arizona State University       170,000     2017  2018     Vachaspati, Tanmay        Cosmology and Beyond
+Arizona State University       100,000     2016  2018     Lunardini, Cecilia        Phenomenology of Astrophysical Neutrinos
+Arizona State University       340,000     2015  2017     Krauss, Lawrence          Theoretical Research at the High Energy Frontier
+Arizona State University             0     2014  2016     Comfort, Joseph           Search for New Physics in Neutral Kaon Decays
+Arizona State University       417,000     2014  2015     Krauss, Lawrence          Theoretical Research at the High Energy Frontier:  Cosmology and Beyond
 ```
 ### SC Contracts
 ```
 This district received no SC contracts from 2012-2019
 ```
 ### NSF MPS Grants
+In the past 8 years, this district has received:<b> $30,788,384 </b>in NSF MPS grants.
 ```
-In the past 8 years, this district has received: $30,601,389.00 in NSF MPS grants.
-                                                 Amount ($)
-Institution                                Year            
-ARIZONA STATE UNIVERSITY                   2013     6048356
-                                           2014     3980861
-                                           2015     4689825
-                                           2016     3811117
-                                           2017     6459737
-                                           2018     4950729
-                                           2019      311641
-MARICOPA COUNTY COMMUNITY COLLEGE DISTRICT 2018       56873
-PII REDACTED                               2017      192250
-REDACTED DUE TO PII                        2018      100000
+  Year  Institution                                   Amount ($)
+------  ------------------------------------------  ------------
+  2019  ARIZONA STATE UNIVERSITY                         311,641
+  2018  ARIZONA STATE UNIVERSITY                       4,950,729
+  2018  MARICOPA COUNTY COMMUNITY COLLEGE DISTRICT        56,873
+  2018  REDACTED DUE TO PII                              100,000
+  2017  ARIZONA STATE UNIVERSITY                       6,487,472
+  2017  PII REDACTED                                     200,000
+  2016  ARIZONA STATE UNIVERSITY                       3,914,183
+  2015  ARIZONA STATE UNIVERSITY                       4,689,825
+  2014  ARIZONA STATE UNIVERSITY                       3,980,861
+  2013  ARIZONA STATE UNIVERSITY                       6,096,800
 ```
 ---

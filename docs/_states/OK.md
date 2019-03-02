@@ -16,44 +16,41 @@ James M. Inhofe is not on any of our key committees
 James Lankford is the #16 Republican on the Senate Committee on Appropriations 
 
 ## HEP Grants
-```
 In the past 8 years, this state has received:
-21 HEP grants, totalling $7,000,000.00
- 
-                           Amount ($)
-Institution                          
-University of Oklahoma        3204000
-UNIVERSITY OF OKLAHOMA        1737000
-Oklahoma State University     1467000
-OKLAHOMA STATE UNIVERSITY      592000
-LANGSTON UNIVERSITY                 0
+21 HEP grants, totalling <b> $7,000,000</b>
 ```
-## SC Contracts
+Institution                  Amount ($)
+-------------------------  ------------
+University of Oklahoma        3,204,000
+UNIVERSITY OF OKLAHOMA        1,737,000
+Oklahoma State University     1,467,000
+OKLAHOMA STATE UNIVERSITY       592,000
+LANGSTON UNIVERSITY                   0
 ```
+### SC Contracts
 In the past 8 years, this state has received:
-4 Office of Science contracts, totalling $19,893.00
- 
-                                           Amount ($)
-Vendor                               Year            
-SOCIETY OF EXPLORATION GEOPHYSICISTS 2013        4158
-                                     2014        4425
-                                     2015        5518
-                                     2016        5792
+4 Office of Science contracts, totalling <b> $19,895</b>
+```
+  Year  Vendor                                  Amount ($)  Item
+------  ------------------------------------  ------------  --------------------------
+  2016  SOCIETY OF EXPLORATION GEOPHYSICISTS         5,792  NEWSPAPERS AND PERIODICALS
+  2015  SOCIETY OF EXPLORATION GEOPHYSICISTS         5,519  NEWSPAPERS AND PERIODICALS
+  2014  SOCIETY OF EXPLORATION GEOPHYSICISTS         4,425  NEWSPAPERS AND PERIODICALS
+  2013  SOCIETY OF EXPLORATION GEOPHYSICISTS         4,159  NEWSPAPERS AND PERIODICALS
 ```
 ## NSF MPS Grants
-```
 In the past 8 years, this state has received:
-150 NSF MPS grants, totalling $20,625,363.00
- 
-                                          Amount ($)
-Institution                                         
-UNIVERSITY OF OKLAHOMA                      12183189
-OKLAHOMA STATE UNIVERSITY                    7243082
-UNIVERSITY OF TULSA, THE                      937163
-UNIVERSITY OF TULSA                            90000
-ROGERS STATE UNIVERSITY FOUNDATION, INC.       74591
-TULSA COMMUNITY COLLEGE                        67380
-U OF OKLAHOMA                                  29958
+138 NSF MPS grants, totalling <b> $21,797,517</b>
+```
+Institution                                 Amount ($)
+----------------------------------------  ------------
+UNIVERSITY OF OKLAHOMA                      12,687,318
+OKLAHOMA STATE UNIVERSITY                    7,911,107
+UNIVERSITY OF TULSA, THE                       937,163
+UNIVERSITY OF TULSA                             90,000
+ROGERS STATE UNIVERSITY FOUNDATION, INC.        74,591
+TULSA COMMUNITY COLLEGE                         67,380
+U OF OKLAHOMA                                   29,958
 ```
 ---
 ---
@@ -68,27 +65,28 @@ Kevin Hern is not on any of our key committees
 This district received no SC HEP grants from 2012-2019
 ```
 ### SC Contracts
+In the past 8 years, this district has received:
+4 Office of Science contracts, totalling <b> $19,895</b>
 ```
-In the past 8 years, this district has received: $19,893.00 in SC contracts.
-                                           Amount ($)
-Vendor                               Year            
-SOCIETY OF EXPLORATION GEOPHYSICISTS 2013        4158
-                                     2014        4425
-                                     2015        5518
-                                     2016        5792
+  Year  Vendor                                  Amount ($)  Item
+------  ------------------------------------  ------------  --------------------------
+  2016  SOCIETY OF EXPLORATION GEOPHYSICISTS         5,792  NEWSPAPERS AND PERIODICALS
+  2015  SOCIETY OF EXPLORATION GEOPHYSICISTS         5,519  NEWSPAPERS AND PERIODICALS
+  2014  SOCIETY OF EXPLORATION GEOPHYSICISTS         4,425  NEWSPAPERS AND PERIODICALS
+  2013  SOCIETY OF EXPLORATION GEOPHYSICISTS         4,159  NEWSPAPERS AND PERIODICALS
 ```
 ### NSF MPS Grants
+In the past 8 years, this district has received:<b> $1,094,543 </b>in NSF MPS grants.
 ```
-In the past 8 years, this district has received: $1,094,543.00 in NSF MPS grants.
-                               Amount ($)
-Institution              Year            
-TULSA COMMUNITY COLLEGE  2012       67380
-UNIVERSITY OF TULSA      2015       90000
-UNIVERSITY OF TULSA, THE 2012      110000
-                         2013       90000
-                         2014       90000
-                         2015      137348
-                         2018      509815
+  Year  Institution                 Amount ($)
+------  ------------------------  ------------
+  2018  UNIVERSITY OF TULSA, THE       509,815
+  2015  UNIVERSITY OF TULSA             90,000
+  2015  UNIVERSITY OF TULSA, THE       137,348
+  2014  UNIVERSITY OF TULSA, THE        90,000
+  2013  UNIVERSITY OF TULSA, THE        90,000
+  2012  TULSA COMMUNITY COLLEGE         67,380
+  2012  UNIVERSITY OF TULSA, THE       110,000
 ```
 ---
 <a name="OK-02"></a>
@@ -106,11 +104,11 @@ This district received no SC HEP grants from 2012-2019
 This district received no SC contracts from 2012-2019
 ```
 ### NSF MPS Grants
+In the past 8 years, this district has received:<b> $74,591 </b>in NSF MPS grants.
 ```
-In the past 8 years, this district has received: $74,591.00 in NSF MPS grants.
-                                               Amount ($)
-Institution                              Year            
-ROGERS STATE UNIVERSITY FOUNDATION, INC. 2013       74591
+  Year  Institution                                 Amount ($)
+------  ----------------------------------------  ------------
+  2013  ROGERS STATE UNIVERSITY FOUNDATION, INC.        74,591
 ```
 ---
 <a name="OK-03"></a>
@@ -120,34 +118,34 @@ ROGERS STATE UNIVERSITY FOUNDATION, INC. 2013       74591
 Frank D. Lucas is the #1 Republican on the House Committee on Science, Space, and Technology 
 
 ### HEP Grants
+In the past 8 years, this district has received:<b> $2,059,000 </b>in SC HEP grants.
 ```
-In the past 8 years, this district has received: $2,059,000.00 in SC HEP grants.
-                                Amount ($)
-Institution               Year            
-LANGSTON UNIVERSITY       2012           0
-OKLAHOMA STATE UNIVERSITY 2012      317000
-                          2013      275000
-Oklahoma State University 2015      271000
-                          2016      355000
-                          2017      419000
-                          2018      422000
+Institution                  Amount ($)    Start  End      Principal Investigator    Project Title
+-------------------------  ------------  -------  -------  ------------------------  --------------------------------------------------------------------------------------
+Oklahoma State University       961,000     2016  Ongoing  Nandi, Satyanarayan       Theoretical and Experimetal Research in Weak, Electromagnetic and Strong Interactions
+Oklahoma State University       506,000     2015  2017     Nandi, Satyanarayan       Theoretical And Experimental Research In Weak, Electromagnetic And Strong Interactions
+OKLAHOMA STATE UNIVERSITY         8,000     2013  2014     Babu                      International Symposium on Opportunities in Underground Physics, May 24-27, 2013
+OKLAHOMA STATE UNIVERSITY       267,000     2013  2014     Nandi                     Theoretical and Experimental Research in Weak, Electromagnetic and Strong Interactions
+LANGSTON UNIVERSITY                   0     2012  2013     Snow                      Langston University - High Energy Physics (LU-HEP)
+OKLAHOMA STATE UNIVERSITY        18,000     2012  2014     Khanov                    Search for New Physics with Top and Bottom Quarks with ATLAS
+OKLAHOMA STATE UNIVERSITY       299,000     2012  2013     Nandi                     Theoretical Research in Weak, Electromagnetic, and Strong Interactions
 ```
 ### SC Contracts
 ```
 This district received no SC contracts from 2012-2019
 ```
 ### NSF MPS Grants
+In the past 8 years, this district has received:<b> $7,911,107 </b>in NSF MPS grants.
 ```
-In the past 8 years, this district has received: $7,243,082.00 in NSF MPS grants.
-                                Amount ($)
-Institution               Year            
-OKLAHOMA STATE UNIVERSITY 2012     1080354
-                          2013      998396
-                          2014      931543
-                          2015      686158
-                          2016     1650279
-                          2017      693077
-                          2018     1203275
+  Year  Institution                  Amount ($)
+------  -------------------------  ------------
+  2018  OKLAHOMA STATE UNIVERSITY     1,203,275
+  2017  OKLAHOMA STATE UNIVERSITY       693,077
+  2016  OKLAHOMA STATE UNIVERSITY     1,752,536
+  2015  OKLAHOMA STATE UNIVERSITY     1,096,746
+  2014  OKLAHOMA STATE UNIVERSITY     1,086,723
+  2013  OKLAHOMA STATE UNIVERSITY       998,396
+  2012  OKLAHOMA STATE UNIVERSITY     1,080,354
 ```
 ---
 <a name="OK-04"></a>
@@ -157,36 +155,34 @@ OKLAHOMA STATE UNIVERSITY 2012     1080354
 Tom Cole is the #7 Republican on the House Committee on Appropriations 
 
 ### HEP Grants
+In the past 8 years, this district has received:<b> $4,941,000 </b>in SC HEP grants.
 ```
-In the past 8 years, this district has received: $4,941,000.00 in SC HEP grants.
-                             Amount ($)
-Institution            Year            
-UNIVERSITY OF OKLAHOMA 2012      907000
-                       2013      830000
-University of Oklahoma 2014      785000
-                       2015      781000
-                       2016      590000
-                       2017      545000
-                       2018      503000
+Institution               Amount ($)    Start  End      Principal Investigator    Project Title
+----------------------  ------------  -------  -------  ------------------------  ----------------------------------------------------------------------------------------------------------------------------------------------------------------
+University of Oklahoma        80,000     2016  2017     Baer, Howard              OU HEP theory group: From Colliders to Cosmology in the LHC Era
+University of Oklahoma     3,124,000     2014  Ongoing  Skubic, Patrick           Experimental Physics Investigations using the ATLAS Detector at the LHC and From Colliders to Cosmology in the LHC Era
+UNIVERSITY OF OKLAHOMA       830,000     2013  2014     Skubic                    Experimental Physics Investigations using Colliding Beam Detectors; Nonperturbative Quantum Field Theory, Particle Physics Beyond the Standard Model And Theoret
+UNIVERSITY OF OKLAHOMA             0     2012  2013     Baron                     Spectroscopic Studies of SNe Ia: Finding the Right Model
+UNIVERSITY OF OKLAHOMA       907,000     2012  2013     Skubic, Milton            Experimental Physics Investigations Using Colliding Beam Detectors at Fermilab, Cornell & LHC; Nonperturbative Quantum Field Theory Beyond the...
 ```
 ### SC Contracts
 ```
 This district received no SC contracts from 2012-2019
 ```
 ### NSF MPS Grants
+In the past 8 years, this district has received:<b> $12,717,276 </b>in NSF MPS grants.
 ```
-In the past 8 years, this district has received: $12,213,147.00 in NSF MPS grants.
-                             Amount ($)
-Institution            Year            
-U OF OKLAHOMA          2015       29958
-UNIVERSITY OF OKLAHOMA 2012     2657662
-                       2013     1674525
-                       2014     1485539
-                       2015     -352340
-                       2016     2724226
-                       2017     1771478
-                       2018     1733810
-                       2019      488289
+  Year  Institution               Amount ($)
+------  ----------------------  ------------
+  2019  UNIVERSITY OF OKLAHOMA       521,258
+  2018  UNIVERSITY OF OKLAHOMA     1,733,810
+  2017  UNIVERSITY OF OKLAHOMA     1,771,478
+  2016  UNIVERSITY OF OKLAHOMA     2,724,226
+  2015  U OF OKLAHOMA                 29,958
+  2015  UNIVERSITY OF OKLAHOMA        92,400
+  2014  UNIVERSITY OF OKLAHOMA     1,485,539
+  2013  UNIVERSITY OF OKLAHOMA     1,700,945
+  2012  UNIVERSITY OF OKLAHOMA     2,657,662
 ```
 ---
 <a name="OK-05"></a>

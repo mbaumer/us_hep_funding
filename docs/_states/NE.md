@@ -16,31 +16,29 @@ Deb Fischer is the #5 Republican on the Senate Committee on Commerce, Science, a
 Ben Sasse is not on any of our key committees 
 
 ## HEP Grants
-```
 In the past 8 years, this state has received:
-1 HEP grants, totalling $432,000.00
- 
-                                       Amount ($)
-Institution                      Year            
-University of Nebraska - Lincoln 2018      432000
+1 HEP grants, totalling <b> $432,000</b>
 ```
-## SC Contracts
+  Year  Institution                         Amount ($)
+------  --------------------------------  ------------
+  2018  University of Nebraska - Lincoln       432,000
+```
+### SC Contracts
 ```
 This state received no SC contracts from 2012-2019
 ```
 ## NSF MPS Grants
-```
 In the past 8 years, this state has received:
-170 NSF MPS grants, totalling $48,415,688.00
- 
-                                                Amount ($)
-Institution                                               
-BOARD OF REGENTS OF THE UNIVERSITY OF NEBRASK     19566763
-UNIVERSITY OF NEBRASKA                            12617930
-BOARD OF REGENTS OF THE UNIVERSITY OF NEBRASKA    11619925
-U OF NEBRASKA-LINCOLN                              4413570
-DOANE COLLEGE                                       105000
-CREIGHTON UNIVERSITY                                 92500
+155 NSF MPS grants, totalling <b> $49,099,451</b>
+```
+Institution                                       Amount ($)
+----------------------------------------------  ------------
+BOARD OF REGENTS OF THE UNIVERSITY OF NEBRASK     19,671,118
+UNIVERSITY OF NEBRASKA                            12,617,930
+BOARD OF REGENTS OF THE UNIVERSITY OF NEBRASKA    12,105,261
+U OF NEBRASKA-LINCOLN                              4,507,642
+DOANE COLLEGE                                        105,000
+CREIGHTON UNIVERSITY                                  92,500
 ```
 ---
 ---
@@ -51,32 +49,31 @@ CREIGHTON UNIVERSITY                                 92500
 Jeff Fortenberry is the #11 Republican on the House Committee on Appropriations 
 
 ### HEP Grants
+In the past 8 years, this district has received:<b> $432,000 </b>in SC HEP grants.
 ```
-In the past 8 years, this district has received: $432,000.00 in SC HEP grants.
-                                       Amount ($)
-Institution                      Year            
-University of Nebraska - Lincoln 2018      432000
+Institution                         Amount ($)    Start  End      Principal Investigator    Project Title
+--------------------------------  ------------  -------  -------  ------------------------  ------------------------------------------------------------------------------------------
+University of Nebraska - Lincoln       432,000     2018  Ongoing  Umstadter, Donald         Controlled Injection of Electrons for Improved Performance of Laser-Wakefield Acceleration
 ```
 ### SC Contracts
 ```
 This district received no SC contracts from 2012-2019
 ```
 ### NSF MPS Grants
+In the past 8 years, this district has received:<b> $48,901,951 </b>in NSF MPS grants.
 ```
-In the past 8 years, this district has received: $48,218,188.00 in NSF MPS grants.
-                                                     Amount ($)
-Institution                                    Year            
-BOARD OF REGENTS OF THE UNIVERSITY OF NEBRASK  2014     8129985
-                                               2015     7154675
-                                               2016     4282103
-BOARD OF REGENTS OF THE UNIVERSITY OF NEBRASKA 2017     6036481
-                                               2018     6068780
-                                               2019     -485336
-U OF NEBRASKA-LINCOLN                          2015     4413570
-UNIVERSITY OF NEBRASKA                         2012     4612438
-                                               2013     3944187
-                                               2014      146599
-                                               2016     3914706
+  Year  Institution                                       Amount ($)
+------  ----------------------------------------------  ------------
+  2018  BOARD OF REGENTS OF THE UNIVERSITY OF NEBRASKA     6,068,780
+  2017  BOARD OF REGENTS OF THE UNIVERSITY OF NEBRASKA     6,036,481
+  2016  BOARD OF REGENTS OF THE UNIVERSITY OF NEBRASK      4,386,458
+  2016  UNIVERSITY OF NEBRASKA                             3,914,706
+  2015  BOARD OF REGENTS OF THE UNIVERSITY OF NEBRASK      7,154,675
+  2015  U OF NEBRASKA-LINCOLN                              4,507,642
+  2014  BOARD OF REGENTS OF THE UNIVERSITY OF NEBRASK      8,129,985
+  2014  UNIVERSITY OF NEBRASKA                               146,599
+  2013  UNIVERSITY OF NEBRASKA                             3,944,187
+  2012  UNIVERSITY OF NEBRASKA                             4,612,438
 ```
 ---
 <a name="NE-02"></a>
@@ -94,11 +91,11 @@ This district received no SC HEP grants from 2012-2019
 This district received no SC contracts from 2012-2019
 ```
 ### NSF MPS Grants
+In the past 8 years, this district has received:<b> $92,500 </b>in NSF MPS grants.
 ```
-In the past 8 years, this district has received: $92,500.00 in NSF MPS grants.
-                           Amount ($)
-Institution          Year            
-CREIGHTON UNIVERSITY 2012       92500
+  Year  Institution             Amount ($)
+------  --------------------  ------------
+  2012  CREIGHTON UNIVERSITY        92,500
 ```
 ---
 <a name="NE-03"></a>
@@ -116,10 +113,10 @@ This district received no SC HEP grants from 2012-2019
 This district received no SC contracts from 2012-2019
 ```
 ### NSF MPS Grants
+In the past 8 years, this district has received:<b> $105,000 </b>in NSF MPS grants.
 ```
-In the past 8 years, this district has received: $105,000.00 in NSF MPS grants.
-                    Amount ($)
-Institution   Year            
-DOANE COLLEGE 2012      105000
+  Year  Institution      Amount ($)
+------  -------------  ------------
+  2012  DOANE COLLEGE       105,000
 ```
 ---

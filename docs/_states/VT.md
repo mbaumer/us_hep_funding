@@ -25,22 +25,21 @@ Patrick J. Leahy is the #9 Democrat on the Senate Appropriations Subcommittee on
 ```
 This state received no SC HEP grants from 2012-2019
 ```
-## SC Contracts
+### SC Contracts
 ```
 This state received no SC contracts from 2012-2019
 ```
 ## NSF MPS Grants
-```
 In the past 8 years, this state has received:
-62 NSF MPS grants, totalling $10,160,059.00
- 
-                                                    Amount ($)
-Institution                                                   
-UNIVERSITY OF VERMONT & STATE AGRICULTURAL CO          5267682
-UNIVERSITY OF VERMONT & STATE AGRICULTURAL COLLEGE     3390125
-PRESIDENT AND FELLOWS OF MIDDLEBURY COLLEGE            1244481
-SAINT MICHAEL'S COLLEGE, INC.                           182771
-U OF VERMONT & ST AGR COLL                               75000
+60 NSF MPS grants, totalling <b> $10,242,268</b>
+```
+Institution                                           Amount ($)
+--------------------------------------------------  ------------
+UNIVERSITY OF VERMONT & STATE AGRICULTURAL CO          5,349,891
+UNIVERSITY OF VERMONT & STATE AGRICULTURAL COLLEGE     3,390,125
+PRESIDENT AND FELLOWS OF MIDDLEBURY COLLEGE            1,244,481
+SAINT MICHAEL'S COLLEGE, INC.                            182,771
+U OF VERMONT & ST AGR COLL                                75,000
 ```
 ---
 ---
@@ -59,26 +58,26 @@ This district received no SC HEP grants from 2012-2019
 This district received no SC contracts from 2012-2019
 ```
 ### NSF MPS Grants
+In the past 8 years, this district has received:<b> $10,242,268 </b>in NSF MPS grants.
 ```
-In the past 8 years, this district has received: $10,160,059.00 in NSF MPS grants.
-                                                         Amount ($)
-Institution                                        Year            
-PRESIDENT AND FELLOWS OF MIDDLEBURY COLLEGE        2012      283513
-                                                   2013      277590
-                                                   2015      241418
-                                                   2016      180000
-                                                   2017       64760
-                                                   2018      197200
-SAINT MICHAEL'S COLLEGE, INC.                      2015        1250
-                                                   2017       16771
-                                                   2018      164750
-U OF VERMONT & ST AGR COLL                         2015       75000
-UNIVERSITY OF VERMONT & STATE AGRICULTURAL CO      2012     1629793
-                                                   2013     1178383
-                                                   2014      700000
-                                                   2015      692380
-                                                   2016     1067126
-UNIVERSITY OF VERMONT & STATE AGRICULTURAL COLLEGE 2017     2006393
-                                                   2018     1383732
+  Year  Institution                                           Amount ($)
+------  --------------------------------------------------  ------------
+  2018  UNIVERSITY OF VERMONT & STATE AGRICULTURAL COLLEGE     1,383,732
+  2018  SAINT MICHAEL'S COLLEGE, INC.                            164,750
+  2018  PRESIDENT AND FELLOWS OF MIDDLEBURY COLLEGE              197,200
+  2017  UNIVERSITY OF VERMONT & STATE AGRICULTURAL COLLEGE     2,006,393
+  2017  SAINT MICHAEL'S COLLEGE, INC.                             16,771
+  2017  PRESIDENT AND FELLOWS OF MIDDLEBURY COLLEGE               64,760
+  2016  PRESIDENT AND FELLOWS OF MIDDLEBURY COLLEGE              180,000
+  2016  UNIVERSITY OF VERMONT & STATE AGRICULTURAL CO          1,067,126
+  2015  UNIVERSITY OF VERMONT & STATE AGRICULTURAL CO            692,380
+  2015  U OF VERMONT & ST AGR COLL                                75,000
+  2015  SAINT MICHAEL'S COLLEGE, INC.                              1,250
+  2015  PRESIDENT AND FELLOWS OF MIDDLEBURY COLLEGE              241,418
+  2014  UNIVERSITY OF VERMONT & STATE AGRICULTURAL CO            700,000
+  2013  UNIVERSITY OF VERMONT & STATE AGRICULTURAL CO          1,260,592
+  2013  PRESIDENT AND FELLOWS OF MIDDLEBURY COLLEGE              277,590
+  2012  UNIVERSITY OF VERMONT & STATE AGRICULTURAL CO          1,629,793
+  2012  PRESIDENT AND FELLOWS OF MIDDLEBURY COLLEGE              283,513
 ```
 ---

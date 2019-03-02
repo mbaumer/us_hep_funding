@@ -16,50 +16,45 @@ Todd Young is the #13 Republican on the Senate Committee on Commerce, Science, a
 Mike Braun is not on any of our key committees 
 
 ## HEP Grants
-```
 In the past 8 years, this state has received:
-36 HEP grants, totalling $22,853,000.00
- 
-                                 Amount ($)
-Institution                                
-Indiana University                  9972000
-Purdue University                   5045000
-INDIANA UNIVERSITY, BLOOMINGTON     3760000
-PURDUE UNIVERSITY                   3486000
-University of Notre Dame du Lac      300000
-University of Notre Dame             290000
-UNIVERSITY OF NOTRE DAME                  0
+36 HEP grants, totalling <b> $22,853,000</b>
 ```
-## SC Contracts
+Institution                        Amount ($)
+-------------------------------  ------------
+Indiana University                  9,972,000
+Purdue University                   5,045,000
+INDIANA UNIVERSITY, BLOOMINGTON     3,760,000
+PURDUE UNIVERSITY                   3,486,000
+University of Notre Dame du Lac       300,000
+University of Notre Dame              290,000
+UNIVERSITY OF NOTRE DAME                    0
 ```
-In the past 8 years, this state has received:
-21 Office of Science contracts, totalling $-251,255.00
- 
-                           Amount ($)
-Vendor               Year            
-GENERAL MOTORS CORP  2014     -251255
-GLOBAL ISOTOPES, LLC 2017           0
-                     2018           0
-                     2019           0
+### SC Contracts
+```
+This state received no SC contracts from 2012-2019
 ```
 ## NSF MPS Grants
-```
 In the past 8 years, this state has received:
-951 NSF MPS grants, totalling $178,439,943.00
- 
-                                            Amount ($)
-Institution                                           
-UNIVERSITY OF NOTRE DAME DU LAC               64556648
-PURDUE UNIVERSITY                             55288588
-TRUSTEES OF INDIANA UNIVERSITY                52638755
-UNIVERSITY OF NOTRE DAME                       1288820
-BALL STATE UNIVERSITY                          1145149
-LUTHERAN UNIVERSITY ASSOCIATION, INC., THE     1098167
-INDIANA UNIVERSITY                              734547
-BUTLER UNIVERSITY                               395432
-INDIANA WESLEYAN UNIVERSITY                     308507
-INDIANA STATE UNIVERSITY                        236926
-and  7  other institutions.
+902 NSF MPS grants, totalling <b> $182,976,615</b>
+```
+Institution                                   Amount ($)
+------------------------------------------  ------------
+UNIVERSITY OF NOTRE DAME DU LAC               65,676,207
+PURDUE UNIVERSITY                             56,730,496
+TRUSTEES OF INDIANA UNIVERSITY                54,110,935
+UNIVERSITY OF NOTRE DAME                       1,626,809
+BALL STATE UNIVERSITY                          1,145,149
+LUTHERAN UNIVERSITY ASSOCIATION, INC., THE     1,098,872
+INDIANA UNIVERSITY                               826,774
+BUTLER UNIVERSITY                                395,432
+INDIANA WESLEYAN UNIVERSITY                      375,437
+INDIANA STATE UNIVERSITY                         236,926
+WABASH COLLEGE                                   182,897
+PII REDACTED                                     150,000
+DEPAUW UNIVERSITY                                137,345
+REDACTED DUE TO PII                              100,000
+VALPARAISO UNIVERSITY                             93,336
+TAYLOR UNIVERSITY, INC.                           90,000
 ```
 ---
 ---
@@ -80,17 +75,17 @@ This district received no SC HEP grants from 2012-2019
 This district received no SC contracts from 2012-2019
 ```
 ### NSF MPS Grants
+In the past 8 years, this district has received:<b> $1,192,208 </b>in NSF MPS grants.
 ```
-In the past 8 years, this district has received: $1,191,503.00 in NSF MPS grants.
-                                                 Amount ($)
-Institution                                Year            
-LUTHERAN UNIVERSITY ASSOCIATION, INC., THE 2013      115750
-                                           2014      193725
-                                           2015      272653
-                                           2016      324999
-                                           2017       59295
-                                           2018      131745
-VALPARAISO UNIVERSITY                      2015       93336
+  Year  Institution                                   Amount ($)
+------  ------------------------------------------  ------------
+  2018  LUTHERAN UNIVERSITY ASSOCIATION, INC., THE       131,745
+  2017  LUTHERAN UNIVERSITY ASSOCIATION, INC., THE        60,000
+  2016  LUTHERAN UNIVERSITY ASSOCIATION, INC., THE       324,999
+  2015  LUTHERAN UNIVERSITY ASSOCIATION, INC., THE       272,653
+  2015  VALPARAISO UNIVERSITY                             93,336
+  2014  LUTHERAN UNIVERSITY ASSOCIATION, INC., THE       193,725
+  2013  LUTHERAN UNIVERSITY ASSOCIATION, INC., THE       115,750
 ```
 ---
 <a name="IN-02"></a>
@@ -100,34 +95,33 @@ VALPARAISO UNIVERSITY                      2015       93336
 Jackie Walorski is not on any of our key committees 
 
 ### HEP Grants
+In the past 8 years, this district has received:<b> $590,000 </b>in SC HEP grants.
 ```
-In the past 8 years, this district has received: $590,000.00 in SC HEP grants.
-                                      Amount ($)
-Institution                     Year            
-UNIVERSITY OF NOTRE DAME        2012           0
-University of Notre Dame        2017      290000
-University of Notre Dame du Lac 2018      300000
+Institution                        Amount ($)    Start  End      Principal Investigator    Project Title
+-------------------------------  ------------  -------  -------  ------------------------  -----------------------------------------------------------------------------------------------------------------------
+University of Notre Dame du Lac       300,000     2018  Ongoing  Wayne, Mitchell           AS-PHYS Development of Advanced, Radiation Resistant, Optical-based Detector Technology for Future HEP Experiments
+University of Notre Dame              290,000     2017  2018     Wayne, Mitchell           AS-PHYS Development of Advanced, Radiation Resistant, Optical-based Detector Technology for Future HEP Experiments
+UNIVERSITY OF NOTRE DAME                    0     2012  2013     Losecco                   Research in CP Violation in the B Meson Sector & OJI Task-Optimizing Higgs Discovery Prospects at the Fermilab Tevatron
 ```
 ### SC Contracts
 ```
 This district received no SC contracts from 2012-2019
 ```
 ### NSF MPS Grants
+In the past 8 years, this district has received:<b> $67,453,016 </b>in NSF MPS grants.
 ```
-In the past 8 years, this district has received: $65,990,294.00 in NSF MPS grants.
-                                      Amount ($)
-Institution                     Year            
-MULTIPLE RECIPIENTS             2014       -5174
-PII REDACTED                    2017      150000
-UNIVERSITY OF NOTRE DAME        2015     1288820
-UNIVERSITY OF NOTRE DAME DU LAC 2012    13753560
-                                2013    10928094
-                                2014     8712095
-                                2015     3828271
-                                2016     6558838
-                                2017    11567012
-                                2018     9650263
-                                2019     -441485
+  Year  Institution                        Amount ($)
+------  -------------------------------  ------------
+  2019  UNIVERSITY OF NOTRE DAME DU LAC        60,204
+  2018  UNIVERSITY OF NOTRE DAME DU LAC     9,951,821
+  2017  PII REDACTED                          150,000
+  2017  UNIVERSITY OF NOTRE DAME DU LAC    11,567,012
+  2016  UNIVERSITY OF NOTRE DAME DU LAC     6,875,150
+  2015  UNIVERSITY OF NOTRE DAME            1,626,809
+  2015  UNIVERSITY OF NOTRE DAME DU LAC     3,828,271
+  2014  UNIVERSITY OF NOTRE DAME DU LAC     8,712,095
+  2013  UNIVERSITY OF NOTRE DAME DU LAC    10,928,094
+  2012  UNIVERSITY OF NOTRE DAME DU LAC    13,753,560
 ```
 ---
 <a name="IN-03"></a>
@@ -156,41 +150,44 @@ This district received no NSF MPS grants from 2012-2019
 James R. Baird is the #15 Republican on the House Committee on Science, Space, and Technology 
 
 ### HEP Grants
+In the past 8 years, this district has received:<b> $8,531,000 </b>in SC HEP grants.
 ```
-In the past 8 years, this district has received: $8,531,000.00 in SC HEP grants.
-                        Amount ($)
-Institution       Year            
-PURDUE UNIVERSITY 2012     1669000
-                  2013     1817000
-Purdue University 2014     1540000
-                  2015      832000
-                  2016      685000
-                  2017      570000
-                  2018     1418000
+Institution          Amount ($)    Start  End      Principal Investigator    Project Title
+-----------------  ------------  -------  -------  ------------------------  -------------------------------------------------------------------------------------------------------------------------
+Purdue University       330,000     2018  Ongoing  Kruczenski, Luis Martin   Quantum Information in a strongly interacting quantum simulator: from gauge/string theory duality to analogue black holes
+Purdue University       250,000     2018  Ongoing  Lang, Rafael              UA'(1): The search for low-mass dark matter in liquid xenon
+Purdue University        40,000     2017  2018     Jung, Andreas             Development of a Lightweight Silicon Pixel Detector for CMS to Search for New Physics in the Top Quark Sector
+Purdue University     1,963,000     2016  Ongoing  Neumeister, Norbert       An Experimental and Theoretical High Energy Physics Program
+Purdue University        90,000     2016  2018     Peterson, John            Dark Energy Studies with LSST using the Photon Simulator
+Purdue University     2,171,000     2014  2016     Finley, John              An Experimental and Theoretical High Energy Physics Program
+Purdue University       201,000     2014  2016     Peterson, John            Dark Energy Studies with LSST Image Simulations
+PURDUE UNIVERSITY     1,744,000     2013  2014     Finley                    An Experimental and Theoretical High Energy Physics Program
+PURDUE UNIVERSITY        73,000     2013  2014     Peterson                  Dark Energy Studies with LSST Image Simulations
+PURDUE UNIVERSITY     1,669,000     2012  2013     Shipsey                   An Experimental and Theoretical High Energy Physics Program
 ```
 ### SC Contracts
 ```
 This district received no SC contracts from 2012-2019
 ```
 ### NSF MPS Grants
+In the past 8 years, this district has received:<b> $57,003,393 </b>in NSF MPS grants.
 ```
-In the past 8 years, this district has received: $55,561,485.00 in NSF MPS grants.
-                        Amount ($)
-Institution       Year            
-DEPAUW UNIVERSITY 2013       30000
-                  2017       30000
-                  2018       30000
-PURDUE UNIVERSITY 2012     8823261
-                  2013     7165782
-                  2014     4822847
-                  2015     6860296
-                  2016     8683577
-                  2017     8782206
-                  2018     9952439
-                  2019      198180
-WABASH COLLEGE    2012      112897
-                  2017       35000
-                  2018       35000
+  Year  Institution          Amount ($)
+------  -----------------  ------------
+  2019  PURDUE UNIVERSITY       198,180
+  2018  DEPAUW UNIVERSITY        30,000
+  2018  PURDUE UNIVERSITY    10,049,701
+  2018  WABASH COLLEGE           35,000
+  2017  DEPAUW UNIVERSITY        30,000
+  2017  PURDUE UNIVERSITY     8,837,715
+  2017  WABASH COLLEGE           35,000
+  2016  PURDUE UNIVERSITY     9,150,972
+  2015  PURDUE UNIVERSITY     7,140,211
+  2014  PURDUE UNIVERSITY     5,122,847
+  2013  DEPAUW UNIVERSITY        30,000
+  2013  PURDUE UNIVERSITY     7,187,369
+  2012  PURDUE UNIVERSITY     9,043,501
+  2012  WABASH COLLEGE          112,897
 ```
 ---
 <a name="IN-05"></a>
@@ -205,24 +202,18 @@ This district received no SC HEP grants from 2012-2019
 ```
 ### SC Contracts
 ```
-In the past 8 years, this district has received: $0.00 in SC contracts.
-                           Amount ($)
-Vendor               Year            
-GLOBAL ISOTOPES, LLC 2017           0
-                     2018           0
-                     2019           0
+This district received no SC contracts from 2012-2019
 ```
 ### NSF MPS Grants
+In the past 8 years, this district has received:<b> $465,437 </b>in NSF MPS grants.
 ```
-In the past 8 years, this district has received: $398,507.00 in NSF MPS grants.
-                                  Amount ($)
-Institution                 Year            
-INDIANA WESLEYAN UNIVERSITY 2012      130000
-                            2013       50000
-                            2014       50000
-                            2015      -66930
-                            2017      145437
-TAYLOR UNIVERSITY, INC.     2012       90000
+  Year  Institution                    Amount ($)
+------  ---------------------------  ------------
+  2017  INDIANA WESLEYAN UNIVERSITY       145,437
+  2014  INDIANA WESLEYAN UNIVERSITY        50,000
+  2013  INDIANA WESLEYAN UNIVERSITY        50,000
+  2012  INDIANA WESLEYAN UNIVERSITY       130,000
+  2012  TAYLOR UNIVERSITY, INC.            90,000
 ```
 ---
 <a name="IN-06"></a>
@@ -240,14 +231,14 @@ This district received no SC HEP grants from 2012-2019
 This district received no SC contracts from 2012-2019
 ```
 ### NSF MPS Grants
+In the past 8 years, this district has received:<b> $1,145,149 </b>in NSF MPS grants.
 ```
-In the past 8 years, this district has received: $1,145,149.00 in NSF MPS grants.
-                            Amount ($)
-Institution           Year            
-BALL STATE UNIVERSITY 2015      196968
-                      2016      295604
-                      2017      104718
-                      2018      547859
+  Year  Institution              Amount ($)
+------  ---------------------  ------------
+  2018  BALL STATE UNIVERSITY       547,859
+  2017  BALL STATE UNIVERSITY       104,718
+  2016  BALL STATE UNIVERSITY       295,604
+  2015  BALL STATE UNIVERSITY       196,968
 ```
 ---
 <a name="IN-07"></a>
@@ -262,19 +253,16 @@ This district received no SC HEP grants from 2012-2019
 ```
 ### SC Contracts
 ```
-In the past 8 years, this district has received: $-251,255.00 in SC contracts.
-                          Amount ($)
-Vendor              Year            
-GENERAL MOTORS CORP 2014     -251255
+This district received no SC contracts from 2012-2019
 ```
 ### NSF MPS Grants
+In the past 8 years, this district has received:<b> $395,432 </b>in NSF MPS grants.
 ```
-In the past 8 years, this district has received: $395,432.00 in NSF MPS grants.
-                        Amount ($)
-Institution       Year            
-BUTLER UNIVERSITY 2012      138131
-                  2016       15000
-                  2018      242301
+  Year  Institution          Amount ($)
+------  -----------------  ------------
+  2018  BUTLER UNIVERSITY       242,301
+  2016  BUTLER UNIVERSITY        15,000
+  2012  BUTLER UNIVERSITY       138,131
 ```
 ---
 <a name="IN-08"></a>
@@ -292,12 +280,12 @@ This district received no SC HEP grants from 2012-2019
 This district received no SC contracts from 2012-2019
 ```
 ### NSF MPS Grants
+In the past 8 years, this district has received:<b> $284,271 </b>in NSF MPS grants.
 ```
-In the past 8 years, this district has received: $284,271.00 in NSF MPS grants.
-                               Amount ($)
-Institution              Year            
-DEPAUW UNIVERSITY        2012       47345
-INDIANA STATE UNIVERSITY 2015      236926
+  Year  Institution                 Amount ($)
+------  ------------------------  ------------
+  2015  INDIANA STATE UNIVERSITY       236,926
+  2012  DEPAUW UNIVERSITY               47,345
 ```
 ---
 <a name="IN-09"></a>
@@ -307,36 +295,37 @@ INDIANA STATE UNIVERSITY 2015      236926
 Trey Hollingsworth is not on any of our key committees 
 
 ### HEP Grants
+In the past 8 years, this district has received:<b> $13,732,000 </b>in SC HEP grants.
 ```
-In the past 8 years, this district has received: $13,732,000.00 in SC HEP grants.
-                                      Amount ($)
-Institution                     Year            
-INDIANA UNIVERSITY, BLOOMINGTON 2012     1545000
-                                2013     2215000
-Indiana University              2014     1838000
-                                2015     3224000
-                                2016     1605000
-                                2017     1640000
-                                2018     1665000
+Institution                        Amount ($)    Start  End      Principal Investigator                      Project Title
+-------------------------------  ------------  -------  -------  ------------------------------------------  ---------------------------------------------------------------------------------------------------------------------
+Indiana University                  9,712,000     2014  Ongoing  Evans, Harold                               Theoretical and Experimental Studies of Elementary Particle Physics
+Indiana University                    260,000     2014  2016     Lee, Shyh Yuan                              Bean Manipulation Techniques, Nonlinear Beam Dynamics, and Space Charge Effect in High Energy High Power Accelerators
+INDIANA UNIVERSITY, BLOOMINGTON     1,461,000     2013  2014     Evans                                       Theoretical and Experimental Studies of Elementary Particle Physics
+INDIANA UNIVERSITY, BLOOMINGTON     1,784,000     2012  2014     Evans, Dermisek, Kostelecky, Musser, Ogren  High Energy Physics
+INDIANA UNIVERSITY, BLOOMINGTON             0     2012  2013     Gottlieb                                    SciDAC:  National Computational Infrastructure for Lattice Gauge Theory
+INDIANA UNIVERSITY, BLOOMINGTON        55,000     2012  2013     Lammers                                     Vector and Scalar Bosons at DZero and ATLAS
+INDIANA UNIVERSITY, BLOOMINGTON       460,000     2012  2014     Lee                                         Bean Manipulation Techniques, Nonlinear Beam Dynamics, and Space Charge Effect in High Energy High Power Accelerators
+INDIANA UNIVERSITY, BLOOMINGTON             0     2012  2013     Lee                                         Physics of Beam Cooling, Space Charge Effects, and Beam Manipulation Technologies in High Energy Accelerators
 ```
 ### SC Contracts
 ```
 This district received no SC contracts from 2012-2019
 ```
 ### NSF MPS Grants
+In the past 8 years, this district has received:<b> $55,037,709 </b>in NSF MPS grants.
 ```
-In the past 8 years, this district has received: $53,473,302.00 in NSF MPS grants.
-                                     Amount ($)
-Institution                    Year            
-INDIANA UNIVERSITY             2015      734547
-REDACTED DUE TO PII            2018      100000
-TRUSTEES OF INDIANA UNIVERSITY 2012     7684934
-                               2013     7468165
-                               2014     5169712
-                               2015     5875345
-                               2016     6763230
-                               2017     8406900
-                               2018    11279256
-                               2019       -8787
+  Year  Institution                       Amount ($)
+------  ------------------------------  ------------
+  2019  TRUSTEES OF INDIANA UNIVERSITY       188,556
+  2018  REDACTED DUE TO PII                  100,000
+  2018  TRUSTEES OF INDIANA UNIVERSITY    11,407,415
+  2017  TRUSTEES OF INDIANA UNIVERSITY     8,623,434
+  2016  TRUSTEES OF INDIANA UNIVERSITY     7,163,230
+  2015  INDIANA UNIVERSITY                   826,774
+  2015  TRUSTEES OF INDIANA UNIVERSITY     5,978,476
+  2014  TRUSTEES OF INDIANA UNIVERSITY     5,471,725
+  2013  TRUSTEES OF INDIANA UNIVERSITY     7,593,165
+  2012  TRUSTEES OF INDIANA UNIVERSITY     7,684,934
 ```
 ---

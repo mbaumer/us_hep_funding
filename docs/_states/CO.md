@@ -20,61 +20,68 @@ Cory Gardner is the #7 Republican on the Senate Committee on Energy and Natural 
 Cory Gardner is the #8 Republican on the Senate Committee on Commerce, Science, and Transportation 
 
 ## HEP Grants
-```
 In the past 8 years, this state has received:
-68 HEP grants, totalling $21,497,603.00
- 
-                                          Amount ($)
-Institution                                         
-University of Colorado - Boulder             6633603
-Colorado State University                    4999000
-UNIVERSITY OF COLORADO AT BOULDER            3769000
-COLORADO STATE UNIVERSITY                    2012000
-University of Colorado                       1695000
-University of Colorado - Denver              1690000
-Tech-X Corporation                            255000
-TECH-X CORPORATION                            225000
-NATIONAL INST  OF STANDARDS & TECHNOLOGY      182000
-ASPEN CENTER FOR PHYSICS                       25000
-and  1  other institutions.
+68 HEP grants, totalling <b> $21,497,603</b>
 ```
-## SC Contracts
+Institution                                 Amount ($)
+----------------------------------------  ------------
+University of Colorado - Boulder             6,633,603
+Colorado State University                    4,999,000
+UNIVERSITY OF COLORADO AT BOULDER            3,769,000
+COLORADO STATE UNIVERSITY                    2,012,000
+University of Colorado                       1,695,000
+University of Colorado - Denver              1,690,000
+Tech-X Corporation                             255,000
+TECH-X CORPORATION                             225,000
+NATIONAL INST  OF STANDARDS & TECHNOLOGY       182,000
+ASPEN CENTER FOR PHYSICS                        25,000
+Aspen Center for Physics                        12,000
 ```
+### SC Contracts
 In the past 8 years, this state has received:
-22 Office of Science contracts, totalling $153,887.00
- 
-                                         Amount ($)
-Vendor                                             
-ALLIANT CORPORATION                           40000
-SUMMIT TECHNICAL RESOURCES INCORPORATED       39805
-PREMISYS SUPPORT GROUP, INC.                  19296
-FOUR POINTS TECHNOLOGY, L.L.C.                12130
-VALIANT SOLUTIONS, LLC                        10099
-GENERAL DYNAMICS C4 SYSTEMS, INC.              9100
-DIGITAL DATA SERVICES INC                      6895
-MC2 ELECTRICAL CONTRACTORS LLC                 6533
-AGSI, LLC                                      5851
-MONO MACHINES LLC                              4875
-and  6  other firms.
+12 Office of Science contracts, totalling <b> $159,763</b>
+```
+Vendor                                     Amount ($)  Item
+---------------------------------------  ------------  ---------------------------------------------------------------------------------------------
+ALLIANT CORPORATION                            40,000  SPECIAL STUDIES/ANALYSIS- ENVIRONMENTAL ASSESSMENTS
+SUMMIT TECHNICAL RESOURCES INCORPORATED        39,805  SPECIAL STUDIES/ANALYSIS- ENVIRONMENTAL ASSESSMENTS
+PREMISYS SUPPORT GROUP, INC.                   14,492  INSTALLATION OF EQUIPMENT- ELECTRICAL AND ELECTRONIC EQUIPMENT COMPONENTS
+FOUR POINTS TECHNOLOGY, L.L.C.                 12,130  RADIO AND TELEVISION COMMUNICATION EQUIPMENT, EXCEPT AIRBORNE
+VALIANT SOLUTIONS, LLC                         10,099  ADP COMPONENTS
+GENERAL DYNAMICS C4 SYSTEMS, INC.               9,100  COMMUNICATIONS SECURITY EQUIPMENT AND COMPONENTS
+DIGITAL DATA SERVICES INC                       6,895  ADPE SYSTEM CONFIGURATION
+MC2 ELECTRICAL CONTRACTORS LLC                  6,533  ELECTRICAL CONTROL EQUIPMENT
+AGSI, LLC                                       5,852  ADP CENTRAL PROCESSING UNIT (CPU, COMPUTER), DIGITAL
+PREMISYS SUPPORT GROUP, INC.                    5,414  MAINT/REPAIR/REBUILD OF EQUIPMENT- COMMUNICATION, DETECTION, AND COHERENT RADIATION EQUIPMENT
+MONO MACHINES LLC                               4,875  MISCELLANEOUS OFFICE MACHINES
+IMAGING SYSTEMS LLC                             4,568  OFFICE SUPPLIES
 ```
 ## NSF MPS Grants
-```
 In the past 8 years, this state has received:
-692 NSF MPS grants, totalling $171,420,298.00
- 
-                                            Amount ($)
-Institution                                           
-REGENTS OF THE UNIVERSITY OF COLORADO, THE   103750030
-COLORADO STATE UNIVERSITY                     29762283
-TRUSTEES OF THE COLORADO SCHOOL OF MINES      21299551
-COLORADO SEMINARY                              4807198
-U OF COLORADO BOULDER                          4696368
-ASPEN CENTER FOR PHYSICS                       3185000
-SPACE SCIENCE INSTITUTE                        1135305
-FORT LEWIS COLLEGE                              635000
-U OF COLORADO DENVER                            420000
-UNIVERSITY OF NORTHERN COLORADO                 413982
-and  10  other institutions.
+657 NSF MPS grants, totalling <b> $173,347,385</b>
+```
+Institution                                        Amount ($)
+-----------------------------------------------  ------------
+REGENTS OF THE UNIVERSITY OF COLORADO, THE        104,726,138
+COLORADO STATE UNIVERSITY                          30,029,407
+TRUSTEES OF THE COLORADO SCHOOL OF MINES           21,697,873
+COLORADO SEMINARY                                   4,807,198
+U OF COLORADO BOULDER                               4,696,368
+ASPEN CENTER FOR PHYSICS                            3,185,000
+SPACE SCIENCE INSTITUTE                             1,231,684
+FORT LEWIS COLLEGE                                    635,000
+UNIVERSITY OF NORTHERN COLORADO                       603,136
+U OF COLORADO DENVER                                  420,000
+REGIS UNIVERSITY                                      358,000
+COLORADO SCHOOL OF MINES                              350,000
+METROPOLITAN STATE UNIVERSITY OF DENVER               109,995
+REDACTED DUE TO PII                                   100,000
+PII REDACTED                                          100,000
+FRONT RANGE SCIENTIFIC COMPUTATION INC                 94,926
+UNIVERSITY CORPORATION FOR ATMOSPHERIC RESEAR          75,090
+UNIVERSITY CORPORATION FOR ATMOSPHERIC RESEARCH        62,500
+U OF NORTHERN COLORADO                                 50,000
+ROCKY MTN BIOL LAB                                     15,070
 ```
 ---
 ---
@@ -85,43 +92,43 @@ and  10  other institutions.
 Diana DeGette is the #5 Democrat on the House Committee on Energy and Commerce 
 
 ### HEP Grants
+In the past 8 years, this district has received:<b> $1,690,000 </b>in SC HEP grants.
 ```
-In the past 8 years, this district has received: $1,690,000.00 in SC HEP grants.
-                                      Amount ($)
-Institution                     Year            
-University of Colorado - Denver 2016     1690000
+Institution                        Amount ($)    Start    End  Principal Investigator    Project Title
+-------------------------------  ------------  -------  -----  ------------------------  ------------------------------------------------------------------------------
+University of Colorado - Denver       240,000     2016   2017  Cheggour, Najib           Electromechanical Studies of Superconductors for DOE/HEP Applications
+University of Colorado - Denver     1,450,000     2016   2017  Cumalat, John             Elementary Particle Physics and High Energy Phenomena
+University of Colorado - Denver             0     2016   2017  van der Laan, Daniel      Development of High-temperature Superconducting Cables for Accelerator Magnets
 ```
 ### SC Contracts
+In the past 8 years, this district has received:
+2 Office of Science contracts, totalling <b> $79,805</b>
 ```
-In the past 8 years, this district has received: $79,805.00 in SC contracts.
-                                              Amount ($)
-Vendor                                  Year            
-ALLIANT CORPORATION                     2013       40000
-                                        2014           0
-                                        2015           0
-SUMMIT TECHNICAL RESOURCES INCORPORATED 2013       39805
-                                        2014           0
+  Year  Vendor                                     Amount ($)  Item
+------  ---------------------------------------  ------------  ---------------------------------------------------
+  2013  ALLIANT CORPORATION                            40,000  SPECIAL STUDIES/ANALYSIS- ENVIRONMENTAL ASSESSMENTS
+  2013  SUMMIT TECHNICAL RESOURCES INCORPORATED        39,805  SPECIAL STUDIES/ANALYSIS- ENVIRONMENTAL ASSESSMENTS
 ```
 ### NSF MPS Grants
+In the past 8 years, this district has received:<b> $6,389,624 </b>in NSF MPS grants.
 ```
-In the past 8 years, this district has received: $6,389,624.00 in NSF MPS grants.
-                                                 Amount ($)
-Institution                                Year            
-COLORADO SEMINARY                          2012     1430385
-                                           2013      233197
-                                           2014      636415
-                                           2015      264416
-                                           2016      414802
-                                           2017      945175
-                                           2018      882808
-METROPOLITAN STATE UNIVERSITY OF DENVER    2018      109995
-REGENTS OF THE UNIVERSITY OF COLORADO, THE 2017      339431
-                                           2018      775000
-REGIS UNIVERSITY                           2012       44000
-                                           2013       54000
-                                           2015       45000
-                                           2017       45000
-                                           2018      170000
+  Year  Institution                                   Amount ($)
+------  ------------------------------------------  ------------
+  2018  COLORADO SEMINARY                                882,808
+  2018  METROPOLITAN STATE UNIVERSITY OF DENVER          109,995
+  2018  REGENTS OF THE UNIVERSITY OF COLORADO, THE       775,000
+  2018  REGIS UNIVERSITY                                 170,000
+  2017  COLORADO SEMINARY                                945,175
+  2017  REGENTS OF THE UNIVERSITY OF COLORADO, THE       339,431
+  2017  REGIS UNIVERSITY                                  45,000
+  2016  COLORADO SEMINARY                                414,802
+  2015  COLORADO SEMINARY                                264,416
+  2015  REGIS UNIVERSITY                                  45,000
+  2014  COLORADO SEMINARY                                636,415
+  2013  COLORADO SEMINARY                                233,197
+  2013  REGIS UNIVERSITY                                  54,000
+  2012  COLORADO SEMINARY                              1,430,385
+  2012  REGIS UNIVERSITY                                  44,000
 ```
 ---
 <a name="CO-02"></a>
@@ -131,63 +138,75 @@ REGIS UNIVERSITY                           2012       44000
 Joe Neguse is not on any of our key committees 
 
 ### HEP Grants
+In the past 8 years, this district has received:<b> $17,758,603 </b>in SC HEP grants.
 ```
-In the past 8 years, this district has received: $17,758,603.00 in SC HEP grants.
-                                               Amount ($)
-Institution                              Year            
-Colorado State University                2014     1019000
-                                         2015      800000
-                                         2016     1220000
-                                         2017     1025000
-                                         2018      935000
-NATIONAL INST  OF STANDARDS & TECHNOLOGY 2012      182000
-TECH-X CORPORATION                       2012      225000
-                                         2013           0
-Tech-X Corporation                       2014      225000
-                                         2018       30000
-UNIVERSITY OF COLORADO AT BOULDER        2012     1817000
-                                         2013     1952000
-University of Colorado                   2014     1695000
-University of Colorado - Boulder         2015     2215000
-                                         2017     1757603
-                                         2018     2661000
+Institution                                 Amount ($)    Start  End      Principal Investigator    Project Title
+----------------------------------------  ------------  -------  -------  ------------------------  ---------------------------------------------------------------------------------------------------------------------------------------
+University of Colorado - Boulder                45,000     2018  Ongoing  Cumulat, John             Elementary Particle Physics and High Energy Phenomena
+Tech-X Corporation                              30,000     2018  Ongoing  Cowan, Benjamin           Support for the 2018 Advanced Accelerator Concepts Workshop
+University of Colorado - Boulder                25,000     2017  Ongoing  Zimmerman, Eric           Accelerator and Beamline Research and Technology Development for High-Power Neutrino Beams
+Colorado State University                            0     2017  2018     Wilson, Robert            Research in High Energy Physics
+Colorado State University                    1,190,000     2017  Ongoing  Wilson, Robert            Research in High Energy Physics
+University of Colorado - Boulder               700,000     2017  Ongoing  Litos, Michael            Plasma Source Development for Beam Emittance Preservation in a Plasma Wakefield Accelerator
+Colorado State University                    1,155,000     2016  Ongoing  Rocca, Jorge              Innovation Solutions for Scaling High Energy Ultrafast Lasers to Multi-Kilowatt Average Power for Compact Accelerators and Applications
+Colorado State University                      190,000     2016  Ongoing  Fairbank, William         Search for Majorana Neutrinos in the EXO-200 Experiment
+University of Colorado - Boulder             1,140,000     2015  Ongoing  van der Laan, Daniel      Development of high-temperature superconducting cables for accelerator magnets
+University of Colorado - Boulder               232,603     2015  2018     Cheggour, Najib           Electromechanical Studies of Superconductors for DOE/HEP Applications
+University of Colorado - Boulder             4,441,000     2015  Ongoing  Cumalat, John             Elementary Particle Physics and High Energy Phenomena
+University of Colorado - Boulder                50,000     2015  2016     Degrand, Thomas           Theoretical Advanced Study Institute 2015
+University of Colorado                               0     2014  2015     Cary, John                Chaotic Dynamics and Advanced Computation for Beams and Accelerators
+University of Colorado                         147,000     2014  2015     van der Laan, Daniel      Electromechanical Testing of RE-ba2Cu307-d Coated Conductors and Cables for High-Energy Physics Applications
+University of Colorado                         150,000     2014  2015     Marino, Alysia            Probing Neutrino Properties with Long-Baseline Neutrino Beams
+University of Colorado                       1,198,000     2014  2015     Ford, William             Elementary Particle Physics and High Energy Phenomena
+University of Colorado                          50,000     2014  2015     Degrand, Thomas           Theoretical Advanced Study Institute: 2014
+University of Colorado                         150,000     2014  2015     Cheggour, Najib           Electromechanical Studies of Superconductors for DOE/HEP Applications
+Colorado State University                            0     2014  2017     Fairbank, William         New Technique For Barium Daughter Ion Identification In A Liquid Xe-136 Double Beta Decay Experiment
+Tech-X Corporation                             225,000     2014  2015     Cary, John                Community Project for Accelerator Science and Simulation
+Colorado State University                    2,464,000     2014  2017     Toki, Walter              Research in High Energy Physics
+UNIVERSITY OF COLORADO AT BOULDER               50,000     2013  2014     Mahanthappa               Theoretical Advanced Study Institute
+UNIVERSITY OF COLORADO AT BOULDER              140,000     2013  2014     Cheggour                  Electromechanical Studies of Superconductors for DOE/HEP Applications
+UNIVERSITY OF COLORADO AT BOULDER                    0     2013  2014     Cary                      Chaotic Dynamics and Advanced Computation for Beams and Accelerators
+UNIVERSITY OF COLORADO AT BOULDER            1,195,000     2013  2014     Ford                      Elementary Particle Physics and High Energy Phenomena
+UNIVERSITY OF COLORADO AT BOULDER              285,000     2012  2014     van der Laan              Electromechanical Testing of RE-Ba2Cu307-d Coated Conductors and Cables for High-Energy Physics Applications
+UNIVERSITY OF COLORADO AT BOULDER                    0     2012  2013     Wagner                    Mosaic Diamond Detector Research
+UNIVERSITY OF COLORADO AT BOULDER            1,902,000     2012  2014     Ford                      Elementary Particles and High Energy Phenomena, Tasks A, B, C, & T
+UNIVERSITY OF COLORADO AT BOULDER              197,000     2012  2014     Cary                      Chaotic Dynamics and Advanced Computation for Beams and Accelerators
+TECH-X CORPORATION                             225,000     2012  2014     Cary                      Community Project for Accelerator Science and Simulation
+TECH-X CORPORATION                                   0     2012  2013     Cary                      SciDAC:  Community Petascale Project for Accelerator Science and Simulation
+NATIONAL INST  OF STANDARDS & TECHNOLOGY        53,000     2012  2013     Goodrich                  Critical Current Metrology for Nb3Sn Conductor Development
+NATIONAL INST  OF STANDARDS & TECHNOLOGY       129,000     2012  2013     Cheggour                  Electromechanical Properties of Superconductors for DOE/HEP Applications
 ```
 ### SC Contracts
 ```
-In the past 8 years, this district has received: $-5,265.00 in SC contracts.
-                             Amount ($)
-Vendor                 Year            
-CATALYST SERVICES, LLC 2018       -5265
+This district received no SC contracts from 2012-2019
 ```
 ### NSF MPS Grants
+In the past 8 years, this district has received:<b> $132,674,232 </b>in NSF MPS grants.
 ```
-In the past 8 years, this district has received: $131,364,063.00 in NSF MPS grants.
-                                                      Amount ($)
-Institution                                     Year            
-COLORADO STATE UNIVERSITY                       2013     6850660
-                                                2014     3438769
-                                                2015     4024637
-                                                2016     3072701
-                                                2017     4540766
-                                                2018     3456652
-                                                2019           0
-PII REDACTED                                    2017      100000
-REDACTED DUE TO PII                             2018      100000
-REGENTS OF THE UNIVERSITY OF COLORADO, THE      2012    16042796
-                                                2013    14638504
-                                                2014     9045621
-                                                2015     7688370
-                                                2016    11202375
-                                                2017    16288618
-                                                2018    24081101
-                                                2019      823230
-SPACE SCIENCE INSTITUTE                         2012      -96379
-                                                2013      718968
-                                                2017      396627
-                                                2018      116089
-U OF COLORADO BOULDER                           2015     4696368
-UNIVERSITY CORPORATION FOR ATMOSPHERIC RESEAR   2014       75090
-UNIVERSITY CORPORATION FOR ATMOSPHERIC RESEARCH 2018       62500
+  Year  Institution                                        Amount ($)
+------  -----------------------------------------------  ------------
+  2019  REGENTS OF THE UNIVERSITY OF COLORADO, THE            823,230
+  2018  UNIVERSITY CORPORATION FOR ATMOSPHERIC RESEARCH        62,500
+  2018  SPACE SCIENCE INSTITUTE                               116,089
+  2018  REGENTS OF THE UNIVERSITY OF COLORADO, THE         24,081,101
+  2018  REDACTED DUE TO PII                                   100,000
+  2018  COLORADO STATE UNIVERSITY                           3,456,652
+  2017  COLORADO STATE UNIVERSITY                           4,540,766
+  2017  SPACE SCIENCE INSTITUTE                               396,627
+  2017  REGENTS OF THE UNIVERSITY OF COLORADO, THE         16,288,618
+  2017  PII REDACTED                                          100,000
+  2016  REGENTS OF THE UNIVERSITY OF COLORADO, THE         11,274,343
+  2016  COLORADO STATE UNIVERSITY                           3,072,701
+  2015  U OF COLORADO BOULDER                               4,696,368
+  2015  REGENTS OF THE UNIVERSITY OF COLORADO, THE          8,261,373
+  2015  COLORADO STATE UNIVERSITY                           4,024,637
+  2014  UNIVERSITY CORPORATION FOR ATMOSPHERIC RESEAR          75,090
+  2014  REGENTS OF THE UNIVERSITY OF COLORADO, THE          9,214,779
+  2014  COLORADO STATE UNIVERSITY                           3,676,451
+  2013  COLORADO STATE UNIVERSITY                           6,850,660
+  2013  SPACE SCIENCE INSTITUTE                               718,968
+  2013  REGENTS OF THE UNIVERSITY OF COLORADO, THE         14,680,483
+  2012  REGENTS OF THE UNIVERSITY OF COLORADO, THE         16,162,796
 ```
 ---
 <a name="CO-03"></a>
@@ -197,35 +216,35 @@ UNIVERSITY CORPORATION FOR ATMOSPHERIC RESEARCH 2018       62500
 Scott R. Tipton is not on any of our key committees 
 
 ### HEP Grants
+In the past 8 years, this district has received:<b> $37,000 </b>in SC HEP grants.
 ```
-In the past 8 years, this district has received: $37,000.00 in SC HEP grants.
-                               Amount ($)
-Institution              Year            
-ASPEN CENTER FOR PHYSICS 2012       10000
-                         2013       15000
-Aspen Center for Physics 2015       12000
+Institution                 Amount ($)    Start    End  Principal Investigator    Project Title
+------------------------  ------------  -------  -----  ------------------------  ---------------------------------------------------------------------------------------------------------------------------------------------------------------
+Aspen Center for Physics        12,000     2015   2016  Chakraborty, Bulbul       2015 Aspen Winter Conference On Exploring The Physics Frontier With Circular Colliders And 2015 Aspen Winter Conference On Closing In On The Cosmological Model
+ASPEN CENTER FOR PHYSICS        15,000     2013   2014  Terning                   Aspen Center for Physics Winter Conferences in Astrophysics and Particle Physics, Winter 2013
+ASPEN CENTER FOR PHYSICS        10,000     2012   2013  Bhatt                     2012 Aspen Winter Conference on High Energy and Astrophysics
 ```
 ### SC Contracts
 ```
 This district received no SC contracts from 2012-2019
 ```
 ### NSF MPS Grants
+In the past 8 years, this district has received:<b> $3,929,996 </b>in NSF MPS grants.
 ```
-In the past 8 years, this district has received: $3,929,996.00 in NSF MPS grants.
-                                             Amount ($)
-Institution                            Year            
-ASPEN CENTER FOR PHYSICS               2012      440000
-                                       2013      440000
-                                       2014      440000
-                                       2015      440000
-                                       2016      475000
-                                       2017      475000
-                                       2018      475000
-FORT LEWIS COLLEGE                     2018      635000
-FRONT RANGE SCIENTIFIC COMPUTATION INC 2012       49928
-                                       2014       34998
-                                       2015       10000
-ROCKY MTN BIOL LAB                     2015       15070
+  Year  Institution                               Amount ($)
+------  --------------------------------------  ------------
+  2018  ASPEN CENTER FOR PHYSICS                     475,000
+  2018  FORT LEWIS COLLEGE                           635,000
+  2017  ASPEN CENTER FOR PHYSICS                     475,000
+  2016  ASPEN CENTER FOR PHYSICS                     475,000
+  2015  ASPEN CENTER FOR PHYSICS                     440,000
+  2015  FRONT RANGE SCIENTIFIC COMPUTATION INC        10,000
+  2015  ROCKY MTN BIOL LAB                            15,070
+  2014  ASPEN CENTER FOR PHYSICS                     440,000
+  2014  FRONT RANGE SCIENTIFIC COMPUTATION INC        34,998
+  2013  ASPEN CENTER FOR PHYSICS                     440,000
+  2012  ASPEN CENTER FOR PHYSICS                     440,000
+  2012  FRONT RANGE SCIENTIFIC COMPUTATION INC        49,928
 ```
 ---
 <a name="CO-04"></a>
@@ -235,29 +254,28 @@ ROCKY MTN BIOL LAB                     2015       15070
 Ken Buck is not on any of our key committees 
 
 ### HEP Grants
+In the past 8 years, this district has received:<b> $2,012,000 </b>in SC HEP grants.
 ```
-In the past 8 years, this district has received: $2,012,000.00 in SC HEP grants.
-                                Amount ($)
-Institution               Year            
-COLORADO STATE UNIVERSITY 2012      935000
-                          2013     1077000
+Institution                  Amount ($)    Start    End  Principal Investigator    Project Title
+-------------------------  ------------  -------  -----  ------------------------  ----------------------------------------------------------------------------------------------------
+COLORADO STATE UNIVERSITY        73,000     2013   2014  Buchanan                  Neutrino Physics at Current and Next Generation Long Baseline Experiments
+COLORADO STATE UNIVERSITY       203,000     2012   2014  Fairbank                  New Technique for Barium Daughter Ion Identification in a Liquid Xe-136 Double Beta Decay Experiment
+COLORADO STATE UNIVERSITY     1,736,000     2012   2014  Toki, Harton, Wilson      Research in High Energy Physics
 ```
 ### SC Contracts
 ```
 This district received no SC contracts from 2012-2019
 ```
 ### NSF MPS Grants
+In the past 8 years, this district has received:<b> $5,060,676 </b>in NSF MPS grants.
 ```
-In the past 8 years, this district has received: $4,842,080.00 in NSF MPS grants.
-                                      Amount ($)
-Institution                     Year            
-COLORADO STATE UNIVERSITY       2012     4407540
-                                2013      -29442
-U OF NORTHERN COLORADO          2015       50000
-UNIVERSITY OF NORTHERN COLORADO 2012      120000
-                                2013      120000
-                                2014      363136
-                                2015     -189154
+  Year  Institution                        Amount ($)
+------  -------------------------------  ------------
+  2015  U OF NORTHERN COLORADO                 50,000
+  2014  UNIVERSITY OF NORTHERN COLORADO       363,136
+  2013  UNIVERSITY OF NORTHERN COLORADO       120,000
+  2012  COLORADO STATE UNIVERSITY           4,407,540
+  2012  UNIVERSITY OF NORTHERN COLORADO       120,000
 ```
 ---
 <a name="CO-05"></a>
@@ -271,22 +289,23 @@ Doug Lamborn is not on any of our key committees
 This district received no SC HEP grants from 2012-2019
 ```
 ### SC Contracts
+In the past 8 years, this district has received:
+1 Office of Science contracts, totalling <b> $4,568</b>
 ```
-In the past 8 years, this district has received: $4,568.00 in SC contracts.
-                          Amount ($)
-Vendor              Year            
-IMAGING SYSTEMS LLC 2014        4568
+  Year  Vendor                 Amount ($)  Item
+------  -------------------  ------------  ---------------
+  2014  IMAGING SYSTEMS LLC         4,568  OFFICE SUPPLIES
 ```
 ### NSF MPS Grants
+In the past 8 years, this district has received:<b> $1,115,819 </b>in NSF MPS grants.
 ```
-In the past 8 years, this district has received: $1,115,819.00 in NSF MPS grants.
-                                                 Amount ($)
-Institution                                Year            
-REGENTS OF THE UNIVERSITY OF COLORADO, THE 2012      300000
-                                           2013      145992
-                                           2014      354043
-                                           2016      138374
-                                           2018      177410
+  Year  Institution                                   Amount ($)
+------  ------------------------------------------  ------------
+  2018  REGENTS OF THE UNIVERSITY OF COLORADO, THE       177,410
+  2016  REGENTS OF THE UNIVERSITY OF COLORADO, THE       138,374
+  2014  REGENTS OF THE UNIVERSITY OF COLORADO, THE       354,043
+  2013  REGENTS OF THE UNIVERSITY OF COLORADO, THE       145,992
+  2012  REGENTS OF THE UNIVERSITY OF COLORADO, THE       300,000
 ```
 ---
 <a name="CO-06"></a>
@@ -296,28 +315,28 @@ REGENTS OF THE UNIVERSITY OF COLORADO, THE 2012      300000
 Jason Crow is not on any of our key committees 
 
 ### HEP Grants
+In the past 8 years, this district has received:<b> $0 </b>in SC HEP grants.
 ```
-In the past 8 years, this district has received: $0.00 in SC HEP grants.
-                                      Amount ($)
-Institution                     Year            
-University of Colorado - Denver 2017           0
+Institution                        Amount ($)    Start    End  Principal Investigator    Project Title
+-------------------------------  ------------  -------  -----  ------------------------  ------------------------------------------------------------------------------
+University of Colorado - Denver             0     2017   2018  van der Laan, Daniel      Development of High-temperature Superconducting Cables for Accelerator Magnets
 ```
 ### SC Contracts
 ```
 This district received no SC contracts from 2012-2019
 ```
 ### NSF MPS Grants
+In the past 8 years, this district has received:<b> $1,342,898 </b>in NSF MPS grants.
 ```
-In the past 8 years, this district has received: $1,342,898.00 in NSF MPS grants.
-                                                 Amount ($)
-Institution                                Year            
-REGENTS OF THE UNIVERSITY OF COLORADO, THE 2013      113344
-                                           2014      173627
-                                           2015       37558
-                                           2016      516000
-                                           2017       73369
-                                           2018        9000
-U OF COLORADO DENVER                       2015      420000
+  Year  Institution                                   Amount ($)
+------  ------------------------------------------  ------------
+  2018  REGENTS OF THE UNIVERSITY OF COLORADO, THE         9,000
+  2017  REGENTS OF THE UNIVERSITY OF COLORADO, THE        73,369
+  2016  REGENTS OF THE UNIVERSITY OF COLORADO, THE       516,000
+  2015  REGENTS OF THE UNIVERSITY OF COLORADO, THE        37,558
+  2015  U OF COLORADO DENVER                             420,000
+  2014  REGENTS OF THE UNIVERSITY OF COLORADO, THE       173,627
+  2013  REGENTS OF THE UNIVERSITY OF COLORADO, THE       113,344
 ```
 ---
 <a name="CO-07"></a>
@@ -331,40 +350,36 @@ Ed Perlmutter is the #14 Democrat on the House Committee on Science, Space, and 
 This district received no SC HEP grants from 2012-2019
 ```
 ### SC Contracts
+In the past 8 years, this district has received:
+9 Office of Science contracts, totalling <b> $75,390</b>
 ```
-In the past 8 years, this district has received: $74,779.00 in SC contracts.
-                                        Amount ($)
-Vendor                            Year            
-AGSI, LLC                         2012        5851
-AIR SYSTEM MANAGEMENT, INC.       2013           0
-BEACON COMMUNICATIONS, LLC        2013           0
-DIGITAL DATA SERVICES INC         2014        6895
-FOUR POINTS TECHNOLOGY, L.L.C.    2013       12130
-GARTNER, INC.                     2013           0
-GENERAL DYNAMICS C4 SYSTEMS, INC. 2015        9100
-JOSEPH N MANGINO                  2013           0
-MC2 ELECTRICAL CONTRACTORS LLC    2014        6533
-MONO MACHINES LLC                 2012        4875
-PREMISYS SUPPORT GROUP, INC.      2015       14491
-                                  2018        5413
-                                  2019        -608
-VALIANT SOLUTIONS, LLC            2012       10099
+Vendor                               Amount ($)  Item
+---------------------------------  ------------  ---------------------------------------------------------------------------------------------
+PREMISYS SUPPORT GROUP, INC.             14,492  INSTALLATION OF EQUIPMENT- ELECTRICAL AND ELECTRONIC EQUIPMENT COMPONENTS
+FOUR POINTS TECHNOLOGY, L.L.C.           12,130  RADIO AND TELEVISION COMMUNICATION EQUIPMENT, EXCEPT AIRBORNE
+VALIANT SOLUTIONS, LLC                   10,099  ADP COMPONENTS
+GENERAL DYNAMICS C4 SYSTEMS, INC.         9,100  COMMUNICATIONS SECURITY EQUIPMENT AND COMPONENTS
+DIGITAL DATA SERVICES INC                 6,895  ADPE SYSTEM CONFIGURATION
+MC2 ELECTRICAL CONTRACTORS LLC            6,533  ELECTRICAL CONTROL EQUIPMENT
+AGSI, LLC                                 5,852  ADP CENTRAL PROCESSING UNIT (CPU, COMPUTER), DIGITAL
+PREMISYS SUPPORT GROUP, INC.              5,414  MAINT/REPAIR/REBUILD OF EQUIPMENT- COMMUNICATION, DETECTION, AND COHERENT RADIATION EQUIPMENT
+MONO MACHINES LLC                         4,875  MISCELLANEOUS OFFICE MACHINES
 ```
 ### NSF MPS Grants
+In the past 8 years, this district has received:<b> $22,834,140 </b>in NSF MPS grants.
 ```
-In the past 8 years, this district has received: $22,435,818.00 in NSF MPS grants.
-                                                 Amount ($)
-Institution                                Year            
-COLORADO SCHOOL OF MINES                   2015      350000
-REGENTS OF THE UNIVERSITY OF COLORADO, THE 2012      686267
-                                           2013      100000
-TRUSTEES OF THE COLORADO SCHOOL OF MINES   2012     4404447
-                                           2013     3360716
-                                           2014     2239799
-                                           2015     2941864
-                                           2016     1024156
-                                           2017     3223124
-                                           2018     4027429
-                                           2019       78016
+  Year  Institution                                   Amount ($)
+------  ------------------------------------------  ------------
+  2019  TRUSTEES OF THE COLORADO SCHOOL OF MINES          78,016
+  2018  TRUSTEES OF THE COLORADO SCHOOL OF MINES       4,027,429
+  2017  TRUSTEES OF THE COLORADO SCHOOL OF MINES       3,223,124
+  2016  TRUSTEES OF THE COLORADO SCHOOL OF MINES       1,422,478
+  2015  COLORADO SCHOOL OF MINES                         350,000
+  2015  TRUSTEES OF THE COLORADO SCHOOL OF MINES       2,941,864
+  2014  TRUSTEES OF THE COLORADO SCHOOL OF MINES       2,239,799
+  2013  REGENTS OF THE UNIVERSITY OF COLORADO, THE       100,000
+  2013  TRUSTEES OF THE COLORADO SCHOOL OF MINES       3,360,716
+  2012  REGENTS OF THE UNIVERSITY OF COLORADO, THE       686,267
+  2012  TRUSTEES OF THE COLORADO SCHOOL OF MINES       4,404,447
 ```
 ---

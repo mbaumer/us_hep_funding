@@ -22,38 +22,36 @@ Cindy Hyde-Smith is the #9 Republican on the Senate Appropriations Subcommittee 
 Cindy Hyde-Smith is the #8 Republican on the Senate Committee on Energy and Natural Resources 
 
 ## HEP Grants
-```
 In the past 8 years, this state has received:
-11 HEP grants, totalling $2,375,000.00
- 
-                                Amount ($)
-Institution               Year            
-UNIVERSITY OF MISSISSIPPI 2012      349000
-                          2013      118000
-University of Mississippi 2014      264000
-                          2015      412000
-                          2016      382000
-                          2017      315000
-                          2018      535000
+11 HEP grants, totalling <b> $2,375,000</b>
 ```
-## SC Contracts
+  Year  Institution                  Amount ($)
+------  -------------------------  ------------
+  2018  University of Mississippi       535,000
+  2017  University of Mississippi       315,000
+  2016  University of Mississippi       382,000
+  2015  University of Mississippi       412,000
+  2014  University of Mississippi       264,000
+  2013  UNIVERSITY OF MISSISSIPPI       118,000
+  2012  UNIVERSITY OF MISSISSIPPI       349,000
+```
+### SC Contracts
 ```
 This state received no SC contracts from 2012-2019
 ```
 ## NSF MPS Grants
-```
 In the past 8 years, this state has received:
-122 NSF MPS grants, totalling $17,490,632.00
- 
-                                         Amount ($)
-Institution                                        
-UNIVERSITY OF MISSISSIPPI                   5772702
-JACKSON STATE UNIVERSITY                    4235395
-MISSISSIPPI STATE UNIVERSITY                3278645
-UNIVERSITY OF SOUTHERN MISSISSIPPI          2150536
-UNIVERSITY OF SOUTHERN MISSISSIPPI, THE     1947549
-MISSISSIPPI STATE UNIV                       206055
-U OF SOUTHERN MISSISSIPPI                   -100250
+107 NSF MPS grants, totalling <b> $18,889,809</b>
+```
+Institution                                Amount ($)
+---------------------------------------  ------------
+UNIVERSITY OF MISSISSIPPI                   6,414,416
+JACKSON STATE UNIVERSITY                    4,235,395
+MISSISSIPPI STATE UNIVERSITY                3,378,317
+UNIVERSITY OF SOUTHERN MISSISSIPPI          2,644,077
+UNIVERSITY OF SOUTHERN MISSISSIPPI, THE     2,007,549
+MISSISSIPPI STATE UNIV                        206,055
+U OF SOUTHERN MISSISSIPPI                       4,000
 ```
 ---
 ---
@@ -64,35 +62,31 @@ U OF SOUTHERN MISSISSIPPI                   -100250
 Trent Kelly is not on any of our key committees 
 
 ### HEP Grants
+In the past 8 years, this district has received:<b> $2,375,000 </b>in SC HEP grants.
 ```
-In the past 8 years, this district has received: $2,375,000.00 in SC HEP grants.
-                                Amount ($)
-Institution               Year            
-UNIVERSITY OF MISSISSIPPI 2012      349000
-                          2013      118000
-University of Mississippi 2014      264000
-                          2015      412000
-                          2016      382000
-                          2017      315000
-                          2018      535000
+Institution                  Amount ($)    Start  End      Principal Investigator    Project Title
+-------------------------  ------------  -------  -------  ------------------------  -------------------------------------------------------------------------------------
+University of Mississippi     1,908,000     2014  Ongoing  Cremaldi, Lucien          Intensity Frontier Studies With Heavy Quarks And Leptons And Muon Accelerator Studies
+University of Mississippi             0     2014  2015     Quinn, Breese             Studies of the Standard Model and Beyond at the Energy and Intensity Frontiers
+UNIVERSITY OF MISSISSIPPI       118,000     2013  2014     Quinn                     Studies of the Standard Model and Beyond at the Energy and Intensity Frontiers
+UNIVERSITY OF MISSISSIPPI       349,000     2012  2014     Cremaldi                  Experimental Study of Electroweak and Heavy Flavor Physics
 ```
 ### SC Contracts
 ```
 This district received no SC contracts from 2012-2019
 ```
 ### NSF MPS Grants
+In the past 8 years, this district has received:<b> $6,414,416 </b>in NSF MPS grants.
 ```
-In the past 8 years, this district has received: $5,772,702.00 in NSF MPS grants.
-                                Amount ($)
-Institution               Year            
-UNIVERSITY OF MISSISSIPPI 2012      897398
-                          2013     1157000
-                          2014      273038
-                          2015      995115
-                          2016      741314
-                          2017     1557072
-                          2018      379946
-                          2019     -228181
+  Year  Institution                  Amount ($)
+------  -------------------------  ------------
+  2018  UNIVERSITY OF MISSISSIPPI       793,479
+  2017  UNIVERSITY OF MISSISSIPPI     1,557,072
+  2016  UNIVERSITY OF MISSISSIPPI       741,314
+  2015  UNIVERSITY OF MISSISSIPPI       995,115
+  2014  UNIVERSITY OF MISSISSIPPI       273,038
+  2013  UNIVERSITY OF MISSISSIPPI     1,157,000
+  2012  UNIVERSITY OF MISSISSIPPI       897,398
 ```
 ---
 <a name="MS-02"></a>
@@ -110,17 +104,17 @@ This district received no SC HEP grants from 2012-2019
 This district received no SC contracts from 2012-2019
 ```
 ### NSF MPS Grants
+In the past 8 years, this district has received:<b> $3,995,395 </b>in NSF MPS grants.
 ```
-In the past 8 years, this district has received: $3,995,395.00 in NSF MPS grants.
-                               Amount ($)
-Institution              Year            
-JACKSON STATE UNIVERSITY 2012      620114
-                         2013     1200000
-                         2014       41174
-                         2015      337154
-                         2016      528209
-                         2017      200000
-                         2018     1068744
+  Year  Institution                 Amount ($)
+------  ------------------------  ------------
+  2018  JACKSON STATE UNIVERSITY     1,068,744
+  2017  JACKSON STATE UNIVERSITY       200,000
+  2016  JACKSON STATE UNIVERSITY       528,209
+  2015  JACKSON STATE UNIVERSITY       337,154
+  2014  JACKSON STATE UNIVERSITY        41,174
+  2013  JACKSON STATE UNIVERSITY     1,200,000
+  2012  JACKSON STATE UNIVERSITY       620,114
 ```
 ---
 <a name="MS-03"></a>
@@ -138,19 +132,19 @@ This district received no SC HEP grants from 2012-2019
 This district received no SC contracts from 2012-2019
 ```
 ### NSF MPS Grants
+In the past 8 years, this district has received:<b> $3,824,372 </b>in NSF MPS grants.
 ```
-In the past 8 years, this district has received: $3,724,700.00 in NSF MPS grants.
-                                   Amount ($)
-Institution                  Year            
-JACKSON STATE UNIVERSITY     2013      240000
-MISSISSIPPI STATE UNIV       2015      206055
-MISSISSIPPI STATE UNIVERSITY 2012      709845
-                             2013      317737
-                             2014      478207
-                             2015      762876
-                             2016       35842
-                             2017      770526
-                             2018      203612
+  Year  Institution                     Amount ($)
+------  ----------------------------  ------------
+  2018  MISSISSIPPI STATE UNIVERSITY       203,612
+  2017  MISSISSIPPI STATE UNIVERSITY       770,526
+  2016  MISSISSIPPI STATE UNIVERSITY        88,046
+  2015  MISSISSIPPI STATE UNIV             206,055
+  2015  MISSISSIPPI STATE UNIVERSITY       762,876
+  2014  MISSISSIPPI STATE UNIVERSITY       525,675
+  2013  JACKSON STATE UNIVERSITY           240,000
+  2013  MISSISSIPPI STATE UNIVERSITY       317,737
+  2012  MISSISSIPPI STATE UNIVERSITY       709,845
 ```
 ---
 <a name="MS-04"></a>
@@ -170,17 +164,17 @@ This district received no SC HEP grants from 2012-2019
 This district received no SC contracts from 2012-2019
 ```
 ### NSF MPS Grants
+In the past 8 years, this district has received:<b> $4,655,626 </b>in NSF MPS grants.
 ```
-In the past 8 years, this district has received: $3,997,835.00 in NSF MPS grants.
-                                              Amount ($)
-Institution                             Year            
-U OF SOUTHERN MISSISSIPPI               2015     -100250
-UNIVERSITY OF SOUTHERN MISSISSIPPI      2012      711002
-                                        2013      548998
-                                        2014      372682
-                                        2015        9400
-                                        2016      508454
-UNIVERSITY OF SOUTHERN MISSISSIPPI, THE 2017     1459749
-                                        2018      487800
+  Year  Institution                                Amount ($)
+------  ---------------------------------------  ------------
+  2018  UNIVERSITY OF SOUTHERN MISSISSIPPI, THE       547,800
+  2017  UNIVERSITY OF SOUTHERN MISSISSIPPI, THE     1,459,749
+  2016  UNIVERSITY OF SOUTHERN MISSISSIPPI            508,454
+  2015  U OF SOUTHERN MISSISSIPPI                       4,000
+  2015  UNIVERSITY OF SOUTHERN MISSISSIPPI              9,400
+  2014  UNIVERSITY OF SOUTHERN MISSISSIPPI            866,223
+  2013  UNIVERSITY OF SOUTHERN MISSISSIPPI            548,998
+  2012  UNIVERSITY OF SOUTHERN MISSISSIPPI            711,002
 ```
 ---

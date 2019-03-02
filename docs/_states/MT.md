@@ -27,21 +27,20 @@ Steve Daines is the #5 Republican on the Senate Committee on Energy and Natural 
 ```
 This state received no SC HEP grants from 2012-2019
 ```
-## SC Contracts
+### SC Contracts
 ```
 This state received no SC contracts from 2012-2019
 ```
 ## NSF MPS Grants
-```
 In the past 8 years, this state has received:
-87 NSF MPS grants, totalling $14,143,747.00
- 
-                               Amount ($)
-Institution                              
-MONTANA STATE UNIVERSITY, INC    10372638
-UNIVERSITY OF MONTANA SYSTEM      2247144
-UNIVERSITY OF MONTANA             1249133
-MONTANA STATE UNIVERSITY           274832
+80 NSF MPS grants, totalling <b> $14,522,450</b>
+```
+Institution                      Amount ($)
+-----------------------------  ------------
+MONTANA STATE UNIVERSITY, INC    10,751,341
+UNIVERSITY OF MONTANA SYSTEM      2,247,144
+UNIVERSITY OF MONTANA             1,249,133
+MONTANA STATE UNIVERSITY            274,832
 ```
 ---
 ---
@@ -60,27 +59,27 @@ This district received no SC HEP grants from 2012-2019
 This district received no SC contracts from 2012-2019
 ```
 ### NSF MPS Grants
+In the past 8 years, this district has received:<b> $14,522,450 </b>in NSF MPS grants.
 ```
-In the past 8 years, this district has received: $14,143,747.00 in NSF MPS grants.
-                                    Amount ($)
-Institution                   Year            
-MONTANA STATE UNIVERSITY      2015      274832
-MONTANA STATE UNIVERSITY, INC 2012     2151989
-                              2013     1063963
-                              2014      975356
-                              2015      986985
-                              2016     1073059
-                              2017     1593151
-                              2018     2528135
-UNIVERSITY OF MONTANA         2015       22200
-                              2016      270000
-                              2017      547872
-                              2018      368049
-                              2019       41012
-UNIVERSITY OF MONTANA SYSTEM  2012      267765
-                              2013      796630
-                              2014      270000
-                              2015      412750
-                              2016      499999
+  Year  Institution                      Amount ($)
+------  -----------------------------  ------------
+  2019  UNIVERSITY OF MONTANA                41,012
+  2018  UNIVERSITY OF MONTANA               368,049
+  2018  MONTANA STATE UNIVERSITY, INC     2,711,292
+  2017  UNIVERSITY OF MONTANA               547,872
+  2017  MONTANA STATE UNIVERSITY, INC     1,593,151
+  2016  MONTANA STATE UNIVERSITY, INC     1,073,059
+  2016  UNIVERSITY OF MONTANA SYSTEM        499,999
+  2016  UNIVERSITY OF MONTANA               270,000
+  2015  UNIVERSITY OF MONTANA SYSTEM        412,750
+  2015  UNIVERSITY OF MONTANA                22,200
+  2015  MONTANA STATE UNIVERSITY, INC       986,985
+  2015  MONTANA STATE UNIVERSITY            274,832
+  2014  UNIVERSITY OF MONTANA SYSTEM        270,000
+  2014  MONTANA STATE UNIVERSITY, INC     1,170,902
+  2013  UNIVERSITY OF MONTANA SYSTEM        796,630
+  2013  MONTANA STATE UNIVERSITY, INC     1,063,963
+  2012  UNIVERSITY OF MONTANA SYSTEM        267,765
+  2012  MONTANA STATE UNIVERSITY, INC     2,151,989
 ```
 ---
