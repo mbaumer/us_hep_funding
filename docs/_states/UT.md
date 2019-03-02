@@ -97,7 +97,7 @@ UTAH STATE UNIVERSITY 2012      107800
 [Back to top](#top)
 ## UT-02 -- Rep. Chris Stewart (R) -- [Wikipedia](https://en.wikipedia.org/wiki/UT-02)
 ### Committees
-Chris Stewart is the #18 Democrat on the House Committee on Appropriations 
+Chris Stewart is the #18 Republican on the House Committee on Appropriations 
 
 ### HEP Grants
 ```
@@ -169,9 +169,9 @@ UTAH VALLEY UNIVERSITY   2016      300000
 [Back to top](#top)
 ## UT-04 -- Rep. Ben McAdams (D) -- [Wikipedia](https://en.wikipedia.org/wiki/UT-04)
 ### Committees
-Ben McAdams is the #21 Republican on the House Committee on Science, Space, and Technology 
+Ben McAdams is the #21 Democrat on the House Committee on Science, Space, and Technology 
 
-Ben McAdams is the #6 Republican on the House Committee on Science, Space, and Technology; Subcommittee on Research and Technology 
+Ben McAdams is the #6 Democrat on the House Committee on Science, Space, and Technology; Subcommittee on Research and Technology 
 
 ### HEP Grants
 ```

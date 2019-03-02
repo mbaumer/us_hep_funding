@@ -136,7 +136,7 @@ WESTERN WASHINGTON UNIVERSITY 2012      951730
 [Back to top](#top)
 ## WA-03 -- Rep. Jaime Herrera Beutler (R) -- [Wikipedia](https://en.wikipedia.org/wiki/WA-03)
 ### Committees
-Jaime Herrera Beutler is the #13 Democrat on the House Committee on Appropriations 
+Jaime Herrera Beutler is the #13 Republican on the House Committee on Appropriations 
 
 ### HEP Grants
 ```
@@ -155,9 +155,9 @@ This district received no NSF MPS grants from 2012-2019
 [Back to top](#top)
 ## WA-04 -- Rep. Dan Newhouse (R) -- [Wikipedia](https://en.wikipedia.org/wiki/WA-04)
 ### Committees
-Dan Newhouse is the #4 Democrat on the House Appropriations Subcommittee on Energy and Water Development 
+Dan Newhouse is the #4 Republican on the House Appropriations Subcommittee on Energy and Water Development 
 
-Dan Newhouse is the #20 Democrat on the House Committee on Appropriations 
+Dan Newhouse is the #20 Republican on the House Committee on Appropriations 
 
 ### HEP Grants
 ```
@@ -200,7 +200,7 @@ CENTRAL WASHINGTON UNIVERSITY INC 2012      317073
 [Back to top](#top)
 ## WA-05 -- Rep. Cathy McMorris Rodgers (R) -- [Wikipedia](https://en.wikipedia.org/wiki/WA-05)
 ### Committees
-Cathy McMorris Rodgers is the #7 Democrat on the House Committee on Energy and Commerce 
+Cathy McMorris Rodgers is the #7 Republican on the House Committee on Energy and Commerce 
 
 ### HEP Grants
 ```
@@ -242,9 +242,9 @@ WHITWORTH UNIVERSITY                  2017      152992
 [Back to top](#top)
 ## WA-06 -- Rep. Derek Kilmer (D) -- [Wikipedia](https://en.wikipedia.org/wiki/WA-06)
 ### Committees
-Derek Kilmer is the #5 Republican on the House Appropriations Subcommittee on Energy and Water Development 
+Derek Kilmer is the #5 Democrat on the House Appropriations Subcommittee on Energy and Water Development 
 
-Derek Kilmer is the #17 Republican on the House Committee on Appropriations 
+Derek Kilmer is the #17 Democrat on the House Committee on Appropriations 
 
 ### HEP Grants
 ```
@@ -274,7 +274,7 @@ UNIVERSITY OF PUGET SOUND, THE 2013      197157
 [Back to top](#top)
 ## WA-07 -- Rep. Pramila Jayapal (D) -- [Wikipedia](https://en.wikipedia.org/wiki/WA-07)
 ### Committees
-Pramila Jayapal is the #9 Republican on the House Subcommittee on Higher Education and Workforce Development 
+Pramila Jayapal is the #9 Democrat on the House Subcommittee on Higher Education and Workforce Development 
 
 ### HEP Grants
 ```
@@ -325,7 +325,7 @@ UNIVERSITY OF WASHINGTON               2012    23984893
 [Back to top](#top)
 ## WA-08 -- Rep. Kim Schrier (D) -- [Wikipedia](https://en.wikipedia.org/wiki/WA-08)
 ### Committees
-Kim Schrier is the #2 Republican on the House Subcommittee on Early Childhood, Elementary, and Secondary Education 
+Kim Schrier is the #2 Democrat on the House Subcommittee on Early Childhood, Elementary, and Secondary Education 
 
 ### HEP Grants
 ```

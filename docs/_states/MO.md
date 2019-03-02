@@ -254,7 +254,7 @@ TRUMAN STATE UNIVERSITY             2013        3312
 [Back to top](#top)
 ## MO-07 -- Rep. Billy Long (R) -- [Wikipedia](https://en.wikipedia.org/wiki/MO-07)
 ### Committees
-Billy Long is the #15 Democrat on the House Committee on Energy and Commerce 
+Billy Long is the #15 Republican on the House Committee on Energy and Commerce 
 
 ### HEP Grants
 ```

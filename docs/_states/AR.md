@@ -108,7 +108,7 @@ UNIVERSITY OF CENTRAL ARKANSAS           2013       95000
 [Back to top](#top)
 ## AR-03 -- Rep. Steve Womack (R) -- [Wikipedia](https://en.wikipedia.org/wiki/AR-03)
 ### Committees
-Steve Womack is the #10 Democrat on the House Committee on Appropriations 
+Steve Womack is the #10 Republican on the House Committee on Appropriations 
 
 ### HEP Grants
 ```

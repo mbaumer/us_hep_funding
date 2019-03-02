@@ -378,9 +378,9 @@ VILLANOVA UNIVERSITY IN THE STATE OF PENNSYLVANIA 2018      510990
 [Back to top](#top)
 ## PA-08 -- Rep. Matt Cartwright (D) -- [Wikipedia](https://en.wikipedia.org/wiki/PA-08)
 ### Committees
-Matt Cartwright is the #2 Republican on the House Appropriations Subcommittee on Commerce, Justice, and Science 
+Matt Cartwright is the #2 Democrat on the House Appropriations Subcommittee on Commerce, Justice, and Science 
 
-Matt Cartwright is the #18 Republican on the House Committee on Appropriations 
+Matt Cartwright is the #18 Democrat on the House Committee on Appropriations 
 
 ### HEP Grants
 ```
@@ -399,7 +399,7 @@ This district received no NSF MPS grants from 2012-2019
 [Back to top](#top)
 ## PA-09 -- Rep. Daniel Meuser (R) -- [Wikipedia](https://en.wikipedia.org/wiki/PA-09)
 ### Committees
-Daniel Meuser is the #11 Democrat on the House Subcommittee on Higher Education and Workforce Development 
+Daniel Meuser is the #11 Republican on the House Subcommittee on Higher Education and Workforce Development 
 
 ### HEP Grants
 ```
@@ -449,7 +449,7 @@ SUSQUEHANNA UNIVERSITY 2012       50000
 [Back to top](#top)
 ## PA-11 -- Rep. Lloyd Smucker (R) -- [Wikipedia](https://en.wikipedia.org/wiki/PA-11)
 ### Committees
-Lloyd Smucker is the #1 Democrat on the House Subcommittee on Higher Education and Workforce Development 
+Lloyd Smucker is the #1 Republican on the House Subcommittee on Higher Education and Workforce Development 
 
 ### HEP Grants
 ```
@@ -584,7 +584,7 @@ UNIVERSITY OF PITTSBURGH THE           2012     5421363
 [Back to top](#top)
 ## PA-15 -- Rep. Glenn Thompson (R) -- [Wikipedia](https://en.wikipedia.org/wiki/PA-15)
 ### Committees
-Glenn Thompson is the #2 Democrat on the House Subcommittee on Early Childhood, Elementary, and Secondary Education 
+Glenn Thompson is the #2 Republican on the House Subcommittee on Early Childhood, Elementary, and Secondary Education 
 
 ### HEP Grants
 ```
@@ -661,9 +661,9 @@ WEST CHESTER UNIVERSITY OF PENNSYLVANIA 2012      104000
 [Back to top](#top)
 ## PA-17 -- Rep. Conor Lamb (D) -- [Wikipedia](https://en.wikipedia.org/wiki/PA-17)
 ### Committees
-Conor Lamb is the #1 Republican on the House Committee on Science, Space, and Technology; Subcommittee on Energy 
+Conor Lamb is the #1 Democrat on the House Committee on Science, Space, and Technology; Subcommittee on Energy 
 
-Conor Lamb is the #6 Republican on the House Committee on Science, Space, and Technology 
+Conor Lamb is the #6 Democrat on the House Committee on Science, Space, and Technology 
 
 ### HEP Grants
 ```
@@ -692,7 +692,7 @@ LEBANON VALLEY COLLEGE 2012      137000
 [Back to top](#top)
 ## PA-18 -- Rep. Michael F. Doyle (D) -- [Wikipedia](https://en.wikipedia.org/wiki/PA-18)
 ### Committees
-Michael F. Doyle is the #6 Republican on the House Committee on Energy and Commerce 
+Michael F. Doyle is the #6 Democrat on the House Committee on Energy and Commerce 
 
 ### HEP Grants
 ```

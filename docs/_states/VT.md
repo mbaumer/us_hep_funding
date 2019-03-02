@@ -11,9 +11,9 @@ permalink : /states/VT/
 
 # VT -- Sen. Bernard Sanders (I) and  Sen. Patrick J. Leahy (D)
 ## Committees
-Bernard Sanders is the #4 Democrat on the Senate Energy Subcommittee on Energy 
+Bernard Sanders is the #4 Independent on the Senate Energy Subcommittee on Energy 
 
-Bernard Sanders is the #4 Democrat on the Senate Committee on Energy and Natural Resources 
+Bernard Sanders is the #4 Independent on the Senate Committee on Energy and Natural Resources 
 
 Patrick J. Leahy is the #2 Democrat on the Senate Appropriations Subcommittee on Commerce, Justice, Science, and Related Agencies 
 
@@ -48,7 +48,7 @@ U OF VERMONT & ST AGR COLL                               75000
 [Back to top](#top)
 ## VT-00 -- Rep. Peter Welch (D) -- [Wikipedia](https://en.wikipedia.org/wiki/VT-00)
 ### Committees
-Peter Welch is the #13 Republican on the House Committee on Energy and Commerce 
+Peter Welch is the #13 Democrat on the House Committee on Energy and Commerce 
 
 ### HEP Grants
 ```

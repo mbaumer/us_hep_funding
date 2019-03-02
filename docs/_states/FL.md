@@ -92,7 +92,7 @@ This district received no NSF MPS grants from 2012-2019
 [Back to top](#top)
 ## FL-02 -- Rep. Neal P. Dunn (R) -- [Wikipedia](https://en.wikipedia.org/wiki/FL-02)
 ### Committees
-Neal P. Dunn is the #8 Democrat on the House Committee on Science, Space, and Technology 
+Neal P. Dunn is the #8 Republican on the House Committee on Science, Space, and Technology 
 
 ### HEP Grants
 ```
@@ -174,7 +174,7 @@ UNIVERSITY OF FLORIDA                            2013     6904259
 [Back to top](#top)
 ## FL-04 -- Rep. John H. Rutherford (R) -- [Wikipedia](https://en.wikipedia.org/wiki/FL-04)
 ### Committees
-John H. Rutherford is the #22 Democrat on the House Committee on Appropriations 
+John H. Rutherford is the #22 Republican on the House Committee on Appropriations 
 
 ### HEP Grants
 ```
@@ -226,7 +226,7 @@ FLORIDA STATE UNIVERSITY, THE 2017    10722709
 [Back to top](#top)
 ## FL-06 -- Rep. Michael Waltz (R) -- [Wikipedia](https://en.wikipedia.org/wiki/FL-06)
 ### Committees
-Michael Waltz is the #14 Democrat on the House Committee on Science, Space, and Technology 
+Michael Waltz is the #14 Republican on the House Committee on Science, Space, and Technology 
 
 ### HEP Grants
 ```
@@ -292,7 +292,7 @@ UNIVERSITY OF CENTRAL FLORIDA BOARD OF TRUSTEES... 2017     1590298
 [Back to top](#top)
 ## FL-08 -- Rep. Bill Posey (R) -- [Wikipedia](https://en.wikipedia.org/wiki/FL-08)
 ### Committees
-Bill Posey is the #3 Democrat on the House Committee on Science, Space, and Technology 
+Bill Posey is the #3 Republican on the House Committee on Science, Space, and Technology 
 
 ### HEP Grants
 ```
@@ -326,7 +326,7 @@ FLORIDA INSTITUTE OF TECHNOLOGY, INC. 2013      354763
 [Back to top](#top)
 ## FL-09 -- Rep. Darren Soto (D) -- [Wikipedia](https://en.wikipedia.org/wiki/FL-09)
 ### Committees
-Darren Soto is the #30 Republican on the House Committee on Energy and Commerce 
+Darren Soto is the #30 Democrat on the House Committee on Energy and Commerce 
 
 ### HEP Grants
 ```
@@ -390,7 +390,7 @@ UNIVERSITY OF SOUTH FLORIDA 2012     1863871
 [Back to top](#top)
 ## FL-12 -- Rep. Gus M. Bilirakis (R) -- [Wikipedia](https://en.wikipedia.org/wiki/FL-12)
 ### Committees
-Gus M. Bilirakis is the #13 Democrat on the House Committee on Energy and Commerce 
+Gus M. Bilirakis is the #13 Republican on the House Committee on Energy and Commerce 
 
 ### HEP Grants
 ```
@@ -409,11 +409,11 @@ This district received no NSF MPS grants from 2012-2019
 [Back to top](#top)
 ## FL-13 -- Rep. Charlie Crist (D) -- [Wikipedia](https://en.wikipedia.org/wiki/FL-13)
 ### Committees
-Charlie Crist is the #18 Republican on the House Committee on Science, Space, and Technology 
+Charlie Crist is the #18 Democrat on the House Committee on Science, Space, and Technology 
 
-Charlie Crist is the #5 Republican on the House Appropriations Subcommittee on Commerce, Justice, and Science 
+Charlie Crist is the #5 Democrat on the House Appropriations Subcommittee on Commerce, Justice, and Science 
 
-Charlie Crist is the #28 Republican on the House Committee on Appropriations 
+Charlie Crist is the #28 Democrat on the House Committee on Appropriations 
 
 ### HEP Grants
 ```
@@ -432,7 +432,7 @@ This district received no NSF MPS grants from 2012-2019
 [Back to top](#top)
 ## FL-14 -- Rep. Kathy Castor (D) -- [Wikipedia](https://en.wikipedia.org/wiki/FL-14)
 ### Committees
-Kathy Castor is the #10 Republican on the House Committee on Energy and Commerce 
+Kathy Castor is the #10 Democrat on the House Committee on Energy and Commerce 
 
 ### HEP Grants
 ```
@@ -610,9 +610,9 @@ This district received no NSF MPS grants from 2012-2019
 [Back to top](#top)
 ## FL-21 -- Rep. Lois Frankel (D) -- [Wikipedia](https://en.wikipedia.org/wiki/FL-21)
 ### Committees
-Lois Frankel is the #7 Republican on the House Appropriations Subcommittee on Energy and Water Development 
+Lois Frankel is the #7 Democrat on the House Appropriations Subcommittee on Energy and Water Development 
 
-Lois Frankel is the #23 Republican on the House Committee on Appropriations 
+Lois Frankel is the #23 Democrat on the House Committee on Appropriations 
 
 ### HEP Grants
 ```
@@ -668,9 +668,9 @@ FLORIDA ATLANTIC UNIVERSITY 2013      165999
 [Back to top](#top)
 ## FL-23 -- Rep. Debbie Wasserman Schultz (D) -- [Wikipedia](https://en.wikipedia.org/wiki/FL-23)
 ### Committees
-Debbie Wasserman Schultz is the #3 Republican on the House Appropriations Subcommittee on Energy and Water Development 
+Debbie Wasserman Schultz is the #3 Democrat on the House Appropriations Subcommittee on Energy and Water Development 
 
-Debbie Wasserman Schultz is the #13 Republican on the House Committee on Appropriations 
+Debbie Wasserman Schultz is the #13 Democrat on the House Committee on Appropriations 
 
 ### HEP Grants
 ```
@@ -689,7 +689,7 @@ This district received no NSF MPS grants from 2012-2019
 [Back to top](#top)
 ## FL-24 -- Rep. Frederica S. Wilson (D) -- [Wikipedia](https://en.wikipedia.org/wiki/FL-24)
 ### Committees
-Frederica S. Wilson is the #6 Republican on the House Subcommittee on Early Childhood, Elementary, and Secondary Education 
+Frederica S. Wilson is the #6 Democrat on the House Subcommittee on Early Childhood, Elementary, and Secondary Education 
 
 ### HEP Grants
 ```
@@ -712,7 +712,7 @@ UNIVERSITY OF CENTRAL FLORIDA 2012     1726562
 [Back to top](#top)
 ## FL-25 -- Rep. Mario Diaz-Balart (R) -- [Wikipedia](https://en.wikipedia.org/wiki/FL-25)
 ### Committees
-Mario Diaz-Balart is the #8 Democrat on the House Committee on Appropriations 
+Mario Diaz-Balart is the #8 Republican on the House Committee on Appropriations 
 
 ### HEP Grants
 ```
@@ -766,7 +766,7 @@ FLORIDA INTERNATIONAL UNIVERSITY 2013      986059
 [Back to top](#top)
 ## FL-27 -- Rep. Donna E. Shalala (D) -- [Wikipedia](https://en.wikipedia.org/wiki/FL-27)
 ### Committees
-Donna E. Shalala is the #4 Republican on the House Subcommittee on Early Childhood, Elementary, and Secondary Education 
+Donna E. Shalala is the #4 Democrat on the House Subcommittee on Early Childhood, Elementary, and Secondary Education 
 
 ### HEP Grants
 ```

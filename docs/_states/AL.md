@@ -95,9 +95,9 @@ UNIVERSITY OF SOUTH ALABAMA 2013      -43912
 [Back to top](#top)
 ## AL-02 -- Rep. Martha Roby (R) -- [Wikipedia](https://en.wikipedia.org/wiki/AL-02)
 ### Committees
-Martha Roby is the #2 Democrat on the House Appropriations Subcommittee on Commerce, Justice, and Science 
+Martha Roby is the #2 Republican on the House Appropriations Subcommittee on Commerce, Justice, and Science 
 
-Martha Roby is the #16 Democrat on the House Committee on Appropriations 
+Martha Roby is the #16 Republican on the House Committee on Appropriations 
 
 ### HEP Grants
 ```
@@ -154,9 +154,9 @@ TUSKEGEE UNIVERSITY 2014      862300
 [Back to top](#top)
 ## AL-04 -- Rep. Robert B. Aderholt (R) -- [Wikipedia](https://en.wikipedia.org/wiki/AL-04)
 ### Committees
-Robert B. Aderholt is the #1 Democrat on the House Appropriations Subcommittee on Commerce, Justice, and Science 
+Robert B. Aderholt is the #1 Republican on the House Appropriations Subcommittee on Commerce, Justice, and Science 
 
-Robert B. Aderholt is the #3 Democrat on the House Committee on Appropriations 
+Robert B. Aderholt is the #3 Republican on the House Committee on Appropriations 
 
 ### HEP Grants
 ```
@@ -175,7 +175,7 @@ This district received no NSF MPS grants from 2012-2019
 [Back to top](#top)
 ## AL-05 -- Rep. Mo Brooks (R) -- [Wikipedia](https://en.wikipedia.org/wiki/AL-05)
 ### Committees
-Mo Brooks is the #2 Democrat on the House Committee on Science, Space, and Technology 
+Mo Brooks is the #2 Republican on the House Committee on Science, Space, and Technology 
 
 ### HEP Grants
 ```

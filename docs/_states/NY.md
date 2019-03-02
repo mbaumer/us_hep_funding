@@ -265,9 +265,9 @@ RESEARCH FOUNDATION OF THE CITY UNIVERSITY OF N... 2017       18000
 [Back to top](#top)
 ## NY-06 -- Rep. Grace Meng (D) -- [Wikipedia](https://en.wikipedia.org/wiki/NY-06)
 ### Committees
-Grace Meng is the #3 Republican on the House Appropriations Subcommittee on Commerce, Justice, and Science 
+Grace Meng is the #3 Democrat on the House Appropriations Subcommittee on Commerce, Justice, and Science 
 
-Grace Meng is the #19 Republican on the House Committee on Appropriations 
+Grace Meng is the #19 Democrat on the House Committee on Appropriations 
 
 ### HEP Grants
 ```
@@ -359,7 +359,7 @@ POLYTECHNIC INSTITUTE OF NEW YORK UNIVERSITY 2013      358025
 [Back to top](#top)
 ## NY-09 -- Rep. Yvette D. Clarke (D) -- [Wikipedia](https://en.wikipedia.org/wiki/NY-09)
 ### Committees
-Yvette D. Clarke is the #16 Republican on the House Committee on Energy and Commerce 
+Yvette D. Clarke is the #16 Democrat on the House Committee on Energy and Commerce 
 
 ### HEP Grants
 ```
@@ -623,9 +623,9 @@ WEILL MEDICAL COLLEGE OF CORNELL UNIVERSITY   2012      100000
 [Back to top](#top)
 ## NY-15 -- Rep. José E. Serrano (D) -- [Wikipedia](https://en.wikipedia.org/wiki/NY-15)
 ### Committees
-José E. Serrano is the #1 Republican on the House Appropriations Subcommittee on Commerce, Justice, and Science 
+José E. Serrano is the #1 Democrat on the House Appropriations Subcommittee on Commerce, Justice, and Science 
 
-José E. Serrano is the #4 Republican on the House Committee on Appropriations 
+José E. Serrano is the #4 Democrat on the House Committee on Appropriations 
 
 ### HEP Grants
 ```
@@ -668,7 +668,7 @@ YESHIVA UNIVERSITY                                 2012     1231614
 [Back to top](#top)
 ## NY-16 -- Rep. Eliot L. Engel (D) -- [Wikipedia](https://en.wikipedia.org/wiki/NY-16)
 ### Committees
-Eliot L. Engel is the #4 Republican on the House Committee on Energy and Commerce 
+Eliot L. Engel is the #4 Democrat on the House Committee on Energy and Commerce 
 
 ### HEP Grants
 ```
@@ -696,7 +696,7 @@ PII REDACTED           2017      150000
 [Back to top](#top)
 ## NY-17 -- Rep. Nita M. Lowey (D) -- [Wikipedia](https://en.wikipedia.org/wiki/NY-17)
 ### Committees
-Nita M. Lowey is the #1 Republican on the House Committee on Appropriations 
+Nita M. Lowey is the #1 Democrat on the House Committee on Appropriations 
 
 ### HEP Grants
 ```
@@ -780,11 +780,11 @@ VASSAR COLLEGE                                     2012       75000
 [Back to top](#top)
 ## NY-20 -- Rep. Paul Tonko (D) -- [Wikipedia](https://en.wikipedia.org/wiki/NY-20)
 ### Committees
-Paul Tonko is the #15 Republican on the House Committee on Science, Space, and Technology 
+Paul Tonko is the #15 Democrat on the House Committee on Science, Space, and Technology 
 
-Paul Tonko is the #5 Republican on the House Committee on Science, Space, and Technology; Subcommittee on Research and Technology 
+Paul Tonko is the #5 Democrat on the House Committee on Science, Space, and Technology; Subcommittee on Research and Technology 
 
-Paul Tonko is the #15 Republican on the House Committee on Energy and Commerce 
+Paul Tonko is the #15 Democrat on the House Committee on Energy and Commerce 
 
 ### HEP Grants
 ```
@@ -849,7 +849,7 @@ TRUSTEES OF UNION COLLEGE IN THE TOWN OF SCHENE... 2017           0
 [Back to top](#top)
 ## NY-21 -- Rep. Elise M. Stefanik (R) -- [Wikipedia](https://en.wikipedia.org/wiki/NY-21)
 ### Committees
-Elise M. Stefanik is the #4 Democrat on the House Subcommittee on Higher Education and Workforce Development 
+Elise M. Stefanik is the #4 Republican on the House Subcommittee on Higher Education and Workforce Development 
 
 ### HEP Grants
 ```
@@ -1027,7 +1027,7 @@ SYRACUSE UNIVERSITY                                2013     4179896
 [Back to top](#top)
 ## NY-25 -- Rep. Joseph D. Morelle (D) -- [Wikipedia](https://en.wikipedia.org/wiki/NY-25)
 ### Committees
-Joseph D. Morelle is the #8 Republican on the House Subcommittee on Early Childhood, Elementary, and Secondary Education 
+Joseph D. Morelle is the #8 Democrat on the House Subcommittee on Early Childhood, Elementary, and Secondary Education 
 
 ### HEP Grants
 ```

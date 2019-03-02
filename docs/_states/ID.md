@@ -43,7 +43,7 @@ UNIVERSITY OF IDAHO                     536655
 [Back to top](#top)
 ## ID-01 -- Rep. Russ Fulcher (R) -- [Wikipedia](https://en.wikipedia.org/wiki/ID-01)
 ### Committees
-Russ Fulcher is the #9 Democrat on the House Subcommittee on Higher Education and Workforce Development 
+Russ Fulcher is the #9 Republican on the House Subcommittee on Higher Education and Workforce Development 
 
 ### HEP Grants
 ```
@@ -69,9 +69,9 @@ UNIVERSITY OF IDAHO                2012      536655
 [Back to top](#top)
 ## ID-02 -- Rep. Michael K. Simpson (R) -- [Wikipedia](https://en.wikipedia.org/wiki/ID-02)
 ### Committees
-Michael K. Simpson is the #1 Democrat on the House Appropriations Subcommittee on Energy and Water Development 
+Michael K. Simpson is the #1 Republican on the House Appropriations Subcommittee on Energy and Water Development 
 
-Michael K. Simpson is the #4 Democrat on the House Committee on Appropriations 
+Michael K. Simpson is the #4 Republican on the House Committee on Appropriations 
 
 ### HEP Grants
 ```

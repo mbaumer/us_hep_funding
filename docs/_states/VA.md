@@ -224,7 +224,7 @@ VIRGINIA COMMONWEALTH UNIVERSITY            2012     2217983
 [Back to top](#top)
 ## VA-04 -- Rep. A. Donald McEachin (D) -- [Wikipedia](https://en.wikipedia.org/wiki/VA-04)
 ### Committees
-A. Donald McEachin is the #28 Republican on the House Committee on Energy and Commerce 
+A. Donald McEachin is the #28 Democrat on the House Committee on Energy and Commerce 
 
 ### HEP Grants
 ```
@@ -286,7 +286,7 @@ UNIVERSITY OF VIRGINIA                          2015      974585
 [Back to top](#top)
 ## VA-06 -- Rep. Ben Cline (R) -- [Wikipedia](https://en.wikipedia.org/wiki/VA-06)
 ### Committees
-Ben Cline is the #8 Democrat on the House Subcommittee on Higher Education and Workforce Development 
+Ben Cline is the #8 Republican on the House Subcommittee on Higher Education and Workforce Development 
 
 ### HEP Grants
 ```
@@ -341,7 +341,7 @@ UNIVERSITY OF RICHMOND 2012      720168
 [Back to top](#top)
 ## VA-08 -- Rep. Donald S. Beyer, Jr. (D) -- [Wikipedia](https://en.wikipedia.org/wiki/VA-08)
 ### Committees
-Donald S. Beyer, Jr. is the #17 Republican on the House Committee on Science, Space, and Technology 
+Donald S. Beyer, Jr. is the #17 Democrat on the House Committee on Science, Space, and Technology 
 
 ### HEP Grants
 ```
@@ -397,7 +397,7 @@ SOFTWARE DEFINED RADIO FORUM, INC. 2012       25000
 [Back to top](#top)
 ## VA-09 -- Rep. H. Morgan Griffith (R) -- [Wikipedia](https://en.wikipedia.org/wiki/VA-09)
 ### Committees
-H. Morgan Griffith is the #12 Democrat on the House Committee on Energy and Commerce 
+H. Morgan Griffith is the #12 Republican on the House Committee on Energy and Commerce 
 
 ### HEP Grants
 ```
@@ -436,7 +436,7 @@ VIRGINIA POLYTECHNIC INSTITUTE & STATE UNIVERSITY 2017     2892655
 [Back to top](#top)
 ## VA-10 -- Rep. Jennifer Wexton (D) -- [Wikipedia](https://en.wikipedia.org/wiki/VA-10)
 ### Committees
-Jennifer Wexton is the #22 Republican on the House Committee on Science, Space, and Technology 
+Jennifer Wexton is the #22 Democrat on the House Committee on Science, Space, and Technology 
 
 ### HEP Grants
 ```

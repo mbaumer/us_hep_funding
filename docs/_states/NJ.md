@@ -76,7 +76,7 @@ and  17  other institutions.
 [Back to top](#top)
 ## NJ-01 -- Rep. Donald Norcross (D) -- [Wikipedia](https://en.wikipedia.org/wiki/NJ-01)
 ### Committees
-Donald Norcross is the #8 Republican on the House Subcommittee on Higher Education and Workforce Development 
+Donald Norcross is the #8 Democrat on the House Subcommittee on Higher Education and Workforce Development 
 
 ### HEP Grants
 ```
@@ -189,7 +189,7 @@ RAMAPO COLLEGE OF NEW JERSEY 2016      151144
 [Back to top](#top)
 ## NJ-06 -- Rep. Frank Pallone, Jr. (D) -- [Wikipedia](https://en.wikipedia.org/wiki/NJ-06)
 ### Committees
-Frank Pallone, Jr. is the #1 Republican on the House Committee on Energy and Commerce 
+Frank Pallone, Jr. is the #1 Democrat on the House Committee on Energy and Commerce 
 
 ### HEP Grants
 ```
@@ -358,9 +358,9 @@ SETON HALL UNIVERSITY                         2014        7000
 [Back to top](#top)
 ## NJ-11 -- Rep. Mikie Sherrill (D) -- [Wikipedia](https://en.wikipedia.org/wiki/NJ-11)
 ### Committees
-Mikie Sherrill is the #10 Republican on the House Committee on Science, Space, and Technology 
+Mikie Sherrill is the #10 Democrat on the House Committee on Science, Space, and Technology 
 
-Mikie Sherrill is the #3 Republican on the House Committee on Science, Space, and Technology; Subcommittee on Research and Technology 
+Mikie Sherrill is the #3 Democrat on the House Committee on Science, Space, and Technology; Subcommittee on Research and Technology 
 
 ### HEP Grants
 ```
@@ -388,7 +388,7 @@ MONTCLAIR STATE UNIVERSITY STUDENT GOVERNMENT A... 2017       57453
 [Back to top](#top)
 ## NJ-12 -- Rep. Bonnie Watson Coleman (D) -- [Wikipedia](https://en.wikipedia.org/wiki/NJ-12)
 ### Committees
-Bonnie Watson Coleman is the #25 Republican on the House Committee on Appropriations 
+Bonnie Watson Coleman is the #25 Democrat on the House Committee on Appropriations 
 
 ### HEP Grants
 ```

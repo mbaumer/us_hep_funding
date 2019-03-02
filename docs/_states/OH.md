@@ -205,7 +205,7 @@ OBERLIN COLLEGE 2013      520946
 [Back to top](#top)
 ## OH-05 -- Rep. Robert E. Latta (R) -- [Wikipedia](https://en.wikipedia.org/wiki/OH-05)
 ### Committees
-Robert E. Latta is the #6 Democrat on the House Committee on Energy and Commerce 
+Robert E. Latta is the #6 Republican on the House Committee on Energy and Commerce 
 
 ### HEP Grants
 ```
@@ -234,7 +234,7 @@ BOWLING GREEN U MAIN CAM             2015       40000
 [Back to top](#top)
 ## OH-06 -- Rep. Bill Johnson (R) -- [Wikipedia](https://en.wikipedia.org/wiki/OH-06)
 ### Committees
-Bill Johnson is the #14 Democrat on the House Committee on Energy and Commerce 
+Bill Johnson is the #14 Republican on the House Committee on Energy and Commerce 
 
 ### HEP Grants
 ```
@@ -322,11 +322,11 @@ MIAMI UNIVERSITY                              2012     1151315
 [Back to top](#top)
 ## OH-09 -- Rep. Marcy Kaptur (D) -- [Wikipedia](https://en.wikipedia.org/wiki/OH-09)
 ### Committees
-Marcy Kaptur is the #1 Republican on the House Appropriations Subcommittee on Energy and Water Development 
+Marcy Kaptur is the #1 Democrat on the House Appropriations Subcommittee on Energy and Water Development 
 
-Marcy Kaptur is the #7 Republican on the House Appropriations Subcommittee on Commerce, Justice, and Science 
+Marcy Kaptur is the #7 Democrat on the House Appropriations Subcommittee on Commerce, Justice, and Science 
 
-Marcy Kaptur is the #2 Republican on the House Committee on Appropriations 
+Marcy Kaptur is the #2 Democrat on the House Committee on Appropriations 
 
 ### HEP Grants
 ```
@@ -431,7 +431,7 @@ UNIVERSITY OF AKRON             2015      504999
 [Back to top](#top)
 ## OH-12 -- Rep. Troy Balderson (R) -- [Wikipedia](https://en.wikipedia.org/wiki/OH-12)
 ### Committees
-Troy Balderson is the #11 Democrat on the House Committee on Science, Space, and Technology 
+Troy Balderson is the #11 Republican on the House Committee on Science, Space, and Technology 
 
 ### HEP Grants
 ```
@@ -477,7 +477,7 @@ OTTERBEIN UNIVERSITY          2013       47722
 [Back to top](#top)
 ## OH-13 -- Rep. Tim Ryan (D) -- [Wikipedia](https://en.wikipedia.org/wiki/OH-13)
 ### Committees
-Tim Ryan is the #11 Republican on the House Committee on Appropriations 
+Tim Ryan is the #11 Democrat on the House Committee on Appropriations 
 
 ### HEP Grants
 ```
@@ -511,7 +511,7 @@ YOUNGSTOWN STATE UNIVERSITY 2013      494500
 [Back to top](#top)
 ## OH-14 -- Rep. David P. Joyce (R) -- [Wikipedia](https://en.wikipedia.org/wiki/OH-14)
 ### Committees
-David P. Joyce is the #14 Democrat on the House Committee on Appropriations 
+David P. Joyce is the #14 Republican on the House Committee on Appropriations 
 
 ### HEP Grants
 ```
@@ -579,7 +579,7 @@ OHIO UNIVERSITY                           2013     1311097
 [Back to top](#top)
 ## OH-16 -- Rep. Anthony Gonzalez (R) -- [Wikipedia](https://en.wikipedia.org/wiki/OH-16)
 ### Committees
-Anthony Gonzalez is the #13 Democrat on the House Committee on Science, Space, and Technology 
+Anthony Gonzalez is the #13 Republican on the House Committee on Science, Space, and Technology 
 
 ### HEP Grants
 ```

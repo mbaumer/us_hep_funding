@@ -73,7 +73,7 @@ and  17  other institutions.
 [Back to top](#top)
 ## MD-01 -- Rep. Andy Harris (R) -- [Wikipedia](https://en.wikipedia.org/wiki/MD-01)
 ### Committees
-Andy Harris is the #15 Democrat on the House Committee on Appropriations 
+Andy Harris is the #15 Republican on the House Committee on Appropriations 
 
 ### HEP Grants
 ```
@@ -100,7 +100,7 @@ UNIVERSITY OF MARYLAND CENTER FOR ENVIRONMENTAL... 2017      499424
 [Back to top](#top)
 ## MD-02 -- Rep. C. A. Dutch Ruppersberger (D) -- [Wikipedia](https://en.wikipedia.org/wiki/MD-02)
 ### Committees
-C. A. Dutch Ruppersberger is the #12 Republican on the House Committee on Appropriations 
+C. A. Dutch Ruppersberger is the #12 Democrat on the House Committee on Appropriations 
 
 ### HEP Grants
 ```
@@ -142,7 +142,7 @@ TOWSON UNIVERSITY                2015      382737
 [Back to top](#top)
 ## MD-03 -- Rep. John P. Sarbanes (D) -- [Wikipedia](https://en.wikipedia.org/wiki/MD-03)
 ### Committees
-John P. Sarbanes is the #11 Republican on the House Committee on Energy and Commerce 
+John P. Sarbanes is the #11 Democrat on the House Committee on Energy and Commerce 
 
 ### HEP Grants
 ```
@@ -272,7 +272,7 @@ UNIVERSITY OF MARYLAND                       2012    17576993
 [Back to top](#top)
 ## MD-06 -- Rep. David J. Trone (D) -- [Wikipedia](https://en.wikipedia.org/wiki/MD-06)
 ### Committees
-David J. Trone is the #13 Republican on the House Subcommittee on Higher Education and Workforce Development 
+David J. Trone is the #13 Democrat on the House Subcommittee on Higher Education and Workforce Development 
 
 ### HEP Grants
 ```

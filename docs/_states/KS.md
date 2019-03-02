@@ -62,7 +62,7 @@ EMPORIA STATE UNIVERSITY                            150000
 [Back to top](#top)
 ## KS-01 -- Rep. Roger W. Marshall (R) -- [Wikipedia](https://en.wikipedia.org/wiki/KS-01)
 ### Committees
-Roger W. Marshall is the #7 Democrat on the House Committee on Science, Space, and Technology 
+Roger W. Marshall is the #7 Republican on the House Committee on Science, Space, and Technology 
 
 ### HEP Grants
 ```
@@ -96,7 +96,7 @@ KANSAS STATE UNIVERSITY 2013     1136720
 [Back to top](#top)
 ## KS-02 -- Rep. Steven C. Watkins, Jr. (R) -- [Wikipedia](https://en.wikipedia.org/wiki/KS-02)
 ### Committees
-Steven C. Watkins, Jr. is the #10 Democrat on the House Subcommittee on Higher Education and Workforce Development 
+Steven C. Watkins, Jr. is the #10 Republican on the House Subcommittee on Higher Education and Workforce Development 
 
 ### HEP Grants
 ```

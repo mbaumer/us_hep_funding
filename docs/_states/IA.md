@@ -106,7 +106,7 @@ UNIVERSITY OF NORTHERN IOWA       2012       90000
 [Back to top](#top)
 ## IA-02 -- Rep. David Loebsack (D) -- [Wikipedia](https://en.wikipedia.org/wiki/IA-02)
 ### Committees
-David Loebsack is the #17 Republican on the House Committee on Energy and Commerce 
+David Loebsack is the #17 Democrat on the House Committee on Energy and Commerce 
 
 ### HEP Grants
 ```

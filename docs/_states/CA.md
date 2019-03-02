@@ -227,7 +227,7 @@ PACIFIC UNION COLLEGE               2015      189532
 [Back to top](#top)
 ## CA-06 -- Rep. Doris O. Matsui (D) -- [Wikipedia](https://en.wikipedia.org/wiki/CA-06)
 ### Committees
-Doris O. Matsui is the #9 Republican on the House Committee on Energy and Commerce 
+Doris O. Matsui is the #9 Democrat on the House Committee on Energy and Commerce 
 
 ### HEP Grants
 ```
@@ -252,7 +252,7 @@ UNIVERSITY ENTERPRISES, INC. 2015      120000
 [Back to top](#top)
 ## CA-07 -- Rep. Ami Bera (D) -- [Wikipedia](https://en.wikipedia.org/wiki/CA-07)
 ### Committees
-Ami Bera is the #5 Republican on the House Committee on Science, Space, and Technology 
+Ami Bera is the #5 Democrat on the House Committee on Science, Space, and Technology 
 
 ### HEP Grants
 ```
@@ -301,11 +301,11 @@ UNIVERSITY OF SAN FRANCISCO INC             2012       68617
 [Back to top](#top)
 ## CA-09 -- Rep. Jerry McNerney (D) -- [Wikipedia](https://en.wikipedia.org/wiki/CA-09)
 ### Committees
-Jerry McNerney is the #6 Republican on the House Committee on Science, Space, and Technology; Subcommittee on Energy 
+Jerry McNerney is the #6 Democrat on the House Committee on Science, Space, and Technology; Subcommittee on Energy 
 
-Jerry McNerney is the #13 Republican on the House Committee on Science, Space, and Technology 
+Jerry McNerney is the #13 Democrat on the House Committee on Science, Space, and Technology 
 
-Jerry McNerney is the #12 Republican on the House Committee on Energy and Commerce 
+Jerry McNerney is the #12 Democrat on the House Committee on Energy and Commerce 
 
 ### HEP Grants
 ```
@@ -347,7 +347,7 @@ UNIVERSITY OF PACIFIC                        2013      934500
 [Back to top](#top)
 ## CA-10 -- Rep. Josh Harder (D) -- [Wikipedia](https://en.wikipedia.org/wiki/CA-10)
 ### Committees
-Josh Harder is the #10 Republican on the House Subcommittee on Higher Education and Workforce Development 
+Josh Harder is the #10 Democrat on the House Subcommittee on Higher Education and Workforce Development 
 
 ### HEP Grants
 ```
@@ -366,7 +366,7 @@ This district received no NSF MPS grants from 2012-2019
 [Back to top](#top)
 ## CA-11 -- Rep. Mark DeSaulnier (D) -- [Wikipedia](https://en.wikipedia.org/wiki/CA-11)
 ### Committees
-Mark DeSaulnier is the #7 Republican on the House Subcommittee on Early Childhood, Elementary, and Secondary Education 
+Mark DeSaulnier is the #7 Democrat on the House Subcommittee on Early Childhood, Elementary, and Secondary Education 
 
 ### HEP Grants
 ```
@@ -424,7 +424,7 @@ UNIVERSITY OF SAN FRANCISCO INC                    2013      163985
 [Back to top](#top)
 ## CA-13 -- Rep. Barbara Lee (D) -- [Wikipedia](https://en.wikipedia.org/wiki/CA-13)
 ### Committees
-Barbara Lee is the #9 Republican on the House Committee on Appropriations 
+Barbara Lee is the #9 Democrat on the House Committee on Appropriations 
 
 ### HEP Grants
 ```
@@ -639,7 +639,7 @@ UNIVERSITY OF CALIFORNIA, SANTA CRUZ               2012     4733020
 [Back to top](#top)
 ## CA-18 -- Rep. Anna G. Eshoo (D) -- [Wikipedia](https://en.wikipedia.org/wiki/CA-18)
 ### Committees
-Anna G. Eshoo is the #3 Republican on the House Committee on Energy and Commerce 
+Anna G. Eshoo is the #3 Democrat on the House Committee on Energy and Commerce 
 
 ### HEP Grants
 ```
@@ -703,7 +703,7 @@ UNIVERSITY OF CALIFORNIA, MERCED       2012      114985
 [Back to top](#top)
 ## CA-19 -- Rep. Zoe Lofgren (D) -- [Wikipedia](https://en.wikipedia.org/wiki/CA-19)
 ### Committees
-Zoe Lofgren is the #2 Republican on the House Committee on Science, Space, and Technology 
+Zoe Lofgren is the #2 Democrat on the House Committee on Science, Space, and Technology 
 
 ### HEP Grants
 ```
@@ -904,7 +904,7 @@ WESTMONT COLLEGE                                   2013       50000
 [Back to top](#top)
 ## CA-25 -- Rep. Katie Hill (D) -- [Wikipedia](https://en.wikipedia.org/wiki/CA-25)
 ### Committees
-Katie Hill is the #20 Republican on the House Committee on Science, Space, and Technology 
+Katie Hill is the #20 Democrat on the House Committee on Science, Space, and Technology 
 
 ### HEP Grants
 ```
@@ -1043,7 +1043,7 @@ TMT OBSERVATORY CORPORATION 2018           0
 [Back to top](#top)
 ## CA-29 -- Rep. Tony Cárdenas (D) -- [Wikipedia](https://en.wikipedia.org/wiki/CA-29)
 ### Committees
-Tony Cárdenas is the #20 Republican on the House Committee on Energy and Commerce 
+Tony Cárdenas is the #20 Democrat on the House Committee on Energy and Commerce 
 
 ### HEP Grants
 ```
@@ -1073,9 +1073,9 @@ REDACTED DUE TO PII                2018      100000
 [Back to top](#top)
 ## CA-30 -- Rep. Brad Sherman (D) -- [Wikipedia](https://en.wikipedia.org/wiki/CA-30)
 ### Committees
-Brad Sherman is the #11 Republican on the House Committee on Science, Space, and Technology 
+Brad Sherman is the #11 Democrat on the House Committee on Science, Space, and Technology 
 
-Brad Sherman is the #4 Republican on the House Committee on Science, Space, and Technology; Subcommittee on Research and Technology 
+Brad Sherman is the #4 Democrat on the House Committee on Science, Space, and Technology; Subcommittee on Research and Technology 
 
 ### HEP Grants
 ```
@@ -1109,7 +1109,7 @@ UNIVERSITY OF CALIFORNIA, LOS ANGELES 2012    16870234
 [Back to top](#top)
 ## CA-31 -- Rep. Pete Aguilar (D) -- [Wikipedia](https://en.wikipedia.org/wiki/CA-31)
 ### Committees
-Pete Aguilar is the #22 Republican on the House Committee on Appropriations 
+Pete Aguilar is the #22 Democrat on the House Committee on Appropriations 
 
 ### HEP Grants
 ```
@@ -1243,7 +1243,7 @@ PII REDACTED                                       2017      100000
 [Back to top](#top)
 ## CA-35 -- Rep. Norma J. Torres (D) -- [Wikipedia](https://en.wikipedia.org/wiki/CA-35)
 ### Committees
-Norma J. Torres is the #27 Republican on the House Committee on Appropriations 
+Norma J. Torres is the #27 Democrat on the House Committee on Appropriations 
 
 ### HEP Grants
 ```
@@ -1269,7 +1269,7 @@ CAL POLY POMONA FOUNDATION INC 2013       45288
 [Back to top](#top)
 ## CA-36 -- Rep. Raul Ruiz (D) -- [Wikipedia](https://en.wikipedia.org/wiki/CA-36)
 ### Committees
-Raul Ruiz is the #21 Republican on the House Committee on Energy and Commerce 
+Raul Ruiz is the #21 Democrat on the House Committee on Energy and Commerce 
 
 ### HEP Grants
 ```
@@ -1380,7 +1380,7 @@ CSU FULLERTON AUXILIARY SERVICES CORPORATION 2014     1034154
 [Back to top](#top)
 ## CA-40 -- Rep. Lucille Roybal-Allard (D) -- [Wikipedia](https://en.wikipedia.org/wiki/CA-40)
 ### Committees
-Lucille Roybal-Allard is the #7 Republican on the House Committee on Appropriations 
+Lucille Roybal-Allard is the #7 Democrat on the House Committee on Appropriations 
 
 ### HEP Grants
 ```
@@ -1402,7 +1402,7 @@ CALIFORNIA STATE UNIVERSITY, FULLERTON 2012      157688
 [Back to top](#top)
 ## CA-41 -- Rep. Mark Takano (D) -- [Wikipedia](https://en.wikipedia.org/wiki/CA-41)
 ### Committees
-Mark Takano is the #6 Republican on the House Subcommittee on Higher Education and Workforce Development 
+Mark Takano is the #6 Democrat on the House Subcommittee on Higher Education and Workforce Development 
 
 ### HEP Grants
 ```
@@ -1434,9 +1434,9 @@ UNIVERSITY ENTERPRISES CORPORATION AT CSUSB        2012      739209
 [Back to top](#top)
 ## CA-42 -- Rep. Ken Calvert (R) -- [Wikipedia](https://en.wikipedia.org/wiki/CA-42)
 ### Committees
-Ken Calvert is the #2 Democrat on the House Appropriations Subcommittee on Energy and Water Development 
+Ken Calvert is the #2 Republican on the House Appropriations Subcommittee on Energy and Water Development 
 
-Ken Calvert is the #6 Democrat on the House Committee on Appropriations 
+Ken Calvert is the #6 Republican on the House Committee on Appropriations 
 
 ### HEP Grants
 ```
@@ -1477,7 +1477,7 @@ LOYOLA MARYMOUNT UNIVERSITY INC 2014       55466
 [Back to top](#top)
 ## CA-44 -- Rep. Nanette Diaz Barragán (D) -- [Wikipedia](https://en.wikipedia.org/wiki/CA-44)
 ### Committees
-Nanette Diaz Barragán is the #27 Republican on the House Committee on Energy and Commerce 
+Nanette Diaz Barragán is the #27 Democrat on the House Committee on Energy and Commerce 
 
 ### HEP Grants
 ```
@@ -1721,7 +1721,7 @@ This district received no NSF MPS grants from 2012-2019
 [Back to top](#top)
 ## CA-52 -- Rep. Scott H. Peters (D) -- [Wikipedia](https://en.wikipedia.org/wiki/CA-52)
 ### Committees
-Scott H. Peters is the #22 Republican on the House Committee on Energy and Commerce 
+Scott H. Peters is the #22 Democrat on the House Committee on Energy and Commerce 
 
 ### HEP Grants
 ```
@@ -1766,9 +1766,9 @@ UNIVERSITY OF SAN DIEGO             2013      451293
 [Back to top](#top)
 ## CA-53 -- Rep. Susan A. Davis (D) -- [Wikipedia](https://en.wikipedia.org/wiki/CA-53)
 ### Committees
-Susan A. Davis is the #1 Republican on the House Subcommittee on Higher Education and Workforce Development 
+Susan A. Davis is the #1 Democrat on the House Subcommittee on Higher Education and Workforce Development 
 
-Susan A. Davis is the #5 Republican on the House Subcommittee on Early Childhood, Elementary, and Secondary Education 
+Susan A. Davis is the #5 Democrat on the House Subcommittee on Early Childhood, Elementary, and Secondary Education 
 
 ### HEP Grants
 ```

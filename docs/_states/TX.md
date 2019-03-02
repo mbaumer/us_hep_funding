@@ -135,7 +135,7 @@ WILLIAM MARSH RICE UNIVERSITY 2013    10034547
 [Back to top](#top)
 ## TX-03 -- Rep. Van Taylor (R) -- [Wikipedia](https://en.wikipedia.org/wiki/TX-03)
 ### Committees
-Van Taylor is the #4 Democrat on the House Subcommittee on Early Childhood, Elementary, and Secondary Education 
+Van Taylor is the #4 Republican on the House Subcommittee on Early Childhood, Elementary, and Secondary Education 
 
 ### HEP Grants
 ```
@@ -244,9 +244,9 @@ UNIVERSITY OF TEXAS AT ARLINGTON 2015      793260
 [Back to top](#top)
 ## TX-07 -- Rep. Lizzie Fletcher (D) -- [Wikipedia](https://en.wikipedia.org/wiki/TX-07)
 ### Committees
-Lizzie Fletcher is the #3 Republican on the House Committee on Science, Space, and Technology; Subcommittee on Energy 
+Lizzie Fletcher is the #3 Democrat on the House Committee on Science, Space, and Technology; Subcommittee on Energy 
 
-Lizzie Fletcher is the #7 Republican on the House Committee on Science, Space, and Technology 
+Lizzie Fletcher is the #7 Democrat on the House Committee on Science, Space, and Technology 
 
 ### HEP Grants
 ```
@@ -392,7 +392,7 @@ This district received no NSF MPS grants from 2012-2019
 [Back to top](#top)
 ## TX-12 -- Rep. Kay Granger (R) -- [Wikipedia](https://en.wikipedia.org/wiki/TX-12)
 ### Committees
-Kay Granger is the #1 Democrat on the House Committee on Appropriations 
+Kay Granger is the #1 Republican on the House Committee on Appropriations 
 
 ### HEP Grants
 ```
@@ -444,7 +444,7 @@ TEXAS A&M UNIVERSITY SYSTEM,THE 2014      371700
 [Back to top](#top)
 ## TX-14 -- Rep. Randy K. Weber, Sr. (R) -- [Wikipedia](https://en.wikipedia.org/wiki/TX-14)
 ### Committees
-Randy K. Weber, Sr. is the #4 Democrat on the House Committee on Science, Space, and Technology 
+Randy K. Weber, Sr. is the #4 Republican on the House Committee on Science, Space, and Technology 
 
 ### HEP Grants
 ```
@@ -527,7 +527,7 @@ UNIVERSITY OF TEXAS AT EL PASO 2012     1374004
 [Back to top](#top)
 ## TX-17 -- Rep. Bill Flores (R) -- [Wikipedia](https://en.wikipedia.org/wiki/TX-17)
 ### Committees
-Bill Flores is the #17 Democrat on the House Committee on Energy and Commerce 
+Bill Flores is the #17 Republican on the House Committee on Energy and Commerce 
 
 ### HEP Grants
 ```
@@ -684,7 +684,7 @@ TEXAS TECH UNIVERSITY SYSTEM                 2012     1124268
 [Back to top](#top)
 ## TX-20 -- Rep. Joaquin Castro (D) -- [Wikipedia](https://en.wikipedia.org/wiki/TX-20)
 ### Committees
-Joaquin Castro is the #15 Republican on the House Subcommittee on Higher Education and Workforce Development 
+Joaquin Castro is the #15 Democrat on the House Subcommittee on Higher Education and Workforce Development 
 
 ### HEP Grants
 ```
@@ -755,9 +755,9 @@ UNIVERSITY OF TEXAS HEALTH SCIENCE CENTER OF 2013      263926
 [Back to top](#top)
 ## TX-22 -- Rep. Pete Olson (R) -- [Wikipedia](https://en.wikipedia.org/wiki/TX-22)
 ### Committees
-Pete Olson is the #12 Democrat on the House Committee on Science, Space, and Technology 
+Pete Olson is the #12 Republican on the House Committee on Science, Space, and Technology 
 
-Pete Olson is the #9 Democrat on the House Committee on Energy and Commerce 
+Pete Olson is the #9 Republican on the House Committee on Energy and Commerce 
 
 ### HEP Grants
 ```
@@ -779,7 +779,7 @@ UNIVERSITY OF HOUSTON SYSTEM 2012      150000
 [Back to top](#top)
 ## TX-23 -- Rep. Will Hurd (R) -- [Wikipedia](https://en.wikipedia.org/wiki/TX-23)
 ### Committees
-Will Hurd is the #23 Democrat on the House Committee on Appropriations 
+Will Hurd is the #23 Republican on the House Committee on Appropriations 
 
 ### HEP Grants
 ```
@@ -870,7 +870,7 @@ UNIVERSITY OF TEXAS SYSTEM    2016     4762893
 [Back to top](#top)
 ## TX-26 -- Rep. Michael C. Burgess (R) -- [Wikipedia](https://en.wikipedia.org/wiki/TX-26)
 ### Committees
-Michael C. Burgess is the #4 Democrat on the House Committee on Energy and Commerce 
+Michael C. Burgess is the #4 Republican on the House Committee on Energy and Commerce 
 
 ### HEP Grants
 ```
@@ -898,7 +898,7 @@ UNIVERSITY OF NORTH TEXAS 2012     1298235
 [Back to top](#top)
 ## TX-27 -- Rep. Michael Cloud (R) -- [Wikipedia](https://en.wikipedia.org/wiki/TX-27)
 ### Committees
-Michael Cloud is the #10 Democrat on the House Committee on Science, Space, and Technology 
+Michael Cloud is the #10 Republican on the House Committee on Science, Space, and Technology 
 
 ### HEP Grants
 ```
@@ -923,7 +923,7 @@ UNIVERSITY OF TEXAS AT BROWNSVILLE  2012      373837
 [Back to top](#top)
 ## TX-28 -- Rep. Henry Cuellar (D) -- [Wikipedia](https://en.wikipedia.org/wiki/TX-28)
 ### Committees
-Henry Cuellar is the #14 Republican on the House Committee on Appropriations 
+Henry Cuellar is the #14 Democrat on the House Committee on Appropriations 
 
 ### HEP Grants
 ```
@@ -972,7 +972,7 @@ This district received no NSF MPS grants from 2012-2019
 [Back to top](#top)
 ## TX-30 -- Rep. Eddie Bernice Johnson (D) -- [Wikipedia](https://en.wikipedia.org/wiki/TX-30)
 ### Committees
-Eddie Bernice Johnson is the #1 Republican on the House Committee on Science, Space, and Technology 
+Eddie Bernice Johnson is the #1 Democrat on the House Committee on Science, Space, and Technology 
 
 ### HEP Grants
 ```
@@ -997,7 +997,7 @@ UT SOUTHWESTERN                               2015      405000
 [Back to top](#top)
 ## TX-31 -- Rep. John R. Carter (R) -- [Wikipedia](https://en.wikipedia.org/wiki/TX-31)
 ### Committees
-John R. Carter is the #5 Democrat on the House Committee on Appropriations 
+John R. Carter is the #5 Republican on the House Committee on Appropriations 
 
 ### HEP Grants
 ```
@@ -1068,7 +1068,7 @@ UNIVERSITY OF TEXAS AT DALLAS     2012     2127595
 [Back to top](#top)
 ## TX-33 -- Rep. Marc A. Veasey (D) -- [Wikipedia](https://en.wikipedia.org/wiki/TX-33)
 ### Committees
-Marc A. Veasey is the #24 Republican on the House Committee on Energy and Commerce 
+Marc A. Veasey is the #24 Democrat on the House Committee on Energy and Commerce 
 
 ### HEP Grants
 ```
@@ -1139,7 +1139,7 @@ This district received no NSF MPS grants from 2012-2019
 [Back to top](#top)
 ## TX-36 -- Rep. Brian Babin (R) -- [Wikipedia](https://en.wikipedia.org/wiki/TX-36)
 ### Committees
-Brian Babin is the #5 Democrat on the House Committee on Science, Space, and Technology 
+Brian Babin is the #5 Republican on the House Committee on Science, Space, and Technology 
 
 ### HEP Grants
 ```

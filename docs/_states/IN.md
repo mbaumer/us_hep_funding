@@ -67,9 +67,9 @@ and  7  other institutions.
 [Back to top](#top)
 ## IN-01 -- Rep. Peter J. Visclosky (D) -- [Wikipedia](https://en.wikipedia.org/wiki/IN-01)
 ### Committees
-Peter J. Visclosky is the #2 Republican on the House Appropriations Subcommittee on Energy and Water Development 
+Peter J. Visclosky is the #2 Democrat on the House Appropriations Subcommittee on Energy and Water Development 
 
-Peter J. Visclosky is the #3 Republican on the House Committee on Appropriations 
+Peter J. Visclosky is the #3 Democrat on the House Committee on Appropriations 
 
 ### HEP Grants
 ```
@@ -134,7 +134,7 @@ UNIVERSITY OF NOTRE DAME DU LAC 2012    13753560
 [Back to top](#top)
 ## IN-03 -- Rep. Jim Banks (R) -- [Wikipedia](https://en.wikipedia.org/wiki/IN-03)
 ### Committees
-Jim Banks is the #5 Democrat on the House Subcommittee on Higher Education and Workforce Development 
+Jim Banks is the #5 Republican on the House Subcommittee on Higher Education and Workforce Development 
 
 ### HEP Grants
 ```
@@ -153,7 +153,7 @@ This district received no NSF MPS grants from 2012-2019
 [Back to top](#top)
 ## IN-04 -- Rep. James R. Baird (R) -- [Wikipedia](https://en.wikipedia.org/wiki/IN-04)
 ### Committees
-James R. Baird is the #15 Democrat on the House Committee on Science, Space, and Technology 
+James R. Baird is the #15 Republican on the House Committee on Science, Space, and Technology 
 
 ### HEP Grants
 ```
@@ -197,7 +197,7 @@ WABASH COLLEGE    2012      112897
 [Back to top](#top)
 ## IN-05 -- Rep. Susan W. Brooks (R) -- [Wikipedia](https://en.wikipedia.org/wiki/IN-05)
 ### Committees
-Susan W. Brooks is the #18 Democrat on the House Committee on Energy and Commerce 
+Susan W. Brooks is the #18 Republican on the House Committee on Energy and Commerce 
 
 ### HEP Grants
 ```
@@ -281,7 +281,7 @@ BUTLER UNIVERSITY 2012      138131
 [Back to top](#top)
 ## IN-08 -- Rep. Larry Bucshon (R) -- [Wikipedia](https://en.wikipedia.org/wiki/IN-08)
 ### Committees
-Larry Bucshon is the #16 Democrat on the House Committee on Energy and Commerce 
+Larry Bucshon is the #16 Republican on the House Committee on Energy and Commerce 
 
 ### HEP Grants
 ```

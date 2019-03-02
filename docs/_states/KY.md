@@ -71,7 +71,7 @@ and  1  other institutions.
 [Back to top](#top)
 ## KY-01 -- Rep. James Comer (R) -- [Wikipedia](https://en.wikipedia.org/wiki/KY-01)
 ### Committees
-James Comer is the #7 Democrat on the House Subcommittee on Higher Education and Workforce Development 
+James Comer is the #7 Republican on the House Subcommittee on Higher Education and Workforce Development 
 
 ### HEP Grants
 ```
@@ -105,9 +105,9 @@ MURRAY STATE UNIVERSITY 2014      149940
 [Back to top](#top)
 ## KY-02 -- Rep. Brett Guthrie (R) -- [Wikipedia](https://en.wikipedia.org/wiki/KY-02)
 ### Committees
-Brett Guthrie is the #2 Democrat on the House Subcommittee on Higher Education and Workforce Development 
+Brett Guthrie is the #2 Republican on the House Subcommittee on Higher Education and Workforce Development 
 
-Brett Guthrie is the #8 Democrat on the House Committee on Energy and Commerce 
+Brett Guthrie is the #8 Republican on the House Committee on Energy and Commerce 
 
 ### HEP Grants
 ```
@@ -196,7 +196,7 @@ NORTHERN KENTUCKY UNIVERSITY RESEARCH FOUNDATIO... 2017      242979
 [Back to top](#top)
 ## KY-05 -- Rep. Harold Rogers (R) -- [Wikipedia](https://en.wikipedia.org/wiki/KY-05)
 ### Committees
-Harold Rogers is the #2 Democrat on the House Committee on Appropriations 
+Harold Rogers is the #2 Republican on the House Committee on Appropriations 
 
 ### HEP Grants
 ```

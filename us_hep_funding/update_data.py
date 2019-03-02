@@ -231,6 +231,11 @@ def clean_legislator_data():
 
 
 def clean_committee_data():
+    try:
+        legislators = pd.read_pickle('../new_data/cleaned/legislator_key_info.pkl')
+    except:
+        print 'Run clean_legislator_data() first!'
+        return
     print 'Generating committee membership data...'
     committees = yaml.load(
         open('../../congress-legislators/committees-current.yaml'))
@@ -257,10 +262,13 @@ def clean_committee_data():
 
     for comm in comm_names.keys():
         for mem in members[comm]:
-            if mem['party'] == 'majority':
+            party_abbr = legislators[legislators[4] == mem['bioguide']][2].values[0] #pick out party code, make it not a list
+            if party_abbr == 'D':
+                party = 'Democrat'
+            elif party_abbr == 'R':
                 party = 'Republican'
             else:
-                party = 'Democrat'
+                party = 'Independent'
             ser = pd.Series([mem['name'], str(mem['rank']),
                              party, comm_names[comm], mem['bioguide']])
             df = df.append(ser, ignore_index=True)

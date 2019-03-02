@@ -65,7 +65,7 @@ and  18  other institutions.
 [Back to top](#top)
 ## NC-01 -- Rep. G. K. Butterfield (D) -- [Wikipedia](https://en.wikipedia.org/wiki/NC-01)
 ### Committees
-G. K. Butterfield is the #8 Republican on the House Committee on Energy and Commerce 
+G. K. Butterfield is the #8 Democrat on the House Committee on Energy and Commerce 
 
 ### HEP Grants
 ```
@@ -148,7 +148,7 @@ UNIVERSITY OF NORTH CAROLINA AT WILMINGTON 2013      151244
 [Back to top](#top)
 ## NC-04 -- Rep. David E. Price (D) -- [Wikipedia](https://en.wikipedia.org/wiki/NC-04)
 ### Committees
-David E. Price is the #6 Republican on the House Committee on Appropriations 
+David E. Price is the #6 Democrat on the House Committee on Appropriations 
 
 ### HEP Grants
 ```
@@ -238,7 +238,7 @@ WINSTON-SALEM STATE UNIVERSITY (INC)   2018      748663
 [Back to top](#top)
 ## NC-06 -- Rep. Mark Walker (R) -- [Wikipedia](https://en.wikipedia.org/wiki/NC-06)
 ### Committees
-Mark Walker is the #6 Democrat on the House Subcommittee on Higher Education and Workforce Development 
+Mark Walker is the #6 Republican on the House Subcommittee on Higher Education and Workforce Development 
 
 ### HEP Grants
 ```
@@ -293,7 +293,7 @@ UNIVERSITY OF NORTH CAROLINA AT WILMINGTON 2012      183258
 [Back to top](#top)
 ## NC-08 -- Rep. Richard Hudson (R) -- [Wikipedia](https://en.wikipedia.org/wiki/NC-08)
 ### Committees
-Richard Hudson is the #20 Democrat on the House Committee on Energy and Commerce 
+Richard Hudson is the #20 Republican on the House Committee on Energy and Commerce 
 
 ### HEP Grants
 ```
@@ -384,7 +384,7 @@ UNIVERSITY OF NORTH CAROLINA AT ASHEVILLE 2012      197272
 [Back to top](#top)
 ## NC-12 -- Rep. Alma S. Adams (D) -- [Wikipedia](https://en.wikipedia.org/wiki/NC-12)
 ### Committees
-Alma S. Adams is the #7 Republican on the House Subcommittee on Higher Education and Workforce Development 
+Alma S. Adams is the #7 Democrat on the House Subcommittee on Higher Education and Workforce Development 
 
 ### HEP Grants
 ```

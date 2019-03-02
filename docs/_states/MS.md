@@ -157,9 +157,9 @@ MISSISSIPPI STATE UNIVERSITY 2012      709845
 [Back to top](#top)
 ## MS-04 -- Rep. Steven M. Palazzo (R) -- [Wikipedia](https://en.wikipedia.org/wiki/MS-04)
 ### Committees
-Steven M. Palazzo is the #3 Democrat on the House Appropriations Subcommittee on Commerce, Justice, and Science 
+Steven M. Palazzo is the #3 Republican on the House Appropriations Subcommittee on Commerce, Justice, and Science 
 
-Steven M. Palazzo is the #19 Democrat on the House Committee on Appropriations 
+Steven M. Palazzo is the #19 Republican on the House Committee on Appropriations 
 
 ### HEP Grants
 ```

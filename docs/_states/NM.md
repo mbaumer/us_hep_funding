@@ -164,7 +164,7 @@ REDACTED DUE TO PII                           2018      100000
 [Back to top](#top)
 ## NM-03 -- Rep. Ben Ray Luján (D) -- [Wikipedia](https://en.wikipedia.org/wiki/NM-03)
 ### Committees
-Ben Ray Luján is the #14 Republican on the House Committee on Energy and Commerce 
+Ben Ray Luján is the #14 Democrat on the House Committee on Energy and Commerce 
 
 ### HEP Grants
 ```

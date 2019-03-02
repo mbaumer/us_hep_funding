@@ -80,7 +80,7 @@ and  25  other institutions.
 [Back to top](#top)
 ## IL-01 -- Rep. Bobby L. Rush (D) -- [Wikipedia](https://en.wikipedia.org/wiki/IL-01)
 ### Committees
-Bobby L. Rush is the #2 Republican on the House Committee on Energy and Commerce 
+Bobby L. Rush is the #2 Democrat on the House Committee on Energy and Commerce 
 
 ### HEP Grants
 ```
@@ -142,7 +142,7 @@ UNIVERSITY OF CHICAGO, THE                2012    22640364
 [Back to top](#top)
 ## IL-02 -- Rep. Robin L. Kelly (D) -- [Wikipedia](https://en.wikipedia.org/wiki/IL-02)
 ### Committees
-Robin L. Kelly is the #26 Republican on the House Committee on Energy and Commerce 
+Robin L. Kelly is the #26 Democrat on the House Committee on Energy and Commerce 
 
 ### HEP Grants
 ```
@@ -167,11 +167,11 @@ CHICAGO STATE UNIVERSITY 2012       67136
 [Back to top](#top)
 ## IL-03 -- Rep. Daniel Lipinski (D) -- [Wikipedia](https://en.wikipedia.org/wiki/IL-03)
 ### Committees
-Daniel Lipinski is the #2 Republican on the House Committee on Science, Space, and Technology; Subcommittee on Energy 
+Daniel Lipinski is the #2 Democrat on the House Committee on Science, Space, and Technology; Subcommittee on Energy 
 
-Daniel Lipinski is the #3 Republican on the House Committee on Science, Space, and Technology 
+Daniel Lipinski is the #3 Democrat on the House Committee on Science, Space, and Technology 
 
-Daniel Lipinski is the #2 Republican on the House Committee on Science, Space, and Technology; Subcommittee on Research and Technology 
+Daniel Lipinski is the #2 Democrat on the House Committee on Science, Space, and Technology; Subcommittee on Research and Technology 
 
 ### HEP Grants
 ```
@@ -274,7 +274,7 @@ This district received no NSF MPS grants from 2012-2019
 [Back to top](#top)
 ## IL-05 -- Rep. Mike Quigley (D) -- [Wikipedia](https://en.wikipedia.org/wiki/IL-05)
 ### Committees
-Mike Quigley is the #16 Republican on the House Committee on Appropriations 
+Mike Quigley is the #16 Democrat on the House Committee on Appropriations 
 
 ### HEP Grants
 ```
@@ -299,9 +299,9 @@ PII REDACTED                     2017      150000
 [Back to top](#top)
 ## IL-06 -- Rep. Sean Casten (D) -- [Wikipedia](https://en.wikipedia.org/wiki/IL-06)
 ### Committees
-Sean Casten is the #8 Republican on the House Committee on Science, Space, and Technology; Subcommittee on Energy 
+Sean Casten is the #8 Democrat on the House Committee on Science, Space, and Technology; Subcommittee on Energy 
 
-Sean Casten is the #19 Republican on the House Committee on Science, Space, and Technology 
+Sean Casten is the #19 Democrat on the House Committee on Science, Space, and Technology 
 
 ### HEP Grants
 ```
@@ -412,7 +412,7 @@ This district received no NSF MPS grants from 2012-2019
 [Back to top](#top)
 ## IL-09 -- Rep. Janice D. Schakowsky (D) -- [Wikipedia](https://en.wikipedia.org/wiki/IL-09)
 ### Committees
-Janice D. Schakowsky is the #7 Republican on the House Committee on Energy and Commerce 
+Janice D. Schakowsky is the #7 Democrat on the House Committee on Energy and Commerce 
 
 ### HEP Grants
 ```
@@ -482,11 +482,11 @@ This district received no NSF MPS grants from 2012-2019
 [Back to top](#top)
 ## IL-11 -- Rep. Bill Foster (D) -- [Wikipedia](https://en.wikipedia.org/wiki/IL-11)
 ### Committees
-Bill Foster is the #7 Republican on the House Committee on Science, Space, and Technology; Subcommittee on Energy 
+Bill Foster is the #7 Democrat on the House Committee on Science, Space, and Technology; Subcommittee on Energy 
 
-Bill Foster is the #16 Republican on the House Committee on Science, Space, and Technology 
+Bill Foster is the #16 Democrat on the House Committee on Science, Space, and Technology 
 
-Bill Foster is the #8 Republican on the House Committee on Science, Space, and Technology; Subcommittee on Research and Technology 
+Bill Foster is the #8 Democrat on the House Committee on Science, Space, and Technology; Subcommittee on Research and Technology 
 
 ### HEP Grants
 ```
@@ -692,7 +692,7 @@ NORTHERN ILLINOIS UNIVERSITY INC 2012      430011
 [Back to top](#top)
 ## IL-15 -- Rep. John Shimkus (R) -- [Wikipedia](https://en.wikipedia.org/wiki/IL-15)
 ### Committees
-John Shimkus is the #3 Democrat on the House Committee on Energy and Commerce 
+John Shimkus is the #3 Republican on the House Committee on Energy and Commerce 
 
 ### HEP Grants
 ```
@@ -729,7 +729,7 @@ UNIVERSITY OF ILLINOIS       2012    19933411
 [Back to top](#top)
 ## IL-16 -- Rep. Adam Kinzinger (R) -- [Wikipedia](https://en.wikipedia.org/wiki/IL-16)
 ### Committees
-Adam Kinzinger is the #11 Democrat on the House Committee on Energy and Commerce 
+Adam Kinzinger is the #11 Republican on the House Committee on Energy and Commerce 
 
 ### HEP Grants
 ```
@@ -766,7 +766,7 @@ PII REDACTED                     2017      100000
 [Back to top](#top)
 ## IL-17 -- Rep. Cheri Bustos (D) -- [Wikipedia](https://en.wikipedia.org/wiki/IL-17)
 ### Committees
-Cheri Bustos is the #24 Republican on the House Committee on Appropriations 
+Cheri Bustos is the #24 Democrat on the House Committee on Appropriations 
 
 ### HEP Grants
 ```

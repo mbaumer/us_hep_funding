@@ -81,7 +81,7 @@ TRINITY COLLEGE 2014      105772
 [Back to top](#top)
 ## CT-02 -- Rep. Joe Courtney (D) -- [Wikipedia](https://en.wikipedia.org/wiki/CT-02)
 ### Committees
-Joe Courtney is the #3 Republican on the House Subcommittee on Higher Education and Workforce Development 
+Joe Courtney is the #3 Democrat on the House Subcommittee on Higher Education and Workforce Development 
 
 ### HEP Grants
 ```
@@ -120,7 +120,7 @@ UNIVERSITY OF CONNECTICUT 2012     2280926
 [Back to top](#top)
 ## CT-03 -- Rep. Rosa L. DeLauro (D) -- [Wikipedia](https://en.wikipedia.org/wiki/CT-03)
 ### Committees
-Rosa L. DeLauro is the #5 Republican on the House Committee on Appropriations 
+Rosa L. DeLauro is the #5 Democrat on the House Committee on Appropriations 
 
 ### HEP Grants
 ```
@@ -208,7 +208,7 @@ FAIRFIELD UNIVERSITY 2012       90580
 [Back to top](#top)
 ## CT-05 -- Rep. Jahana Hayes (D) -- [Wikipedia](https://en.wikipedia.org/wiki/CT-05)
 ### Committees
-Jahana Hayes is the #3 Republican on the House Subcommittee on Early Childhood, Elementary, and Secondary Education 
+Jahana Hayes is the #3 Democrat on the House Subcommittee on Early Childhood, Elementary, and Secondary Education 
 
 ### HEP Grants
 ```

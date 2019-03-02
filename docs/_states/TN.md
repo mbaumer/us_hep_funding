@@ -221,9 +221,9 @@ UNIVERSITY OF TENNESSEE  2012     2934992
 [Back to top](#top)
 ## TN-03 -- Rep. Charles J. "Chuck" Fleischmann (R) -- [Wikipedia](https://en.wikipedia.org/wiki/TN-03)
 ### Committees
-Charles J. "Chuck" Fleischmann is the #3 Democrat on the House Appropriations Subcommittee on Energy and Water Development 
+Charles J. "Chuck" Fleischmann is the #3 Republican on the House Appropriations Subcommittee on Energy and Water Development 
 
-Charles J. "Chuck" Fleischmann is the #12 Democrat on the House Committee on Appropriations 
+Charles J. "Chuck" Fleischmann is the #12 Republican on the House Committee on Appropriations 
 
 ### HEP Grants
 ```
@@ -480,9 +480,9 @@ AUSTIN PEAY STATE UNIVERSITY 2017       76082
 [Back to top](#top)
 ## TN-09 -- Rep. Steve Cohen (D) -- [Wikipedia](https://en.wikipedia.org/wiki/TN-09)
 ### Committees
-Steve Cohen is the #12 Republican on the House Committee on Science, Space, and Technology 
+Steve Cohen is the #12 Democrat on the House Committee on Science, Space, and Technology 
 
-Steve Cohen is the #7 Republican on the House Committee on Science, Space, and Technology; Subcommittee on Research and Technology 
+Steve Cohen is the #7 Democrat on the House Committee on Science, Space, and Technology; Subcommittee on Research and Technology 
 
 ### HEP Grants
 ```

@@ -57,7 +57,7 @@ WV UNIV RESEARCH CORP                         2015     1474918
 [Back to top](#top)
 ## WV-01 -- Rep. David B. McKinley (R) -- [Wikipedia](https://en.wikipedia.org/wiki/WV-01)
 ### Committees
-David B. McKinley is the #10 Democrat on the House Committee on Energy and Commerce 
+David B. McKinley is the #10 Republican on the House Committee on Energy and Commerce 
 
 ### HEP Grants
 ```

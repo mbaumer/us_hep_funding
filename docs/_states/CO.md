@@ -82,7 +82,7 @@ and  10  other institutions.
 [Back to top](#top)
 ## CO-01 -- Rep. Diana DeGette (D) -- [Wikipedia](https://en.wikipedia.org/wiki/CO-01)
 ### Committees
-Diana DeGette is the #5 Republican on the House Committee on Energy and Commerce 
+Diana DeGette is the #5 Democrat on the House Committee on Energy and Commerce 
 
 ### HEP Grants
 ```
@@ -324,7 +324,7 @@ U OF COLORADO DENVER                       2015      420000
 [Back to top](#top)
 ## CO-07 -- Rep. Ed Perlmutter (D) -- [Wikipedia](https://en.wikipedia.org/wiki/CO-07)
 ### Committees
-Ed Perlmutter is the #14 Republican on the House Committee on Science, Space, and Technology 
+Ed Perlmutter is the #14 Democrat on the House Committee on Science, Space, and Technology 
 
 ### HEP Grants
 ```

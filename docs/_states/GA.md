@@ -64,7 +64,7 @@ and  19  other institutions.
 [Back to top](#top)
 ## GA-01 -- Rep. Earl L. "Buddy" Carter (R) -- [Wikipedia](https://en.wikipedia.org/wiki/GA-01)
 ### Committees
-Earl L. "Buddy" Carter is the #22 Democrat on the House Committee on Energy and Commerce 
+Earl L. "Buddy" Carter is the #22 Republican on the House Committee on Energy and Commerce 
 
 ### HEP Grants
 ```
@@ -83,7 +83,7 @@ This district received no NSF MPS grants from 2012-2019
 [Back to top](#top)
 ## GA-02 -- Rep. Sanford D. Bishop, Jr. (D) -- [Wikipedia](https://en.wikipedia.org/wiki/GA-02)
 ### Committees
-Sanford D. Bishop, Jr. is the #8 Republican on the House Committee on Appropriations 
+Sanford D. Bishop, Jr. is the #8 Democrat on the House Committee on Appropriations 
 
 ### HEP Grants
 ```
@@ -371,7 +371,7 @@ KENNESAW STATE UNIVERSITY RESEARCH AND SERVICE ... 2017       60021
 [Back to top](#top)
 ## GA-12 -- Rep. Rick W. Allen (R) -- [Wikipedia](https://en.wikipedia.org/wiki/GA-12)
 ### Committees
-Rick W. Allen is the #1 Democrat on the House Subcommittee on Early Childhood, Elementary, and Secondary Education 
+Rick W. Allen is the #1 Republican on the House Subcommittee on Early Childhood, Elementary, and Secondary Education 
 
 ### HEP Grants
 ```
@@ -422,9 +422,9 @@ This district received no NSF MPS grants from 2012-2019
 [Back to top](#top)
 ## GA-14 -- Rep. Tom Graves (R) -- [Wikipedia](https://en.wikipedia.org/wiki/GA-14)
 ### Committees
-Tom Graves is the #4 Democrat on the House Appropriations Subcommittee on Commerce, Justice, and Science 
+Tom Graves is the #4 Republican on the House Appropriations Subcommittee on Commerce, Justice, and Science 
 
-Tom Graves is the #9 Democrat on the House Committee on Appropriations 
+Tom Graves is the #9 Republican on the House Committee on Appropriations 
 
 ### HEP Grants
 ```

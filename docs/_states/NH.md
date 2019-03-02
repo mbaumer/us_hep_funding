@@ -92,7 +92,7 @@ UNIVERSITY SYSTEM OF NEW HAMPSHIRE 2012     1542799
 [Back to top](#top)
 ## NH-02 -- Rep. Ann M. Kuster (D) -- [Wikipedia](https://en.wikipedia.org/wiki/NH-02)
 ### Committees
-Ann M. Kuster is the #25 Republican on the House Committee on Energy and Commerce 
+Ann M. Kuster is the #25 Democrat on the House Committee on Energy and Commerce 
 
 ### HEP Grants
 ```

@@ -17,9 +17,9 @@ Susan M. Collins is the #4 Republican on the Senate Committee on Appropriations
 
 Susan M. Collins is the #4 Republican on the Senate Appropriations Subcommittee on Energy and Water Development 
 
-Angus S. King, Jr. is the #7 Democrat on the Senate Energy Subcommittee on Energy 
+Angus S. King, Jr. is the #7 Independent on the Senate Energy Subcommittee on Energy 
 
-Angus S. King, Jr. is the #8 Democrat on the Senate Committee on Energy and Natural Resources 
+Angus S. King, Jr. is the #8 Independent on the Senate Committee on Energy and Natural Resources 
 
 ## HEP Grants
 ```
@@ -49,7 +49,7 @@ BIGELOW LABORATORY FOR OCEAN SCIENCES      399554
 [Back to top](#top)
 ## ME-01 -- Rep. Chellie Pingree (D) -- [Wikipedia](https://en.wikipedia.org/wiki/ME-01)
 ### Committees
-Chellie Pingree is the #15 Republican on the House Committee on Appropriations 
+Chellie Pingree is the #15 Democrat on the House Committee on Appropriations 
 
 ### HEP Grants
 ```

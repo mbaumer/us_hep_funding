@@ -62,7 +62,7 @@ and  7  other institutions.
 [Back to top](#top)
 ## LA-01 -- Rep. Steve Scalise (R) -- [Wikipedia](https://en.wikipedia.org/wiki/LA-01)
 ### Committees
-Steve Scalise is the #5 Democrat on the House Committee on Energy and Commerce 
+Steve Scalise is the #5 Republican on the House Committee on Energy and Commerce 
 
 ### HEP Grants
 ```

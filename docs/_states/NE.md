@@ -48,7 +48,7 @@ CREIGHTON UNIVERSITY                                 92500
 [Back to top](#top)
 ## NE-01 -- Rep. Jeff Fortenberry (R) -- [Wikipedia](https://en.wikipedia.org/wiki/NE-01)
 ### Committees
-Jeff Fortenberry is the #11 Democrat on the House Committee on Appropriations 
+Jeff Fortenberry is the #11 Republican on the House Committee on Appropriations 
 
 ### HEP Grants
 ```

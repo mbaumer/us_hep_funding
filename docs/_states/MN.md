@@ -154,7 +154,7 @@ NORTH HENNEPIN COMMUNITY COLLEGE 2012       72183
 [Back to top](#top)
 ## MN-04 -- Rep. Betty McCollum (D) -- [Wikipedia](https://en.wikipedia.org/wiki/MN-04)
 ### Committees
-Betty McCollum is the #10 Republican on the House Committee on Appropriations 
+Betty McCollum is the #10 Democrat on the House Committee on Appropriations 
 
 ### HEP Grants
 ```
@@ -193,7 +193,7 @@ UNIVERSITY OF ST. THOMAS                      2012      192173
 [Back to top](#top)
 ## MN-05 -- Rep. Ilhan Omar (D) -- [Wikipedia](https://en.wikipedia.org/wiki/MN-05)
 ### Committees
-Ilhan Omar is the #12 Republican on the House Subcommittee on Higher Education and Workforce Development 
+Ilhan Omar is the #12 Democrat on the House Subcommittee on Higher Education and Workforce Development 
 
 ### HEP Grants
 ```

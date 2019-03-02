@@ -95,7 +95,7 @@ BOARD OF REGENTS NEVADA SYSTEM OF HIGHER EDUC 2012      240656
 [Back to top](#top)
 ## NV-02 -- Rep. Mark E. Amodei (R) -- [Wikipedia](https://en.wikipedia.org/wiki/NV-02)
 ### Committees
-Mark E. Amodei is the #17 Democrat on the House Committee on Appropriations 
+Mark E. Amodei is the #17 Republican on the House Committee on Appropriations 
 
 ### HEP Grants
 ```
@@ -134,7 +134,7 @@ UNIVERSITY OF NEVADA, RENO        2012      926494
 [Back to top](#top)
 ## NV-03 -- Rep. Susie Lee (D) -- [Wikipedia](https://en.wikipedia.org/wiki/NV-03)
 ### Committees
-Susie Lee is the #14 Republican on the House Subcommittee on Higher Education and Workforce Development 
+Susie Lee is the #14 Democrat on the House Subcommittee on Higher Education and Workforce Development 
 
 ### HEP Grants
 ```

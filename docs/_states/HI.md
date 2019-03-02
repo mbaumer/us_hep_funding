@@ -58,9 +58,9 @@ CHAMINADE UNIVERSITY OF HONOLULU                      633668
 [Back to top](#top)
 ## HI-01 -- Rep. Ed Case (D) -- [Wikipedia](https://en.wikipedia.org/wiki/HI-01)
 ### Committees
-Ed Case is the #6 Republican on the House Appropriations Subcommittee on Commerce, Justice, and Science 
+Ed Case is the #6 Democrat on the House Appropriations Subcommittee on Commerce, Justice, and Science 
 
-Ed Case is the #30 Republican on the House Committee on Appropriations 
+Ed Case is the #30 Democrat on the House Committee on Appropriations 
 
 ### HEP Grants
 ```

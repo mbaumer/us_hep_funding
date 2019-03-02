@@ -95,7 +95,7 @@ UNIVERSITY OF TULSA, THE 2012      110000
 [Back to top](#top)
 ## OK-02 -- Rep. Markwayne Mullin (R) -- [Wikipedia](https://en.wikipedia.org/wiki/OK-02)
 ### Committees
-Markwayne Mullin is the #19 Democrat on the House Committee on Energy and Commerce 
+Markwayne Mullin is the #19 Republican on the House Committee on Energy and Commerce 
 
 ### HEP Grants
 ```
@@ -117,7 +117,7 @@ ROGERS STATE UNIVERSITY FOUNDATION, INC. 2013       74591
 [Back to top](#top)
 ## OK-03 -- Rep. Frank D. Lucas (R) -- [Wikipedia](https://en.wikipedia.org/wiki/OK-03)
 ### Committees
-Frank D. Lucas is the #1 Democrat on the House Committee on Science, Space, and Technology 
+Frank D. Lucas is the #1 Republican on the House Committee on Science, Space, and Technology 
 
 ### HEP Grants
 ```
@@ -154,7 +154,7 @@ OKLAHOMA STATE UNIVERSITY 2012     1080354
 [Back to top](#top)
 ## OK-04 -- Rep. Tom Cole (R) -- [Wikipedia](https://en.wikipedia.org/wiki/OK-04)
 ### Committees
-Tom Cole is the #7 Democrat on the House Committee on Appropriations 
+Tom Cole is the #7 Republican on the House Committee on Appropriations 
 
 ### HEP Grants
 ```
@@ -193,9 +193,9 @@ UNIVERSITY OF OKLAHOMA 2012     2657662
 [Back to top](#top)
 ## OK-05 -- Rep. Kendra S. Horn (D) -- [Wikipedia](https://en.wikipedia.org/wiki/OK-05)
 ### Committees
-Kendra S. Horn is the #5 Republican on the House Committee on Science, Space, and Technology; Subcommittee on Energy 
+Kendra S. Horn is the #5 Democrat on the House Committee on Science, Space, and Technology; Subcommittee on Energy 
 
-Kendra S. Horn is the #9 Republican on the House Committee on Science, Space, and Technology 
+Kendra S. Horn is the #9 Democrat on the House Committee on Science, Space, and Technology 
 
 ### HEP Grants
 ```

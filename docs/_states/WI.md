@@ -89,9 +89,9 @@ CARTHAGE COLLEGE 2012      105645
 [Back to top](#top)
 ## WI-02 -- Rep. Mark Pocan (D) -- [Wikipedia](https://en.wikipedia.org/wiki/WI-02)
 ### Committees
-Mark Pocan is the #6 Republican on the House Appropriations Subcommittee on Energy and Water Development 
+Mark Pocan is the #6 Democrat on the House Appropriations Subcommittee on Energy and Water Development 
 
-Mark Pocan is the #20 Republican on the House Committee on Appropriations 
+Mark Pocan is the #20 Democrat on the House Committee on Appropriations 
 
 ### HEP Grants
 ```
@@ -240,9 +240,9 @@ MEDICAL COLLEGE OF WISCONSIN, INC., THE 2012       89765
 [Back to top](#top)
 ## WI-06 -- Rep. Glenn Grothman (R) -- [Wikipedia](https://en.wikipedia.org/wiki/WI-06)
 ### Committees
-Glenn Grothman is the #3 Democrat on the House Subcommittee on Higher Education and Workforce Development 
+Glenn Grothman is the #3 Republican on the House Subcommittee on Higher Education and Workforce Development 
 
-Glenn Grothman is the #3 Democrat on the House Subcommittee on Early Childhood, Elementary, and Secondary Education 
+Glenn Grothman is the #3 Republican on the House Subcommittee on Early Childhood, Elementary, and Secondary Education 
 
 ### HEP Grants
 ```

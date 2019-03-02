@@ -63,9 +63,9 @@ and  1  other institutions.
 [Back to top](#top)
 ## OR-01 -- Rep. Suzanne Bonamici (D) -- [Wikipedia](https://en.wikipedia.org/wiki/OR-01)
 ### Committees
-Suzanne Bonamici is the #4 Republican on the House Committee on Science, Space, and Technology 
+Suzanne Bonamici is the #4 Democrat on the House Committee on Science, Space, and Technology 
 
-Suzanne Bonamici is the #5 Republican on the House Subcommittee on Higher Education and Workforce Development 
+Suzanne Bonamici is the #5 Democrat on the House Subcommittee on Higher Education and Workforce Development 
 
 ### HEP Grants
 ```
@@ -94,7 +94,7 @@ PORTLAND STATE UNIVERSITY 2012      201086
 [Back to top](#top)
 ## OR-02 -- Rep. Greg Walden (R) -- [Wikipedia](https://en.wikipedia.org/wiki/OR-02)
 ### Committees
-Greg Walden is the #1 Democrat on the House Committee on Energy and Commerce 
+Greg Walden is the #1 Republican on the House Committee on Energy and Commerce 
 
 ### HEP Grants
 ```
@@ -198,7 +198,7 @@ UNIVERSITY OF OREGON    2012     3581118
 [Back to top](#top)
 ## OR-05 -- Rep. Kurt Schrader (D) -- [Wikipedia](https://en.wikipedia.org/wiki/OR-05)
 ### Committees
-Kurt Schrader is the #18 Republican on the House Committee on Energy and Commerce 
+Kurt Schrader is the #18 Democrat on the House Committee on Energy and Commerce 
 
 ### HEP Grants
 ```

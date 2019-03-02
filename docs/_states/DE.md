@@ -65,7 +65,7 @@ UNIVERSITY OF DELAWARE                        2012     6442312
 [Back to top](#top)
 ## DE-00 -- Rep. Lisa Blunt Rochester (D) -- [Wikipedia](https://en.wikipedia.org/wiki/DE-00)
 ### Committees
-Lisa Blunt Rochester is the #29 Republican on the House Committee on Energy and Commerce 
+Lisa Blunt Rochester is the #29 Democrat on the House Committee on Energy and Commerce 
 
 ### HEP Grants
 ```

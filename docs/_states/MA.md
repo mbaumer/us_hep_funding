@@ -176,7 +176,7 @@ WORCESTER POLYTECHNIC INSTITUTE               2013     1042254
 [Back to top](#top)
 ## MA-03 -- Rep. Lori Trahan (D) -- [Wikipedia](https://en.wikipedia.org/wiki/MA-03)
 ### Committees
-Lori Trahan is the #16 Republican on the House Subcommittee on Higher Education and Workforce Development 
+Lori Trahan is the #16 Democrat on the House Subcommittee on Higher Education and Workforce Development 
 
 ### HEP Grants
 ```
@@ -207,7 +207,7 @@ WORCESTER POLYTECHNIC INSTITUTE 2012     1108913
 [Back to top](#top)
 ## MA-04 -- Rep. Joseph P. Kennedy III (D) -- [Wikipedia](https://en.wikipedia.org/wiki/MA-04)
 ### Committees
-Joseph P. Kennedy III is the #19 Republican on the House Committee on Energy and Commerce 
+Joseph P. Kennedy III is the #19 Democrat on the House Committee on Energy and Commerce 
 
 ### HEP Grants
 ```
@@ -249,7 +249,7 @@ WHEATON COLLEGE                               2012       94114
 [Back to top](#top)
 ## MA-05 -- Rep. Katherine M. Clark (D) -- [Wikipedia](https://en.wikipedia.org/wiki/MA-05)
 ### Committees
-Katherine M. Clark is the #21 Republican on the House Committee on Appropriations 
+Katherine M. Clark is the #21 Democrat on the House Committee on Appropriations 
 
 ### HEP Grants
 ```

@@ -49,7 +49,7 @@ MONTANA STATE UNIVERSITY           274832
 [Back to top](#top)
 ## MT-00 -- Rep. Greg Gianforte (R) -- [Wikipedia](https://en.wikipedia.org/wiki/MT-00)
 ### Committees
-Greg Gianforte is the #24 Democrat on the House Committee on Energy and Commerce 
+Greg Gianforte is the #24 Republican on the House Committee on Energy and Commerce 
 
 ### HEP Grants
 ```

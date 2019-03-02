@@ -171,7 +171,7 @@ CALVIN COLLEGE 2012      301720
 [Back to top](#top)
 ## MI-04 -- Rep. John R. Moolenaar (R) -- [Wikipedia](https://en.wikipedia.org/wiki/MI-04)
 ### Committees
-John R. Moolenaar is the #21 Democrat on the House Committee on Appropriations 
+John R. Moolenaar is the #21 Republican on the House Committee on Appropriations 
 
 ### HEP Grants
 ```
@@ -219,7 +219,7 @@ KETTERING UNIVERSITY 2013       77808
 [Back to top](#top)
 ## MI-06 -- Rep. Fred Upton (R) -- [Wikipedia](https://en.wikipedia.org/wiki/MI-06)
 ### Committees
-Fred Upton is the #2 Democrat on the House Committee on Energy and Commerce 
+Fred Upton is the #2 Republican on the House Committee on Energy and Commerce 
 
 ### HEP Grants
 ```
@@ -253,7 +253,7 @@ WESTERN MICHIGAN UNIVERSITY 2012      225000
 [Back to top](#top)
 ## MI-07 -- Rep. Tim Walberg (R) -- [Wikipedia](https://en.wikipedia.org/wiki/MI-07)
 ### Committees
-Tim Walberg is the #21 Democrat on the House Committee on Energy and Commerce 
+Tim Walberg is the #21 Republican on the House Committee on Energy and Commerce 
 
 ### HEP Grants
 ```
@@ -318,7 +318,7 @@ REDACTED DUE TO PII       2018      200000
 [Back to top](#top)
 ## MI-09 -- Rep. Andy Levin (D) -- [Wikipedia](https://en.wikipedia.org/wiki/MI-09)
 ### Committees
-Andy Levin is the #11 Republican on the House Subcommittee on Higher Education and Workforce Development 
+Andy Levin is the #11 Democrat on the House Subcommittee on Higher Education and Workforce Development 
 
 ### HEP Grants
 ```
@@ -365,11 +365,11 @@ CENTRAL MICHIGAN UNIVERSITY (INC) 2012      556615
 [Back to top](#top)
 ## MI-11 -- Rep. Haley M. Stevens (D) -- [Wikipedia](https://en.wikipedia.org/wiki/MI-11)
 ### Committees
-Haley M. Stevens is the #4 Republican on the House Committee on Science, Space, and Technology; Subcommittee on Energy 
+Haley M. Stevens is the #4 Democrat on the House Committee on Science, Space, and Technology; Subcommittee on Energy 
 
-Haley M. Stevens is the #8 Republican on the House Committee on Science, Space, and Technology 
+Haley M. Stevens is the #8 Democrat on the House Committee on Science, Space, and Technology 
 
-Haley M. Stevens is the #1 Republican on the House Committee on Science, Space, and Technology; Subcommittee on Research and Technology 
+Haley M. Stevens is the #1 Democrat on the House Committee on Science, Space, and Technology; Subcommittee on Research and Technology 
 
 ### HEP Grants
 ```
@@ -393,7 +393,7 @@ OAKLAND UNIVERSITY 2013      233994
 [Back to top](#top)
 ## MI-12 -- Rep. Debbie Dingell (D) -- [Wikipedia](https://en.wikipedia.org/wiki/MI-12)
 ### Committees
-Debbie Dingell is the #23 Republican on the House Committee on Energy and Commerce 
+Debbie Dingell is the #23 Democrat on the House Committee on Energy and Commerce 
 
 ### HEP Grants
 ```
@@ -472,9 +472,9 @@ WAYNE STATE UNIVERSITY (INC) 2012     3474845
 [Back to top](#top)
 ## MI-14 -- Rep. Brenda L. Lawrence (D) -- [Wikipedia](https://en.wikipedia.org/wiki/MI-14)
 ### Committees
-Brenda L. Lawrence is the #4 Republican on the House Appropriations Subcommittee on Commerce, Justice, and Science 
+Brenda L. Lawrence is the #4 Democrat on the House Appropriations Subcommittee on Commerce, Justice, and Science 
 
-Brenda L. Lawrence is the #26 Republican on the House Committee on Appropriations 
+Brenda L. Lawrence is the #26 Democrat on the House Committee on Appropriations 
 
 ### HEP Grants
 ```

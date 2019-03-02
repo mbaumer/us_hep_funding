@@ -62,7 +62,7 @@ MARICOPA COUNTY COMMUNITY COLLEGE DISTRICT       56873
 [Back to top](#top)
 ## AZ-01 -- Rep. Tom O’Halleran (D) -- [Wikipedia](https://en.wikipedia.org/wiki/AZ-01)
 ### Committees
-Tom O’Halleran is the #31 Republican on the House Committee on Energy and Commerce 
+Tom O’Halleran is the #31 Democrat on the House Committee on Energy and Commerce 
 
 ### HEP Grants
 ```
@@ -97,9 +97,9 @@ NORTHERN ARIZONA UNIVERSITY 2012      661982
 [Back to top](#top)
 ## AZ-02 -- Rep. Ann Kirkpatrick (D) -- [Wikipedia](https://en.wikipedia.org/wiki/AZ-02)
 ### Committees
-Ann Kirkpatrick is the #4 Republican on the House Appropriations Subcommittee on Energy and Water Development 
+Ann Kirkpatrick is the #4 Democrat on the House Appropriations Subcommittee on Energy and Water Development 
 
-Ann Kirkpatrick is the #29 Republican on the House Committee on Appropriations 
+Ann Kirkpatrick is the #29 Democrat on the House Committee on Appropriations 
 
 ### HEP Grants
 ```
@@ -124,7 +124,7 @@ UNIVERSITY OF ARIZONA       2013     1280434
 [Back to top](#top)
 ## AZ-03 -- Rep. Raúl M. Grijalva (D) -- [Wikipedia](https://en.wikipedia.org/wiki/AZ-03)
 ### Committees
-Raúl M. Grijalva is the #2 Republican on the House Subcommittee on Higher Education and Workforce Development 
+Raúl M. Grijalva is the #2 Democrat on the House Subcommittee on Higher Education and Workforce Development 
 
 ### HEP Grants
 ```
@@ -181,7 +181,7 @@ This district received no NSF MPS grants from 2012-2019
 [Back to top](#top)
 ## AZ-05 -- Rep. Andy Biggs (R) -- [Wikipedia](https://en.wikipedia.org/wiki/AZ-05)
 ### Committees
-Andy Biggs is the #6 Democrat on the House Committee on Science, Space, and Technology 
+Andy Biggs is the #6 Republican on the House Committee on Science, Space, and Technology 
 
 ### HEP Grants
 ```

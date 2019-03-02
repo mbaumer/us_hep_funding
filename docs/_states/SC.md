@@ -124,7 +124,7 @@ UNIVERSITY OF SOUTH CAROLINA 2017     4084431
 [Back to top](#top)
 ## SC-03 -- Rep. Jeff Duncan (R) -- [Wikipedia](https://en.wikipedia.org/wiki/SC-03)
 ### Committees
-Jeff Duncan is the #23 Democrat on the House Committee on Energy and Commerce 
+Jeff Duncan is the #23 Republican on the House Committee on Energy and Commerce 
 
 ### HEP Grants
 ```
@@ -156,9 +156,9 @@ CLEMSON UNIVERSITY RESEARCH FOUNDATION 2012      129569
 [Back to top](#top)
 ## SC-04 -- Rep. William R. Timmons IV (R) -- [Wikipedia](https://en.wikipedia.org/wiki/SC-04)
 ### Committees
-William R. Timmons IV is the #12 Democrat on the House Subcommittee on Higher Education and Workforce Development 
+William R. Timmons IV is the #12 Republican on the House Subcommittee on Higher Education and Workforce Development 
 
-William R. Timmons IV is the #5 Democrat on the House Subcommittee on Early Childhood, Elementary, and Secondary Education 
+William R. Timmons IV is the #5 Republican on the House Subcommittee on Early Childhood, Elementary, and Secondary Education 
 
 ### HEP Grants
 ```
@@ -186,7 +186,7 @@ FURMAN UNIVERSITY 2012      199199
 [Back to top](#top)
 ## SC-05 -- Rep. Ralph Norman (R) -- [Wikipedia](https://en.wikipedia.org/wiki/SC-05)
 ### Committees
-Ralph Norman is the #9 Democrat on the House Committee on Science, Space, and Technology 
+Ralph Norman is the #9 Republican on the House Committee on Science, Space, and Technology 
 
 ### HEP Grants
 ```
