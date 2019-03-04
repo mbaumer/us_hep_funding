@@ -255,14 +255,14 @@ def plot_suli_state(statecode):
         alpha = .25
         
     unique_colleges = these_students['College'].unique()
-    college_counts = pd.DataFrame(np.array([unique_colleges,these_students.groupby('College').count()['Name'].values]).T,columns=['College','Count'])
-        
+    college_counts = these_students.groupby('College').count().reset_index()
+
     for idx in range(len(these_students)):
         student = these_students.iloc[idx]
         ax.plot([student['Longitude'],student['Lab Longitude']],[student['Latitude'],student['Lab Latitude']],color='Blue',transform=ccrs.Geodetic(),alpha=alpha)
     for index, college in college_counts.iterrows():
         student = these_students[these_students['College'] == college['College']].reset_index().loc[0]
-        popularity = 1.5*college['Count'] + 5
+        popularity = 1.5*college['Name'] + 5
         ax.plot(student['Longitude'],student['Latitude'],color='Blue',transform=ccrs.Geodetic(),markersize=popularity,marker='.',alpha=0.5)
     for lab in these_students['Host Lab'].unique():
         this_lab = natlabs[natlabs['Host Lab'] == lab]

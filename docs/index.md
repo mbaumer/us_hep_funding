@@ -24,7 +24,7 @@ layout: page
 </style>
 
 <div class="alert alert-info">
-  <strong>3/3/19:</strong> Date updated for 2019. Contracts and HEP grants have added detail at district level. New info on the origin districts of SULI/CCI students.
+<strong>3/3/19:</strong> Date updated for 2019. Contracts and HEP grants have added detail at district level. New info on the origin districts of SULI/CCI students.
 </div>
 
 
