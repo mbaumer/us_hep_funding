@@ -70,7 +70,7 @@ NATIONAL INSTITUTE OF STATISTICAL SCIENCES                        19,890
 WAKE FOREST UNIVERSITY HEALTH SCIENCES                             9,424
 ```
 ## SULI/CCI Interns
-From 2014-2016 (only years available), this district had 41 SULI/CCI interns
+From 2014-2016 (only years available), this state had 41 SULI/CCI interns
 ```
   # Interns  Program    College
 -----------  ---------  -------------------------------------------

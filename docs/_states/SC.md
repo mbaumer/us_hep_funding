@@ -63,7 +63,7 @@ COKER COLLEGE                                144,213
 U OF SC COLUMBIA                              15,000
 ```
 ## SULI/CCI Interns
-From 2014-2016 (only years available), this district had 37 SULI/CCI interns
+From 2014-2016 (only years available), this state had 37 SULI/CCI interns
 ```
   # Interns  Program    College
 -----------  ---------  -------------------------------------

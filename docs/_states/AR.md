@@ -40,7 +40,7 @@ UNIVERSITY OF ARKANSAS SYSTEM036725083          74,074
 ARKANSAS STATE UNIVERSITY                       34,000
 ```
 ## SULI/CCI Interns
-From 2014-2016 (only years available), this district had 7 SULI/CCI interns
+From 2014-2016 (only years available), this state had 7 SULI/CCI interns
 ```
   # Interns  Program    College
 -----------  ---------  -------------------------------------

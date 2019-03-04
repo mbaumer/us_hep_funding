@@ -71,7 +71,7 @@ REDACTED DUE TO PII                                             100,000
 SANTA FE INSTITUTE OF SCIENCE INC                                61,918
 ```
 ## SULI/CCI Interns
-From 2014-2016 (only years available), this district had 27 SULI/CCI interns
+From 2014-2016 (only years available), this state had 27 SULI/CCI interns
 ```
   # Interns  Program    College
 -----------  ---------  ---------------------------------------------

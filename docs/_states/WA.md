@@ -80,7 +80,7 @@ WESTERN WASHINGTON UNIV                       49,806
 BATTELLE MEMORIAL INSTITUTE                    5,000
 ```
 ## SULI/CCI Interns
-From 2014-2016 (only years available), this district had 98 SULI/CCI interns
+From 2014-2016 (only years available), this state had 98 SULI/CCI interns
 ```
   # Interns  Program    College
 -----------  ---------  ---------------------------------

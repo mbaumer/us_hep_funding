@@ -108,7 +108,7 @@ DUQUESNE UNIVERSITY                                                     20,405
 SOC INDUS&APPL MATH(SIAM)                                               17,387
 ```
 ## SULI/CCI Interns
-From 2014-2016 (only years available), this district had 110 SULI/CCI interns
+From 2014-2016 (only years available), this state had 110 SULI/CCI interns
 ```
   # Interns  Program    College
 -----------  ---------  -------------------------------------------

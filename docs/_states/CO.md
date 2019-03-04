@@ -84,7 +84,7 @@ U OF NORTHERN COLORADO                                 50,000
 ROCKY MTN BIOL LAB                                     15,070
 ```
 ## SULI/CCI Interns
-From 2014-2016 (only years available), this district had 36 SULI/CCI interns
+From 2014-2016 (only years available), this state had 36 SULI/CCI interns
 ```
   # Interns  Program    College
 -----------  ---------  ---------------------------------------

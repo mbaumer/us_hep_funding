@@ -191,7 +191,7 @@ PEPPERDINE UNIVERSITY                                              38,903
 SAN FRANCISCO STATE UNIV                                           38,349
 ```
 ## SULI/CCI Interns
-From 2014-2016 (only years available), this district had 309 SULI/CCI interns
+From 2014-2016 (only years available), this state had 309 SULI/CCI interns
 ```
   # Interns  Program    College
 -----------  ---------  -------------------------------------------------------

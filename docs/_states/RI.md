@@ -58,7 +58,7 @@ GORDON RES CONFERENCES                                                          
 RHODE ISLAND COLLEGE (INC)                                                                    59,955
 ```
 ## SULI/CCI Interns
-From 2014-2016 (only years available), this district had 14 SULI/CCI interns
+From 2014-2016 (only years available), this state had 14 SULI/CCI interns
 ```
   # Interns  Program    College
 -----------  ---------  --------------------------

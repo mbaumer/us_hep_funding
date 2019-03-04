@@ -176,7 +176,7 @@ def get_suli_students_state(distcode):
         plural_str = ''
     else:
         plural_str = 's'
-    print 'From 2014-2016 (only years available), this district had', '{:,.0f}'.format(n_interns), 'SULI/CCI intern'+plural_str
+    print 'From 2014-2016 (only years available), this state had', '{:,.0f}'.format(n_interns), 'SULI/CCI intern'+plural_str
     df = suli_students_by_state.get_group(distcode)
     df = df.groupby(['Program','College']).count().reset_index()[['Name','Program','College']].sort_values('Name',ascending=False)
     #df = df.sort_values('Term',ascending=False)[['Term','Name','College','Host Lab','Program']]

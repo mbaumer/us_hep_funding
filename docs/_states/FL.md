@@ -81,7 +81,7 @@ FLORIDA GULF COAST UNIV                                     30,000
 UNIVERSITY OF NORTH FLORIDA                                  7,500
 ```
 ## SULI/CCI Interns
-From 2014-2016 (only years available), this district had 67 SULI/CCI interns
+From 2014-2016 (only years available), this state had 67 SULI/CCI interns
 ```
   # Interns  Program    College
 -----------  ---------  ----------------------------------------------

@@ -72,7 +72,7 @@ ANDREWS UNIVERSITY                           67,073
 UNIVERSITY OF DETROIT MERCY                  27,798
 ```
 ## SULI/CCI Interns
-From 2014-2016 (only years available), this district had 57 SULI/CCI interns
+From 2014-2016 (only years available), this state had 57 SULI/CCI interns
 ```
   # Interns  Program    College
 -----------  ---------  ---------------------------------

@@ -51,7 +51,7 @@ In the past 8 years, this state has received:
   2012  WEST VIRGINIA UNIVERSITY RESEARCH CORPORATION     2,347,751
 ```
 ## SULI/CCI Interns
-From 2014-2016 (only years available), this district had 15 SULI/CCI interns
+From 2014-2016 (only years available), this state had 15 SULI/CCI interns
 ```
   # Interns  Program    College
 -----------  ---------  ------------------------------

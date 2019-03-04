@@ -60,7 +60,7 @@ U OF MISSOURI COLUMBIA                     24,300
 TRUMAN STATE UNIVERSITY                     6,849
 ```
 ## SULI/CCI Interns
-From 2014-2016 (only years available), this district had 26 SULI/CCI interns
+From 2014-2016 (only years available), this state had 26 SULI/CCI interns
 ```
   # Interns  Program    College
 -----------  ---------  -------------------------------------------

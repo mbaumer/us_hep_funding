@@ -85,7 +85,7 @@ NJIT                                                                           7
 INSTITUTE OF ELECTRICAL AND ELECTRONICS ENGIN                                  7,500
 ```
 ## SULI/CCI Interns
-From 2014-2016 (only years available), this district had 34 SULI/CCI interns
+From 2014-2016 (only years available), this state had 34 SULI/CCI interns
 ```
   # Interns  Program    College
 -----------  ---------  ---------------------------------------------------------------

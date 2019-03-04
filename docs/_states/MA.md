@@ -113,7 +113,7 @@ NATIONAL COLLEGIATE INVENTORS & INNOVATORS AL        47,590
 BARD COLLEGE AT SIMON'S ROCK                         24,672
 ```
 ## SULI/CCI Interns
-From 2014-2016 (only years available), this district had 78 SULI/CCI interns
+From 2014-2016 (only years available), this state had 78 SULI/CCI interns
 ```
   # Interns  Program    College
 -----------  ---------  ---------------------------------------

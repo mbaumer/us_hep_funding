@@ -60,7 +60,7 @@ REDACTED DUE TO PII                               100,000
 U OF WISCONSIN RIVER FALLS                         75,018
 ```
 ## SULI/CCI Interns
-From 2014-2016 (only years available), this district had 42 SULI/CCI interns
+From 2014-2016 (only years available), this state had 42 SULI/CCI interns
 ```
   # Interns  Program    College
 -----------  ---------  -------------------------------------

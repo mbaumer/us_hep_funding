@@ -54,7 +54,7 @@ MULTIPLE RECIPIENTS                    3,300,000
 DARTMOUTH COLLEGE                        286,576
 ```
 ## SULI/CCI Interns
-From 2014-2016 (only years available), this district had 13 SULI/CCI interns
+From 2014-2016 (only years available), this state had 13 SULI/CCI interns
 ```
   # Interns  Program    College
 -----------  ---------  ---------------------------

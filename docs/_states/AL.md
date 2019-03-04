@@ -55,7 +55,7 @@ UNIVERSITY OF NORTH ALABAMA                     48,544
 TROY UNIVERSITY                                 24,838
 ```
 ## SULI/CCI Interns
-From 2014-2016 (only years available), this district had 35 SULI/CCI interns
+From 2014-2016 (only years available), this state had 35 SULI/CCI interns
 ```
   # Interns  Program    College
 -----------  ---------  ----------------------------------------------

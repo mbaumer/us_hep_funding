@@ -43,7 +43,7 @@ UNIVERSITY OF MONTANA             1,249,133
 MONTANA STATE UNIVERSITY            274,832
 ```
 ## SULI/CCI Interns
-From 2014-2016 (only years available), this district had 14 SULI/CCI interns
+From 2014-2016 (only years available), this state had 14 SULI/CCI interns
 ```
   # Interns  Program    College
 -----------  ---------  -----------------------------------------

@@ -59,7 +59,7 @@ EASTERN KENTUCKY UNIVERSITY                                143,420
 U OF LOUISVILLE RES FDN                                     95,363
 ```
 ## SULI/CCI Interns
-From 2014-2016 (only years available), this district had 15 SULI/CCI interns
+From 2014-2016 (only years available), this state had 15 SULI/CCI interns
 ```
   # Interns  Program    College
 -----------  ---------  ---------------------------------------------

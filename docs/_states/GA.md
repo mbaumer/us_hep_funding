@@ -72,7 +72,7 @@ AUGUSTA UNIVERSITY RESEARCH INSTITUTE, INC.                              23,376
 U OF GEORGIA                                                              7,400
 ```
 ## SULI/CCI Interns
-From 2014-2016 (only years available), this district had 58 SULI/CCI interns
+From 2014-2016 (only years available), this state had 58 SULI/CCI interns
 ```
   # Interns  Program    College
 -----------  ---------  -------------------------------------

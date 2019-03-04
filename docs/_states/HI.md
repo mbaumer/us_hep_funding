@@ -51,7 +51,7 @@ CALIFORNIA ASSOCIATION FOR RESEARCH IN ASTRONOMY     6,172,037
 CHAMINADE UNIVERSITY OF HONOLULU                       633,668
 ```
 ## SULI/CCI Interns
-From 2014-2016 (only years available), this district had 7 SULI/CCI interns
+From 2014-2016 (only years available), this state had 7 SULI/CCI interns
 ```
   # Interns  Program    College
 -----------  ---------  -----------------------------

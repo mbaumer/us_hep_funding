@@ -41,7 +41,7 @@ DOANE COLLEGE                                        105,000
 CREIGHTON UNIVERSITY                                  92,500
 ```
 ## SULI/CCI Interns
-From 2014-2016 (only years available), this district had 9 SULI/CCI interns
+From 2014-2016 (only years available), this state had 9 SULI/CCI interns
 ```
   # Interns  Program    College
 -----------  ---------  -------------------------------

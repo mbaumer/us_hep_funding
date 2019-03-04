@@ -91,7 +91,7 @@ REDACTED DUE TO PII                                   100,000
 OAK RIDGE ASSOCIATED UNIVERSITIES, INCORPORATED        30,847
 ```
 ## SULI/CCI Interns
-From 2014-2016 (only years available), this district had 152 SULI/CCI interns
+From 2014-2016 (only years available), this state had 152 SULI/CCI interns
 ```
   # Interns  Program    College
 -----------  ---------  --------------------------------------

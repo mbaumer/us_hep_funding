@@ -164,7 +164,7 @@ ST LAWRENCE UNIVERSITY                                                          
 SUNY BINGHAMTON                                                                         200
 ```
 ## SULI/CCI Interns
-From 2014-2016 (only years available), this district had 311 SULI/CCI interns
+From 2014-2016 (only years available), this state had 311 SULI/CCI interns
 ```
   # Interns  Program    College
 -----------  ---------  --------------------------------------------------------------------------------

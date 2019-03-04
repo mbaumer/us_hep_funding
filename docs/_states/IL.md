@@ -109,7 +109,7 @@ FERMI RESEARCH ALLIANCE, LLC                     28,740
 DE PAUL UNIVERSITY                               20,567
 ```
 ## SULI/CCI Interns
-From 2014-2016 (only years available), this district had 175 SULI/CCI interns
+From 2014-2016 (only years available), this state had 175 SULI/CCI interns
 ```
   # Interns  Program    College
 -----------  ---------  -------------------------------------------------

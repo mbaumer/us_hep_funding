@@ -45,7 +45,7 @@ BOARD OF REGENTS NEVADA SYSTEM OF HIGHER EDUCATION       950,306
 BOARD OF REGENTS NEVADA SYSTEM OF HIGHER EDUC            892,330
 ```
 ## SULI/CCI Interns
-From 2014-2016 (only years available), this district had 2 SULI/CCI interns
+From 2014-2016 (only years available), this state had 2 SULI/CCI interns
 ```
   # Interns  Program    College
 -----------  ---------  -------------------------

@@ -56,7 +56,7 @@ LINFIELD COLLEGE                         180,677
 REED COLLEGE                              28,000
 ```
 ## SULI/CCI Interns
-From 2014-2016 (only years available), this district had 34 SULI/CCI interns
+From 2014-2016 (only years available), this state had 34 SULI/CCI interns
 ```
   # Interns  Program    College
 -----------  ---------  ------------------------------

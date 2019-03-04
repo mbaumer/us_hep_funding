@@ -42,7 +42,7 @@ SAINT MICHAEL'S COLLEGE, INC.                            182,771
 U OF VERMONT & ST AGR COLL                                75,000
 ```
 ## SULI/CCI Interns
-From 2014-2016 (only years available), this district had 6 SULI/CCI interns
+From 2014-2016 (only years available), this state had 6 SULI/CCI interns
 ```
   # Interns  Program    College
 -----------  ---------  -----------------------

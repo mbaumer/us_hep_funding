@@ -63,7 +63,7 @@ UNI                                                    86,001
 DORDT COLLEGE, INCORPORATED                            55,685
 ```
 ## SULI/CCI Interns
-From 2014-2016 (only years available), this district had 60 SULI/CCI interns
+From 2014-2016 (only years available), this state had 60 SULI/CCI interns
 ```
   # Interns  Program    College
 -----------  ---------  ---------------------------------

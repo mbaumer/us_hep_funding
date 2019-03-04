@@ -91,7 +91,7 @@ MONTGOMERY COMMUNITY COLLEGE                                   39,449
 CAPITOL COLLEGE                                                25,433
 ```
 ## SULI/CCI Interns
-From 2014-2016 (only years available), this district had 25 SULI/CCI interns
+From 2014-2016 (only years available), this state had 25 SULI/CCI interns
 ```
   # Interns  Program    College
 -----------  ---------  ---------------------------------------

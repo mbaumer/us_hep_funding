@@ -51,7 +51,7 @@ In the past 8 years, this state has received:
   2012  UNIVERSITY OF NORTH DAKOTA          300,000
 ```
 ## SULI/CCI Interns
-From 2014-2016 (only years available), this district had 1 SULI/CCI intern
+From 2014-2016 (only years available), this state had 1 SULI/CCI intern
 ```
   # Interns  Program    College
 -----------  ---------  -----------------------------------------

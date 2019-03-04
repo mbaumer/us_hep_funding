@@ -57,7 +57,7 @@ In the past 8 years, this state has received:
   2012  UNIVERSITY OF DELAWARE                            6,600,459
 ```
 ## SULI/CCI Interns
-From 2014-2016 (only years available), this district had 11 SULI/CCI interns
+From 2014-2016 (only years available), this state had 11 SULI/CCI interns
 ```
   # Interns  Program    College
 -----------  ---------  -------------------------
