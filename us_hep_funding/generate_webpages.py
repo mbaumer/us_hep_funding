@@ -23,7 +23,7 @@ nsf_by_state = nsf_grants.groupby(['State'])
 nsf_by_district = nsf_grants.groupby(['District'])
 
 #SULI Students
-suli_students = pd.read_pickle('../new_data/suli_students.pkl')
+suli_students = pd.read_pickle('../new_data/cleaned/suli_students.pkl')
 suli_students_by_state = suli_students.groupby(['State'])
 suli_students_by_district = suli_students.groupby(['Congressional District'])
 

@@ -175,6 +175,31 @@ def clean_doe_grant_data():
     hepdata['Project Title'].loc[4357] = 'High Energy Physics - Energy, Intensity, Theoretical Frontier' 
     hepdata.to_pickle('../new_data/cleaned/hep_grants.pkl')
 
+def clean_suli_student_data():
+    geocoded_insts = pd.read_csv('/Users/mbaumer/side_projects/us_hep_funding/data/college_addrs_2ndpass_geocodio.csv')
+
+    data = pd.read_csv('/Users/mbaumer/Documents/suli_student_data.csv',
+                    names=['Name','College','Host Lab','Term','A','B'],skiprows=1)
+    data = data[['Name','College','Host Lab','Term']]
+    data['Program'] = 'SULI'
+    data = data.dropna()
+    data = data.replace('\\n', '',regex=True)
+
+    data2 = pd.read_csv('/Users/mbaumer/Documents/cci_student_info.csv',
+                    names=['Name','College','Host Lab','Term','A','B'],skiprows=1)
+    data2 = data2[['Name','College','Host Lab','Term']]
+    data2['Program'] = 'CCI'
+    data2 = data2.dropna()
+    data2 = data2.replace('\\n', '',regex=True)
+
+    data = pd.concat([data,data2],ignore_index=True)
+
+    geo_students = data.merge(geocoded_insts)
+
+    geo_students['Name'].loc[297] = 'Nneka Estee Joyette-Daniel'
+    geo_students['Name'].loc[2087] = 'Rubi Pena'
+    geo_students['Name'].loc[1861] = 'Nataniel Medina Berrios'
+    pd.to_pickle(geo_students,'/Users/mbaumer/side_projects/us_hep_funding/new_data/cleaned/suli_students.pkl')
 
 def clean_nsf_grant_data():
     print 'Generating NSF Grant data...'
