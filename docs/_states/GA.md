@@ -72,28 +72,29 @@ AUGUSTA UNIVERSITY RESEARCH INSTITUTE, INC.                              23,376
 U OF GEORGIA                                                              7,400
 ```
 ## SULI/CCI Interns
-From 2014-2016 (only years available), this state had 58 SULI/CCI interns
+<p align="center">
+![GA SULI/CCI image]({{ site.baseurl }}/img/GA.png)
+</p>
+From 2014-2016 (only years available), this state had 47 SULI/CCI interns
 ```
   # Interns  Program    College
 -----------  ---------  -------------------------------------
-         24  SULI       Georgia Institute of Technology
+         18  SULI       Georgia Institute of Technology
           5  SULI       University of Georgia
           4  SULI       Emory University
           4  SULI       Southern Polytechnic State University
-          4  SULI       Georgia State University
-          3  SULI       Kennesaw State University
+          3  SULI       Georgia State University
+          2  SULI       Kennesaw State University
           2  SULI       Young Harris College
-          2  SULI       Fort Valley State University
-          1  SULI       Wesleyan College
-          1  SULI       Spelman College
-          1  SULI       Mercer University
-          1  SULI       Agnes Scott College
           1  SULI       Berry College
-          1  SULI       Georgia College and State University
-          1  SULI       Emmanuel College
-          1  SULI       Covenant College
           1  SULI       Columbus State University
+          1  SULI       Covenant College
+          1  SULI       Fort Valley State University
+          1  SULI       Georgia College and State University
           1  SULI       Georgia Perimeter College
+          1  SULI       Mercer University
+          1  SULI       Spelman College
+          1  SULI       Wesleyan College
 ```
 ---
 ---
@@ -139,14 +140,13 @@ This district received no SC contracts from 2012-2019
 This district received no NSF MPS grants from 2012-2019
 ```
 ## SULI/CCI Interns
-From 2014-2016 (only years available), this district had 4 SULI/CCI interns
+From 2014-2016 (only years available), this district had 3 SULI/CCI interns
 ```
-Term         Name                    College                       Host Lab                        Program
------------  ----------------------  ----------------------------  ------------------------------  ---------
-Summer 2015  Dominic Frazier Brooks  Fort Valley State University  Los Alamos National Laboratory  SULI
-Summer 2015  Arnold Eatmon           Fort Valley State University  Los Alamos National Laboratory  SULI
-Summer 2014  Kirsten Alyssa Brown    Mercer University             Oak Ridge National Laboratory   SULI
-Summer 2014  Christopher Scanlon     Columbus State University     Oak Ridge National Laboratory   SULI
+Term         Name                  College                       Host Lab                        Program
+-----------  --------------------  ----------------------------  ------------------------------  ---------
+Summer 2015  Arnold Eatmon         Fort Valley State University  Los Alamos National Laboratory  SULI
+Summer 2014  Kirsten Alyssa Brown  Mercer University             Oak Ridge National Laboratory   SULI
+Summer 2014  Christopher Scanlon   Columbus State University     Oak Ridge National Laboratory   SULI
 ```
 ---
 <a name="GA-03"></a>
@@ -267,45 +267,37 @@ In the past 8 years, this district has received:<b> $139,743,728 </b>in NSF MPS 
   2012  CLARK ATLANTA UNIVERSITY, INC.                           405,000
 ```
 ## SULI/CCI Interns
-From 2014-2016 (only years available), this district had 35 SULI/CCI interns
+From 2014-2016 (only years available), this district had 27 SULI/CCI interns
 ```
-Term         Name                         College                          Host Lab                                        Program
------------  ---------------------------  -------------------------------  ----------------------------------------------  ---------
-Summer 2016  Chaker Fares                 Georgia Institute of Technology  National Renewable Energy Laboratory            SULI
-Summer 2016  Joshua Barnett               Georgia Institute of Technology  Brookhaven National Laboratory                  SULI
-Summer 2016  Millie Ma                    Emory University                 Brookhaven National Laboratory                  SULI
-Summer 2016  Gui Xin Zhang                Georgia Institute of Technology  Oak Ridge National Laboratory                   SULI
-Summer 2016  Andrew Royappa               Georgia Institute of Technology  National Renewable Energy Laboratory            SULI
-Summer 2016  Kristina Elisabeth Reed      Georgia Institute of Technology  Oak Ridge National Laboratory                   SULI
-Summer 2016  Michael Lane                 Georgia Institute of Technology  Los Alamos National Laboratory                  SULI
-Summer 2016  Adrian Glass                 Georgia Institute of Technology  Argonne National Laboratory                     SULI
-Summer 2016  Emily Victoria Ferrando      Georgia Institute of Technology  Argonne National Laboratory                     SULI
-Summer 2016  Akhil Hemant Chavan          Georgia Institute of Technology  Argonne National Laboratory                     SULI
-Summer 2016  Patrick Gabriel Gaulden      Georgia Perimeter College        Savannah River National Laboratory              SULI
-Summer 2015  Brian Allen Jollie           Georgia Institute of Technology  Thomas Jefferson National Accelerator Facility  SULI
-Summer 2015  Maximilian Minhthong Nguyen  Georgia Institute of Technology  Argonne National Laboratory                     SULI
-Summer 2015  Madeline M Dekarske          Agnes Scott College              Oak Ridge National Laboratory                   SULI
-Summer 2015  Yohan John                   Georgia Institute of Technology  Oak Ridge National Laboratory                   SULI
-Summer 2015  Daniel Engel                 Georgia Institute of Technology  Lawrence Livermore National Laboratory          SULI
-Summer 2015  Kaitlyn Ann Lapen            Emory University                 Argonne National Laboratory                     SULI
-Summer 2015  Zoe Klesmith                 Georgia Institute of Technology  Argonne National Laboratory                     SULI
-Summer 2014  Gregory Szalkowski           Georgia Institute of Technology  Princeton Plasma Physics Laboratory             SULI
-Summer 2014  Jennifer Nguyen              Georgia Institute of Technology  Oak Ridge National Laboratory                   SULI
-Summer 2014  Dana Max                     Emory University                 National Renewable Energy Laboratory            SULI
-Summer 2014  Kierra Shanelle Brown        Spelman College                  Brookhaven National Laboratory                  SULI
-Summer 2014  Allyson Rogers               Georgia Institute of Technology  National Renewable Energy Laboratory            SULI
-Summer 2014  Christian Tuchez             Georgia Institute of Technology  Idaho National Laboratory                       SULI
-Summer 2014  Andrea Vetrone               Georgia Institute of Technology  Argonne National Laboratory                     SULI
-Summer 2014  Karla Brooke Wagner          Georgia Institute of Technology  Pacific Northwest National Laboratory           SULI
-Summer 2014  Dustin Yang                  Georgia Institute of Technology  Lawrence Livermore National Laboratory          SULI
-Summer 2014  Benjamin Charles Musall      Georgia Institute of Technology  Savannah River National Laboratory              SULI
-Summer 2014  Varija Agarwal               Georgia Institute of Technology  Oak Ridge National Laboratory                   SULI
-Spring 2016  Bryan Jeffrey Mann           Emory University                 Los Alamos National Laboratory                  SULI
-Spring 2016  Salene Marie Rowe            Georgia State University         Idaho National Laboratory                       SULI
-Spring 2015  Arielle Hackel               Georgia State University         Pacific Northwest National Laboratory           SULI
-Spring 2015  Matthew Rager                Georgia State University         Oak Ridge National Laboratory                   SULI
-Fall 2015    Katherine Myers              Georgia Institute of Technology  Los Alamos National Laboratory                  SULI
-Fall 2014    Matthew Rager                Georgia State University         Oak Ridge National Laboratory                   SULI
+Term         Name                     College                          Host Lab                                        Program
+-----------  -----------------------  -------------------------------  ----------------------------------------------  ---------
+Summer 2016  Joshua Barnett           Georgia Institute of Technology  Brookhaven National Laboratory                  SULI
+Summer 2016  Andrew Royappa           Georgia Institute of Technology  National Renewable Energy Laboratory            SULI
+Summer 2016  Michael Lane             Georgia Institute of Technology  Los Alamos National Laboratory                  SULI
+Summer 2016  Gui Xin Zhang            Georgia Institute of Technology  Oak Ridge National Laboratory                   SULI
+Summer 2016  Kristina Elisabeth Reed  Georgia Institute of Technology  Oak Ridge National Laboratory                   SULI
+Summer 2016  Patrick Gabriel Gaulden  Georgia Perimeter College        Savannah River National Laboratory              SULI
+Summer 2016  Akhil Hemant Chavan      Georgia Institute of Technology  Argonne National Laboratory                     SULI
+Summer 2016  Emily Victoria Ferrando  Georgia Institute of Technology  Argonne National Laboratory                     SULI
+Summer 2016  Millie Ma                Emory University                 Brookhaven National Laboratory                  SULI
+Summer 2015  Brian Allen Jollie       Georgia Institute of Technology  Thomas Jefferson National Accelerator Facility  SULI
+Summer 2015  Zoe Klesmith             Georgia Institute of Technology  Argonne National Laboratory                     SULI
+Summer 2015  Yohan John               Georgia Institute of Technology  Oak Ridge National Laboratory                   SULI
+Summer 2015  Kaitlyn Ann Lapen        Emory University                 Argonne National Laboratory                     SULI
+Summer 2015  Daniel Engel             Georgia Institute of Technology  Lawrence Livermore National Laboratory          SULI
+Summer 2014  Kierra Shanelle Brown    Spelman College                  Brookhaven National Laboratory                  SULI
+Summer 2014  Gregory Szalkowski       Georgia Institute of Technology  Princeton Plasma Physics Laboratory             SULI
+Summer 2014  Allyson Rogers           Georgia Institute of Technology  National Renewable Energy Laboratory            SULI
+Summer 2014  Dustin Yang              Georgia Institute of Technology  Lawrence Livermore National Laboratory          SULI
+Summer 2014  Christian Tuchez         Georgia Institute of Technology  Idaho National Laboratory                       SULI
+Summer 2014  Karla Brooke Wagner      Georgia Institute of Technology  Pacific Northwest National Laboratory           SULI
+Summer 2014  Benjamin Charles Musall  Georgia Institute of Technology  Savannah River National Laboratory              SULI
+Summer 2014  Dana Max                 Emory University                 National Renewable Energy Laboratory            SULI
+Spring 2016  Bryan Jeffrey Mann       Emory University                 Los Alamos National Laboratory                  SULI
+Spring 2015  Arielle Hackel           Georgia State University         Pacific Northwest National Laboratory           SULI
+Spring 2015  Matthew Rager            Georgia State University         Oak Ridge National Laboratory                   SULI
+Fall 2015    Katherine Myers          Georgia Institute of Technology  Los Alamos National Laboratory                  SULI
+Fall 2014    Matthew Rager            Georgia State University         Oak Ridge National Laboratory                   SULI
 ```
 ---
 <a name="GA-06"></a>
@@ -420,13 +412,12 @@ In the past 8 years, this district has received:<b> $215,469 </b>in NSF MPS gran
   2014  UNIVERSITY OF NORTH GEORGIA        86,469
 ```
 ## SULI/CCI Interns
-From 2014-2016 (only years available), this district had 3 SULI/CCI interns
+From 2014-2016 (only years available), this district had 2 SULI/CCI interns
 ```
-Term         Name                      College               Host Lab                        Program
------------  ------------------------  --------------------  ------------------------------  ---------
-Summer 2016  Christopher Luke Baglivi  Emmanuel College      Brookhaven National Laboratory  SULI
-Summer 2014  Karissa Lynn Cross        Young Harris College  Oak Ridge National Laboratory   SULI
-Spring 2014  Ashley Renee Cross        Young Harris College  Oak Ridge National Laboratory   SULI
+Term         Name                College               Host Lab                       Program
+-----------  ------------------  --------------------  -----------------------------  ---------
+Summer 2014  Karissa Lynn Cross  Young Harris College  Oak Ridge National Laboratory  SULI
+Spring 2014  Ashley Renee Cross  Young Harris College  Oak Ridge National Laboratory  SULI
 ```
 ---
 <a name="GA-10"></a>
@@ -504,11 +495,10 @@ In the past 8 years, this district has received:<b> $1,258,231 </b>in NSF MPS gr
   2012  KENNESAW STATE UNIVERSITY  RESEARCH AND SERVI                         120,000
 ```
 ## SULI/CCI Interns
-From 2014-2016 (only years available), this district had 7 SULI/CCI interns
+From 2014-2016 (only years available), this district had 6 SULI/CCI interns
 ```
 Term         Name                   College                                Host Lab                               Program
 -----------  ---------------------  -------------------------------------  -------------------------------------  ---------
-Summer 2016  Pearl Jean             Kennesaw State University              Ames National Laboratory               SULI
 Summer 2015  Adam Amster            Kennesaw State University              Pacific Northwest National Laboratory  SULI
 Summer 2015  Edward Wachira Mwangi  Kennesaw State University              Pacific Northwest National Laboratory  SULI
 Summer 2014  Chase Davani           Southern Polytechnic State University  Oak Ridge National Laboratory          SULI

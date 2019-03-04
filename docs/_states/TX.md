@@ -139,31 +139,33 @@ ABILENE CHRISTIAN UNIVERSITY                                                    
 MIDWESTERN STATE UNIVERSITY                                                     21,000
 ```
 ## SULI/CCI Interns
-From 2014-2016 (only years available), this state had 46 SULI/CCI interns
+<p align="center">
+![TX SULI/CCI image]({{ site.baseurl }}/img/TX.png)
+</p>
+From 2014-2016 (only years available), this state had 33 SULI/CCI interns
 ```
   # Interns  Program    College
 -----------  ---------  ------------------------------------------------------------------
-          8  SULI       University of Texas at Austin
-          6  SULI       Rice University
-          4  SULI       Texas Tech University
-          3  SULI       University of Texas at Arlington
-          3  SULI       Trinity University
-          2  SULI       Texas A&M University
+          5  SULI       University of Texas at Austin
+          3  SULI       Rice University
+          3  SULI       Texas Tech University
           2  CCI        Mountain View College
-          2  SULI       University of North Texas
-          2  SULI       University of Texas at El Paso
-          2  SULI       Baylor University
+          2  SULI       University of Texas at Arlington
+          2  SULI       Trinity University
+          2  SULI       Texas A&M University
           2  SULI       Austin College
+          1  SULI       The University of Texas at Brownsville and Texas Southmost College
+          1  SULI       University of Texas at Dallas
+          1  SULI       University of North Texas
+          1  SULI       University of Houston--Downtown
+          1  SULI       Texas State University
           1  SULI       St. Edward's University
           1  SULI       Richland College
-          1  SULI       Texas State University
           1  SULI       Mountain View College
-          1  SULI       The University of Texas at Brownsville and Texas Southmost College
           1  SULI       Midland College
-          1  SULI       University of Houston--Downtown
           1  SULI       Del Mar College
-          1  SULI       University of Texas at Dallas
-          1  CCI        Amarillo College
+          1  SULI       Baylor University
+          1  SULI       University of Texas at El Paso
 ```
 ---
 ---
@@ -369,13 +371,12 @@ In the past 8 years, this district has received:<b> $3,916,977 </b>in NSF MPS gr
   2015  UNIVERSITY OF TEXAS AT ARLINGTON       793,260
 ```
 ## SULI/CCI Interns
-From 2014-2016 (only years available), this district had 3 SULI/CCI interns
+From 2014-2016 (only years available), this district had 2 SULI/CCI interns
 ```
 Term         Name                      College                           Host Lab                                Program
 -----------  ------------------------  --------------------------------  --------------------------------------  ---------
 Summer 2015  Soha Aslam                University of Texas at Arlington  Lawrence Livermore National Laboratory  SULI
 Spring 2015  Emmanuel Yeboah Fordjour  University of Texas at Arlington  Argonne National Laboratory             SULI
-Fall 2015    Soha Aslam                University of Texas at Arlington  Princeton Plasma Physics Laboratory     SULI
 ```
 ---
 <a name="TX-07"></a>
@@ -483,16 +484,13 @@ In the past 8 years, this district has received:<b> $4,255,460 </b>in NSF MPS gr
   2013  UNIVERSITY OF TEXAS HEALTH SCIENCE CENTER AT               147,000
 ```
 ## SULI/CCI Interns
-From 2014-2016 (only years available), this district had 6 SULI/CCI interns
+From 2014-2016 (only years available), this district had 3 SULI/CCI interns
 ```
-Term         Name                    College          Host Lab                              Program
------------  ----------------------  ---------------  ------------------------------------  ---------
-Summer 2016  Daniel Fan              Rice University  National Renewable Energy Laboratory  SULI
-Summer 2016  Kentaro Hoffman         Rice University  Argonne National Laboratory           SULI
-Summer 2016  Ajay Subramanian        Rice University  Los Alamos National Laboratory        SULI
-Summer 2016  Bilan Yang              Rice University  Argonne National Laboratory           SULI
-Summer 2015  Sarah Paschal Gerenday  Rice University  Argonne National Laboratory           SULI
-Summer 2014  Justin Scott Dong       Rice University  Argonne National Laboratory           SULI
+Term         Name               College          Host Lab                              Program
+-----------  -----------------  ---------------  ------------------------------------  ---------
+Summer 2016  Daniel Fan         Rice University  National Renewable Energy Laboratory  SULI
+Summer 2016  Ajay Subramanian   Rice University  Los Alamos National Laboratory        SULI
+Summer 2014  Justin Scott Dong  Rice University  Argonne National Laboratory           SULI
 ```
 ---
 <a name="TX-10"></a>
@@ -613,11 +611,8 @@ In the past 8 years, this district has received:<b> $402,686 </b>in NSF MPS gran
   2014  TEXAS A&M UNIVERSITY SYSTEM,THE       371,700
 ```
 ## SULI/CCI Interns
-From 2014-2016 (only years available), this district had 1 SULI/CCI intern
 ```
-Term         Name         College           Host Lab                        Program
------------  -----------  ----------------  ------------------------------  ---------
-Summer 2016  Bryan Arney  Amarillo College  Los Alamos National Laboratory  CCI
+This district had no SULI/CCI interns from 2014-2016 (only years available)
 ```
 ---
 <a name="TX-14"></a>
@@ -710,11 +705,10 @@ In the past 8 years, this district has received:<b> $7,477,585 </b>in NSF MPS gr
   2012  UNIVERSITY OF TEXAS AT EL PASO     1,374,004
 ```
 ## SULI/CCI Interns
-From 2014-2016 (only years available), this district had 2 SULI/CCI interns
+From 2014-2016 (only years available), this district had 1 SULI/CCI intern
 ```
 Term         Name                     College                         Host Lab                               Program
 -----------  -----------------------  ------------------------------  -------------------------------------  ---------
-Summer 2016  Kevin Schnittker         University of Texas at El Paso  Oak Ridge National Laboratory          SULI
 Spring 2014  Suzanne Annette Apodaca  University of Texas at El Paso  Lawrence Berkeley National Laboratory  SULI
 ```
 ---
@@ -790,14 +784,13 @@ In the past 8 years, this district has received:<b> $68,218,147 </b>in NSF MPS g
   2012  BAYLOR UNIVERSITY                                  863,820
 ```
 ## SULI/CCI Interns
-From 2014-2016 (only years available), this district had 4 SULI/CCI interns
+From 2014-2016 (only years available), this district had 3 SULI/CCI interns
 ```
-Term         Name                 College               Host Lab                               Program
------------  -------------------  --------------------  -------------------------------------  ---------
-Summer 2016  Rachel Komorek       Texas A&M University  Pacific Northwest National Laboratory  SULI
-Summer 2016  Serdar Ozguc         Texas A&M University  Argonne National Laboratory            SULI
-Summer 2014  Barry Hartweg        Baylor University     National Renewable Energy Laboratory   SULI
-Summer 2014  Corrine Audrey Nief  Baylor University     Oak Ridge National Laboratory          SULI
+Term         Name            College               Host Lab                               Program
+-----------  --------------  --------------------  -------------------------------------  ---------
+Summer 2016  Serdar Ozguc    Texas A&M University  Argonne National Laboratory            SULI
+Summer 2016  Rachel Komorek  Texas A&M University  Pacific Northwest National Laboratory  SULI
+Summer 2014  Barry Hartweg   Baylor University     National Renewable Energy Laboratory   SULI
 ```
 ---
 <a name="TX-18"></a>
@@ -895,14 +888,13 @@ In the past 8 years, this district has received:<b> $10,647,856 </b>in NSF MPS g
   2012  TEXAS TECH UNIVERSITY SYSTEM                     1,124,268
 ```
 ## SULI/CCI Interns
-From 2014-2016 (only years available), this district had 4 SULI/CCI interns
+From 2014-2016 (only years available), this district had 3 SULI/CCI interns
 ```
-Term         Name                              College                Host Lab                        Program
------------  --------------------------------  ---------------------  ------------------------------  ---------
-Summer 2016  Maksym Viktorovich Zhelyeznyakov  Texas Tech University  Sandia National Laboratory      SULI
-Summer 2015  Jacob Michael Martin              Texas Tech University  Los Alamos National Laboratory  SULI
-Summer 2014  Mark Lange                        Texas Tech University  Los Alamos National Laboratory  SULI
-Summer 2014  Tara Parker                       Texas Tech University  Oak Ridge National Laboratory   SULI
+Term         Name                  College                Host Lab                        Program
+-----------  --------------------  ---------------------  ------------------------------  ---------
+Summer 2015  Jacob Michael Martin  Texas Tech University  Los Alamos National Laboratory  SULI
+Summer 2014  Tara Parker           Texas Tech University  Oak Ridge National Laboratory   SULI
+Summer 2014  Mark Lange            Texas Tech University  Los Alamos National Laboratory  SULI
 ```
 ---
 <a name="TX-20"></a>
@@ -1042,13 +1034,12 @@ In the past 8 years, this district has received:<b> $4,774,454 </b>in NSF MPS gr
   2012  UNIVERSITY OF TEXAS AT SAN ANTONIO       665,902
 ```
 ## SULI/CCI Interns
-From 2014-2016 (only years available), this district had 3 SULI/CCI interns
+From 2014-2016 (only years available), this district had 2 SULI/CCI interns
 ```
-Term         Name                     College             Host Lab                               Program
------------  -----------------------  ------------------  -------------------------------------  ---------
-Summer 2016  Meagan Coffer            Trinity University  Argonne National Laboratory            SULI
-Summer 2015  Colin Ryan Serkowski     Trinity University  Pacific Northwest National Laboratory  SULI
-Summer 2015  Aaron Alexander Skinner  Trinity University  Brookhaven National Laboratory         SULI
+Term         Name                  College             Host Lab                               Program
+-----------  --------------------  ------------------  -------------------------------------  ---------
+Summer 2016  Meagan Coffer         Trinity University  Argonne National Laboratory            SULI
+Summer 2015  Colin Ryan Serkowski  Trinity University  Pacific Northwest National Laboratory  SULI
 ```
 ---
 <a name="TX-24"></a>
@@ -1122,16 +1113,13 @@ In the past 8 years, this district has received:<b> $66,260,613 </b>in NSF MPS g
   2013  UNIVERSITY OF TEXAS AT AUSTIN    10,530,367
 ```
 ## SULI/CCI Interns
-From 2014-2016 (only years available), this district had 8 SULI/CCI interns
+From 2014-2016 (only years available), this district had 5 SULI/CCI interns
 ```
 Term         Name                   College                        Host Lab                                Program
 -----------  ---------------------  -----------------------------  --------------------------------------  ---------
 Summer 2016  Elaine Lui             University of Texas at Austin  Lawrence Livermore National Laboratory  SULI
 Summer 2016  Emily Ma               University of Texas at Austin  Lawrence Livermore National Laboratory  SULI
 Summer 2016  Don Pham               University of Texas at Austin  Lawrence Livermore National Laboratory  SULI
-Summer 2015  Johnathan Kyle         University of Texas at Austin  National Renewable Energy Laboratory    SULI
-Summer 2015  Leticia Lee            University of Texas at Austin  Argonne National Laboratory             SULI
-Summer 2015  Jose Rafael Parga      University of Texas at Austin  Idaho National Laboratory               SULI
 Summer 2014  David Warren Hamilton  University of Texas at Austin  Brookhaven National Laboratory          SULI
 Spring 2016  Don Pham               University of Texas at Austin  Lawrence Livermore National Laboratory  SULI
 ```
@@ -1164,12 +1152,11 @@ In the past 8 years, this district has received:<b> $7,928,510 </b>in NSF MPS gr
   2012  UNIVERSITY OF NORTH TEXAS     1,298,235
 ```
 ## SULI/CCI Interns
-From 2014-2016 (only years available), this district had 2 SULI/CCI interns
+From 2014-2016 (only years available), this district had 1 SULI/CCI intern
 ```
 Term         Name         College                    Host Lab                       Program
 -----------  -----------  -------------------------  -----------------------------  ---------
 Summer 2014  Tyler Smith  University of North Texas  Oak Ridge National Laboratory  SULI
-Spring 2014  Tyler Smith  University of North Texas  Oak Ridge National Laboratory  SULI
 ```
 ---
 <a name="TX-27"></a>

@@ -91,14 +91,16 @@ MONTGOMERY COMMUNITY COLLEGE                                   39,449
 CAPITOL COLLEGE                                                25,433
 ```
 ## SULI/CCI Interns
-From 2014-2016 (only years available), this state had 25 SULI/CCI interns
+<p align="center">
+![MD SULI/CCI image]({{ site.baseurl }}/img/MD.png)
+</p>
+From 2014-2016 (only years available), this state had 19 SULI/CCI interns
 ```
   # Interns  Program    College
 -----------  ---------  ---------------------------------------
           8  SULI       University of Maryland College Park
-          7  SULI       Johns Hopkins University
-          5  SULI       University of Maryland Baltimore County
-          2  SULI       Towson University
+          4  SULI       Johns Hopkins University
+          4  SULI       University of Maryland Baltimore County
           1  CCI        Frederick Community College
           1  SULI       Bowie State University
           1  SULI       McDaniel College
@@ -177,12 +179,8 @@ In the past 8 years, this district has received:<b> $1,782,487 </b>in NSF MPS gr
   2015  TOWSON UNIVERSITY                      382,737
 ```
 ## SULI/CCI Interns
-From 2014-2016 (only years available), this district had 2 SULI/CCI interns
 ```
-Term         Name          College            Host Lab                               Program
------------  ------------  -----------------  -------------------------------------  ---------
-Summer 2014  Zoey Warecki  Towson University  Brookhaven National Laboratory         SULI
-Spring 2015  Zoey Warecki  Towson University  Lawrence Berkeley National Laboratory  SULI
+This district had no SULI/CCI interns from 2014-2016 (only years available)
 ```
 ---
 <a name="MD-03"></a>
@@ -340,13 +338,13 @@ From 2014-2016 (only years available), this district had 9 SULI/CCI interns
 ```
 Term         Name                   College                              Host Lab                                        Program
 -----------  ---------------------  -----------------------------------  ----------------------------------------------  ---------
-Summer 2016  Sabrina Curtis         University of Maryland College Park  Lawrence Berkeley National Laboratory           SULI
 Summer 2016  John Desmond           University of Maryland College Park  Brookhaven National Laboratory                  SULI
-Summer 2016  Rebecca Fan            University of Maryland College Park  Argonne National Laboratory                     SULI
-Summer 2016  Matthew Rosenfeld      University of Maryland College Park  Oak Ridge National Laboratory                   SULI
 Summer 2016  Joseph Aaron Smiga     University of Maryland College Park  Brookhaven National Laboratory                  SULI
-Summer 2015  David Alexander Marin  University of Maryland College Park  National Renewable Energy Laboratory            SULI
+Summer 2016  Rebecca Fan            University of Maryland College Park  Argonne National Laboratory                     SULI
+Summer 2016  Sabrina Curtis         University of Maryland College Park  Lawrence Berkeley National Laboratory           SULI
+Summer 2016  Matthew Rosenfeld      University of Maryland College Park  Oak Ridge National Laboratory                   SULI
 Summer 2015  Raymond Jeremy Carson  Bowie State University               Brookhaven National Laboratory                  SULI
+Summer 2015  David Alexander Marin  University of Maryland College Park  National Renewable Energy Laboratory            SULI
 Summer 2014  Connor A Hart          University of Maryland College Park  Princeton Plasma Physics Laboratory             SULI
 Summer 2014  Melissa Meyerson       University of Maryland College Park  Thomas Jefferson National Accelerator Facility  SULI
 ```
@@ -459,22 +457,18 @@ In the past 8 years, this district has received:<b> $68,945,543 </b>in NSF MPS g
   2012  JOHNS HOPKINS UNIVERSITY, THE               8,268,873
 ```
 ## SULI/CCI Interns
-From 2014-2016 (only years available), this district had 12 SULI/CCI interns
+From 2014-2016 (only years available), this district had 8 SULI/CCI interns
 ```
-Term         Name                     College                                  Host Lab                                Program
------------  -----------------------  ---------------------------------------  --------------------------------------  ---------
-Summer 2016  Mitchell Roberts Devlin  University of Maryland Baltimore County  Argonne National Laboratory             SULI
-Summer 2016  Sidhartha Parhi          Johns Hopkins University                 Pacific Northwest National Laboratory   SULI
-Summer 2016  William Watson           Johns Hopkins University                 Brookhaven National Laboratory          SULI
-Summer 2015  Alexander Kaiser         University of Maryland Baltimore County  Brookhaven National Laboratory          SULI
-Summer 2015  Jane Aibo Pan            University of Maryland Baltimore County  Argonne National Laboratory             SULI
-Summer 2015  Maxwell Lee              Johns Hopkins University                 SLAC National Accelerator Laboratory    SULI
-Summer 2015  Meghan Perez             Johns Hopkins University                 Oak Ridge National Laboratory           SULI
-Summer 2015  Michael A Quintero       Johns Hopkins University                 Oak Ridge National Laboratory           SULI
-Summer 2014  Alison Burklund          Johns Hopkins University                 Lawrence Livermore National Laboratory  SULI
-Summer 2014  Jasper Lin               Johns Hopkins University                 National Renewable Energy Laboratory    SULI
-Spring 2016  Myela Autumn Paige       University of Maryland Baltimore County  Brookhaven National Laboratory          SULI
-Spring 2014  Owen Oladele Abe         University of Maryland Baltimore County  Brookhaven National Laboratory          SULI
+Term         Name                     College                                  Host Lab                              Program
+-----------  -----------------------  ---------------------------------------  ------------------------------------  ---------
+Summer 2016  William Watson           Johns Hopkins University                 Brookhaven National Laboratory        SULI
+Summer 2016  Mitchell Roberts Devlin  University of Maryland Baltimore County  Argonne National Laboratory           SULI
+Summer 2015  Alexander Kaiser         University of Maryland Baltimore County  Brookhaven National Laboratory        SULI
+Summer 2015  Jane Aibo Pan            University of Maryland Baltimore County  Argonne National Laboratory           SULI
+Summer 2015  Meghan Perez             Johns Hopkins University                 Oak Ridge National Laboratory         SULI
+Summer 2015  Maxwell Lee              Johns Hopkins University                 SLAC National Accelerator Laboratory  SULI
+Summer 2014  Jasper Lin               Johns Hopkins University                 National Renewable Energy Laboratory  SULI
+Spring 2014  Owen Oladele Abe         University of Maryland Baltimore County  Brookhaven National Laboratory        SULI
 ```
 ---
 <a name="MD-08"></a>

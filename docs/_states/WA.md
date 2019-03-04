@@ -80,32 +80,32 @@ WESTERN WASHINGTON UNIV                       49,806
 BATTELLE MEMORIAL INSTITUTE                    5,000
 ```
 ## SULI/CCI Interns
-From 2014-2016 (only years available), this state had 98 SULI/CCI interns
+<p align="center">
+![WA SULI/CCI image]({{ site.baseurl }}/img/WA.png)
+</p>
+From 2014-2016 (only years available), this state had 70 SULI/CCI interns
 ```
   # Interns  Program    College
 -----------  ---------  ---------------------------------
-         17  SULI       Washington State University
-         16  CCI        Columbia Basin College
-         14  SULI       University of Washington
+         11  SULI       University of Washington
+         10  CCI        Columbia Basin College
+         10  SULI       Washington State University
           7  SULI       Whitworth University
-          5  SULI       Seattle University
           5  SULI       Gonzaga University
-          4  CCI        Yakima Valley Community College
           4  SULI       University of Puget Sound
-          3  SULI       The Evergreen State College
-          3  SULI       Whitman College
-          3  SULI       Western Washington University
+          3  CCI        Yakima Valley Community College
           3  SULI       Pacific Lutheran University
-          2  CCI        Seattle Central Community College
-          2  SULI       Walla Walla University
           2  SULI       Columbia Basin College
-          2  CCI        Walla Walla Community College
-          1  SULI       Seattle Pacific University
+          2  SULI       Seattle University
+          2  SULI       The Evergreen State College
+          2  CCI        Seattle Central Community College
+          2  SULI       Western Washington University
+          2  SULI       Whitman College
           1  CCI        Tacoma Community College
+          1  CCI        Walla Walla Community College
           1  CCI        North Seattle Community College
-          1  SULI       Eastern Washington University
+          1  SULI       Walla Walla University
           1  CCI        Olympic College
-          1  CCI        Shoreline Community College
 ```
 ---
 ---
@@ -169,12 +169,11 @@ In the past 8 years, this district has received:<b> $5,783,763 </b>in NSF MPS gr
   2012  WESTERN WASHINGTON UNIVERSITY       951,730
 ```
 ## SULI/CCI Interns
-From 2014-2016 (only years available), this district had 3 SULI/CCI interns
+From 2014-2016 (only years available), this district had 2 SULI/CCI interns
 ```
 Term         Name                College                        Host Lab                               Program
 -----------  ------------------  -----------------------------  -------------------------------------  ---------
 Summer 2016  Timothy Allen Keal  Western Washington University  Pacific Northwest National Laboratory  SULI
-Spring 2015  Tamir Amitai        Western Washington University  Lawrence Berkeley National Laboratory  SULI
 Spring 2015  Bonnie Klamm        Western Washington University  Los Alamos National Laboratory         SULI
 ```
 ---
@@ -235,32 +234,25 @@ In the past 8 years, this district has received:<b> $322,073 </b>in NSF MPS gran
   2012  CENTRAL WASHINGTON UNIVERSITY INC       317,073
 ```
 ## SULI/CCI Interns
-From 2014-2016 (only years available), this district had 22 SULI/CCI interns
+From 2014-2016 (only years available), this district had 15 SULI/CCI interns
 ```
-Term         Name                      College                          Host Lab                               Program
------------  ------------------------  -------------------------------  -------------------------------------  ---------
-Summer 2016  Elias Sugarman            Yakima Valley Community College  Pacific Northwest National Laboratory  CCI
-Summer 2016  Gabriel Adonis Lepe       Yakima Valley Community College  Pacific Northwest National Laboratory  CCI
-Summer 2016  Nhuy Van                  Columbia Basin College           Pacific Northwest National Laboratory  CCI
-Summer 2016  Kyle Thomas               Columbia Basin College           Pacific Northwest National Laboratory  CCI
-Summer 2016  Zayne Nelson              Columbia Basin College           Pacific Northwest National Laboratory  CCI
-Summer 2016  Brian Duncan              Columbia Basin College           Pacific Northwest National Laboratory  CCI
-Summer 2015  Jordan Michael Condray    Columbia Basin College           Pacific Northwest National Laboratory  CCI
-Summer 2015  Brandon Rey Garza         Yakima Valley Community College  Pacific Northwest National Laboratory  CCI
-Summer 2015  Oumou Sidibe              Columbia Basin College           Pacific Northwest National Laboratory  CCI
-Summer 2015  Royden Luckey             Columbia Basin College           Pacific Northwest National Laboratory  CCI
-Summer 2015  Jonathan Gingras          Columbia Basin College           Pacific Northwest National Laboratory  CCI
-Summer 2014  Timothy Yang              Columbia Basin College           Idaho National Laboratory              CCI
-Summer 2014  Sulaiman Ezekiel Sannoh   Columbia Basin College           Pacific Northwest National Laboratory  CCI
-Summer 2014  Jereme Paul Rogers        Columbia Basin College           Pacific Northwest National Laboratory  CCI
-Summer 2014  Ronald Sydney Rhoads      Columbia Basin College           Pacific Northwest National Laboratory  CCI
-Summer 2014  Matthew James Muscarella  Columbia Basin College           Pacific Northwest National Laboratory  CCI
-Summer 2014  Bengt C Freepons          Columbia Basin College           Pacific Northwest National Laboratory  CCI
-Summer 2014  Marti Rose Scott          Yakima Valley Community College  Pacific Northwest National Laboratory  CCI
-Summer 2014  Jorge A Diaz              Columbia Basin College           Pacific Northwest National Laboratory  CCI
-Summer 2014  Amjad Al-Shakarji         Columbia Basin College           Pacific Northwest National Laboratory  CCI
-Summer 2014  Penny L McKenzie          Columbia Basin College           Idaho National Laboratory              SULI
-Spring 2015  Penny L McKenzie          Columbia Basin College           Pacific Northwest National Laboratory  SULI
+Term         Name                     College                          Host Lab                               Program
+-----------  -----------------------  -------------------------------  -------------------------------------  ---------
+Summer 2016  Brian Duncan             Columbia Basin College           Pacific Northwest National Laboratory  CCI
+Summer 2016  Zayne Nelson             Columbia Basin College           Pacific Northwest National Laboratory  CCI
+Summer 2016  Gabriel Adonis Lepe      Yakima Valley Community College  Pacific Northwest National Laboratory  CCI
+Summer 2016  Elias Sugarman           Yakima Valley Community College  Pacific Northwest National Laboratory  CCI
+Summer 2015  Jordan Michael Condray   Columbia Basin College           Pacific Northwest National Laboratory  CCI
+Summer 2015  Royden Luckey            Columbia Basin College           Pacific Northwest National Laboratory  CCI
+Summer 2015  Oumou Sidibe             Columbia Basin College           Pacific Northwest National Laboratory  CCI
+Summer 2015  Brandon Rey Garza        Yakima Valley Community College  Pacific Northwest National Laboratory  CCI
+Summer 2014  Amjad Al-Shakarji        Columbia Basin College           Pacific Northwest National Laboratory  CCI
+Summer 2014  Jorge A Diaz             Columbia Basin College           Pacific Northwest National Laboratory  CCI
+Summer 2014  Bengt C Freepons         Columbia Basin College           Pacific Northwest National Laboratory  CCI
+Summer 2014  Ronald Sydney Rhoads     Columbia Basin College           Pacific Northwest National Laboratory  CCI
+Summer 2014  Sulaiman Ezekiel Sannoh  Columbia Basin College           Pacific Northwest National Laboratory  CCI
+Summer 2014  Penny L McKenzie         Columbia Basin College           Idaho National Laboratory              SULI
+Spring 2015  Penny L McKenzie         Columbia Basin College           Pacific Northwest National Laboratory  SULI
 ```
 ---
 <a name="WA-05"></a>
@@ -305,44 +297,33 @@ In the past 8 years, this district has received:<b> $19,314,443 </b>in NSF MPS g
   2012  THE CORPORATION OF GONZAGA UNIVERSITY       241,494
 ```
 ## SULI/CCI Interns
-From 2014-2016 (only years available), this district had 37 SULI/CCI interns
+From 2014-2016 (only years available), this district had 26 SULI/CCI interns
 ```
 Term         Name                        College                        Host Lab                               Program
 -----------  --------------------------  -----------------------------  -------------------------------------  ---------
-Summer 2016  Jacqueline Rachel Wells     Washington State University    Pacific Northwest National Laboratory  SULI
-Summer 2016  Aj Paul Goulet              Washington State University    Pacific Northwest National Laboratory  SULI
-Summer 2016  Kennedy Elizabeth Corrigan  Walla Walla Community College  Pacific Northwest National Laboratory  CCI
-Summer 2016  David Burtt                 Whitman College                Pacific Northwest National Laboratory  SULI
 Summer 2016  Harrison Van Til            Gonzaga University             National Renewable Energy Laboratory   SULI
+Summer 2016  Kennedy Elizabeth Corrigan  Walla Walla Community College  Pacific Northwest National Laboratory  CCI
 Summer 2016  Joseph Loftus               Gonzaga University             Pacific Northwest National Laboratory  SULI
 Summer 2016  Ryan Michael Francis        Gonzaga University             Pacific Northwest National Laboratory  SULI
 Summer 2016  Sara Anne Wescott           Whitworth University           Pacific Northwest National Laboratory  SULI
-Summer 2016  Martijn Oostrom             Washington State University    Pacific Northwest National Laboratory  SULI
+Summer 2016  Aj Paul Goulet              Washington State University    Pacific Northwest National Laboratory  SULI
 Summer 2016  Elvin Munoz                 Washington State University    Pacific Northwest National Laboratory  SULI
-Summer 2016  Bethany Lawler              Washington State University    Pacific Northwest National Laboratory  SULI
-Summer 2016  Catherine Lynn Himes        Washington State University    Pacific Northwest National Laboratory  SULI
-Summer 2016  Tabitha Wellsandt           Walla Walla Community College  Pacific Northwest National Laboratory  CCI
+Summer 2016  Jacqueline Rachel Wells     Washington State University    Pacific Northwest National Laboratory  SULI
 Summer 2015  Linnea Zavala               Whitworth University           Brookhaven National Laboratory         SULI
-Summer 2015  Sarah Dorothy Gady          Whitworth University           Princeton Plasma Physics Laboratory    SULI
-Summer 2015  James Sherman               Gonzaga University             Idaho National Laboratory              SULI
-Summer 2015  Jacqueline Rachel Wells     Washington State University    Pacific Northwest National Laboratory  SULI
 Summer 2015  Cameron William Call        Whitworth University           Pacific Northwest National Laboratory  SULI
-Summer 2015  whitney laura garcia        Washington State University    Pacific Northwest National Laboratory  SULI
-Summer 2015  Elinor Lake                 Washington State University    Pacific Northwest National Laboratory  SULI
-Summer 2015  Kyle Alexander Romine       Washington State University    Pacific Northwest National Laboratory  SULI
+Summer 2015  Sarah Dorothy Gady          Whitworth University           Princeton Plasma Physics Laboratory    SULI
 Summer 2015  David Burtt                 Whitman College                Pacific Northwest National Laboratory  SULI
-Summer 2014  Catherine Winter            Walla Walla University         Pacific Northwest National Laboratory  SULI
-Summer 2014  Chantilly Higbee            Eastern Washington University  Pacific Northwest National Laboratory  SULI
+Summer 2015  James Sherman               Gonzaga University             Idaho National Laboratory              SULI
+Summer 2015  Elinor Lake                 Washington State University    Pacific Northwest National Laboratory  SULI
 Summer 2014  Shauna Austin Maple         Whitworth University           Pacific Northwest National Laboratory  SULI
-Summer 2014  Tyler Jonathon Milstein     Whitworth University           Pacific Northwest National Laboratory  SULI
-Summer 2014  Linnea Zavala               Whitworth University           SLAC National Accelerator Laboratory   SULI
-Summer 2014  whitney laura garcia        Washington State University    Pacific Northwest National Laboratory  SULI
-Summer 2014  Jason Toyoda                Washington State University    Pacific Northwest National Laboratory  SULI
 Summer 2014  Brian Keith Santman         Gonzaga University             Pacific Northwest National Laboratory  SULI
+Summer 2014  Jason Toyoda                Washington State University    Pacific Northwest National Laboratory  SULI
 Summer 2014  Shelby Sawyers              Washington State University    Pacific Northwest National Laboratory  SULI
 Summer 2014  Josh Rood                   Washington State University    Pacific Northwest National Laboratory  SULI
-Summer 2014  Joseph Martin McKenna       Washington State University    Pacific Northwest National Laboratory  SULI
+Summer 2014  whitney laura garcia        Washington State University    Pacific Northwest National Laboratory  SULI
 Summer 2014  Beren Christiasen           Washington State University    Pacific Northwest National Laboratory  SULI
+Summer 2014  Linnea Zavala               Whitworth University           SLAC National Accelerator Laboratory   SULI
+Summer 2014  Tyler Jonathon Milstein     Whitworth University           Pacific Northwest National Laboratory  SULI
 Spring 2016  Ethan Stoddard              Washington State University    Pacific Northwest National Laboratory  SULI
 Spring 2015  Lindsey Jacobs              Whitman College                National Renewable Energy Laboratory   SULI
 Spring 2014  Catherine Winter            Walla Walla University         Pacific Northwest National Laboratory  SULI
@@ -449,27 +430,22 @@ In the past 8 years, this district has received:<b> $116,658,139 </b>in NSF MPS 
   2012  ASTROPHYSICAL RESEARCH CONSORTIUM          1,472,956
 ```
 ## SULI/CCI Interns
-From 2014-2016 (only years available), this district had 19 SULI/CCI interns
+From 2014-2016 (only years available), this district had 14 SULI/CCI interns
 ```
 Term         Name                      College                            Host Lab                                Program
 -----------  ------------------------  ---------------------------------  --------------------------------------  ---------
-Summer 2016  Joseph Patrick Heindel    Seattle Pacific University         Sandia National Laboratory              SULI
+Summer 2016  Isis Nayeli Carrillo      University of Washington           Pacific Northwest National Laboratory   SULI
 Summer 2016  Eric Colbert              University of Washington           National Renewable Energy Laboratory    SULI
 Summer 2016  Rian Naveen Chandra       University of Washington           Princeton Plasma Physics Laboratory     SULI
-Summer 2016  Isis Nayeli Carrillo      University of Washington           Pacific Northwest National Laboratory   SULI
-Summer 2015  Eleanor Glynis Forbes     University of Washington           Princeton Plasma Physics Laboratory     SULI
-Summer 2015  Molly O'Brien             University of Washington           Pacific Northwest National Laboratory   SULI
-Summer 2015  Christopher Pike          Seattle Central Community College  SLAC National Accelerator Laboratory    CCI
-Summer 2015  Million Mebrahtu Araya    Seattle Central Community College  SLAC National Accelerator Laboratory    CCI
-Summer 2015  Erin Samantha Momany      Shoreline Community College        Pacific Northwest National Laboratory   CCI
 Summer 2015  Dylan Gene Chase-Woods    University of Washington           Pacific Northwest National Laboratory   SULI
-Summer 2014  David Rye                 University of Washington           Pacific Northwest National Laboratory   SULI
-Summer 2014  Phillippe Phanivong       University of Washington           Pacific Northwest National Laboratory   SULI
+Summer 2015  Molly O'Brien             University of Washington           Pacific Northwest National Laboratory   SULI
+Summer 2015  Million Mebrahtu Araya    Seattle Central Community College  SLAC National Accelerator Laboratory    CCI
+Summer 2015  Christopher Pike          Seattle Central Community College  SLAC National Accelerator Laboratory    CCI
 Summer 2014  Scott Merry               North Seattle Community College    Lawrence Livermore National Laboratory  CCI
-Summer 2014  Daniel James Mullen       University of Washington           Pacific Northwest National Laboratory   SULI
 Summer 2014  Elizabeth Rae Hooper      University of Washington           Pacific Northwest National Laboratory   SULI
+Summer 2014  Daniel James Mullen       University of Washington           Pacific Northwest National Laboratory   SULI
+Summer 2014  Phillippe Phanivong       University of Washington           Pacific Northwest National Laboratory   SULI
 Spring 2015  Sean Francis Happenny     University of Washington           Pacific Northwest National Laboratory   SULI
-Spring 2014  David Rye                 University of Washington           Pacific Northwest National Laboratory   SULI
 Spring 2014  Daniel James Mullen       University of Washington           Pacific Northwest National Laboratory   SULI
 Fall 2014    Christopher James Jantzi  University of Washington           Oak Ridge National Laboratory           SULI
 ```
@@ -529,15 +505,12 @@ In the past 8 years, this district has received:<b> $1,302,974 </b>in NSF MPS gr
   2013  SEATTLE UNIVERSITY       343,438
 ```
 ## SULI/CCI Interns
-From 2014-2016 (only years available), this district had 5 SULI/CCI interns
+From 2014-2016 (only years available), this district had 2 SULI/CCI interns
 ```
-Term         Name                   College             Host Lab                               Program
------------  ---------------------  ------------------  -------------------------------------  ---------
-Summer 2015  Drew Morales Cameron   Seattle University  National Renewable Energy Laboratory   SULI
-Summer 2015  Benjamin Levy-Wendt    Seattle University  Lawrence Berkeley National Laboratory  SULI
-Summer 2015  Ariana Rene Mendible   Seattle University  National Renewable Energy Laboratory   SULI
-Summer 2014  Drew Morales Cameron   Seattle University  National Renewable Energy Laboratory   SULI
-Summer 2014  Anthony James Krzysko  Seattle University  Pacific Northwest National Laboratory  SULI
+Term         Name                  College             Host Lab                              Program
+-----------  --------------------  ------------------  ------------------------------------  ---------
+Summer 2015  Ariana Rene Mendible  Seattle University  National Renewable Energy Laboratory  SULI
+Summer 2014  Drew Morales Cameron  Seattle University  National Renewable Energy Laboratory  SULI
 ```
 ---
 <a name="WA-10"></a>
@@ -564,15 +537,14 @@ In the past 8 years, this district has received:<b> $530,000 </b>in NSF MPS gran
   2014  PACIFIC LUTHERAN UNIVERSITY INC       192,000
 ```
 ## SULI/CCI Interns
-From 2014-2016 (only years available), this district had 6 SULI/CCI interns
+From 2014-2016 (only years available), this district had 5 SULI/CCI interns
 ```
 Term         Name                     College                      Host Lab                               Program
 -----------  -----------------------  ---------------------------  -------------------------------------  ---------
 Summer 2016  Larisa Kathleen Harding  The Evergreen State College  Pacific Northwest National Laboratory  SULI
 Summer 2015  Chloe Hannah Skidmore    Pacific Lutheran University  Pacific Northwest National Laboratory  SULI
-Summer 2014  Cameron Casey            The Evergreen State College  Pacific Northwest National Laboratory  SULI
-Summer 2014  Andrew Leung             Pacific Lutheran University  Los Alamos National Laboratory         SULI
 Summer 2014  Michael Ronald Traner    Pacific Lutheran University  Ames National Laboratory               SULI
+Summer 2014  Andrew Leung             Pacific Lutheran University  Los Alamos National Laboratory         SULI
 Fall 2014    Sierra Sachie Beach      The Evergreen State College  Pacific Northwest National Laboratory  SULI
 ```
 ---

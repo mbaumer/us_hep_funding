@@ -42,11 +42,14 @@ In the past 8 years, this state has received:
   2012  UNIVERSITY OF WYOMING     1,388,342
 ```
 ## SULI/CCI Interns
-From 2014-2016 (only years available), this state had 8 SULI/CCI interns
+<p align="center">
+![WY SULI/CCI image]({{ site.baseurl }}/img/WY.png)
+</p>
+From 2014-2016 (only years available), this state had 7 SULI/CCI interns
 ```
   # Interns  Program    College
 -----------  ---------  ---------------------------------
-          7  SULI       University of Wyoming
+          6  SULI       University of Wyoming
           1  CCI        Western Wyoming Community College
 ```
 ---
@@ -82,14 +85,13 @@ In the past 8 years, this district has received:<b> $9,432,816 </b>in NSF MPS gr
   2012  UNIVERSITY OF WYOMING     1,388,342
 ```
 ## SULI/CCI Interns
-From 2014-2016 (only years available), this district had 8 SULI/CCI interns
+From 2014-2016 (only years available), this district had 7 SULI/CCI interns
 ```
 Term         Name                            College                            Host Lab                                Program
 -----------  ------------------------------  ---------------------------------  --------------------------------------  ---------
 Summer 2016  Alexandra Elise Garcia Poulsen  University of Wyoming              Idaho National Laboratory               SULI
 Summer 2016  Jonathan Pullum                 University of Wyoming              Idaho National Laboratory               SULI
 Summer 2015  John Brouwer                    University of Wyoming              Idaho National Laboratory               SULI
-Summer 2014  Steven Levesque                 University of Wyoming              Idaho National Laboratory               SULI
 Summer 2014  Christopher Meadows             University of Wyoming              Lawrence Livermore National Laboratory  SULI
 Summer 2014  Katherine Miranda Bobo          Western Wyoming Community College  Idaho National Laboratory               CCI
 Spring 2015  Talysa Stockert                 University of Wyoming              National Renewable Energy Laboratory    SULI

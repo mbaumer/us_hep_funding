@@ -58,11 +58,14 @@ GORDON RES CONFERENCES                                                          
 RHODE ISLAND COLLEGE (INC)                                                                    59,955
 ```
 ## SULI/CCI Interns
-From 2014-2016 (only years available), this state had 14 SULI/CCI interns
+<p align="center">
+![RI SULI/CCI image]({{ site.baseurl }}/img/RI.png)
+</p>
+From 2014-2016 (only years available), this state had 12 SULI/CCI interns
 ```
   # Interns  Program    College
 -----------  ---------  --------------------------
-          8  SULI       Brown University
+          6  SULI       Brown University
           4  SULI       University of Rhode Island
           1  CCI        Brown University
           1  SULI       Providence College
@@ -121,19 +124,17 @@ In the past 8 years, this district has received:<b> $58,862,363 </b>in NSF MPS g
   2012  AMERICAN MATHEMATICAL SOCIETY INC                                                            538,110
 ```
 ## SULI/CCI Interns
-From 2014-2016 (only years available), this district had 9 SULI/CCI interns
+From 2014-2016 (only years available), this district had 7 SULI/CCI interns
 ```
 Term         Name                      College           Host Lab                               Program
 -----------  ------------------------  ----------------  -------------------------------------  ---------
-Summer 2016  Jessica Lillian Cheng     Brown University  Princeton Plasma Physics Laboratory    SULI
-Summer 2016  Matthew Einar Petersen    Brown University  Argonne National Laboratory            SULI
-Summer 2015  Danna Nozik               Brown University  Argonne National Laboratory            SULI
-Summer 2015  Richard Alexander Oliver  Brown University  Princeton Plasma Physics Laboratory    SULI
 Summer 2015  Matthew Aaron Pearson     Brown University  Brookhaven National Laboratory         SULI
 Summer 2015  Ariel Marie Stolz         Brown University  Brookhaven National Laboratory         SULI
+Summer 2015  Danna Nozik               Brown University  Argonne National Laboratory            SULI
 Summer 2015  Michelle Renee Gantos     Brown University  Lawrence Berkeley National Laboratory  CCI
-Summer 2014  Jeff Baum                 Brown University  Idaho National Laboratory              SULI
+Summer 2015  Richard Alexander Oliver  Brown University  Princeton Plasma Physics Laboratory    SULI
 Summer 2014  Yue Zhang                 Brown University  Lawrence Berkeley National Laboratory  SULI
+Summer 2014  Jeff Baum                 Brown University  Idaho National Laboratory              SULI
 ```
 ---
 <a name="RI-02"></a>
@@ -183,8 +184,8 @@ Term         Name                  College                     Host Lab         
 -----------  --------------------  --------------------------  ------------------------------  ---------
 Summer 2016  Emily Tacopina        University of Rhode Island  Brookhaven National Laboratory  SULI
 Summer 2015  Patrick Carroll       University of Rhode Island  Brookhaven National Laboratory  SULI
-Summer 2015  James Charles Lynch   University of Rhode Island  Oak Ridge National Laboratory   SULI
 Summer 2015  Cayla Anglea Stifler  Providence College          Brookhaven National Laboratory  SULI
+Summer 2015  James Charles Lynch   University of Rhode Island  Oak Ridge National Laboratory   SULI
 Summer 2014  Ronald Sadlier        University of Rhode Island  Oak Ridge National Laboratory   SULI
 ```
 ---

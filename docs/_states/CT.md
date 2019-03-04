@@ -53,17 +53,20 @@ UNIVERSITY OF NEW HAVEN, INCORPORATED                  269,463
 PII REDACTED                                           150,000
 ```
 ## SULI/CCI Interns
-From 2014-2016 (only years available), this state had 21 SULI/CCI interns
+<p align="center">
+![CT SULI/CCI image]({{ site.baseurl }}/img/CT.png)
+</p>
+From 2014-2016 (only years available), this state had 17 SULI/CCI interns
 ```
   # Interns  Program    College
 -----------  ---------  ------------------------------------
           7  SULI       Yale University
-          6  SULI       University of Connecticut
-          3  CCI        Three Rivers Community College
-          2  SULI       Wesleyan University
+          5  SULI       University of Connecticut
+          1  CCI        Three Rivers Community College
           1  SULI       Eastern Connecticut State University
           1  SULI       Trinity College
           1  SULI       University of Hartford
+          1  SULI       Wesleyan University
 ```
 ---
 ---
@@ -134,19 +137,16 @@ In the past 8 years, this district has received:<b> $22,614,131 </b>in NSF MPS g
   2012  UNIVERSITY OF CONNECTICUT     2,914,683
 ```
 ## SULI/CCI Interns
-From 2014-2016 (only years available), this district had 10 SULI/CCI interns
+From 2014-2016 (only years available), this district had 7 SULI/CCI interns
 ```
 Term         Name                   College                               Host Lab                                Program
 -----------  ---------------------  ------------------------------------  --------------------------------------  ---------
 Summer 2016  Madison Caballero      University of Connecticut             Pacific Northwest National Laboratory   SULI
-Summer 2016  Kaitlin Ruth Dennison  University of Connecticut             Lawrence Livermore National Laboratory  SULI
+Summer 2015  Keith Combs            Three Rivers Community College        Brookhaven National Laboratory          CCI
 Summer 2015  Kaitlin Ruth Dennison  University of Connecticut             Lawrence Livermore National Laboratory  SULI
 Summer 2015  Andrew Smith           University of Connecticut             Ames National Laboratory                SULI
-Summer 2015  Keith Combs            Three Rivers Community College        Brookhaven National Laboratory          CCI
-Summer 2015  Lee R. Combs           Three Rivers Community College        Brookhaven National Laboratory          CCI
 Summer 2014  Brittany Antonucci     University of Connecticut             Brookhaven National Laboratory          SULI
 Summer 2014  Nicholas Denegre       Eastern Connecticut State University  National Renewable Energy Laboratory    SULI
-Summer 2014  Lee R. Combs           Three Rivers Community College        Brookhaven National Laboratory          CCI
 Spring 2015  Robin Marcelle Cywar   University of Connecticut             National Renewable Energy Laboratory    SULI
 ```
 ---
@@ -218,17 +218,16 @@ In the past 8 years, this district has received:<b> $74,417,950 </b>in NSF MPS g
   2012  MULTIPLE RECIPIENTS                                    960,000
 ```
 ## SULI/CCI Interns
-From 2014-2016 (only years available), this district had 9 SULI/CCI interns
+From 2014-2016 (only years available), this district had 8 SULI/CCI interns
 ```
 Term         Name                         College              Host Lab                               Program
 -----------  ---------------------------  -------------------  -------------------------------------  ---------
 Summer 2016  Saisneha Koppaka             Yale University      Argonne National Laboratory            SULI
-Summer 2015  Douglas Kim-Tak Wong         Yale University      Los Alamos National Laboratory         SULI
 Summer 2015  Aleksandra Zakrzewska        Yale University      Oak Ridge National Laboratory          SULI
-Summer 2014  Carlos del-Castillo-Negrete  Yale University      Oak Ridge National Laboratory          SULI
+Summer 2015  Douglas Kim-Tak Wong         Yale University      Los Alamos National Laboratory         SULI
 Summer 2014  Lori Kaufman                 Yale University      Argonne National Laboratory            SULI
 Summer 2014  Eli J Halperin               Wesleyan University  Lawrence Berkeley National Laboratory  SULI
-Summer 2014  Jacob Albert Lashner         Wesleyan University  SLAC National Accelerator Laboratory   SULI
+Summer 2014  Carlos del-Castillo-Negrete  Yale University      Oak Ridge National Laboratory          SULI
 Spring 2014  Sagar Setru                  Yale University      Argonne National Laboratory            SULI
 Fall 2014    David Gabriel Rissman        Yale University      Princeton Plasma Physics Laboratory    SULI
 ```

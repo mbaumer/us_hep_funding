@@ -60,17 +60,18 @@ U OF MISSOURI COLUMBIA                     24,300
 TRUMAN STATE UNIVERSITY                     6,849
 ```
 ## SULI/CCI Interns
-From 2014-2016 (only years available), this state had 26 SULI/CCI interns
+<p align="center">
+![MO SULI/CCI image]({{ site.baseurl }}/img/MO.png)
+</p>
+From 2014-2016 (only years available), this state had 21 SULI/CCI interns
 ```
   # Interns  Program    College
 -----------  ---------  -------------------------------------------
-         12  SULI       Washington University in St. Louis
+          9  SULI       Washington University in St. Louis
           7  SULI       Missouri University of Science & Technology
           3  SULI       University of Missouri-Columbia
           1  SULI       Central Methodist University
           1  SULI       Missouri State University
-          1  SULI       Southeast Missouri State University
-          1  SULI       Truman State University
 ```
 ---
 ---
@@ -123,22 +124,19 @@ In the past 8 years, this district has received:<b> $21,757,767 </b>in NSF MPS g
   2012  MISSOURI SYSTEM, UNIVERSITY OF       354,721
 ```
 ## SULI/CCI Interns
-From 2014-2016 (only years available), this district had 12 SULI/CCI interns
+From 2014-2016 (only years available), this district had 9 SULI/CCI interns
 ```
-Term         Name                         College                             Host Lab                                        Program
------------  ---------------------------  ----------------------------------  ----------------------------------------------  ---------
-Summer 2016  Lauren Sinclair Johnson      Washington University in St. Louis  Argonne National Laboratory                     SULI
-Summer 2015  Noah Amme                    Washington University in St. Louis  Lawrence Berkeley National Laboratory           SULI
-Summer 2015  Anthony Valenti Grebe        Washington University in St. Louis  Fermi National Accelerator Laboratory           SULI
-Summer 2015  Lauren Maltz                 Washington University in St. Louis  SLAC National Accelerator Laboratory            SULI
-Summer 2015  Noah Rosenblatt              Washington University in St. Louis  Brookhaven National Laboratory                  SULI
-Summer 2015  Gregg Neal Willcox           Washington University in St. Louis  Princeton Plasma Physics Laboratory             SULI
-Summer 2014  Timothy Vincent Bartholomew  Washington University in St. Louis  National Renewable Energy Laboratory            SULI
-Summer 2014  Lauren Irene Powell          Washington University in St. Louis  Pacific Northwest National Laboratory           SULI
-Summer 2014  Pratik Singh Sachdeva        Washington University in St. Louis  Thomas Jefferson National Accelerator Facility  SULI
-Spring 2016  Samantha Jade Clevenger      Washington University in St. Louis  Pacific Northwest National Laboratory           SULI
-Spring 2016  Arian Jadbabaie              Washington University in St. Louis  Lawrence Berkeley National Laboratory           SULI
-Fall 2015    Arian Jadbabaie              Washington University in St. Louis  Brookhaven National Laboratory                  SULI
+Term         Name                     College                             Host Lab                                        Program
+-----------  -----------------------  ----------------------------------  ----------------------------------------------  ---------
+Summer 2016  Lauren Sinclair Johnson  Washington University in St. Louis  Argonne National Laboratory                     SULI
+Summer 2015  Noah Rosenblatt          Washington University in St. Louis  Brookhaven National Laboratory                  SULI
+Summer 2015  Noah Amme                Washington University in St. Louis  Lawrence Berkeley National Laboratory           SULI
+Summer 2015  Gregg Neal Willcox       Washington University in St. Louis  Princeton Plasma Physics Laboratory             SULI
+Summer 2015  Anthony Valenti Grebe    Washington University in St. Louis  Fermi National Accelerator Laboratory           SULI
+Summer 2014  Lauren Irene Powell      Washington University in St. Louis  Pacific Northwest National Laboratory           SULI
+Summer 2014  Pratik Singh Sachdeva    Washington University in St. Louis  Thomas Jefferson National Accelerator Facility  SULI
+Spring 2016  Samantha Jade Clevenger  Washington University in St. Louis  Pacific Northwest National Laboratory           SULI
+Fall 2015    Arian Jadbabaie          Washington University in St. Louis  Brookhaven National Laboratory                  SULI
 ```
 ---
 <a name="MO-02"></a>
@@ -300,11 +298,8 @@ In the past 8 years, this district has received:<b> $475,849 </b>in NSF MPS gran
   2012  NORTHWEST MISSOURI STATE UNIVERSITY        57,000
 ```
 ## SULI/CCI Interns
-From 2014-2016 (only years available), this district had 1 SULI/CCI intern
 ```
-Term         Name             College                  Host Lab                  Program
------------  ---------------  -----------------------  ------------------------  ---------
-Summer 2015  Joseph Milliano  Truman State University  General Atomics / DIII-D  SULI
+This district had no SULI/CCI interns from 2014-2016 (only years available)
 ```
 ---
 <a name="MO-07"></a>
@@ -371,16 +366,15 @@ In the past 8 years, this district has received:<b> $9,587,044 </b>in NSF MPS gr
   2012  UNIVERSITY OF MISSOURI SYSTEM        758,454
 ```
 ## SULI/CCI Interns
-From 2014-2016 (only years available), this district had 8 SULI/CCI interns
+From 2014-2016 (only years available), this district had 7 SULI/CCI interns
 ```
 Term         Name                   College                                      Host Lab                              Program
 -----------  ---------------------  -------------------------------------------  ------------------------------------  ---------
-Summer 2016  Nicholas Allen         Missouri University of Science & Technology  Los Alamos National Laboratory        SULI
 Summer 2016  Joseph Drallmeier      Missouri University of Science & Technology  Oak Ridge National Laboratory         SULI
 Summer 2016  Kent Matthew Gorday    Missouri University of Science & Technology  Oak Ridge National Laboratory         SULI
-Summer 2015  Timon G Abraham        Southeast Missouri State University          Oak Ridge National Laboratory         SULI
-Summer 2014  Clyde Joshua Beers     Missouri University of Science & Technology  Idaho National Laboratory             SULI
+Summer 2016  Nicholas Allen         Missouri University of Science & Technology  Los Alamos National Laboratory        SULI
 Summer 2014  Elizabeth Irene Nolte  Missouri University of Science & Technology  Argonne National Laboratory           SULI
+Summer 2014  Clyde Joshua Beers     Missouri University of Science & Technology  Idaho National Laboratory             SULI
 Spring 2016  Nicholas Allen         Missouri University of Science & Technology  Los Alamos National Laboratory        SULI
 Spring 2014  Sarah Rommelfanger     Missouri University of Science & Technology  National Renewable Energy Laboratory  SULI
 ```

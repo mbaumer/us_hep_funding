@@ -113,29 +113,32 @@ NATIONAL COLLEGIATE INVENTORS & INNOVATORS AL        47,590
 BARD COLLEGE AT SIMON'S ROCK                         24,672
 ```
 ## SULI/CCI Interns
-From 2014-2016 (only years available), this state had 78 SULI/CCI interns
+<p align="center">
+![MA SULI/CCI image]({{ site.baseurl }}/img/MA.png)
+</p>
+From 2014-2016 (only years available), this state had 60 SULI/CCI interns
 ```
   # Interns  Program    College
 -----------  ---------  ---------------------------------------
-          9  SULI       Massachusetts Institute of Technology
-          8  SULI       Worcester Polytechnic Institute
-          7  SULI       Northeastern University
-          7  SULI       University of Massachusetts
-          7  SULI       Tufts University
+          6  SULI       Worcester Polytechnic Institute
           6  SULI       Boston College
-          6  SULI       University of Massachusetts Lowell
-          4  SULI       Franklin W. Olin College of Engineering
-          4  SULI       Harvard University
+          6  SULI       University of Massachusetts
+          5  SULI       Northeastern University
+          5  SULI       University of Massachusetts Lowell
+          5  SULI       Tufts University
+          4  SULI       Massachusetts Institute of Technology
+          3  SULI       Harvard University
           3  SULI       Smith College
-          2  SULI       Williams College
-          2  SULI       Mount Holyoke College
-          2  SULI       Amherst College
           2  SULI       Fitchburg State University
-          2  SULI       College of the Holy Cross
+          2  SULI       Franklin W. Olin College of Engineering
+          2  SULI       Mount Holyoke College
           2  SULI       Brandeis University
-          1  SULI       Boston University
-          1  SULI       University of Massachusetts Dartmouth
+          2  SULI       Williams College
+          1  SULI       Amherst College
+          1  SULI       College of the Holy Cross
           1  SULI       Clark University
+          1  SULI       University of Massachusetts Dartmouth
+          1  SULI       Boston University
           1  SULI       Wellesley College
           1  CCI        Holyoke Community College
 ```
@@ -190,8 +193,8 @@ From 2014-2016 (only years available), this district had 5 SULI/CCI interns
 Term         Name                     College                    Host Lab                               Program
 -----------  -----------------------  -------------------------  -------------------------------------  ---------
 Summer 2016  Hannah Lorraine Seymour  Mount Holyoke College      Brookhaven National Laboratory         SULI
-Summer 2014  Samantha Nicole Petti    Williams College           Oak Ridge National Laboratory          SULI
 Summer 2014  Donna Kirk               Holyoke Community College  Lawrence Berkeley National Laboratory  CCI
+Summer 2014  Samantha Nicole Petti    Williams College           Oak Ridge National Laboratory          SULI
 Spring 2015  Ye Tian                  Mount Holyoke College      Lawrence Berkeley National Laboratory  SULI
 Spring 2014  Sarah Lucienne Guillot   Williams College           National Renewable Energy Laboratory   SULI
 ```
@@ -251,7 +254,7 @@ In the past 8 years, this district has received:<b> $44,707,153 </b>in NSF MPS g
   2012  THE TRUSTEES OF MOUNT HOLYOKE COLLEGE               548,737
 ```
 ## SULI/CCI Interns
-From 2014-2016 (only years available), this district had 16 SULI/CCI interns
+From 2014-2016 (only years available), this district had 12 SULI/CCI interns
 ```
 Term         Name                      College                          Host Lab                               Program
 -----------  ------------------------  -------------------------------  -------------------------------------  ---------
@@ -259,18 +262,14 @@ Summer 2016  Brandon Johann Bozeat     Worcester Polytechnic Institute  Brookhav
 Summer 2016  Casey Joseph Broslawski   Worcester Polytechnic Institute  National Renewable Energy Laboratory   SULI
 Summer 2016  Martin Burkardt           Worcester Polytechnic Institute  Oak Ridge National Laboratory          SULI
 Summer 2016  Alisha Daya Vira          Smith College                    Los Alamos National Laboratory         SULI
-Summer 2016  Sarah Teichman            Amherst College                  Sandia National Laboratory             SULI
-Summer 2015  Brandon Johann Bozeat     Worcester Polytechnic Institute  Brookhaven National Laboratory         SULI
-Summer 2015  William McCarthy          Worcester Polytechnic Institute  Princeton Plasma Physics Laboratory    SULI
-Summer 2015  Sophie Dilek              Smith College                    Lawrence Berkeley National Laboratory  SULI
 Summer 2015  Marena Elle Minelli       College of the Holy Cross        Brookhaven National Laboratory         SULI
-Summer 2014  Hailey Cambra             Worcester Polytechnic Institute  Los Alamos National Laboratory         SULI
-Summer 2014  Benjamin Joseph Fletcher  Worcester Polytechnic Institute  National Renewable Energy Laboratory   SULI
+Summer 2015  Sophie Dilek              Smith College                    Lawrence Berkeley National Laboratory  SULI
 Summer 2014  Corey Allan Richards      Worcester Polytechnic Institute  Brookhaven National Laboratory         SULI
 Summer 2014  Claire Keller             Smith College                    Lawrence Berkeley National Laboratory  SULI
 Summer 2014  Samuel Kovaka             Clark University                 Lawrence Berkeley National Laboratory  SULI
-Summer 2014  Marena Elle Minelli       College of the Holy Cross        Brookhaven National Laboratory         SULI
+Summer 2014  Benjamin Joseph Fletcher  Worcester Polytechnic Institute  National Renewable Energy Laboratory   SULI
 Summer 2014  Sarah Jorquera Vickery    Amherst College                  SLAC National Accelerator Laboratory   SULI
+Summer 2014  Hailey Cambra             Worcester Polytechnic Institute  Los Alamos National Laboratory         SULI
 ```
 ---
 <a name="MA-03"></a>
@@ -303,7 +302,7 @@ In the past 8 years, this district has received:<b> $2,638,746 </b>in NSF MPS gr
   2012  WORCESTER POLYTECHNIC INSTITUTE     1,108,913
 ```
 ## SULI/CCI Interns
-From 2014-2016 (only years available), this district had 8 SULI/CCI interns
+From 2014-2016 (only years available), this district had 7 SULI/CCI interns
 ```
 Term         Name                      College                             Host Lab                               Program
 -----------  ------------------------  ----------------------------------  -------------------------------------  ---------
@@ -311,7 +310,6 @@ Summer 2016  Jacqueline Noel           University of Massachusetts Lowell  Brook
 Summer 2015  Matthew Bernard           University of Massachusetts Lowell  Brookhaven National Laboratory         SULI
 Summer 2015  Kristina Michta           University of Massachusetts Lowell  Brookhaven National Laboratory         SULI
 Summer 2014  Stephen John Amon DeWitt  University of Massachusetts Lowell  Idaho National Laboratory              SULI
-Summer 2014  Kristina Michta           University of Massachusetts Lowell  Brookhaven National Laboratory         SULI
 Spring 2015  David Farland             Fitchburg State University          Lawrence Berkeley National Laboratory  SULI
 Spring 2014  Oliver C Farren           University of Massachusetts Lowell  Lawrence Berkeley National Laboratory  SULI
 Fall 2014    David Farland             Fitchburg State University          Lawrence Berkeley National Laboratory  SULI
@@ -359,16 +357,14 @@ In the past 8 years, this district has received:<b> $16,863,217 </b>in NSF MPS g
   2012  BOSTON COLLEGE, TRUSTEES OF                       2,687,261
 ```
 ## SULI/CCI Interns
-From 2014-2016 (only years available), this district had 11 SULI/CCI interns
+From 2014-2016 (only years available), this district had 9 SULI/CCI interns
 ```
 Term         Name                       College                                  Host Lab                                        Program
 -----------  -------------------------  ---------------------------------------  ----------------------------------------------  ---------
 Summer 2016  Amanda Rickert             Boston College                           Brookhaven National Laboratory                  SULI
 Summer 2016  Sarah Gillian Steiger      Boston College                           SLAC National Accelerator Laboratory            SULI
-Summer 2016  Anna Knapp                 Franklin W. Olin College of Engineering  National Renewable Energy Laboratory            SULI
-Summer 2015  Roger Justice Fleischmann  Boston College                           Ames National Laboratory                        SULI
 Summer 2015  Joseph Ryan Zuhusky        Boston College                           Brookhaven National Laboratory                  SULI
-Summer 2015  Anna Knapp                 Franklin W. Olin College of Engineering  National Renewable Energy Laboratory            SULI
+Summer 2015  Roger Justice Fleischmann  Boston College                           Ames National Laboratory                        SULI
 Summer 2015  Abraham Lewis Levitan      Franklin W. Olin College of Engineering  SLAC National Accelerator Laboratory            SULI
 Summer 2015  Catherine Anne Fromm       Wellesley College                        SLAC National Accelerator Laboratory            SULI
 Summer 2014  Stephanie Ger              Boston College                           Lawrence Berkeley National Laboratory           SULI
@@ -455,23 +451,20 @@ In the past 8 years, this district has received:<b> $144,112,329 </b>in NSF MPS 
   2012  UNIVERSITY OF MASSACHUSETTS                  1,494,999
 ```
 ## SULI/CCI Interns
-From 2014-2016 (only years available), this district had 13 SULI/CCI interns
+From 2014-2016 (only years available), this district had 10 SULI/CCI interns
 ```
 Term         Name                     College              Host Lab                               Program
 -----------  -----------------------  -------------------  -------------------------------------  ---------
-Summer 2016  Michael Albergo          Harvard University   SLAC National Accelerator Laboratory   SULI
-Summer 2016  Jonah Patrick Philion    Harvard University   Princeton Plasma Physics Laboratory    SULI
-Summer 2016  Alexandra Brumberg       Tufts University     Pacific Northwest National Laboratory  SULI
-Summer 2016  Elizabeth Buechler       Tufts University     Oak Ridge National Laboratory          SULI
+Summer 2016  Brendon Bullard          Brandeis University  Brookhaven National Laboratory         SULI
 Summer 2016  Alex Elliot Kaplan       Tufts University     Lawrence Berkeley National Laboratory  SULI
 Summer 2016  Erik Poppleton           Tufts University     Lawrence Berkeley National Laboratory  SULI
-Summer 2016  Brendon Bullard          Brandeis University  Brookhaven National Laboratory         SULI
-Summer 2015  Adrienne Margaret Propp  Harvard University   SLAC National Accelerator Laboratory   SULI
-Summer 2015  Elizabeth Buechler       Tufts University     National Renewable Energy Laboratory   SULI
-Summer 2015  Alex Elliot Kaplan       Tufts University     Lawrence Berkeley National Laboratory  SULI
+Summer 2016  Alexandra Brumberg       Tufts University     Pacific Northwest National Laboratory  SULI
+Summer 2016  Jonah Patrick Philion    Harvard University   Princeton Plasma Physics Laboratory    SULI
 Summer 2015  Brendon Bullard          Brandeis University  Brookhaven National Laboratory         SULI
+Summer 2015  Alex Elliot Kaplan       Tufts University     Lawrence Berkeley National Laboratory  SULI
+Summer 2015  Elizabeth Buechler       Tufts University     National Renewable Energy Laboratory   SULI
+Summer 2015  Adrienne Margaret Propp  Harvard University   SLAC National Accelerator Laboratory   SULI
 Summer 2014  Mark Jesse Arildsen      Harvard University   SLAC National Accelerator Laboratory   SULI
-Summer 2014  Rachael Grudt            Tufts University     National Renewable Energy Laboratory   SULI
 ```
 ---
 <a name="MA-06"></a>
@@ -641,25 +634,18 @@ In the past 8 years, this district has received:<b> $169,660,469 </b>in NSF MPS 
   2012  BRANDEIS UNIVERSITY                               3,404,185
 ```
 ## SULI/CCI Interns
-From 2014-2016 (only years available), this district had 17 SULI/CCI interns
+From 2014-2016 (only years available), this district had 10 SULI/CCI interns
 ```
 Term         Name                    College                                Host Lab                                Program
 -----------  ----------------------  -------------------------------------  --------------------------------------  ---------
-Summer 2016  Carolyn Schaefer        Massachusetts Institute of Technology  General Atomics / DIII-D                SULI
-Summer 2016  Sade Nabahe             Massachusetts Institute of Technology  National Renewable Energy Laboratory    SULI
 Summer 2015  Allison Belliveau       Northeastern University                Lawrence Livermore National Laboratory  SULI
-Summer 2015  Ali May Trueworthy      Massachusetts Institute of Technology  National Renewable Energy Laboratory    SULI
-Summer 2015  Hannah Hoffmann         Massachusetts Institute of Technology  General Atomics / DIII-D                SULI
 Summer 2015  Brandon Cole Benson     Massachusetts Institute of Technology  SLAC National Accelerator Laboratory    SULI
-Summer 2014  Elizabeth Berg          Massachusetts Institute of Technology  Brookhaven National Laboratory          SULI
+Summer 2014  Jake Louis Amereno      Massachusetts Institute of Technology  Brookhaven National Laboratory          SULI
+Summer 2014  Devon Joan McGhee       Boston University                      Brookhaven National Laboratory          SULI
 Summer 2014  Jedidiah Phillips       Massachusetts Institute of Technology  Argonne National Laboratory             SULI
 Summer 2014  Sterling Marina Watson  Massachusetts Institute of Technology  Lawrence Berkeley National Laboratory   SULI
-Summer 2014  Devon Joan McGhee       Boston University                      Brookhaven National Laboratory          SULI
-Summer 2014  Jake Louis Amereno      Massachusetts Institute of Technology  Brookhaven National Laboratory          SULI
-Spring 2016  Gabriel Player          Northeastern University                Princeton Plasma Physics Laboratory     SULI
 Spring 2016  Emma Therese Kaeli      Northeastern University                National Renewable Energy Laboratory    SULI
 Spring 2015  David Edward Hill       Northeastern University                Brookhaven National Laboratory          SULI
-Spring 2014  Anastasia Maydanov      Northeastern University                Brookhaven National Laboratory          SULI
 Spring 2014  Allison Belliveau       Northeastern University                Lawrence Livermore National Laboratory  SULI
 Fall 2014    David Edward Hill       Northeastern University                Pacific Northwest National Laboratory   SULI
 ```
@@ -743,13 +729,12 @@ In the past 8 years, this district has received:<b> $63,576,568 </b>in NSF MPS g
   2012  DANA-FARBER CANCER INSTITUTE, INC.            146,269
 ```
 ## SULI/CCI Interns
-From 2014-2016 (only years available), this district had 7 SULI/CCI interns
+From 2014-2016 (only years available), this district had 6 SULI/CCI interns
 ```
 Term         Name                        College                      Host Lab                                Program
 -----------  --------------------------  ---------------------------  --------------------------------------  ---------
 Summer 2016  Mitchell Negus              University of Massachusetts  Lawrence Livermore National Laboratory  SULI
 Summer 2015  Laura Ann Carlucci          University of Massachusetts  Ames National Laboratory                SULI
-Summer 2015  Mitchell Negus              University of Massachusetts  Lawrence Livermore National Laboratory  SULI
 Summer 2014  Anastasia Pierce McTaggart  University of Massachusetts  Lawrence Berkeley National Laboratory   SULI
 Summer 2014  Anchit Mehta                University of Massachusetts  Ames National Laboratory                SULI
 Spring 2015  Jacqueline Frances Canny    University of Massachusetts  Brookhaven National Laboratory          SULI

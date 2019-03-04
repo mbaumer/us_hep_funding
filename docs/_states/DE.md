@@ -57,11 +57,14 @@ In the past 8 years, this state has received:
   2012  UNIVERSITY OF DELAWARE                            6,600,459
 ```
 ## SULI/CCI Interns
-From 2014-2016 (only years available), this state had 11 SULI/CCI interns
+<p align="center">
+![DE SULI/CCI image]({{ site.baseurl }}/img/DE.png)
+</p>
+From 2014-2016 (only years available), this state had 9 SULI/CCI interns
 ```
   # Interns  Program    College
 -----------  ---------  -------------------------
-         10  SULI       University of Delaware
+          8  SULI       University of Delaware
           1  SULI       Delaware State University
 ```
 ---
@@ -105,20 +108,18 @@ In the past 8 years, this district has received:<b> $37,093,195 </b>in NSF MPS g
   2012  UNIVERSITY OF DELAWARE                            6,600,459
 ```
 ## SULI/CCI Interns
-From 2014-2016 (only years available), this district had 11 SULI/CCI interns
+From 2014-2016 (only years available), this district had 9 SULI/CCI interns
 ```
 Term         Name                      College                    Host Lab                                Program
 -----------  ------------------------  -------------------------  --------------------------------------  ---------
+Summer 2015  Peter Spurrell            University of Delaware     Brookhaven National Laboratory          SULI
+Summer 2015  Ryan McKenna              University of Delaware     Lawrence Livermore National Laboratory  SULI
 Summer 2015  Edward clinton Bamberger  University of Delaware     Pacific Northwest National Laboratory   SULI
 Summer 2015  Elizabeth Rose Cipriani   University of Delaware     Pacific Northwest National Laboratory   SULI
-Summer 2015  Matthew Ingham            University of Delaware     Brookhaven National Laboratory          SULI
 Summer 2015  Ryan James McDonough      University of Delaware     National Renewable Energy Laboratory    SULI
-Summer 2015  Ryan McKenna              University of Delaware     Lawrence Livermore National Laboratory  SULI
-Summer 2015  Peter Spurrell            University of Delaware     Brookhaven National Laboratory          SULI
 Summer 2014  Elizabeth Rose Cipriani   University of Delaware     Pacific Northwest National Laboratory   SULI
-Summer 2014  Stephen Nicholas Herbein  University of Delaware     Lawrence Livermore National Laboratory  SULI
-Summer 2014  Haley Northrup            University of Delaware     National Renewable Energy Laboratory    SULI
 Summer 2014  Anna Walter               University of Delaware     Pacific Northwest National Laboratory   SULI
+Summer 2014  Haley Northrup            University of Delaware     National Renewable Energy Laboratory    SULI
 Summer 2014  Lord Moses                Delaware State University  Ames National Laboratory                SULI
 ```
 ---

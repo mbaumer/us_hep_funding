@@ -45,11 +45,14 @@ BOARD OF REGENTS NEVADA SYSTEM OF HIGHER EDUCATION       950,306
 BOARD OF REGENTS NEVADA SYSTEM OF HIGHER EDUC            892,330
 ```
 ## SULI/CCI Interns
-From 2014-2016 (only years available), this state had 2 SULI/CCI interns
+<p align="center">
+![NV SULI/CCI image]({{ site.baseurl }}/img/NV.png)
+</p>
+From 2014-2016 (only years available), this state had 1 SULI/CCI intern
 ```
   # Interns  Program    College
 -----------  ---------  -------------------------
-          2  SULI       University of Nevada-Reno
+          1  SULI       University of Nevada-Reno
 ```
 ---
 ---
@@ -120,12 +123,11 @@ In the past 8 years, this district has received:<b> $11,038,029 </b>in NSF MPS g
   2012  UNIVERSITY OF NEVADA, RENO              926,494
 ```
 ## SULI/CCI Interns
-From 2014-2016 (only years available), this district had 2 SULI/CCI interns
+From 2014-2016 (only years available), this district had 1 SULI/CCI intern
 ```
 Term         Name                College                    Host Lab                       Program
 -----------  ------------------  -------------------------  -----------------------------  ---------
 Summer 2016  Jeremy Trevor Moon  University of Nevada-Reno  Oak Ridge National Laboratory  SULI
-Summer 2014  Evan Aaron West     University of Nevada-Reno  Oak Ridge National Laboratory  SULI
 ```
 ---
 <a name="NV-03"></a>

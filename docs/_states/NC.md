@@ -70,20 +70,21 @@ NATIONAL INSTITUTE OF STATISTICAL SCIENCES                        19,890
 WAKE FOREST UNIVERSITY HEALTH SCIENCES                             9,424
 ```
 ## SULI/CCI Interns
-From 2014-2016 (only years available), this state had 41 SULI/CCI interns
+<p align="center">
+![NC SULI/CCI image]({{ site.baseurl }}/img/NC.png)
+</p>
+From 2014-2016 (only years available), this state had 31 SULI/CCI interns
 ```
   # Interns  Program    College
 -----------  ---------  -------------------------------------------
-         13  SULI       North Carolina State University
-          7  SULI       University of North Carolina at Chapel Hill
+         12  SULI       North Carolina State University
           5  SULI       Duke University
-          2  CCI        Wake Technical Community College
-          2  SULI       Appalachian State University
+          3  SULI       University of North Carolina at Chapel Hill
           2  SULI       Elizabeth City State University
           2  SULI       Elon University
-          2  SULI       Wake Forest University
           2  SULI       Western Carolina University
           1  CCI        Rio Hondo Community College
+          1  CCI        Wake Technical Community College
           1  SULI       Davidson College
           1  SULI       Lynchburg College
           1  SULI       University of North Carolina at Wilmington
@@ -134,10 +135,10 @@ From 2014-2016 (only years available), this district had 5 SULI/CCI interns
 ```
 Term         Name                      College          Host Lab                              Program
 -----------  ------------------------  ---------------  ------------------------------------  ---------
+Summer 2016  Melissa Wu                Duke University  Brookhaven National Laboratory        SULI
 Summer 2016  Maria Cristina Folgueras  Duke University  National Renewable Energy Laboratory  SULI
 Summer 2016  Akhil Ghanta              Duke University  Princeton Plasma Physics Laboratory   SULI
 Summer 2016  Ji Won Park               Duke University  SLAC National Accelerator Laboratory  SULI
-Summer 2016  Melissa Wu                Duke University  Brookhaven National Laboratory        SULI
 Fall 2015    Isa Louise Ferrall        Duke University  National Renewable Energy Laboratory  SULI
 ```
 ---
@@ -160,13 +161,12 @@ This district received no SC contracts from 2012-2019
 This district received no NSF MPS grants from 2012-2019
 ```
 ## SULI/CCI Interns
-From 2014-2016 (only years available), this district had 3 SULI/CCI interns
+From 2014-2016 (only years available), this district had 2 SULI/CCI interns
 ```
-Term         Name                    College                           Host Lab                               Program
------------  ----------------------  --------------------------------  -------------------------------------  ---------
-Summer 2016  Brian A Woodworth       Wake Technical Community College  Fermi National Accelerator Laboratory  CCI
-Summer 2015  Kellie Rachel O'connor  Wake Technical Community College  Pacific Northwest National Laboratory  CCI
-Summer 2014  Matthew Dwyer           Lynchburg College                 Los Alamos National Laboratory         SULI
+Term         Name               College                           Host Lab                               Program
+-----------  -----------------  --------------------------------  -------------------------------------  ---------
+Summer 2016  Brian A Woodworth  Wake Technical Community College  Fermi National Accelerator Laboratory  CCI
+Summer 2014  Matthew Dwyer      Lynchburg College                 Los Alamos National Laboratory         SULI
 ```
 ---
 <a name="NC-03"></a>
@@ -259,30 +259,25 @@ In the past 8 years, this district has received:<b> $125,022,587 </b>in NSF MPS 
   2012  DUKE UNIVERSITY                                 5,937,070
 ```
 ## SULI/CCI Interns
-From 2014-2016 (only years available), this district had 20 SULI/CCI interns
+From 2014-2016 (only years available), this district had 15 SULI/CCI interns
 ```
-Term         Name                       College                                      Host Lab                                        Program
------------  -------------------------  -------------------------------------------  ----------------------------------------------  ---------
-Summer 2016  Christina Cox              North Carolina State University              Oak Ridge National Laboratory                   SULI
-Summer 2016  Joseph Cambareri           North Carolina State University              Idaho National Laboratory                       SULI
-Summer 2016  Brendan Mcbennett          University of North Carolina at Chapel Hill  National Renewable Energy Laboratory            SULI
-Summer 2016  Alexander Frederick Pharr  North Carolina State University              Idaho National Laboratory                       SULI
-Summer 2016  William Hunt Harris        North Carolina State University              Idaho National Laboratory                       SULI
-Summer 2016  Chiara Pancaldo Salemi     University of North Carolina at Chapel Hill  Fermi National Accelerator Laboratory           SULI
-Summer 2015  Joshua McKenney            North Carolina State University              Thomas Jefferson National Accelerator Facility  SULI
-Summer 2015  Jana Sadovy                North Carolina State University              National Renewable Energy Laboratory            SULI
-Summer 2015  Alexey Bondarev            North Carolina State University              Oak Ridge National Laboratory                   SULI
-Summer 2015  Ansel Hinsman Dow          University of North Carolina at Chapel Hill  Princeton Plasma Physics Laboratory             SULI
-Summer 2015  Chiara Pancaldo Salemi     University of North Carolina at Chapel Hill  Lawrence Berkeley National Laboratory           SULI
-Summer 2015  Scott Zhang                University of North Carolina at Chapel Hill  Brookhaven National Laboratory                  SULI
-Summer 2014  Alex Balzer                North Carolina State University              National Renewable Energy Laboratory            SULI
-Summer 2014  Hayley Elizabeth Hunt      North Carolina State University              Oak Ridge National Laboratory                   SULI
-Summer 2014  Clayton Edward Carey       North Carolina State University              Oak Ridge National Laboratory                   SULI
-Summer 2014  David Gorelick             University of North Carolina at Chapel Hill  Oak Ridge National Laboratory                   SULI
-Summer 2014  David Nenon                University of North Carolina at Chapel Hill  National Renewable Energy Laboratory            SULI
-Summer 2014  Alexey Bondarev            North Carolina State University              Oak Ridge National Laboratory                   SULI
-Spring 2014  Andrew Crothers            North Carolina State University              Lawrence Berkeley National Laboratory           SULI
-Fall 2015    Ryan Southard              North Carolina State University              Brookhaven National Laboratory                  SULI
+Term         Name                    College                                      Host Lab                                        Program
+-----------  ----------------------  -------------------------------------------  ----------------------------------------------  ---------
+Summer 2016  Christina Cox           North Carolina State University              Oak Ridge National Laboratory                   SULI
+Summer 2016  Joseph Cambareri        North Carolina State University              Idaho National Laboratory                       SULI
+Summer 2016  William Hunt Harris     North Carolina State University              Idaho National Laboratory                       SULI
+Summer 2015  Scott Zhang             University of North Carolina at Chapel Hill  Brookhaven National Laboratory                  SULI
+Summer 2015  Chiara Pancaldo Salemi  University of North Carolina at Chapel Hill  Lawrence Berkeley National Laboratory           SULI
+Summer 2015  Jana Sadovy             North Carolina State University              National Renewable Energy Laboratory            SULI
+Summer 2015  Ansel Hinsman Dow       University of North Carolina at Chapel Hill  Princeton Plasma Physics Laboratory             SULI
+Summer 2015  Alexey Bondarev         North Carolina State University              Oak Ridge National Laboratory                   SULI
+Summer 2015  Joshua McKenney         North Carolina State University              Thomas Jefferson National Accelerator Facility  SULI
+Summer 2014  Alex Balzer             North Carolina State University              National Renewable Energy Laboratory            SULI
+Summer 2014  Alexey Bondarev         North Carolina State University              Oak Ridge National Laboratory                   SULI
+Summer 2014  Clayton Edward Carey    North Carolina State University              Oak Ridge National Laboratory                   SULI
+Summer 2014  Hayley Elizabeth Hunt   North Carolina State University              Oak Ridge National Laboratory                   SULI
+Spring 2014  Andrew Crothers         North Carolina State University              Lawrence Berkeley National Laboratory           SULI
+Fall 2015    Ryan Southard           North Carolina State University              Brookhaven National Laboratory                  SULI
 ```
 ---
 <a name="NC-05"></a>
@@ -317,14 +312,8 @@ In the past 8 years, this district has received:<b> $4,769,880 </b>in NSF MPS gr
   2012  WAKE FOREST UNIVERSITY                       295,475
 ```
 ## SULI/CCI Interns
-From 2014-2016 (only years available), this district had 4 SULI/CCI interns
 ```
-Term         Name                       College                       Host Lab                               Program
------------  -------------------------  ----------------------------  -------------------------------------  ---------
-Summer 2016  Briana Christine Thompson  Wake Forest University        Pacific Northwest National Laboratory  SULI
-Summer 2015  Shelby Lockhart            Wake Forest University        Oak Ridge National Laboratory          SULI
-Summer 2015  Crystal Patteson           Appalachian State University  Fermi National Accelerator Laboratory  SULI
-Summer 2015  Nicole Tipton              Appalachian State University  Pacific Northwest National Laboratory  SULI
+This district had no SULI/CCI interns from 2014-2016 (only years available)
 ```
 ---
 <a name="NC-06"></a>

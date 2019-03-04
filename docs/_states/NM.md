@@ -71,20 +71,21 @@ REDACTED DUE TO PII                                             100,000
 SANTA FE INSTITUTE OF SCIENCE INC                                61,918
 ```
 ## SULI/CCI Interns
-From 2014-2016 (only years available), this state had 27 SULI/CCI interns
+<p align="center">
+![NM SULI/CCI image]({{ site.baseurl }}/img/NM.png)
+</p>
+From 2014-2016 (only years available), this state had 21 SULI/CCI interns
 ```
   # Interns  Program    College
 -----------  ---------  ---------------------------------------------
-          8  SULI       New Mexico Institute of Mining and Technology
-          6  SULI       University of New Mexico Main Campus
+          6  SULI       New Mexico Institute of Mining and Technology
+          5  SULI       University of New Mexico Main Campus
           3  SULI       Northern New Mexico College
           2  CCI        University of New Mexico-Los Alamos
-          2  SULI       New Mexico State University Main Campus
           2  SULI       University of New Mexico-Los Alamos
           1  CCI        Central New Mexico Community College
           1  CCI        Santa Fe Community College
-          1  SULI       Central New Mexico Community College
-          1  SULI       Eastern New Mexico University Main Campus
+          1  SULI       New Mexico State University Main Campus
 ```
 ---
 ---
@@ -144,22 +145,20 @@ In the past 8 years, this district has received:<b> $24,180,829 </b>in NSF MPS g
   2012  UNIVERSITY OF NEW MEXICO                                      4,976,575
 ```
 ## SULI/CCI Interns
-From 2014-2016 (only years available), this district had 12 SULI/CCI interns
+From 2014-2016 (only years available), this district had 10 SULI/CCI interns
 ```
-Term         Name                       College                               Host Lab                               Program
------------  -------------------------  ------------------------------------  -------------------------------------  ---------
-Summer 2016  Marijo Deaguero            University of New Mexico Main Campus  Los Alamos National Laboratory         SULI
-Summer 2016  Helen Milenski             University of New Mexico Main Campus  Los Alamos National Laboratory         SULI
-Summer 2016  Emily Rose Pittman         University of New Mexico Main Campus  Los Alamos National Laboratory         SULI
-Summer 2015  Helen Milenski             University of New Mexico-Los Alamos   Los Alamos National Laboratory         CCI
-Summer 2015  Jeremy Harrod              Central New Mexico Community College  Los Alamos National Laboratory         SULI
-Summer 2014  Sheri Breanne Lopez        University of New Mexico-Los Alamos   Fermi National Accelerator Laboratory  SULI
-Summer 2014  Helen Milenski             University of New Mexico-Los Alamos   Los Alamos National Laboratory         CCI
-Summer 2014  Josefine McBrayer          University of New Mexico Main Campus  National Renewable Energy Laboratory   SULI
-Summer 2014  Corey Michael Skinner      Central New Mexico Community College  Los Alamos National Laboratory         CCI
-Spring 2015  Cheriece Margiotta         University of New Mexico Main Campus  Los Alamos National Laboratory         SULI
-Fall 2015    Priyanka Malini Ravindran  University of New Mexico Main Campus  Pacific Northwest National Laboratory  SULI
-Fall 2014    Sheri Breanne Lopez        University of New Mexico-Los Alamos   Los Alamos National Laboratory         SULI
+Term         Name                   College                               Host Lab                               Program
+-----------  ---------------------  ------------------------------------  -------------------------------------  ---------
+Summer 2016  Marijo Deaguero        University of New Mexico Main Campus  Los Alamos National Laboratory         SULI
+Summer 2016  Helen Milenski         University of New Mexico Main Campus  Los Alamos National Laboratory         SULI
+Summer 2016  Emily Rose Pittman     University of New Mexico Main Campus  Los Alamos National Laboratory         SULI
+Summer 2015  Helen Milenski         University of New Mexico-Los Alamos   Los Alamos National Laboratory         CCI
+Summer 2014  Josefine McBrayer      University of New Mexico Main Campus  National Renewable Energy Laboratory   SULI
+Summer 2014  Helen Milenski         University of New Mexico-Los Alamos   Los Alamos National Laboratory         CCI
+Summer 2014  Corey Michael Skinner  Central New Mexico Community College  Los Alamos National Laboratory         CCI
+Summer 2014  Sheri Breanne Lopez    University of New Mexico-Los Alamos   Fermi National Accelerator Laboratory  SULI
+Spring 2015  Cheriece Margiotta     University of New Mexico Main Campus  Los Alamos National Laboratory         SULI
+Fall 2014    Sheri Breanne Lopez    University of New Mexico-Los Alamos   Los Alamos National Laboratory         SULI
 ```
 ---
 <a name="NM-02"></a>
@@ -195,19 +194,16 @@ In the past 8 years, this district has received:<b> $7,223,587 </b>in NSF MPS gr
   2012  NEW MEXICO STATE UNIVERSITY                         909,844
 ```
 ## SULI/CCI Interns
-From 2014-2016 (only years available), this district had 10 SULI/CCI interns
+From 2014-2016 (only years available), this district had 7 SULI/CCI interns
 ```
 Term         Name                   College                                        Host Lab                              Program
 -----------  ---------------------  ---------------------------------------------  ------------------------------------  ---------
-Summer 2016  Rebecca Marie Brink    New Mexico Institute of Mining and Technology  Oak Ridge National Laboratory         SULI
-Summer 2016  Eric N Carlson         New Mexico Institute of Mining and Technology  Los Alamos National Laboratory        SULI
 Summer 2016  Anthony Thomas Giljum  New Mexico Institute of Mining and Technology  Oak Ridge National Laboratory         SULI
-Summer 2016  Gabriel Patrick King   New Mexico Institute of Mining and Technology  Los Alamos National Laboratory        SULI
-Summer 2016  Raj Singh              New Mexico Institute of Mining and Technology  Los Alamos National Laboratory        SULI
 Summer 2016  Robin Weston           New Mexico Institute of Mining and Technology  SLAC National Accelerator Laboratory  SULI
-Summer 2015  Douglas Brown          New Mexico State University Main Campus        Oak Ridge National Laboratory         SULI
-Summer 2015  Shelby Reese           New Mexico State University Main Campus        National Renewable Energy Laboratory  SULI
+Summer 2016  Eric N Carlson         New Mexico Institute of Mining and Technology  Los Alamos National Laboratory        SULI
+Summer 2016  Gabriel Patrick King   New Mexico Institute of Mining and Technology  Los Alamos National Laboratory        SULI
 Summer 2015  Brian Donald Ruskauff  New Mexico Institute of Mining and Technology  National Renewable Energy Laboratory  SULI
+Summer 2015  Douglas Brown          New Mexico State University Main Campus        Oak Ridge National Laboratory         SULI
 Fall 2015    Brian Donald Ruskauff  New Mexico Institute of Mining and Technology  National Renewable Energy Laboratory  SULI
 ```
 ---
@@ -260,14 +256,13 @@ In the past 8 years, this district has received:<b> $6,575,710 </b>in NSF MPS gr
   2012  NEW MEXICO HIGHLANDS UNIVERSITY         540,000
 ```
 ## SULI/CCI Interns
-From 2014-2016 (only years available), this district had 5 SULI/CCI interns
+From 2014-2016 (only years available), this district had 4 SULI/CCI interns
 ```
-Term         Name                   College                                    Host Lab                        Program
------------  ---------------------  -----------------------------------------  ------------------------------  ---------
-Summer 2016  Eric Maez              Eastern New Mexico University Main Campus  Oak Ridge National Laboratory   SULI
-Summer 2015  MariJo DeAguero        Northern New Mexico College                Los Alamos National Laboratory  SULI
-Summer 2015  Edgar Nahum Ronquillo  Northern New Mexico College                Los Alamos National Laboratory  SULI
-Summer 2015  Johnnie Lee Wright     Santa Fe Community College                 Los Alamos National Laboratory  CCI
-Summer 2014  Edgar Nahum Ronquillo  Northern New Mexico College                Los Alamos National Laboratory  SULI
+Term         Name                   College                      Host Lab                        Program
+-----------  ---------------------  ---------------------------  ------------------------------  ---------
+Summer 2015  MariJo DeAguero        Northern New Mexico College  Los Alamos National Laboratory  SULI
+Summer 2015  Edgar Nahum Ronquillo  Northern New Mexico College  Los Alamos National Laboratory  SULI
+Summer 2015  Johnnie Lee Wright     Santa Fe Community College   Los Alamos National Laboratory  CCI
+Summer 2014  Edgar Nahum Ronquillo  Northern New Mexico College  Los Alamos National Laboratory  SULI
 ```
 ---

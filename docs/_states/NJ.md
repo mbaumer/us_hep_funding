@@ -85,22 +85,23 @@ NJIT                                                                           7
 INSTITUTE OF ELECTRICAL AND ELECTRONICS ENGIN                                  7,500
 ```
 ## SULI/CCI Interns
-From 2014-2016 (only years available), this state had 34 SULI/CCI interns
+<p align="center">
+![NJ SULI/CCI image]({{ site.baseurl }}/img/NJ.png)
+</p>
+From 2014-2016 (only years available), this state had 29 SULI/CCI interns
 ```
   # Interns  Program    College
 -----------  ---------  ---------------------------------------------------------------
          13  SULI       Rutgers the State University of New Jersey New Brunswick Campus
-          6  SULI       Princeton University
-          3  SULI       Stevens Institute of Technology
+          4  SULI       Princeton University
           3  SULI       The College of New Jersey
           2  SULI       New Jersey Institute of Technology
+          2  SULI       Stevens Institute of Technology
           1  CCI        Camden County College
           1  CCI        Hudson County Community College
           1  CCI        Sussex County Community College
           1  SULI       Monmouth University
           1  SULI       Rutgers the State University of New Jersey Camden Campus
-          1  SULI       Saint Peter's University
-          1  SULI       Seton Hall University
 ```
 ---
 ---
@@ -368,13 +369,12 @@ In the past 8 years, this district has received:<b> $4,182,879 </b>in NSF MPS gr
   2012  SETON HALL UNIVERSITY                                 9,700
 ```
 ## SULI/CCI Interns
-From 2014-2016 (only years available), this district had 3 SULI/CCI interns
+From 2014-2016 (only years available), this district had 2 SULI/CCI interns
 ```
 Term         Name                      College                          Host Lab                              Program
 -----------  ------------------------  -------------------------------  ------------------------------------  ---------
-Summer 2016  Kathleen Elizabeth Moyer  Stevens Institute of Technology  National Renewable Energy Laboratory  SULI
-Summer 2015  Kathleen Elizabeth Moyer  Stevens Institute of Technology  National Renewable Energy Laboratory  SULI
 Summer 2015  Megan Safranek            Stevens Institute of Technology  Brookhaven National Laboratory        SULI
+Summer 2015  Kathleen Elizabeth Moyer  Stevens Institute of Technology  National Renewable Energy Laboratory  SULI
 ```
 ---
 <a name="NJ-09"></a>
@@ -446,27 +446,25 @@ In the past 8 years, this district has received:<b> $22,281,600 </b>in NSF MPS g
   2012  NEW JERSEY INSTITUTE OF TECHNOLOGY                  633,080
 ```
 ## SULI/CCI Interns
-From 2014-2016 (only years available), this district had 18 SULI/CCI interns
+From 2014-2016 (only years available), this district had 16 SULI/CCI interns
 ```
 Term         Name                        College                                                          Host Lab                               Program
 -----------  --------------------------  ---------------------------------------------------------------  -------------------------------------  ---------
 Summer 2016  Kelly Ann Jenkins           Rutgers the State University of New Jersey New Brunswick Campus  Argonne National Laboratory            SULI
-Summer 2016  Edmund Han                  Rutgers the State University of New Jersey New Brunswick Campus  Idaho National Laboratory              SULI
-Summer 2016  Matthew Feurer              Seton Hall University                                            Princeton Plasma Physics Laboratory    SULI
 Summer 2016  William Lincoln Ruys        New Jersey Institute of Technology                               Argonne National Laboratory            SULI
-Summer 2016  Nitika Yadlapalli           Rutgers the State University of New Jersey New Brunswick Campus  SLAC National Accelerator Laboratory   SULI
+Summer 2016  Jennifer Coulter            Rutgers the State University of New Jersey New Brunswick Campus  Princeton Plasma Physics Laboratory    SULI
+Summer 2016  Tahiri Nunez                Hudson County Community College                                  Princeton Plasma Physics Laboratory    CCI
 Summer 2016  Jason Smith                 Rutgers the State University of New Jersey New Brunswick Campus  Ames National Laboratory               SULI
 Summer 2016  Viktor Krapivin             Rutgers the State University of New Jersey New Brunswick Campus  SLAC National Accelerator Laboratory   SULI
-Summer 2016  Tahiri Nunez                Hudson County Community College                                  Princeton Plasma Physics Laboratory    CCI
-Summer 2016  Jennifer Coulter            Rutgers the State University of New Jersey New Brunswick Campus  Princeton Plasma Physics Laboratory    SULI
-Summer 2015  Leandro Fosque              Rutgers the State University of New Jersey New Brunswick Campus  Princeton Plasma Physics Laboratory    SULI
-Summer 2015  Ian Stewart                 Rutgers the State University of New Jersey New Brunswick Campus  Princeton Plasma Physics Laboratory    SULI
-Summer 2015  Michael Liam McNulty        Rutgers the State University of New Jersey New Brunswick Campus  Princeton Plasma Physics Laboratory    SULI
-Summer 2015  Robert Kruk                 Rutgers the State University of New Jersey New Brunswick Campus  Pacific Northwest National Laboratory  SULI
-Summer 2015  Ashley Marie Drozd          Saint Peter's University                                         Brookhaven National Laboratory         SULI
-Summer 2015  Jaelynne Alaya-Louise King  New Jersey Institute of Technology                               National Renewable Energy Laboratory   SULI
+Summer 2016  Nitika Yadlapalli           Rutgers the State University of New Jersey New Brunswick Campus  SLAC National Accelerator Laboratory   SULI
+Summer 2016  Edmund Han                  Rutgers the State University of New Jersey New Brunswick Campus  Idaho National Laboratory              SULI
 Summer 2015  Kelly Ann Jenkins           Rutgers the State University of New Jersey New Brunswick Campus  Argonne National Laboratory            SULI
 Summer 2015  Artun Hoscan                Rutgers the State University of New Jersey New Brunswick Campus  Pacific Northwest National Laboratory  SULI
+Summer 2015  Robert Kruk                 Rutgers the State University of New Jersey New Brunswick Campus  Pacific Northwest National Laboratory  SULI
+Summer 2015  Jaelynne Alaya-Louise King  New Jersey Institute of Technology                               National Renewable Energy Laboratory   SULI
+Summer 2015  Leandro Fosque              Rutgers the State University of New Jersey New Brunswick Campus  Princeton Plasma Physics Laboratory    SULI
+Summer 2015  Michael Liam McNulty        Rutgers the State University of New Jersey New Brunswick Campus  Princeton Plasma Physics Laboratory    SULI
+Summer 2015  Ian Stewart                 Rutgers the State University of New Jersey New Brunswick Campus  Princeton Plasma Physics Laboratory    SULI
 Spring 2015  Robert Kruk                 Rutgers the State University of New Jersey New Brunswick Campus  Pacific Northwest National Laboratory  SULI
 ```
 ---
@@ -576,18 +574,16 @@ In the past 8 years, this district has received:<b> $236,425,118 </b>in NSF MPS 
   2012  COLLEGE OF NEW JERSEY                                                         85,084
 ```
 ## SULI/CCI Interns
-From 2014-2016 (only years available), this district had 9 SULI/CCI interns
+From 2014-2016 (only years available), this district had 7 SULI/CCI interns
 ```
-Term         Name                  College                    Host Lab                                Program
------------  --------------------  -------------------------  --------------------------------------  ---------
-Summer 2016  Omkar Shende          Princeton University       Argonne National Laboratory             SULI
-Summer 2016  David Deans Caron     The College of New Jersey  Princeton Plasma Physics Laboratory     SULI
-Summer 2015  Matthew John Lotocki  Princeton University       Princeton Plasma Physics Laboratory     SULI
-Summer 2015  Timothy Kyle Osborn   The College of New Jersey  Fermi National Accelerator Laboratory   SULI
-Summer 2014  Rory Fitzpatrick      Princeton University       Fermi National Accelerator Laboratory   SULI
-Summer 2014  Kevin Liaw            Princeton University       Brookhaven National Laboratory          SULI
-Summer 2014  Erica Tsai            Princeton University       Lawrence Berkeley National Laboratory   SULI
-Summer 2014  Ming-Yee Tsang        Princeton University       Lawrence Livermore National Laboratory  SULI
-Spring 2016  Giovanna Tomat-Kelly  The College of New Jersey  Pacific Northwest National Laboratory   SULI
+Term         Name                  College                    Host Lab                               Program
+-----------  --------------------  -------------------------  -------------------------------------  ---------
+Summer 2016  Omkar Shende          Princeton University       Argonne National Laboratory            SULI
+Summer 2016  David Deans Caron     The College of New Jersey  Princeton Plasma Physics Laboratory    SULI
+Summer 2015  Matthew John Lotocki  Princeton University       Princeton Plasma Physics Laboratory    SULI
+Summer 2015  Timothy Kyle Osborn   The College of New Jersey  Fermi National Accelerator Laboratory  SULI
+Summer 2014  Erica Tsai            Princeton University       Lawrence Berkeley National Laboratory  SULI
+Summer 2014  Rory Fitzpatrick      Princeton University       Fermi National Accelerator Laboratory  SULI
+Spring 2016  Giovanna Tomat-Kelly  The College of New Jersey  Pacific Northwest National Laboratory  SULI
 ```
 ---

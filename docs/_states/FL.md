@@ -81,23 +81,23 @@ FLORIDA GULF COAST UNIV                                     30,000
 UNIVERSITY OF NORTH FLORIDA                                  7,500
 ```
 ## SULI/CCI Interns
-From 2014-2016 (only years available), this state had 67 SULI/CCI interns
+<p align="center">
+![FL SULI/CCI image]({{ site.baseurl }}/img/FL.png)
+</p>
+From 2014-2016 (only years available), this state had 49 SULI/CCI interns
 ```
   # Interns  Program    College
 -----------  ---------  ----------------------------------------------
-         16  SULI       University of Florida
-         10  SULI       University of Central Florida
-          9  SULI       Florida Institute of Technology
-          8  SULI       Florida Atlantic University
-          5  SULI       Florida International University
-          4  CCI        Tallahassee Community College
-          4  SULI       University of South Florida
-          3  SULI       Florida State University
-          2  SULI       Florida Agricultural and Mechanical University
+         14  SULI       University of Florida
+          7  SULI       Florida Atlantic University
+          7  SULI       Florida Institute of Technology
+          7  SULI       University of Central Florida
+          4  SULI       Florida International University
+          3  SULI       University of South Florida
+          2  CCI        Tallahassee Community College
           2  SULI       University of West Florida
           1  CCI        Santa Fe College
-          1  SULI       Embry-Riddle Aeronautical University
-          1  SULI       New College of Florida
+          1  SULI       Florida Agricultural and Mechanical University
           1  SULI       Stetson University
 ```
 ---
@@ -182,13 +182,8 @@ In the past 8 years, this district has received:<b> $199,208,177 </b>in NSF MPS 
   2012  FLORIDA STATE UNIVERSITY, THE    35,990,352
 ```
 ## SULI/CCI Interns
-From 2014-2016 (only years available), this district had 3 SULI/CCI interns
 ```
-Term         Name                    College                   Host Lab                     Program
------------  ----------------------  ------------------------  ---------------------------  ---------
-Summer 2016  Amelia Emily-Kay Estry  Florida State University  Ames National Laboratory     SULI
-Summer 2016  Alex Ryan Saperstein    Florida State University  Argonne National Laboratory  SULI
-Summer 2015  Madeline Austin         Florida State University  Argonne National Laboratory  SULI
+This district had no SULI/CCI interns from 2014-2016 (only years available)
 ```
 ---
 <a name="FL-03"></a>
@@ -234,26 +229,24 @@ In the past 8 years, this district has received:<b> $41,830,074 </b>in NSF MPS g
   2013  UNIVERSITY OF FLORIDA                                6,904,259
 ```
 ## SULI/CCI Interns
-From 2014-2016 (only years available), this district had 17 SULI/CCI interns
+From 2014-2016 (only years available), this district had 15 SULI/CCI interns
 ```
 Term         Name                         College                Host Lab                                        Program
 -----------  ---------------------------  ---------------------  ----------------------------------------------  ---------
-Summer 2016  Ryan Alexander Veatch        Santa Fe College       Oak Ridge National Laboratory                   CCI
-Summer 2016  Paul Adam Lengemann          University of Florida  Oak Ridge National Laboratory                   SULI
 Summer 2016  Decarle Jin                  University of Florida  Pacific Northwest National Laboratory           SULI
+Summer 2016  Paul Adam Lengemann          University of Florida  Oak Ridge National Laboratory                   SULI
+Summer 2016  Ryan Alexander Veatch        Santa Fe College       Oak Ridge National Laboratory                   CCI
+Summer 2015  Haley Lewis                  University of Florida  National Renewable Energy Laboratory            SULI
 Summer 2015  Amar Mohabir                 University of Florida  Oak Ridge National Laboratory                   SULI
+Summer 2015  Rebecca O'Toole              University of Florida  Oak Ridge National Laboratory                   SULI
+Summer 2015  Dustin Popp                  University of Florida  Oak Ridge National Laboratory                   SULI
 Summer 2015  James Totten                 University of Florida  Idaho National Laboratory                       SULI
 Summer 2015  Cody Jordan Reeves           University of Florida  Thomas Jefferson National Accelerator Facility  SULI
-Summer 2015  Dustin Popp                  University of Florida  Oak Ridge National Laboratory                   SULI
-Summer 2015  Rebecca O'Toole              University of Florida  Oak Ridge National Laboratory                   SULI
-Summer 2015  Haley Lewis                  University of Florida  National Renewable Energy Laboratory            SULI
 Summer 2014  Keith Rausch                 University of Florida  Argonne National Laboratory                     SULI
 Summer 2014  Christopher Robert Greulich  University of Florida  Pacific Northwest National Laboratory           SULI
-Spring 2016  Rebecca O'toole              University of Florida  Oak Ridge National Laboratory                   SULI
-Spring 2015  Matthew Joseph Mitrani       University of Florida  Oak Ridge National Laboratory                   SULI
 Spring 2015  Neil Glikin                  University of Florida  Brookhaven National Laboratory                  SULI
 Spring 2015  Alex Adams                   University of Florida  Oak Ridge National Laboratory                   SULI
-Fall 2015    Jason Richards Pfeilsticker  University of Florida  National Renewable Energy Laboratory            SULI
+Spring 2015  Matthew Joseph Mitrani       University of Florida  Oak Ridge National Laboratory                   SULI
 Fall 2014    Amar Mohabir                 University of Florida  Oak Ridge National Laboratory                   SULI
 ```
 ---
@@ -313,15 +306,12 @@ In the past 8 years, this district has received:<b> $92,347,446 </b>in NSF MPS g
   2017  FLORIDA STATE UNIVERSITY, THE    10,722,709
 ```
 ## SULI/CCI Interns
-From 2014-2016 (only years available), this district had 6 SULI/CCI interns
+From 2014-2016 (only years available), this district had 3 SULI/CCI interns
 ```
 Term         Name                      College                                         Host Lab                        Program
 -----------  ------------------------  ----------------------------------------------  ------------------------------  ---------
 Summer 2015  laverne sharlana maxwell  Florida Agricultural and Mechanical University  Brookhaven National Laboratory  SULI
 Summer 2015  David Perez               Tallahassee Community College                   Brookhaven National Laboratory  CCI
-Summer 2014  Nicholas Miguel Smith     Florida Agricultural and Mechanical University  Brookhaven National Laboratory  SULI
-Summer 2014  Emily Jane Hadden         Tallahassee Community College                   Brookhaven National Laboratory  CCI
-Summer 2014  Mauro Mancilla            Tallahassee Community College                   Brookhaven National Laboratory  CCI
 Summer 2014  Mark Rumenik              Tallahassee Community College                   Brookhaven National Laboratory  CCI
 ```
 ---
@@ -361,12 +351,11 @@ In the past 8 years, this district has received:<b> $9,115,056 </b>in NSF MPS gr
   2012  UNIVERSITY OF FLORIDA                        8,229,333
 ```
 ## SULI/CCI Interns
-From 2014-2016 (only years available), this district had 2 SULI/CCI interns
+From 2014-2016 (only years available), this district had 1 SULI/CCI intern
 ```
-Term         Name                College                               Host Lab                       Program
------------  ------------------  ------------------------------------  -----------------------------  ---------
-Summer 2015  Vanna Blasczak      Stetson University                    Ames National Laboratory       SULI
-Summer 2015  Rachael Isphording  Embry-Riddle Aeronautical University  Oak Ridge National Laboratory  SULI
+Term         Name            College             Host Lab                  Program
+-----------  --------------  ------------------  ------------------------  ---------
+Summer 2015  Vanna Blasczak  Stetson University  Ames National Laboratory  SULI
 ```
 ---
 <a name="FL-07"></a>
@@ -403,20 +392,17 @@ In the past 8 years, this district has received:<b> $19,904,824 </b>in NSF MPS g
   2013  UNIVERSITY OF CENTRAL FLORIDA                            1,704,472
 ```
 ## SULI/CCI Interns
-From 2014-2016 (only years available), this district had 10 SULI/CCI interns
+From 2014-2016 (only years available), this district had 7 SULI/CCI interns
 ```
-Term         Name                College                        Host Lab                               Program
------------  ------------------  -----------------------------  -------------------------------------  ---------
-Summer 2016  Shelby Khandasammy  University of Central Florida  Ames National Laboratory               SULI
-Summer 2016  Erik M Ninnemann    University of Central Florida  Oak Ridge National Laboratory          SULI
-Summer 2015  Zachary Loparo      University of Central Florida  Sandia National Laboratory             SULI
-Summer 2015  Leigh Nash          University of Central Florida  Argonne National Laboratory            SULI
-Summer 2014  Zachary Loparo      University of Central Florida  Oak Ridge National Laboratory          SULI
-Summer 2014  Adam Phillips       University of Central Florida  Lawrence Berkeley National Laboratory  SULI
-Spring 2016  Anne Ly Pham        University of Central Florida  Lawrence Berkeley National Laboratory  SULI
-Spring 2015  Adam Phillips       University of Central Florida  National Renewable Energy Laboratory   SULI
-Spring 2014  Robert E Bantz      University of Central Florida  National Renewable Energy Laboratory   SULI
-Fall 2015    Anne Ly Pham        University of Central Florida  Lawrence Berkeley National Laboratory  SULI
+Term         Name              College                        Host Lab                               Program
+-----------  ----------------  -----------------------------  -------------------------------------  ---------
+Summer 2016  Erik M Ninnemann  University of Central Florida  Oak Ridge National Laboratory          SULI
+Summer 2015  Leigh Nash        University of Central Florida  Argonne National Laboratory            SULI
+Summer 2014  Adam Phillips     University of Central Florida  Lawrence Berkeley National Laboratory  SULI
+Summer 2014  Zachary Loparo    University of Central Florida  Oak Ridge National Laboratory          SULI
+Spring 2016  Anne Ly Pham      University of Central Florida  Lawrence Berkeley National Laboratory  SULI
+Spring 2014  Robert E Bantz    University of Central Florida  National Renewable Energy Laboratory   SULI
+Fall 2015    Anne Ly Pham      University of Central Florida  Lawrence Berkeley National Laboratory  SULI
 ```
 ---
 <a name="FL-08"></a>
@@ -450,19 +436,17 @@ In the past 8 years, this district has received:<b> $1,963,195 </b>in NSF MPS gr
   2013  FLORIDA INSTITUTE OF TECHNOLOGY, INC.       354,763
 ```
 ## SULI/CCI Interns
-From 2014-2016 (only years available), this district had 9 SULI/CCI interns
+From 2014-2016 (only years available), this district had 7 SULI/CCI interns
 ```
-Term         Name                      College                          Host Lab                                        Program
------------  ------------------------  -------------------------------  ----------------------------------------------  ---------
-Summer 2016  Zoe Ashton                Florida Institute of Technology  Los Alamos National Laboratory                  SULI
-Summer 2015  Brooke Adams              Florida Institute of Technology  Brookhaven National Laboratory                  SULI
-Summer 2015  Zoe Ashton                Florida Institute of Technology  Los Alamos National Laboratory                  SULI
-Summer 2015  Mary Kosak                Florida Institute of Technology  Los Alamos National Laboratory                  SULI
-Summer 2014  Mary Kosak                Florida Institute of Technology  Los Alamos National Laboratory                  SULI
-Summer 2014  Jessie Michael Twigger    Florida Institute of Technology  Thomas Jefferson National Accelerator Facility  SULI
-Spring 2015  Michael William Phipps    Florida Institute of Technology  Brookhaven National Laboratory                  SULI
-Fall 2014    William Patrick Comaskey  Florida Institute of Technology  Lawrence Berkeley National Laboratory           SULI
-Fall 2014    Michael William Phipps    Florida Institute of Technology  Brookhaven National Laboratory                  SULI
+Term         Name                    College                          Host Lab                                        Program
+-----------  ----------------------  -------------------------------  ----------------------------------------------  ---------
+Summer 2016  Zoe Ashton              Florida Institute of Technology  Los Alamos National Laboratory                  SULI
+Summer 2015  Zoe Ashton              Florida Institute of Technology  Los Alamos National Laboratory                  SULI
+Summer 2015  Mary Kosak              Florida Institute of Technology  Los Alamos National Laboratory                  SULI
+Summer 2014  Jessie Michael Twigger  Florida Institute of Technology  Thomas Jefferson National Accelerator Facility  SULI
+Summer 2014  Mary Kosak              Florida Institute of Technology  Los Alamos National Laboratory                  SULI
+Spring 2015  Michael William Phipps  Florida Institute of Technology  Brookhaven National Laboratory                  SULI
+Fall 2014    Michael William Phipps  Florida Institute of Technology  Brookhaven National Laboratory                  SULI
 ```
 ---
 <a name="FL-09"></a>
@@ -620,13 +604,12 @@ In the past 8 years, this district has received:<b> $5,224,495 </b>in NSF MPS gr
   2017  UNIVERSITY OF SOUTH FLORIDA                2,217,676
 ```
 ## SULI/CCI Interns
-From 2014-2016 (only years available), this district had 4 SULI/CCI interns
+From 2014-2016 (only years available), this district had 3 SULI/CCI interns
 ```
 Term         Name                 College                      Host Lab                               Program
 -----------  -------------------  ---------------------------  -------------------------------------  ---------
 Summer 2016  Edward Mitchell      University of South Florida  Oak Ridge National Laboratory          SULI
 Spring 2016  Paul Matthew Kairys  University of South Florida  National Renewable Energy Laboratory   SULI
-Spring 2015  Romina Gotzmann      University of South Florida  Lawrence Berkeley National Laboratory  SULI
 Fall 2015    Romina Gotzmann      University of South Florida  Lawrence Berkeley National Laboratory  SULI
 ```
 ---
@@ -692,11 +675,8 @@ In the past 8 years, this district has received:<b> $369,602 </b>in NSF MPS gran
   2014  NEW COLLEGE OF FLORIDA       244,153
 ```
 ## SULI/CCI Interns
-From 2014-2016 (only years available), this district had 1 SULI/CCI intern
 ```
-Term         Name            College                 Host Lab                    Program
------------  --------------  ----------------------  --------------------------  ---------
-Summer 2015  Zachary Decker  New College of Florida  Sandia National Laboratory  SULI
+This district had no SULI/CCI interns from 2014-2016 (only years available)
 ```
 ---
 <a name="FL-17"></a>
@@ -869,17 +849,16 @@ In the past 8 years, this district has received:<b> $831,734 </b>in NSF MPS gran
   2013  FLORIDA ATLANTIC UNIVERSITY       165,999
 ```
 ## SULI/CCI Interns
-From 2014-2016 (only years available), this district had 8 SULI/CCI interns
+From 2014-2016 (only years available), this district had 7 SULI/CCI interns
 ```
 Term         Name                     College                      Host Lab                                        Program
 -----------  -----------------------  ---------------------------  ----------------------------------------------  ---------
-Summer 2016  Chelsey Rebecca Hoff     Florida Atlantic University  Oak Ridge National Laboratory                   SULI
 Summer 2016  Han Soul Lee             Florida Atlantic University  Brookhaven National Laboratory                  SULI
-Summer 2015  Elizabeth Leslie Rubino  Florida Atlantic University  Brookhaven National Laboratory                  SULI
+Summer 2016  Chelsey Rebecca Hoff     Florida Atlantic University  Oak Ridge National Laboratory                   SULI
 Summer 2014  Zaarah Lyla Mohamed      Florida Atlantic University  Thomas Jefferson National Accelerator Facility  SULI
 Spring 2016  Chelsey Rebecca Hoff     Florida Atlantic University  Oak Ridge National Laboratory                   SULI
-Fall 2015    Zachary Taylor Anderson  Florida Atlantic University  Lawrence Berkeley National Laboratory           SULI
 Fall 2015    Ryan Crichton            Florida Atlantic University  Argonne National Laboratory                     SULI
+Fall 2015    Zachary Taylor Anderson  Florida Atlantic University  Lawrence Berkeley National Laboratory           SULI
 Fall 2015    Samuel Haskins Schlegel  Florida Atlantic University  Oak Ridge National Laboratory                   SULI
 ```
 ---
@@ -990,15 +969,14 @@ In the past 8 years, this district has received:<b> $4,676,312 </b>in NSF MPS gr
   2013  FLORIDA INTERNATIONAL UNIVERSITY       986,059
 ```
 ## SULI/CCI Interns
-From 2014-2016 (only years available), this district had 5 SULI/CCI interns
+From 2014-2016 (only years available), this district had 4 SULI/CCI interns
 ```
-Term         Name                   College                           Host Lab                                        Program
------------  ---------------------  --------------------------------  ----------------------------------------------  ---------
-Summer 2016  Abdul Rahim Ansari     Florida International University  Thomas Jefferson National Accelerator Facility  SULI
-Summer 2015  Anthony Llodra         Florida International University  Thomas Jefferson National Accelerator Facility  SULI
-Summer 2014  Adrianna Marie Angulo  Florida International University  Princeton Plasma Physics Laboratory             SULI
-Summer 2014  Jenna Samuel           Florida International University  Thomas Jefferson National Accelerator Facility  SULI
-Spring 2016  Jason Rolando Soto     Florida International University  Lawrence Berkeley National Laboratory           SULI
+Term         Name                College                           Host Lab                                        Program
+-----------  ------------------  --------------------------------  ----------------------------------------------  ---------
+Summer 2016  Abdul Rahim Ansari  Florida International University  Thomas Jefferson National Accelerator Facility  SULI
+Summer 2015  Anthony Llodra      Florida International University  Thomas Jefferson National Accelerator Facility  SULI
+Summer 2014  Jenna Samuel        Florida International University  Thomas Jefferson National Accelerator Facility  SULI
+Spring 2016  Jason Rolando Soto  Florida International University  Lawrence Berkeley National Laboratory           SULI
 ```
 ---
 <a name="FL-27"></a>

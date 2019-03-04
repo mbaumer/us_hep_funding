@@ -58,14 +58,16 @@ UTAH VALLEY UNIVERSITY         300,000
 DIXIE STATE UNIVERSITY         135,000
 ```
 ## SULI/CCI Interns
-From 2014-2016 (only years available), this state had 34 SULI/CCI interns
+<p align="center">
+![UT SULI/CCI image]({{ site.baseurl }}/img/UT.png)
+</p>
+From 2014-2016 (only years available), this state had 22 SULI/CCI interns
 ```
   # Interns  Program    College
------------  ---------  ---------------------------
-         18  SULI       Brigham Young University
-          8  SULI       The University of Utah
-          7  SULI       Utah State University
-          1  SULI       Dixie State College of Utah
+-----------  ---------  ------------------------
+         12  SULI       Brigham Young University
+          7  SULI       The University of Utah
+          3  SULI       Utah State University
 ```
 ---
 ---
@@ -101,17 +103,13 @@ In the past 8 years, this district has received:<b> $5,358,219 </b>in NSF MPS gr
   2012  UTAH STATE UNIVERSITY       107,800
 ```
 ## SULI/CCI Interns
-From 2014-2016 (only years available), this district had 7 SULI/CCI interns
+From 2014-2016 (only years available), this district had 3 SULI/CCI interns
 ```
-Term         Name                   College                Host Lab                              Program
------------  ---------------------  ---------------------  ------------------------------------  ---------
-Summer 2016  Chris Joseph Martinez  Utah State University  Idaho National Laboratory             SULI
-Summer 2016  Benjamin Vegel         Utah State University  Idaho National Laboratory             SULI
-Summer 2015  Katelyn Sarah Allison  Utah State University  Idaho National Laboratory             SULI
-Summer 2015  Michael Berry          Utah State University  Los Alamos National Laboratory        SULI
-Summer 2015  Kaleb Roberts          Utah State University  Idaho National Laboratory             SULI
-Summer 2014  Isaac Allred           Utah State University  Idaho National Laboratory             SULI
-Summer 2014  Tate Shorthill         Utah State University  National Renewable Energy Laboratory  SULI
+Term         Name                   College                Host Lab                   Program
+-----------  ---------------------  ---------------------  -------------------------  ---------
+Summer 2016  Chris Joseph Martinez  Utah State University  Idaho National Laboratory  SULI
+Summer 2015  Katelyn Sarah Allison  Utah State University  Idaho National Laboratory  SULI
+Summer 2015  Kaleb Roberts          Utah State University  Idaho National Laboratory  SULI
 ```
 ---
 <a name="UT-02"></a>
@@ -159,35 +157,28 @@ In the past 8 years, this district has received:<b> $60,040,109 </b>in NSF MPS g
   2012  UNIVERSITY OF UTAH, THE    10,668,783
 ```
 ## SULI/CCI Interns
-From 2014-2016 (only years available), this district had 26 SULI/CCI interns
+From 2014-2016 (only years available), this district had 19 SULI/CCI interns
 ```
 Term         Name                       College                   Host Lab                                Program
 -----------  -------------------------  ------------------------  --------------------------------------  ---------
-Summer 2016  Nick Betzsold              Brigham Young University  Pacific Northwest National Laboratory   SULI
-Summer 2016  Richard Lee Fitzhugh       Brigham Young University  Idaho National Laboratory               SULI
-Summer 2016  Gemma Giovanna Clark       The University of Utah    SLAC National Accelerator Laboratory    SULI
-Summer 2016  Marsie Trego               Brigham Young University  Pacific Northwest National Laboratory   SULI
 Summer 2016  Aj Rasmusson               Brigham Young University  Idaho National Laboratory               SULI
-Summer 2016  Reese Petersen             Brigham Young University  Ames National Laboratory                SULI
+Summer 2016  Richard Lee Fitzhugh       Brigham Young University  Idaho National Laboratory               SULI
 Summer 2016  Tingshiuan Christopher Wu  The University of Utah    Lawrence Livermore National Laboratory  SULI
-Summer 2015  Jesse Doyle Carlson        Brigham Young University  Idaho National Laboratory               SULI
-Summer 2015  Ethan Gates Hasler         Brigham Young University  Pacific Northwest National Laboratory   SULI
+Summer 2016  Gemma Giovanna Clark       The University of Utah    SLAC National Accelerator Laboratory    SULI
+Summer 2016  Reese Petersen             Brigham Young University  Ames National Laboratory                SULI
+Summer 2015  Melissa Puga               The University of Utah    Argonne National Laboratory             SULI
 Summer 2015  Charlotte Reininger        Brigham Young University  Lawrence Berkeley National Laboratory   SULI
 Summer 2015  Brittney Saenz             Brigham Young University  Idaho National Laboratory               SULI
-Summer 2015  Tingshiuan Christopher Wu  The University of Utah    Lawrence Livermore National Laboratory  SULI
-Summer 2015  Melissa Puga               The University of Utah    Argonne National Laboratory             SULI
+Summer 2015  Jesse Doyle Carlson        Brigham Young University  Idaho National Laboratory               SULI
 Summer 2015  VAN THANH NGUYEN           The University of Utah    Idaho National Laboratory               SULI
-Summer 2015  Kameron Hansen             Brigham Young University  General Atomics / DIII-D                SULI
 Summer 2015  Cody Barnhill              The University of Utah    National Renewable Energy Laboratory    SULI
-Summer 2014  Avery Tye Gardner          The University of Utah    Lawrence Berkeley National Laboratory   SULI
-Summer 2014  Ryan Joseph Gillis         Brigham Young University  Lawrence Livermore National Laboratory  SULI
-Summer 2014  Nils Thomas Otterstrom     Brigham Young University  Oak Ridge National Laboratory           SULI
-Summer 2014  Spencer Dirk Lindeman      Brigham Young University  National Renewable Energy Laboratory    SULI
+Summer 2015  Ethan Gates Hasler         Brigham Young University  Pacific Northwest National Laboratory   SULI
+Summer 2015  Tingshiuan Christopher Wu  The University of Utah    Lawrence Livermore National Laboratory  SULI
 Summer 2014  Carl Walker Prince         Brigham Young University  Idaho National Laboratory               SULI
-Summer 2014  Daniel Woodbury            Brigham Young University  Princeton Plasma Physics Laboratory     SULI
-Summer 2014  Loren Anderson             Brigham Young University  Idaho National Laboratory               SULI
+Summer 2014  Spencer Dirk Lindeman      Brigham Young University  National Renewable Energy Laboratory    SULI
+Summer 2014  Avery Tye Gardner          The University of Utah    Lawrence Berkeley National Laboratory   SULI
+Summer 2014  Nils Thomas Otterstrom     Brigham Young University  Oak Ridge National Laboratory           SULI
 Spring 2016  Reese Petersen             Brigham Young University  National Renewable Energy Laboratory    SULI
-Spring 2015  Joseph Adam Santora        The University of Utah    Lawrence Berkeley National Laboratory   SULI
 Spring 2014  Arthur Adaon Castleton     Brigham Young University  Idaho National Laboratory               SULI
 ```
 ---
@@ -250,10 +241,7 @@ In the past 8 years, this district has received:
 This district received no NSF MPS grants from 2012-2019
 ```
 ## SULI/CCI Interns
-From 2014-2016 (only years available), this district had 1 SULI/CCI intern
 ```
-Term       Name           College                      Host Lab                        Program
----------  -------------  ---------------------------  ------------------------------  ---------
-Fall 2015  Aimee Newsham  Dixie State College of Utah  Los Alamos National Laboratory  SULI
+This district had no SULI/CCI interns from 2014-2016 (only years available)
 ```
 ---

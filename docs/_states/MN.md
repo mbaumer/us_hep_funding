@@ -69,19 +69,21 @@ SAINT MARY'S UNIVERSITY OF MINNESOTA                 14,000
 COLLEGE OF ST SCHOLASTICA INC                         9,000
 ```
 ## SULI/CCI Interns
-From 2014-2016 (only years available), this state had 36 SULI/CCI interns
+<p align="center">
+![MN SULI/CCI image]({{ site.baseurl }}/img/MN.png)
+</p>
+From 2014-2016 (only years available), this state had 26 SULI/CCI interns
 ```
   # Interns  Program    College
 -----------  ---------  -------------------------------------------
-          8  SULI       St. Olaf College
-          7  SULI       University of Minnesota-Twin Cities
-          6  SULI       Carleton College
+          5  SULI       Carleton College
+          5  SULI       University of Minnesota-Twin Cities
+          4  SULI       St. Olaf College
           4  SULI       University of Saint Thomas
-          3  SULI       Winona State University
-          2  SULI       Saint John's University
           2  SULI       University of Minnesota-Duluth
+          2  SULI       Winona State University
           1  CCI        Minneapolis Community and Technical College
-          1  SULI       Gustavus Adolphus College
+          1  SULI       Saint John's University
           1  SULI       St. Cloud State University
           1  SULI       University of Minnesota-Morris
 ```
@@ -115,14 +117,12 @@ In the past 8 years, this district has received:<b> $998,505 </b>in NSF MPS gran
   2012  SAINT MARY'S UNIVERSITY OF MINNESOTA        14,000
 ```
 ## SULI/CCI Interns
-From 2014-2016 (only years available), this district had 4 SULI/CCI interns
+From 2014-2016 (only years available), this district had 2 SULI/CCI interns
 ```
-Term         Name                  College                    Host Lab                     Program
------------  --------------------  -------------------------  ---------------------------  ---------
-Summer 2015  Domenic Ofsdahl       Winona State University    Argonne National Laboratory  SULI
-Summer 2014  Daniel James Baldwin  Gustavus Adolphus College  Ames National Laboratory     SULI
-Summer 2014  Kevin Michael Brom    Winona State University    Argonne National Laboratory  SULI
-Summer 2014  Tad DeGonda Dolphay   Winona State University    Argonne National Laboratory  SULI
+Term         Name                 College                  Host Lab                     Program
+-----------  -------------------  -----------------------  ---------------------------  ---------
+Summer 2015  Domenic Ofsdahl      Winona State University  Argonne National Laboratory  SULI
+Summer 2014  Tad DeGonda Dolphay  Winona State University  Argonne National Laboratory  SULI
 ```
 ---
 <a name="MN-02"></a>
@@ -159,24 +159,19 @@ In the past 8 years, this district has received:<b> $4,281,867 </b>in NSF MPS gr
   2012  ST. OLAF COLLEGE         321,529
 ```
 ## SULI/CCI Interns
-From 2014-2016 (only years available), this district had 14 SULI/CCI interns
+From 2014-2016 (only years available), this district had 9 SULI/CCI interns
 ```
-Term         Name                           College           Host Lab                               Program
------------  -----------------------------  ----------------  -------------------------------------  ---------
-Summer 2016  Caitlyn Amanda Rachel Johnson  St. Olaf College  National Renewable Energy Laboratory   SULI
-Summer 2016  Zachary Michael Norberg        St. Olaf College  Pacific Northwest National Laboratory  SULI
-Summer 2016  Adam Rutkowski                 Carleton College  Lawrence Berkeley National Laboratory  SULI
-Summer 2015  Jordan Timothy Dull            St. Olaf College  Argonne National Laboratory            SULI
-Summer 2015  Heena Joo                      St. Olaf College  Pacific Northwest National Laboratory  SULI
-Summer 2015  Joshua Lipstone                Carleton College  Oak Ridge National Laboratory          SULI
-Summer 2014  Jordan Timothy Dull            St. Olaf College  Brookhaven National Laboratory         SULI
-Summer 2014  Meghan Mariah Exner            St. Olaf College  Brookhaven National Laboratory         SULI
-Summer 2014  Jorden Alyss Johnson           St. Olaf College  Ames National Laboratory               SULI
-Summer 2014  Anna Mattson                   St. Olaf College  Idaho National Laboratory              SULI
-Summer 2014  Grace Ayres Newman             Carleton College  Pacific Northwest National Laboratory  SULI
-Spring 2015  Andrew Beach Peterson          Carleton College  Los Alamos National Laboratory         SULI
-Fall 2014    Julia Edith Greenwald          Carleton College  National Renewable Energy Laboratory   SULI
-Fall 2014    Andrew Beach Peterson          Carleton College  Los Alamos National Laboratory         SULI
+Term         Name                   College           Host Lab                               Program
+-----------  ---------------------  ----------------  -------------------------------------  ---------
+Summer 2016  Adam Rutkowski         Carleton College  Lawrence Berkeley National Laboratory  SULI
+Summer 2015  Heena Joo              St. Olaf College  Pacific Northwest National Laboratory  SULI
+Summer 2015  Joshua Lipstone        Carleton College  Oak Ridge National Laboratory          SULI
+Summer 2014  Meghan Mariah Exner    St. Olaf College  Brookhaven National Laboratory         SULI
+Summer 2014  Grace Ayres Newman     Carleton College  Pacific Northwest National Laboratory  SULI
+Summer 2014  Jorden Alyss Johnson   St. Olaf College  Ames National Laboratory               SULI
+Summer 2014  Anna Mattson           St. Olaf College  Idaho National Laboratory              SULI
+Spring 2015  Andrew Beach Peterson  Carleton College  Los Alamos National Laboratory         SULI
+Fall 2014    Julia Edith Greenwald  Carleton College  National Renewable Energy Laboratory   SULI
 ```
 ---
 <a name="MN-03"></a>
@@ -302,13 +297,11 @@ In the past 8 years, this district has received:<b> $134,936,334 </b>in NSF MPS 
   2012  REGENTS OF THE UNIVERSITY OF MINNESOTA    22,893,163
 ```
 ## SULI/CCI Interns
-From 2014-2016 (only years available), this district had 8 SULI/CCI interns
+From 2014-2016 (only years available), this district had 6 SULI/CCI interns
 ```
 Term         Name            College                                      Host Lab                               Program
 -----------  --------------  -------------------------------------------  -------------------------------------  ---------
 Summer 2016  Seamus Jones    University of Minnesota-Twin Cities          Argonne National Laboratory            SULI
-Summer 2016  John Ke         University of Minnesota-Twin Cities          Lawrence Berkeley National Laboratory  SULI
-Summer 2016  Jay Wang        University of Minnesota-Twin Cities          Lawrence Berkeley National Laboratory  SULI
 Summer 2016  Mbathio Diagne  Minneapolis Community and Technical College  National Renewable Energy Laboratory   CCI
 Summer 2015  John Ke         University of Minnesota-Twin Cities          Lawrence Berkeley National Laboratory  SULI
 Summer 2015  Maren Symes     University of Minnesota-Twin Cities          Pacific Northwest National Laboratory  SULI
@@ -341,13 +334,12 @@ In the past 8 years, this district has received:<b> $651,460 </b>in NSF MPS gran
   2012  ST CLOUD STATE UNIVERSITY       129,809
 ```
 ## SULI/CCI Interns
-From 2014-2016 (only years available), this district had 3 SULI/CCI interns
+From 2014-2016 (only years available), this district had 2 SULI/CCI interns
 ```
 Term         Name             College                     Host Lab                        Program
 -----------  ---------------  --------------------------  ------------------------------  ---------
 Summer 2014  Anthony Pearson  St. Cloud State University  Los Alamos National Laboratory  SULI
 Spring 2016  Orlando Lopez    Saint John's University     Brookhaven National Laboratory  SULI
-Fall 2015    Orlando Lopez    Saint John's University     Brookhaven National Laboratory  SULI
 ```
 ---
 <a name="MN-07"></a>

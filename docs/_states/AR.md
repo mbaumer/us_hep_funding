@@ -40,11 +40,14 @@ UNIVERSITY OF ARKANSAS SYSTEM036725083          74,074
 ARKANSAS STATE UNIVERSITY                       34,000
 ```
 ## SULI/CCI Interns
-From 2014-2016 (only years available), this state had 7 SULI/CCI interns
+<p align="center">
+![AR SULI/CCI image]({{ site.baseurl }}/img/AR.png)
+</p>
+From 2014-2016 (only years available), this state had 6 SULI/CCI interns
 ```
   # Interns  Program    College
 -----------  ---------  -------------------------------------
-          4  SULI       University of Arkansas Main Campus
+          3  SULI       University of Arkansas Main Campus
           1  CCI        Shorter College
           1  SULI       Pulaski Technical College
           1  SULI       University of Arkansas at Little Rock
@@ -107,14 +110,13 @@ In the past 8 years, this district has received:<b> $2,505,406 </b>in NSF MPS gr
   2012  UNIVERSITY OF ARKANSAS SYSTEM                  419,056
 ```
 ## SULI/CCI Interns
-From 2014-2016 (only years available), this district had 7 SULI/CCI interns
+From 2014-2016 (only years available), this district had 6 SULI/CCI interns
 ```
 Term         Name                        College                                Host Lab                               Program
 -----------  --------------------------  -------------------------------------  -------------------------------------  ---------
 Summer 2016  Craig Mclean                University of Arkansas Main Campus     Pacific Northwest National Laboratory  SULI
 Summer 2015  Gregory Alexander Jackson   Shorter College                        Brookhaven National Laboratory         CCI
 Summer 2014  Sarah June Hallett          Pulaski Technical College              SLAC National Accelerator Laboratory   SULI
-Spring 2015  Robert Engler               University of Arkansas Main Campus     Idaho National Laboratory              SULI
 Fall 2015    Saxon Golden                University of Arkansas at Little Rock  Oak Ridge National Laboratory          SULI
 Fall 2014    Natasha Raghunandhan        University of Arkansas Main Campus     Lawrence Berkeley National Laboratory  SULI
 Fall 2014    Michael Alexander Reinisch  University of Arkansas Main Campus     National Renewable Energy Laboratory   SULI

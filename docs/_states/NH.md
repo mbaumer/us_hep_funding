@@ -54,12 +54,15 @@ MULTIPLE RECIPIENTS                    3,300,000
 DARTMOUTH COLLEGE                        286,576
 ```
 ## SULI/CCI Interns
-From 2014-2016 (only years available), this state had 13 SULI/CCI interns
+<p align="center">
+![NH SULI/CCI image]({{ site.baseurl }}/img/NH.png)
+</p>
+From 2014-2016 (only years available), this state had 11 SULI/CCI interns
 ```
   # Interns  Program    College
 -----------  ---------  ---------------------------
-          7  SULI       University of New Hampshire
-          6  SULI       Dartmouth College
+          6  SULI       University of New Hampshire
+          5  SULI       Dartmouth College
 ```
 ---
 ---
@@ -96,14 +99,13 @@ In the past 8 years, this district has received:<b> $4,893,514 </b>in NSF MPS gr
   2012  UNIVERSITY SYSTEM OF NEW HAMPSHIRE     1,542,799
 ```
 ## SULI/CCI Interns
-From 2014-2016 (only years available), this district had 7 SULI/CCI interns
+From 2014-2016 (only years available), this district had 6 SULI/CCI interns
 ```
 Term         Name                     College                      Host Lab                        Program
 -----------  -----------------------  ---------------------------  ------------------------------  ---------
 Summer 2016  Mitchell Bryce Juneau    University of New Hampshire  Idaho National Laboratory       SULI
 Summer 2015  William Joseph Clark     University of New Hampshire  Brookhaven National Laboratory  SULI
 Summer 2015  Lauren Ashley Gazerwitz  University of New Hampshire  Brookhaven National Laboratory  SULI
-Summer 2014  Dulaney Leigh Miller     University of New Hampshire  Brookhaven National Laboratory  SULI
 Spring 2016  Lauren Ashley Gazerwitz  University of New Hampshire  Brookhaven National Laboratory  SULI
 Fall 2014    Jillian Fleming          University of New Hampshire  Brookhaven National Laboratory  SULI
 Fall 2014    Emily Rose Malkauskas    University of New Hampshire  Brookhaven National Laboratory  SULI
@@ -148,13 +150,12 @@ In the past 8 years, this district has received:<b> $17,396,246 </b>in NSF MPS g
   2012  TRUSTEES OF DARTMOUTH COLLEGE          1,410,528
 ```
 ## SULI/CCI Interns
-From 2014-2016 (only years available), this district had 6 SULI/CCI interns
+From 2014-2016 (only years available), this district had 5 SULI/CCI interns
 ```
 Term         Name                   College            Host Lab                               Program
 -----------  ---------------------  -----------------  -------------------------------------  ---------
 Summer 2016  Melissa Ellen Dunham   Dartmouth College  Oak Ridge National Laboratory          SULI
 Summer 2014  Michelle Chen          Dartmouth College  Brookhaven National Laboratory         SULI
-Summer 2014  Benjamin Behr Conley   Dartmouth College  Argonne National Laboratory            SULI
 Summer 2014  Matthew William Long   Dartmouth College  National Renewable Energy Laboratory   SULI
 Spring 2015  Lucille Mayme Watkins  Dartmouth College  Lawrence Berkeley National Laboratory  SULI
 Fall 2014    Phuong Luong           Dartmouth College  Ames National Laboratory               SULI

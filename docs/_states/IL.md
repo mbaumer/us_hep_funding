@@ -109,52 +109,53 @@ FERMI RESEARCH ALLIANCE, LLC                     28,740
 DE PAUL UNIVERSITY                               20,567
 ```
 ## SULI/CCI Interns
-From 2014-2016 (only years available), this state had 175 SULI/CCI interns
+<p align="center">
+![IL SULI/CCI image]({{ site.baseurl }}/img/IL.png)
+</p>
+From 2014-2016 (only years available), this state had 136 SULI/CCI interns
 ```
   # Interns  Program    College
 -----------  ---------  -------------------------------------------------
-         44  SULI       University of Illinois at Urbana-Champaign
-         18  SULI       University of Chicago
-         12  CCI        College of Du Page
+         32  SULI       University of Illinois at Urbana-Champaign
+         12  SULI       University of Chicago
+         10  CCI        College of Du Page
           7  SULI       University of Illinois at Chicago
-          7  SULI       Northwestern University
-          7  SULI       North Central College
-          6  SULI       Loyola University Chicago
-          5  SULI       Illinois Institute of Technology
-          5  SULI       Western Illinois University
-          4  SULI       Benedictine University
-          4  SULI       Illinois Wesleyan University
+          6  SULI       Northwestern University
+          4  SULI       Illinois Institute of Technology
+          4  SULI       North Central College
           3  SULI       Governors State University
-          3  SULI       Southern Illinois University Edwardsville
+          3  SULI       Western Illinois University
           3  SULI       Southern Illinois University Carbondale
           3  SULI       Northeastern Illinois University
+          3  SULI       Loyola University Chicago
+          3  SULI       Illinois Wesleyan University
           3  SULI       Illinois State University
           3  SULI       Wheaton College
-          3  SULI       College of Du Page
           3  CCI        Moraine Valley Community College
           2  SULI       DePaul University
-          2  CCI        Elgin Community College
           2  CCI        Harper College
           2  CCI        Joliet Junior College
+          2  SULI       College of Du Page
+          2  SULI       Southern Illinois University Edwardsville
           2  SULI       Lewis University
+          2  SULI       Benedictine University
           2  SULI       Augustana College
           2  CCI        Waubonsee Community College
-          2  SULI       Northern Illinois University
-          1  SULI       Elgin Community College
           1  CCI        Sauk Valley Community College
+          1  CCI        Elgin Community College
           1  SULI       University of Illinois Springfield
-          1  CCI        Lincoln Land Community College
           1  CCI        McHenry County College
           1  SULI       Principia College
           1  SULI       North Park University
-          1  SULI       Elmhurst College
+          1  SULI       Northern Illinois University
+          1  SULI       Elgin Community College
           1  SULI       Moraine Valley Community College
-          1  SULI       Chicago State University
           1  SULI       Lake Forest College
-          1  SULI       Judson University
+          1  SULI       Chicago State University
           1  SULI       City Colleges of Chicago
-          1  SULI       Concordia University Chicago
           1  SULI       Illinois College
+          1  SULI       Concordia University Chicago
+          1  SULI       Elmhurst College
           1  CCI        City Colleges of Chicago Richard J. Daley College
 ```
 ---
@@ -225,34 +226,27 @@ In the past 8 years, this district has received:<b> $152,347,421 </b>in NSF MPS 
   2012  ILLINOIS INSTITUTE OF TECHNOLOGY              1,308,682
 ```
 ## SULI/CCI Interns
-From 2014-2016 (only years available), this district had 24 SULI/CCI interns
+From 2014-2016 (only years available), this district had 17 SULI/CCI interns
 ```
-Term         Name                        College                           Host Lab                               Program
------------  --------------------------  --------------------------------  -------------------------------------  ---------
-Summer 2016  Matthew Brennan             University of Chicago             Argonne National Laboratory            SULI
-Summer 2016  Joseph Arthur Mittelstaedt  University of Chicago             Princeton Plasma Physics Laboratory    SULI
-Summer 2016  Joshua Joseph Koblich       Illinois Institute of Technology  Argonne National Laboratory            SULI
-Summer 2016  Michael William Wasney      University of Chicago             Argonne National Laboratory            SULI
-Summer 2016  Laura Porath                University of Chicago             Argonne National Laboratory            SULI
-Summer 2016  Ananya Pillutla             University of Chicago             Lawrence Berkeley National Laboratory  SULI
-Summer 2016  Gabriel Lynch               University of Chicago             Argonne National Laboratory            SULI
-Summer 2015  Joseph Lopez                Illinois Institute of Technology  Argonne National Laboratory            SULI
-Summer 2015  Joshua Joseph Koblich       Illinois Institute of Technology  Argonne National Laboratory            SULI
-Summer 2015  James Connor Gilhula        University of Chicago             Oak Ridge National Laboratory          SULI
-Summer 2015  Amelia Glinskis             University of Chicago             Argonne National Laboratory            SULI
-Summer 2015  Hadar Lazar                 University of Chicago             Princeton Plasma Physics Laboratory    SULI
-Summer 2015  Alfred H Tang               University of Chicago             Ames National Laboratory               SULI
-Summer 2014  Alyssa Grace Bowes          Illinois Institute of Technology  Lawrence Berkeley National Laboratory  SULI
-Summer 2014  Salman M Ali                University of Chicago             Argonne National Laboratory            SULI
-Summer 2014  James Connor Gilhula        University of Chicago             Oak Ridge National Laboratory          SULI
-Summer 2014  Marissa Kathryn Parker      University of Chicago             Ames National Laboratory               SULI
-Summer 2014  Ariel Matalon               University of Chicago             Argonne National Laboratory            SULI
-Summer 2014  Sarah Louise Mancina        University of Chicago             Argonne National Laboratory            SULI
-Summer 2014  Adam Levi                   University of Chicago             Lawrence Berkeley National Laboratory  SULI
-Summer 2014  Hadar Lazar                 University of Chicago             Princeton Plasma Physics Laboratory    SULI
-Spring 2016  Kyra Stillman               University of Chicago             Lawrence Berkeley National Laboratory  SULI
-Spring 2016  Tiara Brown                 Chicago State University          Lawrence Berkeley National Laboratory  SULI
-Spring 2015  William Fox                 Illinois Institute of Technology  Lawrence Berkeley National Laboratory  SULI
+Term         Name                    College                           Host Lab                               Program
+-----------  ----------------------  --------------------------------  -------------------------------------  ---------
+Summer 2016  Matthew Brennan         University of Chicago             Argonne National Laboratory            SULI
+Summer 2016  Gabriel Lynch           University of Chicago             Argonne National Laboratory            SULI
+Summer 2016  Ananya Pillutla         University of Chicago             Lawrence Berkeley National Laboratory  SULI
+Summer 2015  Alfred H Tang           University of Chicago             Ames National Laboratory               SULI
+Summer 2015  Amelia Glinskis         University of Chicago             Argonne National Laboratory            SULI
+Summer 2015  Joshua Joseph Koblich   Illinois Institute of Technology  Argonne National Laboratory            SULI
+Summer 2015  Joseph Lopez            Illinois Institute of Technology  Argonne National Laboratory            SULI
+Summer 2015  Hadar Lazar             University of Chicago             Princeton Plasma Physics Laboratory    SULI
+Summer 2014  Hadar Lazar             University of Chicago             Princeton Plasma Physics Laboratory    SULI
+Summer 2014  Marissa Kathryn Parker  University of Chicago             Ames National Laboratory               SULI
+Summer 2014  Salman M Ali            University of Chicago             Argonne National Laboratory            SULI
+Summer 2014  Alyssa Grace Bowes      Illinois Institute of Technology  Lawrence Berkeley National Laboratory  SULI
+Summer 2014  Sarah Louise Mancina    University of Chicago             Argonne National Laboratory            SULI
+Summer 2014  Adam Levi               University of Chicago             Lawrence Berkeley National Laboratory  SULI
+Spring 2016  Tiara Brown             Chicago State University          Lawrence Berkeley National Laboratory  SULI
+Spring 2016  Kyra Stillman           University of Chicago             Lawrence Berkeley National Laboratory  SULI
+Spring 2015  William Fox             Illinois Institute of Technology  Lawrence Berkeley National Laboratory  SULI
 ```
 ---
 <a name="IL-02"></a>
@@ -344,8 +338,8 @@ Summer 2015  Kathya Paulina Chavez  City Colleges of Chicago Richard J. Daley Co
 Summer 2014  Whitney Kratovil       Moraine Valley Community College                   Argonne National Laboratory            SULI
 Summer 2014  Amanda Budz            Moraine Valley Community College                   Argonne National Laboratory            CCI
 Summer 2014  Michael Getto          Moraine Valley Community College                   Argonne National Laboratory            CCI
-Spring 2016  John Joseph Karlic     Moraine Valley Community College                   Oak Ridge National Laboratory          CCI
 Spring 2016  Zachary Scot Sherman   Lewis University                                   Argonne National Laboratory            SULI
+Spring 2016  John Joseph Karlic     Moraine Valley Community College                   Oak Ridge National Laboratory          CCI
 ```
 ---
 <a name="IL-04"></a>
@@ -432,35 +426,29 @@ In the past 8 years, this district has received:<b> $383,355 </b>in NSF MPS gran
   2012  TRUSTEES OF WHEATON COLLEGE, THE        84,000
 ```
 ## SULI/CCI Interns
-From 2014-2016 (only years available), this district had 25 SULI/CCI interns
+From 2014-2016 (only years available), this district had 19 SULI/CCI interns
 ```
 Term         Name                       College                Host Lab                               Program
 -----------  -------------------------  ---------------------  -------------------------------------  ---------
-Summer 2016  David Jura                 College of Du Page     Argonne National Laboratory            CCI
-Summer 2016  Joseph Petsinger           College of Du Page     Argonne National Laboratory            CCI
-Summer 2016  Samantha Lynn Lena         College of Du Page     Argonne National Laboratory            SULI
-Summer 2016  Spencer Hills              Wheaton College        Argonne National Laboratory            SULI
 Summer 2016  Rosemary Elfrieda Halenza  College of Du Page     Fermi National Accelerator Laboratory  CCI
 Summer 2016  Bartholomew T Hofkin       College of Du Page     Argonne National Laboratory            CCI
-Summer 2016  Matthew Robert Vitt        College of Du Page     Argonne National Laboratory            CCI
+Summer 2016  David Jura                 College of Du Page     Argonne National Laboratory            CCI
+Summer 2016  Spencer Hills              Wheaton College        Argonne National Laboratory            SULI
 Summer 2015  David Bryan Martin         Wheaton College        National Renewable Energy Laboratory   SULI
-Summer 2015  Thomas Beardsley           College of Du Page     Fermi National Accelerator Laboratory  CCI
 Summer 2015  Robert Enescu              College of Du Page     Argonne National Laboratory            CCI
 Summer 2015  Samuel Felder              College of Du Page     Argonne National Laboratory            CCI
 Summer 2015  Patrick Hertzel            College of Du Page     Argonne National Laboratory            CCI
-Summer 2014  David Bryan Martin         Wheaton College        National Renewable Energy Laboratory   SULI
-Summer 2014  Michael Andruska           College of Du Page     Argonne National Laboratory            SULI
-Summer 2014  Megan Winchell             College of Du Page     Ames National Laboratory               CCI
+Summer 2015  Thomas Beardsley           College of Du Page     Fermi National Accelerator Laboratory  CCI
 Summer 2014  Arindam Mukherjee          College of Du Page     Fermi National Accelerator Laboratory  CCI
 Summer 2014  John William Batke         College of Du Page     Fermi National Accelerator Laboratory  CCI
+Summer 2014  Megan Winchell             College of Du Page     Ames National Laboratory               CCI
+Summer 2014  Michael Andruska           College of Du Page     Argonne National Laboratory            SULI
+Summer 2014  David Bryan Martin         Wheaton College        National Renewable Energy Laboratory   SULI
 Spring 2016  Vanessa Dasilva            College of Du Page     Argonne National Laboratory            SULI
 Spring 2015  Bryan T Cardwell           North Central College  Argonne National Laboratory            SULI
-Fall 2015    Alyssa Pezan               North Central College  Argonne National Laboratory            SULI
 Fall 2015    Kelly Vazquez              North Central College  Argonne National Laboratory            SULI
-Fall 2014    Bryan T Cardwell           North Central College  Argonne National Laboratory            SULI
-Fall 2014    Amy Damitz                 North Central College  Argonne National Laboratory            SULI
+Fall 2015    Alyssa Pezan               North Central College  Argonne National Laboratory            SULI
 Fall 2014    James Michael DerKacy      North Central College  Argonne National Laboratory            SULI
-Fall 2014    Michael James Suchomel     North Central College  Argonne National Laboratory            SULI
 ```
 ---
 <a name="IL-07"></a>
@@ -520,27 +508,24 @@ In the past 8 years, this district has received:<b> $32,330,065 </b>in NSF MPS g
   2012  ADLER PLANETARIUM, THE              151,615
 ```
 ## SULI/CCI Interns
-From 2014-2016 (only years available), this district had 17 SULI/CCI interns
+From 2014-2016 (only years available), this district had 14 SULI/CCI interns
 ```
 Term         Name                       College                            Host Lab                               Program
 -----------  -------------------------  ---------------------------------  -------------------------------------  ---------
-Summer 2016  John Edward Podczerwinski  DePaul University                  Fermi National Accelerator Laboratory  SULI
-Summer 2016  Daniel Bafia               Loyola University Chicago          Argonne National Laboratory            SULI
 Summer 2016  Oliver Hui                 University of Illinois at Chicago  Argonne National Laboratory            SULI
 Summer 2016  Nada Omer                  University of Illinois at Chicago  Argonne National Laboratory            SULI
 Summer 2016  Tyler Charles Pastore      University of Illinois at Chicago  Argonne National Laboratory            SULI
-Summer 2016  Muna Saber                 University of Illinois at Chicago  Lawrence Berkeley National Laboratory  SULI
 Summer 2016  Margaret Caroline Schulz   Loyola University Chicago          Argonne National Laboratory            SULI
-Summer 2015  Spencer Weston Everett     DePaul University                  SLAC National Accelerator Laboratory   SULI
-Summer 2015  John Nikolas O'Sullivan    Loyola University Chicago          Argonne National Laboratory            SULI
-Summer 2015  Katarzyna Pomian           Loyola University Chicago          Argonne National Laboratory            SULI
+Summer 2016  Muna Saber                 University of Illinois at Chicago  Lawrence Berkeley National Laboratory  SULI
+Summer 2016  John Edward Podczerwinski  DePaul University                  Fermi National Accelerator Laboratory  SULI
 Summer 2015  Margaret Frances Sladek    Loyola University Chicago          Argonne National Laboratory            SULI
-Summer 2014  mateusz wszolek            University of Illinois at Chicago  Oak Ridge National Laboratory          SULI
+Summer 2015  Spencer Weston Everett     DePaul University                  SLAC National Accelerator Laboratory   SULI
 Summer 2014  Konrad Kuc                 University of Illinois at Chicago  Argonne National Laboratory            SULI
+Summer 2014  mateusz wszolek            University of Illinois at Chicago  Oak Ridge National Laboratory          SULI
 Spring 2016  Anthony Pitts-Mccoy        City Colleges of Chicago           Argonne National Laboratory            SULI
 Spring 2014  Kelsey DiPietro            University of Illinois at Chicago  Argonne National Laboratory            SULI
-Fall 2015    Margaret Frances Sladek    Loyola University Chicago          Oak Ridge National Laboratory          SULI
 Fall 2015    Matus Kvietok              Concordia University Chicago       Lawrence Berkeley National Laboratory  SULI
+Fall 2015    Margaret Frances Sladek    Loyola University Chicago          Oak Ridge National Laboratory          SULI
 ```
 ---
 <a name="IL-08"></a>
@@ -562,15 +547,13 @@ This district received no SC contracts from 2012-2019
 This district received no NSF MPS grants from 2012-2019
 ```
 ## SULI/CCI Interns
-From 2014-2016 (only years available), this district had 6 SULI/CCI interns
+From 2014-2016 (only years available), this district had 4 SULI/CCI interns
 ```
 Term         Name                College                  Host Lab                               Program
 -----------  ------------------  -----------------------  -------------------------------------  ---------
-Summer 2015  Preston Hansen      Elgin Community College  Fermi National Accelerator Laboratory  CCI
 Summer 2015  Angel Luis Nieves   Harper College           Argonne National Laboratory            CCI
-Summer 2014  Ali Khan            Elgin Community College  Argonne National Laboratory            CCI
+Summer 2015  Preston Hansen      Elgin Community College  Fermi National Accelerator Laboratory  CCI
 Summer 2014  Eric Harold Meyers  Harper College           Fermi National Accelerator Laboratory  CCI
-Spring 2015  Caitlin Kiel        Judson University        Argonne National Laboratory            SULI
 Fall 2014    hai ngo             Elgin Community College  Lawrence Berkeley National Laboratory  SULI
 ```
 ---
@@ -619,14 +602,13 @@ In the past 8 years, this district has received:<b> $93,728,279 </b>in NSF MPS g
   2012  NORTHWESTERN UNIVERSITY         12,363,984
 ```
 ## SULI/CCI Interns
-From 2014-2016 (only years available), this district had 7 SULI/CCI interns
+From 2014-2016 (only years available), this district had 6 SULI/CCI interns
 ```
 Term         Name                   College                  Host Lab                               Program
 -----------  ---------------------  -----------------------  -------------------------------------  ---------
 Summer 2016  Lauren M Barmore       Northwestern University  SLAC National Accelerator Laboratory   SULI
-Summer 2016  Samuel Meyer Dull      Northwestern University  Argonne National Laboratory            SULI
-Summer 2015  Rebecca Rimai Diesing  Northwestern University  Fermi National Accelerator Laboratory  SULI
 Summer 2015  Samuel Meyer Dull      Northwestern University  National Renewable Energy Laboratory   SULI
+Summer 2015  Rebecca Rimai Diesing  Northwestern University  Fermi National Accelerator Laboratory  SULI
 Summer 2015  Joon Park              Northwestern University  Fermi National Accelerator Laboratory  SULI
 Summer 2014  Leanne Friedrich       Northwestern University  Lawrence Berkeley National Laboratory  SULI
 Summer 2014  Peter Santos           Northwestern University  Lawrence Berkeley National Laboratory  SULI
@@ -696,15 +678,13 @@ In the past 8 years, this district has received:<b> $1,405,022 </b>in NSF MPS gr
   2012  ILLINOIS STATE UNIVERSITY       440,832
 ```
 ## SULI/CCI Interns
-From 2014-2016 (only years available), this district had 6 SULI/CCI interns
+From 2014-2016 (only years available), this district had 4 SULI/CCI interns
 ```
 Term         Name                   College                 Host Lab                               Program
 -----------  ---------------------  ----------------------  -------------------------------------  ---------
 Summer 2016  Jeremy Michael Bingen  Benedictine University  Argonne National Laboratory            SULI
-Summer 2016  Nathan James Kuhlmann  Benedictine University  Argonne National Laboratory            SULI
 Summer 2016  Noel Christina Boland  Joliet Junior College   Argonne National Laboratory            CCI
 Summer 2016  Jose Luis Salinas Jr.  Joliet Junior College   Fermi National Accelerator Laboratory  CCI
-Summer 2015  Nathan James Kuhlmann  Benedictine University  Argonne National Laboratory            SULI
 Summer 2014  Sydney Alonzo          Benedictine University  Argonne National Laboratory            SULI
 ```
 ---
@@ -823,63 +803,49 @@ In the past 8 years, this district has received:<b> $119,372,138 </b>in NSF MPS 
   2013  UNIVERSITY OF ILLINOIS                   21,304,348
 ```
 ## SULI/CCI Interns
-From 2014-2016 (only years available), this district had 54 SULI/CCI interns
+From 2014-2016 (only years available), this district had 40 SULI/CCI interns
 ```
 Term         Name                        College                                     Host Lab                               Program
 -----------  --------------------------  ------------------------------------------  -------------------------------------  ---------
-Summer 2016  Rachel Allison Andersen     University of Illinois at Urbana-Champaign  Argonne National Laboratory            SULI
-Summer 2016  Kaitlin Medland             University of Illinois at Urbana-Champaign  Argonne National Laboratory            SULI
-Summer 2016  Matthew Cheng               University of Illinois at Urbana-Champaign  Argonne National Laboratory            SULI
-Summer 2016  Henry Cuzco                 University of Illinois at Urbana-Champaign  Argonne National Laboratory            SULI
-Summer 2016  Alexander Dittmann          University of Illinois at Urbana-Champaign  General Atomics / DIII-D               SULI
-Summer 2016  Emily Foley                 University of Illinois at Urbana-Champaign  National Renewable Energy Laboratory   SULI
-Summer 2016  Francesca Gambacorta        University of Illinois at Urbana-Champaign  Argonne National Laboratory            SULI
-Summer 2016  Rohini Singh Gupta          University of Illinois at Urbana-Champaign  National Renewable Energy Laboratory   SULI
-Summer 2016  Matthew Edward Kabelitz     University of Illinois at Urbana-Champaign  Brookhaven National Laboratory         SULI
-Summer 2016  Kyle Paige Kovitz           University of Illinois at Urbana-Champaign  Argonne National Laboratory            SULI
-Summer 2016  Daniel Cullen Martin        University of Illinois at Urbana-Champaign  Oak Ridge National Laboratory          SULI
-Summer 2016  Seth Joseph Primack         University of Illinois at Urbana-Champaign  Oak Ridge National Laboratory          SULI
 Summer 2016  Kevin Michael Ryan          University of Illinois at Urbana-Champaign  Argonne National Laboratory            SULI
-Summer 2016  John Simonaitis             University of Illinois at Urbana-Champaign  SLAC National Accelerator Laboratory   SULI
-Summer 2016  Bryce Davis Smith           University of Illinois at Urbana-Champaign  Argonne National Laboratory            SULI
-Summer 2016  Steven Stemmley             University of Illinois at Urbana-Champaign  Princeton Plasma Physics Laboratory    SULI
-Summer 2016  Phil Travis                 University of Illinois at Urbana-Champaign  Princeton Plasma Physics Laboratory    SULI
 Summer 2016  Jeffrey Weinberg            University of Illinois at Urbana-Champaign  National Renewable Energy Laboratory   SULI
-Summer 2016  Mark W Dreher               Illinois State University                   Argonne National Laboratory            SULI
 Summer 2016  Shane Daniel Witters Hicks  Principia College                           National Renewable Energy Laboratory   SULI
-Summer 2015  Justin Daniel Weberski      University of Illinois at Urbana-Champaign  Princeton Plasma Physics Laboratory    SULI
-Summer 2015  Margaret Rose McCarter      Illinois Wesleyan University                Argonne National Laboratory            SULI
-Summer 2015  Ryan Wyllie                 University of Illinois at Urbana-Champaign  Argonne National Laboratory            SULI
-Summer 2015  Jonathan Maclin Squibb      Lincoln Land Community College              Sandia National Laboratory             CCI
-Summer 2015  Grace Pakeltis              University of Illinois at Urbana-Champaign  Oak Ridge National Laboratory          SULI
-Summer 2015  Brandon Lee                 University of Illinois at Urbana-Champaign  General Atomics / DIII-D               SULI
-Summer 2015  John Oto                    University of Illinois at Urbana-Champaign  Brookhaven National Laboratory         SULI
-Summer 2015  Michael Bazzoli             University of Illinois at Urbana-Champaign  National Renewable Energy Laboratory   SULI
-Summer 2015  Maxwell Robert Dribinsky    University of Illinois at Urbana-Champaign  Argonne National Laboratory            SULI
-Summer 2015  Konrad Genser               University of Illinois at Urbana-Champaign  Oak Ridge National Laboratory          SULI
-Summer 2015  Victor Alexander Gofron     University of Illinois at Urbana-Champaign  Brookhaven National Laboratory         SULI
-Summer 2015  Nathan Louis Havens         University of Illinois at Urbana-Champaign  Argonne National Laboratory            SULI
+Summer 2016  Mark W Dreher               Illinois State University                   Argonne National Laboratory            SULI
+Summer 2016  Steven Stemmley             University of Illinois at Urbana-Champaign  Princeton Plasma Physics Laboratory    SULI
+Summer 2016  Kyle Paige Kovitz           University of Illinois at Urbana-Champaign  Argonne National Laboratory            SULI
+Summer 2016  Henry Cuzco                 University of Illinois at Urbana-Champaign  Argonne National Laboratory            SULI
+Summer 2016  Matthew Cheng               University of Illinois at Urbana-Champaign  Argonne National Laboratory            SULI
+Summer 2016  Rachel Allison Andersen     University of Illinois at Urbana-Champaign  Argonne National Laboratory            SULI
+Summer 2016  Emily Foley                 University of Illinois at Urbana-Champaign  National Renewable Energy Laboratory   SULI
+Summer 2016  John Simonaitis             University of Illinois at Urbana-Champaign  SLAC National Accelerator Laboratory   SULI
+Summer 2016  Phil Travis                 University of Illinois at Urbana-Champaign  Princeton Plasma Physics Laboratory    SULI
+Summer 2016  Matthew Edward Kabelitz     University of Illinois at Urbana-Champaign  Brookhaven National Laboratory         SULI
 Summer 2015  Mark Robert Hirsbrunner     University of Illinois at Urbana-Champaign  Argonne National Laboratory            SULI
-Summer 2015  Kaitlin Medland             University of Illinois at Urbana-Champaign  Argonne National Laboratory            SULI
-Summer 2015  Akshay Murthy               University of Illinois at Urbana-Champaign  Argonne National Laboratory            SULI
+Summer 2015  Michael Bazzoli             University of Illinois at Urbana-Champaign  National Renewable Energy Laboratory   SULI
+Summer 2015  Victor Alexander Gofron     University of Illinois at Urbana-Champaign  Brookhaven National Laboratory         SULI
+Summer 2015  Margaret Rose McCarter      Illinois Wesleyan University                Argonne National Laboratory            SULI
+Summer 2015  John Oto                    University of Illinois at Urbana-Champaign  Brookhaven National Laboratory         SULI
+Summer 2015  Justin Daniel Weberski      University of Illinois at Urbana-Champaign  Princeton Plasma Physics Laboratory    SULI
+Summer 2015  Nathan Louis Havens         University of Illinois at Urbana-Champaign  Argonne National Laboratory            SULI
+Summer 2015  Grace Pakeltis              University of Illinois at Urbana-Champaign  Oak Ridge National Laboratory          SULI
+Summer 2015  Konrad Genser               University of Illinois at Urbana-Champaign  Oak Ridge National Laboratory          SULI
+Summer 2015  Ryan Wyllie                 University of Illinois at Urbana-Champaign  Argonne National Laboratory            SULI
+Summer 2015  Maxwell Robert Dribinsky    University of Illinois at Urbana-Champaign  Argonne National Laboratory            SULI
 Summer 2015  Angelo Niqula               University of Illinois at Urbana-Champaign  Argonne National Laboratory            SULI
+Summer 2015  Kaitlin Medland             University of Illinois at Urbana-Champaign  Argonne National Laboratory            SULI
 Summer 2015  Samuel Oprondek             University of Illinois at Urbana-Champaign  Argonne National Laboratory            SULI
-Summer 2014  Akshay Murthy               University of Illinois at Urbana-Champaign  Argonne National Laboratory            SULI
-Summer 2014  William Alexander Iverson   University of Illinois at Urbana-Champaign  Argonne National Laboratory            SULI
-Summer 2014  Jason Hempstead             University of Illinois at Urbana-Champaign  Brookhaven National Laboratory         SULI
 Summer 2014  Aveek Kapat Sankar Kapat    University of Illinois at Urbana-Champaign  Princeton Plasma Physics Laboratory    SULI
+Summer 2014  Jason Hempstead             University of Illinois at Urbana-Champaign  Brookhaven National Laboratory         SULI
 Summer 2014  Mark Alan Servos            Illinois State University                   Argonne National Laboratory            SULI
-Summer 2014  Samantha Norris             Illinois State University                   Fermi National Accelerator Laboratory  SULI
-Summer 2014  Ashley Nicole Bowers        University of Illinois Springfield          Argonne National Laboratory            SULI
-Summer 2014  Matthew Piper               University of Illinois at Urbana-Champaign  Argonne National Laboratory            SULI
 Summer 2014  Michael Worek               University of Illinois at Urbana-Champaign  Brookhaven National Laboratory         SULI
 Summer 2014  Roger Xiao                  University of Illinois at Urbana-Champaign  Argonne National Laboratory            SULI
-Summer 2014  Samantha Fuchs              University of Illinois at Urbana-Champaign  Argonne National Laboratory            SULI
+Summer 2014  Akshay Murthy               University of Illinois at Urbana-Champaign  Argonne National Laboratory            SULI
+Summer 2014  William Alexander Iverson   University of Illinois at Urbana-Champaign  Argonne National Laboratory            SULI
+Summer 2014  Ashley Nicole Bowers        University of Illinois Springfield          Argonne National Laboratory            SULI
+Summer 2014  Samantha Norris             Illinois State University                   Fermi National Accelerator Laboratory  SULI
 Spring 2015  Zachary Pieters             Illinois Wesleyan University                Lawrence Berkeley National Laboratory  SULI
-Fall 2015    Renata Butikas              Illinois Wesleyan University                Brookhaven National Laboratory         SULI
-Fall 2015    Miller Wesselhoff           University of Illinois at Urbana-Champaign  Lawrence Berkeley National Laboratory  SULI
-Fall 2014    Khristian Mark Bersamin     University of Illinois at Urbana-Champaign  Ames National Laboratory               SULI
 Fall 2014    Zachary Pieters             Illinois Wesleyan University                Lawrence Berkeley National Laboratory  SULI
+Fall 2014    Khristian Mark Bersamin     University of Illinois at Urbana-Champaign  Ames National Laboratory               SULI
 Fall 2014    Deesha Shah                 University of Illinois at Urbana-Champaign  Los Alamos National Laboratory         SULI
 ```
 ---
@@ -973,13 +939,12 @@ In the past 8 years, this district has received:<b> $23,990,245 </b>in NSF MPS g
   2012  UNIVERSITY OF ILLINOIS          20,711,446
 ```
 ## SULI/CCI Interns
-From 2014-2016 (only years available), this district had 3 SULI/CCI interns
+From 2014-2016 (only years available), this district had 2 SULI/CCI interns
 ```
 Term         Name                    College                                    Host Lab                              Program
 -----------  ----------------------  -----------------------------------------  ------------------------------------  ---------
-Summer 2016  Kasey Barrington        Southern Illinois University Edwardsville  SLAC National Accelerator Laboratory  SULI
 Summer 2016  Justin Louis Deterding  Southern Illinois University Edwardsville  Oak Ridge National Laboratory         SULI
-Summer 2016  Michael Miller          Southern Illinois University Edwardsville  Argonne National Laboratory           SULI
+Summer 2016  Kasey Barrington        Southern Illinois University Edwardsville  SLAC National Accelerator Laboratory  SULI
 ```
 ---
 <a name="IL-16"></a>
@@ -1024,13 +989,12 @@ In the past 8 years, this district has received:<b> $4,739,770 </b>in NSF MPS gr
   2013  NORTHERN ILLINOIS UNIVERSITY INC       954,961
 ```
 ## SULI/CCI Interns
-From 2014-2016 (only years available), this district had 3 SULI/CCI interns
+From 2014-2016 (only years available), this district had 2 SULI/CCI interns
 ```
 Term         Name                  College                        Host Lab                               Program
 -----------  --------------------  -----------------------------  -------------------------------------  ---------
 Summer 2015  Curt Michael Cheffer  Sauk Valley Community College  Fermi National Accelerator Laboratory  CCI
 Summer 2014  Derek Seaton          Northern Illinois University   Argonne National Laboratory            SULI
-Fall 2014    Mac McKinnon          Northern Illinois University   Argonne National Laboratory            SULI
 ```
 ---
 <a name="IL-17"></a>
@@ -1094,15 +1058,13 @@ In the past 8 years, this district has received:<b> $972,915 </b>in NSF MPS gran
   2013  WESTERN ILLINOIS UNIVERSITY INC       249,895
 ```
 ## SULI/CCI Interns
-From 2014-2016 (only years available), this district had 6 SULI/CCI interns
+From 2014-2016 (only years available), this district had 4 SULI/CCI interns
 ```
-Term         Name                     College                      Host Lab                               Program
------------  -----------------------  ---------------------------  -------------------------------------  ---------
-Summer 2016  Nicholas James Breslin   Western Illinois University  Ames National Laboratory               SULI
-Summer 2016  Raymond Sullivan         Western Illinois University  Argonne National Laboratory            SULI
-Summer 2015  Malaney Abel             Western Illinois University  Ames National Laboratory               SULI
-Summer 2015  Justin Michael Gonzales  Western Illinois University  Ames National Laboratory               SULI
-Summer 2015  Brianna Alison Pohlman   Illinois College             Pacific Northwest National Laboratory  SULI
-Spring 2016  Malaney Abel             Western Illinois University  Oak Ridge National Laboratory          SULI
+Term         Name                    College                      Host Lab                               Program
+-----------  ----------------------  ---------------------------  -------------------------------------  ---------
+Summer 2016  Raymond Sullivan        Western Illinois University  Argonne National Laboratory            SULI
+Summer 2016  Nicholas James Breslin  Western Illinois University  Ames National Laboratory               SULI
+Summer 2015  Brianna Alison Pohlman  Illinois College             Pacific Northwest National Laboratory  SULI
+Spring 2016  Malaney Abel            Western Illinois University  Oak Ridge National Laboratory          SULI
 ```
 ---

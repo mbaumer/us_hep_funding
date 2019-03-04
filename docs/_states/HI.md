@@ -51,11 +51,14 @@ CALIFORNIA ASSOCIATION FOR RESEARCH IN ASTRONOMY     6,172,037
 CHAMINADE UNIVERSITY OF HONOLULU                       633,668
 ```
 ## SULI/CCI Interns
-From 2014-2016 (only years available), this state had 7 SULI/CCI interns
+<p align="center">
+![HI SULI/CCI image]({{ site.baseurl }}/img/HI.png)
+</p>
+From 2014-2016 (only years available), this state had 4 SULI/CCI interns
 ```
   # Interns  Program    College
 -----------  ---------  -----------------------------
-          6  SULI       University of Hawaii at Manoa
+          3  SULI       University of Hawaii at Manoa
           1  SULI       Kapioiani Community College
 ```
 ---
@@ -100,16 +103,13 @@ In the past 8 years, this district has received:<b> $30,797,663 </b>in NSF MPS g
   2012  UNIVERSITY OF HAWAII SYSTEMS         5,649,430
 ```
 ## SULI/CCI Interns
-From 2014-2016 (only years available), this district had 7 SULI/CCI interns
+From 2014-2016 (only years available), this district had 4 SULI/CCI interns
 ```
 Term         Name                  College                        Host Lab                               Program
 -----------  --------------------  -----------------------------  -------------------------------------  ---------
 Summer 2016  Tommy Lam             University of Hawaii at Manoa  Pacific Northwest National Laboratory  SULI
 Summer 2014  Raquel Auwae          University of Hawaii at Manoa  Oak Ridge National Laboratory          SULI
 Summer 2014  Christina Ann Nelson  Kapioiani Community College    Fermi National Accelerator Laboratory  SULI
-Spring 2016  Claire Ellen Kohout   University of Hawaii at Manoa  Argonne National Laboratory            SULI
-Fall 2015    Mael Flament          University of Hawaii at Manoa  Lawrence Berkeley National Laboratory  SULI
-Fall 2015    Claire Ellen Kohout   University of Hawaii at Manoa  Argonne National Laboratory            SULI
 Fall 2014    Raquel Auwae          University of Hawaii at Manoa  Oak Ridge National Laboratory          SULI
 ```
 ---

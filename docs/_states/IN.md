@@ -57,16 +57,18 @@ VALPARAISO UNIVERSITY                             93,336
 TAYLOR UNIVERSITY, INC.                           90,000
 ```
 ## SULI/CCI Interns
-From 2014-2016 (only years available), this state had 56 SULI/CCI interns
+<p align="center">
+![IN SULI/CCI image]({{ site.baseurl }}/img/IN.png)
+</p>
+From 2014-2016 (only years available), this state had 48 SULI/CCI interns
 ```
   # Interns  Program    College
 -----------  ---------  -------------------------------------------------
-         19  SULI       Purdue University Main Campus
-          6  SULI       University of Notre Dame
-          4  SULI       DePauw University
+         17  SULI       Purdue University Main Campus
+          4  SULI       University of Notre Dame
           4  SULI       Valparaiso University
-          3  SULI       Ball State University
           3  SULI       Butler University
+          3  SULI       DePauw University
           3  SULI       Goshen College
           3  SULI       Rose-Hulman Institute of Technology
           2  SULI       Indiana University Bloomington
@@ -156,19 +158,17 @@ In the past 8 years, this district has received:<b> $67,453,016 </b>in NSF MPS g
   2012  UNIVERSITY OF NOTRE DAME DU LAC    13,753,560
 ```
 ## SULI/CCI Interns
-From 2014-2016 (only years available), this district had 9 SULI/CCI interns
+From 2014-2016 (only years available), this district had 7 SULI/CCI interns
 ```
 Term         Name                       College                   Host Lab                               Program
 -----------  -------------------------  ------------------------  -------------------------------------  ---------
 Summer 2016  Tessa Clarizio             University of Notre Dame  Argonne National Laboratory            SULI
 Summer 2016  Nicolle Ho                 University of Notre Dame  Pacific Northwest National Laboratory  SULI
-Summer 2016  Morgan Rose Matthews       University of Notre Dame  Brookhaven National Laboratory         SULI
-Summer 2016  David Shaw                 University of Notre Dame  Princeton Plasma Physics Laboratory    SULI
 Summer 2014  Perry Harvey Biddle        Goshen College            National Renewable Energy Laboratory   SULI
 Spring 2016  William Patrick Mccormack  University of Notre Dame  Lawrence Berkeley National Laboratory  SULI
 Spring 2014  Andrew Glick               Goshen College            National Renewable Energy Laboratory   SULI
-Fall 2015    Seth Avery Miller          Goshen College            Pacific Northwest National Laboratory  SULI
 Fall 2015    William Patrick McCormack  University of Notre Dame  Lawrence Berkeley National Laboratory  SULI
+Fall 2015    Seth Avery Miller          Goshen College            Pacific Northwest National Laboratory  SULI
 ```
 ---
 <a name="IN-03"></a>
@@ -245,30 +245,27 @@ In the past 8 years, this district has received:<b> $57,003,393 </b>in NSF MPS g
   2012  WABASH COLLEGE          112,897
 ```
 ## SULI/CCI Interns
-From 2014-2016 (only years available), this district had 24 SULI/CCI interns
+From 2014-2016 (only years available), this district had 21 SULI/CCI interns
 ```
 Term         Name                   College                        Host Lab                               Program
 -----------  ---------------------  -----------------------------  -------------------------------------  ---------
-Summer 2016  Patrick Skrodzki       Purdue University Main Campus  Pacific Northwest National Laboratory  SULI
-Summer 2016  Alexander Miloshevsky  Purdue University Main Campus  Pacific Northwest National Laboratory  SULI
 Summer 2016  Erik Russell Jensen    Purdue University Main Campus  Argonne National Laboratory            SULI
-Summer 2016  Jacklyn Noel Hall      Purdue University Main Campus  National Renewable Energy Laboratory   SULI
 Summer 2016  Nathaniel Gasteyer     Purdue University Main Campus  Argonne National Laboratory            SULI
-Summer 2016  Joseph Eisinger        Purdue University Main Campus  Oak Ridge National Laboratory          SULI
+Summer 2016  Alexander Miloshevsky  Purdue University Main Campus  Pacific Northwest National Laboratory  SULI
 Summer 2016  Jason Becker           Purdue University Main Campus  Pacific Northwest National Laboratory  SULI
-Summer 2015  Patrick Skrodzki       Purdue University Main Campus  Pacific Northwest National Laboratory  SULI
-Summer 2015  Theresa Saenz          Purdue University Main Campus  National Renewable Energy Laboratory   SULI
-Summer 2015  Niral P Shah           Purdue University Main Campus  Pacific Northwest National Laboratory  SULI
-Summer 2015  Aaron James Wirthwein  Wabash College                 Oak Ridge National Laboratory          SULI
-Summer 2015  Alexander Miloshevsky  Purdue University Main Campus  Pacific Northwest National Laboratory  SULI
-Summer 2015  Tamara Lynn Mamon      Purdue University Main Campus  Argonne National Laboratory            SULI
+Summer 2016  Jacklyn Noel Hall      Purdue University Main Campus  National Renewable Energy Laboratory   SULI
+Summer 2016  Patrick Skrodzki       Purdue University Main Campus  Pacific Northwest National Laboratory  SULI
+Summer 2016  Joseph Eisinger        Purdue University Main Campus  Oak Ridge National Laboratory          SULI
 Summer 2015  Lucas Beslow           Purdue University Main Campus  Argonne National Laboratory            SULI
+Summer 2015  Tamara Lynn Mamon      Purdue University Main Campus  Argonne National Laboratory            SULI
 Summer 2015  Benjamin Harsha        DePauw University              Argonne National Laboratory            SULI
-Summer 2014  Mateusz Kosciuk        DePauw University              Argonne National Laboratory            SULI
-Summer 2014  Niral P Shah           Purdue University Main Campus  Pacific Northwest National Laboratory  SULI
+Summer 2015  Alexander Miloshevsky  Purdue University Main Campus  Pacific Northwest National Laboratory  SULI
+Summer 2015  Niral P Shah           Purdue University Main Campus  Pacific Northwest National Laboratory  SULI
+Summer 2015  Patrick Skrodzki       Purdue University Main Campus  Pacific Northwest National Laboratory  SULI
+Summer 2015  Aaron James Wirthwein  Wabash College                 Oak Ridge National Laboratory          SULI
 Summer 2014  Michael Frank          Purdue University Main Campus  Argonne National Laboratory            SULI
-Summer 2014  Robert Allen           DePauw University              National Renewable Energy Laboratory   SULI
-Spring 2016  Joseph Eisinger        Purdue University Main Campus  Oak Ridge National Laboratory          SULI
+Summer 2014  Niral P Shah           Purdue University Main Campus  Pacific Northwest National Laboratory  SULI
+Summer 2014  Mateusz Kosciuk        DePauw University              Argonne National Laboratory            SULI
 Spring 2016  Woodrow Gilbertson     Purdue University Main Campus  Brookhaven National Laboratory         SULI
 Spring 2015  Natalie Kay Vezina     Purdue University Main Campus  Lawrence Berkeley National Laboratory  SULI
 Fall 2015    Woodrow Gilbertson     Purdue University Main Campus  Brookhaven National Laboratory         SULI
@@ -330,15 +327,12 @@ In the past 8 years, this district has received:<b> $1,145,149 </b>in NSF MPS gr
   2015  BALL STATE UNIVERSITY       196,968
 ```
 ## SULI/CCI Interns
-From 2014-2016 (only years available), this district had 5 SULI/CCI interns
+From 2014-2016 (only years available), this district had 2 SULI/CCI interns
 ```
-Term         Name                   College                                         Host Lab                        Program
------------  ---------------------  ----------------------------------------------  ------------------------------  ---------
-Summer 2016  Cody Blackford         Ball State University                           General Atomics / DIII-D        SULI
-Summer 2016  Nicholas John Gilbert  Ball State University                           Los Alamos National Laboratory  SULI
-Summer 2016  Xiyu Wang              Earlham College and Earlham School of Religion  Argonne National Laboratory     SULI
-Summer 2015  Shelby Christine Hall  Ball State University                           Brookhaven National Laboratory  SULI
-Summer 2015  Stacie Schroll         Ball State University                           Oak Ridge National Laboratory   CCI
+Term         Name            College                                         Host Lab                       Program
+-----------  --------------  ----------------------------------------------  -----------------------------  ---------
+Summer 2016  Xiyu Wang       Earlham College and Earlham School of Religion  Argonne National Laboratory    SULI
+Summer 2015  Stacie Schroll  Ball State University                           Oak Ridge National Laboratory  CCI
 ```
 ---
 <a name="IN-07"></a>
@@ -403,10 +397,10 @@ From 2014-2016 (only years available), this district had 5 SULI/CCI interns
 ```
 Term         Name                  College                              Host Lab                              Program
 -----------  --------------------  -----------------------------------  ------------------------------------  ---------
-Summer 2016  Rachel Ann Broughton  Rose-Hulman Institute of Technology  Princeton Plasma Physics Laboratory   SULI
 Summer 2016  Ross Cooke            Trinity College Dublin               Argonne National Laboratory           SULI
-Summer 2015  Gavin West            Rose-Hulman Institute of Technology  SLAC National Accelerator Laboratory  SULI
+Summer 2016  Rachel Ann Broughton  Rose-Hulman Institute of Technology  Princeton Plasma Physics Laboratory   SULI
 Summer 2015  Ian Patrick Bashor    University of Evansville             Oak Ridge National Laboratory         SULI
+Summer 2015  Gavin West            Rose-Hulman Institute of Technology  SLAC National Accelerator Laboratory  SULI
 Summer 2014  Nicholas Tully        Rose-Hulman Institute of Technology  Brookhaven National Laboratory        SULI
 ```
 ---

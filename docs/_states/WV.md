@@ -51,11 +51,14 @@ In the past 8 years, this state has received:
   2012  WEST VIRGINIA UNIVERSITY RESEARCH CORPORATION     2,347,751
 ```
 ## SULI/CCI Interns
-From 2014-2016 (only years available), this state had 15 SULI/CCI interns
+<p align="center">
+![WV SULI/CCI image]({{ site.baseurl }}/img/WV.png)
+</p>
+From 2014-2016 (only years available), this state had 14 SULI/CCI interns
 ```
   # Interns  Program    College
 -----------  ---------  ------------------------------
-          8  SULI       West Virginia University
+          7  SULI       West Virginia University
           3  SULI       West Virginia Wesleyan College
           2  SULI       Fairmont State University
           2  SULI       Marshall University
@@ -91,17 +94,16 @@ In the past 8 years, this district has received:<b> $19,803,950 </b>in NSF MPS g
   2012  WEST VIRGINIA UNIVERSITY RESEARCH CORPORATION     2,347,751
 ```
 ## SULI/CCI Interns
-From 2014-2016 (only years available), this district had 10 SULI/CCI interns
+From 2014-2016 (only years available), this district had 9 SULI/CCI interns
 ```
 Term         Name                    College                    Host Lab                                Program
 -----------  ----------------------  -------------------------  --------------------------------------  ---------
-Summer 2015  Clayton Robert Johnson  West Virginia University   Argonne National Laboratory             SULI
 Summer 2015  Lucas Price             West Virginia University   Brookhaven National Laboratory          SULI
-Summer 2014  Julie Michelle Button   West Virginia University   Lawrence Livermore National Laboratory  SULI
-Summer 2014  Megan Jewell            West Virginia University   Ames National Laboratory                SULI
-Summer 2014  Clayton Robert Johnson  West Virginia University   Argonne National Laboratory             SULI
-Summer 2014  Rebecca Buonavita Posa  West Virginia University   Idaho National Laboratory               SULI
+Summer 2015  Clayton Robert Johnson  West Virginia University   Argonne National Laboratory             SULI
 Summer 2014  Bryan James Foley       Fairmont State University  Brookhaven National Laboratory          SULI
+Summer 2014  Clayton Robert Johnson  West Virginia University   Argonne National Laboratory             SULI
+Summer 2014  Megan Jewell            West Virginia University   Ames National Laboratory                SULI
+Summer 2014  Rebecca Buonavita Posa  West Virginia University   Idaho National Laboratory               SULI
 Spring 2015  Bryan James Foley       Fairmont State University  Brookhaven National Laboratory          SULI
 Spring 2014  Ethel Perez-Hoyos       West Virginia University   Lawrence Berkeley National Laboratory   SULI
 Fall 2014    Julie Michelle Button   West Virginia University   Lawrence Livermore National Laboratory  SULI

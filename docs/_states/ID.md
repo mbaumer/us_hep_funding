@@ -37,15 +37,18 @@ REGENTS OF THE UNIVERSITY OF IDAHO     1,421,099
 UNIVERSITY OF IDAHO                      536,655
 ```
 ## SULI/CCI Interns
-From 2014-2016 (only years available), this state had 31 SULI/CCI interns
+<p align="center">
+![ID SULI/CCI image]({{ site.baseurl }}/img/ID.png)
+</p>
+From 2014-2016 (only years available), this state had 27 SULI/CCI interns
 ```
   # Interns  Program    College
 -----------  ---------  ------------------------------
-         19  SULI       Brigham Young University-Idaho
-          5  SULI       Idaho State University
-          3  SULI       The College of Idaho
-          2  SULI       Boise State University
+         18  SULI       Brigham Young University-Idaho
+          4  SULI       Idaho State University
+          2  SULI       The College of Idaho
           1  CCI        College of Western Idaho
+          1  SULI       Boise State University
           1  SULI       University of Idaho
 ```
 ---
@@ -76,15 +79,14 @@ In the past 8 years, this district has received:<b> $1,957,754 </b>in NSF MPS gr
   2012  UNIVERSITY OF IDAHO                      536,655
 ```
 ## SULI/CCI Interns
-From 2014-2016 (only years available), this district had 5 SULI/CCI interns
+From 2014-2016 (only years available), this district had 4 SULI/CCI interns
 ```
-Term         Name                    College                   Host Lab                        Program
------------  ----------------------  ------------------------  ------------------------------  ---------
-Summer 2016  Johanna Mori            The College of Idaho      Los Alamos National Laboratory  SULI
-Summer 2016  Derek Tropf             The College of Idaho      Brookhaven National Laboratory  SULI
-Summer 2016  Naomi Hazelip           College of Western Idaho  Idaho National Laboratory       CCI
-Summer 2015  Alexander Joseph Wirtz  The College of Idaho      Idaho National Laboratory       SULI
-Summer 2014  Leilani Beard           University of Idaho       Idaho National Laboratory       SULI
+Term         Name           College                   Host Lab                        Program
+-----------  -------------  ------------------------  ------------------------------  ---------
+Summer 2016  Derek Tropf    The College of Idaho      Brookhaven National Laboratory  SULI
+Summer 2016  Naomi Hazelip  College of Western Idaho  Idaho National Laboratory       CCI
+Summer 2016  Johanna Mori   The College of Idaho      Los Alamos National Laboratory  SULI
+Summer 2014  Leilani Beard  University of Idaho       Idaho National Laboratory       SULI
 ```
 ---
 <a name="ID-02"></a>
@@ -125,32 +127,29 @@ In the past 8 years, this district has received:<b> $8,166,277 </b>in NSF MPS gr
   2012  IDAHO STATE UNIVERSITY       541,671
 ```
 ## SULI/CCI Interns
-From 2014-2016 (only years available), this district had 26 SULI/CCI interns
+From 2014-2016 (only years available), this district had 23 SULI/CCI interns
 ```
 Term         Name                              College                         Host Lab                               Program
 -----------  --------------------------------  ------------------------------  -------------------------------------  ---------
-Summer 2016  Abigail Louise Davis              Brigham Young University-Idaho  Idaho National Laboratory              SULI
+Summer 2016  Caleb Bryce Duff                  Brigham Young University-Idaho  Brookhaven National Laboratory         SULI
 Summer 2016  Axel Emanuel Alcocer Seoane       Brigham Young University-Idaho  Idaho National Laboratory              SULI
 Summer 2016  Jacob Lehmer                      Idaho State University          Idaho National Laboratory              SULI
 Summer 2016  Jeffery D. St. Jeor               Brigham Young University-Idaho  Idaho National Laboratory              SULI
-Summer 2016  Victoria Mary Lawler              Brigham Young University-Idaho  Pacific Northwest National Laboratory  SULI
-Summer 2016  Patricia Lindley Kobak            Brigham Young University-Idaho  Fermi National Accelerator Laboratory  SULI
 Summer 2016  Alex George                       Brigham Young University-Idaho  Idaho National Laboratory              SULI
-Summer 2016  Caleb Bryce Duff                  Brigham Young University-Idaho  Brookhaven National Laboratory         SULI
+Summer 2016  Abigail Louise Davis              Brigham Young University-Idaho  Idaho National Laboratory              SULI
 Summer 2016  Corey William Brazell             Brigham Young University-Idaho  Idaho National Laboratory              SULI
-Summer 2015  Caryn Wendt                       Idaho State University          Idaho National Laboratory              SULI
-Summer 2015  Spencer Denton                    Idaho State University          Idaho National Laboratory              SULI
-Summer 2015  Jake Michael Douglas              Boise State University          Pacific Northwest National Laboratory  SULI
+Summer 2016  Patricia Lindley Kobak            Brigham Young University-Idaho  Fermi National Accelerator Laboratory  SULI
+Summer 2016  Victoria Mary Lawler              Brigham Young University-Idaho  Pacific Northwest National Laboratory  SULI
 Summer 2015  Jeffery D. St. Jeor               Brigham Young University-Idaho  Idaho National Laboratory              SULI
-Summer 2015  Michael B Cook                    Brigham Young University-Idaho  Idaho National Laboratory              SULI
-Summer 2014  Quinton Beaulieu                  Idaho State University          Idaho National Laboratory              SULI
-Summer 2014  Michael Alan Green                Idaho State University          Idaho National Laboratory              SULI
+Summer 2015  Spencer Denton                    Idaho State University          Idaho National Laboratory              SULI
+Summer 2015  Caryn Wendt                       Idaho State University          Idaho National Laboratory              SULI
 Summer 2014  Cody Marshall                     Brigham Young University-Idaho  Idaho National Laboratory              SULI
 Summer 2014  Chelse Rae Bulthuis               Boise State University          Pacific Northwest National Laboratory  SULI
-Spring 2016  Katherine Rebecca Panike          Brigham Young University-Idaho  Idaho National Laboratory              SULI
+Summer 2014  Michael Alan Green                Idaho State University          Idaho National Laboratory              SULI
 Spring 2016  Lisa Emily Mitchell               Brigham Young University-Idaho  Idaho National Laboratory              SULI
-Spring 2015  Timothy Sean O'Leary              Brigham Young University-Idaho  Los Alamos National Laboratory         SULI
+Spring 2016  Katherine Rebecca Panike          Brigham Young University-Idaho  Idaho National Laboratory              SULI
 Spring 2015  Ty Dansie                         Brigham Young University-Idaho  Idaho National Laboratory              SULI
+Spring 2015  Timothy Sean O'Leary              Brigham Young University-Idaho  Los Alamos National Laboratory         SULI
 Spring 2014  Kristen LeeAnn Hartman            Brigham Young University-Idaho  Argonne National Laboratory            SULI
 Spring 2014  Bernard Udu                       Brigham Young University-Idaho  Idaho National Laboratory              SULI
 Spring 2014  Alexander Charles Scott Douglass  Brigham Young University-Idaho  Idaho National Laboratory              SULI

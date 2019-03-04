@@ -50,13 +50,16 @@ NORTHERN ARIZONA UNIV                            216,161
 MARICOPA COUNTY COMMUNITY COLLEGE DISTRICT        56,873
 ```
 ## SULI/CCI Interns
-From 2014-2016 (only years available), this state had 20 SULI/CCI interns
+<p align="center">
+![AZ SULI/CCI image]({{ site.baseurl }}/img/AZ.png)
+</p>
+From 2014-2016 (only years available), this state had 13 SULI/CCI interns
 ```
   # Interns  Program    College
 -----------  ---------  ----------------------------------------------------
-         13  SULI       Arizona State University
-          3  SULI       Northern Arizona University
-          3  SULI       University of Arizona
+          8  SULI       Arizona State University
+          2  SULI       Northern Arizona University
+          2  SULI       University of Arizona
           1  SULI       Embry-Riddle Aeronautical University-Prescott Campus
 ```
 ---
@@ -96,13 +99,12 @@ In the past 8 years, this district has received:<b> $5,304,428 </b>in NSF MPS gr
   2012  NORTHERN ARIZONA UNIVERSITY       661,982
 ```
 ## SULI/CCI Interns
-From 2014-2016 (only years available), this district had 3 SULI/CCI interns
+From 2014-2016 (only years available), this district had 2 SULI/CCI interns
 ```
 Term         Name             College                      Host Lab                              Program
 -----------  ---------------  ---------------------------  ------------------------------------  ---------
 Summer 2015  Stephen Kuluris  Northern Arizona University  National Renewable Energy Laboratory  SULI
 Summer 2014  Stephen Kuluris  Northern Arizona University  National Renewable Energy Laboratory  SULI
-Spring 2014  Samuel Briggs    Northern Arizona University  Los Alamos National Laboratory        SULI
 ```
 ---
 <a name="AZ-02"></a>
@@ -175,13 +177,12 @@ In the past 8 years, this district has received:<b> $52,807,907 </b>in NSF MPS g
   2013  UNIVERSITY OF ARIZONA    14,225,860
 ```
 ## SULI/CCI Interns
-From 2014-2016 (only years available), this district had 3 SULI/CCI interns
+From 2014-2016 (only years available), this district had 2 SULI/CCI interns
 ```
-Term         Name                      College                Host Lab                              Program
------------  ------------------------  ---------------------  ------------------------------------  ---------
-Summer 2016  Maxwell Xavier Duffy      University of Arizona  Ames National Laboratory              SULI
-Summer 2015  Alexandra Michelle Downs  University of Arizona  Sandia National Laboratory            SULI
-Summer 2015  Kira Rundel               University of Arizona  National Renewable Energy Laboratory  SULI
+Term         Name                  College                Host Lab                              Program
+-----------  --------------------  ---------------------  ------------------------------------  ---------
+Summer 2016  Maxwell Xavier Duffy  University of Arizona  Ames National Laboratory              SULI
+Summer 2015  Kira Rundel           University of Arizona  National Renewable Energy Laboratory  SULI
 ```
 ---
 <a name="AZ-04"></a>
@@ -359,22 +360,17 @@ In the past 8 years, this district has received:<b> $30,788,384 </b>in NSF MPS g
   2013  ARIZONA STATE UNIVERSITY                       6,096,800
 ```
 ## SULI/CCI Interns
-From 2014-2016 (only years available), this district had 13 SULI/CCI interns
+From 2014-2016 (only years available), this district had 8 SULI/CCI interns
 ```
 Term         Name                         College                   Host Lab                                        Program
 -----------  ---------------------------  ------------------------  ----------------------------------------------  ---------
 Summer 2016  Paul Abers                   Arizona State University  Lawrence Berkeley National Laboratory           SULI
 Summer 2016  Brianna Nicole Thorpe        Arizona State University  Thomas Jefferson National Accelerator Facility  SULI
-Summer 2015  Matthew Loyd Catlett         Arizona State University  Los Alamos National Laboratory                  SULI
-Summer 2015  Jenna Marie Lynch            Arizona State University  Los Alamos National Laboratory                  SULI
 Summer 2015  Alexander Reed Munoz         Arizona State University  Oak Ridge National Laboratory                   SULI
 Summer 2015  Brianna Nicole Thorpe        Arizona State University  Thomas Jefferson National Accelerator Facility  SULI
-Summer 2014  Matthew Loyd Catlett         Arizona State University  Los Alamos National Laboratory                  SULI
-Summer 2014  Christopher Joseph Luna      Arizona State University  Princeton Plasma Physics Laboratory             SULI
+Summer 2015  Jenna Marie Lynch            Arizona State University  Los Alamos National Laboratory                  SULI
 Summer 2014  Eric Morgan                  Arizona State University  Lawrence Berkeley National Laboratory           SULI
+Summer 2014  Matthew Loyd Catlett         Arizona State University  Los Alamos National Laboratory                  SULI
 Spring 2016  Jacqueline Paige Shortridge  Arizona State University  Lawrence Berkeley National Laboratory           SULI
-Spring 2014  Austin Earley                Arizona State University  National Renewable Energy Laboratory            SULI
-Spring 2014  Aman Sharma                  Arizona State University  Argonne National Laboratory                     SULI
-Fall 2014    Christopher Joseph Luna      Arizona State University  Princeton Plasma Physics Laboratory             SULI
 ```
 ---

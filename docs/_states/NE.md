@@ -41,13 +41,15 @@ DOANE COLLEGE                                        105,000
 CREIGHTON UNIVERSITY                                  92,500
 ```
 ## SULI/CCI Interns
-From 2014-2016 (only years available), this state had 9 SULI/CCI interns
+<p align="center">
+![NE SULI/CCI image]({{ site.baseurl }}/img/NE.png)
+</p>
+From 2014-2016 (only years available), this state had 7 SULI/CCI interns
 ```
   # Interns  Program    College
 -----------  ---------  -------------------------------
-          6  SULI       University of Nebraska-Lincoln
+          5  SULI       University of Nebraska-Lincoln
           1  SULI       Doane College
-          1  SULI       Hastings College
           1  SULI       University of Nebraska at Omaha
 ```
 ---
@@ -86,16 +88,15 @@ In the past 8 years, this district has received:<b> $48,901,951 </b>in NSF MPS g
   2012  UNIVERSITY OF NEBRASKA                             4,612,438
 ```
 ## SULI/CCI Interns
-From 2014-2016 (only years available), this district had 6 SULI/CCI interns
+From 2014-2016 (only years available), this district had 5 SULI/CCI interns
 ```
-Term         Name                    College                         Host Lab                                Program
------------  ----------------------  ------------------------------  --------------------------------------  ---------
-Summer 2016  Shelly Lynn Jorgensen   University of Nebraska-Lincoln  Lawrence Livermore National Laboratory  SULI
-Summer 2015  Fernando Urias-Cordero  University of Nebraska-Lincoln  National Renewable Energy Laboratory    SULI
-Summer 2014  Samantha Burtwistle     University of Nebraska-Lincoln  Argonne National Laboratory             SULI
-Spring 2016  Samantha Burtwistle     University of Nebraska-Lincoln  Los Alamos National Laboratory          SULI
-Fall 2014    Kathleen Gegner         University of Nebraska-Lincoln  National Renewable Energy Laboratory    SULI
-Fall 2014    Fernando Urias-Cordero  University of Nebraska-Lincoln  National Renewable Energy Laboratory    SULI
+Term         Name                    College                         Host Lab                              Program
+-----------  ----------------------  ------------------------------  ------------------------------------  ---------
+Summer 2015  Fernando Urias-Cordero  University of Nebraska-Lincoln  National Renewable Energy Laboratory  SULI
+Summer 2014  Samantha Burtwistle     University of Nebraska-Lincoln  Argonne National Laboratory           SULI
+Spring 2016  Samantha Burtwistle     University of Nebraska-Lincoln  Los Alamos National Laboratory        SULI
+Fall 2014    Kathleen Gegner         University of Nebraska-Lincoln  National Renewable Energy Laboratory  SULI
+Fall 2014    Fernando Urias-Cordero  University of Nebraska-Lincoln  National Renewable Energy Laboratory  SULI
 ```
 ---
 <a name="NE-02"></a>
@@ -124,8 +125,8 @@ From 2014-2016 (only years available), this district had 2 SULI/CCI interns
 ```
 Term         Name                      College                          Host Lab                                Program
 -----------  ------------------------  -------------------------------  --------------------------------------  ---------
-Summer 2016  Jessica Katherine Bozell  University of Nebraska at Omaha  Oak Ridge National Laboratory           SULI
 Summer 2016  Jackson William Mancieri  Doane College                    Lawrence Livermore National Laboratory  SULI
+Summer 2016  Jessica Katherine Bozell  University of Nebraska at Omaha  Oak Ridge National Laboratory           SULI
 ```
 ---
 <a name="NE-03"></a>
@@ -150,10 +151,7 @@ In the past 8 years, this district has received:<b> $105,000 </b>in NSF MPS gran
   2012  DOANE COLLEGE       105,000
 ```
 ## SULI/CCI Interns
-From 2014-2016 (only years available), this district had 1 SULI/CCI intern
 ```
-Term         Name             College           Host Lab                        Program
------------  ---------------  ----------------  ------------------------------  ---------
-Summer 2016  Brendan Bramman  Hastings College  Los Alamos National Laboratory  SULI
+This district had no SULI/CCI interns from 2014-2016 (only years available)
 ```
 ---

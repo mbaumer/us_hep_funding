@@ -72,28 +72,26 @@ ANDREWS UNIVERSITY                           67,073
 UNIVERSITY OF DETROIT MERCY                  27,798
 ```
 ## SULI/CCI Interns
-From 2014-2016 (only years available), this state had 57 SULI/CCI interns
+<p align="center">
+![MI SULI/CCI image]({{ site.baseurl }}/img/MI.png)
+</p>
+From 2014-2016 (only years available), this state had 40 SULI/CCI interns
 ```
   # Interns  Program    College
 -----------  ---------  ---------------------------------
-         23  SULI       University of Michigan-Ann Arbor
-         12  SULI       Michigan State University
-          3  SULI       Northern Michigan University
-          2  SULI       Michigan Technological University
-          2  SULI       Oakland University
-          2  SULI       Andrews University
+         16  SULI       University of Michigan-Ann Arbor
+          9  SULI       Michigan State University
           2  SULI       Grand Valley State University
-          1  SULI       University of Michigan-Flint
-          1  SULI       University of Michigan-Dearborn
-          1  SULI       Scott Community College
-          1  SULI       Saginaw Valley State University
+          2  SULI       Michigan Technological University
+          2  SULI       Northern Michigan University
+          2  SULI       Oakland University
           1  SULI       Albion College
           1  SULI       Alma College
-          1  SULI       Lawrence Technological University
-          1  SULI       Kellogg Community College
-          1  SULI       Kalamazoo College
+          1  SULI       Andrews University
           1  SULI       Hope College
-          1  SULI       Western Michigan University
+          1  SULI       Kellogg Community College
+          1  SULI       Saginaw Valley State University
+          1  SULI       University of Michigan-Flint
 ```
 ---
 ---
@@ -131,11 +129,10 @@ In the past 8 years, this district has received:<b> $8,573,398 </b>in NSF MPS gr
   2012  MICHIGAN TECHNOLOGICAL UNIVERSITY     2,561,774
 ```
 ## SULI/CCI Interns
-From 2014-2016 (only years available), this district had 5 SULI/CCI interns
+From 2014-2016 (only years available), this district had 4 SULI/CCI interns
 ```
 Term         Name              College                            Host Lab                     Program
 -----------  ----------------  ---------------------------------  ---------------------------  ---------
-Summer 2016  Emily Carol Ross  Northern Michigan University       Ames National Laboratory     SULI
 Summer 2015  Alexander Lurie   Michigan Technological University  Argonne National Laboratory  SULI
 Summer 2015  Matthew Trefilek  Northern Michigan University       Argonne National Laboratory  SULI
 Summer 2015  Daniel Wilbern    Northern Michigan University       Argonne National Laboratory  SULI
@@ -278,12 +275,11 @@ In the past 8 years, this district has received:<b> $1,181,558 </b>in NSF MPS gr
   2013  KETTERING UNIVERSITY        77,808
 ```
 ## SULI/CCI Interns
-From 2014-2016 (only years available), this district had 2 SULI/CCI interns
+From 2014-2016 (only years available), this district had 1 SULI/CCI intern
 ```
 Term         Name               College                       Host Lab                  Program
 -----------  -----------------  ----------------------------  ------------------------  ---------
 Summer 2016  David Lloyd Poole  University of Michigan-Flint  Ames National Laboratory  SULI
-Summer 2016  Brad James Ryan    Scott Community College       Ames National Laboratory  SULI
 ```
 ---
 <a name="MI-06"></a>
@@ -321,14 +317,11 @@ In the past 8 years, this district has received:<b> $4,301,528 </b>in NSF MPS gr
   2012  WESTERN MICHIGAN UNIVERSITY       225,000
 ```
 ## SULI/CCI Interns
-From 2014-2016 (only years available), this district had 4 SULI/CCI interns
+From 2014-2016 (only years available), this district had 1 SULI/CCI intern
 ```
-Term         Name                    College                      Host Lab                     Program
------------  ----------------------  ---------------------------  ---------------------------  ---------
-Summer 2016  John-Luke N Navarro     Andrews University           Argonne National Laboratory  SULI
-Summer 2016  Omid Tafti              Kalamazoo College            Argonne National Laboratory  SULI
-Summer 2015  Louis Raymond Piccione  Western Michigan University  Argonne National Laboratory  SULI
-Summer 2014  Thomas Zirkle           Andrews University           Argonne National Laboratory  SULI
+Term         Name                 College             Host Lab                     Program
+-----------  -------------------  ------------------  ---------------------------  ---------
+Summer 2016  John-Luke N Navarro  Andrews University  Argonne National Laboratory  SULI
 ```
 ---
 <a name="MI-07"></a>
@@ -405,23 +398,20 @@ In the past 8 years, this district has received:<b> $232,017,007 </b>in NSF MPS 
   2012  MICHIGAN STATE UNIVERSITY    29,439,755
 ```
 ## SULI/CCI Interns
-From 2014-2016 (only years available), this district had 14 SULI/CCI interns
+From 2014-2016 (only years available), this district had 11 SULI/CCI interns
 ```
 Term         Name                      College                    Host Lab                               Program
 -----------  ------------------------  -------------------------  -------------------------------------  ---------
-Summer 2016  Monika Alexandra Molenda  Oakland University         Oak Ridge National Laboratory          SULI
-Summer 2016  Dawei Chen                Michigan State University  Pacific Northwest National Laboratory  SULI
 Summer 2016  Zack Elkordy              Michigan State University  Argonne National Laboratory            SULI
-Summer 2016  Koji Foreman              Michigan State University  Savannah River National Laboratory     SULI
 Summer 2016  Ruthann Gregory           Michigan State University  Argonne National Laboratory            SULI
-Summer 2016  Hananiel Setiawan         Michigan State University  SLAC National Accelerator Laboratory   SULI
 Summer 2016  Joel William Zuzelski     Michigan State University  Argonne National Laboratory            SULI
+Summer 2016  Dawei Chen                Michigan State University  Pacific Northwest National Laboratory  SULI
+Summer 2016  Monika Alexandra Molenda  Oakland University         Oak Ridge National Laboratory          SULI
+Summer 2016  Hananiel Setiawan         Michigan State University  SLAC National Accelerator Laboratory   SULI
 Summer 2015  Caitlin Paige O'Neill     Michigan State University  Oak Ridge National Laboratory          SULI
-Summer 2015  Allison M Stettler        Michigan State University  Lawrence Berkeley National Laboratory  SULI
+Summer 2014  Kyle Seewald              Michigan State University  Brookhaven National Laboratory         SULI
 Summer 2014  Bryan Paul Jagielo        Oakland University         Argonne National Laboratory            SULI
 Summer 2014  Hoang Cao Nguyen          Michigan State University  SLAC National Accelerator Laboratory   SULI
-Summer 2014  Caitlin Paige O'Neill     Michigan State University  Lawrence Berkeley National Laboratory  SULI
-Summer 2014  Kyle Seewald              Michigan State University  Brookhaven National Laboratory         SULI
 Fall 2014    Tyler Rhinesmith          Michigan State University  Pacific Northwest National Laboratory  SULI
 ```
 ---
@@ -565,34 +555,26 @@ In the past 8 years, this district has received:<b> $101,552,314 </b>in NSF MPS 
   2013  REGENTS OF THE UNIVERSITY OF MICHIGAN    21,027,643
 ```
 ## SULI/CCI Interns
-From 2014-2016 (only years available), this district had 24 SULI/CCI interns
+From 2014-2016 (only years available), this district had 16 SULI/CCI interns
 ```
-Term         Name                        College                           Host Lab                                Program
------------  --------------------------  --------------------------------  --------------------------------------  ---------
-Summer 2016  Alan Xu                     University of Michigan-Ann Arbor  Argonne National Laboratory             SULI
-Summer 2016  Antonia Emilia Wuschner     University of Michigan-Ann Arbor  Argonne National Laboratory             SULI
-Summer 2016  Hanna Schamis               University of Michigan-Ann Arbor  Princeton Plasma Physics Laboratory     SULI
-Summer 2016  Juan Diego Riquezes         University of Michigan-Ann Arbor  Princeton Plasma Physics Laboratory     SULI
-Summer 2016  Jared Molesky               University of Michigan-Ann Arbor  Brookhaven National Laboratory          SULI
-Summer 2016  Catherine Haslam            University of Michigan-Ann Arbor  National Renewable Energy Laboratory    SULI
-Summer 2016  Samuel Frank                University of Michigan-Ann Arbor  Princeton Plasma Physics Laboratory     SULI
-Summer 2016  Miles Raleigh Denudt        University of Michigan-Ann Arbor  Argonne National Laboratory             SULI
-Summer 2016  Jacqueline Nicole Beechert  University of Michigan-Ann Arbor  SLAC National Accelerator Laboratory    SULI
-Summer 2015  Paul Robert Parker          University of Michigan-Ann Arbor  Lawrence Livermore National Laboratory  SULI
-Summer 2015  Nathaniel Edward Wirgau     University of Michigan-Ann Arbor  Princeton Plasma Physics Laboratory     SULI
-Summer 2015  Hanna Schamis               University of Michigan-Ann Arbor  Princeton Plasma Physics Laboratory     SULI
-Summer 2015  Erin Moser                  University of Michigan-Ann Arbor  Pacific Northwest National Laboratory   SULI
-Summer 2015  Jessica Micallef            University of Michigan-Ann Arbor  Lawrence Berkeley National Laboratory   SULI
-Summer 2015  Albert Liu                  University of Michigan-Ann Arbor  Los Alamos National Laboratory          SULI
-Summer 2015  Anthony Gorney              University of Michigan-Ann Arbor  Argonne National Laboratory             SULI
-Summer 2015  Graham William Dominick     University of Michigan-Ann Arbor  National Renewable Energy Laboratory    SULI
-Summer 2015  Thomas Allen Deeds          University of Michigan-Ann Arbor  National Renewable Energy Laboratory    SULI
-Summer 2014  David Cinquegrani           University of Michigan-Ann Arbor  Brookhaven National Laboratory          SULI
-Summer 2014  Erin Moser                  University of Michigan-Ann Arbor  Pacific Northwest National Laboratory   SULI
-Summer 2014  Ryan Levy                   University of Michigan-Ann Arbor  Oak Ridge National Laboratory           SULI
-Summer 2014  Diamant Kurteshi            University of Michigan-Ann Arbor  Ames National Laboratory                SULI
-Spring 2014  Bunheng Ty                  University of Michigan-Dearborn   Brookhaven National Laboratory          SULI
-Fall 2015    Bardia Nadim                University of Michigan-Ann Arbor  Argonne National Laboratory             SULI
+Term         Name                     College                           Host Lab                                Program
+-----------  -----------------------  --------------------------------  --------------------------------------  ---------
+Summer 2016  Miles Raleigh Denudt     University of Michigan-Ann Arbor  Argonne National Laboratory             SULI
+Summer 2016  Antonia Emilia Wuschner  University of Michigan-Ann Arbor  Argonne National Laboratory             SULI
+Summer 2016  Samuel Frank             University of Michigan-Ann Arbor  Princeton Plasma Physics Laboratory     SULI
+Summer 2016  Hanna Schamis            University of Michigan-Ann Arbor  Princeton Plasma Physics Laboratory     SULI
+Summer 2015  Anthony Gorney           University of Michigan-Ann Arbor  Argonne National Laboratory             SULI
+Summer 2015  Jessica Micallef         University of Michigan-Ann Arbor  Lawrence Berkeley National Laboratory   SULI
+Summer 2015  Paul Robert Parker       University of Michigan-Ann Arbor  Lawrence Livermore National Laboratory  SULI
+Summer 2015  Thomas Allen Deeds       University of Michigan-Ann Arbor  National Renewable Energy Laboratory    SULI
+Summer 2015  Graham William Dominick  University of Michigan-Ann Arbor  National Renewable Energy Laboratory    SULI
+Summer 2015  Hanna Schamis            University of Michigan-Ann Arbor  Princeton Plasma Physics Laboratory     SULI
+Summer 2015  Nathaniel Edward Wirgau  University of Michigan-Ann Arbor  Princeton Plasma Physics Laboratory     SULI
+Summer 2015  Albert Liu               University of Michigan-Ann Arbor  Los Alamos National Laboratory          SULI
+Summer 2014  Erin Moser               University of Michigan-Ann Arbor  Pacific Northwest National Laboratory   SULI
+Summer 2014  Ryan Levy                University of Michigan-Ann Arbor  Oak Ridge National Laboratory           SULI
+Summer 2014  Diamant Kurteshi         University of Michigan-Ann Arbor  Ames National Laboratory                SULI
+Fall 2015    Bardia Nadim             University of Michigan-Ann Arbor  Argonne National Laboratory             SULI
 ```
 ---
 <a name="MI-13"></a>
@@ -662,10 +644,7 @@ In the past 8 years, this district has received:<b> $5,800 </b>in NSF MPS grants
   2013  UNIVERSITY OF DETROIT MERCY         5,800
 ```
 ## SULI/CCI Interns
-From 2014-2016 (only years available), this district had 1 SULI/CCI intern
 ```
-Term         Name                 College                            Host Lab                       Program
------------  -------------------  ---------------------------------  -----------------------------  ---------
-Summer 2014  Ryan Joseph Daniels  Lawrence Technological University  Oak Ridge National Laboratory  SULI
+This district had no SULI/CCI interns from 2014-2016 (only years available)
 ```
 ---

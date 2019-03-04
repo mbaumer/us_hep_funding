@@ -48,14 +48,15 @@ AUGUSTANA COLLEGE                                19,000
 DAKOTA STATE UNIV                                12,000
 ```
 ## SULI/CCI Interns
-From 2014-2016 (only years available), this state had 7 SULI/CCI interns
+<p align="center">
+![SD SULI/CCI image]({{ site.baseurl }}/img/SD.png)
+</p>
+From 2014-2016 (only years available), this state had 4 SULI/CCI interns
 ```
   # Interns  Program    College
 -----------  ---------  -------------------------------------------
-          4  SULI       South Dakota School of Mines and Technology
-          1  SULI       Dakota State University
+          3  SULI       South Dakota School of Mines and Technology
           1  SULI       South Dakota State University
-          1  SULI       University of South Dakota
 ```
 ---
 ---
@@ -123,15 +124,12 @@ In the past 8 years, this district has received:<b> $8,796,726 </b>in NSF MPS gr
   2012  AUGUSTANA COLLEGE ASSOCIATION, THE               82,611
 ```
 ## SULI/CCI Interns
-From 2014-2016 (only years available), this district had 7 SULI/CCI interns
+From 2014-2016 (only years available), this district had 4 SULI/CCI interns
 ```
 Term         Name                   College                                      Host Lab                               Program
 -----------  ---------------------  -------------------------------------------  -------------------------------------  ---------
-Summer 2016  Riley Paulsen          University of South Dakota                   General Atomics / DIII-D               SULI
 Summer 2015  Daniel Tronstad        South Dakota School of Mines and Technology  Argonne National Laboratory            SULI
 Summer 2015  Hannah Wisser          South Dakota School of Mines and Technology  Fermi National Accelerator Laboratory  SULI
-Summer 2015  William Jake Hofer     Dakota State University                      Pacific Northwest National Laboratory  SULI
-Summer 2014  Travis Glenn Buse      South Dakota School of Mines and Technology  National Renewable Energy Laboratory   SULI
 Summer 2014  Scott Daniel Korthals  South Dakota State University                Argonne National Laboratory            SULI
 Spring 2016  Michael Kelly          South Dakota School of Mines and Technology  National Renewable Energy Laboratory   SULI
 ```

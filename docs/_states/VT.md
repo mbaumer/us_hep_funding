@@ -42,14 +42,16 @@ SAINT MICHAEL'S COLLEGE, INC.                            182,771
 U OF VERMONT & ST AGR COLL                                75,000
 ```
 ## SULI/CCI Interns
-From 2014-2016 (only years available), this state had 6 SULI/CCI interns
+<p align="center">
+![VT SULI/CCI image]({{ site.baseurl }}/img/VT.png)
+</p>
+From 2014-2016 (only years available), this state had 4 SULI/CCI interns
 ```
   # Interns  Program    College
------------  ---------  -----------------------
+-----------  ---------  ----------------------
           2  SULI       Middlebury College
-          2  SULI       University of Vermont
           1  SULI       Green Mountain College
-          1  SULI       Saint Michael's College
+          1  SULI       University of Vermont
 ```
 ---
 ---
@@ -91,15 +93,13 @@ In the past 8 years, this district has received:<b> $10,242,268 </b>in NSF MPS g
   2012  PRESIDENT AND FELLOWS OF MIDDLEBURY COLLEGE              283,513
 ```
 ## SULI/CCI Interns
-From 2014-2016 (only years available), this district had 6 SULI/CCI interns
+From 2014-2016 (only years available), this district had 4 SULI/CCI interns
 ```
-Term         Name                    College                  Host Lab                               Program
------------  ----------------------  -----------------------  -------------------------------------  ---------
-Summer 2015  Thomas John Hobbs       University of Vermont    Brookhaven National Laboratory         SULI
-Summer 2014  Aliya Siegel Lapp       University of Vermont    Ames National Laboratory               SULI
-Summer 2014  Ashley Margaret Scully  Saint Michael's College  Sandia National Laboratory             SULI
-Spring 2015  Corinna Phelps West     Middlebury College       Lawrence Berkeley National Laboratory  SULI
-Spring 2015  Amanda Louise Ross      Green Mountain College   Lawrence Berkeley National Laboratory  SULI
-Fall 2014    Corinna Phelps West     Middlebury College       Lawrence Berkeley National Laboratory  SULI
+Term         Name                 College                 Host Lab                               Program
+-----------  -------------------  ----------------------  -------------------------------------  ---------
+Summer 2015  Thomas John Hobbs    University of Vermont   Brookhaven National Laboratory         SULI
+Spring 2015  Corinna Phelps West  Middlebury College      Lawrence Berkeley National Laboratory  SULI
+Spring 2015  Amanda Louise Ross   Green Mountain College  Lawrence Berkeley National Laboratory  SULI
+Fall 2014    Corinna Phelps West  Middlebury College      Lawrence Berkeley National Laboratory  SULI
 ```
 ---

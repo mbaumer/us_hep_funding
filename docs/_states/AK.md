@@ -47,6 +47,9 @@ UNIVERSITY OF ALASKA SOUTHEAST        96,808
 U OF ALASKA FAIRBANKS                 42,000
 ```
 ## SULI/CCI Interns
+<p align="center">
+![AK SULI/CCI image]({{ site.baseurl }}/img/AK.png)
+</p>
 From 2014-2016 (only years available), this state had 1 SULI/CCI intern
 ```
   # Interns  Program    College

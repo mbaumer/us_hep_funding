@@ -43,13 +43,15 @@ UNIVERSITY OF MONTANA             1,249,133
 MONTANA STATE UNIVERSITY            274,832
 ```
 ## SULI/CCI Interns
-From 2014-2016 (only years available), this state had 14 SULI/CCI interns
+<p align="center">
+![MT SULI/CCI image]({{ site.baseurl }}/img/MT.png)
+</p>
+From 2014-2016 (only years available), this state had 6 SULI/CCI interns
 ```
   # Interns  Program    College
 -----------  ---------  -----------------------------------------
-         10  SULI       Montana State University
-          2  SULI       Carroll College
-          2  SULI       Montana Tech of The University of Montana
+          5  SULI       Montana State University
+          1  SULI       Montana Tech of The University of Montana
 ```
 ---
 ---
@@ -92,23 +94,15 @@ In the past 8 years, this district has received:<b> $14,522,450 </b>in NSF MPS g
   2012  MONTANA STATE UNIVERSITY, INC     2,151,989
 ```
 ## SULI/CCI Interns
-From 2014-2016 (only years available), this district had 14 SULI/CCI interns
+From 2014-2016 (only years available), this district had 6 SULI/CCI interns
 ```
-Term         Name                          College                                    Host Lab                                Program
------------  ----------------------------  -----------------------------------------  --------------------------------------  ---------
-Summer 2016  Taylor Mae Oeschger           Montana State University                   Lawrence Berkeley National Laboratory   SULI
-Summer 2016  John Ryter                    Montana State University                   Los Alamos National Laboratory          SULI
-Summer 2016  Matthew Robert Weathers       Montana State University                   Oak Ridge National Laboratory           SULI
-Summer 2016  Nicholas Antonio Lumetta      Carroll College                            Pacific Northwest National Laboratory   SULI
-Summer 2015  Gage Sowell                   Montana State University                   National Renewable Energy Laboratory    SULI
-Summer 2015  Carl Campbell Stringer        Montana State University                   Lawrence Livermore National Laboratory  SULI
-Summer 2015  Ryan Hensleigh                Montana Tech of The University of Montana  Lawrence Livermore National Laboratory  SULI
-Summer 2015  Heidi Reid                    Montana Tech of The University of Montana  National Renewable Energy Laboratory    SULI
-Summer 2014  Isaac Johnson                 Montana State University                   Idaho National Laboratory               SULI
-Summer 2014  Jacob Daniel Smith            Montana State University                   Los Alamos National Laboratory          SULI
-Summer 2014  Gage Sowell                   Montana State University                   Idaho National Laboratory               SULI
-Summer 2014  Michael Loftus                Carroll College                            Pacific Northwest National Laboratory   SULI
-Spring 2016  Ashley Elizabeth Berninghaus  Montana State University                   National Renewable Energy Laboratory    SULI
-Fall 2015    Isaac Johnson                 Montana State University                   Pacific Northwest National Laboratory   SULI
+Term         Name                    College                                    Host Lab                                Program
+-----------  ----------------------  -----------------------------------------  --------------------------------------  ---------
+Summer 2016  John Ryter              Montana State University                   Los Alamos National Laboratory          SULI
+Summer 2015  Carl Campbell Stringer  Montana State University                   Lawrence Livermore National Laboratory  SULI
+Summer 2015  Gage Sowell             Montana State University                   National Renewable Energy Laboratory    SULI
+Summer 2015  Heidi Reid              Montana Tech of The University of Montana  National Renewable Energy Laboratory    SULI
+Summer 2014  Isaac Johnson           Montana State University                   Idaho National Laboratory               SULI
+Fall 2015    Isaac Johnson           Montana State University                   Pacific Northwest National Laboratory   SULI
 ```
 ---

@@ -53,13 +53,16 @@ TULSA COMMUNITY COLLEGE                         67,380
 U OF OKLAHOMA                                   29,958
 ```
 ## SULI/CCI Interns
-From 2014-2016 (only years available), this state had 13 SULI/CCI interns
+<p align="center">
+![OK SULI/CCI image]({{ site.baseurl }}/img/OK.png)
+</p>
+From 2014-2016 (only years available), this state had 10 SULI/CCI interns
 ```
   # Interns  Program    College
 -----------  ---------  ------------------------------------------
-          6  SULI       Farmingdale State College
+          4  SULI       Farmingdale State College
           3  SULI       University of Oklahoma Norman Campus
-          2  SULI       Oklahoma State University
+          1  SULI       Oklahoma State University
           1  SULI       Tulsa Community College
           1  SULI       University of Science and Arts of Oklahoma
 ```
@@ -170,12 +173,11 @@ In the past 8 years, this district has received:<b> $7,911,107 </b>in NSF MPS gr
   2012  OKLAHOMA STATE UNIVERSITY     1,080,354
 ```
 ## SULI/CCI Interns
-From 2014-2016 (only years available), this district had 2 SULI/CCI interns
+From 2014-2016 (only years available), this district had 1 SULI/CCI intern
 ```
-Term         Name            College                    Host Lab                       Program
------------  --------------  -------------------------  -----------------------------  ---------
-Summer 2016  Timothy Alland  Oklahoma State University  Oak Ridge National Laboratory  SULI
-Summer 2015  Mang Chang      Oklahoma State University  Oak Ridge National Laboratory  SULI
+Term         Name        College                    Host Lab                       Program
+-----------  ----------  -------------------------  -----------------------------  ---------
+Summer 2015  Mang Chang  Oklahoma State University  Oak Ridge National Laboratory  SULI
 ```
 ---
 <a name="OK-04"></a>
@@ -243,7 +245,7 @@ This district received no SC contracts from 2012-2019
 This district received no NSF MPS grants from 2012-2019
 ```
 ## SULI/CCI Interns
-From 2014-2016 (only years available), this district had 9 SULI/CCI interns
+From 2014-2016 (only years available), this district had 7 SULI/CCI interns
 ```
 Term         Name                  College                               Host Lab                               Program
 -----------  --------------------  ------------------------------------  -------------------------------------  ---------
@@ -251,8 +253,6 @@ Summer 2016  Theophilus Kwame Doe  Farmingdale State College             Brookha
 Summer 2016  James Hugh Mcmanus    Farmingdale State College             Brookhaven National Laboratory         SULI
 Summer 2016  Kourtney Ann Lewis    University of Oklahoma Norman Campus  Oak Ridge National Laboratory          SULI
 Summer 2014  Eric McCafferty       Farmingdale State College             Brookhaven National Laboratory         SULI
-Summer 2014  Dominick Raimondi     Farmingdale State College             Brookhaven National Laboratory         SULI
-Summer 2014  Edwin Rosero          Farmingdale State College             Brookhaven National Laboratory         SULI
 Summer 2014  Allison Leigh Olin    University of Oklahoma Norman Campus  National Renewable Energy Laboratory   SULI
 Spring 2016  Kathleen Westervelt   Farmingdale State College             Lawrence Berkeley National Laboratory  SULI
 Spring 2016  Kourtney Ann Lewis    University of Oklahoma Norman Campus  Oak Ridge National Laboratory          SULI

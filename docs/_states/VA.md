@@ -97,23 +97,26 @@ MARYMOUNT UNIVERSITY                                     26,589
 AMER STATISTICAL ASSOC                                    9,000
 ```
 ## SULI/CCI Interns
-From 2014-2016 (only years available), this state had 84 SULI/CCI interns
+<p align="center">
+![VA SULI/CCI image]({{ site.baseurl }}/img/VA.png)
+</p>
+From 2014-2016 (only years available), this state had 72 SULI/CCI interns
 ```
   # Interns  Program    College
 -----------  ---------  ---------------------------------------------------
-         28  SULI       Virginia Polytechnic Institute and State University
-         14  SULI       University of Virginia
-          9  SULI       College of William and Mary
+         23  SULI       Virginia Polytechnic Institute and State University
+         11  SULI       University of Virginia
+          8  SULI       College of William and Mary
           6  SULI       Christopher Newport University
-          5  SULI       James Madison University
+          4  SULI       James Madison University
           3  SULI       George Mason University
-          3  SULI       University of Mary Washington
           2  SULI       Old Dominion University
           2  SULI       Virginia State University
           2  SULI       Virginia Military Institute
           2  SULI       Virginia Commonwealth University
           2  SULI       Washington and Lee University
           2  SULI       Emory & Henry College
+          1  SULI       University of Mary Washington
           1  SULI       Radford University
           1  SULI       Liberty University
           1  SULI       Hampton University
@@ -161,13 +164,11 @@ In the past 8 years, this district has received:<b> $9,182,082 </b>in NSF MPS gr
   2012  COLLEGE OF WILLIAM & MARY, THE           1,837,040
 ```
 ## SULI/CCI Interns
-From 2014-2016 (only years available), this district had 3 SULI/CCI interns
+From 2014-2016 (only years available), this district had 1 SULI/CCI intern
 ```
 Term         Name                        College                        Host Lab                        Program
 -----------  --------------------------  -----------------------------  ------------------------------  ---------
 Summer 2016  Nicholas Alexander Gabriel  University of Mary Washington  Brookhaven National Laboratory  SULI
-Summer 2015  Juliana Kim                 University of Mary Washington  Argonne National Laboratory     SULI
-Summer 2015  Meghan Elizabeth King       University of Mary Washington  Brookhaven National Laboratory  SULI
 ```
 ---
 <a name="VA-02"></a>
@@ -212,19 +213,18 @@ In the past 8 years, this district has received:<b> $5,817,072 </b>in NSF MPS gr
   2013  CHRISTOPHER NEWPORT UNIVERSITY       185,000
 ```
 ## SULI/CCI Interns
-From 2014-2016 (only years available), this district had 9 SULI/CCI interns
+From 2014-2016 (only years available), this district had 8 SULI/CCI interns
 ```
-Term         Name                    College                      Host Lab                                        Program
------------  ----------------------  ---------------------------  ----------------------------------------------  ---------
-Summer 2016  Ethan Buck              College of William and Mary  Thomas Jefferson National Accelerator Facility  SULI
-Summer 2016  Brandon Mark Buncher    College of William and Mary  Fermi National Accelerator Laboratory           SULI
-Summer 2016  Veronica Over           College of William and Mary  Thomas Jefferson National Accelerator Facility  SULI
-Summer 2015  Samuel Girdzis          College of William and Mary  Argonne National Laboratory                     SULI
-Summer 2014  Samuel Girdzis          College of William and Mary  Thomas Jefferson National Accelerator Facility  SULI
-Summer 2014  Elizabeth Anne Johnson  College of William and Mary  Oak Ridge National Laboratory                   SULI
-Summer 2014  Matthew Lee Mendonca    College of William and Mary  Thomas Jefferson National Accelerator Facility  SULI
-Summer 2014  David Andrew Specht     College of William and Mary  Lawrence Livermore National Laboratory          SULI
-Summer 2014  Matthew Stephens        College of William and Mary  Thomas Jefferson National Accelerator Facility  SULI
+Term         Name                  College                      Host Lab                                        Program
+-----------  --------------------  ---------------------------  ----------------------------------------------  ---------
+Summer 2016  Ethan Buck            College of William and Mary  Thomas Jefferson National Accelerator Facility  SULI
+Summer 2016  Veronica Over         College of William and Mary  Thomas Jefferson National Accelerator Facility  SULI
+Summer 2016  Brandon Mark Buncher  College of William and Mary  Fermi National Accelerator Laboratory           SULI
+Summer 2015  Samuel Girdzis        College of William and Mary  Argonne National Laboratory                     SULI
+Summer 2014  David Andrew Specht   College of William and Mary  Lawrence Livermore National Laboratory          SULI
+Summer 2014  Samuel Girdzis        College of William and Mary  Thomas Jefferson National Accelerator Facility  SULI
+Summer 2014  Matthew Lee Mendonca  College of William and Mary  Thomas Jefferson National Accelerator Facility  SULI
+Summer 2014  Matthew Stephens      College of William and Mary  Thomas Jefferson National Accelerator Facility  SULI
 ```
 ---
 <a name="VA-03"></a>
@@ -297,14 +297,14 @@ From 2014-2016 (only years available), this district had 9 SULI/CCI interns
 Term         Name                       College                         Host Lab                                        Program
 -----------  -------------------------  ------------------------------  ----------------------------------------------  ---------
 Summer 2016  Christian Davison          Christopher Newport University  Thomas Jefferson National Accelerator Facility  SULI
+Summer 2015  Quinton Gipson             Hampton University              Brookhaven National Laboratory                  SULI
 Summer 2015  Christian Davison          Christopher Newport University  Thomas Jefferson National Accelerator Facility  SULI
 Summer 2015  Mitchell Reed Kerver       Christopher Newport University  Thomas Jefferson National Accelerator Facility  SULI
 Summer 2015  Eric James Thompson        Christopher Newport University  Thomas Jefferson National Accelerator Facility  SULI
 Summer 2015  Victoria Grace Lagerquist  Old Dominion University         Thomas Jefferson National Accelerator Facility  SULI
-Summer 2015  Quinton Gipson             Hampton University              Brookhaven National Laboratory                  SULI
+Summer 2014  Joseph David Newton        Old Dominion University         Brookhaven National Laboratory                  SULI
 Summer 2014  Brad Thomas Damiano        Christopher Newport University  Thomas Jefferson National Accelerator Facility  SULI
 Summer 2014  Angelica Jusino            Christopher Newport University  Thomas Jefferson National Accelerator Facility  SULI
-Summer 2014  Joseph David Newton        Old Dominion University         Brookhaven National Laboratory                  SULI
 ```
 ---
 <a name="VA-04"></a>
@@ -383,21 +383,18 @@ In the past 8 years, this district has received:<b> $31,990,647 </b>in NSF MPS g
   2012  RECTOR & VISITORS OF THE UNIVERSITY OF VIRGIN       7,881,751
 ```
 ## SULI/CCI Interns
-From 2014-2016 (only years available), this district had 14 SULI/CCI interns
+From 2014-2016 (only years available), this district had 11 SULI/CCI interns
 ```
 Term         Name                   College                 Host Lab                                        Program
 -----------  ---------------------  ----------------------  ----------------------------------------------  ---------
-Summer 2016  Joseph Edward Daly     University of Virginia  SLAC National Accelerator Laboratory            SULI
 Summer 2016  Heeseok Joo            University of Virginia  Princeton Plasma Physics Laboratory             SULI
+Summer 2016  Joseph Edward Daly     University of Virginia  SLAC National Accelerator Laboratory            SULI
 Summer 2016  Amanda Seiken          University of Virginia  Thomas Jefferson National Accelerator Facility  SULI
 Summer 2016  Bethany Wissmann       University of Virginia  Thomas Jefferson National Accelerator Facility  SULI
-Summer 2015  David Brown            University of Virginia  National Renewable Energy Laboratory            SULI
-Summer 2015  Samantha Fortuna       University of Virginia  Brookhaven National Laboratory                  SULI
 Summer 2015  John Hack              University of Virginia  Brookhaven National Laboratory                  SULI
 Summer 2015  Tyler Lam              University of Virginia  SLAC National Accelerator Laboratory            SULI
 Summer 2015  Louis Gerald Lukaczyk  University of Virginia  SLAC National Accelerator Laboratory            SULI
 Summer 2015  Sabire Lara Sisman     University of Virginia  Savannah River National Laboratory              SULI
-Summer 2014  Samantha Fortuna       University of Virginia  Brookhaven National Laboratory                  SULI
 Summer 2014  Benjamin Lake Hill     University of Virginia  Lawrence Berkeley National Laboratory           SULI
 Spring 2015  Dustin Ray Crouse      University of Virginia  National Renewable Energy Laboratory            SULI
 Fall 2014    Dustin Ray Crouse      University of Virginia  National Renewable Energy Laboratory            SULI
@@ -431,20 +428,19 @@ In the past 8 years, this district has received:<b> $2,100,840 </b>in NSF MPS gr
   2012  JAMES MADISON UNIVERSITY                 661,550
 ```
 ## SULI/CCI Interns
-From 2014-2016 (only years available), this district had 10 SULI/CCI interns
+From 2014-2016 (only years available), this district had 9 SULI/CCI interns
 ```
 Term         Name                    College                        Host Lab                                        Program
 -----------  ----------------------  -----------------------------  ----------------------------------------------  ---------
-Summer 2016  Joseph John Lopreto     James Madison University       Thomas Jefferson National Accelerator Facility  SULI
 Summer 2016  Matthew O'malley        James Madison University       Argonne National Laboratory                     SULI
 Summer 2016  Shlomo Honig            Washington and Lee University  Argonne National Laboratory                     SULI
+Summer 2016  Joseph John Lopreto     James Madison University       Thomas Jefferson National Accelerator Facility  SULI
 Summer 2015  Erin Delaney O'Brien    James Madison University       Brookhaven National Laboratory                  SULI
 Summer 2015  Angelo Anthony Kirchon  Virginia Military Institute    Lawrence Livermore National Laboratory          SULI
 Summer 2015  Dylan Miller            Virginia Military Institute    Oak Ridge National Laboratory                   SULI
 Summer 2014  Hunter Wallace Hart     James Madison University       Lawrence Berkeley National Laboratory           SULI
 Summer 2014  Tanner James Waggoner   Washington and Lee University  Pacific Northwest National Laboratory           SULI
 Spring 2016  Daniel O'neal Reddy     Liberty University             Savannah River National Laboratory              SULI
-Spring 2014  Thomas Hoke             James Madison University       Oak Ridge National Laboratory                   SULI
 ```
 ---
 <a name="VA-07"></a>
@@ -565,39 +561,34 @@ In the past 8 years, this district has received:<b> $27,016,224 </b>in NSF MPS g
   2012  VIRGINIA POLYTECHNIC INSTITUTE & STATE UNIVER         4,660,413
 ```
 ## SULI/CCI Interns
-From 2014-2016 (only years available), this district had 31 SULI/CCI interns
+From 2014-2016 (only years available), this district had 26 SULI/CCI interns
 ```
 Term         Name                          College                                              Host Lab                                        Program
 -----------  ----------------------------  ---------------------------------------------------  ----------------------------------------------  ---------
-Summer 2016  Megan Carey Freyman           Virginia Polytechnic Institute and State University  Lawrence Livermore National Laboratory          SULI
-Summer 2016  Andrew Bowers                 Virginia Polytechnic Institute and State University  Oak Ridge National Laboratory                   SULI
-Summer 2016  Adam Wise                     Virginia Polytechnic Institute and State University  National Renewable Energy Laboratory            SULI
 Summer 2016  Sara Peterson                 Virginia Polytechnic Institute and State University  SLAC National Accelerator Laboratory            SULI
-Summer 2016  Matthew Moniot                Virginia Polytechnic Institute and State University  National Renewable Energy Laboratory            SULI
-Summer 2016  Megan Nicole Lilly            Virginia Polytechnic Institute and State University  Oak Ridge National Laboratory                   SULI
-Summer 2016  Anthony Lanzillotta           Virginia Polytechnic Institute and State University  Oak Ridge National Laboratory                   SULI
-Summer 2016  Alexandra Justice Bosh        Virginia Polytechnic Institute and State University  Princeton Plasma Physics Laboratory             SULI
 Summer 2016  Jason Gray                    Virginia Polytechnic Institute and State University  Lawrence Livermore National Laboratory          SULI
 Summer 2016  Christian Gilbertson          Virginia Polytechnic Institute and State University  SLAC National Accelerator Laboratory            SULI
+Summer 2016  Matthew Moniot                Virginia Polytechnic Institute and State University  National Renewable Energy Laboratory            SULI
+Summer 2016  Alexandra Justice Bosh        Virginia Polytechnic Institute and State University  Princeton Plasma Physics Laboratory             SULI
+Summer 2016  Megan Nicole Lilly            Virginia Polytechnic Institute and State University  Oak Ridge National Laboratory                   SULI
+Summer 2016  Anthony Lanzillotta           Virginia Polytechnic Institute and State University  Oak Ridge National Laboratory                   SULI
 Summer 2016  Lisa Jordan                   Virginia Polytechnic Institute and State University  Oak Ridge National Laboratory                   SULI
-Summer 2015  Anthony Lanzillotta           Virginia Polytechnic Institute and State University  Oak Ridge National Laboratory                   SULI
-Summer 2015  Megan Nicole Lilly            Virginia Polytechnic Institute and State University  Oak Ridge National Laboratory                   SULI
+Summer 2016  Andrew Bowers                 Virginia Polytechnic Institute and State University  Oak Ridge National Laboratory                   SULI
 Summer 2015  Elizabeth Piersall            Virginia Polytechnic Institute and State University  Oak Ridge National Laboratory                   SULI
+Summer 2015  Megan Nicole Lilly            Virginia Polytechnic Institute and State University  Oak Ridge National Laboratory                   SULI
 Summer 2015  Marina Kiseleva               Virginia Polytechnic Institute and State University  Los Alamos National Laboratory                  SULI
 Summer 2015  Erica Kelley Grant            Virginia Polytechnic Institute and State University  Oak Ridge National Laboratory                   SULI
-Summer 2015  Ella Chalkley                 Virginia Polytechnic Institute and State University  National Renewable Energy Laboratory            SULI
 Summer 2015  Andrew Bowers                 Virginia Polytechnic Institute and State University  Oak Ridge National Laboratory                   SULI
+Summer 2015  Ella Chalkley                 Virginia Polytechnic Institute and State University  National Renewable Energy Laboratory            SULI
 Summer 2015  Megan Carey Freyman           Virginia Polytechnic Institute and State University  Lawrence Livermore National Laboratory          SULI
-Summer 2014  Morgan Nicole Jacques         Radford University                                   Ames National Laboratory                        SULI
-Summer 2014  Erica Kelley Grant            Virginia Polytechnic Institute and State University  Oak Ridge National Laboratory                   SULI
-Summer 2014  Kevin Hannon                  Virginia Polytechnic Institute and State University  Oak Ridge National Laboratory                   SULI
-Summer 2014  Jeffrey Glen Stevenson        Virginia Polytechnic Institute and State University  Thomas Jefferson National Accelerator Facility  SULI
 Summer 2014  Elizabeth Piersall            Virginia Polytechnic Institute and State University  Oak Ridge National Laboratory                   SULI
+Summer 2014  Erica Kelley Grant            Virginia Polytechnic Institute and State University  Oak Ridge National Laboratory                   SULI
+Summer 2014  Morgan Nicole Jacques         Radford University                                   Ames National Laboratory                        SULI
 Summer 2014  Amanda Hoebel                 Virginia Polytechnic Institute and State University  Thomas Jefferson National Accelerator Facility  SULI
+Summer 2014  Jeffrey Glen Stevenson        Virginia Polytechnic Institute and State University  Thomas Jefferson National Accelerator Facility  SULI
 Spring 2016  Wesley Holt Higgins           Emory & Henry College                                Oak Ridge National Laboratory                   SULI
 Spring 2015  Mario Sergio Solano Gonzales  Virginia Polytechnic Institute and State University  Lawrence Berkeley National Laboratory           SULI
 Spring 2015  Andrew Marino                 Virginia Polytechnic Institute and State University  Oak Ridge National Laboratory                   SULI
-Fall 2015    Ella Chalkley                 Virginia Polytechnic Institute and State University  National Renewable Energy Laboratory            SULI
 Fall 2015    Wesley Holt Higgins           Emory & Henry College                                Oak Ridge National Laboratory                   SULI
 Fall 2014    Mario Sergio Solano Gonzales  Virginia Polytechnic Institute and State University  Lawrence Berkeley National Laboratory           SULI
 ```

@@ -54,12 +54,14 @@ U OF KANSAS CTR FOR RES IN                           370,149
 EMPORIA STATE UNIVERSITY                             150,000
 ```
 ## SULI/CCI Interns
-From 2014-2016 (only years available), this state had 11 SULI/CCI interns
+<p align="center">
+![KS SULI/CCI image]({{ site.baseurl }}/img/KS.png)
+</p>
+From 2014-2016 (only years available), this state had 7 SULI/CCI interns
 ```
   # Interns  Program    College
 -----------  ---------  --------------------------------
-          6  SULI       University of Kansas Main Campus
-          3  SULI       Kansas State University
+          5  SULI       University of Kansas Main Campus
           2  SULI       Benedictine College
 ```
 ---
@@ -96,13 +98,8 @@ In the past 8 years, this district has received:<b> $9,632,071 </b>in NSF MPS gr
   2013  KANSAS STATE UNIVERSITY     1,136,720
 ```
 ## SULI/CCI Interns
-From 2014-2016 (only years available), this district had 3 SULI/CCI interns
 ```
-Term         Name                     College                  Host Lab                               Program
------------  -----------------------  -----------------------  -------------------------------------  ---------
-Summer 2016  Dalton Hahn              Kansas State University  Pacific Northwest National Laboratory  SULI
-Summer 2015  Morgan Shmidl            Kansas State University  Ames National Laboratory               SULI
-Summer 2014  William Thomas Hamilton  Kansas State University  National Renewable Energy Laboratory   SULI
+This district had no SULI/CCI interns from 2014-2016 (only years available)
 ```
 ---
 <a name="KS-02"></a>
@@ -150,8 +147,8 @@ From 2014-2016 (only years available), this district had 2 SULI/CCI interns
 ```
 Term         Name                   College              Host Lab                                        Program
 -----------  ---------------------  -------------------  ----------------------------------------------  ---------
-Summer 2016  Andrew Jacobs          Benedictine College  Thomas Jefferson National Accelerator Facility  SULI
 Summer 2016  Laura Elizabeth Tibbs  Benedictine College  Ames National Laboratory                        SULI
+Summer 2016  Andrew Jacobs          Benedictine College  Thomas Jefferson National Accelerator Facility  SULI
 ```
 ---
 <a name="KS-03"></a>
@@ -183,14 +180,13 @@ In the past 8 years, this district has received:<b> $3,766,188 </b>in NSF MPS gr
   2012  UNIVERSITY OF KANSAS CENTER FOR RESEARCH, INC     3,679,188
 ```
 ## SULI/CCI Interns
-From 2014-2016 (only years available), this district had 6 SULI/CCI interns
+From 2014-2016 (only years available), this district had 5 SULI/CCI interns
 ```
 Term         Name                     College                           Host Lab                               Program
 -----------  -----------------------  --------------------------------  -------------------------------------  ---------
 Summer 2016  Andrew Ying              University of Kansas Main Campus  Lawrence Berkeley National Laboratory  SULI
 Summer 2015  William Thomas Hamilton  University of Kansas Main Campus  National Renewable Energy Laboratory   SULI
 Summer 2014  Jason Schutte Bates      University of Kansas Main Campus  National Renewable Energy Laboratory   SULI
-Summer 2014  Daniel Kennedy           University of Kansas Main Campus  Princeton Plasma Physics Laboratory    SULI
 Spring 2015  Gregory Pach             University of Kansas Main Campus  National Renewable Energy Laboratory   SULI
 Fall 2014    Gregory Pach             University of Kansas Main Campus  National Renewable Energy Laboratory   SULI
 ```

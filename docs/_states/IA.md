@@ -63,17 +63,19 @@ UNI                                                    86,001
 DORDT COLLEGE, INCORPORATED                            55,685
 ```
 ## SULI/CCI Interns
-From 2014-2016 (only years available), this state had 60 SULI/CCI interns
+<p align="center">
+![IA SULI/CCI image]({{ site.baseurl }}/img/IA.png)
+</p>
+From 2014-2016 (only years available), this state had 44 SULI/CCI interns
 ```
   # Interns  Program    College
 -----------  ---------  ---------------------------------
-         39  SULI       Iowa State University
-          6  SULI       University of Iowa
-          5  SULI       Grinnell College
-          4  SULI       University of Northern Iowa
+         28  SULI       Iowa State University
+          5  SULI       University of Iowa
+          3  SULI       Grinnell College
+          3  SULI       University of Northern Iowa
           2  CCI        Des Moines Area Community College
           2  SULI       Coe College
-          1  SULI       Central College
           1  SULI       Drake University
 ```
 ---
@@ -114,21 +116,18 @@ In the past 8 years, this district has received:<b> $3,211,989 </b>in NSF MPS gr
   2012  UNIVERSITY OF NORTHERN IOWA              90,000
 ```
 ## SULI/CCI Interns
-From 2014-2016 (only years available), this district had 11 SULI/CCI interns
+From 2014-2016 (only years available), this district had 8 SULI/CCI interns
 ```
 Term         Name                      College                      Host Lab                              Program
 -----------  ------------------------  ---------------------------  ------------------------------------  ---------
-Summer 2016  Lucas Paul Beving         University of Northern Iowa  Princeton Plasma Physics Laboratory   SULI
-Summer 2016  Madison Danell Fellows    Grinnell College             National Renewable Energy Laboratory  SULI
-Summer 2016  Emily Kozik               Grinnell College             Ames National Laboratory              SULI
 Summer 2016  Henry Nelson              Grinnell College             Brookhaven National Laboratory        SULI
 Summer 2016  Heather N Ruiz            Coe College                  Argonne National Laboratory           SULI
+Summer 2016  Madison Danell Fellows    Grinnell College             National Renewable Energy Laboratory  SULI
+Summer 2016  Lucas Paul Beving         University of Northern Iowa  Princeton Plasma Physics Laboratory   SULI
 Summer 2015  Corey Cooling             University of Northern Iowa  Ames National Laboratory              SULI
-Summer 2015  Madison DaNell Fellows    Grinnell College             Sandia National Laboratory            SULI
-Summer 2014  Courtney Keiser           University of Northern Iowa  Argonne National Laboratory           SULI
 Summer 2014  Kyle Spurgeon             University of Northern Iowa  Argonne National Laboratory           SULI
-Summer 2014  James Pollock             Grinnell College             SLAC National Accelerator Laboratory  SULI
 Summer 2014  Maureen Judith Salisbury  Coe College                  Argonne National Laboratory           SULI
+Summer 2014  James Pollock             Grinnell College             SLAC National Accelerator Laboratory  SULI
 ```
 ---
 <a name="IA-02"></a>
@@ -174,17 +173,15 @@ In the past 8 years, this district has received:<b> $18,467,844 </b>in NSF MPS g
   2012  UNIVERSITY OF IOWA, THE     3,815,267
 ```
 ## SULI/CCI Interns
-From 2014-2016 (only years available), this district had 7 SULI/CCI interns
+From 2014-2016 (only years available), this district had 5 SULI/CCI interns
 ```
-Term         Name                 College             Host Lab                        Program
------------  -------------------  ------------------  ------------------------------  ---------
-Summer 2016  Daniel Davies        University of Iowa  Argonne National Laboratory     SULI
-Summer 2015  Patrick John Adrian  University of Iowa  General Atomics / DIII-D        SULI
-Summer 2015  Daniel Davies        University of Iowa  Brookhaven National Laboratory  SULI
-Summer 2015  Matt Sean Johnson    University of Iowa  Argonne National Laboratory     SULI
-Summer 2014  Marissa Rose Brandt  Central College     Ames National Laboratory        SULI
-Summer 2014  Matt Sean Johnson    University of Iowa  Argonne National Laboratory     SULI
-Spring 2016  Keith Vidal          University of Iowa  Oak Ridge National Laboratory   SULI
+Term         Name               College             Host Lab                        Program
+-----------  -----------------  ------------------  ------------------------------  ---------
+Summer 2016  Daniel Davies      University of Iowa  Argonne National Laboratory     SULI
+Summer 2015  Daniel Davies      University of Iowa  Brookhaven National Laboratory  SULI
+Summer 2015  Matt Sean Johnson  University of Iowa  Argonne National Laboratory     SULI
+Summer 2014  Matt Sean Johnson  University of Iowa  Argonne National Laboratory     SULI
+Spring 2016  Keith Vidal        University of Iowa  Oak Ridge National Laboratory   SULI
 ```
 ---
 <a name="IA-03"></a>
@@ -287,48 +284,37 @@ In the past 8 years, this district has received:<b> $23,930,144 </b>in NSF MPS g
   2012  LUTHER COLLEGE                                         34,015
 ```
 ## SULI/CCI Interns
-From 2014-2016 (only years available), this district had 39 SULI/CCI interns
+From 2014-2016 (only years available), this district had 28 SULI/CCI interns
 ```
 Term         Name                       College                Host Lab                               Program
 -----------  -------------------------  ---------------------  -------------------------------------  ---------
 Summer 2016  Lipin (Ivy) Wu             Iowa State University  Ames National Laboratory               SULI
+Summer 2016  Jeffrey Neel               Iowa State University  Argonne National Laboratory            SULI
 Summer 2016  Curt William Waltmann      Iowa State University  Ames National Laboratory               SULI
-Summer 2016  Lindy Marie Sherman        Iowa State University  Ames National Laboratory               SULI
 Summer 2016  Kirk Rudolph               Iowa State University  Ames National Laboratory               SULI
 Summer 2016  Jessica Lauren Przybylski  Iowa State University  Ames National Laboratory               SULI
-Summer 2016  Jeffrey Neel               Iowa State University  Argonne National Laboratory            SULI
-Summer 2016  Nicole Jandick             Iowa State University  Ames National Laboratory               SULI
-Summer 2016  Rebecca Elise Harmon       Iowa State University  Sandia National Laboratory             SULI
 Summer 2016  John Guss                  Iowa State University  Ames National Laboratory               SULI
-Summer 2016  Brian Matthew Fuchs        Iowa State University  Pacific Northwest National Laboratory  SULI
 Summer 2016  Iver John Cleveland        Iowa State University  Ames National Laboratory               SULI
-Summer 2015  Jacinta Priya Misra        Iowa State University  Ames National Laboratory               SULI
+Summer 2015  Robert Bromberek           Iowa State University  Argonne National Laboratory            SULI
 Summer 2015  Lipin (Ivy) Wu             Iowa State University  Ames National Laboratory               SULI
 Summer 2015  Kristi Michelle Short      Iowa State University  Ames National Laboratory               SULI
-Summer 2015  Jessica Lauren Przybylski  Iowa State University  Ames National Laboratory               SULI
-Summer 2015  Christian Edward Pinnell   Iowa State University  Ames National Laboratory               SULI
 Summer 2015  Brad James Ryan            Iowa State University  Ames National Laboratory               SULI
+Summer 2015  Christian Edward Pinnell   Iowa State University  Ames National Laboratory               SULI
+Summer 2015  Jacinta Priya Misra        Iowa State University  Ames National Laboratory               SULI
 Summer 2015  Nicole Jandick             Iowa State University  Ames National Laboratory               SULI
-Summer 2015  Brian Matthew Fuchs        Iowa State University  Pacific Northwest National Laboratory  SULI
 Summer 2015  Jeffrey Gustafson          Iowa State University  Ames National Laboratory               SULI
-Summer 2015  Robert Bromberek           Iowa State University  Argonne National Laboratory            SULI
 Summer 2015  Payton James Goodrich      Iowa State University  Ames National Laboratory               SULI
+Summer 2015  Brian Matthew Fuchs        Iowa State University  Pacific Northwest National Laboratory  SULI
+Summer 2014  Eric Schultz               Iowa State University  Ames National Laboratory               SULI
 Summer 2014  Andrew Gulstad             Iowa State University  Ames National Laboratory               SULI
 Summer 2014  Joshua David Bill          Iowa State University  Ames National Laboratory               SULI
-Summer 2014  Morgan Bobb                Iowa State University  Ames National Laboratory               SULI
 Summer 2014  Robert Bromberek           Iowa State University  Argonne National Laboratory            SULI
-Summer 2014  Shannon Goes               Iowa State University  Ames National Laboratory               SULI
-Summer 2014  Eric Schultz               Iowa State University  Ames National Laboratory               SULI
 Spring 2016  Timothy Hackett            Iowa State University  Ames National Laboratory               SULI
 Spring 2016  Adam Dziulko               Iowa State University  Lawrence Berkeley National Laboratory  SULI
-Spring 2015  Brittany Lynne Hallmark    Iowa State University  Ames National Laboratory               SULI
-Spring 2014  William Robin Lindemann    Iowa State University  Ames National Laboratory               SULI
 Spring 2014  Kelsie Marie Pugh          Iowa State University  Ames National Laboratory               SULI
 Spring 2014  Chloe McPherson            Iowa State University  Ames National Laboratory               SULI
+Spring 2014  William Robin Lindemann    Iowa State University  Ames National Laboratory               SULI
 Spring 2014  Jacob Terrence Brenneman   Iowa State University  National Renewable Energy Laboratory   SULI
-Fall 2015    Kaiser Waring Aguirre      Iowa State University  Ames National Laboratory               SULI
-Fall 2015    Shannon Goes               Iowa State University  Ames National Laboratory               SULI
-Fall 2015    Safwan Elkhatib            Iowa State University  Pacific Northwest National Laboratory  SULI
 Fall 2015    Adam Dziulko               Iowa State University  Ames National Laboratory               SULI
 ```
 ---

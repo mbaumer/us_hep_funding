@@ -30,6 +30,11 @@ markdown: kramdown
 
 theme: minima
 
+kramdown:
+  parse_block_html : true
+
 collections:
+  img:
+    output : true
   states:
     output : true

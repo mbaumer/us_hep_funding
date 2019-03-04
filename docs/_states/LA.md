@@ -60,13 +60,15 @@ TULANE UNIVERSITY                                        158,784
 UNIV OF LOUISIANA AT LAFAY                                40,610
 ```
 ## SULI/CCI Interns
-From 2014-2016 (only years available), this state had 7 SULI/CCI interns
+<p align="center">
+![LA SULI/CCI image]({{ site.baseurl }}/img/LA.png)
+</p>
+From 2014-2016 (only years available), this state had 6 SULI/CCI interns
 ```
   # Interns  Program    College
 -----------  ---------  ------------------------------------------------------------------
           4  SULI       Louisiana State University and Agricultural and Mechanical College
           2  SULI       Tulane University
-          1  SULI       University of Louisiana at Monroe
 ```
 ---
 ---
@@ -239,11 +241,8 @@ In the past 8 years, this district has received:<b> $969,620 </b>in NSF MPS gran
   2012  LOUISIANA TECH UNIVERSITY       124,821
 ```
 ## SULI/CCI Interns
-From 2014-2016 (only years available), this district had 1 SULI/CCI intern
 ```
-Term         Name              College                            Host Lab                        Program
------------  ----------------  ---------------------------------  ------------------------------  ---------
-Spring 2015  Zachary Streeter  University of Louisiana at Monroe  Brookhaven National Laboratory  SULI
+This district had no SULI/CCI interns from 2014-2016 (only years available)
 ```
 ---
 <a name="LA-06"></a>

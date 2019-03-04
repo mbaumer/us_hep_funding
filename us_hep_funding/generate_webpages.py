@@ -3,6 +3,12 @@ import numpy as np
 import sys
 import codecs
 from tabulate import tabulate
+import matplotlib.pyplot as plt
+
+import cartopy
+import cartopy.crs as ccrs
+import cartopy.feature as cfeature
+import cartopy.io.shapereader as shpreader
 
 pd.options.display.float_format = '{:,.0f}'.format #print all numbers with commas and no decimals
 
@@ -24,6 +30,10 @@ nsf_by_district = nsf_grants.groupby(['District'])
 
 #SULI Students
 suli_students = pd.read_pickle('../new_data/cleaned/suli_students.pkl')
+natlabs = pd.read_csv('../data/national_labs_geocodio.csv')
+natlabs = natlabs[['Lab','City','Latitude','Longitude']].dropna()
+natlabs = natlabs.rename(columns={'Lab':'Host Lab','City':'Lab City','Latitude':'Lab Latitude','Longitude':'Lab Longitude'})
+suli_students = suli_students.merge(natlabs,on='Host Lab')
 suli_students_by_state = suli_students.groupby(['State'])
 suli_students_by_district = suli_students.groupby(['Congressional District'])
 
@@ -176,7 +186,13 @@ def get_suli_students_state(distcode):
         plural_str = ''
     else:
         plural_str = 's'
+
+    print '<p align="center">'
+    print '!['+distcode+' SULI/CCI image]({{ site.baseurl }}/img/'+distcode+'.png)'
+    print '</p>'
+
     print 'From 2014-2016 (only years available), this state had', '{:,.0f}'.format(n_interns), 'SULI/CCI intern'+plural_str
+
     df = suli_students_by_state.get_group(distcode)
     df = df.groupby(['Program','College']).count().reset_index()[['Name','Program','College']].sort_values('Name',ascending=False)
     #df = df.sort_values('Term',ascending=False)[['Term','Name','College','Host Lab','Program']]
@@ -195,6 +211,68 @@ def get_committee_info(repname,rep_bioid):
     for i, commname in enumerate(comms_for_this_rep[3].values):
         print repname, 'is the', '#'+str(comms_for_this_rep[1].values[i]), comms_for_this_rep[2].values[i], 'on the', comms_for_this_rep[3].values[i],'\n'
         
+def plot_suli_state(statecode):
+
+    fig = plt.figure()
+
+    class LowerThreshold(ccrs.Mercator):
+        @property
+        def threshold(self):
+            return 1
+
+    if statecode == 'HI':
+        ax = fig.add_axes([0, 0, 1, 1], projection=ccrs.LambertConformal())
+        ax.set_extent([-165, -70, 20, 35], ccrs.Geodetic())
+    elif statecode == 'AK':
+        ax = fig.add_axes([0, 0, 1, 1], projection=ccrs.LambertConformal())
+        ax.set_extent([-140, -66, 20, 77], ccrs.Geodetic())
+    else:
+        ax = fig.add_axes([0, 0, 1, 1], projection=LowerThreshold())
+        ax.set_extent([-126, -66, 24.5, 46], ccrs.Geodetic())
+    shapename = 'admin_1_states_provinces_lakes_shp'
+    states_shp = shpreader.natural_earth(resolution='110m',
+                                             category='cultural', name=shapename)
+    
+    for state in shpreader.Reader(states_shp).records():
+        # pick a default color for the land with a black outline,
+        # this will change if the storm intersects with our track
+        facecolor = [0.9375, 0.9375, 0.859375]
+        edgecolor = 'black'
+    
+        if state.attributes['postal'] == statecode:
+            ax.add_geometries([state.geometry], ccrs.PlateCarree(),
+                          facecolor='Gold', edgecolor=edgecolor)
+        else:
+            ax.add_geometries([state.geometry], ccrs.PlateCarree(),
+                          facecolor=facecolor, edgecolor=edgecolor)
+    
+    these_students = suli_students[suli_students['State'] == statecode]
+    if len(these_students) < 20: 
+        alpha = 1
+    elif len(these_students) < 80:
+        alpha = .5
+    else:
+        alpha = .25
+        
+    unique_colleges = these_students['College'].unique()
+    college_counts = pd.DataFrame(np.array([unique_colleges,these_students.groupby('College').count()['Name'].values]).T,columns=['College','Count'])
+        
+    for idx in range(len(these_students)):
+        student = these_students.iloc[idx]
+        ax.plot([student['Longitude'],student['Lab Longitude']],[student['Latitude'],student['Lab Latitude']],color='Blue',transform=ccrs.Geodetic(),alpha=alpha)
+    for index, college in college_counts.iterrows():
+        student = these_students[these_students['College'] == college['College']].reset_index().loc[0]
+        popularity = 1.5*college['Count'] + 5
+        ax.plot(student['Longitude'],student['Latitude'],color='Blue',transform=ccrs.Geodetic(),markersize=popularity,marker='.',alpha=0.5)
+    for lab in these_students['Host Lab'].unique():
+        this_lab = natlabs[natlabs['Host Lab'] == lab]
+        ax.plot(this_lab['Lab Longitude'],this_lab['Lab Latitude'],transform=ccrs.Geodetic(),marker='*',markersize=10,color='Gold',markeredgewidth=1,markeredgecolor='Black')
+        
+    ax.set_title('Host National Laboratories for '+str(len(these_students))+' '+statecode+' SULI/CCI students (2014-2016)')
+    fig.savefig('/Users/mbaumer/side_projects/us_hep_funding/docs/_img/'+statecode+'.png',format='png',bbox_inches='tight')
+    plt.close(fig)
+    
+
 
 def tell_me_about_state(distcode):
     these_sens = legislators[legislators[1] == distcode+'-'+distcode]
@@ -210,6 +288,8 @@ def tell_me_about_state(distcode):
     get_nsf_grants_by_state(distcode)
 
     get_suli_students_state(distcode)
+
+    plot_suli_state(distcode)
     
         
 def tell_me_about_district(distcode):

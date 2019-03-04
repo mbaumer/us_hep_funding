@@ -164,69 +164,67 @@ ST LAWRENCE UNIVERSITY                                                          
 SUNY BINGHAMTON                                                                         200
 ```
 ## SULI/CCI Interns
-From 2014-2016 (only years available), this state had 311 SULI/CCI interns
+<p align="center">
+![NY SULI/CCI image]({{ site.baseurl }}/img/NY.png)
+</p>
+From 2014-2016 (only years available), this state had 247 SULI/CCI interns
 ```
   # Interns  Program    College
 -----------  ---------  --------------------------------------------------------------------------------
-         62  SULI       State University of New York at Stony Brook
-         32  SULI       Cornell University
-         17  SULI       Rensselaer Polytechnic Institute
-         15  SULI       State University of New York at Binghamton
-         14  CCI        Suffolk County Community College Ammerman Campus
-         13  SULI       Saint Joseph's College, New York - Suffolk Campus
-          8  SULI       Polytechnic Institute of New York University
+         48  SULI       State University of New York at Stony Brook
+         27  SULI       Cornell University
+         13  SULI       Rensselaer Polytechnic Institute
+         13  CCI        Suffolk County Community College Ammerman Campus
+         13  SULI       State University of New York at Binghamton
+          9  SULI       Saint Joseph's College, New York - Suffolk Campus
           8  SULI       City University of New York The City College
-          8  SULI       Rochester Institute of Technology
           8  CCI        City University of New York Queensborough Community College
-          8  SULI       State University of New York College at Geneseo
           7  SULI       New York City College of Technology/City University of New York
-          5  SULI       Columbia University in the City of New York
+          7  SULI       State University of New York College at Geneseo
+          6  SULI       Rochester Institute of Technology
           5  CCI        City University of New York Bronx Community College
-          5  SULI       University at Albany, SUNY
-          5  SULI       City University of New York Medger Evers College
+          5  SULI       Polytechnic Institute of New York University
           4  SULI       State University of New York College of Environmental Science and Forestry
           4  SULI       Suffolk County Community College Ammerman Campus
-          4  SULI       Clarkson University
-          4  SULI       City University of New York Hunter College
-          4  SULI       State University of New York at New Paltz
-          4  SULI       University at Buffalo-SUNY
-          4  SULI       State University of New York College at Oswego
-          3  CCI        Genesee Community College
-          3  SULI       University of Rochester
-          3  SULI       Ithaca College
-          3  SULI       State University of New York College at Oneonta
-          3  SULI       State University of New York College at Old Westbury
+          3  SULI       Clarkson University
           3  SULI       Hofstra University
-          3  SULI       Fordham University
-          3  SULI       Paul Smith's College
+          3  SULI       University of Rochester
+          3  SULI       University at Buffalo-SUNY
+          3  SULI       State University of New York at New Paltz
+          3  SULI       City University of New York Hunter College
+          3  SULI       City University of New York Medger Evers College
+          3  SULI       State University of New York College at Old Westbury
           3  SULI       Colgate University
-          2  SULI       Syracuse University Main Campus
+          3  SULI       State University of New York College at Oneonta
+          3  SULI       Fordham University
+          2  SULI       State University of New York College at Oswego
           2  SULI       State University of New York College at Plattsburgh
+          2  SULI       Paul Smith's College
           2  SULI       State University of New York College of Agriculture and Technology at Cobleskill
           2  SULI       Vassar College
           2  SULI       Dowling College
-          2  SULI       City University of New York Queens College
+          2  SULI       Columbia University in the City of New York
           2  SULI       Hudson Valley Community College
           2  SULI       Hartwick College
-          2  SULI       New York Institute of Technology
+          1  CCI        Genesee Community College
           1  CCI        Hostos Community College-City University of New York
+          1  SULI       Syracuse University Main Campus
           1  CCI        Jefferson Community College
-          1  CCI        Monroe Community College
-          1  SULI       Adelphi University
-          1  SULI       Binghamton University
           1  SULI       Canisius College
           1  SULI       City University of New York Bronx Community College
           1  SULI       City University of New York Brooklyn College
+          1  SULI       City University of New York Queens College
           1  SULI       New York University
           1  SULI       DeVry College of New York
+          1  SULI       New York Institute of Technology
           1  SULI       Hamilton College
           1  SULI       Houghton College
           1  SULI       State University of New York College at Buffalo
           1  SULI       Skidmore College
           1  SULI       Siena College
+          1  SULI       Ithaca College
           1  SULI       Marist College
           1  SULI       Nazareth College of Rochester
-          1  SULI       Long Island University
 ```
 ---
 ---
@@ -313,98 +311,79 @@ In the past 8 years, this district has received:<b> $84,983,311 </b>in NSF MPS g
   2012  THE RESEARCH FOUNDATION OF STATE UNIVERSITY O                     6,528,484
 ```
 ## SULI/CCI Interns
-From 2014-2016 (only years available), this district had 93 SULI/CCI interns
+From 2014-2016 (only years available), this district had 74 SULI/CCI interns
 ```
 Term         Name                             College                                            Host Lab                                        Program
 -----------  -------------------------------  -------------------------------------------------  ----------------------------------------------  ---------
+Summer 2016  Derek Squires                    State University of New York at Stony Brook        Brookhaven National Laboratory                  SULI
+Summer 2016  Alexander Muller                 State University of New York at Stony Brook        Brookhaven National Laboratory                  SULI
 Summer 2016  Emily Jean Gass                  State University of New York at Stony Brook        Brookhaven National Laboratory                  SULI
-Summer 2016  Carmenn Ooi                      State University of New York at Stony Brook        Brookhaven National Laboratory                  SULI
-Summer 2016  Daniel Cacace                    State University of New York at Stony Brook        Brookhaven National Laboratory                  SULI
-Summer 2016  Taylor Lynn Campbell             State University of New York at Stony Brook        Brookhaven National Laboratory                  SULI
-Summer 2016  Gavyn P Hagemann                 State University of New York at Stony Brook        Brookhaven National Laboratory                  SULI
 Summer 2016  Jie Hu                           State University of New York at Stony Brook        Brookhaven National Laboratory                  SULI
-Summer 2016  Jian Huang                       State University of New York at Stony Brook        Brookhaven National Laboratory                  SULI
 Summer 2016  Wayne Scott Johnson Jr           State University of New York at Stony Brook        Brookhaven National Laboratory                  SULI
 Summer 2016  Kyle Henry Johnson               State University of New York at Stony Brook        Brookhaven National Laboratory                  SULI
-Summer 2016  Spencer Ean Laddy-Locks          State University of New York at Stony Brook        Brookhaven National Laboratory                  SULI
 Summer 2016  Ryan James Latsko-Hilbert        State University of New York at Stony Brook        Brookhaven National Laboratory                  SULI
 Summer 2016  Christina May Moore              State University of New York at Stony Brook        Brookhaven National Laboratory                  SULI
-Summer 2016  Alexander Muller                 State University of New York at Stony Brook        Brookhaven National Laboratory                  SULI
-Summer 2016  Daniel Marc Purschke             State University of New York at Stony Brook        Brookhaven National Laboratory                  SULI
-Summer 2016  Rishi Anand                      State University of New York at Stony Brook        Brookhaven National Laboratory                  SULI
+Summer 2016  Carmenn Ooi                      State University of New York at Stony Brook        Brookhaven National Laboratory                  SULI
+Summer 2016  Shariq Rafi Syed                 Suffolk County Community College Ammerman Campus   Brookhaven National Laboratory                  CCI
 Summer 2016  Rajith Radhakrishnan             State University of New York at Stony Brook        Brookhaven National Laboratory                  SULI
 Summer 2016  Arthur Ronne                     State University of New York at Stony Brook        Brookhaven National Laboratory                  SULI
-Summer 2016  Derek Squires                    State University of New York at Stony Brook        Brookhaven National Laboratory                  SULI
+Summer 2016  Samantha Ashley Miller           Saint Joseph's College, New York - Suffolk Campus  Brookhaven National Laboratory                  SULI
 Summer 2016  Brandon Levent Yalin             State University of New York at Stony Brook        Brookhaven National Laboratory                  SULI
+Summer 2016  Christin Elliott                 Saint Joseph's College, New York - Suffolk Campus  Brookhaven National Laboratory                  SULI
 Summer 2016  Sabrina Marie Santiago           Suffolk County Community College Ammerman Campus   Brookhaven National Laboratory                  SULI
+Summer 2016  Taylor Lynn Campbell             State University of New York at Stony Brook        Brookhaven National Laboratory                  SULI
+Summer 2016  Rishi Anand                      State University of New York at Stony Brook        Brookhaven National Laboratory                  SULI
 Summer 2016  Lucia Mallozzi                   Suffolk County Community College Ammerman Campus   Idaho National Laboratory                       CCI
 Summer 2016  Bianca Paul                      Suffolk County Community College Ammerman Campus   Pacific Northwest National Laboratory           CCI
-Summer 2016  Shariq Rafi Syed                 Suffolk County Community College Ammerman Campus   Brookhaven National Laboratory                  CCI
-Summer 2016  Melissa Dejesus                  Saint Joseph's College, New York - Suffolk Campus  Brookhaven National Laboratory                  SULI
-Summer 2016  Christin Elliott                 Saint Joseph's College, New York - Suffolk Campus  Brookhaven National Laboratory                  SULI
-Summer 2016  Matthew Joseph Harris            Saint Joseph's College, New York - Suffolk Campus  Brookhaven National Laboratory                  SULI
-Summer 2016  John Leonard Buckheit            State University of New York at Stony Brook        Brookhaven National Laboratory                  SULI
-Summer 2016  Samantha Ashley Miller           Saint Joseph's College, New York - Suffolk Campus  Brookhaven National Laboratory                  SULI
 Summer 2015  Spencer Ean Laddy-Locks          State University of New York at Stony Brook        Brookhaven National Laboratory                  SULI
-Summer 2015  Jie Hu                           State University of New York at Stony Brook        Brookhaven National Laboratory                  SULI
-Summer 2015  Timothy Maggio                   Suffolk County Community College Ammerman Campus   Brookhaven National Laboratory                  CCI
-Summer 2015  Do Om                            Suffolk County Community College Ammerman Campus   Brookhaven National Laboratory                  CCI
-Summer 2015  Bianca Paul                      Suffolk County Community College Ammerman Campus   Pacific Northwest National Laboratory           CCI
-Summer 2015  Ammara Saeed                     Suffolk County Community College Ammerman Campus   Brookhaven National Laboratory                  CCI
-Summer 2015  Derek Squires                    Suffolk County Community College Ammerman Campus   Brookhaven National Laboratory                  CCI
-Summer 2015  Hannah Leonard                   State University of New York at Stony Brook        Lawrence Berkeley National Laboratory           SULI
-Summer 2015  Samantha Ashley Miller           Saint Joseph's College, New York - Suffolk Campus  Brookhaven National Laboratory                  SULI
-Summer 2015  Thomas Eric Smith                Saint Joseph's College, New York - Suffolk Campus  Brookhaven National Laboratory                  SULI
-Summer 2015  Matthew R Stitt                  Saint Joseph's College, New York - Suffolk Campus  Brookhaven National Laboratory                  SULI
 Summer 2015  Nawal Ahmed                      State University of New York at Stony Brook        Brookhaven National Laboratory                  SULI
+Summer 2015  Ammara Saeed                     Suffolk County Community College Ammerman Campus   Brookhaven National Laboratory                  CCI
+Summer 2015  Do Om                            Suffolk County Community College Ammerman Campus   Brookhaven National Laboratory                  CCI
+Summer 2015  Timothy Maggio                   Suffolk County Community College Ammerman Campus   Brookhaven National Laboratory                  CCI
+Summer 2015  Lindsay Bonich                   Suffolk County Community College Ammerman Campus   Brookhaven National Laboratory                  CCI
+Summer 2015  Thomas Eric Smith                Saint Joseph's College, New York - Suffolk Campus  Brookhaven National Laboratory                  SULI
+Summer 2015  Bianca Paul                      Suffolk County Community College Ammerman Campus   Pacific Northwest National Laboratory           CCI
+Summer 2015  Elad Michael                     State University of New York at Stony Brook        Lawrence Berkeley National Laboratory           SULI
+Summer 2015  Jessica Li                       State University of New York at Stony Brook        Brookhaven National Laboratory                  SULI
+Summer 2015  Hannah Leonard                   State University of New York at Stony Brook        Lawrence Berkeley National Laboratory           SULI
+Summer 2015  Nicole LiBretto                  State University of New York at Stony Brook        Lawrence Berkeley National Laboratory           SULI
+Summer 2015  Derek Squires                    Suffolk County Community College Ammerman Campus   Brookhaven National Laboratory                  CCI
 Summer 2015  Taylor Lynn Campbell             State University of New York at Stony Brook        Brookhaven National Laboratory                  SULI
 Summer 2015  Dhruv Dixit                      State University of New York at Stony Brook        Brookhaven National Laboratory                  SULI
-Summer 2015  Shawn Hoose                      State University of New York at Stony Brook        Brookhaven National Laboratory                  SULI
-Summer 2015  Daniel Cacace                    State University of New York at Stony Brook        Brookhaven National Laboratory                  SULI
-Summer 2015  Mark Vincent Jensen              State University of New York at Stony Brook        Brookhaven National Laboratory                  SULI
-Summer 2015  rajith radhakrishnan             State University of New York at Stony Brook        Brookhaven National Laboratory                  SULI
-Summer 2015  Jessica Li                       State University of New York at Stony Brook        Brookhaven National Laboratory                  SULI
-Summer 2015  Nicole LiBretto                  State University of New York at Stony Brook        Lawrence Berkeley National Laboratory           SULI
 Summer 2015  Jake Lindberg                    State University of New York at Stony Brook        Brookhaven National Laboratory                  SULI
-Summer 2015  Helen Liu                        State University of New York at Stony Brook        Brookhaven National Laboratory                  SULI
-Summer 2015  Raffaele Miceli                  State University of New York at Stony Brook        Brookhaven National Laboratory                  SULI
-Summer 2015  Elad Michael                     State University of New York at Stony Brook        Lawrence Berkeley National Laboratory           SULI
+Summer 2015  Shawn Hoose                      State University of New York at Stony Brook        Brookhaven National Laboratory                  SULI
+Summer 2015  Jie Hu                           State University of New York at Stony Brook        Brookhaven National Laboratory                  SULI
+Summer 2015  Mark Vincent Jensen              State University of New York at Stony Brook        Brookhaven National Laboratory                  SULI
 Summer 2015  Casey Robert Vieni               State University of New York at Stony Brook        Brookhaven National Laboratory                  SULI
-Summer 2015  Lindsay Bonich                   Suffolk County Community College Ammerman Campus   Brookhaven National Laboratory                  CCI
-Summer 2015  Michael John Severance           State University of New York at Stony Brook        Brookhaven National Laboratory                  SULI
-Summer 2015  Lauren Sprung                    State University of New York at Stony Brook        Brookhaven National Laboratory                  SULI
+Summer 2015  Daniel Cacace                    State University of New York at Stony Brook        Brookhaven National Laboratory                  SULI
+Summer 2015  rajith radhakrishnan             State University of New York at Stony Brook        Brookhaven National Laboratory                  SULI
 Summer 2015  Dennis Tao                       State University of New York at Stony Brook        Brookhaven National Laboratory                  SULI
 Summer 2015  Ilana Teplitsky                  State University of New York at Stony Brook        Brookhaven National Laboratory                  SULI
-Summer 2014  James Thomas Young               Saint Joseph's College, New York - Suffolk Campus  Brookhaven National Laboratory                  SULI
-Summer 2014  Thomas Eric Smith                Saint Joseph's College, New York - Suffolk Campus  Brookhaven National Laboratory                  SULI
 Summer 2014  Daniel Cisek                     Saint Joseph's College, New York - Suffolk Campus  Brookhaven National Laboratory                  SULI
-Summer 2014  Alissa Michelle Bruno            Saint Joseph's College, New York - Suffolk Campus  Lawrence Berkeley National Laboratory           SULI
-Summer 2014  Thomas Fasano                    State University of New York at Stony Brook        Brookhaven National Laboratory                  SULI
-Summer 2014  BRENNY FELIZ                     State University of New York at Stony Brook        Brookhaven National Laboratory                  SULI
-Summer 2014  Mark Vincent Jensen              State University of New York at Stony Brook        Brookhaven National Laboratory                  SULI
-Summer 2014  Alison Egbon                     State University of New York at Stony Brook        Brookhaven National Laboratory                  SULI
-Summer 2014  Derek Squires                    Suffolk County Community College Ammerman Campus   Brookhaven National Laboratory                  CCI
-Summer 2014  Stefani Ahsanov                  State University of New York at Stony Brook        Brookhaven National Laboratory                  SULI
+Summer 2014  Hannah Leonard                   State University of New York at Stony Brook        Lawrence Berkeley National Laboratory           SULI
 Summer 2014  Eric Richard Ruhoy               Saint Joseph's College, New York - Suffolk Campus  Brookhaven National Laboratory                  SULI
-Summer 2014  Paul Andrew Philipsberg          State University of New York at Stony Brook        Brookhaven National Laboratory                  SULI
-Summer 2014  Jonathan Matthew Millings        Suffolk County Community College Ammerman Campus   Brookhaven National Laboratory                  CCI
+Summer 2014  Thomas Eric Smith                Saint Joseph's College, New York - Suffolk Campus  Brookhaven National Laboratory                  SULI
 Summer 2014  William Roh                      State University of New York at Stony Brook        Thomas Jefferson National Accelerator Facility  SULI
-Summer 2014  Casey Robert Vieni               State University of New York at Stony Brook        Brookhaven National Laboratory                  SULI
-Summer 2014  ilia vardishvili                 State University of New York at Stony Brook        Brookhaven National Laboratory                  SULI
+Summer 2014  Alissa Michelle Bruno            Saint Joseph's College, New York - Suffolk Campus  Lawrence Berkeley National Laboratory           SULI
+Summer 2014  James Thomas Young               Saint Joseph's College, New York - Suffolk Campus  Brookhaven National Laboratory                  SULI
 Summer 2014  Fernando Taone Torales - Acosta  State University of New York at Stony Brook        Thomas Jefferson National Accelerator Facility  SULI
-Summer 2014  Andrew Sung                      State University of New York at Stony Brook        Brookhaven National Laboratory                  SULI
-Summer 2014  Christina Marie Snyder           State University of New York at Stony Brook        Brookhaven National Laboratory                  SULI
-Summer 2014  Timothy Leeney                   Suffolk County Community College Ammerman Campus   Brookhaven National Laboratory                  CCI
-Summer 2014  Valerie Marie Sabatasso          State University of New York at Stony Brook        Brookhaven National Laboratory                  SULI
+Summer 2014  Stefani Ahsanov                  State University of New York at Stony Brook        Brookhaven National Laboratory                  SULI
+Summer 2014  Thomas Fasano                    State University of New York at Stony Brook        Brookhaven National Laboratory                  SULI
 Summer 2014  Michael John Severance           State University of New York at Stony Brook        Brookhaven National Laboratory                  SULI
-Summer 2014  Jessica Li                       State University of New York at Stony Brook        Brookhaven National Laboratory                  SULI
+Summer 2014  Christina Marie Snyder           State University of New York at Stony Brook        Brookhaven National Laboratory                  SULI
+Summer 2014  Andrew Sung                      State University of New York at Stony Brook        Brookhaven National Laboratory                  SULI
+Summer 2014  BRENNY FELIZ                     State University of New York at Stony Brook        Brookhaven National Laboratory                  SULI
+Summer 2014  Derek Squires                    Suffolk County Community College Ammerman Campus   Brookhaven National Laboratory                  CCI
+Summer 2014  ilia vardishvili                 State University of New York at Stony Brook        Brookhaven National Laboratory                  SULI
+Summer 2014  Valerie Marie Sabatasso          State University of New York at Stony Brook        Brookhaven National Laboratory                  SULI
+Summer 2014  Mark Vincent Jensen              State University of New York at Stony Brook        Brookhaven National Laboratory                  SULI
 Summer 2014  Anthony Joseph Borrelli          Suffolk County Community College Ammerman Campus   Brookhaven National Laboratory                  SULI
 Summer 2014  Ryan James Latsko-Hilbert        Suffolk County Community College Ammerman Campus   Brookhaven National Laboratory                  SULI
 Summer 2014  Zach Strum                       Suffolk County Community College Ammerman Campus   Brookhaven National Laboratory                  SULI
-Summer 2014  Hannah Leonard                   State University of New York at Stony Brook        Lawrence Berkeley National Laboratory           SULI
 Summer 2014  Meghan Ashley Donnelly           Suffolk County Community College Ammerman Campus   Brookhaven National Laboratory                  CCI
-Spring 2016  Lindsay Bonich                   Suffolk County Community College Ammerman Campus   Brookhaven National Laboratory                  CCI
+Summer 2014  Jonathan Matthew Millings        Suffolk County Community College Ammerman Campus   Brookhaven National Laboratory                  CCI
 Spring 2016  Daniel Cisek                     Saint Joseph's College, New York - Suffolk Campus  Brookhaven National Laboratory                  SULI
+Spring 2016  Lindsay Bonich                   Suffolk County Community College Ammerman Campus   Brookhaven National Laboratory                  CCI
 Spring 2015  Stefani Ahsanov                  State University of New York at Stony Brook        Lawrence Berkeley National Laboratory           SULI
 Spring 2015  Bath-sheva Sholomson             State University of New York at Stony Brook        Lawrence Berkeley National Laboratory           SULI
 Spring 2014  Lizhen Tan                       State University of New York at Stony Brook        Lawrence Berkeley National Laboratory           SULI
@@ -470,16 +449,14 @@ In the past 8 years, this district has received:<b> $1,449,910 </b>in NSF MPS gr
   2012  LONG ISLAND UNIVERSITY               60,000
 ```
 ## SULI/CCI Interns
-From 2014-2016 (only years available), this district had 6 SULI/CCI interns
+From 2014-2016 (only years available), this district had 4 SULI/CCI interns
 ```
-Term         Name                  College                                               Host Lab                               Program
------------  --------------------  ----------------------------------------------------  -------------------------------------  ---------
-Summer 2016  Paul Kenneth Norian   New York Institute of Technology                      National Renewable Energy Laboratory   SULI
-Summer 2016  John Anthony Pavacic  Long Island University                                Brookhaven National Laboratory         SULI
-Summer 2015  Alyson Abraham        State University of New York College at Old Westbury  Brookhaven National Laboratory         SULI
-Summer 2015  balal Aslam           New York Institute of Technology                      Brookhaven National Laboratory         SULI
-Spring 2015  Leonard Chavannes     State University of New York College at Old Westbury  Lawrence Berkeley National Laboratory  SULI
-Fall 2014    Leonard Chavannes     State University of New York College at Old Westbury  Brookhaven National Laboratory         SULI
+Term         Name               College                                               Host Lab                               Program
+-----------  -----------------  ----------------------------------------------------  -------------------------------------  ---------
+Summer 2015  Alyson Abraham     State University of New York College at Old Westbury  Brookhaven National Laboratory         SULI
+Summer 2015  balal Aslam        New York Institute of Technology                      Brookhaven National Laboratory         SULI
+Spring 2015  Leonard Chavannes  State University of New York College at Old Westbury  Lawrence Berkeley National Laboratory  SULI
+Fall 2014    Leonard Chavannes  State University of New York College at Old Westbury  Brookhaven National Laboratory         SULI
 ```
 ---
 <a name="NY-04"></a>
@@ -505,12 +482,11 @@ In the past 8 years, this district has received:<b> $111,248 </b>in NSF MPS gran
   2017  ADELPHI UNIVERSITY        30,000
 ```
 ## SULI/CCI Interns
-From 2014-2016 (only years available), this district had 4 SULI/CCI interns
+From 2014-2016 (only years available), this district had 3 SULI/CCI interns
 ```
 Term         Name                         College             Host Lab                        Program
 -----------  ---------------------------  ------------------  ------------------------------  ---------
 Summer 2016  Matthew Joesph Kallicharran  Hofstra University  Brookhaven National Laboratory  SULI
-Summer 2016  Fernanda Murillo             Adelphi University  Brookhaven National Laboratory  SULI
 Summer 2015  Michael Nicholas Nino        Hofstra University  Brookhaven National Laboratory  SULI
 Summer 2014  Claire Marie Weaver          Hofstra University  Brookhaven National Laboratory  SULI
 ```
@@ -585,11 +561,10 @@ In the past 8 years, this district has received:<b> $5,850,652 </b>in NSF MPS gr
   2012  ST JOHN'S UNIVERSITY, NEW YORK                               153,360
 ```
 ## SULI/CCI Interns
-From 2014-2016 (only years available), this district had 11 SULI/CCI interns
+From 2014-2016 (only years available), this district had 10 SULI/CCI interns
 ```
 Term         Name                    College                                                      Host Lab                        Program
 -----------  ----------------------  -----------------------------------------------------------  ------------------------------  ---------
-Summer 2016  Eddie D Fernandez       City University of New York Queens College                   Brookhaven National Laboratory  SULI
 Summer 2016  Nida Imtiaz             DeVry College of New York                                    Brookhaven National Laboratory  SULI
 Summer 2016  Jonathan Bernal         City University of New York Queensborough Community College  Brookhaven National Laboratory  CCI
 Summer 2016  Kristina Papacostas     City University of New York Queensborough Community College  Brookhaven National Laboratory  CCI
@@ -598,8 +573,8 @@ Summer 2016  Chanele Rodriguez       City University of New York Queensborough C
 Summer 2016  David Salazar           City University of New York Queensborough Community College  Brookhaven National Laboratory  CCI
 Summer 2015  Chanele Rodriguez       City University of New York Queensborough Community College  Brookhaven National Laboratory  CCI
 Summer 2015  Emely Rosario           City University of New York Queensborough Community College  Brookhaven National Laboratory  CCI
-Summer 2014  Alyssa Faye Blumenthal  City University of New York Queens College                   Argonne National Laboratory     SULI
 Summer 2014  Damian Ewko             City University of New York Queensborough Community College  Brookhaven National Laboratory  CCI
+Summer 2014  Alyssa Faye Blumenthal  City University of New York Queens College                   Argonne National Laboratory     SULI
 ```
 ---
 <a name="NY-07"></a>
@@ -632,23 +607,20 @@ In the past 8 years, this district has received:<b> $295,487 </b>in NSF MPS gran
   2013  RESEARCH FOUNDATION OF THE CITY UNIVERSITY OF        15,000
 ```
 ## SULI/CCI Interns
-From 2014-2016 (only years available), this district had 15 SULI/CCI interns
+From 2014-2016 (only years available), this district had 12 SULI/CCI interns
 ```
 Term         Name                       College                                                          Host Lab                              Program
 -----------  -------------------------  ---------------------------------------------------------------  ------------------------------------  ---------
 Summer 2016  Javier Joya                New York City College of Technology/City University of New York  Brookhaven National Laboratory        SULI
-Summer 2016  Soren Cheng                Polytechnic Institute of New York University                     Brookhaven National Laboratory        SULI
 Summer 2015  Prantick K Dhar            New York City College of Technology/City University of New York  Brookhaven National Laboratory        SULI
-Summer 2015  Elizabeth Rosenzweig       New York City College of Technology/City University of New York  Oak Ridge National Laboratory         SULI
 Summer 2015  Soren Cheng                Polytechnic Institute of New York University                     Brookhaven National Laboratory        SULI
 Summer 2015  Rajeev Jonathan Seemungal  Polytechnic Institute of New York University                     Brookhaven National Laboratory        SULI
+Summer 2015  Elizabeth Rosenzweig       New York City College of Technology/City University of New York  Oak Ridge National Laboratory         SULI
 Summer 2014  Mamadou Misbaou Bah        New York City College of Technology/City University of New York  Brookhaven National Laboratory        SULI
 Summer 2014  Kayle Jamil Corneill       New York City College of Technology/City University of New York  Brookhaven National Laboratory        SULI
 Summer 2014  Milor Louis                New York City College of Technology/City University of New York  Brookhaven National Laboratory        SULI
 Summer 2014  suhua zeng                 New York City College of Technology/City University of New York  Brookhaven National Laboratory        SULI
-Summer 2014  Rajeev Jonathan Seemungal  Polytechnic Institute of New York University                     Brookhaven National Laboratory        SULI
 Summer 2014  Louis Tessler              Polytechnic Institute of New York University                     SLAC National Accelerator Laboratory  SULI
-Summer 2014  Christine Truong           Polytechnic Institute of New York University                     Brookhaven National Laboratory        SULI
 Spring 2015  Adrian Guillermo Hurtado   Polytechnic Institute of New York University                     Brookhaven National Laboratory        SULI
 Fall 2014    Adrian Guillermo Hurtado   Polytechnic Institute of New York University                     Brookhaven National Laboratory        SULI
 ```
@@ -719,15 +691,13 @@ In the past 8 years, this district has received:<b> $2,634,840 </b>in NSF MPS gr
   2012  RESEARCH FOUNDATION OF THE CITY UNIVERSITY OF                562,844
 ```
 ## SULI/CCI Interns
-From 2014-2016 (only years available), this district had 6 SULI/CCI interns
+From 2014-2016 (only years available), this district had 4 SULI/CCI interns
 ```
 Term         Name                        College                                           Host Lab                        Program
 -----------  --------------------------  ------------------------------------------------  ------------------------------  ---------
 Summer 2016  Crystal Latisha Abrams      City University of New York Medger Evers College  Brookhaven National Laboratory  SULI
-Spring 2016  Crystal Latisha Abrams      City University of New York Medger Evers College  Brookhaven National Laboratory  SULI
 Spring 2014  Ruma Hoque                  City University of New York Medger Evers College  Brookhaven National Laboratory  SULI
 Spring 2014  Nneka Estee Joyette-Daniel  City University of New York Medger Evers College  Brookhaven National Laboratory  SULI
-Fall 2014    Olivia Wiggins              City University of New York Medger Evers College  Brookhaven National Laboratory  SULI
 Fall 2014    Anna Tsygelnytska           City University of New York Brooklyn College      Brookhaven National Laboratory  SULI
 ```
 ---
@@ -792,16 +762,13 @@ In the past 8 years, this district has received:<b> $152,239,000 </b>in NSF MPS 
   2012  POLYTECHNIC INSTITUTE OF NEW YORK UNIVERSITY        724,222
 ```
 ## SULI/CCI Interns
-From 2014-2016 (only years available), this district had 6 SULI/CCI interns
+From 2014-2016 (only years available), this district had 3 SULI/CCI interns
 ```
-Term         Name                College                                      Host Lab                               Program
------------  ------------------  -------------------------------------------  -------------------------------------  ---------
-Summer 2016  Ben Yehuda Israeli  Columbia University in the City of New York  Princeton Plasma Physics Laboratory    SULI
-Summer 2015  Sarah Berlinger     Columbia University in the City of New York  Lawrence Berkeley National Laboratory  SULI
-Summer 2015  Ben Yehuda Israeli  Columbia University in the City of New York  Princeton Plasma Physics Laboratory    SULI
-Summer 2015  Yuxin Wang          New York University                          Los Alamos National Laboratory         SULI
-Summer 2014  Nathaniel Posey     Columbia University in the City of New York  Princeton Plasma Physics Laboratory    SULI
-Summer 2014  Erik B Schiferle    Columbia University in the City of New York  Ames National Laboratory               SULI
+Term         Name                College                                      Host Lab                             Program
+-----------  ------------------  -------------------------------------------  -----------------------------------  ---------
+Summer 2015  Ben Yehuda Israeli  Columbia University in the City of New York  Princeton Plasma Physics Laboratory  SULI
+Summer 2015  Yuxin Wang          New York University                          Los Alamos National Laboratory       SULI
+Summer 2014  Nathaniel Posey     Columbia University in the City of New York  Princeton Plasma Physics Laboratory  SULI
 ```
 ---
 <a name="NY-11"></a>
@@ -901,17 +868,16 @@ In the past 8 years, this district has received:<b> $8,112,990 </b>in NSF MPS gr
   2012  MULTIPLE RECIPIENTS                                           92,836
 ```
 ## SULI/CCI Interns
-From 2014-2016 (only years available), this district had 12 SULI/CCI interns
+From 2014-2016 (only years available), this district had 11 SULI/CCI interns
 ```
 Term         Name                            College                                       Host Lab                        Program
 -----------  ------------------------------  --------------------------------------------  ------------------------------  ---------
 Summer 2016  Anna Mcgilloway                 City University of New York The City College  Brookhaven National Laboratory  SULI
 Summer 2016  Jessica Mele                    City University of New York The City College  Brookhaven National Laboratory  SULI
 Summer 2016  Allison I Villegas Roman        City University of New York Hunter College    Argonne National Laboratory     SULI
-Summer 2015  Md Raqibul Islam                City University of New York The City College  Los Alamos National Laboratory  SULI
 Summer 2015  Jessica Mele                    City University of New York The City College  Brookhaven National Laboratory  SULI
 Summer 2015  Christine Hirt                  City University of New York Hunter College    Brookhaven National Laboratory  SULI
-Summer 2015  Yeeren Low                      City University of New York Hunter College    Brookhaven National Laboratory  SULI
+Summer 2015  Md Raqibul Islam                City University of New York The City College  Los Alamos National Laboratory  SULI
 Summer 2014  Magdalena Rozalia Andrzejewska  City University of New York The City College  Brookhaven National Laboratory  SULI
 Summer 2014  Ricky B Bhola                   City University of New York The City College  Brookhaven National Laboratory  SULI
 Summer 2014  Salima Varese                   City University of New York The City College  Brookhaven National Laboratory  SULI
@@ -1195,7 +1161,7 @@ In the past 8 years, this district has received:<b> $756,305 </b>in NSF MPS gran
   2012  VASSAR COLLEGE                                                       75,000
 ```
 ## SULI/CCI Interns
-From 2014-2016 (only years available), this district had 11 SULI/CCI interns
+From 2014-2016 (only years available), this district had 10 SULI/CCI interns
 ```
 Term         Name                  College                                                                           Host Lab                              Program
 -----------  --------------------  --------------------------------------------------------------------------------  ------------------------------------  ---------
@@ -1206,7 +1172,6 @@ Summer 2015  Kyle Henry Johnson    State University of New York College at Oneon
 Summer 2015  MAMOUDOU BA           State University of New York at New Paltz                                         Brookhaven National Laboratory        SULI
 Summer 2015  Alexander Gibson      Hartwick College                                                                  SLAC National Accelerator Laboratory  SULI
 Summer 2014  Erica Bornoft         State University of New York College at Oneonta                                   Brookhaven National Laboratory        SULI
-Summer 2014  Ilana Leigh Heckler   State University of New York at New Paltz                                         Brookhaven National Laboratory        SULI
 Summer 2014  Alicia Marie Pomeroy  State University of New York College of Agriculture and Technology at Cobleskill  Brookhaven National Laboratory        SULI
 Summer 2014  Amanda Vescovi        State University of New York College of Agriculture and Technology at Cobleskill  Brookhaven National Laboratory        SULI
 Fall 2015    Kathleen Westervelt   State University of New York at New Paltz                                         Argonne National Laboratory           SULI
@@ -1278,35 +1243,26 @@ In the past 8 years, this district has received:<b> $24,969,772 </b>in NSF MPS g
   2012  BARD COLLEGE                                                                          2,000
 ```
 ## SULI/CCI Interns
-From 2014-2016 (only years available), this district had 26 SULI/CCI interns
+From 2014-2016 (only years available), this district had 17 SULI/CCI interns
 ```
 Term         Name                    College                           Host Lab                                Program
 -----------  ----------------------  --------------------------------  --------------------------------------  ---------
 Summer 2016  Brenna Bonnie Buckley   Rensselaer Polytechnic Institute  Brookhaven National Laboratory          SULI
-Summer 2016  J Parker Hamren         Rensselaer Polytechnic Institute  Lawrence Livermore National Laboratory  SULI
-Summer 2016  Shresht Joshi           University at Albany, SUNY        Brookhaven National Laboratory          SULI
-Summer 2016  Rachel Ann Genzer       University at Albany, SUNY        Brookhaven National Laboratory          SULI
-Summer 2016  Michael Dolce           University at Albany, SUNY        Brookhaven National Laboratory          SULI
-Summer 2016  Amanda Lewis            Rensselaer Polytechnic Institute  Brookhaven National Laboratory          SULI
-Summer 2016  Riley Joinnides         Rensselaer Polytechnic Institute  Brookhaven National Laboratory          SULI
 Summer 2016  Amanda Depoian          Siena College                     Brookhaven National Laboratory          SULI
+Summer 2016  J Parker Hamren         Rensselaer Polytechnic Institute  Lawrence Livermore National Laboratory  SULI
 Summer 2015  Amanda Lewis            Rensselaer Polytechnic Institute  Princeton Plasma Physics Laboratory     SULI
-Summer 2015  Alex De Palma           University at Albany, SUNY        Ames National Laboratory                SULI
+Summer 2015  Thomas John DeMartino   Rensselaer Polytechnic Institute  Brookhaven National Laboratory          SULI
+Summer 2015  Amanda Rose Gallo       Rensselaer Polytechnic Institute  Brookhaven National Laboratory          SULI
+Summer 2015  Ferheen Qureshi         Rensselaer Polytechnic Institute  Brookhaven National Laboratory          SULI
 Summer 2015  Angelika Rothberg       Rensselaer Polytechnic Institute  Brookhaven National Laboratory          SULI
 Summer 2015  Joseph Sutton           Rensselaer Polytechnic Institute  Brookhaven National Laboratory          SULI
 Summer 2015  Matthew Daly Zimmer     Rensselaer Polytechnic Institute  Lawrence Livermore National Laboratory  SULI
-Summer 2015  Amanda Rose Gallo       Rensselaer Polytechnic Institute  Brookhaven National Laboratory          SULI
-Summer 2015  Thomas John DeMartino   Rensselaer Polytechnic Institute  Brookhaven National Laboratory          SULI
-Summer 2015  Ferheen Qureshi         Rensselaer Polytechnic Institute  Brookhaven National Laboratory          SULI
-Summer 2014  Robert Jacoby           Rensselaer Polytechnic Institute  Brookhaven National Laboratory          SULI
-Summer 2014  Hannah Nelson           Rensselaer Polytechnic Institute  Brookhaven National Laboratory          SULI
-Summer 2014  Josue San Emeterio      Rensselaer Polytechnic Institute  Ames National Laboratory                SULI
-Summer 2014  Emily Ruth Singer       Skidmore College                  Brookhaven National Laboratory          SULI
-Summer 2014  Katherine Towey         University at Albany, SUNY        Brookhaven National Laboratory          SULI
-Summer 2014  Megan Frances Wart      Rensselaer Polytechnic Institute  Brookhaven National Laboratory          SULI
 Summer 2014  Benjamin Tyler Daniels  Rensselaer Polytechnic Institute  Brookhaven National Laboratory          SULI
+Summer 2014  Emily Ruth Singer       Skidmore College                  Brookhaven National Laboratory          SULI
+Summer 2014  Hannah Nelson           Rensselaer Polytechnic Institute  Brookhaven National Laboratory          SULI
+Summer 2014  Megan Frances Wart      Rensselaer Polytechnic Institute  Brookhaven National Laboratory          SULI
+Summer 2014  Josue San Emeterio      Rensselaer Polytechnic Institute  Ames National Laboratory                SULI
 Spring 2016  Kristen Brewster        Hudson Valley Community College   Brookhaven National Laboratory          SULI
-Spring 2014  Joseph Horne            Rensselaer Polytechnic Institute  Oak Ridge National Laboratory           SULI
 Fall 2015    Kristen Brewster        Hudson Valley Community College   Brookhaven National Laboratory          SULI
 ```
 ---
@@ -1348,20 +1304,18 @@ In the past 8 years, this district has received:<b> $8,124,368 </b>in NSF MPS gr
   2012  TRUSTEES OF UNION COLLEGE IN THE TOWN OF SCHE       776,206
 ```
 ## SULI/CCI Interns
-From 2014-2016 (only years available), this district had 10 SULI/CCI interns
+From 2014-2016 (only years available), this district had 8 SULI/CCI interns
 ```
-Term         Name                      College                                              Host Lab                              Program
------------  ------------------------  ---------------------------------------------------  ------------------------------------  ---------
-Summer 2016  Lisa Marie Marone         Clarkson University                                  Brookhaven National Laboratory        SULI
-Summer 2016  Emma Squires              Paul Smith's College                                 Brookhaven National Laboratory        SULI
-Summer 2016  Harry Erhardt Werner Iv   Jefferson Community College                          SLAC National Accelerator Laboratory  CCI
-Summer 2015  Alexander George Karlis   State University of New York College at Plattsburgh  Brookhaven National Laboratory        SULI
-Summer 2015  Taylor Ruhle              Paul Smith's College                                 Brookhaven National Laboratory        SULI
-Summer 2014  Orion Landauer Kafka      Clarkson University                                  Oak Ridge National Laboratory         SULI
-Summer 2014  Alexander Kafka Landauer  Clarkson University                                  Oak Ridge National Laboratory         SULI
-Summer 2014  Yarong Lin                Clarkson University                                  Oak Ridge National Laboratory         SULI
-Summer 2014  Cole Chrisitan Martin     State University of New York College at Plattsburgh  Argonne National Laboratory           SULI
-Fall 2014    Virginia Brink            Paul Smith's College                                 Brookhaven National Laboratory        SULI
+Term         Name                     College                                              Host Lab                              Program
+-----------  -----------------------  ---------------------------------------------------  ------------------------------------  ---------
+Summer 2016  Lisa Marie Marone        Clarkson University                                  Brookhaven National Laboratory        SULI
+Summer 2016  Harry Erhardt Werner Iv  Jefferson Community College                          SLAC National Accelerator Laboratory  CCI
+Summer 2015  Alexander George Karlis  State University of New York College at Plattsburgh  Brookhaven National Laboratory        SULI
+Summer 2015  Taylor Ruhle             Paul Smith's College                                 Brookhaven National Laboratory        SULI
+Summer 2014  Cole Chrisitan Martin    State University of New York College at Plattsburgh  Argonne National Laboratory           SULI
+Summer 2014  Orion Landauer Kafka     Clarkson University                                  Oak Ridge National Laboratory         SULI
+Summer 2014  Yarong Lin               Clarkson University                                  Oak Ridge National Laboratory         SULI
+Fall 2014    Virginia Brink           Paul Smith's College                                 Brookhaven National Laboratory        SULI
 ```
 ---
 <a name="NY-22"></a>
@@ -1415,28 +1369,25 @@ In the past 8 years, this district has received:<b> $70,616,369 </b>in NSF MPS g
   2012  CORNELL UNIVERSITY, INC                                          51,172,674
 ```
 ## SULI/CCI Interns
-From 2014-2016 (only years available), this district had 20 SULI/CCI interns
+From 2014-2016 (only years available), this district had 17 SULI/CCI interns
 ```
 Term         Name                       College                                     Host Lab                               Program
 -----------  -------------------------  ------------------------------------------  -------------------------------------  ---------
 Summer 2016  Kaden Badalian             State University of New York at Binghamton  Brookhaven National Laboratory         SULI
+Summer 2016  Cara Elizabeth Jozefowski  State University of New York at Binghamton  Brookhaven National Laboratory         SULI
 Summer 2016  Kathleen Chen              Colgate University                          Lawrence Berkeley National Laboratory  SULI
 Summer 2016  Brian Savona               State University of New York at Binghamton  Brookhaven National Laboratory         SULI
 Summer 2016  Matthew Petryk             State University of New York at Binghamton  Brookhaven National Laboratory         SULI
-Summer 2016  Cara Elizabeth Jozefowski  State University of New York at Binghamton  Brookhaven National Laboratory         SULI
-Summer 2015  Lauren Zipper              State University of New York at Binghamton  Brookhaven National Laboratory         SULI
-Summer 2015  Zachary Lebens             State University of New York at Binghamton  Brookhaven National Laboratory         SULI
 Summer 2015  Brandon Thomas Pereyra     State University of New York at Binghamton  National Renewable Energy Laboratory   SULI
+Summer 2015  Zachary Lebens             State University of New York at Binghamton  Brookhaven National Laboratory         SULI
 Summer 2015  Nicholas Tsirakis          State University of New York at Binghamton  Brookhaven National Laboratory         SULI
-Summer 2014  Wil Lieberman-Cribbin      Colgate University                          National Renewable Energy Laboratory   SULI
-Summer 2014  Matthew Chiulli            Binghamton University                       Brookhaven National Laboratory         SULI
+Summer 2015  Lauren Zipper              State University of New York at Binghamton  Brookhaven National Laboratory         SULI
 Summer 2014  Michelle Cerniglia         State University of New York at Binghamton  Brookhaven National Laboratory         SULI
 Summer 2014  Joseph Karp                State University of New York at Binghamton  Brookhaven National Laboratory         SULI
 Summer 2014  Lauren Zipper              State University of New York at Binghamton  Brookhaven National Laboratory         SULI
 Summer 2014  Nicholas Tsirakis          State University of New York at Binghamton  Brookhaven National Laboratory         SULI
 Summer 2014  Matthew Petryk             State University of New York at Binghamton  Brookhaven National Laboratory         SULI
-Summer 2014  Brandon Thomas Pereyra     State University of New York at Binghamton  National Renewable Energy Laboratory   SULI
-Summer 2014  Alex Frederick Koenig      State University of New York at Binghamton  Brookhaven National Laboratory         SULI
+Summer 2014  Wil Lieberman-Cribbin      Colgate University                          National Renewable Energy Laboratory   SULI
 Spring 2015  Wil Lieberman-Cribbin      Colgate University                          Brookhaven National Laboratory         SULI
 Spring 2015  Emma Taccardi              Hamilton College                            Lawrence Berkeley National Laboratory  SULI
 ```
@@ -1499,45 +1450,38 @@ In the past 8 years, this district has received:<b> $269,789,008 </b>in NSF MPS 
   2012  CLARKSON UNIVERSITY                                 426,156
 ```
 ## SULI/CCI Interns
-From 2014-2016 (only years available), this district had 36 SULI/CCI interns
+From 2014-2016 (only years available), this district had 29 SULI/CCI interns
 ```
 Term         Name                            College             Host Lab                                Program
 -----------  ------------------------------  ------------------  --------------------------------------  ---------
-Summer 2016  August Gula                     Houghton College    Brookhaven National Laboratory          SULI
-Summer 2016  Stacey Anne Sternberg           Cornell University  Brookhaven National Laboratory          SULI
-Summer 2016  Allison Pereira                 Cornell University  Brookhaven National Laboratory          SULI
-Summer 2016  Claire Yu Xue O'kane            Cornell University  Brookhaven National Laboratory          SULI
-Summer 2016  James Wei-Shan Noeckel          Cornell University  Pacific Northwest National Laboratory   SULI
 Summer 2016  Khloe Nicole Heath              Cornell University  SLAC National Accelerator Laboratory    SULI
-Summer 2016  Ian Thomas Fried                Cornell University  Argonne National Laboratory             SULI
 Summer 2016  Fletcher Chapin                 Cornell University  Oak Ridge National Laboratory           SULI
-Summer 2016  Jung-Eun Ahn                    Cornell University  Los Alamos National Laboratory          SULI
-Summer 2015  Yi-Chun (Kelly) Huang           Cornell University  National Renewable Energy Laboratory    SULI
-Summer 2015  Jeremy S. Poe                   Ithaca College      National Renewable Energy Laboratory    SULI
-Summer 2015  Rachel Barone                   Ithaca College      Argonne National Laboratory             SULI
-Summer 2015  Karann Putrevu                  Cornell University  Brookhaven National Laboratory          SULI
-Summer 2015  Zachary D Porter                Cornell University  SLAC National Accelerator Laboratory    SULI
-Summer 2015  Kevin James Palm                Cornell University  Brookhaven National Laboratory          SULI
-Summer 2015  Sophia Lai                      Cornell University  Oak Ridge National Laboratory           SULI
-Summer 2015  Haydn Reinhold Lenz             Cornell University  Pacific Northwest National Laboratory   SULI
-Summer 2015  Cari Lynn Gostic                Cornell University  Brookhaven National Laboratory          SULI
+Summer 2016  Claire Yu Xue O'kane            Cornell University  Brookhaven National Laboratory          SULI
+Summer 2016  Allison Pereira                 Cornell University  Brookhaven National Laboratory          SULI
+Summer 2016  Stacey Anne Sternberg           Cornell University  Brookhaven National Laboratory          SULI
+Summer 2016  August Gula                     Houghton College    Brookhaven National Laboratory          SULI
+Summer 2016  James Wei-Shan Noeckel          Cornell University  Pacific Northwest National Laboratory   SULI
+Summer 2016  Ian Thomas Fried                Cornell University  Argonne National Laboratory             SULI
 Summer 2015  Cecilia Chen                    Cornell University  Lawrence Livermore National Laboratory  SULI
-Summer 2015  Felice Chan                     Cornell University  Argonne National Laboratory             SULI
+Summer 2015  Zachary D Porter                Cornell University  SLAC National Accelerator Laboratory    SULI
+Summer 2015  Sophia Lai                      Cornell University  Oak Ridge National Laboratory           SULI
+Summer 2015  Jeremy S. Poe                   Ithaca College      National Renewable Energy Laboratory    SULI
+Summer 2015  Yi-Chun (Kelly) Huang           Cornell University  National Renewable Energy Laboratory    SULI
+Summer 2015  Haydn Reinhold Lenz             Cornell University  Pacific Northwest National Laboratory   SULI
 Summer 2015  Mallika Shirodkar Bariya        Cornell University  Lawrence Berkeley National Laboratory   SULI
-Summer 2014  James Kenneth Senter            Cornell University  Oak Ridge National Laboratory           SULI
-Summer 2014  Lipi Gupta                      Cornell University  SLAC National Accelerator Laboratory    SULI
+Summer 2015  Felice Chan                     Cornell University  Argonne National Laboratory             SULI
+Summer 2015  Karann Putrevu                  Cornell University  Brookhaven National Laboratory          SULI
+Summer 2015  Kevin James Palm                Cornell University  Brookhaven National Laboratory          SULI
+Summer 2015  Cari Lynn Gostic                Cornell University  Brookhaven National Laboratory          SULI
 Summer 2014  James McClintock                Cornell University  Brookhaven National Laboratory          SULI
-Summer 2014  Jeremy S. Poe                   Ithaca College      National Renewable Energy Laboratory    SULI
-Summer 2014  Brenna Elizabeth Block Mockler  Cornell University  SLAC National Accelerator Laboratory    SULI
 Summer 2014  Walter Atticus Schaefer         Cornell University  Argonne National Laboratory             SULI
-Summer 2014  Sam Ryan Schraer                Cornell University  Brookhaven National Laboratory          SULI
-Summer 2014  James Anders Stahlkrantz        Cornell University  Brookhaven National Laboratory          SULI
-Summer 2014  Maria Sirenko                   Cornell University  Brookhaven National Laboratory          SULI
-Summer 2014  Tabatha Lyn Felter              Cornell University  Brookhaven National Laboratory          SULI
 Summer 2014  Robert Duggan                   Cornell University  Oak Ridge National Laboratory           SULI
+Summer 2014  Maria Sirenko                   Cornell University  Brookhaven National Laboratory          SULI
+Summer 2014  Lipi Gupta                      Cornell University  SLAC National Accelerator Laboratory    SULI
+Summer 2014  Brenna Elizabeth Block Mockler  Cornell University  SLAC National Accelerator Laboratory    SULI
+Summer 2014  Sam Ryan Schraer                Cornell University  Brookhaven National Laboratory          SULI
+Summer 2014  Tabatha Lyn Felter              Cornell University  Brookhaven National Laboratory          SULI
 Spring 2016  Bryan Anthonio                  Cornell University  Lawrence Berkeley National Laboratory   SULI
-Spring 2015  Sandy Chan                      Cornell University  Lawrence Berkeley National Laboratory   SULI
-Spring 2015  Adam Lowery                     Cornell University  Brookhaven National Laboratory          SULI
 Fall 2015    Bryan Anthonio                  Cornell University  Lawrence Berkeley National Laboratory   SULI
 ```
 ---
@@ -1575,20 +1519,17 @@ In the past 8 years, this district has received:<b> $25,290,582 </b>in NSF MPS g
   2012  HOBART AND WILLIAM SMITH COLLEGES                                    90,000
 ```
 ## SULI/CCI Interns
-From 2014-2016 (only years available), this district had 10 SULI/CCI interns
+From 2014-2016 (only years available), this district had 7 SULI/CCI interns
 ```
 Term         Name                       College                                                                     Host Lab                              Program
 -----------  -------------------------  --------------------------------------------------------------------------  ------------------------------------  ---------
+Summer 2015  Raul Martinez Jr           Syracuse University Main Campus                                             Brookhaven National Laboratory        SULI
 Summer 2015  Eric Tyler Stevens         State University of New York College of Environmental Science and Forestry  Oak Ridge National Laboratory         SULI
 Summer 2015  Daniel Labuz               State University of New York College at Oswego                              Oak Ridge National Laboratory         SULI
-Summer 2015  Raul Martinez Jr           Syracuse University Main Campus                                             Brookhaven National Laboratory        SULI
-Summer 2014  Morgan Payne Connolly      State University of New York College of Environmental Science and Forestry  National Renewable Energy Laboratory  SULI
 Summer 2014  Galit Idan                 State University of New York College of Environmental Science and Forestry  Brookhaven National Laboratory        SULI
+Summer 2014  Morgan Payne Connolly      State University of New York College of Environmental Science and Forestry  National Renewable Energy Laboratory  SULI
 Summer 2014  Vyncent Pham Hoang Nguyen  State University of New York College at Oswego                              Oak Ridge National Laboratory         SULI
 Spring 2016  Galit Idan                 State University of New York College of Environmental Science and Forestry  Brookhaven National Laboratory        SULI
-Spring 2016  Shane Stone                Syracuse University Main Campus                                             Brookhaven National Laboratory        SULI
-Spring 2015  Daniel Labuz               State University of New York College at Oswego                              Oak Ridge National Laboratory         SULI
-Fall 2014    Vyncent Pham Hoang Nguyen  State University of New York College at Oswego                              Oak Ridge National Laboratory         SULI
 ```
 ---
 <a name="NY-25"></a>
@@ -1651,22 +1592,19 @@ In the past 8 years, this district has received:<b> $33,425,634 </b>in NSF MPS g
   2012  SYRACUSE UNIVERSITY                              4,528,264
 ```
 ## SULI/CCI Interns
-From 2014-2016 (only years available), this district had 13 SULI/CCI interns
+From 2014-2016 (only years available), this district had 10 SULI/CCI interns
 ```
 Term         Name                     College                            Host Lab                                        Program
 -----------  -----------------------  ---------------------------------  ----------------------------------------------  ---------
-Summer 2016  Jonathan Boualavong      University of Rochester            Pacific Northwest National Laboratory           SULI
 Summer 2016  Jacob Larkin             University of Rochester            Brookhaven National Laboratory                  SULI
+Summer 2016  Jonathan Boualavong      University of Rochester            Pacific Northwest National Laboratory           SULI
 Summer 2016  Melissa L. Wilkinson     Nazareth College of Rochester      Pacific Northwest National Laboratory           SULI
-Summer 2016  Shane Michtavy           Monroe Community College           Brookhaven National Laboratory                  CCI
-Summer 2015  Michael John Dzara       Rochester Institute of Technology  National Renewable Energy Laboratory            SULI
 Summer 2015  Jacob Larkin             University of Rochester            Brookhaven National Laboratory                  SULI
-Summer 2014  Michael John Dzara       Rochester Institute of Technology  National Renewable Energy Laboratory            SULI
-Summer 2014  Robert Maurice Karl      Rochester Institute of Technology  Thomas Jefferson National Accelerator Facility  SULI
+Summer 2015  Michael John Dzara       Rochester Institute of Technology  National Renewable Energy Laboratory            SULI
 Summer 2014  Benjamin Joseph Kraines  Rochester Institute of Technology  Lawrence Livermore National Laboratory          SULI
 Summer 2014  Grant Salk               Rochester Institute of Technology  Lawrence Livermore National Laboratory          SULI
-Spring 2016  Ryan Eric Patalano       Rochester Institute of Technology  National Renewable Energy Laboratory            SULI
-Spring 2014  Junghune Nam             Rochester Institute of Technology  Lawrence Berkeley National Laboratory           SULI
+Summer 2014  Michael John Dzara       Rochester Institute of Technology  National Renewable Energy Laboratory            SULI
+Summer 2014  Robert Maurice Karl      Rochester Institute of Technology  Thomas Jefferson National Accelerator Facility  SULI
 Spring 2014  Charles Andrew Pueschel  Rochester Institute of Technology  Ames National Laboratory                        SULI
 ```
 ---
@@ -1739,24 +1677,20 @@ In the past 8 years, this district has received:<b> $549,982 </b>in NSF MPS gran
   2012  THE RESEARCH FOUNDATION OF STATE UNIVERSITY O                        64,303
 ```
 ## SULI/CCI Interns
-From 2014-2016 (only years available), this district had 15 SULI/CCI interns
+From 2014-2016 (only years available), this district had 11 SULI/CCI interns
 ```
-Term         Name                         College                                          Host Lab                               Program
------------  ---------------------------  -----------------------------------------------  -------------------------------------  ---------
-Summer 2016  Nicholas Maineri             State University of New York College at Geneseo  Brookhaven National Laboratory         SULI
-Summer 2015  Alex Kramer                  State University of New York College at Geneseo  Brookhaven National Laboratory         SULI
-Summer 2015  Claire Shanklin              State University of New York College at Geneseo  Brookhaven National Laboratory         SULI
-Summer 2015  Laura Shanklin               State University of New York College at Geneseo  Brookhaven National Laboratory         SULI
-Summer 2015  Timothy Leeney               University at Buffalo-SUNY                       Brookhaven National Laboratory         SULI
-Summer 2015  Victoria Riso                University at Buffalo-SUNY                       General Atomics / DIII-D               SULI
-Summer 2015  Colton Buck                  Genesee Community College                        Lawrence Berkeley National Laboratory  CCI
-Summer 2014  Shannon Baxter               State University of New York College at Geneseo  Brookhaven National Laboratory         SULI
-Summer 2014  Rachael Phyllis Burganowski  State University of New York College at Geneseo  Argonne National Laboratory            SULI
-Summer 2014  Kimberly Giacalone           State University of New York College at Geneseo  Brookhaven National Laboratory         SULI
-Summer 2014  Daniel Miserendino           State University of New York College at Geneseo  Brookhaven National Laboratory         SULI
-Summer 2014  Daniel Ericson               University at Buffalo-SUNY                       Brookhaven National Laboratory         SULI
-Summer 2014  Jacob A Smith                Genesee Community College                        Los Alamos National Laboratory         CCI
-Summer 2014  Joseph Stein                 Genesee Community College                        Ames National Laboratory               CCI
-Spring 2015  Jenny Chen                   University at Buffalo-SUNY                       Oak Ridge National Laboratory          SULI
+Term         Name                         College                                          Host Lab                        Program
+-----------  ---------------------------  -----------------------------------------------  ------------------------------  ---------
+Summer 2016  Nicholas Maineri             State University of New York College at Geneseo  Brookhaven National Laboratory  SULI
+Summer 2015  Alex Kramer                  State University of New York College at Geneseo  Brookhaven National Laboratory  SULI
+Summer 2015  Claire Shanklin              State University of New York College at Geneseo  Brookhaven National Laboratory  SULI
+Summer 2015  Laura Shanklin               State University of New York College at Geneseo  Brookhaven National Laboratory  SULI
+Summer 2015  Timothy Leeney               University at Buffalo-SUNY                       Brookhaven National Laboratory  SULI
+Summer 2014  Kimberly Giacalone           State University of New York College at Geneseo  Brookhaven National Laboratory  SULI
+Summer 2014  Daniel Miserendino           State University of New York College at Geneseo  Brookhaven National Laboratory  SULI
+Summer 2014  Daniel Ericson               University at Buffalo-SUNY                       Brookhaven National Laboratory  SULI
+Summer 2014  Rachael Phyllis Burganowski  State University of New York College at Geneseo  Argonne National Laboratory     SULI
+Summer 2014  Jacob A Smith                Genesee Community College                        Los Alamos National Laboratory  CCI
+Spring 2015  Jenny Chen                   University at Buffalo-SUNY                       Oak Ridge National Laboratory   SULI
 ```
 ---

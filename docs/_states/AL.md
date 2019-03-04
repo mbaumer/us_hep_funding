@@ -55,18 +55,21 @@ UNIVERSITY OF NORTH ALABAMA                     48,544
 TROY UNIVERSITY                                 24,838
 ```
 ## SULI/CCI Interns
-From 2014-2016 (only years available), this state had 35 SULI/CCI interns
+<p align="center">
+![AL SULI/CCI image]({{ site.baseurl }}/img/AL.png)
+</p>
+From 2014-2016 (only years available), this state had 22 SULI/CCI interns
 ```
   # Interns  Program    College
 -----------  ---------  ----------------------------------------------
-         10  SULI       The University of Alabama
-          7  SULI       Auburn University
-          5  SULI       Alabama Agricultural and Mechanical University
+          5  SULI       Auburn University
+          5  SULI       The University of Alabama
           5  SULI       University of Alabama at Birmingham
-          4  SULI       University of Alabama in Huntsville
+          2  SULI       Alabama Agricultural and Mechanical University
           1  CCI        J.F. Drake State Technical College
           1  SULI       Alabama State University
           1  SULI       Birmingham-Southern College
+          1  SULI       University of Alabama in Huntsville
           1  SULI       University of South Alabama
 ```
 ---
@@ -168,15 +171,13 @@ In the past 8 years, this district has received:<b> $11,692,282 </b>in NSF MPS g
   2012  AUBURN UNIVERSITY         505,061
 ```
 ## SULI/CCI Interns
-From 2014-2016 (only years available), this district had 7 SULI/CCI interns
+From 2014-2016 (only years available), this district had 5 SULI/CCI interns
 ```
 Term         Name                     College            Host Lab                               Program
 -----------  -----------------------  -----------------  -------------------------------------  ---------
-Summer 2016  Matthew Barry            Auburn University  Princeton Plasma Physics Laboratory    SULI
-Summer 2016  Matthew David Preisser   Auburn University  Pacific Northwest National Laboratory  SULI
 Summer 2016  Zechun Yang              Auburn University  Brookhaven National Laboratory         SULI
+Summer 2016  Matthew David Preisser   Auburn University  Pacific Northwest National Laboratory  SULI
 Summer 2015  Matthew Barry            Auburn University  SLAC National Accelerator Laboratory   SULI
-Summer 2014  Robert Joseph Joseph     Auburn University  Oak Ridge National Laboratory          SULI
 Summer 2014  Brittany Margaret Sipin  Auburn University  Oak Ridge National Laboratory          SULI
 Fall 2014    Daniel Dario Martinez    Auburn University  Lawrence Berkeley National Laboratory  SULI
 ```
@@ -242,20 +243,14 @@ In the past 8 years, this district has received:<b> $2,852,426 </b>in NSF MPS gr
   2012  UNIVERSITY OF NORTH ALABAMA                     19,114
 ```
 ## SULI/CCI Interns
-From 2014-2016 (only years available), this district had 10 SULI/CCI interns
+From 2014-2016 (only years available), this district had 4 SULI/CCI interns
 ```
 Term         Name                  College                                         Host Lab                        Program
 -----------  --------------------  ----------------------------------------------  ------------------------------  ---------
 Summer 2016  Rachel Sanders        Alabama Agricultural and Mechanical University  Brookhaven National Laboratory  SULI
-Summer 2016  Lauren Walker         Alabama Agricultural and Mechanical University  Brookhaven National Laboratory  SULI
-Summer 2016  William Blake Hawley  University of Alabama in Huntsville             Oak Ridge National Laboratory   SULI
-Summer 2015  Renee Chan            University of Alabama in Huntsville             Brookhaven National Laboratory  SULI
 Summer 2014  Michael Avery Knotts  Alabama Agricultural and Mechanical University  Oak Ridge National Laboratory   SULI
-Summer 2014  john mwathi           Alabama Agricultural and Mechanical University  Brookhaven National Laboratory  SULI
 Summer 2014  Shaun Perryman        J.F. Drake State Technical College              Oak Ridge National Laboratory   CCI
 Spring 2016  Daniel Smallwood      University of Alabama in Huntsville             Oak Ridge National Laboratory   SULI
-Spring 2015  William Blake Hawley  University of Alabama in Huntsville             Oak Ridge National Laboratory   SULI
-Spring 2014  Belther Monono        Alabama Agricultural and Mechanical University  Oak Ridge National Laboratory   SULI
 ```
 ---
 <a name="AL-06"></a>
@@ -332,21 +327,16 @@ In the past 8 years, this district has received:<b> $16,808,910 </b>in NSF MPS g
   2012  UNIVERSITY OF ALABAMA AT BIRMINGHAM       710,254
 ```
 ## SULI/CCI Interns
-From 2014-2016 (only years available), this district had 12 SULI/CCI interns
+From 2014-2016 (only years available), this district had 7 SULI/CCI interns
 ```
 Term         Name                          College                      Host Lab                               Program
 -----------  ----------------------------  ---------------------------  -------------------------------------  ---------
-Summer 2016  Emma Clements                 The University of Alabama    National Renewable Energy Laboratory   SULI
-Summer 2016  Matthew Fister                The University of Alabama    Los Alamos National Laboratory         SULI
-Summer 2016  Emily Leviness                The University of Alabama    General Atomics / DIII-D               SULI
 Summer 2016  Travis Taylor                 The University of Alabama    Oak Ridge National Laboratory          SULI
-Summer 2015  Zachary Thane Thompson        The University of Alabama    Oak Ridge National Laboratory          SULI
+Summer 2016  Matthew Fister                The University of Alabama    Los Alamos National Laboratory         SULI
 Summer 2014  Barry Clay Burrows            The University of Alabama    Oak Ridge National Laboratory          SULI
-Summer 2014  Jake Farell                   The University of Alabama    Savannah River National Laboratory     SULI
-Summer 2014  Laurel Johnson                The University of Alabama    Argonne National Laboratory            SULI
 Summer 2014  Trisha D. Handley             Alabama State University     Ames National Laboratory               SULI
+Summer 2014  Jake Farell                   The University of Alabama    Savannah River National Laboratory     SULI
 Spring 2015  Marissa Amey Jenness Leshnov  The University of Alabama    National Renewable Energy Laboratory   SULI
-Fall 2015    Kaitlyn Leigh Somazze         The University of Alabama    Idaho National Laboratory              SULI
 Fall 2014    Huda Qureshi                  Birmingham-Southern College  Lawrence Berkeley National Laboratory  SULI
 ```
 ---

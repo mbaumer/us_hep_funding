@@ -59,15 +59,18 @@ EASTERN KENTUCKY UNIVERSITY                                143,420
 U OF LOUISVILLE RES FDN                                     95,363
 ```
 ## SULI/CCI Interns
-From 2014-2016 (only years available), this state had 15 SULI/CCI interns
+<p align="center">
+![KY SULI/CCI image]({{ site.baseurl }}/img/KY.png)
+</p>
+From 2014-2016 (only years available), this state had 11 SULI/CCI interns
 ```
   # Interns  Program    College
 -----------  ---------  ---------------------------------------------
-          5  SULI       University of Kentucky
-          3  SULI       University of the Cumberlands
+          4  SULI       University of Kentucky
           2  SULI       Union College
-          2  SULI       University of Louisville
           2  SULI       Western Kentucky University
+          1  SULI       University of Louisville
+          1  SULI       University of the Cumberlands
           1  SULI       West Kentucky community and Technical College
 ```
 ---
@@ -180,11 +183,10 @@ In the past 8 years, this district has received:<b> $4,178,946 </b>in NSF MPS gr
   2012  UNIVERSITY OF LOUISVILLE       609,075
 ```
 ## SULI/CCI Interns
-From 2014-2016 (only years available), this district had 2 SULI/CCI interns
+From 2014-2016 (only years available), this district had 1 SULI/CCI intern
 ```
 Term         Name                     College                   Host Lab                              Program
 -----------  -----------------------  ------------------------  ------------------------------------  ---------
-Spring 2016  Dakota Keith Goodman     University of Louisville  Oak Ridge National Laboratory         SULI
 Spring 2016  Marcus Emory Schwarting  University of Louisville  National Renewable Energy Laboratory  SULI
 ```
 ---
@@ -238,15 +240,13 @@ This district received no SC contracts from 2012-2019
 This district received no NSF MPS grants from 2012-2019
 ```
 ## SULI/CCI Interns
-From 2014-2016 (only years available), this district had 5 SULI/CCI interns
+From 2014-2016 (only years available), this district had 3 SULI/CCI interns
 ```
-Term         Name                  College                        Host Lab                              Program
------------  --------------------  -----------------------------  ------------------------------------  ---------
-Summer 2016  James Frank England   University of the Cumberlands  Oak Ridge National Laboratory         SULI
-Summer 2015  Caelan Lapointe       Union College                  National Renewable Energy Laboratory  SULI
-Summer 2014  Caelan Lapointe       Union College                  National Renewable Energy Laboratory  SULI
-Spring 2016  Chelsea Renee Hinton  University of the Cumberlands  Brookhaven National Laboratory        SULI
-Fall 2015    Chelsea Renee Hinton  University of the Cumberlands  Brookhaven National Laboratory        SULI
+Term         Name                 College                        Host Lab                              Program
+-----------  -------------------  -----------------------------  ------------------------------------  ---------
+Summer 2016  James Frank England  University of the Cumberlands  Oak Ridge National Laboratory         SULI
+Summer 2015  Caelan Lapointe      Union College                  National Renewable Energy Laboratory  SULI
+Summer 2014  Caelan Lapointe      Union College                  National Renewable Energy Laboratory  SULI
 ```
 ---
 <a name="KY-06"></a>
@@ -284,14 +284,13 @@ In the past 8 years, this district has received:<b> $18,970,139 </b>in NSF MPS g
   2012  UNIVERSITY OF KENTUCKY          3,008,958
 ```
 ## SULI/CCI Interns
-From 2014-2016 (only years available), this district had 5 SULI/CCI interns
+From 2014-2016 (only years available), this district had 4 SULI/CCI interns
 ```
 Term         Name                     College                 Host Lab                               Program
 -----------  -----------------------  ----------------------  -------------------------------------  ---------
 Summer 2016  Benjamin Austin Begley   University of Kentucky  Oak Ridge National Laboratory          SULI
-Summer 2014  Brian Edward Allgeier    University of Kentucky  Fermi National Accelerator Laboratory  SULI
-Summer 2014  Michael Andrew Carlton   University of Kentucky  Los Alamos National Laboratory         SULI
 Summer 2014  Anastasia Nicole Kazadi  University of Kentucky  Oak Ridge National Laboratory          SULI
-Summer 2014  Joseph Papp              University of Kentucky  Los Alamos National Laboratory         SULI
+Summer 2014  Michael Andrew Carlton   University of Kentucky  Los Alamos National Laboratory         SULI
+Summer 2014  Brian Edward Allgeier    University of Kentucky  Fermi National Accelerator Laboratory  SULI
 ```
 ---

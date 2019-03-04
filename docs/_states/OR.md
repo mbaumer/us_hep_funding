@@ -56,17 +56,20 @@ LINFIELD COLLEGE                         180,677
 REED COLLEGE                              28,000
 ```
 ## SULI/CCI Interns
-From 2014-2016 (only years available), this state had 34 SULI/CCI interns
+<p align="center">
+![OR SULI/CCI image]({{ site.baseurl }}/img/OR.png)
+</p>
+From 2014-2016 (only years available), this state had 25 SULI/CCI interns
 ```
   # Interns  Program    College
 -----------  ---------  ------------------------------
-          9  SULI       University of Oregon
-          8  SULI       Oregon State University
-          6  SULI       Willamette University
-          2  SULI       Lewis and Clark College
+          6  SULI       University of Oregon
+          5  SULI       Oregon State University
+          4  SULI       Willamette University
           2  SULI       Pacific University
           2  SULI       Reed College
           1  SULI       Eastern Oregon University
+          1  SULI       Lewis and Clark College
           1  SULI       Linfield College
           1  SULI       Oregon Institute of Technology
           1  SULI       Portland State University
@@ -182,16 +185,15 @@ In the past 8 years, this district has received:<b> $6,910,546 </b>in NSF MPS gr
   2013  PORTLAND STATE UNIVERSITY                709,024
 ```
 ## SULI/CCI Interns
-From 2014-2016 (only years available), this district had 6 SULI/CCI interns
+From 2014-2016 (only years available), this district had 5 SULI/CCI interns
 ```
 Term         Name                      College                    Host Lab                                        Program
 -----------  ------------------------  -------------------------  ----------------------------------------------  ---------
 Summer 2016  Emily O'sullivan          Lewis and Clark College    National Renewable Energy Laboratory            SULI
 Summer 2016  Chelsea Benedict          Portland State University  SLAC National Accelerator Laboratory            SULI
 Summer 2015  Charles Anthony McIntyre  Reed College               Thomas Jefferson National Accelerator Facility  SULI
-Summer 2015  Keira Roberts             Lewis and Clark College    Lawrence Livermore National Laboratory          SULI
-Summer 2014  Amelia Dunn               Reed College               Ames National Laboratory                        SULI
 Summer 2014  Jordan Seiji Lum          University of Portland     National Renewable Energy Laboratory            SULI
+Summer 2014  Amelia Dunn               Reed College               Ames National Laboratory                        SULI
 ```
 ---
 <a name="OR-04"></a>
@@ -246,23 +248,17 @@ In the past 8 years, this district has received:<b> $57,080,703 </b>in NSF MPS g
   2012  UNIVERSITY OF OREGON        3,581,118
 ```
 ## SULI/CCI Interns
-From 2014-2016 (only years available), this district had 17 SULI/CCI interns
+From 2014-2016 (only years available), this district had 11 SULI/CCI interns
 ```
 Term         Name                     College                  Host Lab                                        Program
 -----------  -----------------------  -----------------------  ----------------------------------------------  ---------
-Summer 2016  Zena Jensvold            University of Oregon     Argonne National Laboratory                     SULI
-Summer 2016  Benjamin Fannin Bachman  University of Oregon     National Renewable Energy Laboratory            SULI
 Summer 2016  Aaron Tamashiro          Oregon State University  Lawrence Livermore National Laboratory          SULI
-Summer 2016  Gabriel Nowak            Oregon State University  Thomas Jefferson National Accelerator Facility  SULI
 Summer 2016  Hallie Wahlstrom         Oregon State University  Pacific Northwest National Laboratory           SULI
-Summer 2015  Sara Cade                University of Oregon     Pacific Northwest National Laboratory           SULI
-Summer 2015  Benjamin Fannin Bachman  University of Oregon     National Renewable Energy Laboratory            SULI
+Summer 2016  Benjamin Fannin Bachman  University of Oregon     National Renewable Energy Laboratory            SULI
+Summer 2016  Gabriel Nowak            Oregon State University  Thomas Jefferson National Accelerator Facility  SULI
 Summer 2015  Cameron Frank            Oregon State University  Argonne National Laboratory                     SULI
 Summer 2015  Rachael McConnell        Oregon State University  Lawrence Livermore National Laboratory          SULI
-Summer 2015  Evan Peters              Oregon State University  General Atomics / DIII-D                        SULI
-Summer 2015  Aaron Tamashiro          Oregon State University  Lawrence Livermore National Laboratory          SULI
-Summer 2015  Jonathan Scott Anchell   University of Oregon     Oak Ridge National Laboratory                   SULI
-Summer 2014  Timothy Cole Hubbard     Oregon State University  Idaho National Laboratory                       SULI
+Summer 2015  Sara Cade                University of Oregon     Pacific Northwest National Laboratory           SULI
 Summer 2014  Jonathan Scott Anchell   University of Oregon     Oak Ridge National Laboratory                   SULI
 Spring 2015  Kirk Larsen              University of Oregon     Lawrence Berkeley National Laboratory           SULI
 Fall 2015    Sara Cade                University of Oregon     Pacific Northwest National Laboratory           SULI
@@ -297,15 +293,13 @@ In the past 8 years, this district has received:<b> $2,444,535 </b>in NSF MPS gr
   2012  WILLAMETTE UNIVERSITY         559,231
 ```
 ## SULI/CCI Interns
-From 2014-2016 (only years available), this district had 6 SULI/CCI interns
+From 2014-2016 (only years available), this district had 4 SULI/CCI interns
 ```
 Term         Name                   College                Host Lab                               Program
 -----------  ---------------------  ---------------------  -------------------------------------  ---------
 Summer 2016  Todd Jesse Denning     Willamette University  Pacific Northwest National Laboratory  SULI
-Summer 2015  Michelle Renee Fallon  Willamette University  Idaho National Laboratory              SULI
-Summer 2015  Alexandra Ramsey       Willamette University  SLAC National Accelerator Laboratory   SULI
-Summer 2015  Savanna Marie Steele   Willamette University  Pacific Northwest National Laboratory  SULI
 Summer 2015  Clara Tibbetts         Willamette University  Ames National Laboratory               SULI
+Summer 2015  Michelle Renee Fallon  Willamette University  Idaho National Laboratory              SULI
 Summer 2014  Clara Tibbetts         Willamette University  Ames National Laboratory               SULI
 ```
 ---

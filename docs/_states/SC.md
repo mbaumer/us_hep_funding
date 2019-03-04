@@ -63,19 +63,20 @@ COKER COLLEGE                                144,213
 U OF SC COLUMBIA                              15,000
 ```
 ## SULI/CCI Interns
-From 2014-2016 (only years available), this state had 37 SULI/CCI interns
+<p align="center">
+![SC SULI/CCI image]({{ site.baseurl }}/img/SC.png)
+</p>
+From 2014-2016 (only years available), this state had 26 SULI/CCI interns
 ```
   # Interns  Program    College
 -----------  ---------  -------------------------------------
-         15  SULI       University of South Carolina-Columbia
-         11  SULI       Clemson University
-          4  SULI       College of Charleston
-          2  SULI       Furman University
+         11  SULI       University of South Carolina-Columbia
+          8  SULI       Clemson University
+          3  SULI       College of Charleston
           1  SULI       Benedict College
           1  SULI       Converse College
           1  SULI       South Carolina State University
           1  SULI       University of South Carolina-Aiken
-          1  SULI       Wofford College
 ```
 ---
 ---
@@ -109,13 +110,12 @@ In the past 8 years, this district has received:<b> $1,363,300 </b>in NSF MPS gr
   2012  MEDICAL UNIVERSITY OF SOUTH CAROLINA       158,334
 ```
 ## SULI/CCI Interns
-From 2014-2016 (only years available), this district had 4 SULI/CCI interns
+From 2014-2016 (only years available), this district had 3 SULI/CCI interns
 ```
 Term         Name                     College                Host Lab                               Program
 -----------  -----------------------  ---------------------  -------------------------------------  ---------
 Summer 2014  Caleb Henry Whitaker     College of Charleston  Argonne National Laboratory            SULI
 Spring 2016  Madeleine Parker Gordon  College of Charleston  Lawrence Berkeley National Laboratory  SULI
-Fall 2015    Madeleine Parker Gordon  College of Charleston  Lawrence Berkeley National Laboratory  SULI
 Fall 2015    Brenna Norton-Baker      College of Charleston  National Renewable Energy Laboratory   SULI
 ```
 ---
@@ -181,21 +181,18 @@ In the past 8 years, this district has received:<b> $17,441,924 </b>in NSF MPS g
   2012  CLEMSON UNIVERSITY RESEARCH FOUNDATION       129,569
 ```
 ## SULI/CCI Interns
-From 2014-2016 (only years available), this district had 11 SULI/CCI interns
+From 2014-2016 (only years available), this district had 8 SULI/CCI interns
 ```
-Term         Name                      College             Host Lab                               Program
------------  ------------------------  ------------------  -------------------------------------  ---------
-Summer 2016  Emma Coleman              Clemson University  Argonne National Laboratory            SULI
-Summer 2016  Amanda Doris Farthing     Clemson University  National Renewable Energy Laboratory   SULI
-Summer 2016  Julia Grace Riley         Clemson University  Brookhaven National Laboratory         SULI
-Summer 2016  Gary Kenneth Vestal       Clemson University  Oak Ridge National Laboratory          SULI
-Summer 2015  Mindy Earnest             Clemson University  Oak Ridge National Laboratory          SULI
-Summer 2015  David Nasol               Clemson University  Savannah River National Laboratory     SULI
-Summer 2015  Barbara Woo               Clemson University  Brookhaven National Laboratory         SULI
-Summer 2015  Mikita Yankouski          Clemson University  Los Alamos National Laboratory         SULI
-Summer 2014  John Christopher Garland  Clemson University  Oak Ridge National Laboratory          SULI
-Spring 2015  GARY KENNETH VESTAL       Clemson University  Oak Ridge National Laboratory          SULI
-Fall 2015    Barbara Woo               Clemson University  Lawrence Berkeley National Laboratory  SULI
+Term         Name                   College             Host Lab                               Program
+-----------  ---------------------  ------------------  -------------------------------------  ---------
+Summer 2016  Julia Grace Riley      Clemson University  Brookhaven National Laboratory         SULI
+Summer 2016  Emma Coleman           Clemson University  Argonne National Laboratory            SULI
+Summer 2016  Amanda Doris Farthing  Clemson University  National Renewable Energy Laboratory   SULI
+Summer 2016  Gary Kenneth Vestal    Clemson University  Oak Ridge National Laboratory          SULI
+Summer 2015  Mindy Earnest          Clemson University  Oak Ridge National Laboratory          SULI
+Summer 2015  David Nasol            Clemson University  Savannah River National Laboratory     SULI
+Spring 2015  GARY KENNETH VESTAL    Clemson University  Oak Ridge National Laboratory          SULI
+Fall 2015    Barbara Woo            Clemson University  Lawrence Berkeley National Laboratory  SULI
 ```
 ---
 <a name="SC-04"></a>
@@ -228,14 +225,11 @@ In the past 8 years, this district has received:<b> $1,812,134 </b>in NSF MPS gr
   2012  FURMAN UNIVERSITY       199,199
 ```
 ## SULI/CCI Interns
-From 2014-2016 (only years available), this district had 4 SULI/CCI interns
+From 2014-2016 (only years available), this district had 1 SULI/CCI intern
 ```
-Term         Name                     College            Host Lab                               Program
------------  -----------------------  -----------------  -------------------------------------  ---------
-Summer 2016  Jamey Bower              Wofford College    Pacific Northwest National Laboratory  SULI
-Summer 2015  Tabitha Faith Colter     Furman University  Oak Ridge National Laboratory          SULI
-Summer 2015  Andrew Emerson           Furman University  Oak Ridge National Laboratory          SULI
-Summer 2014  Kandice Elizabeth Miles  Converse College   Oak Ridge National Laboratory          SULI
+Term         Name                     College           Host Lab                       Program
+-----------  -----------------------  ----------------  -----------------------------  ---------
+Summer 2014  Kandice Elizabeth Miles  Converse College  Oak Ridge National Laboratory  SULI
 ```
 ---
 <a name="SC-05"></a>
@@ -316,27 +310,23 @@ In the past 8 years, this district has received:<b> $21,245,855 </b>in NSF MPS g
   2012  SOUTH CAROLINA RESEARCH FOUNDATION       4,990,023
 ```
 ## SULI/CCI Interns
-From 2014-2016 (only years available), this district had 17 SULI/CCI interns
+From 2014-2016 (only years available), this district had 13 SULI/CCI interns
 ```
-Term         Name                       College                                Host Lab                                Program
------------  -------------------------  -------------------------------------  --------------------------------------  ---------
-Summer 2016  Terkessia Ardreonda Hart   South Carolina State University        Lawrence Livermore National Laboratory  SULI
-Summer 2016  Mackenize Morris           University of South Carolina-Columbia  Oak Ridge National Laboratory           SULI
-Summer 2016  Christian Tyler Carey      University of South Carolina-Columbia  National Renewable Energy Laboratory    SULI
-Summer 2016  Matt Adamski               University of South Carolina-Columbia  National Renewable Energy Laboratory    SULI
-Summer 2015  Anna Lynn                  University of South Carolina-Columbia  Oak Ridge National Laboratory           SULI
-Summer 2015  Michelle Josephine Thomas  University of South Carolina-Columbia  Ames National Laboratory                SULI
-Summer 2015  Leah Zhou McGovern         University of South Carolina-Columbia  National Renewable Energy Laboratory    SULI
-Summer 2015  Jonathan Michael Freed     University of South Carolina-Columbia  Oak Ridge National Laboratory           SULI
-Summer 2015  Chris Joseph Buckman       University of South Carolina-Columbia  Oak Ridge National Laboratory           SULI
-Summer 2014  Charles Staub              University of South Carolina-Columbia  National Renewable Energy Laboratory    SULI
-Summer 2014  Nick James Weidner         University of South Carolina-Columbia  Argonne National Laboratory             SULI
-Spring 2016  Christian Tyler Carey      University of South Carolina-Columbia  National Renewable Energy Laboratory    SULI
-Spring 2016  Jocelyn Kate Mackay        University of South Carolina-Columbia  National Renewable Energy Laboratory    SULI
-Spring 2015  Leah Zhou McGovern         University of South Carolina-Columbia  National Renewable Energy Laboratory    SULI
-Spring 2014  Martin Anthony Epps, Jr.   Benedict College                       Brookhaven National Laboratory          SULI
-Fall 2015    Jacob Alois Przywara       University of South Carolina-Columbia  National Renewable Energy Laboratory    SULI
-Fall 2014    Charles Staub              University of South Carolina-Columbia  National Renewable Energy Laboratory    SULI
+Term         Name                      College                                Host Lab                                Program
+-----------  ------------------------  -------------------------------------  --------------------------------------  ---------
+Summer 2016  Terkessia Ardreonda Hart  South Carolina State University        Lawrence Livermore National Laboratory  SULI
+Summer 2016  Matt Adamski              University of South Carolina-Columbia  National Renewable Energy Laboratory    SULI
+Summer 2016  Christian Tyler Carey     University of South Carolina-Columbia  National Renewable Energy Laboratory    SULI
+Summer 2016  Mackenize Morris          University of South Carolina-Columbia  Oak Ridge National Laboratory           SULI
+Summer 2015  Chris Joseph Buckman      University of South Carolina-Columbia  Oak Ridge National Laboratory           SULI
+Summer 2015  Jonathan Michael Freed    University of South Carolina-Columbia  Oak Ridge National Laboratory           SULI
+Summer 2015  Anna Lynn                 University of South Carolina-Columbia  Oak Ridge National Laboratory           SULI
+Summer 2014  Nick James Weidner        University of South Carolina-Columbia  Argonne National Laboratory             SULI
+Spring 2016  Christian Tyler Carey     University of South Carolina-Columbia  National Renewable Energy Laboratory    SULI
+Spring 2016  Jocelyn Kate Mackay       University of South Carolina-Columbia  National Renewable Energy Laboratory    SULI
+Spring 2015  Leah Zhou McGovern        University of South Carolina-Columbia  National Renewable Energy Laboratory    SULI
+Spring 2014  Martin Anthony Epps, Jr.  Benedict College                       Brookhaven National Laboratory          SULI
+Fall 2014    Charles Staub             University of South Carolina-Columbia  National Renewable Energy Laboratory    SULI
 ```
 ---
 <a name="SC-07"></a>

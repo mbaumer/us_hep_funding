@@ -108,42 +108,44 @@ DUQUESNE UNIVERSITY                                                     20,405
 SOC INDUS&APPL MATH(SIAM)                                               17,387
 ```
 ## SULI/CCI Interns
-From 2014-2016 (only years available), this state had 110 SULI/CCI interns
+<p align="center">
+![PA SULI/CCI image]({{ site.baseurl }}/img/PA.png)
+</p>
+From 2014-2016 (only years available), this state had 78 SULI/CCI interns
 ```
   # Interns  Program    College
 -----------  ---------  -------------------------------------------
-         14  SULI       Penn State University Park
-         12  SULI       University of Pennsylvania
-          9  SULI       University of Pittsburgh
-          8  SULI       Carnegie Mellon University
-          7  SULI       Lock Haven University
-          7  SULI       Kutztown University of Pennsylvania
-          5  SULI       Haverford College
+          8  SULI       University of Pittsburgh
+          8  SULI       University of Pennsylvania
+          8  SULI       Penn State University Park
+          6  SULI       Lock Haven University
+          5  SULI       Kutztown University of Pennsylvania
           5  SULI       Edinboro University of Pennsylvania
-          4  SULI       Bucknell University
-          4  SULI       Allegheny College
-          4  SULI       Drexel University
-          3  SULI       Swarthmore College
-          2  SULI       Duquesne University
-          2  SULI       Penn State Berks
+          4  SULI       Carnegie Mellon University
+          3  SULI       Drexel University
+          3  SULI       Haverford College
+          2  SULI       Allegheny College
           2  SULI       Ursinus College
           2  SULI       Temple University
-          2  SULI       Juniata College
-          2  SULI       York College of Pennsylvania
           2  SULI       Lehigh University
-          2  SULI       Lebanon Valley College
+          2  SULI       Juniata College
+          2  SULI       Duquesne University
+          1  SULI       Lafayette College
+          1  SULI       Swarthmore College
+          1  SULI       Washington and Jefferson College
+          1  SULI       Cedar Crest College
+          1  SULI       East Stroudsburg University of Pennsylvania
+          1  SULI       The University of Scranton
+          1  SULI       Gettysburg College
+          1  SULI       Saint Francis University
+          1  SULI       Lebanon Valley College
+          1  SULI       Indiana University of Pennsylvania
+          1  SULI       Penn State Brandywine
+          1  SULI       Penn State Berks
           1  SULI       Messiah College
           1  SULI       Mercyhurst University
-          1  SULI       Penn State Brandywine
-          1  SULI       East Stroudsburg University of Pennsylvania
-          1  SULI       Saint Francis University
-          1  SULI       Shippensburg University of Pennsylvania
-          1  SULI       The University of Scranton
-          1  SULI       Lafayette College
-          1  SULI       Cedar Crest College
-          1  SULI       Gettysburg College
-          1  SULI       Washington and Jefferson College
-          1  SULI       Indiana University of Pennsylvania
+          1  SULI       Bucknell University
+          1  SULI       York College of Pennsylvania
 ```
 ---
 ---
@@ -319,23 +321,18 @@ In the past 8 years, this district has received:<b> $785,060 </b>in NSF MPS gran
   2013  ALLEGHENY COLLEGE         231,312
 ```
 ## SULI/CCI Interns
-From 2014-2016 (only years available), this district had 16 SULI/CCI interns
+From 2014-2016 (only years available), this district had 11 SULI/CCI interns
 ```
 Term         Name                       College                     Host Lab                               Program
 -----------  -------------------------  --------------------------  -------------------------------------  ---------
-Summer 2016  Jedidiah Dale              University of Pennsylvania  Brookhaven National Laboratory         SULI
-Summer 2016  Daniel Brian Durham        University of Pennsylvania  Lawrence Berkeley National Laboratory  SULI
-Summer 2016  Radhika Katti              University of Pennsylvania  Oak Ridge National Laboratory          SULI
-Summer 2016  Nicholas Bradley Mcgreivy  University of Pennsylvania  Princeton Plasma Physics Laboratory    SULI
-Summer 2016  Kalina Polet Slavkova      University of Pennsylvania  Los Alamos National Laboratory         SULI
 Summer 2016  James Townley              University of Pennsylvania  Brookhaven National Laboratory         SULI
+Summer 2016  Nicholas Bradley Mcgreivy  University of Pennsylvania  Princeton Plasma Physics Laboratory    SULI
+Summer 2016  Radhika Katti              University of Pennsylvania  Oak Ridge National Laboratory          SULI
+Summer 2016  Kalina Polet Slavkova      University of Pennsylvania  Los Alamos National Laboratory         SULI
 Summer 2015  Ryan Dungee                University of Pennsylvania  SLAC National Accelerator Laboratory   SULI
-Summer 2015  Katherine Senter           University of Pennsylvania  Oak Ridge National Laboratory          SULI
-Summer 2015  Matthew Parsons            Drexel University           Princeton Plasma Physics Laboratory    SULI
-Summer 2014  Mary Frances Brass         University of Pennsylvania  Pacific Northwest National Laboratory  SULI
 Summer 2014  Vijay Govindarajan         University of Pennsylvania  Argonne National Laboratory            SULI
-Summer 2014  Shanna Luedtke             University of Pennsylvania  Lawrence Berkeley National Laboratory  SULI
 Summer 2014  Albert Wang Xiao           University of Pennsylvania  Lawrence Berkeley National Laboratory  SULI
+Summer 2014  Mary Frances Brass         University of Pennsylvania  Pacific Northwest National Laboratory  SULI
 Summer 2014  Matthew Parsons            Drexel University           Princeton Plasma Physics Laboratory    SULI
 Summer 2014  Marcus Francis Seaman      Drexel University           Princeton Plasma Physics Laboratory    SULI
 Spring 2015  Daniel Christe             Drexel University           Los Alamos National Laboratory         SULI
@@ -420,19 +417,15 @@ In the past 8 years, this district has received:<b> $119,322,810 </b>in NSF MPS 
   2012  PENNSYLVANIA STATE UNIVERSITY, THE    16,735,170
 ```
 ## SULI/CCI Interns
-From 2014-2016 (only years available), this district had 9 SULI/CCI interns
+From 2014-2016 (only years available), this district had 5 SULI/CCI interns
 ```
-Term         Name                     College                Host Lab                               Program
------------  -----------------------  ---------------------  -------------------------------------  ---------
-Summer 2016  Isaac Wintermute Little  Swarthmore College     National Renewable Energy Laboratory   SULI
-Summer 2015  Chloe Wang               Haverford College      Lawrence Berkeley National Laboratory  SULI
-Summer 2015  Malia Wenny              Haverford College      National Renewable Energy Laboratory   SULI
-Summer 2014  Margaret Duffy           Haverford College      Lawrence Berkeley National Laboratory  SULI
-Summer 2014  Rachel Carson Flaherman  Swarthmore College     SLAC National Accelerator Laboratory   SULI
-Summer 2014  Maegan Hearney           Swarthmore College     Brookhaven National Laboratory         SULI
-Summer 2014  Cory Charles Kitay       Penn State Brandywine  Los Alamos National Laboratory         SULI
-Spring 2015  Katherine Elbert         Haverford College      Brookhaven National Laboratory         SULI
-Fall 2014    Katherine Elbert         Haverford College      Los Alamos National Laboratory         SULI
+Term         Name                College                Host Lab                               Program
+-----------  ------------------  ---------------------  -------------------------------------  ---------
+Summer 2015  Chloe Wang          Haverford College      Lawrence Berkeley National Laboratory  SULI
+Summer 2015  Malia Wenny         Haverford College      National Renewable Energy Laboratory   SULI
+Summer 2014  Maegan Hearney      Swarthmore College     Brookhaven National Laboratory         SULI
+Summer 2014  Margaret Duffy      Haverford College      Lawrence Berkeley National Laboratory  SULI
+Summer 2014  Cory Charles Kitay  Penn State Brandywine  Los Alamos National Laboratory         SULI
 ```
 ---
 <a name="PA-06"></a>
@@ -466,12 +459,11 @@ In the past 8 years, this district has received:<b> $2,577,624 </b>in NSF MPS gr
   2012  URSINUS COLLEGE                               123,140
 ```
 ## SULI/CCI Interns
-From 2014-2016 (only years available), this district had 2 SULI/CCI interns
+From 2014-2016 (only years available), this district had 1 SULI/CCI intern
 ```
 Term         Name            College           Host Lab                                        Program
 -----------  --------------  ----------------  ----------------------------------------------  ---------
 Summer 2016  Mason Albright  Penn State Berks  Thomas Jefferson National Accelerator Facility  SULI
-Spring 2014  Erin Finley     Penn State Berks  Ames National Laboratory                        SULI
 ```
 ---
 <a name="PA-07"></a>
@@ -509,10 +501,10 @@ From 2014-2016 (only years available), this district had 5 SULI/CCI interns
 ```
 Term         Name                  College                                      Host Lab                             Program
 -----------  --------------------  -------------------------------------------  -----------------------------------  ---------
-Summer 2016  Austin Wesley Keller  Lehigh University                            Argonne National Laboratory          SULI
 Summer 2016  Emily Lindahl         Lafayette College                            Brookhaven National Laboratory       SULI
-Summer 2015  Cara Bagley           Lehigh University                            Princeton Plasma Physics Laboratory  SULI
+Summer 2016  Austin Wesley Keller  Lehigh University                            Argonne National Laboratory          SULI
 Summer 2015  Zachary Gotthardt     East Stroudsburg University of Pennsylvania  Brookhaven National Laboratory       SULI
+Summer 2015  Cara Bagley           Lehigh University                            Princeton Plasma Physics Laboratory  SULI
 Summer 2014  Mackenzie Rae Beyer   Cedar Crest College                          Ames National Laboratory             SULI
 ```
 ---
@@ -563,19 +555,16 @@ This district received no SC contracts from 2012-2019
 This district received no NSF MPS grants from 2012-2019
 ```
 ## SULI/CCI Interns
-From 2014-2016 (only years available), this district had 9 SULI/CCI interns
+From 2014-2016 (only years available), this district had 6 SULI/CCI interns
 ```
-Term         Name                           College                              Host Lab                               Program
------------  -----------------------------  -----------------------------------  -------------------------------------  ---------
-Summer 2015  Margariete GeorgeAlan Malenda  Kutztown University of Pennsylvania  Los Alamos National Laboratory         SULI
-Summer 2015  Randall Scott Rogers           Kutztown University of Pennsylvania  Los Alamos National Laboratory         SULI
-Summer 2015  Ishankumar Vijaykumar Soni     Kutztown University of Pennsylvania  Ames National Laboratory               SULI
-Summer 2014  Zachary Philip Gotlib          Kutztown University of Pennsylvania  Brookhaven National Laboratory         SULI
-Summer 2014  Dea Musa                       Kutztown University of Pennsylvania  Los Alamos National Laboratory         SULI
-Spring 2016  Emily E Snyder                 Kutztown University of Pennsylvania  Los Alamos National Laboratory         SULI
-Spring 2016  Kathryn White                  Lebanon Valley College               Ames National Laboratory               SULI
-Fall 2015    Emily E Snyder                 Kutztown University of Pennsylvania  Lawrence Berkeley National Laboratory  SULI
-Fall 2015    Kathryn White                  Lebanon Valley College               Ames National Laboratory               SULI
+Term         Name                        College                              Host Lab                               Program
+-----------  --------------------------  -----------------------------------  -------------------------------------  ---------
+Summer 2015  Ishankumar Vijaykumar Soni  Kutztown University of Pennsylvania  Ames National Laboratory               SULI
+Summer 2015  Randall Scott Rogers        Kutztown University of Pennsylvania  Los Alamos National Laboratory         SULI
+Summer 2014  Zachary Philip Gotlib       Kutztown University of Pennsylvania  Brookhaven National Laboratory         SULI
+Summer 2014  Dea Musa                    Kutztown University of Pennsylvania  Los Alamos National Laboratory         SULI
+Spring 2016  Kathryn White               Lebanon Valley College               Ames National Laboratory               SULI
+Fall 2015    Emily E Snyder              Kutztown University of Pennsylvania  Lawrence Berkeley National Laboratory  SULI
 ```
 ---
 <a name="PA-10"></a>
@@ -608,11 +597,10 @@ In the past 8 years, this district has received:<b> $2,856,093 </b>in NSF MPS gr
   2012  SUSQUEHANNA UNIVERSITY        50,000
 ```
 ## SULI/CCI Interns
-From 2014-2016 (only years available), this district had 3 SULI/CCI interns
+From 2014-2016 (only years available), this district had 2 SULI/CCI interns
 ```
 Term         Name                  College                       Host Lab                        Program
 -----------  --------------------  ----------------------------  ------------------------------  ---------
-Summer 2015  Mary Theresa Bollard  York College of Pennsylvania  Brookhaven National Laboratory  SULI
 Summer 2014  Mary Theresa Bollard  York College of Pennsylvania  Brookhaven National Laboratory  SULI
 Summer 2014  Zachary Sorrell       Messiah College               Brookhaven National Laboratory  SULI
 ```
@@ -669,33 +657,23 @@ In the past 8 years, this district has received:<b> $765,160 </b>in NSF MPS gran
   2013  MATERIALS RESEARCH SOCIETY                                35,200
 ```
 ## SULI/CCI Interns
-From 2014-2016 (only years available), this district had 25 SULI/CCI interns
+From 2014-2016 (only years available), this district had 15 SULI/CCI interns
 ```
 Term         Name                    College                     Host Lab                                Program
 -----------  ----------------------  --------------------------  --------------------------------------  ---------
-Summer 2016  Evan Schlenker          Bucknell University         Oak Ridge National Laboratory           SULI
-Summer 2016  Jianting Chi            Penn State University Park  National Renewable Energy Laboratory    SULI
-Summer 2016  Daniel William Dudt     Bucknell University         General Atomics / DIII-D                SULI
-Summer 2016  Jessica Ann Abruzzese   Bucknell University         Brookhaven National Laboratory          SULI
-Summer 2016  Casey A Morean          Lock Haven University       Oak Ridge National Laboratory           SULI
-Summer 2016  John Wilkinson          Lock Haven University       Lawrence Livermore National Laboratory  SULI
-Summer 2016  Joel Thomas Strandburg  Penn State University Park  Brookhaven National Laboratory          SULI
-Summer 2016  Kathryn Eva Sautter     Penn State University Park  National Renewable Energy Laboratory    SULI
-Summer 2016  Daniel Johnson Ruth     Penn State University Park  Sandia National Laboratory              SULI
-Summer 2016  Robert Michael Nidzyn   Penn State University Park  Brookhaven National Laboratory          SULI
 Summer 2016  Yeeren Low              Penn State University Park  Brookhaven National Laboratory          SULI
-Summer 2016  Jacob Cordell           Penn State University Park  National Renewable Energy Laboratory    SULI
+Summer 2016  Robert Michael Nidzyn   Penn State University Park  Brookhaven National Laboratory          SULI
+Summer 2016  John Wilkinson          Lock Haven University       Lawrence Livermore National Laboratory  SULI
 Summer 2016  Kevin Andrew Barber     Penn State University Park  National Renewable Energy Laboratory    SULI
-Summer 2015  David Samuel Kalb       Bucknell University         Pacific Northwest National Laboratory   SULI
-Summer 2015  Brian Andrew Wickens    Penn State University Park  National Renewable Energy Laboratory    SULI
-Summer 2015  Jason Eric Turner       Penn State University Park  Idaho National Laboratory               SULI
-Summer 2015  Michelle Michaels       Penn State University Park  Argonne National Laboratory             SULI
+Summer 2016  Jianting Chi            Penn State University Park  National Renewable Energy Laboratory    SULI
+Summer 2016  Kathryn Eva Sautter     Penn State University Park  National Renewable Energy Laboratory    SULI
+Summer 2016  Casey A Morean          Lock Haven University       Oak Ridge National Laboratory           SULI
+Summer 2016  Evan Schlenker          Bucknell University         Oak Ridge National Laboratory           SULI
 Summer 2015  Ramya Gurunathan        Penn State University Park  Lawrence Berkeley National Laboratory   SULI
+Summer 2015  Brian Andrew Wickens    Penn State University Park  National Renewable Energy Laboratory    SULI
 Summer 2015  Warren McDonald         Lock Haven University       Oak Ridge National Laboratory           SULI
 Summer 2014  Mackenzie Leigh Maurer  Lock Haven University       Lawrence Livermore National Laboratory  SULI
 Summer 2014  Renee Snook             Lock Haven University       Oak Ridge National Laboratory           SULI
-Summer 2014  Warren McDonald         Lock Haven University       Ames National Laboratory                SULI
-Spring 2015  Alexandra M Catena      Penn State University Park  Lawrence Berkeley National Laboratory   SULI
 Spring 2014  Miranda Lynn Striluk    Lock Haven University       Pacific Northwest National Laboratory   SULI
 Fall 2014    Alexandra M Catena      Penn State University Park  Lawrence Berkeley National Laboratory   SULI
 ```
@@ -722,14 +700,13 @@ In the past 8 years, this district has received:<b> $298,559 </b>in NSF MPS gran
   2018  INSTITUTE FOR CANCER RESEARCH, THE       298,559
 ```
 ## SULI/CCI Interns
-From 2014-2016 (only years available), this district had 4 SULI/CCI interns
+From 2014-2016 (only years available), this district had 3 SULI/CCI interns
 ```
-Term         Name                  College                                  Host Lab                               Program
------------  --------------------  ---------------------------------------  -------------------------------------  ---------
-Summer 2016  Amber Lynn Evans      Juniata College                          Brookhaven National Laboratory         SULI
-Summer 2016  Brian Andrew Wickens  Shippensburg University of Pennsylvania  National Renewable Energy Laboratory   SULI
-Summer 2015  David Toole           Juniata College                          Lawrence Berkeley National Laboratory  SULI
-Spring 2016  Julie Blum            Gettysburg College                       Lawrence Berkeley National Laboratory  SULI
+Term         Name              College             Host Lab                               Program
+-----------  ----------------  ------------------  -------------------------------------  ---------
+Summer 2016  Amber Lynn Evans  Juniata College     Brookhaven National Laboratory         SULI
+Summer 2015  David Toole       Juniata College     Lawrence Berkeley National Laboratory  SULI
+Spring 2016  Julie Blum        Gettysburg College  Lawrence Berkeley National Laboratory  SULI
 ```
 ---
 <a name="PA-14"></a>
@@ -851,19 +828,18 @@ In the past 8 years, this district has received:<b> $13,649,383 </b>in NSF MPS g
   2012  LAFAYETTE COLLEGE                         225,697
 ```
 ## SULI/CCI Interns
-From 2014-2016 (only years available), this district had 11 SULI/CCI interns
+From 2014-2016 (only years available), this district had 10 SULI/CCI interns
 ```
 Term         Name                     College                             Host Lab                               Program
 -----------  -----------------------  ----------------------------------  -------------------------------------  ---------
 Summer 2016  Matthew Michael Carroll  University of Pittsburgh            Pacific Northwest National Laboratory  SULI
-Summer 2016  Colleen Hilla            University of Pittsburgh            Oak Ridge National Laboratory          SULI
 Summer 2016  Emma Raszmann            University of Pittsburgh            National Renewable Energy Laboratory   SULI
+Summer 2016  Colleen Hilla            University of Pittsburgh            Oak Ridge National Laboratory          SULI
 Summer 2016  Miriam Anne Rathbun      University of Pittsburgh            Oak Ridge National Laboratory          SULI
 Summer 2015  Julie Fornaciari         University of Pittsburgh            Lawrence Berkeley National Laboratory  SULI
-Summer 2015  Erica Lynn Stevens       University of Pittsburgh            Pacific Northwest National Laboratory  SULI
 Summer 2014  Mark Cinquegrani         University of Pittsburgh            Brookhaven National Laboratory         SULI
-Summer 2014  Jonathan Goodwill        University of Pittsburgh            Ames National Laboratory               SULI
 Summer 2014  Jann Albert Grovogui     University of Pittsburgh            Argonne National Laboratory            SULI
+Summer 2014  Jonathan Goodwill        University of Pittsburgh            Ames National Laboratory               SULI
 Spring 2016  Travis Scott Schofield   Saint Francis University            Lawrence Berkeley National Laboratory  SULI
 Spring 2015  Colleen Kaitlyn Trostle  Indiana University of Pennsylvania  Pacific Northwest National Laboratory  SULI
 ```
@@ -899,16 +875,14 @@ In the past 8 years, this district has received:<b> $2,063,166 </b>in NSF MPS gr
   2012  WEST CHESTER UNIVERSITY OF PENNSYLVANIA       104,000
 ```
 ## SULI/CCI Interns
-From 2014-2016 (only years available), this district had 10 SULI/CCI interns
+From 2014-2016 (only years available), this district had 8 SULI/CCI interns
 ```
 Term         Name                    College                              Host Lab                               Program
 -----------  ----------------------  -----------------------------------  -------------------------------------  ---------
-Summer 2016  Kevin Joshua Shuman     Edinboro University of Pennsylvania  Fermi National Accelerator Laboratory  SULI
-Summer 2016  Matthew Gray            Allegheny College                    Oak Ridge National Laboratory          SULI
 Summer 2016  Daniel Zoole Israeli    Mercyhurst University                Argonne National Laboratory            SULI
+Summer 2016  Matthew Gray            Allegheny College                    Oak Ridge National Laboratory          SULI
+Summer 2016  Kevin Joshua Shuman     Edinboro University of Pennsylvania  Fermi National Accelerator Laboratory  SULI
 Summer 2015  Brandon Clements        Edinboro University of Pennsylvania  Argonne National Laboratory            SULI
-Summer 2015  Allison Marie Cabo      Allegheny College                    Oak Ridge National Laboratory          SULI
-Summer 2015  Alexander Smith Porter  Allegheny College                    Ames National Laboratory               SULI
 Summer 2014  Katherine Bauder        Edinboro University of Pennsylvania  Argonne National Laboratory            SULI
 Summer 2014  Alex James Lillie       Edinboro University of Pennsylvania  Argonne National Laboratory            SULI
 Summer 2014  Brett Alexander Rhodes  Edinboro University of Pennsylvania  Argonne National Laboratory            SULI
@@ -968,7 +942,7 @@ This district received no SC contracts from 2012-2019
 This district received no NSF MPS grants from 2012-2019
 ```
 ## SULI/CCI Interns
-From 2014-2016 (only years available), this district had 10 SULI/CCI interns
+From 2014-2016 (only years available), this district had 6 SULI/CCI interns
 ```
 Term         Name                 College                     Host Lab                                        Program
 -----------  -------------------  --------------------------  ----------------------------------------------  ---------
@@ -977,10 +951,6 @@ Summer 2016  Anirudh Sridhar      Carnegie Mellon University  Argonne National L
 Summer 2016  Justin Goodwill      Duquesne University         Thomas Jefferson National Accelerator Facility  SULI
 Summer 2015  Jeremy Rowen Hyde    Carnegie Mellon University  SLAC National Accelerator Laboratory            SULI
 Summer 2015  Andrew Lendacky      Duquesne University         Thomas Jefferson National Accelerator Facility  SULI
-Summer 2014  George Degen         Carnegie Mellon University  Argonne National Laboratory                     SULI
-Summer 2014  Jeremy Rowen Hyde    Carnegie Mellon University  Brookhaven National Laboratory                  SULI
-Summer 2014  Nathaniel Joseph     Carnegie Mellon University  Brookhaven National Laboratory                  SULI
 Summer 2014  Rekha Regmi Schnepf  Carnegie Mellon University  National Renewable Energy Laboratory            SULI
-Summer 2014  Julia H Yang         Carnegie Mellon University  SLAC National Accelerator Laboratory            SULI
 ```
 ---

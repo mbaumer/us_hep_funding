@@ -60,26 +60,26 @@ REDACTED DUE TO PII                               100,000
 U OF WISCONSIN RIVER FALLS                         75,018
 ```
 ## SULI/CCI Interns
-From 2014-2016 (only years available), this state had 42 SULI/CCI interns
+<p align="center">
+![WI SULI/CCI image]({{ site.baseurl }}/img/WI.png)
+</p>
+From 2014-2016 (only years available), this state had 33 SULI/CCI interns
 ```
   # Interns  Program    College
 -----------  ---------  -------------------------------------
-         15  SULI       University of Wisconsin-Madison
-          5  SULI       Milwaukee School of Engineering
+         13  SULI       University of Wisconsin-Madison
           4  SULI       Carthage College
+          4  SULI       Milwaukee School of Engineering
           2  SULI       Cardinal Stritch University
-          2  SULI       Lawrence University
           2  SULI       Madison Area Technical College
-          2  SULI       University of Wisconsin Colleges
-          2  SULI       University of Wisconsin-Platteville
           1  CCI        Madison Area Technical College
+          1  SULI       Lawrence University
           1  SULI       Ripon College
-          1  SULI       Saint Norbert College
+          1  SULI       University of Wisconsin Colleges
           1  SULI       University of Wisconsin-Eau Claire
           1  SULI       University of Wisconsin-La Crosse
-          1  SULI       University of Wisconsin-River Falls
+          1  SULI       University of Wisconsin-Platteville
           1  SULI       University of Wisconsin-Stevens Point
-          1  SULI       University of Wisconsin-Whitewater
 ```
 ---
 ---
@@ -169,28 +169,25 @@ In the past 8 years, this district has received:<b> $171,676,584 </b>in NSF MPS 
   2012  UNIVERSITY OF WISCONSIN SYSTEM                 31,493,335
 ```
 ## SULI/CCI Interns
-From 2014-2016 (only years available), this district had 20 SULI/CCI interns
+From 2014-2016 (only years available), this district had 17 SULI/CCI interns
 ```
 Term         Name                      College                           Host Lab                               Program
 -----------  ------------------------  --------------------------------  -------------------------------------  ---------
 Summer 2016  Andrew Scott Hauser       University of Wisconsin-Madison   Argonne National Laboratory            SULI
 Summer 2016  Joshua Daniel Lin         University of Wisconsin-Madison   Argonne National Laboratory            SULI
-Summer 2016  Riley Cecelia Whitehead   Madison Area Technical College    National Renewable Energy Laboratory   SULI
-Summer 2016  Maxwell Brennan           University of Wisconsin Colleges  National Renewable Energy Laboratory   SULI
-Summer 2016  Elizabeth Rose Penn       University of Wisconsin-Madison   National Renewable Energy Laboratory   SULI
 Summer 2016  Zachary David Jensen      University of Wisconsin-Madison   Oak Ridge National Laboratory          SULI
 Summer 2016  Lewis Thomas Kunik        University of Wisconsin-Madison   National Renewable Energy Laboratory   SULI
-Summer 2015  Meghan Fujimoto           University of Wisconsin-Madison   Pacific Northwest National Laboratory  SULI
-Summer 2015  Aaron John Mallek         University of Wisconsin-Madison   Argonne National Laboratory            SULI
-Summer 2015  Andrew John Micklich      University of Wisconsin-Madison   Argonne National Laboratory            SULI
+Summer 2016  Elizabeth Rose Penn       University of Wisconsin-Madison   National Renewable Energy Laboratory   SULI
+Summer 2016  Riley Cecelia Whitehead   Madison Area Technical College    National Renewable Energy Laboratory   SULI
 Summer 2015  Isaiah Alden Scott        University of Wisconsin-Madison   National Renewable Energy Laboratory   SULI
 Summer 2015  Maggie Ann Sobolewski     University of Wisconsin-Madison   Argonne National Laboratory            SULI
-Summer 2014  Grace Kathryn Kikkebusch  University of Wisconsin Colleges  Ames National Laboratory               SULI
+Summer 2015  Andrew John Micklich      University of Wisconsin-Madison   Argonne National Laboratory            SULI
 Summer 2014  Andrew Alt                University of Wisconsin-Madison   Princeton Plasma Physics Laboratory    SULI
+Summer 2014  Luis Velazquez            Madison Area Technical College    Ames National Laboratory               CCI
+Summer 2014  Grace Kathryn Kikkebusch  University of Wisconsin Colleges  Ames National Laboratory               SULI
+Summer 2014  Dominick John Pattermann  University of Wisconsin-Madison   Argonne National Laboratory            SULI
 Summer 2014  Emily Gasteyer            University of Wisconsin-Madison   National Renewable Energy Laboratory   SULI
 Summer 2014  Stephen Taylor            University of Wisconsin-Madison   Los Alamos National Laboratory         SULI
-Summer 2014  Dominick John Pattermann  University of Wisconsin-Madison   Argonne National Laboratory            SULI
-Summer 2014  Luis Velazquez            Madison Area Technical College    Ames National Laboratory               CCI
 Spring 2015  Sahit Mandala             University of Wisconsin-Madison   Lawrence Berkeley National Laboratory  SULI
 Spring 2015  Luis F Gomes              Madison Area Technical College    Argonne National Laboratory            SULI
 ```
@@ -228,16 +225,14 @@ In the past 8 years, this district has received:<b> $3,441,265 </b>in NSF MPS gr
   2012  UNIVERSITY OF WISCONSIN SYSTEM                479,811
 ```
 ## SULI/CCI Interns
-From 2014-2016 (only years available), this district had 6 SULI/CCI interns
+From 2014-2016 (only years available), this district had 4 SULI/CCI interns
 ```
 Term         Name                        College                                Host Lab                               Program
 -----------  --------------------------  -------------------------------------  -------------------------------------  ---------
 Summer 2016  Shawn Michael Fritsche      University of Wisconsin-Platteville    Argonne National Laboratory            SULI
-Summer 2016  Alexandra Anastasia Koegel  University of Wisconsin-Stevens Point  National Renewable Energy Laboratory   SULI
 Summer 2016  Priya Patel                 University of Wisconsin-La Crosse      Lawrence Berkeley National Laboratory  SULI
-Summer 2015  Jacob Smagacz               University of Wisconsin-Platteville    Argonne National Laboratory            SULI
+Summer 2016  Alexandra Anastasia Koegel  University of Wisconsin-Stevens Point  National Renewable Energy Laboratory   SULI
 Summer 2014  Sarah Ullyssa Naegeli       University of Wisconsin-Eau Claire     Pacific Northwest National Laboratory  SULI
-Spring 2016  Tyrel Truman Danielson      University of Wisconsin-River Falls    National Renewable Energy Laboratory   SULI
 ```
 ---
 <a name="WI-04"></a>
@@ -278,17 +273,16 @@ In the past 8 years, this district has received:<b> $40,463,023 </b>in NSF MPS g
   2012  MARQUETTE UNIVERSITY                          481,602
 ```
 ## SULI/CCI Interns
-From 2014-2016 (only years available), this district had 7 SULI/CCI interns
+From 2014-2016 (only years available), this district had 6 SULI/CCI interns
 ```
-Term         Name                      College                          Host Lab                              Program
------------  ------------------------  -------------------------------  ------------------------------------  ---------
-Summer 2016  Justin Lee Clough         Milwaukee School of Engineering  SLAC National Accelerator Laboratory  SULI
-Summer 2016  Kathlyn Marie Hornberger  Milwaukee School of Engineering  Argonne National Laboratory           SULI
-Summer 2015  Victoria Burke            Cardinal Stritch University      Argonne National Laboratory           SULI
-Summer 2015  Justin Lee Clough         Milwaukee School of Engineering  Argonne National Laboratory           SULI
-Summer 2015  Elizabeth Sarah Paoli     Milwaukee School of Engineering  Argonne National Laboratory           SULI
-Summer 2014  Victoria Burke            Cardinal Stritch University      Argonne National Laboratory           SULI
-Summer 2014  Daniel Joseph Franke      Milwaukee School of Engineering  Argonne National Laboratory           SULI
+Term         Name                   College                          Host Lab                              Program
+-----------  ---------------------  -------------------------------  ------------------------------------  ---------
+Summer 2016  Justin Lee Clough      Milwaukee School of Engineering  SLAC National Accelerator Laboratory  SULI
+Summer 2015  Victoria Burke         Cardinal Stritch University      Argonne National Laboratory           SULI
+Summer 2015  Justin Lee Clough      Milwaukee School of Engineering  Argonne National Laboratory           SULI
+Summer 2015  Elizabeth Sarah Paoli  Milwaukee School of Engineering  Argonne National Laboratory           SULI
+Summer 2014  Victoria Burke         Cardinal Stritch University      Argonne National Laboratory           SULI
+Summer 2014  Daniel Joseph Franke   Milwaukee School of Engineering  Argonne National Laboratory           SULI
 ```
 ---
 <a name="WI-05"></a>
@@ -316,11 +310,8 @@ In the past 8 years, this district has received:<b> $668,049 </b>in NSF MPS gran
   2012  MEDICAL COLLEGE OF WISCONSIN, INC., THE        89,765
 ```
 ## SULI/CCI Interns
-From 2014-2016 (only years available), this district had 1 SULI/CCI intern
 ```
-Term         Name             College                             Host Lab                               Program
------------  ---------------  ----------------------------------  -------------------------------------  ---------
-Summer 2016  Francesca Smith  University of Wisconsin-Whitewater  Pacific Northwest National Laboratory  SULI
+This district had no SULI/CCI interns from 2014-2016 (only years available)
 ```
 ---
 <a name="WI-06"></a>
@@ -412,12 +403,10 @@ In the past 8 years, this district has received:<b> $165,000 </b>in NSF MPS gran
   2012  LAWRENCE UNIVERSITY        55,000
 ```
 ## SULI/CCI Interns
-From 2014-2016 (only years available), this district had 3 SULI/CCI interns
+From 2014-2016 (only years available), this district had 1 SULI/CCI intern
 ```
-Term         Name                  College                Host Lab                              Program
------------  --------------------  ---------------------  ------------------------------------  ---------
-Summer 2016  Joseph James Liberko  Lawrence University    Ames National Laboratory              SULI
-Summer 2016  Maria Satnik          Saint Norbert College  SLAC National Accelerator Laboratory  SULI
-Summer 2015  Ari Rice              Lawrence University    Brookhaven National Laboratory        SULI
+Term         Name      College              Host Lab                        Program
+-----------  --------  -------------------  ------------------------------  ---------
+Summer 2015  Ari Rice  Lawrence University  Brookhaven National Laboratory  SULI
 ```
 ---

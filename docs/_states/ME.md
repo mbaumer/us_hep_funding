@@ -43,11 +43,14 @@ UNIVERSITY OF NEW ENGLAND                   792,365
 BIGELOW LABORATORY FOR OCEAN SCIENCES       399,554
 ```
 ## SULI/CCI Interns
-From 2014-2016 (only years available), this state had 5 SULI/CCI interns
+<p align="center">
+![ME SULI/CCI image]({{ site.baseurl }}/img/ME.png)
+</p>
+From 2014-2016 (only years available), this state had 4 SULI/CCI interns
 ```
   # Interns  Program    College
 -----------  ---------  -------------------
-          3  SULI       University of Maine
+          2  SULI       University of Maine
           1  SULI       Bowdoin College
           1  SULI       Unity College
 ```
@@ -129,11 +132,10 @@ In the past 8 years, this district has received:<b> $4,715,032 </b>in NSF MPS gr
   2012  UNIVERSITY OF MAINE SYSTEM                1,800,000
 ```
 ## SULI/CCI Interns
-From 2014-2016 (only years available), this district had 4 SULI/CCI interns
+From 2014-2016 (only years available), this district had 3 SULI/CCI interns
 ```
 Term         Name                    College              Host Lab                               Program
 -----------  ----------------------  -------------------  -------------------------------------  ---------
-Summer 2015  Tayelor Gosselin        University of Maine  Brookhaven National Laboratory         SULI
 Summer 2015  Reid Vincent Eli Paris  University of Maine  Oak Ridge National Laboratory          SULI
 Summer 2014  Emily Kathryn Anderson  University of Maine  Pacific Northwest National Laboratory  SULI
 Spring 2014  Katie Schober           Unity College        Brookhaven National Laboratory         SULI

@@ -191,104 +191,92 @@ PEPPERDINE UNIVERSITY                                              38,903
 SAN FRANCISCO STATE UNIV                                           38,349
 ```
 ## SULI/CCI Interns
-From 2014-2016 (only years available), this state had 309 SULI/CCI interns
+<p align="center">
+![CA SULI/CCI image]({{ site.baseurl }}/img/CA.png)
+</p>
+From 2014-2016 (only years available), this state had 225 SULI/CCI interns
 ```
   # Interns  Program    College
 -----------  ---------  -------------------------------------------------------
-         58  SULI       University of California-Berkeley
-         20  SULI       University of California-San Diego
-         16  SULI       University of California-Davis
+         42  SULI       University of California-Berkeley
+         15  SULI       University of California-San Diego
          12  SULI       University of California-Santa Barbara
-         11  SULI       University of California-Los Angeles
-          9  SULI       Stanford University
-          9  SULI       University of California - Merced
-          7  SULI       Harvey Mudd College
-          7  CCI        College of the Desert
+          9  SULI       University of California-Davis
           7  SULI       University of California-Santa Cruz
-          6  CCI        Las Positas College
-          6  SULI       Pomona College
+          7  SULI       University of California-Los Angeles
+          7  SULI       University of California - Merced
+          6  SULI       Stanford University
           6  SULI       California Polytechnic State University-San Luis Obispo
-          5  CCI        Laney College
-          5  SULI       Humboldt State University
-          4  CCI        Hartnell College
-          4  CCI        Contra Costa College
-          4  CCI        College of San Mateo
-          3  SULI       Mills College
-          3  SULI       California State Polytechnic University-Pomona
-          3  CCI        Sacramento City College
+          6  CCI        College of the Desert
+          5  SULI       Pomona College
+          4  CCI        Laney College
+          4  SULI       Humboldt State University
+          4  SULI       Harvey Mudd College
+          3  CCI        College of San Mateo
+          3  CCI        Contra Costa College
           3  SULI       San Francisco State University
-          3  SULI       University of California-Irvine
-          3  CCI        Santa Barbara City College
           3  SULI       San Jose State University
-          3  SULI       University of California-Riverside
-          3  CCI        City College of San Francisco
-          3  SULI       University of Southern California
           3  SULI       Contra Costa College
-          2  SULI       California State University-East Bay
-          2  SULI       California State University-Fullerton
-          2  SULI       California State University-Los Angeles
-          2  SULI       California Lutheran University
-          2  SULI       California Institute of Technology
+          3  CCI        Hartnell College
+          2  CCI        Sacramento City College
+          2  SULI       Mills College
           2  SULI       Sacramento City College
-          2  SULI       Yuba College
-          2  SULI       Claremont McKenna College
-          2  SULI       Vanguard University of Southern California
-          2  CCI        San Joaquin Delta College
-          2  SULI       University of the Pacific
-          2  CCI        Canada College
+          2  CCI        Santa Barbara City College
+          2  SULI       California State University-Fullerton
           2  CCI        Ohlone College
-          2  CCI        Napa Valley College
+          2  SULI       University of California-Irvine
+          2  CCI        Canada College
+          2  SULI       University of the Pacific
+          2  SULI       University of Southern California
+          2  SULI       University of California-Riverside
+          2  CCI        Las Positas College
+          2  SULI       Claremont McKenna College
           2  SULI       City College of San Francisco
           1  SULI       Santa Clara University
-          1  SULI       Lincoln University
-          1  SULI       Laney College
-          1  SULI       University of San Diego
-          1  SULI       University of Redlands
-          1  SULI       Sonoma State University
-          1  SULI       University of La Verne
           1  SULI       Santa Monica College
           1  SULI       Skyline College
+          1  SULI       University of San Diego
           1  SULI       Point Loma Nazarene University
           1  SULI       Scripps College
-          1  SULI       San Diego State University
+          1  SULI       Lincoln University
+          1  SULI       Laney College
           1  SULI       Sierra College
-          1  CCI        Allan Hancock College
+          1  SULI       Vanguard University of Southern California
+          1  SULI       University of La Verne
+          1  CCI        American River College
           1  SULI       Chapman University
-          1  SULI       Chabot College
-          1  CCI        Los Medanos College
-          1  CCI        Los Angeles Valley College
-          1  CCI        Fresno City College
-          1  CCI        Foothill College
-          1  CCI        Evergreen Valley College
-          1  CCI        El Camino College
-          1  CCI        Diablo Valley College
-          1  CCI        De Anza College
-          1  CCI        Cuesta College
-          1  CCI        Crafton Hills College
-          1  CCI        College of the Canyons
-          1  CCI        College of Alameda
-          1  CCI        Cabrillo College
+          1  CCI        Saddleback College
           1  CCI        Berkeley City College
-          1  CCI        Austin Community College District
+          1  CCI        City College of San Francisco
+          1  CCI        College of Alameda
+          1  CCI        College of the Canyons
+          1  CCI        Crafton Hills College
+          1  CCI        Cuesta College
+          1  CCI        El Camino College
+          1  CCI        Evergreen Valley College
+          1  CCI        Foothill College
           1  CCI        Marshalltown Community College
           1  CCI        Mission College
           1  CCI        Monterey Peninsula College
-          1  CCI        University of California-Santa Cruz
-          1  SULI       California State University-Stanislaus
-          1  SULI       California State University-San Bernardino
-          1  SULI       California State University-Sacramento
-          1  SULI       California State University-Fresno
-          1  CCI        American River College
-          1  SULI       Biola University
-          1  CCI        Solano Community College
           1  CCI        Mt. San Jacinto College
-          1  CCI        Skyline College
-          1  CCI        Shasta College
-          1  CCI        Santa Rosa Junior College
-          1  CCI        Santa Monica College
+          1  CCI        Napa Valley College
           1  CCI        San Jose City College
-          1  CCI        Saddleback College
+          1  SULI       California State University-Stanislaus
+          1  CCI        Shasta College
+          1  CCI        Skyline College
+          1  CCI        Solano Community College
+          1  CCI        University of California-Santa Cruz
+          1  SULI       Biola University
+          1  SULI       California Institute of Technology
+          1  SULI       California State Polytechnic University-Pomona
           1  SULI       California State University-Bakersfield
+          1  SULI       California State University-East Bay
+          1  SULI       California State University-Fresno
+          1  CCI        Austin Community College District
+          1  SULI       California State University-Los Angeles
+          1  SULI       California State University-Sacramento
+          1  SULI       California State University-San Bernardino
+          1  SULI       Yuba College
 ```
 ---
 ---
@@ -363,13 +351,12 @@ In the past 8 years, this district has received:<b> $920,923 </b>in NSF MPS gran
   2012  CSU CHICO RESEARCH FOUNDATION                                 107,534
 ```
 ## SULI/CCI Interns
-From 2014-2016 (only years available), this district had 5 SULI/CCI interns
+From 2014-2016 (only years available), this district had 4 SULI/CCI interns
 ```
 Term         Name                 College                    Host Lab                               Program
 -----------  -------------------  -------------------------  -------------------------------------  ---------
 Summer 2016  Thayer Birch         Humboldt State University  Pacific Northwest National Laboratory  SULI
 Summer 2015  Julian Antony Quick  Humboldt State University  National Renewable Energy Laboratory   SULI
-Summer 2015  Chad Wilhite         Humboldt State University  Brookhaven National Laboratory         SULI
 Summer 2014  Lindsey Smith        Humboldt State University  Brookhaven National Laboratory         SULI
 Spring 2016  Julian Antony Quick  Humboldt State University  National Renewable Energy Laboratory   SULI
 ```
@@ -413,28 +400,20 @@ In the past 8 years, this district has received:<b> $32,341,416 </b>in NSF MPS g
   2015  UNIVERSITY OF CALIFORNIA, DAVIS     5,391,151
 ```
 ## SULI/CCI Interns
-From 2014-2016 (only years available), this district had 19 SULI/CCI interns
+From 2014-2016 (only years available), this district had 11 SULI/CCI interns
 ```
 Term         Name                      College                         Host Lab                                Program
 -----------  ------------------------  ------------------------------  --------------------------------------  ---------
-Summer 2016  Hasith Rajakarunanayake   University of California-Davis  Lawrence Berkeley National Laboratory   SULI
-Summer 2016  Mitchell Petures          University of California-Davis  Lawrence Berkeley National Laboratory   SULI
-Summer 2016  Jayke Samson Nguyen       University of California-Davis  Brookhaven National Laboratory          SULI
 Summer 2016  Jessi Hartman             University of California-Davis  Argonne National Laboratory             SULI
-Summer 2015  Navneet Dhaliwal          University of California-Davis  Brookhaven National Laboratory          SULI
-Summer 2015  Andre Gaglianone Miranda  University of California-Davis  SLAC National Accelerator Laboratory    SULI
-Summer 2015  Emma Julliette Willard    Yuba College                    General Atomics / DIII-D                SULI
-Summer 2015  Hamza Ammar               University of California-Davis  Lawrence Berkeley National Laboratory   SULI
-Summer 2015  Sarah de Bord             University of California-Davis  Sandia National Laboratory              SULI
 Summer 2015  Doniko Kingi              University of California-Davis  Lawrence Livermore National Laboratory  SULI
-Summer 2014  Sergio Banuelos           Yuba College                    SLAC National Accelerator Laboratory    SULI
-Summer 2014  Adrianna Amsden           University of California-Davis  Los Alamos National Laboratory          SULI
-Summer 2014  Kathryn Dahlgren          University of California-Davis  Sandia National Laboratory              SULI
+Summer 2015  Andre Gaglianone Miranda  University of California-Davis  SLAC National Accelerator Laboratory    SULI
 Summer 2014  Jamie Yates               University of California-Davis  Argonne National Laboratory             SULI
+Summer 2014  Bryan Lee                 University of California-Davis  Lawrence Livermore National Laboratory  SULI
 Summer 2014  Daniel James Nilson       University of California-Davis  Lawrence Livermore National Laboratory  SULI
 Summer 2014  Perry Leong               University of California-Davis  SLAC National Accelerator Laboratory    SULI
-Summer 2014  Bryan Lee                 University of California-Davis  Lawrence Livermore National Laboratory  SULI
+Summer 2014  Sergio Banuelos           Yuba College                    SLAC National Accelerator Laboratory    SULI
 Summer 2014  Andre Gaglianone Miranda  Solano Community College        SLAC National Accelerator Laboratory    CCI
+Summer 2014  Adrianna Amsden           University of California-Davis  Los Alamos National Laboratory          SULI
 Spring 2015  Evan Racah                University of California-Davis  Lawrence Berkeley National Laboratory   SULI
 ```
 ---
@@ -494,14 +473,11 @@ In the past 8 years, this district has received:<b> $1,020,047 </b>in NSF MPS gr
   2013  CALIFORNIA STATE UNIVERSITY               100,000
 ```
 ## SULI/CCI Interns
-From 2014-2016 (only years available), this district had 4 SULI/CCI interns
+From 2014-2016 (only years available), this district had 1 SULI/CCI intern
 ```
-Term         Name               College                    Host Lab                                Program
------------  -----------------  -------------------------  --------------------------------------  ---------
-Summer 2016  Sarah Castorena    Napa Valley College        Sandia National Laboratory              CCI
-Summer 2016  Klaire Hubbard     Napa Valley College        Brookhaven National Laboratory          CCI
-Summer 2014  Alexander Delzell  Santa Rosa Junior College  Sandia National Laboratory              CCI
-Spring 2014  fujun bernie       Sonoma State University    Lawrence Livermore National Laboratory  SULI
+Term         Name            College              Host Lab                        Program
+-----------  --------------  -------------------  ------------------------------  ---------
+Summer 2016  Klaire Hubbard  Napa Valley College  Brookhaven National Laboratory  CCI
 ```
 ---
 <a name="CA-06"></a>
@@ -529,13 +505,12 @@ In the past 8 years, this district has received:<b> $939,202 </b>in NSF MPS gran
   2012  CALIFORNIA STATE UNIVERSITY        100,000
 ```
 ## SULI/CCI Interns
-From 2014-2016 (only years available), this district had 7 SULI/CCI interns
+From 2014-2016 (only years available), this district had 6 SULI/CCI interns
 ```
 Term         Name                   College                                 Host Lab                                Program
 -----------  ---------------------  --------------------------------------  --------------------------------------  ---------
-Summer 2015  Allison Lo             Sacramento City College                 SLAC National Accelerator Laboratory    SULI
-Summer 2015  Steven Henry Robinson  Sacramento City College                 Fermi National Accelerator Laboratory   CCI
 Summer 2015  Don Huynh              American River College                  Lawrence Berkeley National Laboratory   CCI
+Summer 2015  Allison Lo             Sacramento City College                 SLAC National Accelerator Laboratory    SULI
 Spring 2016  Steven Henry Robinson  Sacramento City College                 Lawrence Berkeley National Laboratory   CCI
 Spring 2016  Avneet Singh           Sacramento City College                 Lawrence Berkeley National Laboratory   CCI
 Spring 2015  Hector Garcia Lomeli   California State University-Sacramento  Lawrence Livermore National Laboratory  SULI
@@ -650,14 +625,12 @@ In the past 8 years, this district has received:<b> $30,840,230 </b>in NSF MPS g
   2012  REGENTS OF THE UNIVERSITY OF CALIFORNIA, THE    24,206,519
 ```
 ## SULI/CCI Interns
-From 2014-2016 (only years available), this district had 4 SULI/CCI interns
+From 2014-2016 (only years available), this district had 2 SULI/CCI interns
 ```
-Term         Name                        College                    Host Lab                                Program
------------  --------------------------  -------------------------  --------------------------------------  ---------
-Summer 2016  Carolina Celeste Gutierrez  San Joaquin Delta College  Lawrence Berkeley National Laboratory   CCI
-Summer 2016  Cynthia Ruiz                San Joaquin Delta College  Lawrence Berkeley National Laboratory   CCI
-Summer 2014  Timothy Lee                 University of the Pacific  Lawrence Livermore National Laboratory  SULI
-Spring 2015  Charles Cameron Cornell     University of the Pacific  Lawrence Livermore National Laboratory  SULI
+Term         Name                     College                    Host Lab                                Program
+-----------  -----------------------  -------------------------  --------------------------------------  ---------
+Summer 2014  Timothy Lee              University of the Pacific  Lawrence Livermore National Laboratory  SULI
+Spring 2015  Charles Cameron Cornell  University of the Pacific  Lawrence Livermore National Laboratory  SULI
 ```
 ---
 <a name="CA-10"></a>
@@ -709,19 +682,16 @@ In the past 8 years, this district has received:<b> $330,000 </b>in NSF MPS gran
   2012  UNIVERSITY OF PACIFIC       180,000
 ```
 ## SULI/CCI Interns
-From 2014-2016 (only years available), this district had 9 SULI/CCI interns
+From 2014-2016 (only years available), this district had 6 SULI/CCI interns
 ```
-Term         Name                  College                Host Lab                                Program
------------  --------------------  ---------------------  --------------------------------------  ---------
-Summer 2016  Aigerim Daniyar       Contra Costa College   Lawrence Berkeley National Laboratory   CCI
-Summer 2016  Amritpal Kaur         Contra Costa College   Lawrence Berkeley National Laboratory   CCI
-Summer 2016  Tohid Saeed Moradi    Contra Costa College   Lawrence Berkeley National Laboratory   CCI
-Summer 2015  DUY MASUNO            Contra Costa College   Lawrence Berkeley National Laboratory   SULI
-Summer 2015  Jessica Isabell Shaw  Contra Costa College   Lawrence Livermore National Laboratory  SULI
-Summer 2014  Amanuel Gebreyesus    Contra Costa College   Lawrence Berkeley National Laboratory   CCI
-Summer 2014  Luis Mojica           Los Medanos College    Lawrence Berkeley National Laboratory   CCI
-Summer 2014  Emmanuel Valenton     Diablo Valley College  Sandia National Laboratory              CCI
-Spring 2016  Alejandro Romero      Contra Costa College   Lawrence Berkeley National Laboratory   SULI
+Term         Name                  College               Host Lab                                Program
+-----------  --------------------  --------------------  --------------------------------------  ---------
+Summer 2016  Amritpal Kaur         Contra Costa College  Lawrence Berkeley National Laboratory   CCI
+Summer 2016  Tohid Saeed Moradi    Contra Costa College  Lawrence Berkeley National Laboratory   CCI
+Summer 2015  DUY MASUNO            Contra Costa College  Lawrence Berkeley National Laboratory   SULI
+Summer 2015  Jessica Isabell Shaw  Contra Costa College  Lawrence Livermore National Laboratory  SULI
+Summer 2014  Amanuel Gebreyesus    Contra Costa College  Lawrence Berkeley National Laboratory   CCI
+Spring 2016  Alejandro Romero      Contra Costa College  Lawrence Berkeley National Laboratory   SULI
 ```
 ---
 <a name="CA-12"></a>
@@ -822,80 +792,62 @@ In the past 8 years, this district has received:<b> $158,411,843 </b>in NSF MPS 
   2012  CALIFORNIA STATE UNIVERSITY EAST BAY FOUNDATI        67,020
 ```
 ## SULI/CCI Interns
-From 2014-2016 (only years available), this district had 70 SULI/CCI interns
+From 2014-2016 (only years available), this district had 52 SULI/CCI interns
 ```
 Term         Name                        College                            Host Lab                                Program
 -----------  --------------------------  ---------------------------------  --------------------------------------  ---------
-Summer 2016  Ashley Elizabeth Cronk      Berkeley City College              Lawrence Berkeley National Laboratory   CCI
-Summer 2016  Danika Katherine Nimlos     University of California-Berkeley  Oak Ridge National Laboratory           SULI
-Summer 2016  Alexander Chuang            University of California-Berkeley  Ames National Laboratory                SULI
-Summer 2016  Joseph Labrum               University of California-Berkeley  Princeton Plasma Physics Laboratory     SULI
-Summer 2016  Anna I Leskova              University of California-Berkeley  SLAC National Accelerator Laboratory    SULI
 Summer 2016  Ken Jun Lim                 University of California-Berkeley  Idaho National Laboratory               SULI
-Summer 2016  Duy Masuno                  University of California-Berkeley  Lawrence Berkeley National Laboratory   SULI
-Summer 2016  Halley Radhika Nathwani     University of California-Berkeley  National Renewable Energy Laboratory    SULI
-Summer 2016  Vy Ngo                      University of California-Berkeley  Lawrence Berkeley National Laboratory   SULI
-Summer 2016  Jason Liu                   University of California-Berkeley  Lawrence Livermore National Laboratory  SULI
-Summer 2016  Anne Rosen                  University of California-Berkeley  Lawrence Berkeley National Laboratory   SULI
-Summer 2016  Emmanuel Valenton           University of California-Berkeley  Sandia National Laboratory              SULI
+Summer 2016  Joseph Labrum               University of California-Berkeley  Princeton Plasma Physics Laboratory     SULI
 Summer 2016  Jonathan Wang               University of California-Berkeley  Lawrence Berkeley National Laboratory   SULI
+Summer 2016  Ashley Elizabeth Cronk      Berkeley City College              Lawrence Berkeley National Laboratory   CCI
+Summer 2016  Jason Liu                   University of California-Berkeley  Lawrence Livermore National Laboratory  SULI
+Summer 2016  Halley Radhika Nathwani     University of California-Berkeley  National Renewable Energy Laboratory    SULI
 Summer 2016  Kevin Wu                    University of California-Berkeley  National Renewable Energy Laboratory    SULI
-Summer 2016  Maria Guadalupe Young       University of California-Berkeley  Oak Ridge National Laboratory           SULI
+Summer 2016  Duy Masuno                  University of California-Berkeley  Lawrence Berkeley National Laboratory   SULI
+Summer 2016  Vy Ngo                      University of California-Berkeley  Lawrence Berkeley National Laboratory   SULI
 Summer 2016  William Maxwell Wallace     Laney College                      Princeton Plasma Physics Laboratory     CCI
-Summer 2015  Ian Rachmiel Jones          University of California-Berkeley  Pacific Northwest National Laboratory   SULI
+Summer 2016  Maria Guadalupe Young       University of California-Berkeley  Oak Ridge National Laboratory           SULI
+Summer 2016  Alexander Chuang            University of California-Berkeley  Ames National Laboratory                SULI
+Summer 2016  Anna I Leskova              University of California-Berkeley  SLAC National Accelerator Laboratory    SULI
 Summer 2015  William Maxwell Wallace     Laney College                      Princeton Plasma Physics Laboratory     CCI
-Summer 2015  Van Thi Hong Vu             University of California-Berkeley  Lawrence Berkeley National Laboratory   SULI
-Summer 2015  Pascal Polonik              University of California-Berkeley  Lawrence Berkeley National Laboratory   SULI
-Summer 2015  Alison Ong                  University of California-Berkeley  SLAC National Accelerator Laboratory    SULI
-Summer 2015  Brandon Scott McKinzie      University of California-Berkeley  Brookhaven National Laboratory          SULI
-Summer 2015  Jacob Maddox                University of California-Berkeley  Princeton Plasma Physics Laboratory     SULI
-Summer 2015  Michelle Victoria Koo       University of California-Berkeley  Lawrence Berkeley National Laboratory   SULI
-Summer 2015  Michael Anthony Knyszek     University of California-Berkeley  Princeton Plasma Physics Laboratory     SULI
-Summer 2015  Stefan Christian Klein      University of California-Berkeley  National Renewable Energy Laboratory    SULI
 Summer 2015  Jon Weiner                  University of California-Berkeley  Oak Ridge National Laboratory           SULI
-Summer 2015  Vince Hipwell               University of California-Berkeley  Lawrence Berkeley National Laboratory   SULI
 Summer 2015  John Mehmet Dagdelen        University of California-Berkeley  National Renewable Energy Laboratory    SULI
-Summer 2015  Connie Chen                 University of California-Berkeley  Sandia National Laboratory              SULI
+Summer 2015  Ian Rachmiel Jones          University of California-Berkeley  Pacific Northwest National Laboratory   SULI
+Summer 2015  Brandon Scott McKinzie      University of California-Berkeley  Brookhaven National Laboratory          SULI
+Summer 2015  Michael Anthony Knyszek     University of California-Berkeley  Princeton Plasma Physics Laboratory     SULI
 Summer 2015  Lauren Capelluto            University of California-Berkeley  Brookhaven National Laboratory          SULI
-Summer 2015  Xiuwen Cao                  University of California-Berkeley  Lawrence Berkeley National Laboratory   SULI
-Summer 2015  Chaitanya Aluru             University of California-Berkeley  Lawrence Berkeley National Laboratory   SULI
 Summer 2015  Narayan Shyamal Gopinathan  University of California-Berkeley  Lawrence Berkeley National Laboratory   SULI
-Summer 2014  Jeronimo Mora               Laney College                      Lawrence Livermore National Laboratory  CCI
-Summer 2014  Daniel Hwai-en Hsieh        University of California-Berkeley  Lawrence Berkeley National Laboratory   SULI
+Summer 2015  Pascal Polonik              University of California-Berkeley  Lawrence Berkeley National Laboratory   SULI
+Summer 2015  Michelle Victoria Koo       University of California-Berkeley  Lawrence Berkeley National Laboratory   SULI
+Summer 2015  Vince Hipwell               University of California-Berkeley  Lawrence Berkeley National Laboratory   SULI
+Summer 2015  Chaitanya Aluru             University of California-Berkeley  Lawrence Berkeley National Laboratory   SULI
 Summer 2014  Tom (Tien Wei) Lee          University of California-Berkeley  Lawrence Berkeley National Laboratory   SULI
-Summer 2014  Samuel McAlpine             University of California-Berkeley  Lawrence Livermore National Laboratory  SULI
 Summer 2014  Kristi Michelle Short       Mills College                      Ames National Laboratory                SULI
-Summer 2014  Jenine Hassoun              University of California-Berkeley  Lawrence Berkeley National Laboratory   SULI
 Summer 2014  Gabriel John Pillitiere     Laney College                      Oak Ridge National Laboratory           CCI
 Summer 2014  Dominique Yancey Piens      Laney College                      Lawrence Berkeley National Laboratory   CCI
 Summer 2014  Dennis Yu                   College of Alameda                 Lawrence Berkeley National Laboratory   CCI
-Spring 2016  Benjamin Peter Leroy        University of California-Berkeley  Lawrence Berkeley National Laboratory   SULI
+Summer 2014  Daniel Hwai-en Hsieh        University of California-Berkeley  Lawrence Berkeley National Laboratory   SULI
 Spring 2016  Manuel Silva                University of California-Berkeley  Lawrence Berkeley National Laboratory   SULI
 Spring 2016  Tom (Tien Wei) Lee          University of California-Berkeley  Lawrence Livermore National Laboratory  SULI
-Spring 2015  Joel Grebel                 University of California-Berkeley  Argonne National Laboratory             SULI
-Spring 2015  Nicholas Englund            University of California-Berkeley  Lawrence Berkeley National Laboratory   SULI
-Spring 2015  Chun Man Chow               University of California-Berkeley  Argonne National Laboratory             SULI
 Spring 2015  Abelardo Arellano           University of California-Berkeley  Lawrence Berkeley National Laboratory   SULI
-Spring 2015  Jillian Kimberly Steele     Mills College                      Lawrence Berkeley National Laboratory   SULI
+Spring 2015  Nicholas Englund            University of California-Berkeley  Lawrence Berkeley National Laboratory   SULI
+Spring 2015  Joel Grebel                 University of California-Berkeley  Argonne National Laboratory             SULI
 Spring 2015  Darwin Zwissler             University of California-Berkeley  Lawrence Livermore National Laboratory  SULI
-Spring 2014  Andrew Brian Pun            University of California-Berkeley  Lawrence Berkeley National Laboratory   SULI
+Spring 2015  Chun Man Chow               University of California-Berkeley  Argonne National Laboratory             SULI
+Spring 2014  Karen Chong                 University of California-Berkeley  Lawrence Berkeley National Laboratory   SULI
+Spring 2014  Richard Beck                University of California-Berkeley  Lawrence Livermore National Laboratory  SULI
 Spring 2014  Jae Ho Lee                  University of California-Berkeley  Lawrence Berkeley National Laboratory   SULI
 Spring 2014  Jerry Lin                   University of California-Berkeley  Pacific Northwest National Laboratory   SULI
-Spring 2014  Karen Chong                 University of California-Berkeley  Lawrence Berkeley National Laboratory   SULI
-Spring 2014  Maris Arthurs               University of California-Berkeley  Lawrence Berkeley National Laboratory   SULI
-Spring 2014  Richard Beck                University of California-Berkeley  Lawrence Livermore National Laboratory  SULI
-Fall 2015    April M Dawoud              Laney College                      Lawrence Berkeley National Laboratory   SULI
 Fall 2015    Dianne Quiroz               University of California-Berkeley  Lawrence Berkeley National Laboratory   SULI
-Fall 2015    Jacob Maddox                University of California-Berkeley  Princeton Plasma Physics Laboratory     SULI
 Fall 2015    Jason Liu                   University of California-Berkeley  Lawrence Livermore National Laboratory  SULI
-Fall 2015    YAN LEI                     University of California-Berkeley  Lawrence Berkeley National Laboratory   SULI
 Fall 2015    Suhas Ganjam                University of California-Berkeley  Lawrence Berkeley National Laboratory   SULI
-Fall 2014    Abelardo Arellano           University of California-Berkeley  Lawrence Berkeley National Laboratory   SULI
-Fall 2014    William James Connacher     University of California-Berkeley  Argonne National Laboratory             SULI
-Fall 2014    Jillian Kimberly Steele     Mills College                      Lawrence Berkeley National Laboratory   SULI
+Fall 2015    YAN LEI                     University of California-Berkeley  Lawrence Berkeley National Laboratory   SULI
+Fall 2015    April M Dawoud              Laney College                      Lawrence Berkeley National Laboratory   SULI
 Fall 2014    Nicholas Englund            University of California-Berkeley  Lawrence Berkeley National Laboratory   SULI
-Fall 2014    Adam Lowery                 Lincoln University                 Brookhaven National Laboratory          SULI
 Fall 2014    Darwin Zwissler             University of California-Berkeley  Lawrence Livermore National Laboratory  SULI
+Fall 2014    Jillian Kimberly Steele     Mills College                      Lawrence Berkeley National Laboratory   SULI
+Fall 2014    William James Connacher     University of California-Berkeley  Argonne National Laboratory             SULI
+Fall 2014    Adam Lowery                 Lincoln University                 Brookhaven National Laboratory          SULI
 ```
 ---
 <a name="CA-14"></a>
@@ -951,24 +903,21 @@ In the past 8 years, this district has received:<b> $36,654,160 </b>in NSF MPS g
   2012  SRI INTERNATIONAL                         10,613,289
 ```
 ## SULI/CCI Interns
-From 2014-2016 (only years available), this district had 14 SULI/CCI interns
+From 2014-2016 (only years available), this district had 11 SULI/CCI interns
 ```
-Term         Name                           College                         Host Lab                               Program
------------  -----------------------------  ------------------------------  -------------------------------------  ---------
-Summer 2016  Katherine Dunne                City College of San Francisco   Lawrence Berkeley National Laboratory  CCI
-Summer 2016  Alycia Kaplan                  City College of San Francisco   SLAC National Accelerator Laboratory   CCI
-Summer 2016  Alexander Jesse Gillanders     San Francisco State University  Lawrence Berkeley National Laboratory  SULI
-Summer 2016  Megan Louise Mayer             San Francisco State University  Ames National Laboratory               SULI
-Summer 2015  Quan My Tran                   Skyline College                 Idaho National Laboratory              SULI
-Summer 2015  Miguel Antonio Torres Bernabe  College of San Mateo            Lawrence Berkeley National Laboratory  CCI
-Summer 2015  Victor Raul Chacon             College of San Mateo            Lawrence Berkeley National Laboratory  CCI
-Summer 2015  Austin Djang                   College of San Mateo            SLAC National Accelerator Laboratory   CCI
-Summer 2014  Alexandra Saari                City College of San Francisco   Los Alamos National Laboratory         SULI
-Summer 2014  Roger Edward Monroy            City College of San Francisco   SLAC National Accelerator Laboratory   CCI
-Summer 2014  Mejdi Mogannam                 Skyline College                 Lawrence Berkeley National Laboratory  CCI
-Summer 2014  Heriberto Rodriguez            College of San Mateo            Lawrence Berkeley National Laboratory  CCI
-Spring 2016  Lauren Fletcher                San Francisco State University  Pacific Northwest National Laboratory  SULI
-Fall 2015    Megan Farley                   City College of San Francisco   Lawrence Berkeley National Laboratory  SULI
+Term         Name                        College                         Host Lab                               Program
+-----------  --------------------------  ------------------------------  -------------------------------------  ---------
+Summer 2016  Alexander Jesse Gillanders  San Francisco State University  Lawrence Berkeley National Laboratory  SULI
+Summer 2016  Megan Louise Mayer          San Francisco State University  Ames National Laboratory               SULI
+Summer 2015  Victor Raul Chacon          College of San Mateo            Lawrence Berkeley National Laboratory  CCI
+Summer 2015  Austin Djang                College of San Mateo            SLAC National Accelerator Laboratory   CCI
+Summer 2015  Quan My Tran                Skyline College                 Idaho National Laboratory              SULI
+Summer 2014  Mejdi Mogannam              Skyline College                 Lawrence Berkeley National Laboratory  CCI
+Summer 2014  Heriberto Rodriguez         College of San Mateo            Lawrence Berkeley National Laboratory  CCI
+Summer 2014  Roger Edward Monroy         City College of San Francisco   SLAC National Accelerator Laboratory   CCI
+Summer 2014  Alexandra Saari             City College of San Francisco   Los Alamos National Laboratory         SULI
+Spring 2016  Lauren Fletcher             San Francisco State University  Pacific Northwest National Laboratory  SULI
+Fall 2015    Megan Farley                City College of San Francisco   Lawrence Berkeley National Laboratory  SULI
 ```
 ---
 <a name="CA-15"></a>
@@ -1002,19 +951,13 @@ In the past 8 years, this district has received:<b> $967,252 </b>in NSF MPS gran
   2012  PRESIDENT AND BOARD OF TRUSTEES OF SANTA CLAR          39,015
 ```
 ## SULI/CCI Interns
-From 2014-2016 (only years available), this district had 9 SULI/CCI interns
+From 2014-2016 (only years available), this district had 3 SULI/CCI interns
 ```
-Term         Name              College                               Host Lab                                Program
------------  ----------------  ------------------------------------  --------------------------------------  ---------
-Summer 2016  Komal Rana        California State University-East Bay  Pacific Northwest National Laboratory   SULI
-Summer 2016  Aaron Czeszynski  Las Positas College                   Sandia National Laboratory              CCI
-Summer 2016  Jorge Ligeti      Las Positas College                   Lawrence Livermore National Laboratory  CCI
-Summer 2015  Ian Wei Ging Liu  Las Positas College                   Sandia National Laboratory              CCI
-Summer 2014  satinder singh    California State University-East Bay  Lawrence Berkeley National Laboratory   SULI
-Summer 2014  Logan Bekker      Las Positas College                   Lawrence Livermore National Laboratory  CCI
-Summer 2014  Samira Iqbal      Las Positas College                   Sandia National Laboratory              CCI
-Summer 2014  Pritvi Raj Kumar  Las Positas College                   Sandia National Laboratory              CCI
-Spring 2015  Efrain Cuellar    Chabot College                        Lawrence Berkeley National Laboratory   SULI
+Term         Name          College                               Host Lab                                Program
+-----------  ------------  ------------------------------------  --------------------------------------  ---------
+Summer 2016  Jorge Ligeti  Las Positas College                   Lawrence Livermore National Laboratory  CCI
+Summer 2016  Komal Rana    California State University-East Bay  Pacific Northwest National Laboratory   SULI
+Summer 2014  Logan Bekker  Las Positas College                   Lawrence Livermore National Laboratory  CCI
 ```
 ---
 <a name="CA-16"></a>
@@ -1049,19 +992,16 @@ In the past 8 years, this district has received:<b> $7,618,128 </b>in NSF MPS gr
   2012  SAN JOSE STATE UNIVERSITY RESEARCH FOUNDATION           220,000
 ```
 ## SULI/CCI Interns
-From 2014-2016 (only years available), this district had 10 SULI/CCI interns
+From 2014-2016 (only years available), this district had 7 SULI/CCI interns
 ```
 Term         Name                        College                            Host Lab                                Program
 -----------  --------------------------  ---------------------------------  --------------------------------------  ---------
 Summer 2016  Salvatore Thomas Angrisani  University of California - Merced  Argonne National Laboratory             SULI
-Summer 2015  John Angelo Cronin          University of California - Merced  Lawrence Berkeley National Laboratory   SULI
 Summer 2015  Dylan Lee Dahlquist         University of California - Merced  Lawrence Livermore National Laboratory  SULI
-Summer 2015  Kalvin Ogbuefi              University of California - Merced  National Renewable Energy Laboratory    SULI
 Summer 2014  Forrest Martin Angle        University of California - Merced  National Renewable Energy Laboratory    SULI
 Spring 2016  Timothy Clopp               University of California - Merced  Argonne National Laboratory             SULI
-Spring 2016  Sameet Singh                Fresno City College                Brookhaven National Laboratory          CCI
-Spring 2015  Ashley LaDonna Hall         University of California - Merced  Lawrence Livermore National Laboratory  SULI
 Spring 2015  Jenny Pang                  University of California - Merced  Lawrence Berkeley National Laboratory   SULI
+Spring 2015  Ashley LaDonna Hall         University of California - Merced  Lawrence Livermore National Laboratory  SULI
 Fall 2015    Kalvin Ogbuefi              University of California - Merced  Idaho National Laboratory               SULI
 ```
 ---
@@ -1108,15 +1048,14 @@ In the past 8 years, this district has received:<b> $11,443,188 </b>in NSF MPS g
   2012  UNIVERSITY OF CALIFORNIA, SANTA CRUZ                       4,733,020
 ```
 ## SULI/CCI Interns
-From 2014-2016 (only years available), this district had 5 SULI/CCI interns
+From 2014-2016 (only years available), this district had 4 SULI/CCI interns
 ```
 Term         Name                     College                 Host Lab                                Program
 -----------  -----------------------  ----------------------  --------------------------------------  ---------
-Summer 2016  Melissa Robin Ng         Ohlone College          Lawrence Livermore National Laboratory  CCI
 Summer 2016  Chance Alexander Shore   Ohlone College          Lawrence Berkeley National Laboratory   CCI
-Summer 2015  Adrienne Fernandez Tina  Santa Clara University  SLAC National Accelerator Laboratory    SULI
+Summer 2016  Melissa Robin Ng         Ohlone College          Lawrence Livermore National Laboratory  CCI
 Summer 2015  Vy Ngo                   Mission College         Lawrence Berkeley National Laboratory   CCI
-Summer 2014  Colin Nguyen             De Anza College         Lawrence Berkeley National Laboratory   CCI
+Summer 2015  Adrienne Fernandez Tina  Santa Clara University  SLAC National Accelerator Laboratory    SULI
 ```
 ---
 <a name="CA-18"></a>
@@ -1188,23 +1127,20 @@ In the past 8 years, this district has received:<b> $123,565,591 </b>in NSF MPS 
   2012  UNIVERSITY OF CALIFORNIA MERCED              943,694
 ```
 ## SULI/CCI Interns
-From 2014-2016 (only years available), this district had 13 SULI/CCI interns
+From 2014-2016 (only years available), this district had 10 SULI/CCI interns
 ```
 Term         Name                       College                Host Lab                                Program
 -----------  -------------------------  ---------------------  --------------------------------------  ---------
-Summer 2016  David Lafehr               Stanford University    National Renewable Energy Laboratory    SULI
-Summer 2016  Leonard C Lupin-Jimenez    Stanford University    General Atomics / DIII-D                SULI
 Summer 2016  Georgia Elizabeth Murray   Stanford University    Lawrence Livermore National Laboratory  SULI
-Summer 2016  Chloe Rickards             Stanford University    Los Alamos National Laboratory          SULI
+Summer 2016  David Lafehr               Stanford University    National Renewable Energy Laboratory    SULI
 Summer 2016  Martin Douglas Adams       Canada College         Fermi National Accelerator Laboratory   CCI
-Summer 2015  Nicholas Michio Broad      Stanford University    Lawrence Livermore National Laboratory  SULI
-Summer 2015  Allison Crow               Stanford University    National Renewable Energy Laboratory    SULI
 Summer 2015  Roger Samir Isied          Foothill College       Brookhaven National Laboratory          CCI
 Summer 2015  Federico Lopez-Casildo Jr  Canada College         Lawrence Berkeley National Laboratory   CCI
-Summer 2014  Brandon Taylor Buscaino    Stanford University    Lawrence Livermore National Laboratory  SULI
+Summer 2015  Nicholas Michio Broad      Stanford University    Lawrence Livermore National Laboratory  SULI
+Summer 2015  Allison Crow               Stanford University    National Renewable Energy Laboratory    SULI
 Summer 2014  Nancy Carlos               Stanford University    Lawrence Berkeley National Laboratory   SULI
-Summer 2014  Owen Michael Oneal         Stanford University    National Renewable Energy Laboratory    SULI
 Summer 2014  Yin Yin                    San Jose City College  Lawrence Berkeley National Laboratory   CCI
+Summer 2014  Brandon Taylor Buscaino    Stanford University    Lawrence Livermore National Laboratory  SULI
 ```
 ---
 <a name="CA-19"></a>
@@ -1288,23 +1224,21 @@ In the past 8 years, this district has received:<b> $24,052,208 </b>in NSF MPS g
   2013  UNIVERSITY OF CALIFORNIA, SANTA CRUZ       5,187,706
 ```
 ## SULI/CCI Interns
-From 2014-2016 (only years available), this district had 14 SULI/CCI interns
+From 2014-2016 (only years available), this district had 12 SULI/CCI interns
 ```
 Term         Name                        College                              Host Lab                                Program
 -----------  --------------------------  -----------------------------------  --------------------------------------  ---------
 Summer 2016  Peter Harrington            University of California-Santa Cruz  SLAC National Accelerator Laboratory    SULI
 Summer 2016  Kelin Kurzer-Ogul           University of California-Santa Cruz  SLAC National Accelerator Laboratory    SULI
-Summer 2016  Adriaan Daniel Knox         Hartnell College                     Oak Ridge National Laboratory           CCI
-Summer 2016  Brady Robertson             Cabrillo College                     Lawrence Berkeley National Laboratory   CCI
-Summer 2015  Luc d'Hauthuille            University of California-Santa Cruz  Princeton Plasma Physics Laboratory     SULI
-Summer 2015  Jarred Gillette             University of California-Santa Cruz  SLAC National Accelerator Laboratory    SULI
-Summer 2015  Megan Renee Splettstoesser  University of California-Santa Cruz  SLAC National Accelerator Laboratory    SULI
 Summer 2015  Daniel Ramos                University of California-Santa Cruz  Lawrence Berkeley National Laboratory   CCI
 Summer 2015  Gavin Jules Sonne           Hartnell College                     Lawrence Livermore National Laboratory  CCI
+Summer 2015  Luc d'Hauthuille            University of California-Santa Cruz  Princeton Plasma Physics Laboratory     SULI
 Summer 2015  Adriaan Daniel Knox         Monterey Peninsula College           Oak Ridge National Laboratory           CCI
+Summer 2015  Jarred Gillette             University of California-Santa Cruz  SLAC National Accelerator Laboratory    SULI
+Summer 2015  Megan Renee Splettstoesser  University of California-Santa Cruz  SLAC National Accelerator Laboratory    SULI
+Summer 2014  Harjyot Singh Mohar         Hartnell College                     Lawrence Berkeley National Laboratory   CCI
 Summer 2014  Athena Lauren Gallegos      University of California-Santa Cruz  SLAC National Accelerator Laboratory    SULI
 Summer 2014  Benjamin Stahl              University of California-Santa Cruz  SLAC National Accelerator Laboratory    SULI
-Summer 2014  Harjyot Singh Mohar         Hartnell College                     Lawrence Berkeley National Laboratory   CCI
 Summer 2014  Jaime Vasquez               Hartnell College                     Fermi National Accelerator Laboratory   CCI
 ```
 ---
@@ -1461,29 +1395,27 @@ In the past 8 years, this district has received:<b> $111,905,361 </b>in NSF MPS 
   2013  CAL POLY CORPORATION                                         752,027
 ```
 ## SULI/CCI Interns
-From 2014-2016 (only years available), this district had 23 SULI/CCI interns
+From 2014-2016 (only years available), this district had 21 SULI/CCI interns
 ```
 Term         Name                            College                                                  Host Lab                                Program
 -----------  ------------------------------  -------------------------------------------------------  --------------------------------------  ---------
-Summer 2016  Kyle Douglas Wycoff             University of California-Santa Barbara                   Lawrence Berkeley National Laboratory   SULI
+Summer 2016  Howard Graham Giese             Cuesta College                                           Brookhaven National Laboratory          CCI
+Summer 2016  Kenneth B Ainslie               California Polytechnic State University-San Luis Obispo  Lawrence Berkeley National Laboratory   SULI
 Summer 2016  Pedro Mariano Mariano Da Silva  University of California-Santa Barbara                   Idaho National Laboratory               SULI
-Summer 2016  Pavel Anisimovich Dolin         Santa Barbara City College                               Fermi National Accelerator Laboratory   CCI
+Summer 2016  Zulfi-Khar Ahmad Ali            University of California-Santa Barbara                   SLAC National Accelerator Laboratory    SULI
+Summer 2016  Leo William Turner Parsons      California Polytechnic State University-San Luis Obispo  Oak Ridge National Laboratory           SULI
+Summer 2016  Ricardo Vidrio                  University of California-Santa Barbara                   Oak Ridge National Laboratory           SULI
 Summer 2016  Nathan Yee                      California Polytechnic State University-San Luis Obispo  Lawrence Livermore National Laboratory  SULI
 Summer 2016  Alexander Pink                  California Polytechnic State University-San Luis Obispo  National Renewable Energy Laboratory    SULI
-Summer 2016  Leo William Turner Parsons      California Polytechnic State University-San Luis Obispo  Oak Ridge National Laboratory           SULI
-Summer 2016  Kenneth B Ainslie               California Polytechnic State University-San Luis Obispo  Lawrence Berkeley National Laboratory   SULI
-Summer 2016  Ricardo Vidrio                  University of California-Santa Barbara                   Oak Ridge National Laboratory           SULI
-Summer 2016  Howard Graham Giese             Cuesta College                                           Brookhaven National Laboratory          CCI
+Summer 2016  Kyle Douglas Wycoff             University of California-Santa Barbara                   Lawrence Berkeley National Laboratory   SULI
 Summer 2016  Cobi James Allen                University of California-Santa Barbara                   Lawrence Berkeley National Laboratory   SULI
-Summer 2016  Zulfi-Khar Ahmad Ali            University of California-Santa Barbara                   SLAC National Accelerator Laboratory    SULI
+Summer 2016  Pavel Anisimovich Dolin         Santa Barbara City College                               Fermi National Accelerator Laboratory   CCI
 Summer 2015  Aron Daw                        California Polytechnic State University-San Luis Obispo  Lawrence Livermore National Laboratory  SULI
-Summer 2015  Alina Aurora Lusebrink          California Polytechnic State University-San Luis Obispo  Fermi National Accelerator Laboratory   SULI
 Summer 2015  Alexandra Saari                 University of California-Santa Barbara                   Los Alamos National Laboratory          SULI
-Summer 2015  Vanessa Alexandra Imani         Santa Barbara City College                               Lawrence Berkeley National Laboratory   CCI
-Summer 2014  Celeste Maureen Bean            University of California-Santa Barbara                   Los Alamos National Laboratory          SULI
-Summer 2014  Andrew James Boniface           Allan Hancock College                                    Ames National Laboratory                CCI
-Summer 2014  Brandan Boyle                   Santa Barbara City College                               SLAC National Accelerator Laboratory    CCI
+Summer 2015  Alina Aurora Lusebrink          California Polytechnic State University-San Luis Obispo  Fermi National Accelerator Laboratory   SULI
 Summer 2014  Jiayi Jiang                     University of California-Santa Barbara                   SLAC National Accelerator Laboratory    SULI
+Summer 2014  Brandan Boyle                   Santa Barbara City College                               SLAC National Accelerator Laboratory    CCI
+Summer 2014  Celeste Maureen Bean            University of California-Santa Barbara                   Los Alamos National Laboratory          SULI
 Spring 2015  Elizabeth Levy                  University of California-Santa Barbara                   Lawrence Berkeley National Laboratory   SULI
 Spring 2014  Victoria Ann Xu                 University of California-Santa Barbara                   Lawrence Berkeley National Laboratory   SULI
 Fall 2015    Brett Dolan Russell             University of California-Santa Barbara                   Lawrence Berkeley National Laboratory   SULI
@@ -1551,12 +1483,8 @@ In the past 8 years, this district has received:<b> $940,035 </b>in NSF MPS gran
   2012  POMONA COLLEGE                                      56,236
 ```
 ## SULI/CCI Interns
-From 2014-2016 (only years available), this district had 2 SULI/CCI interns
 ```
-Term         Name                     College                         Host Lab                               Program
------------  -----------------------  ------------------------------  -------------------------------------  ---------
-Summer 2014  Astrid Marisol Olivares  California Lutheran University  Pacific Northwest National Laboratory  SULI
-Spring 2016  Matt Bryson              California Lutheran University  Lawrence Berkeley National Laboratory  SULI
+This district had no SULI/CCI interns from 2014-2016 (only years available)
 ```
 ---
 <a name="CA-27"></a>
@@ -1629,25 +1557,20 @@ In the past 8 years, this district has received:<b> $384,485,832 </b>in NSF MPS 
   2012  UNIVERSITY CORPORATION, THE              792,000
 ```
 ## SULI/CCI Interns
-From 2014-2016 (only years available), this district had 18 SULI/CCI interns
+From 2014-2016 (only years available), this district had 13 SULI/CCI interns
 ```
 Term         Name                    College                             Host Lab                               Program
 -----------  ----------------------  ----------------------------------  -------------------------------------  ---------
-Summer 2016  Nina Maureen Vincent    Scripps College                     National Renewable Energy Laboratory   SULI
-Summer 2016  Lucille Wells           California Institute of Technology  Los Alamos National Laboratory         SULI
-Summer 2016  Jenny Smith             Harvey Mudd College                 SLAC National Accelerator Laboratory   SULI
-Summer 2016  Olivia Schneble         Harvey Mudd College                 National Renewable Energy Laboratory   SULI
 Summer 2016  Rachel Mow              Harvey Mudd College                 National Renewable Energy Laboratory   SULI
+Summer 2016  Olivia Schneble         Harvey Mudd College                 National Renewable Energy Laboratory   SULI
+Summer 2016  Nina Maureen Vincent    Scripps College                     National Renewable Energy Laboratory   SULI
 Summer 2016  Marisol Beck            Harvey Mudd College                 Oak Ridge National Laboratory          SULI
-Summer 2016  Benjamin Gregory        Pomona College                      Lawrence Berkeley National Laboratory  SULI
 Summer 2016  Nathan Ross Sandford    Pomona College                      SLAC National Accelerator Laboratory   SULI
-Summer 2016  Matthew Byong Bae       Harvey Mudd College                 Lawrence Berkeley National Laboratory  SULI
-Summer 2015  Emily Beese             Harvey Mudd College                 National Renewable Energy Laboratory   SULI
+Summer 2016  Lucille Wells           California Institute of Technology  Los Alamos National Laboratory         SULI
 Summer 2015  Noah James Stanton      Pomona College                      National Renewable Energy Laboratory   SULI
 Summer 2015  Ryan Adam Dodson        Pomona College                      Los Alamos National Laboratory         SULI
-Summer 2014  Celeste Melamed         Harvey Mudd College                 National Renewable Energy Laboratory   SULI
 Summer 2014  Aleksandra Karapetrova  Pomona College                      Argonne National Laboratory            SULI
-Summer 2014  Naoki Eto               California Institute of Technology  Lawrence Berkeley National Laboratory  SULI
+Summer 2014  Celeste Melamed         Harvey Mudd College                 National Renewable Energy Laboratory   SULI
 Spring 2015  Roxanne Fries           Claremont McKenna College           Lawrence Berkeley National Laboratory  SULI
 Fall 2015    Noah James Stanton      Pomona College                      National Renewable Energy Laboratory   SULI
 Fall 2014    Roxanne Fries           Claremont McKenna College           Lawrence Berkeley National Laboratory  SULI
@@ -1721,11 +1644,8 @@ In the past 8 years, this district has received:<b> $73,989,777 </b>in NSF MPS g
   2012  MULTIPLE RECIPIENTS                      474,000
 ```
 ## SULI/CCI Interns
-From 2014-2016 (only years available), this district had 1 SULI/CCI intern
 ```
-Term         Name                  College                     Host Lab                             Program
------------  --------------------  --------------------------  -----------------------------------  ---------
-Summer 2015  Ivan Abelardo Merino  Los Angeles Valley College  Princeton Plasma Physics Laboratory  CCI
+This district had no SULI/CCI interns from 2014-2016 (only years available)
 ```
 ---
 <a name="CA-30"></a>
@@ -1804,11 +1724,10 @@ In the past 8 years, this district has received:<b> $1,790,904 </b>in NSF MPS gr
   2012  OCCIDENTAL COLLEGE                                256,000
 ```
 ## SULI/CCI Interns
-From 2014-2016 (only years available), this district had 2 SULI/CCI interns
+From 2014-2016 (only years available), this district had 1 SULI/CCI intern
 ```
 Term         Name           College                                     Host Lab                   Program
 -----------  -------------  ------------------------------------------  -------------------------  ---------
-Summer 2016  Mickie Hirata  University of Redlands                      General Atomics / DIII-D   SULI
 Summer 2014  Jared Johnson  California State University-San Bernardino  Idaho National Laboratory  SULI
 ```
 ---
@@ -1890,21 +1809,16 @@ In the past 8 years, this district has received:<b> $108,523,226 </b>in NSF MPS 
   2012  UNIVERSITY OF SOUTHERN CALIFORNIA         6,907,117
 ```
 ## SULI/CCI Interns
-From 2014-2016 (only years available), this district had 13 SULI/CCI interns
+From 2014-2016 (only years available), this district had 8 SULI/CCI interns
 ```
 Term         Name                            College                               Host Lab                                Program
 -----------  ------------------------------  ------------------------------------  --------------------------------------  ---------
-Summer 2016  Akash Neal Biswas               University of California-Los Angeles  Sandia National Laboratory              SULI
 Summer 2016  Austin Nicholas Park            University of California-Los Angeles  Lawrence Berkeley National Laboratory   SULI
 Summer 2016  Karen Erisse Martin Tolentino   University of California-Los Angeles  Lawrence Berkeley National Laboratory   SULI
 Summer 2015  Austin Kassels                  University of California-Los Angeles  Lawrence Livermore National Laboratory  SULI
 Summer 2014  Justin Carl Ondry               University of California-Los Angeles  Lawrence Berkeley National Laboratory   SULI
-Summer 2014  Wen Yu Peng                     University of California-Los Angeles  Sandia National Laboratory              SULI
-Summer 2014  Moe Wai Aung                    Santa Monica College                  Lawrence Berkeley National Laboratory   CCI
-Spring 2016  Chloe Groome                    University of California-Los Angeles  Lawrence Berkeley National Laboratory   SULI
-Spring 2016  Camilla Dodge Koslowsky Harris  University of California-Los Angeles  Los Alamos National Laboratory          SULI
-Spring 2016  Jacquelynne Vaughan             University of California-Los Angeles  Los Alamos National Laboratory          SULI
 Spring 2016  Angelica Ottaviano              Santa Monica College                  Princeton Plasma Physics Laboratory     SULI
+Spring 2016  Camilla Dodge Koslowsky Harris  University of California-Los Angeles  Los Alamos National Laboratory          SULI
 Fall 2015    Chloe Groome                    University of California-Los Angeles  Lawrence Berkeley National Laboratory   SULI
 Fall 2015    Camilla Dodge Koslowsky Harris  University of California-Los Angeles  Los Alamos National Laboratory          SULI
 ```
@@ -1945,12 +1859,11 @@ In the past 8 years, this district has received:<b> $5,203,442 </b>in NSF MPS gr
   2013  OCCIDENTAL COLLEGE                                        188,000
 ```
 ## SULI/CCI Interns
-From 2014-2016 (only years available), this district had 2 SULI/CCI interns
+From 2014-2016 (only years available), this district had 1 SULI/CCI intern
 ```
 Term         Name           College                                  Host Lab                        Program
 -----------  -------------  ---------------------------------------  ------------------------------  ---------
 Summer 2014  Juliette Ohan  California State University-Los Angeles  Los Alamos National Laboratory  SULI
-Spring 2014  Juliette Ohan  California State University-Los Angeles  Los Alamos National Laboratory  SULI
 ```
 ---
 <a name="CA-35"></a>
@@ -1979,13 +1892,11 @@ In the past 8 years, this district has received:<b> $1,402,469 </b>in NSF MPS gr
   2013  CAL POLY POMONA FOUNDATION INC        45,288
 ```
 ## SULI/CCI Interns
-From 2014-2016 (only years available), this district had 3 SULI/CCI interns
+From 2014-2016 (only years available), this district had 1 SULI/CCI intern
 ```
-Term         Name                        College                                         Host Lab                                Program
------------  --------------------------  ----------------------------------------------  --------------------------------------  ---------
-Summer 2015  Christopher William Nilsen  California State Polytechnic University-Pomona  Sandia National Laboratory              SULI
-Summer 2014  Alyssa Mendoza              California State Polytechnic University-Pomona  Lawrence Livermore National Laboratory  SULI
-Summer 2014  Christopher William Nilsen  California State Polytechnic University-Pomona  Sandia National Laboratory              SULI
+Term         Name            College                                         Host Lab                                Program
+-----------  --------------  ----------------------------------------------  --------------------------------------  ---------
+Summer 2014  Alyssa Mendoza  California State Polytechnic University-Pomona  Lawrence Livermore National Laboratory  SULI
 ```
 ---
 <a name="CA-36"></a>
@@ -2007,17 +1918,16 @@ This district received no SC contracts from 2012-2019
 This district received no NSF MPS grants from 2012-2019
 ```
 ## SULI/CCI Interns
-From 2014-2016 (only years available), this district had 8 SULI/CCI interns
+From 2014-2016 (only years available), this district had 7 SULI/CCI interns
 ```
 Term         Name                     College                  Host Lab                               Program
 -----------  -----------------------  -----------------------  -------------------------------------  ---------
 Summer 2016  Fatima Paulina Pantoja   College of the Desert    Pacific Northwest National Laboratory  CCI
 Summer 2016  Jessica Romero Vega      College of the Desert    Idaho National Laboratory              CCI
 Summer 2016  Haide Vela-Alvarez       College of the Desert    Los Alamos National Laboratory         CCI
-Summer 2015  Fatima Paulina Pantoja   College of the Desert    Pacific Northwest National Laboratory  CCI
 Summer 2015  Haide Vela-Alvarez       College of the Desert    Los Alamos National Laboratory         CCI
-Summer 2014  Arthur Miller            College of the Desert    Idaho National Laboratory              CCI
 Summer 2014  Luis Sierra              College of the Desert    Lawrence Berkeley National Laboratory  CCI
+Summer 2014  Arthur Miller            College of the Desert    Idaho National Laboratory              CCI
 Summer 2014  Maureen Wanjiru Njuguna  Mt. San Jacinto College  Idaho National Laboratory              CCI
 ```
 ---
@@ -2056,13 +1966,12 @@ In the past 8 years, this district has received:<b> $14,369,368 </b>in NSF MPS g
   2015  UNIVERSITY OF SOUTHERN CALIFORNIA     2,230,822
 ```
 ## SULI/CCI Interns
-From 2014-2016 (only years available), this district had 3 SULI/CCI interns
+From 2014-2016 (only years available), this district had 2 SULI/CCI interns
 ```
-Term         Name                College                            Host Lab                                Program
------------  ------------------  ---------------------------------  --------------------------------------  ---------
-Summer 2016  Kami Martine Cohen  University of Southern California  Lawrence Berkeley National Laboratory   SULI
-Summer 2016  Theresa Ann Green   University of Southern California  Lawrence Livermore National Laboratory  SULI
-Summer 2014  Sam Roger Butler    University of Southern California  Pacific Northwest National Laboratory   SULI
+Term         Name               College                            Host Lab                                Program
+-----------  -----------------  ---------------------------------  --------------------------------------  ---------
+Summer 2016  Theresa Ann Green  University of Southern California  Lawrence Livermore National Laboratory  SULI
+Summer 2014  Sam Roger Butler   University of Southern California  Pacific Northwest National Laboratory   SULI
 ```
 ---
 <a name="CA-38"></a>
@@ -2133,8 +2042,8 @@ From 2014-2016 (only years available), this district had 2 SULI/CCI interns
 ```
 Term         Name              College                                Host Lab                       Program
 -----------  ----------------  -------------------------------------  -----------------------------  ---------
-Summer 2014  Kevin Vincent     California State University-Fullerton  Oak Ridge National Laboratory  SULI
 Summer 2014  Austin Howard Xu  California State University-Fullerton  Argonne National Laboratory    SULI
+Summer 2014  Kevin Vincent     California State University-Fullerton  Oak Ridge National Laboratory  SULI
 ```
 ---
 <a name="CA-40"></a>
@@ -2192,12 +2101,11 @@ In the past 8 years, this district has received:<b> $14,841,731 </b>in NSF MPS g
   2012  UNIVERSITY ENTERPRISES CORPORATION AT CSUSB                739,209
 ```
 ## SULI/CCI Interns
-From 2014-2016 (only years available), this district had 3 SULI/CCI interns
+From 2014-2016 (only years available), this district had 2 SULI/CCI interns
 ```
 Term         Name                      College                             Host Lab                                Program
 -----------  ------------------------  ----------------------------------  --------------------------------------  ---------
 Summer 2016  Idalia Ramirez            University of California-Riverside  Pacific Northwest National Laboratory   SULI
-Summer 2014  Shreya Sawhney Celly      University of California-Riverside  Oak Ridge National Laboratory           SULI
 Summer 2014  Alexander Robert Hartley  University of California-Riverside  Lawrence Livermore National Laboratory  SULI
 ```
 ---
@@ -2336,13 +2244,12 @@ In the past 8 years, this district has received:<b> $45,687,699 </b>in NSF MPS g
   2015  UNIVERSITY OF CALIFORNIA, IRVINE                  8,051,070
 ```
 ## SULI/CCI Interns
-From 2014-2016 (only years available), this district had 3 SULI/CCI interns
+From 2014-2016 (only years available), this district had 2 SULI/CCI interns
 ```
-Term         Name                     College                          Host Lab                              Program
------------  -----------------------  -------------------------------  ------------------------------------  ---------
-Summer 2015  Salvador Badillo-Rios    University of California-Irvine  Sandia National Laboratory            SULI
-Fall 2015    Michael Ryan Klosterman  University of California-Irvine  Los Alamos National Laboratory        SULI
-Fall 2014    Ben Zhou                 University of California-Irvine  National Renewable Energy Laboratory  SULI
+Term       Name                     College                          Host Lab                              Program
+---------  -----------------------  -------------------------------  ------------------------------------  ---------
+Fall 2015  Michael Ryan Klosterman  University of California-Irvine  Los Alamos National Laboratory        SULI
+Fall 2014  Ben Zhou                 University of California-Irvine  National Renewable Energy Laboratory  SULI
 ```
 ---
 <a name="CA-46"></a>
@@ -2447,12 +2354,11 @@ In the past 8 years, this district has received:<b> $43,215,852 </b>in NSF MPS g
   2012  UNIVERSITY OF CALIFORNIA, IRVINE    12,924,563
 ```
 ## SULI/CCI Interns
-From 2014-2016 (only years available), this district had 2 SULI/CCI interns
+From 2014-2016 (only years available), this district had 1 SULI/CCI intern
 ```
 Term         Name                 College                                     Host Lab                               Program
 -----------  -------------------  ------------------------------------------  -------------------------------------  ---------
 Spring 2015  Alexis Amaris Reyes  Vanguard University of Southern California  Lawrence Berkeley National Laboratory  SULI
-Fall 2014    Alexis Amaris Reyes  Vanguard University of Southern California  Lawrence Berkeley National Laboratory  SULI
 ```
 ---
 <a name="CA-49"></a>
@@ -2488,28 +2394,23 @@ In the past 8 years, this district has received:<b> $57,988,433 </b>in NSF MPS g
   2013  UNIVERSITY OF CALIFORNIA, SAN DIEGO    12,706,058
 ```
 ## SULI/CCI Interns
-From 2014-2016 (only years available), this district had 21 SULI/CCI interns
+From 2014-2016 (only years available), this district had 16 SULI/CCI interns
 ```
 Term         Name                          College                             Host Lab                                Program
 -----------  ----------------------------  ----------------------------------  --------------------------------------  ---------
-Summer 2016  Alex Homond Wong              Saddleback College                  Idaho National Laboratory               CCI
-Summer 2016  Lance Michael Nielson-Konzen  University of California-San Diego  Oak Ridge National Laboratory           SULI
-Summer 2016  Ian Wei Ging Liu              University of California-San Diego  Sandia National Laboratory              SULI
-Summer 2016  Benjamin Lam                  University of California-San Diego  National Renewable Energy Laboratory    SULI
 Summer 2016  Haley Hamza                   University of California-San Diego  Lawrence Livermore National Laboratory  SULI
-Summer 2015  Esther Chan                   University of California-San Diego  National Renewable Energy Laboratory    SULI
+Summer 2016  Lance Michael Nielson-Konzen  University of California-San Diego  Oak Ridge National Laboratory           SULI
+Summer 2016  Alex Homond Wong              Saddleback College                  Idaho National Laboratory               CCI
 Summer 2015  andrew sweeney                University of California-San Diego  Lawrence Berkeley National Laboratory   SULI
-Summer 2015  Joshua Kelley Przepioski      University of California-San Diego  SLAC National Accelerator Laboratory    SULI
 Summer 2015  Brandon James Pitts           University of California-San Diego  Lawrence Livermore National Laboratory  SULI
-Summer 2015  Matthew Capella               University of California-San Diego  General Atomics / DIII-D                SULI
-Summer 2014  Esther Chan                   University of California-San Diego  National Renewable Energy Laboratory    SULI
-Summer 2014  Megan Wong                    University of California-San Diego  Ames National Laboratory                SULI
-Summer 2014  Eduardo Valle                 University of California-San Diego  Sandia National Laboratory              SULI
-Summer 2014  Richard Thomas                University of California-San Diego  Lawrence Berkeley National Laboratory   SULI
-Summer 2014  Dane Sequeira                 University of California-San Diego  National Renewable Energy Laboratory    SULI
-Summer 2014  Ryan Lu                       University of California-San Diego  Lawrence Berkeley National Laboratory   SULI
+Summer 2015  Esther Chan                   University of California-San Diego  National Renewable Energy Laboratory    SULI
+Summer 2015  Joshua Kelley Przepioski      University of California-San Diego  SLAC National Accelerator Laboratory    SULI
 Summer 2014  Frank Hu                      University of California-San Diego  Lawrence Berkeley National Laboratory   SULI
-Summer 2014  Marquis Douglas               University of California-San Diego  SLAC National Accelerator Laboratory    SULI
+Summer 2014  Ryan Lu                       University of California-San Diego  Lawrence Berkeley National Laboratory   SULI
+Summer 2014  Richard Thomas                University of California-San Diego  Lawrence Berkeley National Laboratory   SULI
+Summer 2014  Esther Chan                   University of California-San Diego  National Renewable Energy Laboratory    SULI
+Summer 2014  Dane Sequeira                 University of California-San Diego  National Renewable Energy Laboratory    SULI
+Summer 2014  Megan Wong                    University of California-San Diego  Ames National Laboratory                SULI
 Summer 2014  Peter Neal Suan Barrina       University of California-San Diego  SLAC National Accelerator Laboratory    SULI
 Spring 2015  Wan Yin Cheung                University of California-San Diego  National Renewable Energy Laboratory    SULI
 Fall 2015    Wan Yin Cheung                University of California-San Diego  National Renewable Energy Laboratory    SULI
@@ -2659,10 +2560,7 @@ In the past 8 years, this district has received:<b> $20,230,851 </b>in NSF MPS g
   2012  UNIVERSITY OF SAN DIEGO                     376,613
 ```
 ## SULI/CCI Interns
-From 2014-2016 (only years available), this district had 1 SULI/CCI intern
 ```
-Term         Name                       College                     Host Lab                  Program
------------  -------------------------  --------------------------  ------------------------  ---------
-Summer 2015  Samantha Josephina Guerra  San Diego State University  General Atomics / DIII-D  SULI
+This district had no SULI/CCI interns from 2014-2016 (only years available)
 ```
 ---

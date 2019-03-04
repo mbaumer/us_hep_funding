@@ -84,22 +84,25 @@ U OF NORTHERN COLORADO                                 50,000
 ROCKY MTN BIOL LAB                                     15,070
 ```
 ## SULI/CCI Interns
-From 2014-2016 (only years available), this state had 36 SULI/CCI interns
+<p align="center">
+![CO SULI/CCI image]({{ site.baseurl }}/img/CO.png)
+</p>
+From 2014-2016 (only years available), this state had 28 SULI/CCI interns
 ```
   # Interns  Program    College
 -----------  ---------  ---------------------------------------
-          8  SULI       Colorado School of Mines
-          6  SULI       Colorado State University
+          7  SULI       Colorado School of Mines
           6  SULI       University of Colorado Boulder
           4  SULI       Metropolitan State University of Denver
           2  CCI        Red Rocks Community College
-          2  SULI       Colorado College
-          2  SULI       Fort Lewis College
           2  SULI       Regis University
           1  CCI        Pikes Peak Community College
           1  SULI       American Sentinel University
+          1  SULI       Colorado College
           1  SULI       Colorado Mesa University
+          1  SULI       Colorado State University
           1  SULI       Ecotech Institute
+          1  SULI       Fort Lewis College
 ```
 ---
 ---
@@ -235,19 +238,14 @@ In the past 8 years, this district has received:<b> $132,674,232 </b>in NSF MPS 
   2012  REGENTS OF THE UNIVERSITY OF COLORADO, THE         16,162,796
 ```
 ## SULI/CCI Interns
-From 2014-2016 (only years available), this district had 12 SULI/CCI interns
+From 2014-2016 (only years available), this district had 7 SULI/CCI interns
 ```
 Term         Name                    College                         Host Lab                               Program
 -----------  ----------------------  ------------------------------  -------------------------------------  ---------
 Summer 2016  Erin Michelle Vogel     Colorado State University       National Renewable Energy Laboratory   SULI
-Summer 2015  Jaclyn Johnson          Colorado State University       Brookhaven National Laboratory         SULI
-Summer 2015  Andrew Lawrence Lewis   Colorado State University       Argonne National Laboratory            SULI
 Spring 2016  Peter Madigan           University of Colorado Boulder  Los Alamos National Laboratory         SULI
-Spring 2016  Mary Frances Martin     Colorado State University       Brookhaven National Laboratory         SULI
-Spring 2016  Erin Michelle Vogel     Colorado State University       National Renewable Energy Laboratory   SULI
 Spring 2015  Akaxia Cruz             University of Colorado Boulder  Lawrence Berkeley National Laboratory  SULI
 Spring 2015  Meghan Sposato          University of Colorado Boulder  National Renewable Energy Laboratory   SULI
-Spring 2015  Rachel Nicole Larson    Colorado State University       Brookhaven National Laboratory         SULI
 Spring 2014  Daniel Cris Poulson     University of Colorado Boulder  Los Alamos National Laboratory         SULI
 Fall 2014    Akaxia Cruz             University of Colorado Boulder  Lawrence Berkeley National Laboratory  SULI
 Fall 2014    Neil Christian Hendren  University of Colorado Boulder  Lawrence Berkeley National Laboratory  SULI
@@ -291,11 +289,10 @@ In the past 8 years, this district has received:<b> $3,929,996 </b>in NSF MPS gr
   2012  FRONT RANGE SCIENTIFIC COMPUTATION INC        49,928
 ```
 ## SULI/CCI Interns
-From 2014-2016 (only years available), this district had 3 SULI/CCI interns
+From 2014-2016 (only years available), this district had 2 SULI/CCI interns
 ```
 Term         Name             College                   Host Lab                               Program
 -----------  ---------------  ------------------------  -------------------------------------  ---------
-Summer 2014  Spencer Huffman  Fort Lewis College        Pacific Northwest National Laboratory  SULI
 Summer 2014  Jonathan Ogle    Fort Lewis College        Pacific Northwest National Laboratory  SULI
 Fall 2014    Alexander Brown  Colorado Mesa University  Ames National Laboratory               SULI
 ```
@@ -371,13 +368,12 @@ In the past 8 years, this district has received:<b> $1,115,819 </b>in NSF MPS gr
   2012  REGENTS OF THE UNIVERSITY OF COLORADO, THE       300,000
 ```
 ## SULI/CCI Interns
-From 2014-2016 (only years available), this district had 3 SULI/CCI interns
+From 2014-2016 (only years available), this district had 2 SULI/CCI interns
 ```
-Term         Name                    College                       Host Lab                               Program
------------  ----------------------  ----------------------------  -------------------------------------  ---------
-Summer 2016  Johnathan Seward Lomas  Colorado College              Lawrence Berkeley National Laboratory  SULI
-Summer 2016  Caitlin Randall         Pikes Peak Community College  National Renewable Energy Laboratory   CCI
-Spring 2016  Sanjay Roberts          Colorado College              National Renewable Energy Laboratory   SULI
+Term         Name             College                       Host Lab                              Program
+-----------  ---------------  ----------------------------  ------------------------------------  ---------
+Summer 2016  Caitlin Randall  Pikes Peak Community College  National Renewable Energy Laboratory  CCI
+Spring 2016  Sanjay Roberts   Colorado College              National Renewable Energy Laboratory  SULI
 ```
 ---
 <a name="CO-06"></a>
@@ -463,19 +459,18 @@ In the past 8 years, this district has received:<b> $22,834,140 </b>in NSF MPS g
   2012  TRUSTEES OF THE COLORADO SCHOOL OF MINES       4,404,447
 ```
 ## SULI/CCI Interns
-From 2014-2016 (only years available), this district had 10 SULI/CCI interns
+From 2014-2016 (only years available), this district had 9 SULI/CCI interns
 ```
 Term         Name                       College                      Host Lab                              Program
 -----------  -------------------------  ---------------------------  ------------------------------------  ---------
 Summer 2016  Steven John Madachy        Colorado School of Mines     National Renewable Energy Laboratory  SULI
-Summer 2016  Michael Person             Colorado School of Mines     Oak Ridge National Laboratory         SULI
 Summer 2016  Joshua Major               Red Rocks Community College  National Renewable Energy Laboratory  CCI
 Summer 2016  Christopher Betts Wolcott  Red Rocks Community College  National Renewable Energy Laboratory  CCI
+Summer 2016  Michael Person             Colorado School of Mines     Oak Ridge National Laboratory         SULI
 Summer 2015  Jason Actis                Colorado School of Mines     National Renewable Energy Laboratory  SULI
 Summer 2015  Alex Badgett               Colorado School of Mines     National Renewable Energy Laboratory  SULI
 Summer 2015  Michael Person             Colorado School of Mines     Oak Ridge National Laboratory         SULI
-Summer 2014  Derek Jordan Hart          Colorado School of Mines     Los Alamos National Laboratory        SULI
 Summer 2014  William Henry Huddleston   Colorado School of Mines     National Renewable Energy Laboratory  SULI
-Summer 2014  Chandler Ridler            Colorado School of Mines     National Renewable Energy Laboratory  SULI
+Summer 2014  Derek Jordan Hart          Colorado School of Mines     Los Alamos National Laboratory        SULI
 ```
 ---

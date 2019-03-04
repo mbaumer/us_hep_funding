@@ -54,12 +54,15 @@ MISSISSIPPI STATE UNIV                        206,055
 U OF SOUTHERN MISSISSIPPI                       4,000
 ```
 ## SULI/CCI Interns
-From 2014-2016 (only years available), this state had 15 SULI/CCI interns
+<p align="center">
+![MS SULI/CCI image]({{ site.baseurl }}/img/MS.png)
+</p>
+From 2014-2016 (only years available), this state had 13 SULI/CCI interns
 ```
   # Interns  Program    College
 -----------  ---------  ----------------------------------
-          9  SULI       Mississippi State University
-          3  SULI       Jackson State University
+          8  SULI       Mississippi State University
+          2  SULI       Jackson State University
           2  SULI       Rust College
           1  SULI       University of Southern Mississippi
 ```
@@ -135,13 +138,12 @@ In the past 8 years, this district has received:<b> $3,995,395 </b>in NSF MPS gr
   2012  JACKSON STATE UNIVERSITY       620,114
 ```
 ## SULI/CCI Interns
-From 2014-2016 (only years available), this district had 3 SULI/CCI interns
+From 2014-2016 (only years available), this district had 2 SULI/CCI interns
 ```
 Term         Name           College                   Host Lab                               Program
 -----------  -------------  ------------------------  -------------------------------------  ---------
 Summer 2015  Amir Ali       Jackson State University  Argonne National Laboratory            SULI
 Spring 2015  Ashlee Ingram  Jackson State University  Lawrence Berkeley National Laboratory  SULI
-Fall 2014    Ashlee Ingram  Jackson State University  Lawrence Berkeley National Laboratory  SULI
 ```
 ---
 <a name="MS-03"></a>
@@ -174,19 +176,18 @@ In the past 8 years, this district has received:<b> $3,824,372 </b>in NSF MPS gr
   2012  MISSISSIPPI STATE UNIVERSITY       709,845
 ```
 ## SULI/CCI Interns
-From 2014-2016 (only years available), this district had 9 SULI/CCI interns
+From 2014-2016 (only years available), this district had 8 SULI/CCI interns
 ```
 Term         Name                   College                       Host Lab                                        Program
 -----------  ---------------------  ----------------------------  ----------------------------------------------  ---------
 Summer 2016  Mary King              Mississippi State University  Pacific Northwest National Laboratory           SULI
-Summer 2015  Sam Jones Cox          Mississippi State University  Oak Ridge National Laboratory                   SULI
-Summer 2015  John Kristian Madsen   Mississippi State University  Lawrence Livermore National Laboratory          SULI
 Summer 2015  Kendyl Ryan Partridge  Mississippi State University  Argonne National Laboratory                     SULI
-Summer 2014  Cameron Stuart Clarke  Mississippi State University  Thomas Jefferson National Accelerator Facility  SULI
-Summer 2014  Taylor Comer           Mississippi State University  Oak Ridge National Laboratory                   SULI
+Summer 2015  John Kristian Madsen   Mississippi State University  Lawrence Livermore National Laboratory          SULI
+Summer 2015  Sam Jones Cox          Mississippi State University  Oak Ridge National Laboratory                   SULI
 Summer 2014  Ryan Jacob Weitzel     Mississippi State University  Argonne National Laboratory                     SULI
+Summer 2014  Taylor Comer           Mississippi State University  Oak Ridge National Laboratory                   SULI
 Summer 2014  Zachary Windom         Mississippi State University  Oak Ridge National Laboratory                   SULI
-Fall 2014    Lauretta Gorman        Mississippi State University  Lawrence Berkeley National Laboratory           SULI
+Summer 2014  Cameron Stuart Clarke  Mississippi State University  Thomas Jefferson National Accelerator Facility  SULI
 ```
 ---
 <a name="MS-04"></a>

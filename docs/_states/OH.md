@@ -91,24 +91,26 @@ AMERICAN CERAMIC SOCIETY, THE                        24,600
 MIAMI UNIV                                           18,000
 ```
 ## SULI/CCI Interns
-From 2014-2016 (only years available), this state had 48 SULI/CCI interns
+<p align="center">
+![OH SULI/CCI image]({{ site.baseurl }}/img/OH.png)
+</p>
+From 2014-2016 (only years available), this state had 36 SULI/CCI interns
 ```
   # Interns  Program    College
 -----------  ---------  -------------------------------------
-         14  SULI       The Ohio State University Main Campus
-          8  SULI       Case Western Reserve University
+         12  SULI       The Ohio State University Main Campus
           3  SULI       Bowling Green State University
+          3  SULI       Case Western Reserve University
           3  SULI       Cedarville University
-          3  SULI       Miami University
-          3  SULI       Ohio University Main Campus
           3  SULI       The College of Wooster
           3  SULI       University of Cincinnati Main Campus
           2  SULI       Franciscan University of Steubenville
           1  SULI       Cleveland State University
+          1  SULI       Miami University
           1  SULI       Oberlin College
+          1  SULI       Ohio University Main Campus
           1  SULI       Otterbein University
           1  SULI       University of Dayton
-          1  SULI       Wright State University Main Campus
           1  SULI       Youngstown State University
 ```
 ---
@@ -265,25 +267,22 @@ In the past 8 years, this district has received:<b> $1,752,862 </b>in NSF MPS gr
   2013  OBERLIN COLLEGE       520,946
 ```
 ## SULI/CCI Interns
-From 2014-2016 (only years available), this district had 16 SULI/CCI interns
+From 2014-2016 (only years available), this district had 13 SULI/CCI interns
 ```
 Term         Name                   College                                Host Lab                                Program
 -----------  ---------------------  -------------------------------------  --------------------------------------  ---------
 Summer 2016  Alan Travis Jaski      The Ohio State University Main Campus  Argonne National Laboratory             SULI
-Summer 2016  Michael Alan Jindra    The Ohio State University Main Campus  Idaho National Laboratory               SULI
 Summer 2016  Emily Ann Reed         The Ohio State University Main Campus  Pacific Northwest National Laboratory   SULI
+Summer 2016  Michael Alan Jindra    The Ohio State University Main Campus  Idaho National Laboratory               SULI
 Summer 2015  Ryan Gallagher         The Ohio State University Main Campus  Brookhaven National Laboratory          SULI
 Summer 2015  Andy Goldschmidt       The Ohio State University Main Campus  Lawrence Livermore National Laboratory  SULI
-Summer 2015  Michael Alan Jindra    The Ohio State University Main Campus  Idaho National Laboratory               SULI
 Summer 2015  Samuel Jones           The Ohio State University Main Campus  Oak Ridge National Laboratory           SULI
 Summer 2015  Jordan Kotick          The Ohio State University Main Campus  SLAC National Accelerator Laboratory    SULI
+Summer 2015  Michael Alan Jindra    The Ohio State University Main Campus  Idaho National Laboratory               SULI
 Summer 2015  Eric Alan Magnuson     The Ohio State University Main Campus  Los Alamos National Laboratory          SULI
-Summer 2015  Sean Mills             The Ohio State University Main Campus  Los Alamos National Laboratory          SULI
-Summer 2015  Bridget O'Banion       The Ohio State University Main Campus  Oak Ridge National Laboratory           SULI
-Summer 2015  Paul Dolvin            Wright State University Main Campus    Oak Ridge National Laboratory           SULI
-Summer 2014  Amanda Conklin         The Ohio State University Main Campus  Savannah River National Laboratory      SULI
-Summer 2014  Brian Li               The Ohio State University Main Campus  National Renewable Energy Laboratory    SULI
 Summer 2014  Gabriel Isaac Richman  Oberlin College                        Brookhaven National Laboratory          SULI
+Summer 2014  Brian Li               The Ohio State University Main Campus  National Renewable Energy Laboratory    SULI
+Summer 2014  Amanda Conklin         The Ohio State University Main Campus  Savannah River National Laboratory      SULI
 Spring 2014  Ethan Isaac Palay      The Ohio State University Main Campus  National Renewable Energy Laboratory    SULI
 ```
 ---
@@ -424,13 +423,11 @@ In the past 8 years, this district has received:<b> $7,180,839 </b>in NSF MPS gr
   2012  MIAMI UNIVERSITY                                  1,151,315
 ```
 ## SULI/CCI Interns
-From 2014-2016 (only years available), this district had 3 SULI/CCI interns
+From 2014-2016 (only years available), this district had 1 SULI/CCI intern
 ```
-Term         Name                 College           Host Lab                               Program
------------  -------------------  ----------------  -------------------------------------  ---------
-Summer 2016  Cameron Williams     Miami University  Lawrence Berkeley National Laboratory  SULI
-Summer 2015  Melanie Ann Bukovec  Miami University  Pacific Northwest National Laboratory  SULI
-Summer 2014  Melanie Ann Bukovec  Miami University  SLAC National Accelerator Laboratory   SULI
+Term         Name              College           Host Lab                               Program
+-----------  ----------------  ----------------  -------------------------------------  ---------
+Summer 2016  Cameron Williams  Miami University  Lawrence Berkeley National Laboratory  SULI
 ```
 ---
 <a name="OH-09"></a>
@@ -557,19 +554,14 @@ In the past 8 years, this district has received:<b> $54,000,321 </b>in NSF MPS g
   2012  CASE WESTERN RESERVE UNIVERSITY     8,754,089
 ```
 ## SULI/CCI Interns
-From 2014-2016 (only years available), this district had 9 SULI/CCI interns
+From 2014-2016 (only years available), this district had 4 SULI/CCI interns
 ```
-Term         Name                   College                          Host Lab                                Program
------------  ---------------------  -------------------------------  --------------------------------------  ---------
-Summer 2016  Ryan A Chaban          Case Western Reserve University  General Atomics / DIII-D                SULI
-Summer 2016  Kimaya Gupte           Case Western Reserve University  Lawrence Livermore National Laboratory  SULI
-Summer 2016  Evan Thomas Ostrowski  Case Western Reserve University  General Atomics / DIII-D                SULI
-Summer 2016  Helen Zhao             Case Western Reserve University  Oak Ridge National Laboratory           SULI
-Summer 2015  Adam Vianna            Case Western Reserve University  Brookhaven National Laboratory          SULI
-Summer 2014  Marie Ann Blatnik      Cleveland State University       Los Alamos National Laboratory          SULI
-Summer 2014  Katelyn Friedl         Case Western Reserve University  Pacific Northwest National Laboratory   SULI
-Summer 2014  Danni Liang            Case Western Reserve University  Oak Ridge National Laboratory           SULI
-Spring 2016  Kimaya Gupte           Case Western Reserve University  Lawrence Livermore National Laboratory  SULI
+Term         Name               College                          Host Lab                                Program
+-----------  -----------------  -------------------------------  --------------------------------------  ---------
+Summer 2016  Kimaya Gupte       Case Western Reserve University  Lawrence Livermore National Laboratory  SULI
+Summer 2014  Danni Liang        Case Western Reserve University  Oak Ridge National Laboratory           SULI
+Summer 2014  Marie Ann Blatnik  Cleveland State University       Los Alamos National Laboratory          SULI
+Spring 2016  Kimaya Gupte       Case Western Reserve University  Lawrence Livermore National Laboratory  SULI
 ```
 ---
 <a name="OH-12"></a>
@@ -740,13 +732,11 @@ In the past 8 years, this district has received:<b> $21,686,109 </b>in NSF MPS g
   2012  OHIO STATE UNIVERSITY, THE                   14,877,163
 ```
 ## SULI/CCI Interns
-From 2014-2016 (only years available), this district had 3 SULI/CCI interns
+From 2014-2016 (only years available), this district had 1 SULI/CCI intern
 ```
-Term         Name               College                      Host Lab                               Program
------------  -----------------  ---------------------------  -------------------------------------  ---------
-Summer 2016  Ryan Lucas         Ohio University Main Campus  Argonne National Laboratory            SULI
-Spring 2016  Daniel Riordan     Ohio University Main Campus  Oak Ridge National Laboratory          SULI
-Fall 2014    Jacob Philip Sieg  Ohio University Main Campus  Pacific Northwest National Laboratory  SULI
+Term         Name            College                      Host Lab                       Program
+-----------  --------------  ---------------------------  -----------------------------  ---------
+Spring 2016  Daniel Riordan  Ohio University Main Campus  Oak Ridge National Laboratory  SULI
 ```
 ---
 <a name="OH-16"></a>
@@ -782,7 +772,7 @@ From 2014-2016 (only years available), this district had 3 SULI/CCI interns
 Term         Name                    College                 Host Lab                               Program
 -----------  ----------------------  ----------------------  -------------------------------------  ---------
 Summer 2016  Clara Beatrix Deck      The College of Wooster  Argonne National Laboratory            SULI
-Summer 2016  Dylan Charles Hamilton  The College of Wooster  National Renewable Energy Laboratory   SULI
 Summer 2016  Helen G Siegel          The College of Wooster  Lawrence Berkeley National Laboratory  SULI
+Summer 2016  Dylan Charles Hamilton  The College of Wooster  National Renewable Energy Laboratory   SULI
 ```
 ---
