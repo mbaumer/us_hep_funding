@@ -11,9 +11,9 @@ permalink : /states/NC/
 
 # NC -- Sen. Richard Burr (R) and  Sen. Thom Tillis (R)
 ## Committees
-Richard Burr is not on any of our key committees 
+Richard Burr is not on any of our key committees. 
 
-Thom Tillis is not on any of our key committees 
+Thom Tillis is not on any of our key committees. 
 
 ## HEP Grants
 In the past 8 years, this state has received:
@@ -26,7 +26,7 @@ DUKE UNIVERSITY                       1,916,000
 North Carolina State University         615,000
 U. OF NORTH CAROLINA, CHAPEL HILL             0
 ```
-### SC Contracts
+## SC Contracts
 In the past 8 years, this state has received:
 1 Office of Science contracts, totalling <b> $3,049</b>
 ```
@@ -69,15 +69,34 @@ ELON UNIVERSITY                                                   38,685
 NATIONAL INSTITUTE OF STATISTICAL SCIENCES                        19,890
 WAKE FOREST UNIVERSITY HEALTH SCIENCES                             9,424
 ```
+## SULI/CCI Interns
+From 2014-2016 (only years available), this district had 41 SULI/CCI interns
+```
+  # Interns  Program    College
+-----------  ---------  -------------------------------------------
+         13  SULI       North Carolina State University
+          7  SULI       University of North Carolina at Chapel Hill
+          5  SULI       Duke University
+          2  CCI        Wake Technical Community College
+          2  SULI       Appalachian State University
+          2  SULI       Elizabeth City State University
+          2  SULI       Elon University
+          2  SULI       Wake Forest University
+          2  SULI       Western Carolina University
+          1  CCI        Rio Hondo Community College
+          1  SULI       Davidson College
+          1  SULI       Lynchburg College
+          1  SULI       University of North Carolina at Wilmington
+```
 ---
 ---
 <a name="NC-01"></a>
 [Back to top](#top)
 ## NC-01 -- Rep. G. K. Butterfield (D) -- [Wikipedia](https://en.wikipedia.org/wiki/NC-01)
-### Committees
+## Committees
 G. K. Butterfield is the #8 Democrat on the House Committee on Energy and Commerce 
 
-### HEP Grants
+## HEP Grants
 In the past 8 years, this district has received:<b> $7,886,000 </b>in SC HEP grants.
 ```
 Institution        Amount ($)    Start  End      Principal Investigator    Project Title
@@ -88,11 +107,11 @@ Duke University       140,000     2014  2016     Katsouleas, Thomas C.     Theor
 Duke University     1,297,000     2014  2015     Kotwal, Ashutosh          Research in High Energy Physics at Duke University
 Duke University        50,000     2014  2017     Kotwal, Ashutosh          W Boson Mass Measurement at CDF
 ```
-### SC Contracts
+## SC Contracts
 ```
 This district received no SC contracts from 2012-2019
 ```
-### NSF MPS Grants
+## NSF MPS Grants
 In the past 8 years, this district has received:<b> $48,362,191 </b>in NSF MPS grants.
 ```
   Year  Institution                          Amount ($)
@@ -110,38 +129,58 @@ In the past 8 years, this district has received:<b> $48,362,191 </b>in NSF MPS g
   2013  DUKE UNIVERSITY                       7,345,989
   2013  ELIZABETH CITY STATE UNIVERSITY         237,423
 ```
+## SULI/CCI Interns
+From 2014-2016 (only years available), this district had 5 SULI/CCI interns
+```
+Term         Name                      College          Host Lab                              Program
+-----------  ------------------------  ---------------  ------------------------------------  ---------
+Summer 2016  Maria Cristina Folgueras  Duke University  National Renewable Energy Laboratory  SULI
+Summer 2016  Akhil Ghanta              Duke University  Princeton Plasma Physics Laboratory   SULI
+Summer 2016  Ji Won Park               Duke University  SLAC National Accelerator Laboratory  SULI
+Summer 2016  Melissa Wu                Duke University  Brookhaven National Laboratory        SULI
+Fall 2015    Isa Louise Ferrall        Duke University  National Renewable Energy Laboratory  SULI
+```
 ---
 <a name="NC-02"></a>
 [Back to top](#top)
 ## NC-02 -- Rep. George Holding (R) -- [Wikipedia](https://en.wikipedia.org/wiki/NC-02)
-### Committees
-George Holding is not on any of our key committees 
+## Committees
+George Holding is not on any of our key committees. 
 
-### HEP Grants
+## HEP Grants
 ```
 This district received no SC HEP grants from 2012-2019
 ```
-### SC Contracts
+## SC Contracts
 ```
 This district received no SC contracts from 2012-2019
 ```
-### NSF MPS Grants
+## NSF MPS Grants
 ```
 This district received no NSF MPS grants from 2012-2019
+```
+## SULI/CCI Interns
+From 2014-2016 (only years available), this district had 3 SULI/CCI interns
+```
+Term         Name                    College                           Host Lab                               Program
+-----------  ----------------------  --------------------------------  -------------------------------------  ---------
+Summer 2016  Brian A Woodworth       Wake Technical Community College  Fermi National Accelerator Laboratory  CCI
+Summer 2015  Kellie Rachel O'connor  Wake Technical Community College  Pacific Northwest National Laboratory  CCI
+Summer 2014  Matthew Dwyer           Lynchburg College                 Los Alamos National Laboratory         SULI
 ```
 ---
 <a name="NC-03"></a>
 [Back to top](#top)
 ## NC-03 Unknown Rep.
-### HEP Grants
+## HEP Grants
 ```
 This district received no SC HEP grants from 2012-2019
 ```
-### SC Contracts
+## SC Contracts
 ```
 This district received no SC contracts from 2012-2019
 ```
-### NSF MPS Grants
+## NSF MPS Grants
 In the past 8 years, this district has received:<b> $1,384,660 </b>in NSF MPS grants.
 ```
   Year  Institution                                   Amount ($)
@@ -153,14 +192,22 @@ In the past 8 years, this district has received:<b> $1,384,660 </b>in NSF MPS gr
   2013  UNIVERSITY OF NORTH CAROLINA AT WILMINGTON       151,244
   2012  EAST CAROLINA UNIVERSITY                         155,468
 ```
+## SULI/CCI Interns
+From 2014-2016 (only years available), this district had 2 SULI/CCI interns
+```
+Term         Name                College                          Host Lab                        Program
+-----------  ------------------  -------------------------------  ------------------------------  ---------
+Summer 2016  Megan Marie Wilken  Elizabeth City State University  Brookhaven National Laboratory  SULI
+Summer 2015  Megan Marie Wilken  Elizabeth City State University  Brookhaven National Laboratory  SULI
+```
 ---
 <a name="NC-04"></a>
 [Back to top](#top)
 ## NC-04 -- Rep. David E. Price (D) -- [Wikipedia](https://en.wikipedia.org/wiki/NC-04)
-### Committees
+## Committees
 David E. Price is the #6 Democrat on the House Committee on Appropriations 
 
-### HEP Grants
+## HEP Grants
 In the past 8 years, this district has received:<b> $2,531,000 </b>in SC HEP grants.
 ```
 Institution                          Amount ($)    Start  End      Principal Investigator    Project Title
@@ -173,7 +220,7 @@ DUKE UNIVERSITY                          43,000     2013  2014     Kotwal       
 DUKE UNIVERSITY                       1,803,000     2012  2014     Kotwal                    Research in High Energy Physics at Duke University
 U. OF NORTH CAROLINA, CHAPEL HILL             0     2012  2014     Ng                        Theoretical Research in Cosmology, High-Energy Physics and String Theory at UNC-CH
 ```
-### SC Contracts
+## SC Contracts
 In the past 8 years, this district has received:
 1 Office of Science contracts, totalling <b> $3,049</b>
 ```
@@ -181,7 +228,7 @@ In the past 8 years, this district has received:
 ------  -----------------------------  ------------  --------------------------
   2012  OXFORD UNIVERSITY PRESS, INC.         3,049  NEWSPAPERS AND PERIODICALS
 ```
-### NSF MPS Grants
+## NSF MPS Grants
 In the past 8 years, this district has received:<b> $125,022,587 </b>in NSF MPS grants.
 ```
   Year  Institution                                    Amount ($)
@@ -211,22 +258,48 @@ In the past 8 years, this district has received:<b> $125,022,587 </b>in NSF MPS 
   2012  UNIVERSITY OF NORTH CAROLINA AT CHAPEL HILL    12,419,066
   2012  DUKE UNIVERSITY                                 5,937,070
 ```
+## SULI/CCI Interns
+From 2014-2016 (only years available), this district had 20 SULI/CCI interns
+```
+Term         Name                       College                                      Host Lab                                        Program
+-----------  -------------------------  -------------------------------------------  ----------------------------------------------  ---------
+Summer 2016  Christina Cox              North Carolina State University              Oak Ridge National Laboratory                   SULI
+Summer 2016  Joseph Cambareri           North Carolina State University              Idaho National Laboratory                       SULI
+Summer 2016  Brendan Mcbennett          University of North Carolina at Chapel Hill  National Renewable Energy Laboratory            SULI
+Summer 2016  Alexander Frederick Pharr  North Carolina State University              Idaho National Laboratory                       SULI
+Summer 2016  William Hunt Harris        North Carolina State University              Idaho National Laboratory                       SULI
+Summer 2016  Chiara Pancaldo Salemi     University of North Carolina at Chapel Hill  Fermi National Accelerator Laboratory           SULI
+Summer 2015  Joshua McKenney            North Carolina State University              Thomas Jefferson National Accelerator Facility  SULI
+Summer 2015  Jana Sadovy                North Carolina State University              National Renewable Energy Laboratory            SULI
+Summer 2015  Alexey Bondarev            North Carolina State University              Oak Ridge National Laboratory                   SULI
+Summer 2015  Ansel Hinsman Dow          University of North Carolina at Chapel Hill  Princeton Plasma Physics Laboratory             SULI
+Summer 2015  Chiara Pancaldo Salemi     University of North Carolina at Chapel Hill  Lawrence Berkeley National Laboratory           SULI
+Summer 2015  Scott Zhang                University of North Carolina at Chapel Hill  Brookhaven National Laboratory                  SULI
+Summer 2014  Alex Balzer                North Carolina State University              National Renewable Energy Laboratory            SULI
+Summer 2014  Hayley Elizabeth Hunt      North Carolina State University              Oak Ridge National Laboratory                   SULI
+Summer 2014  Clayton Edward Carey       North Carolina State University              Oak Ridge National Laboratory                   SULI
+Summer 2014  David Gorelick             University of North Carolina at Chapel Hill  Oak Ridge National Laboratory                   SULI
+Summer 2014  David Nenon                University of North Carolina at Chapel Hill  National Renewable Energy Laboratory            SULI
+Summer 2014  Alexey Bondarev            North Carolina State University              Oak Ridge National Laboratory                   SULI
+Spring 2014  Andrew Crothers            North Carolina State University              Lawrence Berkeley National Laboratory           SULI
+Fall 2015    Ryan Southard              North Carolina State University              Brookhaven National Laboratory                  SULI
+```
 ---
 <a name="NC-05"></a>
 [Back to top](#top)
 ## NC-05 -- Rep. Virginia Foxx (R) -- [Wikipedia](https://en.wikipedia.org/wiki/NC-05)
-### Committees
-Virginia Foxx is not on any of our key committees 
+## Committees
+Virginia Foxx is not on any of our key committees. 
 
-### HEP Grants
+## HEP Grants
 ```
 This district received no SC HEP grants from 2012-2019
 ```
-### SC Contracts
+## SC Contracts
 ```
 This district received no SC contracts from 2012-2019
 ```
-### NSF MPS Grants
+## NSF MPS Grants
 In the past 8 years, this district has received:<b> $4,769,880 </b>in NSF MPS grants.
 ```
   Year  Institution                               Amount ($)
@@ -243,22 +316,32 @@ In the past 8 years, this district has received:<b> $4,769,880 </b>in NSF MPS gr
   2012  APPALACHIAN STATE UNIVERSITY                 519,866
   2012  WAKE FOREST UNIVERSITY                       295,475
 ```
+## SULI/CCI Interns
+From 2014-2016 (only years available), this district had 4 SULI/CCI interns
+```
+Term         Name                       College                       Host Lab                               Program
+-----------  -------------------------  ----------------------------  -------------------------------------  ---------
+Summer 2016  Briana Christine Thompson  Wake Forest University        Pacific Northwest National Laboratory  SULI
+Summer 2015  Shelby Lockhart            Wake Forest University        Oak Ridge National Laboratory          SULI
+Summer 2015  Crystal Patteson           Appalachian State University  Fermi National Accelerator Laboratory  SULI
+Summer 2015  Nicole Tipton              Appalachian State University  Pacific Northwest National Laboratory  SULI
+```
 ---
 <a name="NC-06"></a>
 [Back to top](#top)
 ## NC-06 -- Rep. Mark Walker (R) -- [Wikipedia](https://en.wikipedia.org/wiki/NC-06)
-### Committees
+## Committees
 Mark Walker is the #6 Republican on the House Subcommittee on Higher Education and Workforce Development 
 
-### HEP Grants
+## HEP Grants
 ```
 This district received no SC HEP grants from 2012-2019
 ```
-### SC Contracts
+## SC Contracts
 ```
 This district received no SC contracts from 2012-2019
 ```
-### NSF MPS Grants
+## NSF MPS Grants
 In the past 8 years, this district has received:<b> $2,363,979 </b>in NSF MPS grants.
 ```
   Year  Institution                                                   Amount ($)
@@ -273,22 +356,30 @@ In the past 8 years, this district has received:<b> $2,363,979 </b>in NSF MPS gr
   2013  UNIVERSITY OF NORTH CAROLINA AT GREENSBORO                       309,782
   2012  ELON UNIVERSITY                                                   38,685
 ```
+## SULI/CCI Interns
+From 2014-2016 (only years available), this district had 2 SULI/CCI interns
+```
+Term         Name                    College          Host Lab                              Program
+-----------  ----------------------  ---------------  ------------------------------------  ---------
+Summer 2016  Julia Claire Filloon    Elon University  SLAC National Accelerator Laboratory  SULI
+Summer 2015  Brittany Rose DiRienzo  Elon University  Brookhaven National Laboratory        SULI
+```
 ---
 <a name="NC-07"></a>
 [Back to top](#top)
 ## NC-07 -- Rep. David Rouzer (R) -- [Wikipedia](https://en.wikipedia.org/wiki/NC-07)
-### Committees
-David Rouzer is not on any of our key committees 
+## Committees
+David Rouzer is not on any of our key committees. 
 
-### HEP Grants
+## HEP Grants
 ```
 This district received no SC HEP grants from 2012-2019
 ```
-### SC Contracts
+## SC Contracts
 ```
 This district received no SC contracts from 2012-2019
 ```
-### NSF MPS Grants
+## NSF MPS Grants
 In the past 8 years, this district has received:<b> $660,199 </b>in NSF MPS grants.
 ```
   Year  Institution                                   Amount ($)
@@ -298,22 +389,29 @@ In the past 8 years, this district has received:<b> $660,199 </b>in NSF MPS gran
   2013  UNIVERSITY OF NORTH CAROLINA AT WILMINGTON        64,228
   2012  UNIVERSITY OF NORTH CAROLINA AT WILMINGTON       183,258
 ```
+## SULI/CCI Interns
+From 2014-2016 (only years available), this district had 1 SULI/CCI intern
+```
+Term         Name           College                                     Host Lab                       Program
+-----------  -------------  ------------------------------------------  -----------------------------  ---------
+Summer 2016  Erick Holguin  University of North Carolina at Wilmington  Oak Ridge National Laboratory  SULI
+```
 ---
 <a name="NC-08"></a>
 [Back to top](#top)
 ## NC-08 -- Rep. Richard Hudson (R) -- [Wikipedia](https://en.wikipedia.org/wiki/NC-08)
-### Committees
+## Committees
 Richard Hudson is the #20 Republican on the House Committee on Energy and Commerce 
 
-### HEP Grants
+## HEP Grants
 ```
 This district received no SC HEP grants from 2012-2019
 ```
-### SC Contracts
+## SC Contracts
 ```
 This district received no SC contracts from 2012-2019
 ```
-### NSF MPS Grants
+## NSF MPS Grants
 In the past 8 years, this district has received:<b> $756,951 </b>in NSF MPS grants.
 ```
   Year  Institution                                 Amount ($)
@@ -321,19 +419,23 @@ In the past 8 years, this district has received:<b> $756,951 </b>in NSF MPS gran
   2018  FAYETTEVILLE STATE UNIVERSITY                  600,000
   2015  UNIVERSITY OF NORTH CAROLINA AT PEMBROKE       156,951
 ```
+## SULI/CCI Interns
+```
+This district had no SULI/CCI interns from 2014-2016 (only years available)
+```
 ---
 <a name="NC-09"></a>
 [Back to top](#top)
 ## NC-09 Unknown Rep.
-### HEP Grants
+## HEP Grants
 ```
 This district received no SC HEP grants from 2012-2019
 ```
-### SC Contracts
+## SC Contracts
 ```
 This district received no SC contracts from 2012-2019
 ```
-### NSF MPS Grants
+## NSF MPS Grants
 In the past 8 years, this district has received:<b> $593,917 </b>in NSF MPS grants.
 ```
   Year  Institution                          Amount ($)
@@ -341,66 +443,85 @@ In the past 8 years, this district has received:<b> $593,917 </b>in NSF MPS gran
   2017  TRUSTEES OF DAVIDSON COLLEGE, THE       294,000
   2016  TRUSTEES OF DAVIDSON COLLEGE, THE       299,917
 ```
+## SULI/CCI Interns
+From 2014-2016 (only years available), this district had 1 SULI/CCI intern
+```
+Term         Name         College                      Host Lab                       Program
+-----------  -----------  ---------------------------  -----------------------------  ---------
+Summer 2014  Albert Tung  Rio Hondo Community College  Oak Ridge National Laboratory  CCI
+```
 ---
 <a name="NC-10"></a>
 [Back to top](#top)
 ## NC-10 -- Rep. Patrick T. McHenry (R) -- [Wikipedia](https://en.wikipedia.org/wiki/NC-10)
-### Committees
-Patrick T. McHenry is not on any of our key committees 
+## Committees
+Patrick T. McHenry is not on any of our key committees. 
 
-### HEP Grants
+## HEP Grants
 ```
 This district received no SC HEP grants from 2012-2019
 ```
-### SC Contracts
+## SC Contracts
 ```
 This district received no SC contracts from 2012-2019
 ```
-### NSF MPS Grants
+## NSF MPS Grants
 In the past 8 years, this district has received:<b> $82,500 </b>in NSF MPS grants.
 ```
   Year  Institution                                  Amount ($)
 ------  -----------------------------------------  ------------
   2013  UNIVERSITY OF NORTH CAROLINA AT ASHEVILLE        82,500
 ```
+## SULI/CCI Interns
+```
+This district had no SULI/CCI interns from 2014-2016 (only years available)
+```
 ---
 <a name="NC-11"></a>
 [Back to top](#top)
 ## NC-11 -- Rep. Mark Meadows (R) -- [Wikipedia](https://en.wikipedia.org/wiki/NC-11)
-### Committees
-Mark Meadows is not on any of our key committees 
+## Committees
+Mark Meadows is not on any of our key committees. 
 
-### HEP Grants
+## HEP Grants
 ```
 This district received no SC HEP grants from 2012-2019
 ```
-### SC Contracts
+## SC Contracts
 ```
 This district received no SC contracts from 2012-2019
 ```
-### NSF MPS Grants
+## NSF MPS Grants
 In the past 8 years, this district has received:<b> $197,272 </b>in NSF MPS grants.
 ```
   Year  Institution                                  Amount ($)
 ------  -----------------------------------------  ------------
   2012  UNIVERSITY OF NORTH CAROLINA AT ASHEVILLE       197,272
 ```
+## SULI/CCI Interns
+From 2014-2016 (only years available), this district had 2 SULI/CCI interns
+```
+Term         Name                   College                      Host Lab                               Program
+-----------  ---------------------  ---------------------------  -------------------------------------  ---------
+Summer 2015  taylor aiken murphree  Western Carolina University  Pacific Northwest National Laboratory  SULI
+Summer 2015  Joshua Rickard         Western Carolina University  Oak Ridge National Laboratory          SULI
+```
 ---
 <a name="NC-12"></a>
 [Back to top](#top)
 ## NC-12 -- Rep. Alma S. Adams (D) -- [Wikipedia](https://en.wikipedia.org/wiki/NC-12)
-### Committees
+## Committees
 Alma S. Adams is the #7 Democrat on the House Subcommittee on Higher Education and Workforce Development 
 
-### HEP Grants
+## HEP Grants
 ```
 This district received no SC HEP grants from 2012-2019
 ```
-### SC Contracts
+## SC Contracts
 ```
 This district received no SC contracts from 2012-2019
 ```
-### NSF MPS Grants
+## NSF MPS Grants
 In the past 8 years, this district has received:<b> $4,517,842 </b>in NSF MPS grants.
 ```
   Year  Institution                                       Amount ($)
@@ -420,22 +541,29 @@ In the past 8 years, this district has received:<b> $4,517,842 </b>in NSF MPS gr
   2012  NORTH CAROLINA AGRICULTURAL AND TECHNICAL STA        195,000
   2012  UNIVERSITY OF NORTH CAROLINA AT CHARLOTTE            395,367
 ```
+## SULI/CCI Interns
+From 2014-2016 (only years available), this district had 1 SULI/CCI intern
+```
+Term         Name          College           Host Lab                        Program
+-----------  ------------  ----------------  ------------------------------  ---------
+Summer 2016  Jonathan Lim  Davidson College  Los Alamos National Laboratory  SULI
+```
 ---
 <a name="NC-13"></a>
 [Back to top](#top)
 ## NC-13 -- Rep. Ted Budd (R) -- [Wikipedia](https://en.wikipedia.org/wiki/NC-13)
-### Committees
-Ted Budd is not on any of our key committees 
+## Committees
+Ted Budd is not on any of our key committees. 
 
-### HEP Grants
+## HEP Grants
 ```
 This district received no SC HEP grants from 2012-2019
 ```
-### SC Contracts
+## SC Contracts
 ```
 This district received no SC contracts from 2012-2019
 ```
-### NSF MPS Grants
+## NSF MPS Grants
 In the past 8 years, this district has received:<b> $735,699 </b>in NSF MPS grants.
 ```
   Year  Institution                                   Amount ($)
@@ -444,5 +572,9 @@ In the past 8 years, this district has received:<b> $735,699 </b>in NSF MPS gran
   2018  UNIVERSITY OF NORTH CAROLINA AT GREENSBORO         9,000
   2017  UNIVERSITY OF NORTH CAROLINA AT GREENSBORO        22,599
   2012  UNIVERSITY OF NORTH CAROLINA AT GREENSBORO       182,014
+```
+## SULI/CCI Interns
+```
+This district had no SULI/CCI interns from 2014-2016 (only years available)
 ```
 ---

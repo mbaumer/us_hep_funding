@@ -25,7 +25,7 @@ In the past 8 years, this state has received:
 ------  --------------------------  ------------
   2012  UNIVERSITY OF NEVADA, RENO             0
 ```
-### SC Contracts
+## SC Contracts
 In the past 8 years, this state has received:
 1 Office of Science contracts, totalling <b> $128,700</b>
 ```
@@ -44,19 +44,26 @@ NEVADA SYSTEM OF HIGHER EDUCATION                      4,545,079
 BOARD OF REGENTS NEVADA SYSTEM OF HIGHER EDUCATION       950,306
 BOARD OF REGENTS NEVADA SYSTEM OF HIGHER EDUC            892,330
 ```
+## SULI/CCI Interns
+From 2014-2016 (only years available), this district had 2 SULI/CCI interns
+```
+  # Interns  Program    College
+-----------  ---------  -------------------------
+          2  SULI       University of Nevada-Reno
+```
 ---
 ---
 <a name="NV-01"></a>
 [Back to top](#top)
 ## NV-01 -- Rep. Dina Titus (D) -- [Wikipedia](https://en.wikipedia.org/wiki/NV-01)
-### Committees
-Dina Titus is not on any of our key committees 
+## Committees
+Dina Titus is not on any of our key committees. 
 
-### HEP Grants
+## HEP Grants
 ```
 This district received no SC HEP grants from 2012-2019
 ```
-### SC Contracts
+## SC Contracts
 In the past 8 years, this district has received:
 1 Office of Science contracts, totalling <b> $128,700</b>
 ```
@@ -64,7 +71,7 @@ In the past 8 years, this district has received:
 ------  ----------------------------------------------  ------------  -----------------------
   2012  BECHTEL SAIC COMPANY LIMITED LIABILITY COMPANY       128,700  OPER OF GOVT MISC BLDGS
 ```
-### NSF MPS Grants
+## NSF MPS Grants
 In the past 8 years, this district has received:<b> $892,330 </b>in NSF MPS grants.
 ```
   Year  Institution                                      Amount ($)
@@ -74,25 +81,29 @@ In the past 8 years, this district has received:<b> $892,330 </b>in NSF MPS gran
   2013  BOARD OF REGENTS NEVADA SYSTEM OF HIGHER EDUC       163,316
   2012  BOARD OF REGENTS NEVADA SYSTEM OF HIGHER EDUC       511,584
 ```
+## SULI/CCI Interns
+```
+This district had no SULI/CCI interns from 2014-2016 (only years available)
+```
 ---
 <a name="NV-02"></a>
 [Back to top](#top)
 ## NV-02 -- Rep. Mark E. Amodei (R) -- [Wikipedia](https://en.wikipedia.org/wiki/NV-02)
-### Committees
+## Committees
 Mark E. Amodei is the #17 Republican on the House Committee on Appropriations 
 
-### HEP Grants
+## HEP Grants
 In the past 8 years, this district has received:<b> $0 </b>in SC HEP grants.
 ```
 Institution                   Amount ($)    Start    End  Principal Investigator    Project Title
 --------------------------  ------------  -------  -----  ------------------------  ------------------------------------------------------------------------
 UNIVERSITY OF NEVADA, RENO             0     2012   2013  Murphy                    Single Crystal Niobium Tubes for Particle Colliders Accelerator Cavities
 ```
-### SC Contracts
+## SC Contracts
 ```
 This district received no SC contracts from 2012-2019
 ```
-### NSF MPS Grants
+## NSF MPS Grants
 In the past 8 years, this district has received:<b> $11,038,029 </b>in NSF MPS grants.
 ```
   Year  Institution                          Amount ($)
@@ -108,22 +119,30 @@ In the past 8 years, this district has received:<b> $11,038,029 </b>in NSF MPS g
   2012  NEVADA SYSTEM OF HIGHER EDUCATION       390,000
   2012  UNIVERSITY OF NEVADA, RENO              926,494
 ```
+## SULI/CCI Interns
+From 2014-2016 (only years available), this district had 2 SULI/CCI interns
+```
+Term         Name                College                    Host Lab                       Program
+-----------  ------------------  -------------------------  -----------------------------  ---------
+Summer 2016  Jeremy Trevor Moon  University of Nevada-Reno  Oak Ridge National Laboratory  SULI
+Summer 2014  Evan Aaron West     University of Nevada-Reno  Oak Ridge National Laboratory  SULI
+```
 ---
 <a name="NV-03"></a>
 [Back to top](#top)
 ## NV-03 -- Rep. Susie Lee (D) -- [Wikipedia](https://en.wikipedia.org/wiki/NV-03)
-### Committees
+## Committees
 Susie Lee is the #14 Democrat on the House Subcommittee on Higher Education and Workforce Development 
 
-### HEP Grants
+## HEP Grants
 ```
 This district received no SC HEP grants from 2012-2019
 ```
-### SC Contracts
+## SC Contracts
 ```
 This district received no SC contracts from 2012-2019
 ```
-### NSF MPS Grants
+## NSF MPS Grants
 In the past 8 years, this district has received:<b> $950,306 </b>in NSF MPS grants.
 ```
   Year  Institution                                           Amount ($)
@@ -131,23 +150,31 @@ In the past 8 years, this district has received:<b> $950,306 </b>in NSF MPS gran
   2018  BOARD OF REGENTS NEVADA SYSTEM OF HIGHER EDUCATION       875,306
   2017  BOARD OF REGENTS NEVADA SYSTEM OF HIGHER EDUCATION        75,000
 ```
+## SULI/CCI Interns
+```
+This district had no SULI/CCI interns from 2014-2016 (only years available)
+```
 ---
 <a name="NV-04"></a>
 [Back to top](#top)
 ## NV-04 -- Rep. Steven Horsford (D) -- [Wikipedia](https://en.wikipedia.org/wiki/NV-04)
-### Committees
-Steven Horsford is not on any of our key committees 
+## Committees
+Steven Horsford is not on any of our key committees. 
 
-### HEP Grants
+## HEP Grants
 ```
 This district received no SC HEP grants from 2012-2019
 ```
-### SC Contracts
+## SC Contracts
 ```
 This district received no SC contracts from 2012-2019
 ```
-### NSF MPS Grants
+## NSF MPS Grants
 ```
 This district received no NSF MPS grants from 2012-2019
+```
+## SULI/CCI Interns
+```
+This district had no SULI/CCI interns from 2014-2016 (only years available)
 ```
 ---

@@ -36,7 +36,7 @@ VANDERBILT UNIVERSITY                    480,000
 Pronova Solutions LLC                     93,000
 ProNova Solutions LLC                          0
 ```
-### SC Contracts
+## SC Contracts
 In the past 8 years, this state has received:
 902 Office of Science contracts, totalling <b> $16,091,197,537</b>
 ```
@@ -90,19 +90,44 @@ RHODES COLLEGE (TENNESSEE), INC.                      163,775
 REDACTED DUE TO PII                                   100,000
 OAK RIDGE ASSOCIATED UNIVERSITIES, INCORPORATED        30,847
 ```
+## SULI/CCI Interns
+From 2014-2016 (only years available), this district had 152 SULI/CCI interns
+```
+  # Interns  Program    College
+-----------  ---------  --------------------------------------
+         66  SULI       University of Tennessee, Knoxville
+         25  SULI       Tennessee Technological University
+         12  SULI       University of Tennessee at Chattanooga
+         10  CCI        Pellissippi State Community College
+          8  CCI        Roane State Community College
+          7  SULI       Middle Tennessee State University
+          4  SULI       Vanderbilt University
+          4  SULI       Christian Brothers University
+          2  SULI       The University of Memphis
+          2  SULI       Pellissippi State Community College
+          2  SULI       East Tennessee State University
+          2  SULI       Austin Peay State University
+          2  CCI        Volunteer State Community College
+          1  SULI       Sewanee: The University of the South
+          1  SULI       Cumberland University
+          1  SULI       The University of Tennessee, Knoxville
+          1  SULI       The University of Tennessee-Knoxville
+          1  SULI       Union University
+          1  CCI        Northeast State Community College
+```
 ---
 ---
 <a name="TN-01"></a>
 [Back to top](#top)
 ## TN-01 -- Rep. David P. Roe (R) -- [Wikipedia](https://en.wikipedia.org/wiki/TN-01)
-### Committees
-David P. Roe is not on any of our key committees 
+## Committees
+David P. Roe is not on any of our key committees. 
 
-### HEP Grants
+## HEP Grants
 ```
 This district received no SC HEP grants from 2012-2019
 ```
-### SC Contracts
+## SC Contracts
 In the past 8 years, this district has received:
 4 Office of Science contracts, totalling <b> $169,125</b>
 ```
@@ -113,7 +138,7 @@ GEO SERVICES, LLC                              5,626  SPECIAL STUDIES/ANALYSIS- 
 B & H SALES                                    5,260  HAND TOOLS, EDGED, NONPOWERED
 WATER SOLUTIONS ENGINEERING, LLC               3,465  WATER PURIFICATION EQUIPMENT
 ```
-### NSF MPS Grants
+## NSF MPS Grants
 In the past 8 years, this district has received:<b> $630,641 </b>in NSF MPS grants.
 ```
   Year  Institution                        Amount ($)
@@ -124,14 +149,23 @@ In the past 8 years, this district has received:<b> $630,641 </b>in NSF MPS gran
   2013  EAST TENNESSEE STATE UNIVERSITY       220,375
   2012  EAST TENNESSEE STATE UNIVERSITY       156,048
 ```
+## SULI/CCI Interns
+From 2014-2016 (only years available), this district had 3 SULI/CCI interns
+```
+Term         Name                      College                            Host Lab                       Program
+-----------  ------------------------  ---------------------------------  -----------------------------  ---------
+Summer 2016  John Deakins              Northeast State Community College  Oak Ridge National Laboratory  CCI
+Summer 2014  Zachary Richard Gable     East Tennessee State University    Oak Ridge National Laboratory  SULI
+Spring 2014  April Elizabeth Parkison  East Tennessee State University    Oak Ridge National Laboratory  SULI
+```
 ---
 <a name="TN-02"></a>
 [Back to top](#top)
 ## TN-02 -- Rep. Tim Burchett (R) -- [Wikipedia](https://en.wikipedia.org/wiki/TN-02)
-### Committees
-Tim Burchett is not on any of our key committees 
+## Committees
+Tim Burchett is not on any of our key committees. 
 
-### HEP Grants
+## HEP Grants
 In the past 8 years, this district has received:<b> $4,795,000 </b>in SC HEP grants.
 ```
 Institution                           Amount ($)    Start  End      Principal Investigator        Project Title
@@ -148,7 +182,7 @@ UNIVERSITY OF TENNESSEE, KNOXVILLE       338,000     2013  2014     Kamyshkov   
 UNIVERSITY OF TENNESSEE, KNOXVILLE       178,000     2013  2014     Spanier                       Elementary Particle Interactions with CMS at LHC
 UNIVERSITY OF TENNESSEE, KNOXVILLE       674,000     2012  2014     Kamyshkov                     Elementary Particle Interactions
 ```
-### SC Contracts
+## SC Contracts
 In the past 8 years, this district has received:
 89 Office of Science contracts, totalling <b> $224,103,846</b>
 ```
@@ -176,7 +210,7 @@ K.C. ELECTRICAL CONSTRUCTION, INC.                 81,885  INSTALLATION OF EQUIP
 CATALYST TECHNOLOGY GROUP USA, INC.                80,272  ADPE SYSTEM CONFIGURATION
 and  37  other firms.
 ```
-### NSF MPS Grants
+## NSF MPS Grants
 In the past 8 years, this district has received:<b> $25,458,130 </b>in NSF MPS grants.
 ```
   Year  Institution                 Amount ($)
@@ -192,20 +226,106 @@ In the past 8 years, this district has received:<b> $25,458,130 </b>in NSF MPS g
   2013  UNIVERSITY OF TENNESSEE      3,497,607
   2012  UNIVERSITY OF TENNESSEE      3,095,501
 ```
+## SULI/CCI Interns
+From 2014-2016 (only years available), this district had 80 SULI/CCI interns
+```
+Term         Name                         College                                 Host Lab                             Program
+-----------  ---------------------------  --------------------------------------  -----------------------------------  ---------
+Summer 2016  Harrison Smith               Pellissippi State Community College     Oak Ridge National Laboratory        CCI
+Summer 2016  Logan Scott Owens            University of Tennessee, Knoxville      Oak Ridge National Laboratory        SULI
+Summer 2016  Alec Michael Affolter        University of Tennessee, Knoxville      Oak Ridge National Laboratory        SULI
+Summer 2016  Victoria Brooks              University of Tennessee, Knoxville      Oak Ridge National Laboratory        SULI
+Summer 2016  Tommy Cianciolo              University of Tennessee, Knoxville      Oak Ridge National Laboratory        SULI
+Summer 2016  Parker James Dulin           University of Tennessee, Knoxville      Oak Ridge National Laboratory        SULI
+Summer 2016  Kara Michelle Godsey         University of Tennessee, Knoxville      Oak Ridge National Laboratory        SULI
+Summer 2016  Dallas Hamlin                University of Tennessee, Knoxville      Oak Ridge National Laboratory        SULI
+Summer 2016  Joseph Nathaniel Huber       University of Tennessee, Knoxville      Oak Ridge National Laboratory        SULI
+Summer 2016  Nicholas Daniel Kelley       University of Tennessee, Knoxville      Oak Ridge National Laboratory        SULI
+Summer 2016  Megan Landon                 University of Tennessee, Knoxville      Oak Ridge National Laboratory        SULI
+Summer 2016  Gerald Liso                  University of Tennessee, Knoxville      Oak Ridge National Laboratory        SULI
+Summer 2016  Lucas Nicely                 University of Tennessee, Knoxville      Oak Ridge National Laboratory        SULI
+Summer 2016  Christopher Muir             University of Tennessee, Knoxville      Oak Ridge National Laboratory        SULI
+Summer 2016  Roman Jennings Sherrod       University of Tennessee, Knoxville      Princeton Plasma Physics Laboratory  SULI
+Summer 2016  Nabeel Jaser                 Pellissippi State Community College     Oak Ridge National Laboratory        CCI
+Summer 2016  Andrew Demitte Valesky       University of Tennessee, Knoxville      Oak Ridge National Laboratory        SULI
+Summer 2016  Joseph Warner                University of Tennessee, Knoxville      Oak Ridge National Laboratory        SULI
+Summer 2016  Joseph Willenborg            University of Tennessee, Knoxville      Oak Ridge National Laboratory        SULI
+Summer 2016  Mason Stuart Taylor          University of Tennessee, Knoxville      Oak Ridge National Laboratory        SULI
+Summer 2015  Austin Blake Plymill         University of Tennessee, Knoxville      Oak Ridge National Laboratory        SULI
+Summer 2015  Grant James Powell           University of Tennessee, Knoxville      Oak Ridge National Laboratory        SULI
+Summer 2015  Matthew Benjamin Seals       University of Tennessee, Knoxville      Oak Ridge National Laboratory        SULI
+Summer 2015  Josh Turan                   University of Tennessee, Knoxville      Oak Ridge National Laboratory        SULI
+Summer 2015  Michael Wilder               University of Tennessee, Knoxville      Oak Ridge National Laboratory        SULI
+Summer 2015  Harrison Smith               Pellissippi State Community College     Oak Ridge National Laboratory        CCI
+Summer 2015  Andrew Demitte Valesky       Pellissippi State Community College     Oak Ridge National Laboratory        CCI
+Summer 2015  Benjamin Taylor              Pellissippi State Community College     Oak Ridge National Laboratory        CCI
+Summer 2015  Matthew Walker Seals         Pellissippi State Community College     Oak Ridge National Laboratory        CCI
+Summer 2015  Ryan Prout                   Pellissippi State Community College     Oak Ridge National Laboratory        CCI
+Summer 2015  Maggie Kubarewicz            Pellissippi State Community College     Oak Ridge National Laboratory        CCI
+Summer 2015  Demetrios Richard Obenour    University of Tennessee, Knoxville      Oak Ridge National Laboratory        SULI
+Summer 2015  Ellias Palcu                 University of Tennessee, Knoxville      Oak Ridge National Laboratory        SULI
+Summer 2015  Benjamin Tyler White         University of Tennessee, Knoxville      Oak Ridge National Laboratory        SULI
+Summer 2015  Robert Terry Moncrief III    University of Tennessee, Knoxville      Oak Ridge National Laboratory        SULI
+Summer 2015  Daniel Graves                University of Tennessee, Knoxville      Oak Ridge National Laboratory        SULI
+Summer 2015  Sarah Ann Bleakney           University of Tennessee, Knoxville      Oak Ridge National Laboratory        SULI
+Summer 2015  Aaron Michael Browne         University of Tennessee, Knoxville      Oak Ridge National Laboratory        SULI
+Summer 2015  Nicholas Glenn Combs         University of Tennessee, Knoxville      Brookhaven National Laboratory       SULI
+Summer 2015  Amy Albaugh                  University of Tennessee, Knoxville      Oak Ridge National Laboratory        SULI
+Summer 2015  Amos Frederick Manneschmidt  University of Tennessee, Knoxville      Oak Ridge National Laboratory        SULI
+Summer 2015  Jack Evans Gritton           University of Tennessee, Knoxville      Oak Ridge National Laboratory        SULI
+Summer 2015  David Herberich              University of Tennessee, Knoxville      Oak Ridge National Laboratory        SULI
+Summer 2015  James William Kemp           University of Tennessee, Knoxville      Oak Ridge National Laboratory        SULI
+Summer 2015  Johnson Luma                 University of Tennessee, Knoxville      Oak Ridge National Laboratory        SULI
+Summer 2015  Johan Anantharaj             University of Tennessee, Knoxville      Oak Ridge National Laboratory        SULI
+Summer 2014  Jessica Linn Robins          University of Tennessee, Knoxville      Oak Ridge National Laboratory        SULI
+Summer 2014  David Lu                     University of Tennessee, Knoxville      Oak Ridge National Laboratory        SULI
+Summer 2014  Kyle Leinart                 University of Tennessee, Knoxville      Oak Ridge National Laboratory        SULI
+Summer 2014  Samuel Jones                 The University of Tennessee-Knoxville   Oak Ridge National Laboratory        SULI
+Summer 2014  Campbell O'Neal Reynolds     The University of Tennessee, Knoxville  Oak Ridge National Laboratory        SULI
+Summer 2014  Seth Aaron Newport           Pellissippi State Community College     Oak Ridge National Laboratory        CCI
+Summer 2014  Nicholas Joseph Kivi         University of Tennessee, Knoxville      Brookhaven National Laboratory       SULI
+Summer 2014  Mitchell Shope               University of Tennessee, Knoxville      Oak Ridge National Laboratory        SULI
+Summer 2014  Davis Raymond Hu             University of Tennessee, Knoxville      Oak Ridge National Laboratory        SULI
+Summer 2014  William Hawks                University of Tennessee, Knoxville      Oak Ridge National Laboratory        SULI
+Summer 2014  Duncan Alexander Greeley     University of Tennessee, Knoxville      Oak Ridge National Laboratory        SULI
+Summer 2014  Vasile Tudor Garbulet        University of Tennessee, Knoxville      Oak Ridge National Laboratory        SULI
+Summer 2014  Jacob Ray Clower             University of Tennessee, Knoxville      Oak Ridge National Laboratory        SULI
+Summer 2014  Justine Katherine Barry      University of Tennessee, Knoxville      Oak Ridge National Laboratory        SULI
+Summer 2014  Matthew Benjamin Seals       University of Tennessee, Knoxville      Oak Ridge National Laboratory        SULI
+Summer 2014  Daniel Scott Williams        University of Tennessee, Knoxville      Oak Ridge National Laboratory        SULI
+Summer 2014  Maria Vincent                University of Tennessee, Knoxville      Oak Ridge National Laboratory        SULI
+Summer 2014  Benjamin Tyler White         University of Tennessee, Knoxville      Oak Ridge National Laboratory        SULI
+Summer 2014  Pranshu Bansal               University of Tennessee, Knoxville      Oak Ridge National Laboratory        SULI
+Summer 2014  Amy Albaugh                  University of Tennessee, Knoxville      Oak Ridge National Laboratory        SULI
+Summer 2014  Curtis Andre Wilkerson       University of Tennessee, Knoxville      Oak Ridge National Laboratory        SULI
+Spring 2016  Johnson Luma                 University of Tennessee, Knoxville      Oak Ridge National Laboratory        SULI
+Spring 2016  Brooke Butler                University of Tennessee, Knoxville      Oak Ridge National Laboratory        SULI
+Spring 2016  Clinton Bocephus Carbonell   Pellissippi State Community College     Oak Ridge National Laboratory        CCI
+Spring 2016  Josh Turan                   University of Tennessee, Knoxville      Oak Ridge National Laboratory        SULI
+Spring 2015  Case Taylor Collins          University of Tennessee, Knoxville      Oak Ridge National Laboratory        SULI
+Spring 2015  Christi Renea Johnson        University of Tennessee, Knoxville      Oak Ridge National Laboratory        SULI
+Fall 2015    Christopher Scott Shafer     Pellissippi State Community College     Oak Ridge National Laboratory        SULI
+Fall 2015    Michael Ryan Smith           University of Tennessee, Knoxville      Oak Ridge National Laboratory        SULI
+Fall 2015    Case Taylor Collins          University of Tennessee, Knoxville      Oak Ridge National Laboratory        SULI
+Fall 2015    Josiah Philip Brandt         University of Tennessee, Knoxville      Oak Ridge National Laboratory        SULI
+Fall 2014    Christi Renea Johnson        University of Tennessee, Knoxville      Oak Ridge National Laboratory        SULI
+Fall 2014    Tommy Allen Hardin           Pellissippi State Community College     Oak Ridge National Laboratory        SULI
+Fall 2014    Angela Nichole Belic         University of Tennessee, Knoxville      Oak Ridge National Laboratory        SULI
+```
 ---
 <a name="TN-03"></a>
 [Back to top](#top)
 ## TN-03 -- Rep. Charles J. "Chuck" Fleischmann (R) -- [Wikipedia](https://en.wikipedia.org/wiki/TN-03)
-### Committees
+## Committees
 Charles J. "Chuck" Fleischmann is the #3 Republican on the House Appropriations Subcommittee on Energy and Water Development 
 
 Charles J. "Chuck" Fleischmann is the #12 Republican on the House Committee on Appropriations 
 
-### HEP Grants
+## HEP Grants
 ```
 This district received no SC HEP grants from 2012-2019
 ```
-### SC Contracts
+## SC Contracts
 In the past 8 years, this district has received:
 809 Office of Science contracts, totalling <b> $15,866,770,489</b>
 ```
@@ -233,7 +353,7 @@ OAK RIDGE, CITY OF                                   15,710,362  UTILITIES- WATE
 TRIBALCO, LLC                                        10,008,432  RADIO AND TELEVISION COMMUNICATION EQUIPMENT, EXCEPT AIRBORNE
 and  391  other firms.
 ```
-### NSF MPS Grants
+## NSF MPS Grants
 In the past 8 years, this district has received:<b> $1,694,874 </b>in NSF MPS grants.
 ```
   Year  Institution                                        Amount ($)
@@ -248,22 +368,48 @@ In the past 8 years, this district has received:<b> $1,694,874 </b>in NSF MPS gr
   2013  UNIVERSITY OF TENNESSEE                               290,000
   2012  OAK RIDGE ASSOCIATED UNIVERSITIES, INCORPORAT         529,893
 ```
+## SULI/CCI Interns
+From 2014-2016 (only years available), this district had 20 SULI/CCI interns
+```
+Term         Name                         College                                 Host Lab                                Program
+-----------  ---------------------------  --------------------------------------  --------------------------------------  ---------
+Summer 2016  Tyler Johns                  University of Tennessee at Chattanooga  Oak Ridge National Laboratory           SULI
+Summer 2016  Andrew D Drake               University of Tennessee at Chattanooga  Oak Ridge National Laboratory           SULI
+Summer 2016  Kailey Danielle Pemberton    Roane State Community College           Oak Ridge National Laboratory           CCI
+Summer 2016  Mary Adkisson                Roane State Community College           Oak Ridge National Laboratory           CCI
+Summer 2016  Taylor Brandon Lyon          University of Tennessee at Chattanooga  Oak Ridge National Laboratory           SULI
+Summer 2016  Kathleen Abigail Garrabrant  University of Tennessee at Chattanooga  Oak Ridge National Laboratory           SULI
+Summer 2016  Katlyn Elizabeth Schubert    Roane State Community College           Oak Ridge National Laboratory           CCI
+Summer 2015  Elizabeth M. Tuggle          University of Tennessee at Chattanooga  Oak Ridge National Laboratory           SULI
+Summer 2015  Colston Robert Abernathy     University of Tennessee at Chattanooga  Oak Ridge National Laboratory           SULI
+Summer 2015  Weng Leong Choy              Roane State Community College           Oak Ridge National Laboratory           CCI
+Summer 2015  Lake Thomas Lowe             Roane State Community College           Lawrence Livermore National Laboratory  CCI
+Summer 2015  Eric Nolan                   Roane State Community College           Oak Ridge National Laboratory           CCI
+Summer 2015  Kailey Danielle Pemberton    Roane State Community College           Oak Ridge National Laboratory           CCI
+Summer 2014  John Patrick O'Brien         University of Tennessee at Chattanooga  Oak Ridge National Laboratory           SULI
+Summer 2014  Jeffrey Burks                Roane State Community College           Oak Ridge National Laboratory           CCI
+Spring 2015  Rachel LeeAnn Terry          University of Tennessee at Chattanooga  National Renewable Energy Laboratory    SULI
+Spring 2015  Dustin Taylor Jones          University of Tennessee at Chattanooga  Oak Ridge National Laboratory           SULI
+Spring 2014  Jackson Anthony Stone        University of Tennessee at Chattanooga  Oak Ridge National Laboratory           SULI
+Fall 2014    Caleb Michael Wickersham     University of Tennessee at Chattanooga  Oak Ridge National Laboratory           SULI
+Fall 2014    Rachel LeeAnn Terry          University of Tennessee at Chattanooga  National Renewable Energy Laboratory    SULI
+```
 ---
 <a name="TN-04"></a>
 [Back to top](#top)
 ## TN-04 -- Rep. Scott DesJarlais (R) -- [Wikipedia](https://en.wikipedia.org/wiki/TN-04)
-### Committees
-Scott DesJarlais is not on any of our key committees 
+## Committees
+Scott DesJarlais is not on any of our key committees. 
 
-### HEP Grants
+## HEP Grants
 ```
 This district received no SC HEP grants from 2012-2019
 ```
-### SC Contracts
+## SC Contracts
 ```
 This district received no SC contracts from 2012-2019
 ```
-### NSF MPS Grants
+## NSF MPS Grants
 In the past 8 years, this district has received:<b> $2,042,345 </b>in NSF MPS grants.
 ```
   Year  Institution                          Amount ($)
@@ -278,14 +424,28 @@ In the past 8 years, this district has received:<b> $2,042,345 </b>in NSF MPS gr
   2013  UNIVERSITY OF TENNESSEE                   3,938
   2012  UNIVERSITY OF TENNESSEE                   6,111
 ```
+## SULI/CCI Interns
+From 2014-2016 (only years available), this district had 8 SULI/CCI interns
+```
+Term         Name                        College                               Host Lab                        Program
+-----------  --------------------------  ------------------------------------  ------------------------------  ---------
+Summer 2016  Elizabeth Erin Bickel       Middle Tennessee State University     Oak Ridge National Laboratory   SULI
+Summer 2016  Josie Simone Lyon           Middle Tennessee State University     Oak Ridge National Laboratory   SULI
+Summer 2015  Andy Nicholas Black         Middle Tennessee State University     Oak Ridge National Laboratory   SULI
+Summer 2015  Grayson McKenzie Dubois     Middle Tennessee State University     Oak Ridge National Laboratory   SULI
+Summer 2015  Josie Simone Lyon           Middle Tennessee State University     Oak Ridge National Laboratory   SULI
+Summer 2015  Sydney Lyn Smith            Middle Tennessee State University     Oak Ridge National Laboratory   SULI
+Summer 2014  Abigail Brita Tate Brudvig  Sewanee: The University of the South  Oak Ridge National Laboratory   SULI
+Fall 2015    Ashley Lyon                 Middle Tennessee State University     Brookhaven National Laboratory  SULI
+```
 ---
 <a name="TN-05"></a>
 [Back to top](#top)
 ## TN-05 -- Rep. Jim Cooper (D) -- [Wikipedia](https://en.wikipedia.org/wiki/TN-05)
-### Committees
-Jim Cooper is not on any of our key committees 
+## Committees
+Jim Cooper is not on any of our key committees. 
 
-### HEP Grants
+## HEP Grants
 In the past 8 years, this district has received:<b> $1,335,000 </b>in SC HEP grants.
 ```
 Institution              Amount ($)    Start  End      Principal Investigator    Project Title
@@ -296,7 +456,7 @@ Vanderbilt University             0     2014  2015     Weiler, Thomas           
 Vanderbilt University       680,000     2014  Ongoing  Weiler, Thomas            Theoretical Investigations in Elementary Particle and Cosmological Physics
 VANDERBILT UNIVERSITY       480,000     2012  2014     Weiler, Kephart           Theoretical Investigations in Elementary Particle Physics
 ```
-### SC Contracts
+## SC Contracts
 In the past 8 years, this district has received:
 1 Office of Science contracts, totalling <b> $132,506</b>
 ```
@@ -304,7 +464,7 @@ In the past 8 years, this district has received:
 ------  ------------------  ------------  ----------------------------------
   2014  ROGERS GROUP, INC.       132,506  CONSTRUCTION OF PARKING FACILITIES
 ```
-### NSF MPS Grants
+## NSF MPS Grants
 In the past 8 years, this district has received:<b> $29,542,264 </b>in NSF MPS grants.
 ```
   Year  Institution                   Amount ($)
@@ -332,22 +492,32 @@ In the past 8 years, this district has received:<b> $29,542,264 </b>in NSF MPS g
   2012  THE VANDERBILT UNIVERSITY        354,416
   2012  FISK UNIVERSITY                  451,300
 ```
+## SULI/CCI Interns
+From 2014-2016 (only years available), this district had 4 SULI/CCI interns
+```
+Term         Name              College                Host Lab                               Program
+-----------  ----------------  ---------------------  -------------------------------------  ---------
+Summer 2016  Marie Armbruster  Vanderbilt University  National Renewable Energy Laboratory   SULI
+Summer 2016  Timothy Jiang     Vanderbilt University  Oak Ridge National Laboratory          SULI
+Summer 2015  Sirui Ma          Vanderbilt University  Oak Ridge National Laboratory          SULI
+Summer 2014  Michelle Roh      Vanderbilt University  Lawrence Berkeley National Laboratory  SULI
+```
 ---
 <a name="TN-06"></a>
 [Back to top](#top)
 ## TN-06 -- Rep. John W. Rose (R) -- [Wikipedia](https://en.wikipedia.org/wiki/TN-06)
-### Committees
-John W. Rose is not on any of our key committees 
+## Committees
+John W. Rose is not on any of our key committees. 
 
-### HEP Grants
+## HEP Grants
 ```
 This district received no SC HEP grants from 2012-2019
 ```
-### SC Contracts
+## SC Contracts
 ```
 This district received no SC contracts from 2012-2019
 ```
-### NSF MPS Grants
+## NSF MPS Grants
 In the past 8 years, this district has received:<b> $860,027 </b>in NSF MPS grants.
 ```
   Year  Institution                           Amount ($)
@@ -357,18 +527,52 @@ In the past 8 years, this district has received:<b> $860,027 </b>in NSF MPS gran
   2016  TENNESSEE TECHNOLOGICAL UNIVERSITY       154,849
   2015  TENNESSEE TECHNOLOGICAL UNIVERSITY       410,480
 ```
+## SULI/CCI Interns
+From 2014-2016 (only years available), this district had 28 SULI/CCI interns
+```
+Term         Name                      College                             Host Lab                               Program
+-----------  ------------------------  ----------------------------------  -------------------------------------  ---------
+Summer 2016  Duane Vick                Tennessee Technological University  Oak Ridge National Laboratory          SULI
+Summer 2016  Jameson Landon Tyler      Tennessee Technological University  Oak Ridge National Laboratory          SULI
+Summer 2016  Michaela Stockdale        Tennessee Technological University  Oak Ridge National Laboratory          SULI
+Summer 2016  Michael David Roberts     Tennessee Technological University  Oak Ridge National Laboratory          SULI
+Summer 2016  Dustin Ray Morris         Tennessee Technological University  Oak Ridge National Laboratory          SULI
+Summer 2016  Ian Louis Gwaltney        Tennessee Technological University  Oak Ridge National Laboratory          SULI
+Summer 2016  Austin Joseph Garrabrant  Tennessee Technological University  Oak Ridge National Laboratory          SULI
+Summer 2015  Michael David Roberts     Tennessee Technological University  Oak Ridge National Laboratory          SULI
+Summer 2015  Jesse Schmitz             Tennessee Technological University  Oak Ridge National Laboratory          SULI
+Summer 2015  Andrew Wilson             Tennessee Technological University  Pacific Northwest National Laboratory  SULI
+Summer 2015  Taylor Hidalgo            Tennessee Technological University  Oak Ridge National Laboratory          SULI
+Summer 2015  Rebecca Neuenschwander    Tennessee Technological University  Oak Ridge National Laboratory          SULI
+Summer 2015  Andrew Pachuilo           Tennessee Technological University  Oak Ridge National Laboratory          SULI
+Summer 2014  Andrew D Drake            Volunteer State Community College   Oak Ridge National Laboratory          CCI
+Summer 2014  Jesse Schmitz             Volunteer State Community College   Oak Ridge National Laboratory          CCI
+Summer 2014  Samantha Alynn Tompkins   Tennessee Technological University  Oak Ridge National Laboratory          SULI
+Summer 2014  Benjamin Mark Rogers      Tennessee Technological University  Oak Ridge National Laboratory          SULI
+Summer 2014  Larry Roberts             Tennessee Technological University  Oak Ridge National Laboratory          SULI
+Summer 2014  April Elizabeth Parkison  Tennessee Technological University  Oak Ridge National Laboratory          SULI
+Summer 2014  Matilda Lane              Tennessee Technological University  Oak Ridge National Laboratory          SULI
+Summer 2014  Christa Nicole Cody       Tennessee Technological University  Oak Ridge National Laboratory          SULI
+Summer 2014  Tandy Carmichael          Tennessee Technological University  Oak Ridge National Laboratory          SULI
+Spring 2015  Frederick Kyle Reed       Tennessee Technological University  Oak Ridge National Laboratory          SULI
+Spring 2014  Mariatou Sisay            Tennessee Technological University  Pacific Northwest National Laboratory  SULI
+Spring 2014  Benjamin Mark Rogers      Tennessee Technological University  Argonne National Laboratory            SULI
+Fall 2015    Dustin Ray Morris         Tennessee Technological University  Oak Ridge National Laboratory          SULI
+Fall 2015    Nathan Paul Riggsbee      Cumberland University               Oak Ridge National Laboratory          SULI
+Fall 2014    Savannah Joy Taylor       Tennessee Technological University  Oak Ridge National Laboratory          SULI
+```
 ---
 <a name="TN-07"></a>
 [Back to top](#top)
 ## TN-07 -- Rep. Mark E. Green (R) -- [Wikipedia](https://en.wikipedia.org/wiki/TN-07)
-### Committees
-Mark E. Green is not on any of our key committees 
+## Committees
+Mark E. Green is not on any of our key committees. 
 
-### HEP Grants
+## HEP Grants
 ```
 This district received no SC HEP grants from 2012-2019
 ```
-### SC Contracts
+## SC Contracts
 In the past 8 years, this district has received:
 1 Office of Science contracts, totalling <b> $3,708</b>
 ```
@@ -376,49 +580,64 @@ In the past 8 years, this district has received:
 ------  ----------------  ------------  ---------------
   2013  ASE DIRECT, INC.         3,708  OFFICE SUPPLIES
 ```
-### NSF MPS Grants
+## NSF MPS Grants
 In the past 8 years, this district has received:<b> $200,000 </b>in NSF MPS grants.
 ```
   Year  Institution                     Amount ($)
 ------  ----------------------------  ------------
   2014  AUSTIN PEAY STATE UNIVERSITY       200,000
 ```
+## SULI/CCI Interns
+From 2014-2016 (only years available), this district had 2 SULI/CCI interns
+```
+Term         Name                     College                       Host Lab                        Program
+-----------  -----------------------  ----------------------------  ------------------------------  ---------
+Summer 2015  Laura Renae Judy         Austin Peay State University  Oak Ridge National Laboratory   SULI
+Summer 2014  Christopher Robyn Hayes  Austin Peay State University  Brookhaven National Laboratory  SULI
+```
 ---
 <a name="TN-08"></a>
 [Back to top](#top)
 ## TN-08 -- Rep. David Kustoff (R) -- [Wikipedia](https://en.wikipedia.org/wiki/TN-08)
-### Committees
-David Kustoff is not on any of our key committees 
+## Committees
+David Kustoff is not on any of our key committees. 
 
-### HEP Grants
+## HEP Grants
 ```
 This district received no SC HEP grants from 2012-2019
 ```
-### SC Contracts
+## SC Contracts
 ```
 This district received no SC contracts from 2012-2019
 ```
-### NSF MPS Grants
+## NSF MPS Grants
 In the past 8 years, this district has received:<b> $76,082 </b>in NSF MPS grants.
 ```
   Year  Institution                     Amount ($)
 ------  ----------------------------  ------------
   2017  AUSTIN PEAY STATE UNIVERSITY        76,082
 ```
+## SULI/CCI Interns
+From 2014-2016 (only years available), this district had 1 SULI/CCI intern
+```
+Term         Name                   College           Host Lab                    Program
+-----------  ---------------------  ----------------  --------------------------  ---------
+Summer 2014  Brittany Diane Hagler  Union University  Sandia National Laboratory  SULI
+```
 ---
 <a name="TN-09"></a>
 [Back to top](#top)
 ## TN-09 -- Rep. Steve Cohen (D) -- [Wikipedia](https://en.wikipedia.org/wiki/TN-09)
-### Committees
+## Committees
 Steve Cohen is the #12 Democrat on the House Committee on Science, Space, and Technology 
 
 Steve Cohen is the #7 Democrat on the House Committee on Science, Space, and Technology; Subcommittee on Research and Technology 
 
-### HEP Grants
+## HEP Grants
 ```
 This district received no SC HEP grants from 2012-2019
 ```
-### SC Contracts
+## SC Contracts
 In the past 8 years, this district has received:
 3 Office of Science contracts, totalling <b> $17,863</b>
 ```
@@ -428,7 +647,7 @@ In the past 8 years, this district has received:
   2014  INTERACTIVE SOLUTIONS, INC.         5,943  TELEPHONE AND TELEGRAPH EQUIPMENT
   2013  INTERACTIVE SOLUTIONS, INC.         5,486  TELEPHONE AND TELEGRAPH EQUIPMENT
 ```
-### NSF MPS Grants
+## NSF MPS Grants
 In the past 8 years, this district has received:<b> $3,744,866 </b>in NSF MPS grants.
 ```
   Year  Institution                         Amount ($)
@@ -443,5 +662,17 @@ In the past 8 years, this district has received:<b> $3,744,866 </b>in NSF MPS gr
   2013  UNIVERSITY OF MEMPHIS                  579,963
   2012  RHODES COLLEGE (TENNESSEE), INC.        49,775
   2012  UNIVERSITY OF MEMPHIS                  569,000
+```
+## SULI/CCI Interns
+From 2014-2016 (only years available), this district had 6 SULI/CCI interns
+```
+Term         Name                         College                        Host Lab                                        Program
+-----------  ---------------------------  -----------------------------  ----------------------------------------------  ---------
+Summer 2016  Christopher Xavien Chattman  The University of Memphis      Thomas Jefferson National Accelerator Facility  SULI
+Summer 2015  Christopher Xavien Chattman  The University of Memphis      Thomas Jefferson National Accelerator Facility  SULI
+Summer 2014  Amanda Duckhorn              Christian Brothers University  Argonne National Laboratory                     SULI
+Summer 2014  George Edward Gallarno       Christian Brothers University  Oak Ridge National Laboratory                   SULI
+Summer 2014  Rebekah Herrman              Christian Brothers University  Oak Ridge National Laboratory                   SULI
+Spring 2015  George Edward Gallarno       Christian Brothers University  Oak Ridge National Laboratory                   SULI
 ```
 ---

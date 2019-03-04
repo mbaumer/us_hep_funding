@@ -11,7 +11,7 @@ permalink : /states/TX/
 
 # TX -- Sen. John Cornyn (R) and  Sen. Ted Cruz (R)
 ## Committees
-John Cornyn is not on any of our key committees 
+John Cornyn is not on any of our key committees. 
 
 Ted Cruz is the #4 Republican on the Senate Committee on Commerce, Science, and Transportation 
 
@@ -46,7 +46,7 @@ University of Texas - Dallas                 333,000
 University of Texas at Dallas                125,000
 Texas A&M Research Foundation                      0
 ```
-### SC Contracts
+## SC Contracts
 In the past 8 years, this state has received:
 4 Office of Science contracts, totalling <b> $61,090</b>
 ```
@@ -138,23 +138,50 @@ ABILENE CHRISTIAN UNIV                                                          
 ABILENE CHRISTIAN UNIVERSITY                                                    51,135
 MIDWESTERN STATE UNIVERSITY                                                     21,000
 ```
+## SULI/CCI Interns
+From 2014-2016 (only years available), this district had 46 SULI/CCI interns
+```
+  # Interns  Program    College
+-----------  ---------  ------------------------------------------------------------------
+          8  SULI       University of Texas at Austin
+          6  SULI       Rice University
+          4  SULI       Texas Tech University
+          3  SULI       University of Texas at Arlington
+          3  SULI       Trinity University
+          2  SULI       Texas A&M University
+          2  CCI        Mountain View College
+          2  SULI       University of North Texas
+          2  SULI       University of Texas at El Paso
+          2  SULI       Baylor University
+          2  SULI       Austin College
+          1  SULI       St. Edward's University
+          1  SULI       Richland College
+          1  SULI       Texas State University
+          1  SULI       Mountain View College
+          1  SULI       The University of Texas at Brownsville and Texas Southmost College
+          1  SULI       Midland College
+          1  SULI       University of Houston--Downtown
+          1  SULI       Del Mar College
+          1  SULI       University of Texas at Dallas
+          1  CCI        Amarillo College
+```
 ---
 ---
 <a name="TX-01"></a>
 [Back to top](#top)
 ## TX-01 -- Rep. Louie Gohmert (R) -- [Wikipedia](https://en.wikipedia.org/wiki/TX-01)
-### Committees
-Louie Gohmert is not on any of our key committees 
+## Committees
+Louie Gohmert is not on any of our key committees. 
 
-### HEP Grants
+## HEP Grants
 ```
 This district received no SC HEP grants from 2012-2019
 ```
-### SC Contracts
+## SC Contracts
 ```
 This district received no SC contracts from 2012-2019
 ```
-### NSF MPS Grants
+## NSF MPS Grants
 In the past 8 years, this district has received:<b> $676,524 </b>in NSF MPS grants.
 ```
   Year  Institution                          Amount ($)
@@ -167,14 +194,18 @@ In the past 8 years, this district has received:<b> $676,524 </b>in NSF MPS gran
   2013  UNIVERSITY OF TEXAS AT TYLER, THE        71,265
   2012  UNIVERSITY OF TEXAS AT TYLER, THE        71,265
 ```
+## SULI/CCI Interns
+```
+This district had no SULI/CCI interns from 2014-2016 (only years available)
+```
 ---
 <a name="TX-02"></a>
 [Back to top](#top)
 ## TX-02 -- Rep. Dan Crenshaw (R) -- [Wikipedia](https://en.wikipedia.org/wiki/TX-02)
-### Committees
-Dan Crenshaw is not on any of our key committees 
+## Committees
+Dan Crenshaw is not on any of our key committees. 
 
-### HEP Grants
+## HEP Grants
 In the past 8 years, this district has received:<b> $2,898,000 </b>in SC HEP grants.
 ```
 Institution                      Amount ($)    Start  End      Principal Investigator    Project Title
@@ -184,11 +215,11 @@ William Marsh Rice University       590,000     2016  2017     Padley, Brian    
 William Marsh Rice University     1,431,000     2015  Ongoing  Padley, Paul              High Energy Physics
 Rice University                     638,000     2014  2015     Padley, Paul              High Energy Physics
 ```
-### SC Contracts
+## SC Contracts
 ```
 This district received no SC contracts from 2012-2019
 ```
-### NSF MPS Grants
+## NSF MPS Grants
 In the past 8 years, this district has received:<b> $56,884,944 </b>in NSF MPS grants.
 ```
   Year  Institution                      Amount ($)
@@ -202,14 +233,18 @@ In the past 8 years, this district has received:<b> $56,884,944 </b>in NSF MPS g
   2014  WILLIAM MARSH RICE UNIVERSITY     7,036,094
   2013  WILLIAM MARSH RICE UNIVERSITY    10,034,547
 ```
+## SULI/CCI Interns
+```
+This district had no SULI/CCI interns from 2014-2016 (only years available)
+```
 ---
 <a name="TX-03"></a>
 [Back to top](#top)
 ## TX-03 -- Rep. Van Taylor (R) -- [Wikipedia](https://en.wikipedia.org/wiki/TX-03)
-### Committees
+## Committees
 Van Taylor is the #4 Republican on the House Subcommittee on Early Childhood, Elementary, and Secondary Education 
 
-### HEP Grants
+## HEP Grants
 In the past 8 years, this district has received:<b> $535,000 </b>in SC HEP grants.
 ```
 Institution                    Amount ($)    Start    End  Principal Investigator    Project Title
@@ -217,11 +252,11 @@ Institution                    Amount ($)    Start    End  Principal Investigato
 UNIVERSITY OF TEXAS, DALLAS       209,000     2013   2014  Izen                      Elementary Particle Physics
 UNIVERSITY OF TEXAS, DALLAS       326,000     2012   2013  Izen                      Elementary Particle Physics
 ```
-### SC Contracts
+## SC Contracts
 ```
 This district received no SC contracts from 2012-2019
 ```
-### NSF MPS Grants
+## NSF MPS Grants
 In the past 8 years, this district has received:<b> $3,360,834 </b>in NSF MPS grants.
 ```
   Year  Institution                      Amount ($)
@@ -229,22 +264,29 @@ In the past 8 years, this district has received:<b> $3,360,834 </b>in NSF MPS gr
   2018  UNIVERSITY OF TEXAS AT DALLAS     1,342,452
   2017  UNIVERSITY OF TEXAS AT DALLAS     2,018,382
 ```
+## SULI/CCI Interns
+From 2014-2016 (only years available), this district had 1 SULI/CCI intern
+```
+Term         Name      College                        Host Lab                               Program
+-----------  --------  -----------------------------  -------------------------------------  ---------
+Spring 2016  Zeyan Xu  University of Texas at Dallas  Lawrence Berkeley National Laboratory  SULI
+```
 ---
 <a name="TX-04"></a>
 [Back to top](#top)
 ## TX-04 -- Rep. John Ratcliffe (R) -- [Wikipedia](https://en.wikipedia.org/wiki/TX-04)
-### Committees
-John Ratcliffe is not on any of our key committees 
+## Committees
+John Ratcliffe is not on any of our key committees. 
 
-### HEP Grants
+## HEP Grants
 ```
 This district received no SC HEP grants from 2012-2019
 ```
-### SC Contracts
+## SC Contracts
 ```
 This district received no SC contracts from 2012-2019
 ```
-### NSF MPS Grants
+## NSF MPS Grants
 In the past 8 years, this district has received:<b> $3,098,255 </b>in NSF MPS grants.
 ```
   Year  Institution                      Amount ($)
@@ -257,33 +299,45 @@ In the past 8 years, this district has received:<b> $3,098,255 </b>in NSF MPS gr
   2013  TEXAS A&M UNIVERSITY-COMMERCE     1,127,384
   2012  TEXAS A&M UNIVERSITY-COMMERCE       176,227
 ```
+## SULI/CCI Interns
+From 2014-2016 (only years available), this district had 2 SULI/CCI interns
+```
+Term         Name                     College         Host Lab                               Program
+-----------  -----------------------  --------------  -------------------------------------  ---------
+Summer 2016  Steven Douglas Prinslow  Austin College  Pacific Northwest National Laboratory  SULI
+Summer 2014  Dominique Martinez       Austin College  Pacific Northwest National Laboratory  SULI
+```
 ---
 <a name="TX-05"></a>
 [Back to top](#top)
 ## TX-05 -- Rep. Lance Gooden (R) -- [Wikipedia](https://en.wikipedia.org/wiki/TX-05)
-### Committees
-Lance Gooden is not on any of our key committees 
+## Committees
+Lance Gooden is not on any of our key committees. 
 
-### HEP Grants
+## HEP Grants
 ```
 This district received no SC HEP grants from 2012-2019
 ```
-### SC Contracts
+## SC Contracts
 ```
 This district received no SC contracts from 2012-2019
 ```
-### NSF MPS Grants
+## NSF MPS Grants
 ```
 This district received no NSF MPS grants from 2012-2019
+```
+## SULI/CCI Interns
+```
+This district had no SULI/CCI interns from 2014-2016 (only years available)
 ```
 ---
 <a name="TX-06"></a>
 [Back to top](#top)
 ## TX-06 -- Rep. Ron Wright (R) -- [Wikipedia](https://en.wikipedia.org/wiki/TX-06)
-### Committees
-Ron Wright is not on any of our key committees 
+## Committees
+Ron Wright is not on any of our key committees. 
 
-### HEP Grants
+## HEP Grants
 In the past 8 years, this district has received:<b> $6,371,000 </b>in SC HEP grants.
 ```
 Institution                         Amount ($)    Start  End      Principal Investigator    Project Title
@@ -299,11 +353,11 @@ UNIVERSITY OF  TEXAS, ARLINGTON         37,000     2012  2013     Brandt        
 UNIVERSITY OF  TEXAS, ARLINGTON      1,265,000     2012  2014     White                     Research in Experimental Elementary Particle Physics
 UNIVERSITY OF  TEXAS, ARLINGTON         10,000     2012  2013     Yu                        Support for the 2012 International Workshop on Future Linear Colliders
 ```
-### SC Contracts
+## SC Contracts
 ```
 This district received no SC contracts from 2012-2019
 ```
-### NSF MPS Grants
+## NSF MPS Grants
 In the past 8 years, this district has received:<b> $3,916,977 </b>in NSF MPS grants.
 ```
   Year  Institution                         Amount ($)
@@ -314,16 +368,25 @@ In the past 8 years, this district has received:<b> $3,916,977 </b>in NSF MPS gr
   2016  UNIVERSITY OF TEXAS AT ARLINGTON     1,408,150
   2015  UNIVERSITY OF TEXAS AT ARLINGTON       793,260
 ```
+## SULI/CCI Interns
+From 2014-2016 (only years available), this district had 3 SULI/CCI interns
+```
+Term         Name                      College                           Host Lab                                Program
+-----------  ------------------------  --------------------------------  --------------------------------------  ---------
+Summer 2015  Soha Aslam                University of Texas at Arlington  Lawrence Livermore National Laboratory  SULI
+Spring 2015  Emmanuel Yeboah Fordjour  University of Texas at Arlington  Argonne National Laboratory             SULI
+Fall 2015    Soha Aslam                University of Texas at Arlington  Princeton Plasma Physics Laboratory     SULI
+```
 ---
 <a name="TX-07"></a>
 [Back to top](#top)
 ## TX-07 -- Rep. Lizzie Fletcher (D) -- [Wikipedia](https://en.wikipedia.org/wiki/TX-07)
-### Committees
+## Committees
 Lizzie Fletcher is the #3 Democrat on the House Committee on Science, Space, and Technology; Subcommittee on Energy 
 
 Lizzie Fletcher is the #7 Democrat on the House Committee on Science, Space, and Technology 
 
-### HEP Grants
+## HEP Grants
 In the past 8 years, this district has received:<b> $1,326,000 </b>in SC HEP grants.
 ```
 Institution        Amount ($)    Start    End  Principal Investigator     Project Title
@@ -331,11 +394,11 @@ Institution        Amount ($)    Start    End  Principal Investigator     Projec
 RICE UNIVERSITY       586,000     2013   2014  Padley                     High Energy Physics
 RICE UNIVERSITY       740,000     2012   2013  Padley, Roberts, Corcoran  High Energy Physics
 ```
-### SC Contracts
+## SC Contracts
 ```
 This district received no SC contracts from 2012-2019
 ```
-### NSF MPS Grants
+## NSF MPS Grants
 In the past 8 years, this district has received:<b> $6,286,968 </b>in NSF MPS grants.
 ```
   Year  Institution                      Amount ($)
@@ -344,14 +407,18 @@ In the past 8 years, this district has received:<b> $6,286,968 </b>in NSF MPS gr
   2012  BAYLOR COLLEGE OF MEDICINE          191,348
   2012  WILLIAM MARSH RICE UNIVERSITY     5,690,243
 ```
+## SULI/CCI Interns
+```
+This district had no SULI/CCI interns from 2014-2016 (only years available)
+```
 ---
 <a name="TX-08"></a>
 [Back to top](#top)
 ## TX-08 -- Rep. Kevin Brady (R) -- [Wikipedia](https://en.wikipedia.org/wiki/TX-08)
-### Committees
-Kevin Brady is not on any of our key committees 
+## Committees
+Kevin Brady is not on any of our key committees. 
 
-### HEP Grants
+## HEP Grants
 In the past 8 years, this district has received:<b> $710,000 </b>in SC HEP grants.
 ```
 Institution                              Amount ($)    Start    End  Principal Investigator    Project Title
@@ -359,11 +426,11 @@ Institution                              Amount ($)    Start    End  Principal I
 TEXAS A&M UNIVERSITY, COLLEGE STATION       645,000     2013   2014  Toback, Webb              High Energy Physics at Texas A&M University
 TEXAS A&M UNIVERSITY, COLLEGE STATION        65,000     2012   2013  Eusebi                    Enhancing the Discovery Reach of the CMS Detector, Upgraded Jet Energy Correction and Uncertainties as a Critical Component to Advanced Analysis Techniques
 ```
-### SC Contracts
+## SC Contracts
 ```
 This district received no SC contracts from 2012-2019
 ```
-### NSF MPS Grants
+## NSF MPS Grants
 In the past 8 years, this district has received:<b> $1,084,922 </b>in NSF MPS grants.
 ```
   Year  Institution                     Amount ($)
@@ -375,22 +442,26 @@ In the past 8 years, this district has received:<b> $1,084,922 </b>in NSF MPS gr
   2014  SAM HOUSTON STATE UNIVERSITY       137,572
   2013  SAM HOUSTON STATE UNIVERSITY       403,834
 ```
+## SULI/CCI Interns
+```
+This district had no SULI/CCI interns from 2014-2016 (only years available)
+```
 ---
 <a name="TX-09"></a>
 [Back to top](#top)
 ## TX-09 -- Rep. Al Green (D) -- [Wikipedia](https://en.wikipedia.org/wiki/TX-09)
-### Committees
-Al Green is not on any of our key committees 
+## Committees
+Al Green is not on any of our key committees. 
 
-### HEP Grants
+## HEP Grants
 ```
 This district received no SC HEP grants from 2012-2019
 ```
-### SC Contracts
+## SC Contracts
 ```
 This district received no SC contracts from 2012-2019
 ```
-### NSF MPS Grants
+## NSF MPS Grants
 In the past 8 years, this district has received:<b> $4,255,460 </b>in NSF MPS grants.
 ```
   Year  Institution                                             Amount ($)
@@ -411,18 +482,30 @@ In the past 8 years, this district has received:<b> $4,255,460 </b>in NSF MPS gr
   2013  METHODIST HOSPITAL RESEARCH INSTITUTE, THE                 228,398
   2013  UNIVERSITY OF TEXAS HEALTH SCIENCE CENTER AT               147,000
 ```
+## SULI/CCI Interns
+From 2014-2016 (only years available), this district had 6 SULI/CCI interns
+```
+Term         Name                    College          Host Lab                              Program
+-----------  ----------------------  ---------------  ------------------------------------  ---------
+Summer 2016  Daniel Fan              Rice University  National Renewable Energy Laboratory  SULI
+Summer 2016  Kentaro Hoffman         Rice University  Argonne National Laboratory           SULI
+Summer 2016  Ajay Subramanian        Rice University  Los Alamos National Laboratory        SULI
+Summer 2016  Bilan Yang              Rice University  Argonne National Laboratory           SULI
+Summer 2015  Sarah Paschal Gerenday  Rice University  Argonne National Laboratory           SULI
+Summer 2014  Justin Scott Dong       Rice University  Argonne National Laboratory           SULI
+```
 ---
 <a name="TX-10"></a>
 [Back to top](#top)
 ## TX-10 -- Rep. Michael T. McCaul (R) -- [Wikipedia](https://en.wikipedia.org/wiki/TX-10)
-### Committees
-Michael T. McCaul is not on any of our key committees 
+## Committees
+Michael T. McCaul is not on any of our key committees. 
 
-### HEP Grants
+## HEP Grants
 ```
 This district received no SC HEP grants from 2012-2019
 ```
-### SC Contracts
+## SC Contracts
 In the past 8 years, this district has received:
 1 Office of Science contracts, totalling <b> $6,161</b>
 ```
@@ -430,7 +513,7 @@ In the past 8 years, this district has received:
 ------  -------------------  ------------  ------------
   2012  DELL MARKETING L.P.         6,161  ADP SOFTWARE
 ```
-### NSF MPS Grants
+## NSF MPS Grants
 In the past 8 years, this district has received:<b> $11,108,414 </b>in NSF MPS grants.
 ```
   Year  Institution                          Amount ($)
@@ -443,41 +526,52 @@ In the past 8 years, this district has received:<b> $11,108,414 </b>in NSF MPS g
   2012  TEXAS STATE UNIVERSITY-SAN MARCOS     1,697,183
   2012  UNIVERSITY OF TEXAS AT AUSTIN         7,699,860
 ```
+## SULI/CCI Interns
+```
+This district had no SULI/CCI interns from 2014-2016 (only years available)
+```
 ---
 <a name="TX-11"></a>
 [Back to top](#top)
 ## TX-11 -- Rep. K. Michael Conaway (R) -- [Wikipedia](https://en.wikipedia.org/wiki/TX-11)
-### Committees
-K. Michael Conaway is not on any of our key committees 
+## Committees
+K. Michael Conaway is not on any of our key committees. 
 
-### HEP Grants
+## HEP Grants
 ```
 This district received no SC HEP grants from 2012-2019
 ```
-### SC Contracts
+## SC Contracts
 ```
 This district received no SC contracts from 2012-2019
 ```
-### NSF MPS Grants
+## NSF MPS Grants
 ```
 This district received no NSF MPS grants from 2012-2019
+```
+## SULI/CCI Interns
+From 2014-2016 (only years available), this district had 1 SULI/CCI intern
+```
+Term         Name                College          Host Lab                        Program
+-----------  ------------------  ---------------  ------------------------------  ---------
+Spring 2016  Emrys Bailey Peets  Midland College  Los Alamos National Laboratory  SULI
 ```
 ---
 <a name="TX-12"></a>
 [Back to top](#top)
 ## TX-12 -- Rep. Kay Granger (R) -- [Wikipedia](https://en.wikipedia.org/wiki/TX-12)
-### Committees
+## Committees
 Kay Granger is the #1 Republican on the House Committee on Appropriations 
 
-### HEP Grants
+## HEP Grants
 ```
 This district received no SC HEP grants from 2012-2019
 ```
-### SC Contracts
+## SC Contracts
 ```
 This district received no SC contracts from 2012-2019
 ```
-### NSF MPS Grants
+## NSF MPS Grants
 In the past 8 years, this district has received:<b> $1,664,734 </b>in NSF MPS grants.
 ```
   Year  Institution                       Amount ($)
@@ -490,22 +584,26 @@ In the past 8 years, this district has received:<b> $1,664,734 </b>in NSF MPS gr
   2013  TEXAS CHRISTIAN UNIVERSITY INC       497,726
   2012  TEXAS CHRISTIAN UNIVERSITY INC        43,440
 ```
+## SULI/CCI Interns
+```
+This district had no SULI/CCI interns from 2014-2016 (only years available)
+```
 ---
 <a name="TX-13"></a>
 [Back to top](#top)
 ## TX-13 -- Rep. Mac Thornberry (R) -- [Wikipedia](https://en.wikipedia.org/wiki/TX-13)
-### Committees
-Mac Thornberry is not on any of our key committees 
+## Committees
+Mac Thornberry is not on any of our key committees. 
 
-### HEP Grants
+## HEP Grants
 ```
 This district received no SC HEP grants from 2012-2019
 ```
-### SC Contracts
+## SC Contracts
 ```
 This district received no SC contracts from 2012-2019
 ```
-### NSF MPS Grants
+## NSF MPS Grants
 In the past 8 years, this district has received:<b> $402,686 </b>in NSF MPS grants.
 ```
   Year  Institution                        Amount ($)
@@ -514,22 +612,29 @@ In the past 8 years, this district has received:<b> $402,686 </b>in NSF MPS gran
   2016  TEXAS A&M UNIVERSITY SYSTEM,THE         9,986
   2014  TEXAS A&M UNIVERSITY SYSTEM,THE       371,700
 ```
+## SULI/CCI Interns
+From 2014-2016 (only years available), this district had 1 SULI/CCI intern
+```
+Term         Name         College           Host Lab                        Program
+-----------  -----------  ----------------  ------------------------------  ---------
+Summer 2016  Bryan Arney  Amarillo College  Los Alamos National Laboratory  CCI
+```
 ---
 <a name="TX-14"></a>
 [Back to top](#top)
 ## TX-14 -- Rep. Randy K. Weber, Sr. (R) -- [Wikipedia](https://en.wikipedia.org/wiki/TX-14)
-### Committees
+## Committees
 Randy K. Weber, Sr. is the #4 Republican on the House Committee on Science, Space, and Technology 
 
-### HEP Grants
+## HEP Grants
 ```
 This district received no SC HEP grants from 2012-2019
 ```
-### SC Contracts
+## SC Contracts
 ```
 This district received no SC contracts from 2012-2019
 ```
-### NSF MPS Grants
+## NSF MPS Grants
 In the past 8 years, this district has received:<b> $2,479,142 </b>in NSF MPS grants.
 ```
   Year  Institution                                        Amount ($)
@@ -542,22 +647,26 @@ In the past 8 years, this district has received:<b> $2,479,142 </b>in NSF MPS gr
   2013  UNIVERSITY OF TEXAS MEDICAL BRANCH AT GALVEST         480,000
   2012  UNIVERSITY OF TEXAS MEDICAL BRANCH AT GALVEST         210,000
 ```
+## SULI/CCI Interns
+```
+This district had no SULI/CCI interns from 2014-2016 (only years available)
+```
 ---
 <a name="TX-15"></a>
 [Back to top](#top)
 ## TX-15 -- Rep. Vicente Gonzalez (D) -- [Wikipedia](https://en.wikipedia.org/wiki/TX-15)
-### Committees
-Vicente Gonzalez is not on any of our key committees 
+## Committees
+Vicente Gonzalez is not on any of our key committees. 
 
-### HEP Grants
+## HEP Grants
 ```
 This district received no SC HEP grants from 2012-2019
 ```
-### SC Contracts
+## SC Contracts
 ```
 This district received no SC contracts from 2012-2019
 ```
-### NSF MPS Grants
+## NSF MPS Grants
 In the past 8 years, this district has received:<b> $2,491,121 </b>in NSF MPS grants.
 ```
   Year  Institution                                      Amount ($)
@@ -568,22 +677,26 @@ In the past 8 years, this district has received:<b> $2,491,121 </b>in NSF MPS gr
   2013  UNIVERSITY OF TEXAS - PAN AMERICAN                  682,547
   2012  UNIVERSITY OF TEXAS - PAN AMERICAN                  578,998
 ```
+## SULI/CCI Interns
+```
+This district had no SULI/CCI interns from 2014-2016 (only years available)
+```
 ---
 <a name="TX-16"></a>
 [Back to top](#top)
 ## TX-16 -- Rep. Veronica Escobar (D) -- [Wikipedia](https://en.wikipedia.org/wiki/TX-16)
-### Committees
-Veronica Escobar is not on any of our key committees 
+## Committees
+Veronica Escobar is not on any of our key committees. 
 
-### HEP Grants
+## HEP Grants
 ```
 This district received no SC HEP grants from 2012-2019
 ```
-### SC Contracts
+## SC Contracts
 ```
 This district received no SC contracts from 2012-2019
 ```
-### NSF MPS Grants
+## NSF MPS Grants
 In the past 8 years, this district has received:<b> $7,477,585 </b>in NSF MPS grants.
 ```
   Year  Institution                       Amount ($)
@@ -596,14 +709,22 @@ In the past 8 years, this district has received:<b> $7,477,585 </b>in NSF MPS gr
   2013  UNIVERSITY OF TEXAS AT EL PASO     1,095,400
   2012  UNIVERSITY OF TEXAS AT EL PASO     1,374,004
 ```
+## SULI/CCI Interns
+From 2014-2016 (only years available), this district had 2 SULI/CCI interns
+```
+Term         Name                     College                         Host Lab                               Program
+-----------  -----------------------  ------------------------------  -------------------------------------  ---------
+Summer 2016  Kevin Schnittker         University of Texas at El Paso  Oak Ridge National Laboratory          SULI
+Spring 2014  Suzanne Annette Apodaca  University of Texas at El Paso  Lawrence Berkeley National Laboratory  SULI
+```
 ---
 <a name="TX-17"></a>
 [Back to top](#top)
 ## TX-17 -- Rep. Bill Flores (R) -- [Wikipedia](https://en.wikipedia.org/wiki/TX-17)
-### Committees
+## Committees
 Bill Flores is the #17 Republican on the House Committee on Energy and Commerce 
 
-### HEP Grants
+## HEP Grants
 In the past 8 years, this district has received:<b> $12,725,908 </b>in SC HEP grants.
 ```
 Institution                               Amount ($)    Start  End      Principal Investigator             Project Title
@@ -625,11 +746,11 @@ BAYLOR UNIVERSITY                             55,000     2012  2014     Wang    
 TEXAS A&M UNIVERSITY, COLLEGE STATION      1,511,000     2012  2014     McIntyre                           New Technology for Future Colliders
 TEXAS A&M UNIVERSITY, COLLEGE STATION      1,095,000     2012  2014     Webb, Nanopoulos, Kamon, McIntyre  High Energy Physics Research at Texas A&M University
 ```
-### SC Contracts
+## SC Contracts
 ```
 This district received no SC contracts from 2012-2019
 ```
-### NSF MPS Grants
+## NSF MPS Grants
 In the past 8 years, this district has received:<b> $68,218,147 </b>in NSF MPS grants.
 ```
   Year  Institution                                     Amount ($)
@@ -668,14 +789,24 @@ In the past 8 years, this district has received:<b> $68,218,147 </b>in NSF MPS g
   2012  TEXAS A & M UNIVERSITY                           5,006,664
   2012  BAYLOR UNIVERSITY                                  863,820
 ```
+## SULI/CCI Interns
+From 2014-2016 (only years available), this district had 4 SULI/CCI interns
+```
+Term         Name                 College               Host Lab                               Program
+-----------  -------------------  --------------------  -------------------------------------  ---------
+Summer 2016  Rachel Komorek       Texas A&M University  Pacific Northwest National Laboratory  SULI
+Summer 2016  Serdar Ozguc         Texas A&M University  Argonne National Laboratory            SULI
+Summer 2014  Barry Hartweg        Baylor University     National Renewable Energy Laboratory   SULI
+Summer 2014  Corrine Audrey Nief  Baylor University     Oak Ridge National Laboratory          SULI
+```
 ---
 <a name="TX-18"></a>
 [Back to top](#top)
 ## TX-18 -- Rep. Sheila Jackson Lee (D) -- [Wikipedia](https://en.wikipedia.org/wiki/TX-18)
-### Committees
-Sheila Jackson Lee is not on any of our key committees 
+## Committees
+Sheila Jackson Lee is not on any of our key committees. 
 
-### HEP Grants
+## HEP Grants
 In the past 8 years, this district has received:<b> $4,430,000 </b>in SC HEP grants.
 ```
 Institution              Amount ($)    Start  End      Principal Investigator    Project Title
@@ -688,11 +819,11 @@ University of Houston       323,000     2014  2017     Whitehead, Lisa          
 UNIVERSITY OF HOUSTON       395,000     2012  2014     Lau                       A Proposal to Measure the Neutrino Mixing Angle Theta_13 in the Daya Bay Experiment
 UNIVERSITY OF HOUSTON       369,000     2012  2014     Whitehead                 Precision Measurement of Electron Antineutrino Disappearance in the Daya Bay Experiment
 ```
-### SC Contracts
+## SC Contracts
 ```
 This district received no SC contracts from 2012-2019
 ```
-### NSF MPS Grants
+## NSF MPS Grants
 In the past 8 years, this district has received:<b> $24,434,238 </b>in NSF MPS grants.
 ```
   Year  Institution                        Amount ($)
@@ -711,14 +842,21 @@ In the past 8 years, this district has received:<b> $24,434,238 </b>in NSF MPS g
   2013  UNIVERSITY OF HOUSTON SYSTEM        2,409,890
   2012  UNIVERSITY OF HOUSTON SYSTEM        3,099,921
 ```
+## SULI/CCI Interns
+From 2014-2016 (only years available), this district had 1 SULI/CCI intern
+```
+Term         Name       College                          Host Lab                       Program
+-----------  ---------  -------------------------------  -----------------------------  ---------
+Summer 2016  Raul Rios  University of Houston--Downtown  Oak Ridge National Laboratory  SULI
+```
 ---
 <a name="TX-19"></a>
 [Back to top](#top)
 ## TX-19 -- Rep. Jodey C. Arrington (R) -- [Wikipedia](https://en.wikipedia.org/wiki/TX-19)
-### Committees
-Jodey C. Arrington is not on any of our key committees 
+## Committees
+Jodey C. Arrington is not on any of our key committees. 
 
-### HEP Grants
+## HEP Grants
 In the past 8 years, this district has received:<b> $3,778,000 </b>in SC HEP grants.
 ```
 Institution              Amount ($)    Start  End      Principal Investigator    Project Title
@@ -734,11 +872,11 @@ TEXAS TECH UNIVERSITY       495,000     2012  2014     Wigmans                  
 TEXAS TECH UNIVERSITY       897,000     2012  2014     Wigmans                   Experimental Particle Physics Research at Texas Tech University
 TEXAS TECH UNIVERSITY             0     2012  2013     Wigmans                   Experimental Particle Physics Research
 ```
-### SC Contracts
+## SC Contracts
 ```
 This district received no SC contracts from 2012-2019
 ```
-### NSF MPS Grants
+## NSF MPS Grants
 In the past 8 years, this district has received:<b> $10,647,856 </b>in NSF MPS grants.
 ```
   Year  Institution                                     Amount ($)
@@ -756,22 +894,32 @@ In the past 8 years, this district has received:<b> $10,647,856 </b>in NSF MPS g
   2013  TEXAS TECH UNIVERSITY SYSTEM                       694,500
   2012  TEXAS TECH UNIVERSITY SYSTEM                     1,124,268
 ```
+## SULI/CCI Interns
+From 2014-2016 (only years available), this district had 4 SULI/CCI interns
+```
+Term         Name                              College                Host Lab                        Program
+-----------  --------------------------------  ---------------------  ------------------------------  ---------
+Summer 2016  Maksym Viktorovich Zhelyeznyakov  Texas Tech University  Sandia National Laboratory      SULI
+Summer 2015  Jacob Michael Martin              Texas Tech University  Los Alamos National Laboratory  SULI
+Summer 2014  Mark Lange                        Texas Tech University  Los Alamos National Laboratory  SULI
+Summer 2014  Tara Parker                       Texas Tech University  Oak Ridge National Laboratory   SULI
+```
 ---
 <a name="TX-20"></a>
 [Back to top](#top)
 ## TX-20 -- Rep. Joaquin Castro (D) -- [Wikipedia](https://en.wikipedia.org/wiki/TX-20)
-### Committees
+## Committees
 Joaquin Castro is the #15 Democrat on the House Subcommittee on Higher Education and Workforce Development 
 
-### HEP Grants
+## HEP Grants
 ```
 This district received no SC HEP grants from 2012-2019
 ```
-### SC Contracts
+## SC Contracts
 ```
 This district received no SC contracts from 2012-2019
 ```
-### NSF MPS Grants
+## NSF MPS Grants
 In the past 8 years, this district has received:<b> $5,045,729 </b>in NSF MPS grants.
 ```
   Year  Institution                                Amount ($)
@@ -786,14 +934,18 @@ In the past 8 years, this district has received:<b> $5,045,729 </b>in NSF MPS gr
   2014  SOUTHWEST RESEARCH INSTITUTE                  395,000
   2012  SOUTHWEST RESEARCH INSTITUTE                  383,017
 ```
+## SULI/CCI Interns
+```
+This district had no SULI/CCI interns from 2014-2016 (only years available)
+```
 ---
 <a name="TX-21"></a>
 [Back to top](#top)
 ## TX-21 -- Rep. Chip Roy (R) -- [Wikipedia](https://en.wikipedia.org/wiki/TX-21)
-### Committees
-Chip Roy is not on any of our key committees 
+## Committees
+Chip Roy is not on any of our key committees. 
 
-### HEP Grants
+## HEP Grants
 In the past 8 years, this district has received:<b> $2,323,000 </b>in SC HEP grants.
 ```
 Institution                    Amount ($)    Start    End  Principal Investigator    Project Title
@@ -803,11 +955,11 @@ UNIVERSITY OF TEXAS, AUSTIN       663,000     2012   2014  Downer               
 UNIVERSITY OF TEXAS, AUSTIN     1,195,000     2012   2014  Ritchie                   Research in High Energy Physics
 UNIVERSITY OF TEXAS, AUSTIN       370,000     2012   2014  Shvets                    Investigations of the Plasma and Structure-Based Particle Accelerators
 ```
-### SC Contracts
+## SC Contracts
 ```
 This district received no SC contracts from 2012-2019
 ```
-### NSF MPS Grants
+## NSF MPS Grants
 In the past 8 years, this district has received:<b> $11,921,172 </b>in NSF MPS grants.
 ```
   Year  Institution                                     Amount ($)
@@ -827,46 +979,57 @@ In the past 8 years, this district has received:<b> $11,921,172 </b>in NSF MPS g
   2012  TRINITY UNIVERSITY                                 485,460
   2012  UNIVERSITY OF TEXAS AT AUSTIN                    6,264,913
 ```
+## SULI/CCI Interns
+From 2014-2016 (only years available), this district had 1 SULI/CCI intern
+```
+Term         Name                       College                  Host Lab                              Program
+-----------  -------------------------  -----------------------  ------------------------------------  ---------
+Summer 2014  Christopher Tonnu Jackson  St. Edward's University  SLAC National Accelerator Laboratory  SULI
+```
 ---
 <a name="TX-22"></a>
 [Back to top](#top)
 ## TX-22 -- Rep. Pete Olson (R) -- [Wikipedia](https://en.wikipedia.org/wiki/TX-22)
-### Committees
+## Committees
 Pete Olson is the #12 Republican on the House Committee on Science, Space, and Technology 
 
 Pete Olson is the #9 Republican on the House Committee on Energy and Commerce 
 
-### HEP Grants
+## HEP Grants
 ```
 This district received no SC HEP grants from 2012-2019
 ```
-### SC Contracts
+## SC Contracts
 ```
 This district received no SC contracts from 2012-2019
 ```
-### NSF MPS Grants
+## NSF MPS Grants
 In the past 8 years, this district has received:<b> $150,000 </b>in NSF MPS grants.
 ```
   Year  Institution                     Amount ($)
 ------  ----------------------------  ------------
   2012  UNIVERSITY OF HOUSTON SYSTEM       150,000
 ```
+## SULI/CCI Interns
+```
+This district had no SULI/CCI interns from 2014-2016 (only years available)
+```
 ---
 <a name="TX-23"></a>
 [Back to top](#top)
 ## TX-23 -- Rep. Will Hurd (R) -- [Wikipedia](https://en.wikipedia.org/wiki/TX-23)
-### Committees
+## Committees
 Will Hurd is the #23 Republican on the House Committee on Appropriations 
 
-### HEP Grants
+## HEP Grants
 ```
 This district received no SC HEP grants from 2012-2019
 ```
-### SC Contracts
+## SC Contracts
 ```
 This district received no SC contracts from 2012-2019
 ```
-### NSF MPS Grants
+## NSF MPS Grants
 In the past 8 years, this district has received:<b> $4,774,454 </b>in NSF MPS grants.
 ```
   Year  Institution                           Amount ($)
@@ -878,22 +1041,31 @@ In the past 8 years, this district has received:<b> $4,774,454 </b>in NSF MPS gr
   2013  UNIVERSITY OF TEXAS AT SAN ANTONIO       696,331
   2012  UNIVERSITY OF TEXAS AT SAN ANTONIO       665,902
 ```
+## SULI/CCI Interns
+From 2014-2016 (only years available), this district had 3 SULI/CCI interns
+```
+Term         Name                     College             Host Lab                               Program
+-----------  -----------------------  ------------------  -------------------------------------  ---------
+Summer 2016  Meagan Coffer            Trinity University  Argonne National Laboratory            SULI
+Summer 2015  Colin Ryan Serkowski     Trinity University  Pacific Northwest National Laboratory  SULI
+Summer 2015  Aaron Alexander Skinner  Trinity University  Brookhaven National Laboratory         SULI
+```
 ---
 <a name="TX-24"></a>
 [Back to top](#top)
 ## TX-24 -- Rep. Kenny Marchant (R) -- [Wikipedia](https://en.wikipedia.org/wiki/TX-24)
-### Committees
-Kenny Marchant is not on any of our key committees 
+## Committees
+Kenny Marchant is not on any of our key committees. 
 
-### HEP Grants
+## HEP Grants
 ```
 This district received no SC HEP grants from 2012-2019
 ```
-### SC Contracts
+## SC Contracts
 ```
 This district received no SC contracts from 2012-2019
 ```
-### NSF MPS Grants
+## NSF MPS Grants
 In the past 8 years, this district has received:<b> $3,392,125 </b>in NSF MPS grants.
 ```
   Year  Institution                         Amount ($)
@@ -902,14 +1074,18 @@ In the past 8 years, this district has received:<b> $3,392,125 </b>in NSF MPS gr
   2013  UNIVERSITY OF TEXAS AT ARLINGTON     2,516,455
   2012  UNIVERSITY OF TEXAS AT ARLINGTON       817,670
 ```
+## SULI/CCI Interns
+```
+This district had no SULI/CCI interns from 2014-2016 (only years available)
+```
 ---
 <a name="TX-25"></a>
 [Back to top](#top)
 ## TX-25 -- Rep. Roger Williams (R) -- [Wikipedia](https://en.wikipedia.org/wiki/TX-25)
-### Committees
-Roger Williams is not on any of our key committees 
+## Committees
+Roger Williams is not on any of our key committees. 
 
-### HEP Grants
+## HEP Grants
 In the past 8 years, this district has received:<b> $5,541,984 </b>in SC HEP grants.
 ```
 Institution                      Amount ($)    Start  End      Principal Investigator    Project Title
@@ -924,11 +1100,11 @@ University of Texas - Austin      1,400,000     2014  2018     Downer, Michael  
 University of Texas - Austin      2,462,000     2014  2018     Ritchie, Jack             Research in High Energy Physics
 University of Texas - Austin        731,000     2014  2018     Shvets, Gennady           Investigations of the Plasma and Structure-Based Particle Accelerators
 ```
-### SC Contracts
+## SC Contracts
 ```
 This district received no SC contracts from 2012-2019
 ```
-### NSF MPS Grants
+## NSF MPS Grants
 In the past 8 years, this district has received:<b> $66,260,613 </b>in NSF MPS grants.
 ```
   Year  Institution                      Amount ($)
@@ -945,22 +1121,36 @@ In the past 8 years, this district has received:<b> $66,260,613 </b>in NSF MPS g
   2013  MULTIPLE RECIPIENTS                 174,000
   2013  UNIVERSITY OF TEXAS AT AUSTIN    10,530,367
 ```
+## SULI/CCI Interns
+From 2014-2016 (only years available), this district had 8 SULI/CCI interns
+```
+Term         Name                   College                        Host Lab                                Program
+-----------  ---------------------  -----------------------------  --------------------------------------  ---------
+Summer 2016  Elaine Lui             University of Texas at Austin  Lawrence Livermore National Laboratory  SULI
+Summer 2016  Emily Ma               University of Texas at Austin  Lawrence Livermore National Laboratory  SULI
+Summer 2016  Don Pham               University of Texas at Austin  Lawrence Livermore National Laboratory  SULI
+Summer 2015  Johnathan Kyle         University of Texas at Austin  National Renewable Energy Laboratory    SULI
+Summer 2015  Leticia Lee            University of Texas at Austin  Argonne National Laboratory             SULI
+Summer 2015  Jose Rafael Parga      University of Texas at Austin  Idaho National Laboratory               SULI
+Summer 2014  David Warren Hamilton  University of Texas at Austin  Brookhaven National Laboratory          SULI
+Spring 2016  Don Pham               University of Texas at Austin  Lawrence Livermore National Laboratory  SULI
+```
 ---
 <a name="TX-26"></a>
 [Back to top](#top)
 ## TX-26 -- Rep. Michael C. Burgess (R) -- [Wikipedia](https://en.wikipedia.org/wiki/TX-26)
-### Committees
+## Committees
 Michael C. Burgess is the #4 Republican on the House Committee on Energy and Commerce 
 
-### HEP Grants
+## HEP Grants
 ```
 This district received no SC HEP grants from 2012-2019
 ```
-### SC Contracts
+## SC Contracts
 ```
 This district received no SC contracts from 2012-2019
 ```
-### NSF MPS Grants
+## NSF MPS Grants
 In the past 8 years, this district has received:<b> $7,928,510 </b>in NSF MPS grants.
 ```
   Year  Institution                  Amount ($)
@@ -973,22 +1163,30 @@ In the past 8 years, this district has received:<b> $7,928,510 </b>in NSF MPS gr
   2013  UNIVERSITY OF NORTH TEXAS       417,009
   2012  UNIVERSITY OF NORTH TEXAS     1,298,235
 ```
+## SULI/CCI Interns
+From 2014-2016 (only years available), this district had 2 SULI/CCI interns
+```
+Term         Name         College                    Host Lab                       Program
+-----------  -----------  -------------------------  -----------------------------  ---------
+Summer 2014  Tyler Smith  University of North Texas  Oak Ridge National Laboratory  SULI
+Spring 2014  Tyler Smith  University of North Texas  Oak Ridge National Laboratory  SULI
+```
 ---
 <a name="TX-27"></a>
 [Back to top](#top)
 ## TX-27 -- Rep. Michael Cloud (R) -- [Wikipedia](https://en.wikipedia.org/wiki/TX-27)
-### Committees
+## Committees
 Michael Cloud is the #10 Republican on the House Committee on Science, Space, and Technology 
 
-### HEP Grants
+## HEP Grants
 ```
 This district received no SC HEP grants from 2012-2019
 ```
-### SC Contracts
+## SC Contracts
 ```
 This district received no SC contracts from 2012-2019
 ```
-### NSF MPS Grants
+## NSF MPS Grants
 In the past 8 years, this district has received:<b> $923,837 </b>in NSF MPS grants.
 ```
   Year  Institution                            Amount ($)
@@ -998,18 +1196,25 @@ In the past 8 years, this district has received:<b> $923,837 </b>in NSF MPS gran
   2012  TEXAS A&M UNIVERSITY-CORPUS CHRISTI       275,000
   2012  UNIVERSITY OF TEXAS AT BROWNSVILLE        373,837
 ```
+## SULI/CCI Interns
+From 2014-2016 (only years available), this district had 1 SULI/CCI intern
+```
+Term         Name             College          Host Lab                               Program
+-----------  ---------------  ---------------  -------------------------------------  ---------
+Summer 2015  Jamie Vulgamore  Del Mar College  Lawrence Berkeley National Laboratory  SULI
+```
 ---
 <a name="TX-28"></a>
 [Back to top](#top)
 ## TX-28 -- Rep. Henry Cuellar (D) -- [Wikipedia](https://en.wikipedia.org/wiki/TX-28)
-### Committees
+## Committees
 Henry Cuellar is the #14 Democrat on the House Committee on Appropriations 
 
-### HEP Grants
+## HEP Grants
 ```
 This district received no SC HEP grants from 2012-2019
 ```
-### SC Contracts
+## SC Contracts
 In the past 8 years, this district has received:
 1 Office of Science contracts, totalling <b> $14,963</b>
 ```
@@ -1017,7 +1222,7 @@ In the past 8 years, this district has received:
 ------  ----------------------------------------  ------------  ----------------
   2016  ALLIED ASSOCIATES COMMERCIAL FLOORS, INC        14,963  OFFICE FURNITURE
 ```
-### NSF MPS Grants
+## NSF MPS Grants
 In the past 8 years, this district has received:<b> $1,344,114 </b>in NSF MPS grants.
 ```
   Year  Institution                                      Amount ($)
@@ -1028,41 +1233,49 @@ In the past 8 years, this district has received:<b> $1,344,114 </b>in NSF MPS gr
   2013  TEXAS A&M INTERNATIONAL UNIVERSITY FOUNDATION       274,900
   2012  TEXAS A&M INTERNATIONAL UNIVERSITY FOUNDATION       159,357
 ```
+## SULI/CCI Interns
+```
+This district had no SULI/CCI interns from 2014-2016 (only years available)
+```
 ---
 <a name="TX-29"></a>
 [Back to top](#top)
 ## TX-29 -- Rep. Sylvia R. Garcia (D) -- [Wikipedia](https://en.wikipedia.org/wiki/TX-29)
-### Committees
-Sylvia R. Garcia is not on any of our key committees 
+## Committees
+Sylvia R. Garcia is not on any of our key committees. 
 
-### HEP Grants
+## HEP Grants
 ```
 This district received no SC HEP grants from 2012-2019
 ```
-### SC Contracts
+## SC Contracts
 ```
 This district received no SC contracts from 2012-2019
 ```
-### NSF MPS Grants
+## NSF MPS Grants
 ```
 This district received no NSF MPS grants from 2012-2019
+```
+## SULI/CCI Interns
+```
+This district had no SULI/CCI interns from 2014-2016 (only years available)
 ```
 ---
 <a name="TX-30"></a>
 [Back to top](#top)
 ## TX-30 -- Rep. Eddie Bernice Johnson (D) -- [Wikipedia](https://en.wikipedia.org/wiki/TX-30)
-### Committees
+## Committees
 Eddie Bernice Johnson is the #1 Democrat on the House Committee on Science, Space, and Technology 
 
-### HEP Grants
+## HEP Grants
 ```
 This district received no SC HEP grants from 2012-2019
 ```
-### SC Contracts
+## SC Contracts
 ```
 This district received no SC contracts from 2012-2019
 ```
-### NSF MPS Grants
+## NSF MPS Grants
 In the past 8 years, this district has received:<b> $1,095,000 </b>in NSF MPS grants.
 ```
   Year  Institution                                      Amount ($)
@@ -1071,18 +1284,22 @@ In the past 8 years, this district has received:<b> $1,095,000 </b>in NSF MPS gr
   2013  UNIVERSITY OF TEXAS SOUTHWESTERN MEDICAL CENT       213,289
   2012  UNIVERSITY OF TEXAS SOUTHWESTERN MEDICAL CENT       476,711
 ```
+## SULI/CCI Interns
+```
+This district had no SULI/CCI interns from 2014-2016 (only years available)
+```
 ---
 <a name="TX-31"></a>
 [Back to top](#top)
 ## TX-31 -- Rep. John R. Carter (R) -- [Wikipedia](https://en.wikipedia.org/wiki/TX-31)
-### Committees
+## Committees
 John R. Carter is the #5 Republican on the House Committee on Appropriations 
 
-### HEP Grants
+## HEP Grants
 ```
 This district received no SC HEP grants from 2012-2019
 ```
-### SC Contracts
+## SC Contracts
 In the past 8 years, this district has received:
 1 Office of Science contracts, totalling <b> $4,037</b>
 ```
@@ -1090,18 +1307,22 @@ In the past 8 years, this district has received:
 ------  -------------------  ------------  ------------
   2013  DELL MARKETING L.P.         4,037  ADP SOFTWARE
 ```
-### NSF MPS Grants
+## NSF MPS Grants
 ```
 This district received no NSF MPS grants from 2012-2019
+```
+## SULI/CCI Interns
+```
+This district had no SULI/CCI interns from 2014-2016 (only years available)
 ```
 ---
 <a name="TX-32"></a>
 [Back to top](#top)
 ## TX-32 -- Rep. Colin Z. Allred (D) -- [Wikipedia](https://en.wikipedia.org/wiki/TX-32)
-### Committees
-Colin Z. Allred is not on any of our key committees 
+## Committees
+Colin Z. Allred is not on any of our key committees. 
 
-### HEP Grants
+## HEP Grants
 In the past 8 years, this district has received:<b> $6,869,000 </b>in SC HEP grants.
 ```
 Institution                      Amount ($)    Start  End      Principal Investigator    Project Title
@@ -1123,11 +1344,11 @@ SOUTHERN METHODIST UNIVERSITY       148,000     2012  2014     Gui              
 SOUTHERN METHODIST UNIVERSITY        55,000     2012  2013     Sekula                    A Search for Charged Higgs Boson via H^{ }\to\tau^{ }\nu
 SOUTHERN METHODIST UNIVERSITY       777,000     2012  2013     Stroynowski               High Energy Physics
 ```
-### SC Contracts
+## SC Contracts
 ```
 This district received no SC contracts from 2012-2019
 ```
-### NSF MPS Grants
+## NSF MPS Grants
 In the past 8 years, this district has received:<b> $17,070,148 </b>in NSF MPS grants.
 ```
   Year  Institution                          Amount ($)
@@ -1147,41 +1368,57 @@ In the past 8 years, this district has received:<b> $17,070,148 </b>in NSF MPS g
   2012  SOUTHERN METHODIST UNIVERSITY INC     1,022,326
   2012  UNIVERSITY OF TEXAS AT DALLAS         2,127,595
 ```
+## SULI/CCI Interns
+From 2014-2016 (only years available), this district had 1 SULI/CCI intern
+```
+Term         Name                 College           Host Lab                        Program
+-----------  -------------------  ----------------  ------------------------------  ---------
+Summer 2014  george earl fleming  Richland College  Los Alamos National Laboratory  SULI
+```
 ---
 <a name="TX-33"></a>
 [Back to top](#top)
 ## TX-33 -- Rep. Marc A. Veasey (D) -- [Wikipedia](https://en.wikipedia.org/wiki/TX-33)
-### Committees
+## Committees
 Marc A. Veasey is the #24 Democrat on the House Committee on Energy and Commerce 
 
-### HEP Grants
+## HEP Grants
 ```
 This district received no SC HEP grants from 2012-2019
 ```
-### SC Contracts
+## SC Contracts
 ```
 This district received no SC contracts from 2012-2019
 ```
-### NSF MPS Grants
+## NSF MPS Grants
 ```
 This district received no NSF MPS grants from 2012-2019
+```
+## SULI/CCI Interns
+From 2014-2016 (only years available), this district had 3 SULI/CCI interns
+```
+Term         Name           College                Host Lab                               Program
+-----------  -------------  ---------------------  -------------------------------------  ---------
+Summer 2015  Jesus Ramos    Mountain View College  Brookhaven National Laboratory         SULI
+Summer 2014  Rubi Pena      Mountain View College  Brookhaven National Laboratory         CCI
+Summer 2014  Jereamy Riggs  Mountain View College  Lawrence Berkeley National Laboratory  CCI
 ```
 ---
 <a name="TX-34"></a>
 [Back to top](#top)
 ## TX-34 -- Rep. Filemon Vela (D) -- [Wikipedia](https://en.wikipedia.org/wiki/TX-34)
-### Committees
-Filemon Vela is not on any of our key committees 
+## Committees
+Filemon Vela is not on any of our key committees. 
 
-### HEP Grants
+## HEP Grants
 ```
 This district received no SC HEP grants from 2012-2019
 ```
-### SC Contracts
+## SC Contracts
 ```
 This district received no SC contracts from 2012-2019
 ```
-### NSF MPS Grants
+## NSF MPS Grants
 In the past 8 years, this district has received:<b> $3,674,028 </b>in NSF MPS grants.
 ```
   Year  Institution                                                                 Amount ($)
@@ -1195,18 +1432,25 @@ In the past 8 years, this district has received:<b> $3,674,028 </b>in NSF MPS gr
   2014  UNIVERSITY OF TEXAS AT BROWNSVILLE                                             265,801
   2013  UNIVERSITY OF TEXAS AT BROWNSVILLE                                             584,262
 ```
+## SULI/CCI Interns
+From 2014-2016 (only years available), this district had 1 SULI/CCI intern
+```
+Term         Name           College                                                             Host Lab                        Program
+-----------  -------------  ------------------------------------------------------------------  ------------------------------  ---------
+Summer 2014  Rebecca Silva  The University of Texas at Brownsville and Texas Southmost College  Los Alamos National Laboratory  SULI
+```
 ---
 <a name="TX-35"></a>
 [Back to top](#top)
 ## TX-35 -- Rep. Lloyd Doggett (D) -- [Wikipedia](https://en.wikipedia.org/wiki/TX-35)
-### Committees
-Lloyd Doggett is not on any of our key committees 
+## Committees
+Lloyd Doggett is not on any of our key committees. 
 
-### HEP Grants
+## HEP Grants
 ```
 This district received no SC HEP grants from 2012-2019
 ```
-### SC Contracts
+## SC Contracts
 In the past 8 years, this district has received:
 1 Office of Science contracts, totalling <b> $35,929</b>
 ```
@@ -1214,31 +1458,42 @@ In the past 8 years, this district has received:
 ------  ---------------------------  ------------  --------------------------------
   2018  ALL BUSINESS MACHINES, INC.        35,929  TRACTOR, FULL TRACKED, LOW SPEED
 ```
-### NSF MPS Grants
+## NSF MPS Grants
 ```
 This district received no NSF MPS grants from 2012-2019
+```
+## SULI/CCI Interns
+From 2014-2016 (only years available), this district had 1 SULI/CCI intern
+```
+Term         Name                  College                 Host Lab                        Program
+-----------  --------------------  ----------------------  ------------------------------  ---------
+Summer 2016  Taylor Nicole Shimek  Texas State University  Brookhaven National Laboratory  SULI
 ```
 ---
 <a name="TX-36"></a>
 [Back to top](#top)
 ## TX-36 -- Rep. Brian Babin (R) -- [Wikipedia](https://en.wikipedia.org/wiki/TX-36)
-### Committees
+## Committees
 Brian Babin is the #5 Republican on the House Committee on Science, Space, and Technology 
 
-### HEP Grants
+## HEP Grants
 ```
 This district received no SC HEP grants from 2012-2019
 ```
-### SC Contracts
+## SC Contracts
 ```
 This district received no SC contracts from 2012-2019
 ```
-### NSF MPS Grants
+## NSF MPS Grants
 In the past 8 years, this district has received:<b> $493,232 </b>in NSF MPS grants.
 ```
   Year  Institution               Amount ($)
 ------  ----------------------  ------------
   2018  JACOBS TECHNOLOGY INC.       168,093
   2016  JACOBS TECHNOLOGY INC.       325,139
+```
+## SULI/CCI Interns
+```
+This district had no SULI/CCI interns from 2014-2016 (only years available)
 ```
 ---

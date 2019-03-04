@@ -35,7 +35,7 @@ In the past 8 years, this state has received:
   2013  UNIVERSITY OF NEW MEXICO       701,000
   2012  UNIVERSITY OF NEW MEXICO       768,000
 ```
-### SC Contracts
+## SC Contracts
 In the past 8 years, this state has received:
 36 Office of Science contracts, totalling <b> $7,013,737</b>
 ```
@@ -70,15 +70,31 @@ EXPLORA SCIENCE CENTER & CHILDREN'S MUSEUM OF ALBUQUERQUE       299,250
 REDACTED DUE TO PII                                             100,000
 SANTA FE INSTITUTE OF SCIENCE INC                                61,918
 ```
+## SULI/CCI Interns
+From 2014-2016 (only years available), this district had 27 SULI/CCI interns
+```
+  # Interns  Program    College
+-----------  ---------  ---------------------------------------------
+          8  SULI       New Mexico Institute of Mining and Technology
+          6  SULI       University of New Mexico Main Campus
+          3  SULI       Northern New Mexico College
+          2  CCI        University of New Mexico-Los Alamos
+          2  SULI       New Mexico State University Main Campus
+          2  SULI       University of New Mexico-Los Alamos
+          1  CCI        Central New Mexico Community College
+          1  CCI        Santa Fe Community College
+          1  SULI       Central New Mexico Community College
+          1  SULI       Eastern New Mexico University Main Campus
+```
 ---
 ---
 <a name="NM-01"></a>
 [Back to top](#top)
 ## NM-01 -- Rep. Debra A. Haaland (D) -- [Wikipedia](https://en.wikipedia.org/wiki/NM-01)
-### Committees
-Debra A. Haaland is not on any of our key committees 
+## Committees
+Debra A. Haaland is not on any of our key committees. 
 
-### HEP Grants
+## HEP Grants
 In the past 8 years, this district has received:<b> $4,503,000 </b>in SC HEP grants.
 ```
 Institution                 Amount ($)    Start  End      Principal Investigator    Project Title
@@ -102,7 +118,7 @@ UNIVERSITY OF NEW MEXICO        10,000     2013  2014     Seidel                
 UNIVERSITY OF NEW MEXICO       602,000     2012  2014     Matthews, Seidel, Gold    New Mexico Center for Particle Physics (NMCPP) -- Task A:  Collider Physics; Task A2 Collider Physics; Task B:  Particle Astrophysics
 UNIVERSITY OF NEW MEXICO       329,000     2012  2014     Ellison                   Investigations of Beam Dynamics Issues at Current and Future Hadron Accelerators
 ```
-### SC Contracts
+## SC Contracts
 In the past 8 years, this district has received:
 4 Office of Science contracts, totalling <b> $343,805</b>
 ```
@@ -113,7 +129,7 @@ In the past 8 years, this district has received:
   2015  HOLMAN'S INC.                   34,998  ADPE SYSTEM CONFIGURATION
   2012  HOLMAN'S INC.                    3,475  ADPE SYSTEM CONFIGURATION
 ```
-### NSF MPS Grants
+## NSF MPS Grants
 In the past 8 years, this district has received:<b> $24,180,829 </b>in NSF MPS grants.
 ```
   Year  Institution                                                  Amount ($)
@@ -127,22 +143,40 @@ In the past 8 years, this district has received:<b> $24,180,829 </b>in NSF MPS g
   2013  UNIVERSITY OF NEW MEXICO                                      4,100,279
   2012  UNIVERSITY OF NEW MEXICO                                      4,976,575
 ```
+## SULI/CCI Interns
+From 2014-2016 (only years available), this district had 12 SULI/CCI interns
+```
+Term         Name                       College                               Host Lab                               Program
+-----------  -------------------------  ------------------------------------  -------------------------------------  ---------
+Summer 2016  Marijo Deaguero            University of New Mexico Main Campus  Los Alamos National Laboratory         SULI
+Summer 2016  Helen Milenski             University of New Mexico Main Campus  Los Alamos National Laboratory         SULI
+Summer 2016  Emily Rose Pittman         University of New Mexico Main Campus  Los Alamos National Laboratory         SULI
+Summer 2015  Helen Milenski             University of New Mexico-Los Alamos   Los Alamos National Laboratory         CCI
+Summer 2015  Jeremy Harrod              Central New Mexico Community College  Los Alamos National Laboratory         SULI
+Summer 2014  Sheri Breanne Lopez        University of New Mexico-Los Alamos   Fermi National Accelerator Laboratory  SULI
+Summer 2014  Helen Milenski             University of New Mexico-Los Alamos   Los Alamos National Laboratory         CCI
+Summer 2014  Josefine McBrayer          University of New Mexico Main Campus  National Renewable Energy Laboratory   SULI
+Summer 2014  Corey Michael Skinner      Central New Mexico Community College  Los Alamos National Laboratory         CCI
+Spring 2015  Cheriece Margiotta         University of New Mexico Main Campus  Los Alamos National Laboratory         SULI
+Fall 2015    Priyanka Malini Ravindran  University of New Mexico Main Campus  Pacific Northwest National Laboratory  SULI
+Fall 2014    Sheri Breanne Lopez        University of New Mexico-Los Alamos   Los Alamos National Laboratory         SULI
+```
 ---
 <a name="NM-02"></a>
 [Back to top](#top)
 ## NM-02 -- Rep. Xochitl Torres Small (D) -- [Wikipedia](https://en.wikipedia.org/wiki/NM-02)
-### Committees
-Xochitl Torres Small is not on any of our key committees 
+## Committees
+Xochitl Torres Small is not on any of our key committees. 
 
-### HEP Grants
+## HEP Grants
 ```
 This district received no SC HEP grants from 2012-2019
 ```
-### SC Contracts
+## SC Contracts
 ```
 This district received no SC contracts from 2012-2019
 ```
-### NSF MPS Grants
+## NSF MPS Grants
 In the past 8 years, this district has received:<b> $7,223,587 </b>in NSF MPS grants.
 ```
   Year  Institution                                      Amount ($)
@@ -160,18 +194,34 @@ In the past 8 years, this district has received:<b> $7,223,587 </b>in NSF MPS gr
   2012  NEW MEXICO INSTITUTE OF MINING AND TECHNOLOGY       155,000
   2012  NEW MEXICO STATE UNIVERSITY                         909,844
 ```
+## SULI/CCI Interns
+From 2014-2016 (only years available), this district had 10 SULI/CCI interns
+```
+Term         Name                   College                                        Host Lab                              Program
+-----------  ---------------------  ---------------------------------------------  ------------------------------------  ---------
+Summer 2016  Rebecca Marie Brink    New Mexico Institute of Mining and Technology  Oak Ridge National Laboratory         SULI
+Summer 2016  Eric N Carlson         New Mexico Institute of Mining and Technology  Los Alamos National Laboratory        SULI
+Summer 2016  Anthony Thomas Giljum  New Mexico Institute of Mining and Technology  Oak Ridge National Laboratory         SULI
+Summer 2016  Gabriel Patrick King   New Mexico Institute of Mining and Technology  Los Alamos National Laboratory        SULI
+Summer 2016  Raj Singh              New Mexico Institute of Mining and Technology  Los Alamos National Laboratory        SULI
+Summer 2016  Robin Weston           New Mexico Institute of Mining and Technology  SLAC National Accelerator Laboratory  SULI
+Summer 2015  Douglas Brown          New Mexico State University Main Campus        Oak Ridge National Laboratory         SULI
+Summer 2015  Shelby Reese           New Mexico State University Main Campus        National Renewable Energy Laboratory  SULI
+Summer 2015  Brian Donald Ruskauff  New Mexico Institute of Mining and Technology  National Renewable Energy Laboratory  SULI
+Fall 2015    Brian Donald Ruskauff  New Mexico Institute of Mining and Technology  National Renewable Energy Laboratory  SULI
+```
 ---
 <a name="NM-03"></a>
 [Back to top](#top)
 ## NM-03 -- Rep. Ben Ray Luján (D) -- [Wikipedia](https://en.wikipedia.org/wiki/NM-03)
-### Committees
+## Committees
 Ben Ray Luján is the #14 Democrat on the House Committee on Energy and Commerce 
 
-### HEP Grants
+## HEP Grants
 ```
 This district received no SC HEP grants from 2012-2019
 ```
-### SC Contracts
+## SC Contracts
 In the past 8 years, this district has received:
 32 Office of Science contracts, totalling <b> $6,669,932</b>
 ```
@@ -186,7 +236,7 @@ LUNATEK LLC                              34,618  INFORMATION TECHNOLOGY SUPPORT 
 WILDFLOWER INTERNATIONAL, LTD.           17,133  ADPE SYSTEM CONFIGURATION
 IDEAL SYSTEM SOLUTIONS, INC.             10,331  ADP CENTRAL PROCESSING UNIT (CPU, COMPUTER), DIGITAL
 ```
-### NSF MPS Grants
+## NSF MPS Grants
 In the past 8 years, this district has received:<b> $6,575,710 </b>in NSF MPS grants.
 ```
   Year  Institution                          Amount ($)
@@ -208,5 +258,16 @@ In the past 8 years, this district has received:<b> $6,575,710 </b>in NSF MPS gr
   2012  NMC, INC.                               115,000
   2012  SANTA FE INSTITUTE OF SCIENCE INC        61,918
   2012  NEW MEXICO HIGHLANDS UNIVERSITY         540,000
+```
+## SULI/CCI Interns
+From 2014-2016 (only years available), this district had 5 SULI/CCI interns
+```
+Term         Name                   College                                    Host Lab                        Program
+-----------  ---------------------  -----------------------------------------  ------------------------------  ---------
+Summer 2016  Eric Maez              Eastern New Mexico University Main Campus  Oak Ridge National Laboratory   SULI
+Summer 2015  MariJo DeAguero        Northern New Mexico College                Los Alamos National Laboratory  SULI
+Summer 2015  Edgar Nahum Ronquillo  Northern New Mexico College                Los Alamos National Laboratory  SULI
+Summer 2015  Johnnie Lee Wright     Santa Fe Community College                 Los Alamos National Laboratory  CCI
+Summer 2014  Edgar Nahum Ronquillo  Northern New Mexico College                Los Alamos National Laboratory  SULI
 ```
 ---

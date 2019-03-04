@@ -15,7 +15,7 @@ Roy Blunt is the #7 Republican on the Senate Committee on Appropriations
 
 Roy Blunt is the #3 Republican on the Senate Committee on Commerce, Science, and Transportation 
 
-Josh Hawley is not on any of our key committees 
+Josh Hawley is not on any of our key committees. 
 
 ## HEP Grants
 In the past 8 years, this state has received:
@@ -31,7 +31,7 @@ In the past 8 years, this state has received:
   2013  WASHINGTON UNIVERSITY                    826,000
   2012  WASHINGTON UNIVERSITY                    860,000
 ```
-### SC Contracts
+## SC Contracts
 In the past 8 years, this state has received:
 6 Office of Science contracts, totalling <b> $44,654</b>
 ```
@@ -59,15 +59,28 @@ PII REDACTED                              150,000
 U OF MISSOURI COLUMBIA                     24,300
 TRUMAN STATE UNIVERSITY                     6,849
 ```
+## SULI/CCI Interns
+From 2014-2016 (only years available), this district had 26 SULI/CCI interns
+```
+  # Interns  Program    College
+-----------  ---------  -------------------------------------------
+         12  SULI       Washington University in St. Louis
+          7  SULI       Missouri University of Science & Technology
+          3  SULI       University of Missouri-Columbia
+          1  SULI       Central Methodist University
+          1  SULI       Missouri State University
+          1  SULI       Southeast Missouri State University
+          1  SULI       Truman State University
+```
 ---
 ---
 <a name="MO-01"></a>
 [Back to top](#top)
 ## MO-01 -- Rep. Wm. Lacy Clay (D) -- [Wikipedia](https://en.wikipedia.org/wiki/MO-01)
-### Committees
-Wm. Lacy Clay is not on any of our key committees 
+## Committees
+Wm. Lacy Clay is not on any of our key committees. 
 
-### HEP Grants
+## HEP Grants
 In the past 8 years, this district has received:<b> $2,622,000 </b>in SC HEP grants.
 ```
 Institution                           Amount ($)    Start  End      Principal Investigator    Project Title
@@ -77,7 +90,7 @@ Washington University in St. Louis       200,000     2016  Ongoing  Buckley, Jam
 Washington University in St. Louis       860,000     2015  2018     Buckley, James            Studies In Quantum Field Theory And Astroparticle Physics
 Washington University                    527,000     2014  2015     Buckley, James            STUDIES IN QUANTUM FIELD THEORY AND ASTROPARTICLE PHYSICS
 ```
-### SC Contracts
+## SC Contracts
 In the past 8 years, this district has received:
 2 Office of Science contracts, totalling <b> $5,410</b>
 ```
@@ -85,7 +98,7 @@ In the past 8 years, this district has received:
 ------  ---------------------------  ------------  ------------
   2012  WORLD WIDE TECHNOLOGY, INC.         5,410  ADP SOFTWARE
 ```
-### NSF MPS Grants
+## NSF MPS Grants
 In the past 8 years, this district has received:<b> $21,757,767 </b>in NSF MPS grants.
 ```
   Year  Institution                       Amount ($)
@@ -109,18 +122,36 @@ In the past 8 years, this district has received:<b> $21,757,767 </b>in NSF MPS g
   2012  SAINT LOUIS UNIVERSITY               142,248
   2012  MISSOURI SYSTEM, UNIVERSITY OF       354,721
 ```
+## SULI/CCI Interns
+From 2014-2016 (only years available), this district had 12 SULI/CCI interns
+```
+Term         Name                         College                             Host Lab                                        Program
+-----------  ---------------------------  ----------------------------------  ----------------------------------------------  ---------
+Summer 2016  Lauren Sinclair Johnson      Washington University in St. Louis  Argonne National Laboratory                     SULI
+Summer 2015  Noah Amme                    Washington University in St. Louis  Lawrence Berkeley National Laboratory           SULI
+Summer 2015  Anthony Valenti Grebe        Washington University in St. Louis  Fermi National Accelerator Laboratory           SULI
+Summer 2015  Lauren Maltz                 Washington University in St. Louis  SLAC National Accelerator Laboratory            SULI
+Summer 2015  Noah Rosenblatt              Washington University in St. Louis  Brookhaven National Laboratory                  SULI
+Summer 2015  Gregg Neal Willcox           Washington University in St. Louis  Princeton Plasma Physics Laboratory             SULI
+Summer 2014  Timothy Vincent Bartholomew  Washington University in St. Louis  National Renewable Energy Laboratory            SULI
+Summer 2014  Lauren Irene Powell          Washington University in St. Louis  Pacific Northwest National Laboratory           SULI
+Summer 2014  Pratik Singh Sachdeva        Washington University in St. Louis  Thomas Jefferson National Accelerator Facility  SULI
+Spring 2016  Samantha Jade Clevenger      Washington University in St. Louis  Pacific Northwest National Laboratory           SULI
+Spring 2016  Arian Jadbabaie              Washington University in St. Louis  Lawrence Berkeley National Laboratory           SULI
+Fall 2015    Arian Jadbabaie              Washington University in St. Louis  Brookhaven National Laboratory                  SULI
+```
 ---
 <a name="MO-02"></a>
 [Back to top](#top)
 ## MO-02 -- Rep. Ann Wagner (R) -- [Wikipedia](https://en.wikipedia.org/wiki/MO-02)
-### Committees
-Ann Wagner is not on any of our key committees 
+## Committees
+Ann Wagner is not on any of our key committees. 
 
-### HEP Grants
+## HEP Grants
 ```
 This district received no SC HEP grants from 2012-2019
 ```
-### SC Contracts
+## SC Contracts
 In the past 8 years, this district has received:
 3 Office of Science contracts, totalling <b> $17,239</b>
 ```
@@ -130,29 +161,33 @@ In the past 8 years, this district has received:
   2014  AFTERMARKET TECHNOLOGIES, INC.         8,985  ADP SOFTWARE
   2013  AFTERMARKET TECHNOLOGIES, INC.         5,096  ADP SOFTWARE
 ```
-### NSF MPS Grants
+## NSF MPS Grants
 ```
 This district received no NSF MPS grants from 2012-2019
+```
+## SULI/CCI Interns
+```
+This district had no SULI/CCI interns from 2014-2016 (only years available)
 ```
 ---
 <a name="MO-03"></a>
 [Back to top](#top)
 ## MO-03 -- Rep. Blaine Luetkemeyer (R) -- [Wikipedia](https://en.wikipedia.org/wiki/MO-03)
-### Committees
-Blaine Luetkemeyer is not on any of our key committees 
+## Committees
+Blaine Luetkemeyer is not on any of our key committees. 
 
-### HEP Grants
+## HEP Grants
 In the past 8 years, this district has received:<b> $1,686,000 </b>in SC HEP grants.
 ```
 Institution              Amount ($)    Start    End  Principal Investigator    Project Title
 ---------------------  ------------  -------  -----  ------------------------  ---------------------------------------------------------
 WASHINGTON UNIVERSITY     1,686,000     2012   2014  Bender, Ogilvie, Bernard  Studies in Quantum Field Theory and Astroparticle Physics
 ```
-### SC Contracts
+## SC Contracts
 ```
 This district received no SC contracts from 2012-2019
 ```
-### NSF MPS Grants
+## NSF MPS Grants
 In the past 8 years, this district has received:<b> $3,713,493 </b>in NSF MPS grants.
 ```
   Year  Institution                   Amount ($)
@@ -160,22 +195,26 @@ In the past 8 years, this district has received:<b> $3,713,493 </b>in NSF MPS gr
   2013  WASHINGTON UNIVERSITY, THE        28,030
   2012  WASHINGTON UNIVERSITY, THE     3,685,463
 ```
+## SULI/CCI Interns
+```
+This district had no SULI/CCI interns from 2014-2016 (only years available)
+```
 ---
 <a name="MO-04"></a>
 [Back to top](#top)
 ## MO-04 -- Rep. Vicky Hartzler (R) -- [Wikipedia](https://en.wikipedia.org/wiki/MO-04)
-### Committees
-Vicky Hartzler is not on any of our key committees 
+## Committees
+Vicky Hartzler is not on any of our key committees. 
 
-### HEP Grants
+## HEP Grants
 ```
 This district received no SC HEP grants from 2012-2019
 ```
-### SC Contracts
+## SC Contracts
 ```
 This district received no SC contracts from 2012-2019
 ```
-### NSF MPS Grants
+## NSF MPS Grants
 In the past 8 years, this district has received:<b> $11,356,323 </b>in NSF MPS grants.
 ```
   Year  Institution                      Amount ($)
@@ -190,18 +229,28 @@ In the past 8 years, this district has received:<b> $11,356,323 </b>in NSF MPS g
   2014  UNIVERSITY OF MISSOURI SYSTEM     1,186,526
   2013  UNIVERSITY OF MISSOURI SYSTEM     1,667,960
 ```
+## SULI/CCI Interns
+From 2014-2016 (only years available), this district had 4 SULI/CCI interns
+```
+Term         Name                College                          Host Lab                              Program
+-----------  ------------------  -------------------------------  ------------------------------------  ---------
+Summer 2015  Melissa Compton     University of Missouri-Columbia  Los Alamos National Laboratory        SULI
+Summer 2014  Nathan Frey         University of Missouri-Columbia  Brookhaven National Laboratory        SULI
+Spring 2016  Holly Marie Dinkel  University of Missouri-Columbia  Argonne National Laboratory           SULI
+Spring 2015  Jesse Marks         Central Methodist University     National Renewable Energy Laboratory  SULI
+```
 ---
 <a name="MO-05"></a>
 [Back to top](#top)
 ## MO-05 -- Rep. Emanuel Cleaver (D) -- [Wikipedia](https://en.wikipedia.org/wiki/MO-05)
-### Committees
-Emanuel Cleaver is not on any of our key committees 
+## Committees
+Emanuel Cleaver is not on any of our key committees. 
 
-### HEP Grants
+## HEP Grants
 ```
 This district received no SC HEP grants from 2012-2019
 ```
-### SC Contracts
+## SC Contracts
 In the past 8 years, this district has received:
 1 Office of Science contracts, totalling <b> $22,005</b>
 ```
@@ -209,7 +258,7 @@ In the past 8 years, this district has received:
 ------  ---------------------  ------------  ------------
   2012  FISHNET SECURITY, INC        22,005  ADP SOFTWARE
 ```
-### NSF MPS Grants
+## NSF MPS Grants
 In the past 8 years, this district has received:<b> $1,879,712 </b>in NSF MPS grants.
 ```
   Year  Institution                      Amount ($)
@@ -219,22 +268,26 @@ In the past 8 years, this district has received:<b> $1,879,712 </b>in NSF MPS gr
   2013  UNIVERSITY OF MISSOURI SYSTEM       345,000
   2012  UNIVERSITY OF MISSOURI SYSTEM       278,533
 ```
+## SULI/CCI Interns
+```
+This district had no SULI/CCI interns from 2014-2016 (only years available)
+```
 ---
 <a name="MO-06"></a>
 [Back to top](#top)
 ## MO-06 -- Rep. Sam Graves (R) -- [Wikipedia](https://en.wikipedia.org/wiki/MO-06)
-### Committees
-Sam Graves is not on any of our key committees 
+## Committees
+Sam Graves is not on any of our key committees. 
 
-### HEP Grants
+## HEP Grants
 ```
 This district received no SC HEP grants from 2012-2019
 ```
-### SC Contracts
+## SC Contracts
 ```
 This district received no SC contracts from 2012-2019
 ```
-### NSF MPS Grants
+## NSF MPS Grants
 In the past 8 years, this district has received:<b> $475,849 </b>in NSF MPS grants.
 ```
   Year  Institution                            Amount ($)
@@ -246,22 +299,29 @@ In the past 8 years, this district has received:<b> $475,849 </b>in NSF MPS gran
   2013  TRUMAN STATE UNIVERSITY                     3,312
   2012  NORTHWEST MISSOURI STATE UNIVERSITY        57,000
 ```
+## SULI/CCI Interns
+From 2014-2016 (only years available), this district had 1 SULI/CCI intern
+```
+Term         Name             College                  Host Lab                  Program
+-----------  ---------------  -----------------------  ------------------------  ---------
+Summer 2015  Joseph Milliano  Truman State University  General Atomics / DIII-D  SULI
+```
 ---
 <a name="MO-07"></a>
 [Back to top](#top)
 ## MO-07 -- Rep. Billy Long (R) -- [Wikipedia](https://en.wikipedia.org/wiki/MO-07)
-### Committees
+## Committees
 Billy Long is the #15 Republican on the House Committee on Energy and Commerce 
 
-### HEP Grants
+## HEP Grants
 ```
 This district received no SC HEP grants from 2012-2019
 ```
-### SC Contracts
+## SC Contracts
 ```
 This district received no SC contracts from 2012-2019
 ```
-### NSF MPS Grants
+## NSF MPS Grants
 In the past 8 years, this district has received:<b> $1,185,382 </b>in NSF MPS grants.
 ```
   Year  Institution                  Amount ($)
@@ -273,22 +333,29 @@ In the past 8 years, this district has received:<b> $1,185,382 </b>in NSF MPS gr
   2013  MISSOURI STATE UNIVERSITY       215,318
   2012  MISSOURI STATE UNIVERSITY       246,414
 ```
+## SULI/CCI Interns
+From 2014-2016 (only years available), this district had 1 SULI/CCI intern
+```
+Term         Name          College                    Host Lab                  Program
+-----------  ------------  -------------------------  ------------------------  ---------
+Summer 2015  Gavin Hester  Missouri State University  Ames National Laboratory  SULI
+```
 ---
 <a name="MO-08"></a>
 [Back to top](#top)
 ## MO-08 -- Rep. Jason Smith (R) -- [Wikipedia](https://en.wikipedia.org/wiki/MO-08)
-### Committees
-Jason Smith is not on any of our key committees 
+## Committees
+Jason Smith is not on any of our key committees. 
 
-### HEP Grants
+## HEP Grants
 ```
 This district received no SC HEP grants from 2012-2019
 ```
-### SC Contracts
+## SC Contracts
 ```
 This district received no SC contracts from 2012-2019
 ```
-### NSF MPS Grants
+## NSF MPS Grants
 In the past 8 years, this district has received:<b> $9,587,044 </b>in NSF MPS grants.
 ```
   Year  Institution                       Amount ($)
@@ -302,5 +369,19 @@ In the past 8 years, this district has received:<b> $9,587,044 </b>in NSF MPS gr
   2013  UNIVERSITY OF MISSOURI SYSTEM      1,341,393
   2012  MISSOURI SYSTEM, UNIVERSITY OF       384,797
   2012  UNIVERSITY OF MISSOURI SYSTEM        758,454
+```
+## SULI/CCI Interns
+From 2014-2016 (only years available), this district had 8 SULI/CCI interns
+```
+Term         Name                   College                                      Host Lab                              Program
+-----------  ---------------------  -------------------------------------------  ------------------------------------  ---------
+Summer 2016  Nicholas Allen         Missouri University of Science & Technology  Los Alamos National Laboratory        SULI
+Summer 2016  Joseph Drallmeier      Missouri University of Science & Technology  Oak Ridge National Laboratory         SULI
+Summer 2016  Kent Matthew Gorday    Missouri University of Science & Technology  Oak Ridge National Laboratory         SULI
+Summer 2015  Timon G Abraham        Southeast Missouri State University          Oak Ridge National Laboratory         SULI
+Summer 2014  Clyde Joshua Beers     Missouri University of Science & Technology  Idaho National Laboratory             SULI
+Summer 2014  Elizabeth Irene Nolte  Missouri University of Science & Technology  Argonne National Laboratory           SULI
+Spring 2016  Nicholas Allen         Missouri University of Science & Technology  Los Alamos National Laboratory        SULI
+Spring 2014  Sarah Rommelfanger     Missouri University of Science & Technology  National Renewable Energy Laboratory  SULI
 ```
 ---

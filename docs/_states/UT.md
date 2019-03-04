@@ -17,7 +17,7 @@ Mike Lee is the #4 Republican on the Senate Committee on Energy and Natural Reso
 
 Mike Lee is the #11 Republican on the Senate Committee on Commerce, Science, and Transportation 
 
-Mitt Romney is not on any of our key committees 
+Mitt Romney is not on any of our key committees. 
 
 ## HEP Grants
 In the past 8 years, this state has received:
@@ -33,7 +33,7 @@ In the past 8 years, this state has received:
   2013  UNIVERSITY OF UTAH       245,000
   2012  UNIVERSITY OF UTAH        78,000
 ```
-### SC Contracts
+## SC Contracts
 In the past 8 years, this state has received:
 3 Office of Science contracts, totalling <b> $9,829</b>
 ```
@@ -57,19 +57,29 @@ PII REDACTED                   300,000
 UTAH VALLEY UNIVERSITY         300,000
 DIXIE STATE UNIVERSITY         135,000
 ```
+## SULI/CCI Interns
+From 2014-2016 (only years available), this district had 34 SULI/CCI interns
+```
+  # Interns  Program    College
+-----------  ---------  ---------------------------
+         18  SULI       Brigham Young University
+          8  SULI       The University of Utah
+          7  SULI       Utah State University
+          1  SULI       Dixie State College of Utah
+```
 ---
 ---
 <a name="UT-01"></a>
 [Back to top](#top)
 ## UT-01 -- Rep. Rob Bishop (R) -- [Wikipedia](https://en.wikipedia.org/wiki/UT-01)
-### Committees
-Rob Bishop is not on any of our key committees 
+## Committees
+Rob Bishop is not on any of our key committees. 
 
-### HEP Grants
+## HEP Grants
 ```
 This district received no SC HEP grants from 2012-2019
 ```
-### SC Contracts
+## SC Contracts
 In the past 8 years, this district has received:
 1 Office of Science contracts, totalling <b> $3,028</b>
 ```
@@ -77,7 +87,7 @@ In the past 8 years, this district has received:
 ------  ---------------------  ------------  --------------------------
   2012  OVID TECHNOLOGIES INC         3,028  NEWSPAPERS AND PERIODICALS
 ```
-### NSF MPS Grants
+## NSF MPS Grants
 In the past 8 years, this district has received:<b> $5,358,219 </b>in NSF MPS grants.
 ```
   Year  Institution              Amount ($)
@@ -90,14 +100,27 @@ In the past 8 years, this district has received:<b> $5,358,219 </b>in NSF MPS gr
   2013  UTAH STATE UNIVERSITY     1,239,268
   2012  UTAH STATE UNIVERSITY       107,800
 ```
+## SULI/CCI Interns
+From 2014-2016 (only years available), this district had 7 SULI/CCI interns
+```
+Term         Name                   College                Host Lab                              Program
+-----------  ---------------------  ---------------------  ------------------------------------  ---------
+Summer 2016  Chris Joseph Martinez  Utah State University  Idaho National Laboratory             SULI
+Summer 2016  Benjamin Vegel         Utah State University  Idaho National Laboratory             SULI
+Summer 2015  Katelyn Sarah Allison  Utah State University  Idaho National Laboratory             SULI
+Summer 2015  Michael Berry          Utah State University  Los Alamos National Laboratory        SULI
+Summer 2015  Kaleb Roberts          Utah State University  Idaho National Laboratory             SULI
+Summer 2014  Isaac Allred           Utah State University  Idaho National Laboratory             SULI
+Summer 2014  Tate Shorthill         Utah State University  National Renewable Energy Laboratory  SULI
+```
 ---
 <a name="UT-02"></a>
 [Back to top](#top)
 ## UT-02 -- Rep. Chris Stewart (R) -- [Wikipedia](https://en.wikipedia.org/wiki/UT-02)
-### Committees
+## Committees
 Chris Stewart is the #18 Republican on the House Committee on Appropriations 
 
-### HEP Grants
+## HEP Grants
 In the past 8 years, this district has received:<b> $3,715,000 </b>in SC HEP grants.
 ```
 Institution           Amount ($)    Start  End      Principal Investigator    Project Title
@@ -113,11 +136,11 @@ UNIVERSITY OF UTAH       150,000     2013  2014     Bolton                    In
 UNIVERSITY OF UTAH        95,000     2013  2014     Dawson                    Modeling Spectra of 160,000 BOSS Quasars for Lyman Alpha Studies
 UNIVERSITY OF UTAH        78,000     2012  2014     Detar                     Searching for Physics Beyond the Standard Model: Strongly Coupled Field Theories at the Intensity and Energy Frontiers
 ```
-### SC Contracts
+## SC Contracts
 ```
 This district received no SC contracts from 2012-2019
 ```
-### NSF MPS Grants
+## NSF MPS Grants
 In the past 8 years, this district has received:<b> $60,040,109 </b>in NSF MPS grants.
 ```
   Year  Institution                Amount ($)
@@ -135,22 +158,54 @@ In the past 8 years, this district has received:<b> $60,040,109 </b>in NSF MPS g
   2013  UNIVERSITY OF UTAH, THE     8,921,795
   2012  UNIVERSITY OF UTAH, THE    10,668,783
 ```
+## SULI/CCI Interns
+From 2014-2016 (only years available), this district had 26 SULI/CCI interns
+```
+Term         Name                       College                   Host Lab                                Program
+-----------  -------------------------  ------------------------  --------------------------------------  ---------
+Summer 2016  Nick Betzsold              Brigham Young University  Pacific Northwest National Laboratory   SULI
+Summer 2016  Richard Lee Fitzhugh       Brigham Young University  Idaho National Laboratory               SULI
+Summer 2016  Gemma Giovanna Clark       The University of Utah    SLAC National Accelerator Laboratory    SULI
+Summer 2016  Marsie Trego               Brigham Young University  Pacific Northwest National Laboratory   SULI
+Summer 2016  Aj Rasmusson               Brigham Young University  Idaho National Laboratory               SULI
+Summer 2016  Reese Petersen             Brigham Young University  Ames National Laboratory                SULI
+Summer 2016  Tingshiuan Christopher Wu  The University of Utah    Lawrence Livermore National Laboratory  SULI
+Summer 2015  Jesse Doyle Carlson        Brigham Young University  Idaho National Laboratory               SULI
+Summer 2015  Ethan Gates Hasler         Brigham Young University  Pacific Northwest National Laboratory   SULI
+Summer 2015  Charlotte Reininger        Brigham Young University  Lawrence Berkeley National Laboratory   SULI
+Summer 2015  Brittney Saenz             Brigham Young University  Idaho National Laboratory               SULI
+Summer 2015  Tingshiuan Christopher Wu  The University of Utah    Lawrence Livermore National Laboratory  SULI
+Summer 2015  Melissa Puga               The University of Utah    Argonne National Laboratory             SULI
+Summer 2015  VAN THANH NGUYEN           The University of Utah    Idaho National Laboratory               SULI
+Summer 2015  Kameron Hansen             Brigham Young University  General Atomics / DIII-D                SULI
+Summer 2015  Cody Barnhill              The University of Utah    National Renewable Energy Laboratory    SULI
+Summer 2014  Avery Tye Gardner          The University of Utah    Lawrence Berkeley National Laboratory   SULI
+Summer 2014  Ryan Joseph Gillis         Brigham Young University  Lawrence Livermore National Laboratory  SULI
+Summer 2014  Nils Thomas Otterstrom     Brigham Young University  Oak Ridge National Laboratory           SULI
+Summer 2014  Spencer Dirk Lindeman      Brigham Young University  National Renewable Energy Laboratory    SULI
+Summer 2014  Carl Walker Prince         Brigham Young University  Idaho National Laboratory               SULI
+Summer 2014  Daniel Woodbury            Brigham Young University  Princeton Plasma Physics Laboratory     SULI
+Summer 2014  Loren Anderson             Brigham Young University  Idaho National Laboratory               SULI
+Spring 2016  Reese Petersen             Brigham Young University  National Renewable Energy Laboratory    SULI
+Spring 2015  Joseph Adam Santora        The University of Utah    Lawrence Berkeley National Laboratory   SULI
+Spring 2014  Arthur Adaon Castleton     Brigham Young University  Idaho National Laboratory               SULI
+```
 ---
 <a name="UT-03"></a>
 [Back to top](#top)
 ## UT-03 -- Rep. John R. Curtis (R) -- [Wikipedia](https://en.wikipedia.org/wiki/UT-03)
-### Committees
-John R. Curtis is not on any of our key committees 
+## Committees
+John R. Curtis is not on any of our key committees. 
 
-### HEP Grants
+## HEP Grants
 ```
 This district received no SC HEP grants from 2012-2019
 ```
-### SC Contracts
+## SC Contracts
 ```
 This district received no SC contracts from 2012-2019
 ```
-### NSF MPS Grants
+## NSF MPS Grants
 In the past 8 years, this district has received:<b> $15,015,108 </b>in NSF MPS grants.
 ```
   Year  Institution                 Amount ($)
@@ -164,20 +219,24 @@ In the past 8 years, this district has received:<b> $15,015,108 </b>in NSF MPS g
   2013  BRIGHAM YOUNG UNIVERSITY       893,763
   2012  BRIGHAM YOUNG UNIVERSITY     2,278,835
 ```
+## SULI/CCI Interns
+```
+This district had no SULI/CCI interns from 2014-2016 (only years available)
+```
 ---
 <a name="UT-04"></a>
 [Back to top](#top)
 ## UT-04 -- Rep. Ben McAdams (D) -- [Wikipedia](https://en.wikipedia.org/wiki/UT-04)
-### Committees
+## Committees
 Ben McAdams is the #21 Democrat on the House Committee on Science, Space, and Technology 
 
 Ben McAdams is the #6 Democrat on the House Committee on Science, Space, and Technology; Subcommittee on Research and Technology 
 
-### HEP Grants
+## HEP Grants
 ```
 This district received no SC HEP grants from 2012-2019
 ```
-### SC Contracts
+## SC Contracts
 In the past 8 years, this district has received:
 2 Office of Science contracts, totalling <b> $6,801</b>
 ```
@@ -186,8 +245,15 @@ In the past 8 years, this district has received:
   2015  OVID TECHNOLOGIES INC         3,531  NEWSPAPERS AND PERIODICALS
   2014  OVID TECHNOLOGIES INC         3,270  NEWSPAPERS AND PERIODICALS
 ```
-### NSF MPS Grants
+## NSF MPS Grants
 ```
 This district received no NSF MPS grants from 2012-2019
+```
+## SULI/CCI Interns
+From 2014-2016 (only years available), this district had 1 SULI/CCI intern
+```
+Term       Name           College                      Host Lab                        Program
+---------  -------------  ---------------------------  ------------------------------  ---------
+Fall 2015  Aimee Newsham  Dixie State College of Utah  Los Alamos National Laboratory  SULI
 ```
 ---

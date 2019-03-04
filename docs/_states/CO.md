@@ -11,7 +11,7 @@ permalink : /states/CO/
 
 # CO -- Sen. Michael F. Bennet (D) and  Sen. Cory Gardner (R)
 ## Committees
-Michael F. Bennet is not on any of our key committees 
+Michael F. Bennet is not on any of our key committees. 
 
 Cory Gardner is the #5 Republican on the Senate Energy Subcommittee on Energy 
 
@@ -37,7 +37,7 @@ NATIONAL INST  OF STANDARDS & TECHNOLOGY       182,000
 ASPEN CENTER FOR PHYSICS                        25,000
 Aspen Center for Physics                        12,000
 ```
-### SC Contracts
+## SC Contracts
 In the past 8 years, this state has received:
 12 Office of Science contracts, totalling <b> $159,763</b>
 ```
@@ -83,15 +83,33 @@ UNIVERSITY CORPORATION FOR ATMOSPHERIC RESEARCH        62,500
 U OF NORTHERN COLORADO                                 50,000
 ROCKY MTN BIOL LAB                                     15,070
 ```
+## SULI/CCI Interns
+From 2014-2016 (only years available), this district had 36 SULI/CCI interns
+```
+  # Interns  Program    College
+-----------  ---------  ---------------------------------------
+          8  SULI       Colorado School of Mines
+          6  SULI       Colorado State University
+          6  SULI       University of Colorado Boulder
+          4  SULI       Metropolitan State University of Denver
+          2  CCI        Red Rocks Community College
+          2  SULI       Colorado College
+          2  SULI       Fort Lewis College
+          2  SULI       Regis University
+          1  CCI        Pikes Peak Community College
+          1  SULI       American Sentinel University
+          1  SULI       Colorado Mesa University
+          1  SULI       Ecotech Institute
+```
 ---
 ---
 <a name="CO-01"></a>
 [Back to top](#top)
 ## CO-01 -- Rep. Diana DeGette (D) -- [Wikipedia](https://en.wikipedia.org/wiki/CO-01)
-### Committees
+## Committees
 Diana DeGette is the #5 Democrat on the House Committee on Energy and Commerce 
 
-### HEP Grants
+## HEP Grants
 In the past 8 years, this district has received:<b> $1,690,000 </b>in SC HEP grants.
 ```
 Institution                        Amount ($)    Start    End  Principal Investigator    Project Title
@@ -100,7 +118,7 @@ University of Colorado - Denver       240,000     2016   2017  Cheggour, Najib  
 University of Colorado - Denver     1,450,000     2016   2017  Cumalat, John             Elementary Particle Physics and High Energy Phenomena
 University of Colorado - Denver             0     2016   2017  van der Laan, Daniel      Development of High-temperature Superconducting Cables for Accelerator Magnets
 ```
-### SC Contracts
+## SC Contracts
 In the past 8 years, this district has received:
 2 Office of Science contracts, totalling <b> $79,805</b>
 ```
@@ -109,7 +127,7 @@ In the past 8 years, this district has received:
   2013  ALLIANT CORPORATION                            40,000  SPECIAL STUDIES/ANALYSIS- ENVIRONMENTAL ASSESSMENTS
   2013  SUMMIT TECHNICAL RESOURCES INCORPORATED        39,805  SPECIAL STUDIES/ANALYSIS- ENVIRONMENTAL ASSESSMENTS
 ```
-### NSF MPS Grants
+## NSF MPS Grants
 In the past 8 years, this district has received:<b> $6,389,624 </b>in NSF MPS grants.
 ```
   Year  Institution                                   Amount ($)
@@ -130,14 +148,22 @@ In the past 8 years, this district has received:<b> $6,389,624 </b>in NSF MPS gr
   2012  COLORADO SEMINARY                              1,430,385
   2012  REGIS UNIVERSITY                                  44,000
 ```
+## SULI/CCI Interns
+From 2014-2016 (only years available), this district had 2 SULI/CCI interns
+```
+Term         Name                College           Host Lab                              Program
+-----------  ------------------  ----------------  ------------------------------------  ---------
+Summer 2015  Levi Daniel Kramer  Regis University  National Renewable Energy Laboratory  SULI
+Summer 2014  Levi Daniel Kramer  Regis University  National Renewable Energy Laboratory  SULI
+```
 ---
 <a name="CO-02"></a>
 [Back to top](#top)
 ## CO-02 -- Rep. Joe Neguse (D) -- [Wikipedia](https://en.wikipedia.org/wiki/CO-02)
-### Committees
-Joe Neguse is not on any of our key committees 
+## Committees
+Joe Neguse is not on any of our key committees. 
 
-### HEP Grants
+## HEP Grants
 In the past 8 years, this district has received:<b> $17,758,603 </b>in SC HEP grants.
 ```
 Institution                                 Amount ($)    Start  End      Principal Investigator    Project Title
@@ -176,11 +202,11 @@ TECH-X CORPORATION                                   0     2012  2013     Cary  
 NATIONAL INST  OF STANDARDS & TECHNOLOGY        53,000     2012  2013     Goodrich                  Critical Current Metrology for Nb3Sn Conductor Development
 NATIONAL INST  OF STANDARDS & TECHNOLOGY       129,000     2012  2013     Cheggour                  Electromechanical Properties of Superconductors for DOE/HEP Applications
 ```
-### SC Contracts
+## SC Contracts
 ```
 This district received no SC contracts from 2012-2019
 ```
-### NSF MPS Grants
+## NSF MPS Grants
 In the past 8 years, this district has received:<b> $132,674,232 </b>in NSF MPS grants.
 ```
   Year  Institution                                        Amount ($)
@@ -208,14 +234,32 @@ In the past 8 years, this district has received:<b> $132,674,232 </b>in NSF MPS 
   2013  REGENTS OF THE UNIVERSITY OF COLORADO, THE         14,680,483
   2012  REGENTS OF THE UNIVERSITY OF COLORADO, THE         16,162,796
 ```
+## SULI/CCI Interns
+From 2014-2016 (only years available), this district had 12 SULI/CCI interns
+```
+Term         Name                    College                         Host Lab                               Program
+-----------  ----------------------  ------------------------------  -------------------------------------  ---------
+Summer 2016  Erin Michelle Vogel     Colorado State University       National Renewable Energy Laboratory   SULI
+Summer 2015  Jaclyn Johnson          Colorado State University       Brookhaven National Laboratory         SULI
+Summer 2015  Andrew Lawrence Lewis   Colorado State University       Argonne National Laboratory            SULI
+Spring 2016  Peter Madigan           University of Colorado Boulder  Los Alamos National Laboratory         SULI
+Spring 2016  Mary Frances Martin     Colorado State University       Brookhaven National Laboratory         SULI
+Spring 2016  Erin Michelle Vogel     Colorado State University       National Renewable Energy Laboratory   SULI
+Spring 2015  Akaxia Cruz             University of Colorado Boulder  Lawrence Berkeley National Laboratory  SULI
+Spring 2015  Meghan Sposato          University of Colorado Boulder  National Renewable Energy Laboratory   SULI
+Spring 2015  Rachel Nicole Larson    Colorado State University       Brookhaven National Laboratory         SULI
+Spring 2014  Daniel Cris Poulson     University of Colorado Boulder  Los Alamos National Laboratory         SULI
+Fall 2014    Akaxia Cruz             University of Colorado Boulder  Lawrence Berkeley National Laboratory  SULI
+Fall 2014    Neil Christian Hendren  University of Colorado Boulder  Lawrence Berkeley National Laboratory  SULI
+```
 ---
 <a name="CO-03"></a>
 [Back to top](#top)
 ## CO-03 -- Rep. Scott R. Tipton (R) -- [Wikipedia](https://en.wikipedia.org/wiki/CO-03)
-### Committees
-Scott R. Tipton is not on any of our key committees 
+## Committees
+Scott R. Tipton is not on any of our key committees. 
 
-### HEP Grants
+## HEP Grants
 In the past 8 years, this district has received:<b> $37,000 </b>in SC HEP grants.
 ```
 Institution                 Amount ($)    Start    End  Principal Investigator    Project Title
@@ -224,11 +268,11 @@ Aspen Center for Physics        12,000     2015   2016  Chakraborty, Bulbul     
 ASPEN CENTER FOR PHYSICS        15,000     2013   2014  Terning                   Aspen Center for Physics Winter Conferences in Astrophysics and Particle Physics, Winter 2013
 ASPEN CENTER FOR PHYSICS        10,000     2012   2013  Bhatt                     2012 Aspen Winter Conference on High Energy and Astrophysics
 ```
-### SC Contracts
+## SC Contracts
 ```
 This district received no SC contracts from 2012-2019
 ```
-### NSF MPS Grants
+## NSF MPS Grants
 In the past 8 years, this district has received:<b> $3,929,996 </b>in NSF MPS grants.
 ```
   Year  Institution                               Amount ($)
@@ -246,14 +290,23 @@ In the past 8 years, this district has received:<b> $3,929,996 </b>in NSF MPS gr
   2012  ASPEN CENTER FOR PHYSICS                     440,000
   2012  FRONT RANGE SCIENTIFIC COMPUTATION INC        49,928
 ```
+## SULI/CCI Interns
+From 2014-2016 (only years available), this district had 3 SULI/CCI interns
+```
+Term         Name             College                   Host Lab                               Program
+-----------  ---------------  ------------------------  -------------------------------------  ---------
+Summer 2014  Spencer Huffman  Fort Lewis College        Pacific Northwest National Laboratory  SULI
+Summer 2014  Jonathan Ogle    Fort Lewis College        Pacific Northwest National Laboratory  SULI
+Fall 2014    Alexander Brown  Colorado Mesa University  Ames National Laboratory               SULI
+```
 ---
 <a name="CO-04"></a>
 [Back to top](#top)
 ## CO-04 -- Rep. Ken Buck (R) -- [Wikipedia](https://en.wikipedia.org/wiki/CO-04)
-### Committees
-Ken Buck is not on any of our key committees 
+## Committees
+Ken Buck is not on any of our key committees. 
 
-### HEP Grants
+## HEP Grants
 In the past 8 years, this district has received:<b> $2,012,000 </b>in SC HEP grants.
 ```
 Institution                  Amount ($)    Start    End  Principal Investigator    Project Title
@@ -262,11 +315,11 @@ COLORADO STATE UNIVERSITY        73,000     2013   2014  Buchanan               
 COLORADO STATE UNIVERSITY       203,000     2012   2014  Fairbank                  New Technique for Barium Daughter Ion Identification in a Liquid Xe-136 Double Beta Decay Experiment
 COLORADO STATE UNIVERSITY     1,736,000     2012   2014  Toki, Harton, Wilson      Research in High Energy Physics
 ```
-### SC Contracts
+## SC Contracts
 ```
 This district received no SC contracts from 2012-2019
 ```
-### NSF MPS Grants
+## NSF MPS Grants
 In the past 8 years, this district has received:<b> $5,060,676 </b>in NSF MPS grants.
 ```
   Year  Institution                        Amount ($)
@@ -277,18 +330,28 @@ In the past 8 years, this district has received:<b> $5,060,676 </b>in NSF MPS gr
   2012  COLORADO STATE UNIVERSITY           4,407,540
   2012  UNIVERSITY OF NORTHERN COLORADO       120,000
 ```
+## SULI/CCI Interns
+From 2014-2016 (only years available), this district had 4 SULI/CCI interns
+```
+Term         Name              College                                  Host Lab                              Program
+-----------  ----------------  ---------------------------------------  ------------------------------------  ---------
+Summer 2015  Bradley Prythero  Metropolitan State University of Denver  National Renewable Energy Laboratory  SULI
+Spring 2016  Riley Abel        Metropolitan State University of Denver  National Renewable Energy Laboratory  SULI
+Fall 2015    Riley Abel        Metropolitan State University of Denver  National Renewable Energy Laboratory  SULI
+Fall 2015    Bradley Prythero  Metropolitan State University of Denver  National Renewable Energy Laboratory  SULI
+```
 ---
 <a name="CO-05"></a>
 [Back to top](#top)
 ## CO-05 -- Rep. Doug Lamborn (R) -- [Wikipedia](https://en.wikipedia.org/wiki/CO-05)
-### Committees
-Doug Lamborn is not on any of our key committees 
+## Committees
+Doug Lamborn is not on any of our key committees. 
 
-### HEP Grants
+## HEP Grants
 ```
 This district received no SC HEP grants from 2012-2019
 ```
-### SC Contracts
+## SC Contracts
 In the past 8 years, this district has received:
 1 Office of Science contracts, totalling <b> $4,568</b>
 ```
@@ -296,7 +359,7 @@ In the past 8 years, this district has received:
 ------  -------------------  ------------  ---------------
   2014  IMAGING SYSTEMS LLC         4,568  OFFICE SUPPLIES
 ```
-### NSF MPS Grants
+## NSF MPS Grants
 In the past 8 years, this district has received:<b> $1,115,819 </b>in NSF MPS grants.
 ```
   Year  Institution                                   Amount ($)
@@ -307,25 +370,34 @@ In the past 8 years, this district has received:<b> $1,115,819 </b>in NSF MPS gr
   2013  REGENTS OF THE UNIVERSITY OF COLORADO, THE       145,992
   2012  REGENTS OF THE UNIVERSITY OF COLORADO, THE       300,000
 ```
+## SULI/CCI Interns
+From 2014-2016 (only years available), this district had 3 SULI/CCI interns
+```
+Term         Name                    College                       Host Lab                               Program
+-----------  ----------------------  ----------------------------  -------------------------------------  ---------
+Summer 2016  Johnathan Seward Lomas  Colorado College              Lawrence Berkeley National Laboratory  SULI
+Summer 2016  Caitlin Randall         Pikes Peak Community College  National Renewable Energy Laboratory   CCI
+Spring 2016  Sanjay Roberts          Colorado College              National Renewable Energy Laboratory   SULI
+```
 ---
 <a name="CO-06"></a>
 [Back to top](#top)
 ## CO-06 -- Rep. Jason Crow (D) -- [Wikipedia](https://en.wikipedia.org/wiki/CO-06)
-### Committees
-Jason Crow is not on any of our key committees 
+## Committees
+Jason Crow is not on any of our key committees. 
 
-### HEP Grants
+## HEP Grants
 In the past 8 years, this district has received:<b> $0 </b>in SC HEP grants.
 ```
 Institution                        Amount ($)    Start    End  Principal Investigator    Project Title
 -------------------------------  ------------  -------  -----  ------------------------  ------------------------------------------------------------------------------
 University of Colorado - Denver             0     2017   2018  van der Laan, Daniel      Development of High-temperature Superconducting Cables for Accelerator Magnets
 ```
-### SC Contracts
+## SC Contracts
 ```
 This district received no SC contracts from 2012-2019
 ```
-### NSF MPS Grants
+## NSF MPS Grants
 In the past 8 years, this district has received:<b> $1,342,898 </b>in NSF MPS grants.
 ```
   Year  Institution                                   Amount ($)
@@ -338,18 +410,26 @@ In the past 8 years, this district has received:<b> $1,342,898 </b>in NSF MPS gr
   2014  REGENTS OF THE UNIVERSITY OF COLORADO, THE       173,627
   2013  REGENTS OF THE UNIVERSITY OF COLORADO, THE       113,344
 ```
+## SULI/CCI Interns
+From 2014-2016 (only years available), this district had 2 SULI/CCI interns
+```
+Term         Name                     College                       Host Lab                   Program
+-----------  -----------------------  ----------------------------  -------------------------  ---------
+Summer 2016  Marina Meier             American Sentinel University  Idaho National Laboratory  SULI
+Fall 2014    Briane Caroline Montoya  Ecotech Institute             Ames National Laboratory   SULI
+```
 ---
 <a name="CO-07"></a>
 [Back to top](#top)
 ## CO-07 -- Rep. Ed Perlmutter (D) -- [Wikipedia](https://en.wikipedia.org/wiki/CO-07)
-### Committees
+## Committees
 Ed Perlmutter is the #14 Democrat on the House Committee on Science, Space, and Technology 
 
-### HEP Grants
+## HEP Grants
 ```
 This district received no SC HEP grants from 2012-2019
 ```
-### SC Contracts
+## SC Contracts
 In the past 8 years, this district has received:
 9 Office of Science contracts, totalling <b> $75,390</b>
 ```
@@ -365,7 +445,7 @@ AGSI, LLC                                 5,852  ADP CENTRAL PROCESSING UNIT (CP
 PREMISYS SUPPORT GROUP, INC.              5,414  MAINT/REPAIR/REBUILD OF EQUIPMENT- COMMUNICATION, DETECTION, AND COHERENT RADIATION EQUIPMENT
 MONO MACHINES LLC                         4,875  MISCELLANEOUS OFFICE MACHINES
 ```
-### NSF MPS Grants
+## NSF MPS Grants
 In the past 8 years, this district has received:<b> $22,834,140 </b>in NSF MPS grants.
 ```
   Year  Institution                                   Amount ($)
@@ -381,5 +461,21 @@ In the past 8 years, this district has received:<b> $22,834,140 </b>in NSF MPS g
   2013  TRUSTEES OF THE COLORADO SCHOOL OF MINES       3,360,716
   2012  REGENTS OF THE UNIVERSITY OF COLORADO, THE       686,267
   2012  TRUSTEES OF THE COLORADO SCHOOL OF MINES       4,404,447
+```
+## SULI/CCI Interns
+From 2014-2016 (only years available), this district had 10 SULI/CCI interns
+```
+Term         Name                       College                      Host Lab                              Program
+-----------  -------------------------  ---------------------------  ------------------------------------  ---------
+Summer 2016  Steven John Madachy        Colorado School of Mines     National Renewable Energy Laboratory  SULI
+Summer 2016  Michael Person             Colorado School of Mines     Oak Ridge National Laboratory         SULI
+Summer 2016  Joshua Major               Red Rocks Community College  National Renewable Energy Laboratory  CCI
+Summer 2016  Christopher Betts Wolcott  Red Rocks Community College  National Renewable Energy Laboratory  CCI
+Summer 2015  Jason Actis                Colorado School of Mines     National Renewable Energy Laboratory  SULI
+Summer 2015  Alex Badgett               Colorado School of Mines     National Renewable Energy Laboratory  SULI
+Summer 2015  Michael Person             Colorado School of Mines     Oak Ridge National Laboratory         SULI
+Summer 2014  Derek Jordan Hart          Colorado School of Mines     Los Alamos National Laboratory        SULI
+Summer 2014  William Henry Huddleston   Colorado School of Mines     National Renewable Energy Laboratory  SULI
+Summer 2014  Chandler Ridler            Colorado School of Mines     National Renewable Energy Laboratory  SULI
 ```
 ---

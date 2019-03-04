@@ -11,7 +11,7 @@ permalink : /states/MD/
 
 # MD -- Sen. Benjamin L. Cardin (D) and  Sen. Chris Van Hollen (D)
 ## Committees
-Benjamin L. Cardin is not on any of our key committees 
+Benjamin L. Cardin is not on any of our key committees. 
 
 Chris Van Hollen is the #8 Democrat on the Senate Appropriations Subcommittee on Commerce, Justice, Science, and Related Agencies 
 
@@ -28,7 +28,7 @@ U. OF MARYLAND, COLLEGE PARK              4,446,000
 Johns Hopkins University                    250,000
 JOHNS HOPKINS UNIVERSITY                    150,000
 ```
-### SC Contracts
+## SC Contracts
 In the past 8 years, this state has received:
 110 Office of Science contracts, totalling <b> $34,293,048</b>
 ```
@@ -90,19 +90,32 @@ MONTGOMERY COLLEGE                                             39,449
 MONTGOMERY COMMUNITY COLLEGE                                   39,449
 CAPITOL COLLEGE                                                25,433
 ```
+## SULI/CCI Interns
+From 2014-2016 (only years available), this district had 25 SULI/CCI interns
+```
+  # Interns  Program    College
+-----------  ---------  ---------------------------------------
+          8  SULI       University of Maryland College Park
+          7  SULI       Johns Hopkins University
+          5  SULI       University of Maryland Baltimore County
+          2  SULI       Towson University
+          1  CCI        Frederick Community College
+          1  SULI       Bowie State University
+          1  SULI       McDaniel College
+```
 ---
 ---
 <a name="MD-01"></a>
 [Back to top](#top)
 ## MD-01 -- Rep. Andy Harris (R) -- [Wikipedia](https://en.wikipedia.org/wiki/MD-01)
-### Committees
+## Committees
 Andy Harris is the #15 Republican on the House Committee on Appropriations 
 
-### HEP Grants
+## HEP Grants
 ```
 This district received no SC HEP grants from 2012-2019
 ```
-### SC Contracts
+## SC Contracts
 In the past 8 years, this district has received:
 1 Office of Science contracts, totalling <b> $94,500</b>
 ```
@@ -111,7 +124,7 @@ In the past 8 years, this district has received:
   2017  BROOKFIELD RELOCATION INC        16,750  SUPPORT- PROFESSIONAL: REAL PROPERTY APPRAISALS
   2016  BROOKFIELD RELOCATION INC        77,750  SUPPORT- PROFESSIONAL: REAL PROPERTY APPRAISALS
 ```
-### NSF MPS Grants
+## NSF MPS Grants
 In the past 8 years, this district has received:<b> $764,620 </b>in NSF MPS grants.
 ```
   Year  Institution                                                Amount ($)
@@ -119,18 +132,22 @@ In the past 8 years, this district has received:<b> $764,620 </b>in NSF MPS gran
   2018  SALISBURY UNIVERSITY                                          265,196
   2017  UNIVERSITY OF MARYLAND CENTER FOR ENVIRONMENTAL SCIENCE       499,424
 ```
+## SULI/CCI Interns
+```
+This district had no SULI/CCI interns from 2014-2016 (only years available)
+```
 ---
 <a name="MD-02"></a>
 [Back to top](#top)
 ## MD-02 -- Rep. C. A. Dutch Ruppersberger (D) -- [Wikipedia](https://en.wikipedia.org/wiki/MD-02)
-### Committees
+## Committees
 C. A. Dutch Ruppersberger is the #12 Democrat on the House Committee on Appropriations 
 
-### HEP Grants
+## HEP Grants
 ```
 This district received no SC HEP grants from 2012-2019
 ```
-### SC Contracts
+## SC Contracts
 In the past 8 years, this district has received:
 19 Office of Science contracts, totalling <b> $738,472</b>
 ```
@@ -148,7 +165,7 @@ TOP-TIER TECHNOLOGIES, INC.            7,444  ADP SOFTWARE
 PROTEUS TECHNOLOGIES LLC               6,155  ADP SOFTWARE
 PROMARK TECHNOLOGY, INC.               5,398  INFORMATION TECHNOLOGY SOFTWARE
 ```
-### NSF MPS Grants
+## NSF MPS Grants
 In the past 8 years, this district has received:<b> $1,782,487 </b>in NSF MPS grants.
 ```
   Year  Institution                         Amount ($)
@@ -159,18 +176,26 @@ In the past 8 years, this district has received:<b> $1,782,487 </b>in NSF MPS gr
   2016  BALTIMORE CITY COMMUNITY COLLEGE       530,545
   2015  TOWSON UNIVERSITY                      382,737
 ```
+## SULI/CCI Interns
+From 2014-2016 (only years available), this district had 2 SULI/CCI interns
+```
+Term         Name          College            Host Lab                               Program
+-----------  ------------  -----------------  -------------------------------------  ---------
+Summer 2014  Zoey Warecki  Towson University  Brookhaven National Laboratory         SULI
+Spring 2015  Zoey Warecki  Towson University  Lawrence Berkeley National Laboratory  SULI
+```
 ---
 <a name="MD-03"></a>
 [Back to top](#top)
 ## MD-03 -- Rep. John P. Sarbanes (D) -- [Wikipedia](https://en.wikipedia.org/wiki/MD-03)
-### Committees
+## Committees
 John P. Sarbanes is the #11 Democrat on the House Committee on Energy and Commerce 
 
-### HEP Grants
+## HEP Grants
 ```
 This district received no SC HEP grants from 2012-2019
 ```
-### SC Contracts
+## SC Contracts
 In the past 8 years, this district has received:
 2 Office of Science contracts, totalling <b> $16,811</b>
 ```
@@ -179,7 +204,7 @@ In the past 8 years, this district has received:
   2014  CONVERGENCE TECHNOLOGY CONSULTING LLC         7,481  ADP SOFTWARE
   2014  IMMERSION CONSULTING LLC                      9,330  IT AND TELECOM- ANNUAL SOFTWARE MAINTENANCE SERVICE PLANS
 ```
-### NSF MPS Grants
+## NSF MPS Grants
 In the past 8 years, this district has received:<b> $1,302,395 </b>in NSF MPS grants.
 ```
   Year  Institution                                Amount ($)
@@ -190,18 +215,22 @@ In the past 8 years, this district has received:<b> $1,302,395 </b>in NSF MPS gr
   2013  UNIVERSITY OF MARYLAND BALTIMORE COUNTY       450,221
   2012  TOWSON UNIVERSITY                             158,348
 ```
+## SULI/CCI Interns
+```
+This district had no SULI/CCI interns from 2014-2016 (only years available)
+```
 ---
 <a name="MD-04"></a>
 [Back to top](#top)
 ## MD-04 -- Rep. Anthony G. Brown (D) -- [Wikipedia](https://en.wikipedia.org/wiki/MD-04)
-### Committees
-Anthony G. Brown is not on any of our key committees 
+## Committees
+Anthony G. Brown is not on any of our key committees. 
 
-### HEP Grants
+## HEP Grants
 ```
 This district received no SC HEP grants from 2012-2019
 ```
-### SC Contracts
+## SC Contracts
 In the past 8 years, this district has received:
 11 Office of Science contracts, totalling <b> $2,552,249</b>
 ```
@@ -217,18 +246,22 @@ AMERICAN PHYSICAL SOCIETY, THE                    27,140  NEWSPAPERS AND PERIODI
 GRM INFORMATION MANAGEMENT SERVICES, INC.          7,059  IT AND TELECOM- DATA CENTERS AND STORAGE
 AMERICAN SOCIETY OF PLANT BIOLOGISTS               3,150  NEWSPAPERS AND PERIODICALS
 ```
-### NSF MPS Grants
+## NSF MPS Grants
 ```
 This district received no NSF MPS grants from 2012-2019
+```
+## SULI/CCI Interns
+```
+This district had no SULI/CCI interns from 2014-2016 (only years available)
 ```
 ---
 <a name="MD-05"></a>
 [Back to top](#top)
 ## MD-05 -- Rep. Steny H. Hoyer (D) -- [Wikipedia](https://en.wikipedia.org/wiki/MD-05)
-### Committees
-Steny H. Hoyer is not on any of our key committees 
+## Committees
+Steny H. Hoyer is not on any of our key committees. 
 
-### HEP Grants
+## HEP Grants
 In the past 8 years, this district has received:<b> $14,790,000 </b>in SC HEP grants.
 ```
 Institution                              Amount ($)    Start  End      Principal Investigator    Project Title
@@ -255,7 +288,7 @@ U. OF MARYLAND, COLLEGE PARK                577,000     2012  2014     Milchberg
 U. OF MARYLAND, COLLEGE PARK                800,000     2012  2013     Kishek, Haber, O'Shea     Accelerator Research Studies
 U. OF MARYLAND, COLLEGE PARK                300,000     2012  2014     Hall                      Search for Weakly Interacting Dark Matter with Liquid Xenon
 ```
-### SC Contracts
+## SC Contracts
 In the past 8 years, this district has received:
 9 Office of Science contracts, totalling <b> $382,695</b>
 ```
@@ -269,7 +302,7 @@ In the past 8 years, this district has received:
   2013  AMERICAN INSTITUTE OF PHYSICS INCORPORATED        46,340  NEWSPAPERS AND PERIODICALS
   2012  AMERICAN INSTITUTE OF PHYSICS INCORPORATED       135,607  NEWSPAPERS AND PERIODICALS
 ```
-### NSF MPS Grants
+## NSF MPS Grants
 In the past 8 years, this district has received:<b> $105,414,340 </b>in NSF MPS grants.
 ```
   Year  Institution                                     Amount ($)
@@ -302,18 +335,33 @@ In the past 8 years, this district has received:<b> $105,414,340 </b>in NSF MPS 
   2012  ASSOCIATION FOR WOMEN IN MATHEMATICS               492,399
   2012  AMERICAN PHYSICAL SOCIETY                           99,000
 ```
+## SULI/CCI Interns
+From 2014-2016 (only years available), this district had 9 SULI/CCI interns
+```
+Term         Name                   College                              Host Lab                                        Program
+-----------  ---------------------  -----------------------------------  ----------------------------------------------  ---------
+Summer 2016  Sabrina Curtis         University of Maryland College Park  Lawrence Berkeley National Laboratory           SULI
+Summer 2016  John Desmond           University of Maryland College Park  Brookhaven National Laboratory                  SULI
+Summer 2016  Rebecca Fan            University of Maryland College Park  Argonne National Laboratory                     SULI
+Summer 2016  Matthew Rosenfeld      University of Maryland College Park  Oak Ridge National Laboratory                   SULI
+Summer 2016  Joseph Aaron Smiga     University of Maryland College Park  Brookhaven National Laboratory                  SULI
+Summer 2015  David Alexander Marin  University of Maryland College Park  National Renewable Energy Laboratory            SULI
+Summer 2015  Raymond Jeremy Carson  Bowie State University               Brookhaven National Laboratory                  SULI
+Summer 2014  Connor A Hart          University of Maryland College Park  Princeton Plasma Physics Laboratory             SULI
+Summer 2014  Melissa Meyerson       University of Maryland College Park  Thomas Jefferson National Accelerator Facility  SULI
+```
 ---
 <a name="MD-06"></a>
 [Back to top](#top)
 ## MD-06 -- Rep. David J. Trone (D) -- [Wikipedia](https://en.wikipedia.org/wiki/MD-06)
-### Committees
+## Committees
 David J. Trone is the #13 Democrat on the House Subcommittee on Higher Education and Workforce Development 
 
-### HEP Grants
+## HEP Grants
 ```
 This district received no SC HEP grants from 2012-2019
 ```
-### SC Contracts
+## SC Contracts
 In the past 8 years, this district has received:
 61 Office of Science contracts, totalling <b> $29,937,406</b>
 ```
@@ -341,21 +389,28 @@ PATRIOT TECHNOLOGIES INC                                   24,360  IT AND TELECO
 AMERICAN ASSOCIATION FOR THE ADVANCEMENT OF SCIENCE        23,102  IT AND TELECOM- WEB-BASED SUBSCRIPTION
 and  21  other firms.
 ```
-### NSF MPS Grants
+## NSF MPS Grants
 In the past 8 years, this district has received:<b> $39,449 </b>in NSF MPS grants.
 ```
   Year  Institution           Amount ($)
 ------  ------------------  ------------
   2017  MONTGOMERY COLLEGE        39,449
 ```
+## SULI/CCI Interns
+From 2014-2016 (only years available), this district had 1 SULI/CCI intern
+```
+Term         Name           College                      Host Lab                              Program
+-----------  -------------  ---------------------------  ------------------------------------  ---------
+Summer 2016  Angela Ossana  Frederick Community College  SLAC National Accelerator Laboratory  CCI
+```
 ---
 <a name="MD-07"></a>
 [Back to top](#top)
 ## MD-07 -- Rep. Elijah E. Cummings (D) -- [Wikipedia](https://en.wikipedia.org/wiki/MD-07)
-### Committees
-Elijah E. Cummings is not on any of our key committees 
+## Committees
+Elijah E. Cummings is not on any of our key committees. 
 
-### HEP Grants
+## HEP Grants
 In the past 8 years, this district has received:<b> $400,000 </b>in SC HEP grants.
 ```
 Institution                 Amount ($)    Start  End      Principal Investigator    Project Title
@@ -363,7 +418,7 @@ Institution                 Amount ($)    Start  End      Principal Investigator
 Johns Hopkins University       250,000     2018  Ongoing  Ice, Lauren               Particle Track Pattern Recognition via Content-Addressable Memory and Adiabatic Quantum Optimization
 JOHNS HOPKINS UNIVERSITY       150,000     2012  2013     Kamionkowski              Theoretical Particle Astrophysics
 ```
-### SC Contracts
+## SC Contracts
 In the past 8 years, this district has received:
 1 Office of Science contracts, totalling <b> $469,503</b>
 ```
@@ -372,7 +427,7 @@ In the past 8 years, this district has received:
   2017  EXETER ASSOCIATES, INC.       244,503  SUPPORT- PROFESSIONAL: OTHER
   2016  EXETER ASSOCIATES, INC.       225,000  SUPPORT- PROFESSIONAL: OTHER
 ```
-### NSF MPS Grants
+## NSF MPS Grants
 In the past 8 years, this district has received:<b> $68,945,543 </b>in NSF MPS grants.
 ```
   Year  Institution                                Amount ($)
@@ -403,18 +458,36 @@ In the past 8 years, this district has received:<b> $68,945,543 </b>in NSF MPS g
   2012  UNIVERSITY OF MARYLAND                         96,307
   2012  JOHNS HOPKINS UNIVERSITY, THE               8,268,873
 ```
+## SULI/CCI Interns
+From 2014-2016 (only years available), this district had 12 SULI/CCI interns
+```
+Term         Name                     College                                  Host Lab                                Program
+-----------  -----------------------  ---------------------------------------  --------------------------------------  ---------
+Summer 2016  Mitchell Roberts Devlin  University of Maryland Baltimore County  Argonne National Laboratory             SULI
+Summer 2016  Sidhartha Parhi          Johns Hopkins University                 Pacific Northwest National Laboratory   SULI
+Summer 2016  William Watson           Johns Hopkins University                 Brookhaven National Laboratory          SULI
+Summer 2015  Alexander Kaiser         University of Maryland Baltimore County  Brookhaven National Laboratory          SULI
+Summer 2015  Jane Aibo Pan            University of Maryland Baltimore County  Argonne National Laboratory             SULI
+Summer 2015  Maxwell Lee              Johns Hopkins University                 SLAC National Accelerator Laboratory    SULI
+Summer 2015  Meghan Perez             Johns Hopkins University                 Oak Ridge National Laboratory           SULI
+Summer 2015  Michael A Quintero       Johns Hopkins University                 Oak Ridge National Laboratory           SULI
+Summer 2014  Alison Burklund          Johns Hopkins University                 Lawrence Livermore National Laboratory  SULI
+Summer 2014  Jasper Lin               Johns Hopkins University                 National Renewable Energy Laboratory    SULI
+Spring 2016  Myela Autumn Paige       University of Maryland Baltimore County  Brookhaven National Laboratory          SULI
+Spring 2014  Owen Oladele Abe         University of Maryland Baltimore County  Brookhaven National Laboratory          SULI
+```
 ---
 <a name="MD-08"></a>
 [Back to top](#top)
 ## MD-08 -- Rep. Jamie Raskin (D) -- [Wikipedia](https://en.wikipedia.org/wiki/MD-08)
-### Committees
-Jamie Raskin is not on any of our key committees 
+## Committees
+Jamie Raskin is not on any of our key committees. 
 
-### HEP Grants
+## HEP Grants
 ```
 This district received no SC HEP grants from 2012-2019
 ```
-### SC Contracts
+## SC Contracts
 In the past 8 years, this district has received:
 7 Office of Science contracts, totalling <b> $101,412</b>
 ```
@@ -426,7 +499,7 @@ AMERICAN SOCIETY FOR BIOCHEMISTRY AND MOLECULAR BIOLOGY         8,322  R&D- GENE
 AMERICAN SOCIETY FOR BIOCHEMISTRY AND MOLECULAR BIOLOGY         8,280  NEWSPAPERS AND PERIODICALS
 ORCID, INC.                                                     5,000  SUPPORT- ADMINISTRATIVE: INFORMATION RETRIEVAL
 ```
-### NSF MPS Grants
+## NSF MPS Grants
 In the past 8 years, this district has received:<b> $518,306 </b>in NSF MPS grants.
 ```
   Year  Institution                                      Amount ($)
@@ -434,5 +507,12 @@ In the past 8 years, this district has received:<b> $518,306 </b>in NSF MPS gran
   2016  MONTGOMERY COMMUNITY COLLEGE                         39,449
   2014  HENRY M. JACKSON FOUNDATION FOR THE ADVANCEME       149,376
   2013  MOUNT SAINT MARY'S UNIVERSITY, INC.                 329,481
+```
+## SULI/CCI Interns
+From 2014-2016 (only years available), this district had 1 SULI/CCI intern
+```
+Term         Name               College           Host Lab                                        Program
+-----------  -----------------  ----------------  ----------------------------------------------  ---------
+Summer 2016  Michael Hennessey  McDaniel College  Thomas Jefferson National Accelerator Facility  SULI
 ```
 ---

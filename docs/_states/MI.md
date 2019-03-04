@@ -32,7 +32,7 @@ MICHIGAN STATE UNIVERSITY               899,000
 MICHIGAN TECH. UNIVERSITY               505,000
 Michigan Technological University       385,000
 ```
-### SC Contracts
+## SC Contracts
 In the past 8 years, this state has received:
 4 Office of Science contracts, totalling <b> $31,390</b>
 ```
@@ -71,15 +71,39 @@ GRAND VALLEY STATE UNIV                      76,809
 ANDREWS UNIVERSITY                           67,073
 UNIVERSITY OF DETROIT MERCY                  27,798
 ```
+## SULI/CCI Interns
+From 2014-2016 (only years available), this district had 57 SULI/CCI interns
+```
+  # Interns  Program    College
+-----------  ---------  ---------------------------------
+         23  SULI       University of Michigan-Ann Arbor
+         12  SULI       Michigan State University
+          3  SULI       Northern Michigan University
+          2  SULI       Michigan Technological University
+          2  SULI       Oakland University
+          2  SULI       Andrews University
+          2  SULI       Grand Valley State University
+          1  SULI       University of Michigan-Flint
+          1  SULI       University of Michigan-Dearborn
+          1  SULI       Scott Community College
+          1  SULI       Saginaw Valley State University
+          1  SULI       Albion College
+          1  SULI       Alma College
+          1  SULI       Lawrence Technological University
+          1  SULI       Kellogg Community College
+          1  SULI       Kalamazoo College
+          1  SULI       Hope College
+          1  SULI       Western Michigan University
+```
 ---
 ---
 <a name="MI-01"></a>
 [Back to top](#top)
 ## MI-01 -- Rep. Jack Bergman (R) -- [Wikipedia](https://en.wikipedia.org/wiki/MI-01)
-### Committees
-Jack Bergman is not on any of our key committees 
+## Committees
+Jack Bergman is not on any of our key committees. 
 
-### HEP Grants
+## HEP Grants
 In the past 8 years, this district has received:<b> $890,000 </b>in SC HEP grants.
 ```
 Institution                          Amount ($)    Start    End  Principal Investigator    Project Title
@@ -88,11 +112,11 @@ Michigan Technological University             0     2014   2015  Nitz, David    
 Michigan Technological University       385,000     2014   2016  Nitz, David               Studies of Particle Astrophysics at the Cosmic Frontier
 MICHIGAN TECH. UNIVERSITY               505,000     2012   2014  Nitz                      Studies of High Energy Particle Astrophysics
 ```
-### SC Contracts
+## SC Contracts
 ```
 This district received no SC contracts from 2012-2019
 ```
-### NSF MPS Grants
+## NSF MPS Grants
 In the past 8 years, this district has received:<b> $8,573,398 </b>in NSF MPS grants.
 ```
   Year  Institution                          Amount ($)
@@ -106,18 +130,29 @@ In the past 8 years, this district has received:<b> $8,573,398 </b>in NSF MPS gr
   2013  MICHIGAN TECHNOLOGICAL UNIVERSITY       767,531
   2012  MICHIGAN TECHNOLOGICAL UNIVERSITY     2,561,774
 ```
+## SULI/CCI Interns
+From 2014-2016 (only years available), this district had 5 SULI/CCI interns
+```
+Term         Name              College                            Host Lab                     Program
+-----------  ----------------  ---------------------------------  ---------------------------  ---------
+Summer 2016  Emily Carol Ross  Northern Michigan University       Ames National Laboratory     SULI
+Summer 2015  Alexander Lurie   Michigan Technological University  Argonne National Laboratory  SULI
+Summer 2015  Matthew Trefilek  Northern Michigan University       Argonne National Laboratory  SULI
+Summer 2015  Daniel Wilbern    Northern Michigan University       Argonne National Laboratory  SULI
+Summer 2014  Alexander Lurie   Michigan Technological University  Argonne National Laboratory  SULI
+```
 ---
 <a name="MI-02"></a>
 [Back to top](#top)
 ## MI-02 -- Rep. Bill Huizenga (R) -- [Wikipedia](https://en.wikipedia.org/wiki/MI-02)
-### Committees
-Bill Huizenga is not on any of our key committees 
+## Committees
+Bill Huizenga is not on any of our key committees. 
 
-### HEP Grants
+## HEP Grants
 ```
 This district received no SC HEP grants from 2012-2019
 ```
-### SC Contracts
+## SC Contracts
 In the past 8 years, this district has received:
 2 Office of Science contracts, totalling <b> $21,274</b>
 ```
@@ -125,7 +160,7 @@ In the past 8 years, this district has received:
 ------  -------------------  ------------  ----------------
   2016  HERMAN MILLER, INC.        21,274  OFFICE FURNITURE
 ```
-### NSF MPS Grants
+## NSF MPS Grants
 In the past 8 years, this district has received:<b> $3,387,740 </b>in NSF MPS grants.
 ```
   Year  Institution                      Amount ($)
@@ -142,22 +177,31 @@ In the past 8 years, this district has received:<b> $3,387,740 </b>in NSF MPS gr
   2013  HOPE COLLEGE                        669,106
   2012  HOPE COLLEGE                        690,348
 ```
+## SULI/CCI Interns
+From 2014-2016 (only years available), this district had 3 SULI/CCI interns
+```
+Term         Name                      College                        Host Lab                       Program
+-----------  ------------------------  -----------------------------  -----------------------------  ---------
+Summer 2016  Adam Michael Terwilliger  Grand Valley State University  Oak Ridge National Laboratory  SULI
+Summer 2014  Michael Andrew Barrows    Hope College                   Argonne National Laboratory    SULI
+Summer 2014  Danielle Rose Harris      Grand Valley State University  Argonne National Laboratory    SULI
+```
 ---
 <a name="MI-03"></a>
 [Back to top](#top)
 ## MI-03 -- Rep. Justin Amash (R) -- [Wikipedia](https://en.wikipedia.org/wiki/MI-03)
-### Committees
-Justin Amash is not on any of our key committees 
+## Committees
+Justin Amash is not on any of our key committees. 
 
-### HEP Grants
+## HEP Grants
 ```
 This district received no SC HEP grants from 2012-2019
 ```
-### SC Contracts
+## SC Contracts
 ```
 This district received no SC contracts from 2012-2019
 ```
-### NSF MPS Grants
+## NSF MPS Grants
 In the past 8 years, this district has received:<b> $1,855,351 </b>in NSF MPS grants.
 ```
   Year  Institution       Amount ($)
@@ -169,22 +213,30 @@ In the past 8 years, this district has received:<b> $1,855,351 </b>in NSF MPS gr
   2013  CALVIN COLLEGE       432,128
   2012  CALVIN COLLEGE       301,720
 ```
+## SULI/CCI Interns
+From 2014-2016 (only years available), this district had 2 SULI/CCI interns
+```
+Term         Name                  College                    Host Lab                       Program
+-----------  --------------------  -------------------------  -----------------------------  ---------
+Summer 2016  Stacie Schroll        Kellogg Community College  Argonne National Laboratory    SULI
+Fall 2014    Robin Genevieve Todd  Albion College             Oak Ridge National Laboratory  SULI
+```
 ---
 <a name="MI-04"></a>
 [Back to top](#top)
 ## MI-04 -- Rep. John R. Moolenaar (R) -- [Wikipedia](https://en.wikipedia.org/wiki/MI-04)
-### Committees
+## Committees
 John R. Moolenaar is the #21 Republican on the House Committee on Appropriations 
 
-### HEP Grants
+## HEP Grants
 ```
 This district received no SC HEP grants from 2012-2019
 ```
-### SC Contracts
+## SC Contracts
 ```
 This district received no SC contracts from 2012-2019
 ```
-### NSF MPS Grants
+## NSF MPS Grants
 In the past 8 years, this district has received:<b> $1,514,396 </b>in NSF MPS grants.
 ```
   Year  Institution                          Amount ($)
@@ -193,22 +245,30 @@ In the past 8 years, this district has received:<b> $1,514,396 </b>in NSF MPS gr
   2017  CENTRAL MICHIGAN UNIVERSITY (INC)       899,855
   2016  CENTRAL MICHIGAN UNIVERSITY (INC)       263,693
 ```
+## SULI/CCI Interns
+From 2014-2016 (only years available), this district had 2 SULI/CCI interns
+```
+Term         Name                   College                          Host Lab                               Program
+-----------  ---------------------  -------------------------------  -------------------------------------  ---------
+Summer 2014  Alexander Hegedus      Alma College                     Lawrence Berkeley National Laboratory  SULI
+Summer 2014  Daniel Patrick Weller  Saginaw Valley State University  Ames National Laboratory               SULI
+```
 ---
 <a name="MI-05"></a>
 [Back to top](#top)
 ## MI-05 -- Rep. Daniel T. Kildee (D) -- [Wikipedia](https://en.wikipedia.org/wiki/MI-05)
-### Committees
-Daniel T. Kildee is not on any of our key committees 
+## Committees
+Daniel T. Kildee is not on any of our key committees. 
 
-### HEP Grants
+## HEP Grants
 ```
 This district received no SC HEP grants from 2012-2019
 ```
-### SC Contracts
+## SC Contracts
 ```
 This district received no SC contracts from 2012-2019
 ```
-### NSF MPS Grants
+## NSF MPS Grants
 In the past 8 years, this district has received:<b> $1,181,558 </b>in NSF MPS grants.
 ```
   Year  Institution             Amount ($)
@@ -217,18 +277,26 @@ In the past 8 years, this district has received:<b> $1,181,558 </b>in NSF MPS gr
   2014  KETTERING UNIVERSITY       560,150
   2013  KETTERING UNIVERSITY        77,808
 ```
+## SULI/CCI Interns
+From 2014-2016 (only years available), this district had 2 SULI/CCI interns
+```
+Term         Name               College                       Host Lab                  Program
+-----------  -----------------  ----------------------------  ------------------------  ---------
+Summer 2016  David Lloyd Poole  University of Michigan-Flint  Ames National Laboratory  SULI
+Summer 2016  Brad James Ryan    Scott Community College       Ames National Laboratory  SULI
+```
 ---
 <a name="MI-06"></a>
 [Back to top](#top)
 ## MI-06 -- Rep. Fred Upton (R) -- [Wikipedia](https://en.wikipedia.org/wiki/MI-06)
-### Committees
+## Committees
 Fred Upton is the #2 Republican on the House Committee on Energy and Commerce 
 
-### HEP Grants
+## HEP Grants
 ```
 This district received no SC HEP grants from 2012-2019
 ```
-### SC Contracts
+## SC Contracts
 In the past 8 years, this district has received:
 1 Office of Science contracts, totalling <b> $6,300</b>
 ```
@@ -236,7 +304,7 @@ In the past 8 years, this district has received:
 ------  ------------------------------  ------------  -------------------------------
   2016  USER FRIENDLY CONSULTING, INC.         6,300  INFORMATION TECHNOLOGY SOFTWARE
 ```
-### NSF MPS Grants
+## NSF MPS Grants
 In the past 8 years, this district has received:<b> $4,301,528 </b>in NSF MPS grants.
 ```
   Year  Institution                    Amount ($)
@@ -252,33 +320,47 @@ In the past 8 years, this district has received:<b> $4,301,528 </b>in NSF MPS gr
   2012  KALAMAZOO COLLEGE                  45,000
   2012  WESTERN MICHIGAN UNIVERSITY       225,000
 ```
+## SULI/CCI Interns
+From 2014-2016 (only years available), this district had 4 SULI/CCI interns
+```
+Term         Name                    College                      Host Lab                     Program
+-----------  ----------------------  ---------------------------  ---------------------------  ---------
+Summer 2016  John-Luke N Navarro     Andrews University           Argonne National Laboratory  SULI
+Summer 2016  Omid Tafti              Kalamazoo College            Argonne National Laboratory  SULI
+Summer 2015  Louis Raymond Piccione  Western Michigan University  Argonne National Laboratory  SULI
+Summer 2014  Thomas Zirkle           Andrews University           Argonne National Laboratory  SULI
+```
 ---
 <a name="MI-07"></a>
 [Back to top](#top)
 ## MI-07 -- Rep. Tim Walberg (R) -- [Wikipedia](https://en.wikipedia.org/wiki/MI-07)
-### Committees
+## Committees
 Tim Walberg is the #21 Republican on the House Committee on Energy and Commerce 
 
-### HEP Grants
+## HEP Grants
 ```
 This district received no SC HEP grants from 2012-2019
 ```
-### SC Contracts
+## SC Contracts
 ```
 This district received no SC contracts from 2012-2019
 ```
-### NSF MPS Grants
+## NSF MPS Grants
 ```
 This district received no NSF MPS grants from 2012-2019
+```
+## SULI/CCI Interns
+```
+This district had no SULI/CCI interns from 2014-2016 (only years available)
 ```
 ---
 <a name="MI-08"></a>
 [Back to top](#top)
 ## MI-08 -- Rep. Elissa Slotkin (D) -- [Wikipedia](https://en.wikipedia.org/wiki/MI-08)
-### Committees
-Elissa Slotkin is not on any of our key committees 
+## Committees
+Elissa Slotkin is not on any of our key committees. 
 
-### HEP Grants
+## HEP Grants
 In the past 8 years, this district has received:<b> $5,739,000 </b>in SC HEP grants.
 ```
 Institution                  Amount ($)    Start  End      Principal Investigator    Project Title
@@ -296,7 +378,7 @@ MICHIGAN STATE UNIVERSITY             0     2013  2014     Bieler               
 MICHIGAN STATE UNIVERSITY       200,000     2013  2014     Bieler                    The Cost of Grain Boundaries on the Performance of Superconducting Cavities
 MICHIGAN STATE UNIVERSITY       699,000     2012  2014     Berz                      Advanced Map Methods for the Description of Particle Beam Dynamics
 ```
-### SC Contracts
+## SC Contracts
 In the past 8 years, this district has received:
 1 Office of Science contracts, totalling <b> $3,816</b>
 ```
@@ -304,7 +386,7 @@ In the past 8 years, this district has received:
 ------  ----------  ------------  ----------------------------------------------------------------------------------
   2012  MOMAR INC.         3,816  EQUIPMENT AND MATERIALS TESTING- WATER PURIFICATION AND SEWAGE TREATMENT EQUIPMENT
 ```
-### NSF MPS Grants
+## NSF MPS Grants
 In the past 8 years, this district has received:<b> $232,017,007 </b>in NSF MPS grants.
 ```
   Year  Institution                  Amount ($)
@@ -322,44 +404,68 @@ In the past 8 years, this district has received:<b> $232,017,007 </b>in NSF MPS 
   2013  OAKLAND UNIVERSITY               44,999
   2012  MICHIGAN STATE UNIVERSITY    29,439,755
 ```
+## SULI/CCI Interns
+From 2014-2016 (only years available), this district had 14 SULI/CCI interns
+```
+Term         Name                      College                    Host Lab                               Program
+-----------  ------------------------  -------------------------  -------------------------------------  ---------
+Summer 2016  Monika Alexandra Molenda  Oakland University         Oak Ridge National Laboratory          SULI
+Summer 2016  Dawei Chen                Michigan State University  Pacific Northwest National Laboratory  SULI
+Summer 2016  Zack Elkordy              Michigan State University  Argonne National Laboratory            SULI
+Summer 2016  Koji Foreman              Michigan State University  Savannah River National Laboratory     SULI
+Summer 2016  Ruthann Gregory           Michigan State University  Argonne National Laboratory            SULI
+Summer 2016  Hananiel Setiawan         Michigan State University  SLAC National Accelerator Laboratory   SULI
+Summer 2016  Joel William Zuzelski     Michigan State University  Argonne National Laboratory            SULI
+Summer 2015  Caitlin Paige O'Neill     Michigan State University  Oak Ridge National Laboratory          SULI
+Summer 2015  Allison M Stettler        Michigan State University  Lawrence Berkeley National Laboratory  SULI
+Summer 2014  Bryan Paul Jagielo        Oakland University         Argonne National Laboratory            SULI
+Summer 2014  Hoang Cao Nguyen          Michigan State University  SLAC National Accelerator Laboratory   SULI
+Summer 2014  Caitlin Paige O'Neill     Michigan State University  Lawrence Berkeley National Laboratory  SULI
+Summer 2014  Kyle Seewald              Michigan State University  Brookhaven National Laboratory         SULI
+Fall 2014    Tyler Rhinesmith          Michigan State University  Pacific Northwest National Laboratory  SULI
+```
 ---
 <a name="MI-09"></a>
 [Back to top](#top)
 ## MI-09 -- Rep. Andy Levin (D) -- [Wikipedia](https://en.wikipedia.org/wiki/MI-09)
-### Committees
+## Committees
 Andy Levin is the #11 Democrat on the House Subcommittee on Higher Education and Workforce Development 
 
-### HEP Grants
+## HEP Grants
 ```
 This district received no SC HEP grants from 2012-2019
 ```
-### SC Contracts
+## SC Contracts
 ```
 This district received no SC contracts from 2012-2019
 ```
-### NSF MPS Grants
+## NSF MPS Grants
 In the past 8 years, this district has received:<b> $799,261 </b>in NSF MPS grants.
 ```
   Year  Institution           Amount ($)
 ------  ------------------  ------------
   2012  OAKLAND UNIVERSITY       799,261
 ```
+## SULI/CCI Interns
+```
+This district had no SULI/CCI interns from 2014-2016 (only years available)
+```
 ---
 <a name="MI-10"></a>
 [Back to top](#top)
 ## MI-10 -- Rep. Paul Mitchell (R) -- [Wikipedia](https://en.wikipedia.org/wiki/MI-10)
-### Committees
-Paul Mitchell is not on any of our key committees 
+## Committees
+Paul Mitchell is not on any of our key committees. 
 
-### HEP Grants
+## HEP Grants
 ```
 This district received no SC HEP grants from 2012-2019
 ```
-### SC Contracts
+## SC Contracts
 ```
 This district received no SC contracts from 2012-2019
 ```
-### NSF MPS Grants
+## NSF MPS Grants
 In the past 8 years, this district has received:<b> $1,529,107 </b>in NSF MPS grants.
 ```
   Year  Institution                          Amount ($)
@@ -368,26 +474,30 @@ In the past 8 years, this district has received:<b> $1,529,107 </b>in NSF MPS gr
   2013  CENTRAL MICHIGAN UNIVERSITY (INC)       298,471
   2012  CENTRAL MICHIGAN UNIVERSITY (INC)       556,615
 ```
+## SULI/CCI Interns
+```
+This district had no SULI/CCI interns from 2014-2016 (only years available)
+```
 ---
 <a name="MI-11"></a>
 [Back to top](#top)
 ## MI-11 -- Rep. Haley M. Stevens (D) -- [Wikipedia](https://en.wikipedia.org/wiki/MI-11)
-### Committees
+## Committees
 Haley M. Stevens is the #4 Democrat on the House Committee on Science, Space, and Technology; Subcommittee on Energy 
 
 Haley M. Stevens is the #8 Democrat on the House Committee on Science, Space, and Technology 
 
 Haley M. Stevens is the #1 Democrat on the House Committee on Science, Space, and Technology; Subcommittee on Research and Technology 
 
-### HEP Grants
+## HEP Grants
 ```
 This district received no SC HEP grants from 2012-2019
 ```
-### SC Contracts
+## SC Contracts
 ```
 This district received no SC contracts from 2012-2019
 ```
-### NSF MPS Grants
+## NSF MPS Grants
 In the past 8 years, this district has received:<b> $997,974 </b>in NSF MPS grants.
 ```
   Year  Institution           Amount ($)
@@ -396,14 +506,18 @@ In the past 8 years, this district has received:<b> $997,974 </b>in NSF MPS gran
   2014  OAKLAND UNIVERSITY       123,686
   2013  OAKLAND UNIVERSITY       233,994
 ```
+## SULI/CCI Interns
+```
+This district had no SULI/CCI interns from 2014-2016 (only years available)
+```
 ---
 <a name="MI-12"></a>
 [Back to top](#top)
 ## MI-12 -- Rep. Debbie Dingell (D) -- [Wikipedia](https://en.wikipedia.org/wiki/MI-12)
-### Committees
+## Committees
 Debbie Dingell is the #23 Democrat on the House Committee on Energy and Commerce 
 
-### HEP Grants
+## HEP Grants
 In the past 8 years, this district has received:<b> $19,141,000 </b>in SC HEP grants.
 ```
 Institution               Amount ($)    Start  End      Principal Investigator    Project Title
@@ -430,11 +544,11 @@ University of Michigan             0     2014  2015     Schubnell, Michael      
 University of Michigan       176,000     2014  2015     Levin, Daniel             Plasma Panel Sensors for High Energy Physics
 University of Michigan        29,000     2014  2015     Pierce, Aaron             High Energy Theory Workshops and Visitors at the Michigan Center for Theoretical Physics FY15
 ```
-### SC Contracts
+## SC Contracts
 ```
 This district received no SC contracts from 2012-2019
 ```
-### NSF MPS Grants
+## NSF MPS Grants
 In the past 8 years, this district has received:<b> $101,552,314 </b>in NSF MPS grants.
 ```
   Year  Institution                              Amount ($)
@@ -450,14 +564,44 @@ In the past 8 years, this district has received:<b> $101,552,314 </b>in NSF MPS 
   2014  REGENTS OF THE UNIVERSITY OF MICHIGAN    13,104,431
   2013  REGENTS OF THE UNIVERSITY OF MICHIGAN    21,027,643
 ```
+## SULI/CCI Interns
+From 2014-2016 (only years available), this district had 24 SULI/CCI interns
+```
+Term         Name                        College                           Host Lab                                Program
+-----------  --------------------------  --------------------------------  --------------------------------------  ---------
+Summer 2016  Alan Xu                     University of Michigan-Ann Arbor  Argonne National Laboratory             SULI
+Summer 2016  Antonia Emilia Wuschner     University of Michigan-Ann Arbor  Argonne National Laboratory             SULI
+Summer 2016  Hanna Schamis               University of Michigan-Ann Arbor  Princeton Plasma Physics Laboratory     SULI
+Summer 2016  Juan Diego Riquezes         University of Michigan-Ann Arbor  Princeton Plasma Physics Laboratory     SULI
+Summer 2016  Jared Molesky               University of Michigan-Ann Arbor  Brookhaven National Laboratory          SULI
+Summer 2016  Catherine Haslam            University of Michigan-Ann Arbor  National Renewable Energy Laboratory    SULI
+Summer 2016  Samuel Frank                University of Michigan-Ann Arbor  Princeton Plasma Physics Laboratory     SULI
+Summer 2016  Miles Raleigh Denudt        University of Michigan-Ann Arbor  Argonne National Laboratory             SULI
+Summer 2016  Jacqueline Nicole Beechert  University of Michigan-Ann Arbor  SLAC National Accelerator Laboratory    SULI
+Summer 2015  Paul Robert Parker          University of Michigan-Ann Arbor  Lawrence Livermore National Laboratory  SULI
+Summer 2015  Nathaniel Edward Wirgau     University of Michigan-Ann Arbor  Princeton Plasma Physics Laboratory     SULI
+Summer 2015  Hanna Schamis               University of Michigan-Ann Arbor  Princeton Plasma Physics Laboratory     SULI
+Summer 2015  Erin Moser                  University of Michigan-Ann Arbor  Pacific Northwest National Laboratory   SULI
+Summer 2015  Jessica Micallef            University of Michigan-Ann Arbor  Lawrence Berkeley National Laboratory   SULI
+Summer 2015  Albert Liu                  University of Michigan-Ann Arbor  Los Alamos National Laboratory          SULI
+Summer 2015  Anthony Gorney              University of Michigan-Ann Arbor  Argonne National Laboratory             SULI
+Summer 2015  Graham William Dominick     University of Michigan-Ann Arbor  National Renewable Energy Laboratory    SULI
+Summer 2015  Thomas Allen Deeds          University of Michigan-Ann Arbor  National Renewable Energy Laboratory    SULI
+Summer 2014  David Cinquegrani           University of Michigan-Ann Arbor  Brookhaven National Laboratory          SULI
+Summer 2014  Erin Moser                  University of Michigan-Ann Arbor  Pacific Northwest National Laboratory   SULI
+Summer 2014  Ryan Levy                   University of Michigan-Ann Arbor  Oak Ridge National Laboratory           SULI
+Summer 2014  Diamant Kurteshi            University of Michigan-Ann Arbor  Ames National Laboratory                SULI
+Spring 2014  Bunheng Ty                  University of Michigan-Dearborn   Brookhaven National Laboratory          SULI
+Fall 2015    Bardia Nadim                University of Michigan-Ann Arbor  Argonne National Laboratory             SULI
+```
 ---
 <a name="MI-13"></a>
 [Back to top](#top)
 ## MI-13 -- Rep. Rashida Tlaib (D) -- [Wikipedia](https://en.wikipedia.org/wiki/MI-13)
-### Committees
-Rashida Tlaib is not on any of our key committees 
+## Committees
+Rashida Tlaib is not on any of our key committees. 
 
-### HEP Grants
+## HEP Grants
 In the past 8 years, this district has received:<b> $3,905,000 </b>in SC HEP grants.
 ```
 Institution               Amount ($)    Start  End      Principal Investigator    Project Title
@@ -468,11 +612,11 @@ Wayne State University        29,000     2014  2015     Paz, Gil                
 WAYNE STATE UNIVERSITY        30,000     2013  2014     Paz                       Theoretical Particle Physics Research Program
 WAYNE STATE UNIVERSITY       952,000     2012  2014     Karchin                   Particle Physics Research Program
 ```
-### SC Contracts
+## SC Contracts
 ```
 This district received no SC contracts from 2012-2019
 ```
-### NSF MPS Grants
+## NSF MPS Grants
 In the past 8 years, this district has received:<b> $16,638,087 </b>in NSF MPS grants.
 ```
   Year  Institution                     Amount ($)
@@ -489,28 +633,39 @@ In the past 8 years, this district has received:<b> $16,638,087 </b>in NSF MPS g
   2013  WAYNE STATE UNIVERSITY (INC)     1,999,173
   2012  WAYNE STATE UNIVERSITY (INC)     3,474,845
 ```
+## SULI/CCI Interns
+```
+This district had no SULI/CCI interns from 2014-2016 (only years available)
+```
 ---
 <a name="MI-14"></a>
 [Back to top](#top)
 ## MI-14 -- Rep. Brenda L. Lawrence (D) -- [Wikipedia](https://en.wikipedia.org/wiki/MI-14)
-### Committees
+## Committees
 Brenda L. Lawrence is the #4 Democrat on the House Appropriations Subcommittee on Commerce, Justice, and Science 
 
 Brenda L. Lawrence is the #26 Democrat on the House Committee on Appropriations 
 
-### HEP Grants
+## HEP Grants
 ```
 This district received no SC HEP grants from 2012-2019
 ```
-### SC Contracts
+## SC Contracts
 ```
 This district received no SC contracts from 2012-2019
 ```
-### NSF MPS Grants
+## NSF MPS Grants
 In the past 8 years, this district has received:<b> $5,800 </b>in NSF MPS grants.
 ```
   Year  Institution                    Amount ($)
 ------  ---------------------------  ------------
   2013  UNIVERSITY OF DETROIT MERCY         5,800
+```
+## SULI/CCI Interns
+From 2014-2016 (only years available), this district had 1 SULI/CCI intern
+```
+Term         Name                 College                            Host Lab                       Program
+-----------  -------------------  ---------------------------------  -----------------------------  ---------
+Summer 2014  Ryan Joseph Daniels  Lawrence Technological University  Oak Ridge National Laboratory  SULI
 ```
 ---

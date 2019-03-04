@@ -11,7 +11,7 @@ permalink : /states/RI/
 
 # RI -- Sen. Sheldon Whitehouse (D) and  Sen. Jack Reed (D)
 ## Committees
-Sheldon Whitehouse is not on any of our key committees 
+Sheldon Whitehouse is not on any of our key committees. 
 
 Jack Reed is the #4 Democrat on the Senate Appropriations Subcommittee on Commerce, Justice, Science, and Related Agencies 
 
@@ -31,7 +31,7 @@ In the past 8 years, this state has received:
   2013  BROWN UNIVERSITY     2,630,000
   2012  BROWN UNIVERSITY     1,976,000
 ```
-### SC Contracts
+## SC Contracts
 ```
 This state received no SC contracts from 2012-2019
 ```
@@ -57,15 +57,25 @@ PROVIDENCE COLLEGE                                                              
 GORDON RES CONFERENCES                                                                        90,000
 RHODE ISLAND COLLEGE (INC)                                                                    59,955
 ```
+## SULI/CCI Interns
+From 2014-2016 (only years available), this district had 14 SULI/CCI interns
+```
+  # Interns  Program    College
+-----------  ---------  --------------------------
+          8  SULI       Brown University
+          4  SULI       University of Rhode Island
+          1  CCI        Brown University
+          1  SULI       Providence College
+```
 ---
 ---
 <a name="RI-01"></a>
 [Back to top](#top)
 ## RI-01 -- Rep. David N. Cicilline (D) -- [Wikipedia](https://en.wikipedia.org/wiki/RI-01)
-### Committees
-David N. Cicilline is not on any of our key committees 
+## Committees
+David N. Cicilline is not on any of our key committees. 
 
-### HEP Grants
+## HEP Grants
 In the past 8 years, this district has received:<b> $13,360,000 </b>in SC HEP grants.
 ```
 Institution         Amount ($)    Start  End      Principal Investigator    Project Title
@@ -80,11 +90,11 @@ BROWN UNIVERSITY     1,611,000     2013  2014     Cutts                     A Re
 BROWN UNIVERSITY     2,695,000     2012  2014     Cutts                     A Research Program in Theoretical and Experimental High Energy Physics
 BROWN UNIVERSITY       300,000     2012  2014     Volovich                  Miracles in Scattering Amplitudes: from QCD to Gravity
 ```
-### SC Contracts
+## SC Contracts
 ```
 This district received no SC contracts from 2012-2019
 ```
-### NSF MPS Grants
+## NSF MPS Grants
 In the past 8 years, this district has received:<b> $58,862,363 </b>in NSF MPS grants.
 ```
   Year  Institution                                                                               Amount ($)
@@ -110,22 +120,37 @@ In the past 8 years, this district has received:<b> $58,862,363 </b>in NSF MPS g
   2012  BROWN UNIVERSITY IN PROVIDENCE IN STATE OF RI                                              9,184,694
   2012  AMERICAN MATHEMATICAL SOCIETY INC                                                            538,110
 ```
+## SULI/CCI Interns
+From 2014-2016 (only years available), this district had 9 SULI/CCI interns
+```
+Term         Name                      College           Host Lab                               Program
+-----------  ------------------------  ----------------  -------------------------------------  ---------
+Summer 2016  Jessica Lillian Cheng     Brown University  Princeton Plasma Physics Laboratory    SULI
+Summer 2016  Matthew Einar Petersen    Brown University  Argonne National Laboratory            SULI
+Summer 2015  Danna Nozik               Brown University  Argonne National Laboratory            SULI
+Summer 2015  Richard Alexander Oliver  Brown University  Princeton Plasma Physics Laboratory    SULI
+Summer 2015  Matthew Aaron Pearson     Brown University  Brookhaven National Laboratory         SULI
+Summer 2015  Ariel Marie Stolz         Brown University  Brookhaven National Laboratory         SULI
+Summer 2015  Michelle Renee Gantos     Brown University  Lawrence Berkeley National Laboratory  CCI
+Summer 2014  Jeff Baum                 Brown University  Idaho National Laboratory              SULI
+Summer 2014  Yue Zhang                 Brown University  Lawrence Berkeley National Laboratory  SULI
+```
 ---
 <a name="RI-02"></a>
 [Back to top](#top)
 ## RI-02 -- Rep. James R. Langevin (D) -- [Wikipedia](https://en.wikipedia.org/wiki/RI-02)
-### Committees
-James R. Langevin is not on any of our key committees 
+## Committees
+James R. Langevin is not on any of our key committees. 
 
-### HEP Grants
+## HEP Grants
 ```
 This district received no SC HEP grants from 2012-2019
 ```
-### SC Contracts
+## SC Contracts
 ```
 This district received no SC contracts from 2012-2019
 ```
-### NSF MPS Grants
+## NSF MPS Grants
 In the past 8 years, this district has received:<b> $4,807,178 </b>in NSF MPS grants.
 ```
   Year  Institution                                      Amount ($)
@@ -150,5 +175,16 @@ In the past 8 years, this district has received:<b> $4,807,178 </b>in NSF MPS gr
   2013  BROWN UNIVERSITY IN PROVIDENCE IN STATE OF RI     1,423,408
   2012  RHODE ISLAND COLLEGE (INC)                           19,999
   2012  GORDON RESEARCH CONFERENCES INC                     321,689
+```
+## SULI/CCI Interns
+From 2014-2016 (only years available), this district had 5 SULI/CCI interns
+```
+Term         Name                  College                     Host Lab                        Program
+-----------  --------------------  --------------------------  ------------------------------  ---------
+Summer 2016  Emily Tacopina        University of Rhode Island  Brookhaven National Laboratory  SULI
+Summer 2015  Patrick Carroll       University of Rhode Island  Brookhaven National Laboratory  SULI
+Summer 2015  James Charles Lynch   University of Rhode Island  Oak Ridge National Laboratory   SULI
+Summer 2015  Cayla Anglea Stifler  Providence College          Brookhaven National Laboratory  SULI
+Summer 2014  Ronald Sadlier        University of Rhode Island  Oak Ridge National Laboratory   SULI
 ```
 ---

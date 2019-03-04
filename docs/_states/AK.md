@@ -27,7 +27,7 @@ Dan Sullivan is the #7 Republican on the Senate Committee on Commerce, Science, 
 ```
 This state received no SC HEP grants from 2012-2019
 ```
-### SC Contracts
+## SC Contracts
 In the past 8 years, this state has received:
 1 Office of Science contracts, totalling <b> $3,944</b>
 ```
@@ -46,19 +46,26 @@ UNIVERSITY OF ALASKA ANCHORAGE       432,467
 UNIVERSITY OF ALASKA SOUTHEAST        96,808
 U OF ALASKA FAIRBANKS                 42,000
 ```
+## SULI/CCI Interns
+From 2014-2016 (only years available), this district had 1 SULI/CCI intern
+```
+  # Interns  Program    College
+-----------  ---------  ------------------------------
+          1  SULI       University of Alaska Anchorage
+```
 ---
 ---
 <a name="AK-00"></a>
 [Back to top](#top)
 ## AK-00 -- Rep. Don Young (R) -- [Wikipedia](https://en.wikipedia.org/wiki/AK-00)
-### Committees
-Don Young is not on any of our key committees 
+## Committees
+Don Young is not on any of our key committees. 
 
-### HEP Grants
+## HEP Grants
 ```
 This district received no SC HEP grants from 2012-2019
 ```
-### SC Contracts
+## SC Contracts
 In the past 8 years, this district has received:
 1 Office of Science contracts, totalling <b> $3,944</b>
 ```
@@ -66,7 +73,7 @@ In the past 8 years, this district has received:
 ------  ----------------------------------------  ------------  ---------------------------------------
   2014  COPPER RIVER INFORMATION TECHNOLOGY, LLC         3,944  MINI AND MICRO COMPUTER CONTROL DEVICES
 ```
-### NSF MPS Grants
+## NSF MPS Grants
 In the past 8 years, this district has received:<b> $1,460,723 </b>in NSF MPS grants.
 ```
   Year  Institution                       Amount ($)
@@ -82,5 +89,12 @@ In the past 8 years, this district has received:<b> $1,460,723 </b>in NSF MPS gr
   2014  UNIVERSITY OF ALASKA FAIRBANKS       286,670
   2013  UNIVERSITY OF ALASKA FAIRBANKS       156,515
   2012  UNIVERSITY OF ALASKA FAIRBANKS       152,000
+```
+## SULI/CCI Interns
+From 2014-2016 (only years available), this district had 1 SULI/CCI intern
+```
+Term         Name                College                         Host Lab                               Program
+-----------  ------------------  ------------------------------  -------------------------------------  ---------
+Summer 2015  Skyler Jordan Kern  University of Alaska Anchorage  Lawrence Berkeley National Laboratory  SULI
 ```
 ---

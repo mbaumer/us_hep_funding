@@ -27,7 +27,7 @@ University of Connecticut     1,239,000
 UNIVERSITY OF CONNECTICUT       265,000
 FAIRFIELD UNIVERSITY             31,000
 ```
-### SC Contracts
+## SC Contracts
 ```
 This state received no SC contracts from 2012-2019
 ```
@@ -52,23 +52,36 @@ CONNECTICUT AGRICULTURAL EXPERIMENT STATION, THE       292,391
 UNIVERSITY OF NEW HAVEN, INCORPORATED                  269,463
 PII REDACTED                                           150,000
 ```
+## SULI/CCI Interns
+From 2014-2016 (only years available), this district had 21 SULI/CCI interns
+```
+  # Interns  Program    College
+-----------  ---------  ------------------------------------
+          7  SULI       Yale University
+          6  SULI       University of Connecticut
+          3  CCI        Three Rivers Community College
+          2  SULI       Wesleyan University
+          1  SULI       Eastern Connecticut State University
+          1  SULI       Trinity College
+          1  SULI       University of Hartford
+```
 ---
 ---
 <a name="CT-01"></a>
 [Back to top](#top)
 ## CT-01 -- Rep. John B. Larson (D) -- [Wikipedia](https://en.wikipedia.org/wiki/CT-01)
-### Committees
-John B. Larson is not on any of our key committees 
+## Committees
+John B. Larson is not on any of our key committees. 
 
-### HEP Grants
+## HEP Grants
 ```
 This district received no SC HEP grants from 2012-2019
 ```
-### SC Contracts
+## SC Contracts
 ```
 This district received no SC contracts from 2012-2019
 ```
-### NSF MPS Grants
+## NSF MPS Grants
 In the past 8 years, this district has received:<b> $569,848 </b>in NSF MPS grants.
 ```
   Year  Institution        Amount ($)
@@ -77,14 +90,22 @@ In the past 8 years, this district has received:<b> $569,848 </b>in NSF MPS gran
   2015  TRINITY COLLEGE       234,956
   2014  TRINITY COLLEGE       105,772
 ```
+## SULI/CCI Interns
+From 2014-2016 (only years available), this district had 2 SULI/CCI interns
+```
+Term         Name                   College                 Host Lab                              Program
+-----------  ---------------------  ----------------------  ------------------------------------  ---------
+Summer 2016  Erin Elizabeth Wenger  University of Hartford  National Renewable Energy Laboratory  SULI
+Summer 2014  Anne Do                Trinity College         Brookhaven National Laboratory        SULI
+```
 ---
 <a name="CT-02"></a>
 [Back to top](#top)
 ## CT-02 -- Rep. Joe Courtney (D) -- [Wikipedia](https://en.wikipedia.org/wiki/CT-02)
-### Committees
+## Committees
 Joe Courtney is the #3 Democrat on the House Subcommittee on Higher Education and Workforce Development 
 
-### HEP Grants
+## HEP Grants
 In the past 8 years, this district has received:<b> $1,504,000 </b>in SC HEP grants.
 ```
 Institution                  Amount ($)    Start  End      Principal Investigator    Project Title
@@ -93,11 +114,11 @@ University of Connecticut     1,239,000     2014  Ongoing  Dunne, Gerald        
 UNIVERSITY OF CONNECTICUT             0     2013  2014     Dunne                     Theoretical High Energy and Particle Physics
 UNIVERSITY OF CONNECTICUT       265,000     2012  2014     Dunne                     Investigations in Particle and Field Theory
 ```
-### SC Contracts
+## SC Contracts
 ```
 This district received no SC contracts from 2012-2019
 ```
-### NSF MPS Grants
+## NSF MPS Grants
 In the past 8 years, this district has received:<b> $22,614,131 </b>in NSF MPS grants.
 ```
   Year  Institution                  Amount ($)
@@ -112,14 +133,30 @@ In the past 8 years, this district has received:<b> $22,614,131 </b>in NSF MPS g
   2013  UNIVERSITY OF CONNECTICUT     2,711,482
   2012  UNIVERSITY OF CONNECTICUT     2,914,683
 ```
+## SULI/CCI Interns
+From 2014-2016 (only years available), this district had 10 SULI/CCI interns
+```
+Term         Name                   College                               Host Lab                                Program
+-----------  ---------------------  ------------------------------------  --------------------------------------  ---------
+Summer 2016  Madison Caballero      University of Connecticut             Pacific Northwest National Laboratory   SULI
+Summer 2016  Kaitlin Ruth Dennison  University of Connecticut             Lawrence Livermore National Laboratory  SULI
+Summer 2015  Kaitlin Ruth Dennison  University of Connecticut             Lawrence Livermore National Laboratory  SULI
+Summer 2015  Andrew Smith           University of Connecticut             Ames National Laboratory                SULI
+Summer 2015  Keith Combs            Three Rivers Community College        Brookhaven National Laboratory          CCI
+Summer 2015  Lee R. Combs           Three Rivers Community College        Brookhaven National Laboratory          CCI
+Summer 2014  Brittany Antonucci     University of Connecticut             Brookhaven National Laboratory          SULI
+Summer 2014  Nicholas Denegre       Eastern Connecticut State University  National Renewable Energy Laboratory    SULI
+Summer 2014  Lee R. Combs           Three Rivers Community College        Brookhaven National Laboratory          CCI
+Spring 2015  Robin Marcelle Cywar   University of Connecticut             National Renewable Energy Laboratory    SULI
+```
 ---
 <a name="CT-03"></a>
 [Back to top](#top)
 ## CT-03 -- Rep. Rosa L. DeLauro (D) -- [Wikipedia](https://en.wikipedia.org/wiki/CT-03)
-### Committees
+## Committees
 Rosa L. DeLauro is the #5 Democrat on the House Committee on Appropriations 
 
-### HEP Grants
+## HEP Grants
 In the past 8 years, this district has received:<b> $18,985,000 </b>in SC HEP grants.
 ```
 Institution        Amount ($)    Start  End      Principal Investigator      Project Title
@@ -143,11 +180,11 @@ YALE UNIVERSITY       309,000     2012  2013     Hirshfield                  Ka-
 YALE UNIVERSITY       153,000     2012  2014     Golling                     Search for New Phenomena in tt Events with Large Missing Transverse Momentum
 YALE UNIVERSITY       300,000     2012  2014     Demers                      Taus and the Trigger for Discovery at ATLAS
 ```
-### SC Contracts
+## SC Contracts
 ```
 This district received no SC contracts from 2012-2019
 ```
-### NSF MPS Grants
+## NSF MPS Grants
 In the past 8 years, this district has received:<b> $74,417,950 </b>in NSF MPS grants.
 ```
   Year  Institution                                         Amount ($)
@@ -180,25 +217,40 @@ In the past 8 years, this district has received:<b> $74,417,950 </b>in NSF MPS g
   2012  YALE UNIVERSITY                                      8,357,156
   2012  MULTIPLE RECIPIENTS                                    960,000
 ```
+## SULI/CCI Interns
+From 2014-2016 (only years available), this district had 9 SULI/CCI interns
+```
+Term         Name                         College              Host Lab                               Program
+-----------  ---------------------------  -------------------  -------------------------------------  ---------
+Summer 2016  Saisneha Koppaka             Yale University      Argonne National Laboratory            SULI
+Summer 2015  Douglas Kim-Tak Wong         Yale University      Los Alamos National Laboratory         SULI
+Summer 2015  Aleksandra Zakrzewska        Yale University      Oak Ridge National Laboratory          SULI
+Summer 2014  Carlos del-Castillo-Negrete  Yale University      Oak Ridge National Laboratory          SULI
+Summer 2014  Lori Kaufman                 Yale University      Argonne National Laboratory            SULI
+Summer 2014  Eli J Halperin               Wesleyan University  Lawrence Berkeley National Laboratory  SULI
+Summer 2014  Jacob Albert Lashner         Wesleyan University  SLAC National Accelerator Laboratory   SULI
+Spring 2014  Sagar Setru                  Yale University      Argonne National Laboratory            SULI
+Fall 2014    David Gabriel Rissman        Yale University      Princeton Plasma Physics Laboratory    SULI
+```
 ---
 <a name="CT-04"></a>
 [Back to top](#top)
 ## CT-04 -- Rep. James A. Himes (D) -- [Wikipedia](https://en.wikipedia.org/wiki/CT-04)
-### Committees
-James A. Himes is not on any of our key committees 
+## Committees
+James A. Himes is not on any of our key committees. 
 
-### HEP Grants
+## HEP Grants
 In the past 8 years, this district has received:<b> $31,000 </b>in SC HEP grants.
 ```
 Institution             Amount ($)    Start    End  Principal Investigator    Project Title
 --------------------  ------------  -------  -----  ------------------------  ----------------------------------------------------------
 FAIRFIELD UNIVERSITY        31,000     2012   2014  Winn                      Secondary Emission Sampling Calorimetry Sensor Development
 ```
-### SC Contracts
+## SC Contracts
 ```
 This district received no SC contracts from 2012-2019
 ```
-### NSF MPS Grants
+## NSF MPS Grants
 In the past 8 years, this district has received:<b> $1,629,997 </b>in NSF MPS grants.
 ```
   Year  Institution             Amount ($)
@@ -209,22 +261,26 @@ In the past 8 years, this district has received:<b> $1,629,997 </b>in NSF MPS gr
   2014  FAIRFIELD UNIVERSITY       428,500
   2012  FAIRFIELD UNIVERSITY        90,580
 ```
+## SULI/CCI Interns
+```
+This district had no SULI/CCI interns from 2014-2016 (only years available)
+```
 ---
 <a name="CT-05"></a>
 [Back to top](#top)
 ## CT-05 -- Rep. Jahana Hayes (D) -- [Wikipedia](https://en.wikipedia.org/wiki/CT-05)
-### Committees
+## Committees
 Jahana Hayes is the #3 Democrat on the House Subcommittee on Early Childhood, Elementary, and Secondary Education 
 
-### HEP Grants
+## HEP Grants
 ```
 This district received no SC HEP grants from 2012-2019
 ```
-### SC Contracts
+## SC Contracts
 ```
 This district received no SC contracts from 2012-2019
 ```
-### NSF MPS Grants
+## NSF MPS Grants
 In the past 8 years, this district has received:<b> $439,960 </b>in NSF MPS grants.
 ```
   Year  Institution                            Amount ($)
@@ -232,5 +288,9 @@ In the past 8 years, this district has received:<b> $439,960 </b>in NSF MPS gran
   2015  U OF CONN HEALTH CENTER                   374,980
   2015  UNIVERSITY OF CONNECTICUT                  15,000
   2013  CONNECTICUT STATE UNIVERSITY SYSTEM        49,980
+```
+## SULI/CCI Interns
+```
+This district had no SULI/CCI interns from 2014-2016 (only years available)
 ```
 ---

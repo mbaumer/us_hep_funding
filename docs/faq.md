@@ -17,6 +17,10 @@ In the US, HEP research is primarily funded by two scientific agencies, the **De
 #### 3. Grants from the NSF Directorate for Mathematical and Physical Sciences ("NSF MPS Grants") 
 > Again, not HEP-specific, (indeed, most of the grants listed will *not* be HEP-related), but this is relevant for Congressional advocacy. Since Congress does not have budgetary authority below the Directorate level, when advocating for HEP funding, we're necessarily advocating for funding the NSF MPS directorate. Data source: [USASpending.gov](https://www.usaspending.gov/#/download_center/award_data_archive)
 
+### What are the SULI and CCI programs?
+
+The Science Undergraduate Laboratory Internships (SULI) and Community College Internships (CCI) are programs that place undergraduates from four- and two-year degree programs across the nation at DOE laboratories for three-month internships to help students gain research experience and develop technical skills. These programs are funded through the DOE Office of Workforce Development for Teachers and Scientists (WDTS), but high-energy physicists mentor many of these students, making these programs a crucial contribution to HEP efforts to bolster a modern STEM workforce. Data from 2014-2016 is all that is presently available from the [SULI](https://science.energy.gov/wdts/suli/) and [CCI](https://science.energy.gov/wdts/cci/) websites.
+
 ### Why can't I see just Office of High-Energy Physics contracts, or just HEP-specific NSF MPS grants?
 
 Raw datasets published by government agencies can be--*ahem*--tricky to work with. There's missing data, inconsistent entries, and broad categories that can obscure trends of interest in the data. For example, DOE Office of Science contracts don't specify which sub-office funded them, making it impossible to display only DOE contracts from the Office of High Energy Physics. NSF Grants, similarly, aren't categorized more specifically than "Mathematical and Physical Sciences." 

@@ -29,7 +29,7 @@ Shelley Moore Capito is the #10 Republican on the Senate Committee on Commerce, 
 ```
 This state received no SC HEP grants from 2012-2019
 ```
-### SC Contracts
+## SC Contracts
 ```
 This state received no SC contracts from 2012-2019
 ```
@@ -50,23 +50,33 @@ In the past 8 years, this state has received:
   2012  MARSHALL UNIVERSITY RESEARCH CORPORATION            338,845
   2012  WEST VIRGINIA UNIVERSITY RESEARCH CORPORATION     2,347,751
 ```
+## SULI/CCI Interns
+From 2014-2016 (only years available), this district had 15 SULI/CCI interns
+```
+  # Interns  Program    College
+-----------  ---------  ------------------------------
+          8  SULI       West Virginia University
+          3  SULI       West Virginia Wesleyan College
+          2  SULI       Fairmont State University
+          2  SULI       Marshall University
+```
 ---
 ---
 <a name="WV-01"></a>
 [Back to top](#top)
 ## WV-01 -- Rep. David B. McKinley (R) -- [Wikipedia](https://en.wikipedia.org/wiki/WV-01)
-### Committees
+## Committees
 David B. McKinley is the #10 Republican on the House Committee on Energy and Commerce 
 
-### HEP Grants
+## HEP Grants
 ```
 This district received no SC HEP grants from 2012-2019
 ```
-### SC Contracts
+## SC Contracts
 ```
 This district received no SC contracts from 2012-2019
 ```
-### NSF MPS Grants
+## NSF MPS Grants
 In the past 8 years, this district has received:<b> $19,803,950 </b>in NSF MPS grants.
 ```
   Year  Institution                                      Amount ($)
@@ -80,46 +90,79 @@ In the past 8 years, this district has received:<b> $19,803,950 </b>in NSF MPS g
   2013  WEST VIRGINIA UNIVERSITY RESEARCH CORPORATION     2,156,346
   2012  WEST VIRGINIA UNIVERSITY RESEARCH CORPORATION     2,347,751
 ```
+## SULI/CCI Interns
+From 2014-2016 (only years available), this district had 10 SULI/CCI interns
+```
+Term         Name                    College                    Host Lab                                Program
+-----------  ----------------------  -------------------------  --------------------------------------  ---------
+Summer 2015  Clayton Robert Johnson  West Virginia University   Argonne National Laboratory             SULI
+Summer 2015  Lucas Price             West Virginia University   Brookhaven National Laboratory          SULI
+Summer 2014  Julie Michelle Button   West Virginia University   Lawrence Livermore National Laboratory  SULI
+Summer 2014  Megan Jewell            West Virginia University   Ames National Laboratory                SULI
+Summer 2014  Clayton Robert Johnson  West Virginia University   Argonne National Laboratory             SULI
+Summer 2014  Rebecca Buonavita Posa  West Virginia University   Idaho National Laboratory               SULI
+Summer 2014  Bryan James Foley       Fairmont State University  Brookhaven National Laboratory          SULI
+Spring 2015  Bryan James Foley       Fairmont State University  Brookhaven National Laboratory          SULI
+Spring 2014  Ethel Perez-Hoyos       West Virginia University   Lawrence Berkeley National Laboratory   SULI
+Fall 2014    Julie Michelle Button   West Virginia University   Lawrence Livermore National Laboratory  SULI
+```
 ---
 <a name="WV-02"></a>
 [Back to top](#top)
 ## WV-02 -- Rep. Alexander X. Mooney (R) -- [Wikipedia](https://en.wikipedia.org/wiki/WV-02)
-### Committees
-Alexander X. Mooney is not on any of our key committees 
+## Committees
+Alexander X. Mooney is not on any of our key committees. 
 
-### HEP Grants
+## HEP Grants
 ```
 This district received no SC HEP grants from 2012-2019
 ```
-### SC Contracts
+## SC Contracts
 ```
 This district received no SC contracts from 2012-2019
 ```
-### NSF MPS Grants
+## NSF MPS Grants
 ```
 This district received no NSF MPS grants from 2012-2019
+```
+## SULI/CCI Interns
+From 2014-2016 (only years available), this district had 3 SULI/CCI interns
+```
+Term         Name                College                         Host Lab                                        Program
+-----------  ------------------  ------------------------------  ----------------------------------------------  ---------
+Summer 2016  Thomas Alan Haines  West Virginia Wesleyan College  Thomas Jefferson National Accelerator Facility  SULI
+Summer 2016  Kelsie Krantz       West Virginia Wesleyan College  Savannah River National Laboratory              SULI
+Summer 2015  Asa Nichols         West Virginia Wesleyan College  National Renewable Energy Laboratory            SULI
 ```
 ---
 <a name="WV-03"></a>
 [Back to top](#top)
 ## WV-03 -- Rep. Carol D. Miller (R) -- [Wikipedia](https://en.wikipedia.org/wiki/WV-03)
-### Committees
-Carol D. Miller is not on any of our key committees 
+## Committees
+Carol D. Miller is not on any of our key committees. 
 
-### HEP Grants
+## HEP Grants
 ```
 This district received no SC HEP grants from 2012-2019
 ```
-### SC Contracts
+## SC Contracts
 ```
 This district received no SC contracts from 2012-2019
 ```
-### NSF MPS Grants
+## NSF MPS Grants
 In the past 8 years, this district has received:<b> $753,845 </b>in NSF MPS grants.
 ```
   Year  Institution                                 Amount ($)
 ------  ----------------------------------------  ------------
   2018  MARSHALL UNIVERSITY RESEARCH CORPORATION       415,000
   2012  MARSHALL UNIVERSITY RESEARCH CORPORATION       338,845
+```
+## SULI/CCI Interns
+From 2014-2016 (only years available), this district had 2 SULI/CCI interns
+```
+Term         Name                     College              Host Lab                       Program
+-----------  -----------------------  -------------------  -----------------------------  ---------
+Summer 2016  Amber Bettis             Marshall University  Oak Ridge National Laboratory  SULI
+Fall 2015    Matthew Joseph Haldeman  Marshall University  Oak Ridge National Laboratory  SULI
 ```
 ---

@@ -17,7 +17,7 @@ Jeanne Shaheen is the #8 Democrat on the Senate Committee on Appropriations
 
 Jeanne Shaheen is the #6 Democrat on the Senate Appropriations Subcommittee on Energy and Water Development 
 
-Margaret Wood Hassan is not on any of our key committees 
+Margaret Wood Hassan is not on any of our key committees. 
 
 ## HEP Grants
 In the past 8 years, this state has received:
@@ -32,7 +32,7 @@ In the past 8 years, this state has received:
   2014  Dartmouth College       175,000
   2013  DARTMOUTH COLLEGE       150,000
 ```
-### SC Contracts
+## SC Contracts
 In the past 8 years, this state has received:
 3 Office of Science contracts, totalling <b> $37,016</b>
 ```
@@ -53,19 +53,27 @@ UNIVERSITY SYSTEM OF NEW HAMPSHIRE     5,157,214
 MULTIPLE RECIPIENTS                    3,300,000
 DARTMOUTH COLLEGE                        286,576
 ```
+## SULI/CCI Interns
+From 2014-2016 (only years available), this district had 13 SULI/CCI interns
+```
+  # Interns  Program    College
+-----------  ---------  ---------------------------
+          7  SULI       University of New Hampshire
+          6  SULI       Dartmouth College
+```
 ---
 ---
 <a name="NH-01"></a>
 [Back to top](#top)
 ## NH-01 -- Rep. Chris Pappas (D) -- [Wikipedia](https://en.wikipedia.org/wiki/NH-01)
-### Committees
-Chris Pappas is not on any of our key committees 
+## Committees
+Chris Pappas is not on any of our key committees. 
 
-### HEP Grants
+## HEP Grants
 ```
 This district received no SC HEP grants from 2012-2019
 ```
-### SC Contracts
+## SC Contracts
 In the past 8 years, this district has received:
 2 Office of Science contracts, totalling <b> $21,336</b>
 ```
@@ -74,7 +82,7 @@ In the past 8 years, this district has received:
   2012  DOCUMENT MANAGEMENT SOLUTIONS, INC.         8,556  ADP SUPPLIES
   2012  DOCUMENT MANAGEMENT SOLUTIONS, INC.        12,780  ADPE SYSTEM CONFIGURATION
 ```
-### NSF MPS Grants
+## NSF MPS Grants
 In the past 8 years, this district has received:<b> $4,893,514 </b>in NSF MPS grants.
 ```
   Year  Institution                           Amount ($)
@@ -87,14 +95,27 @@ In the past 8 years, this district has received:<b> $4,893,514 </b>in NSF MPS gr
   2013  UNIVERSITY SYSTEM OF NEW HAMPSHIRE       558,002
   2012  UNIVERSITY SYSTEM OF NEW HAMPSHIRE     1,542,799
 ```
+## SULI/CCI Interns
+From 2014-2016 (only years available), this district had 7 SULI/CCI interns
+```
+Term         Name                     College                      Host Lab                        Program
+-----------  -----------------------  ---------------------------  ------------------------------  ---------
+Summer 2016  Mitchell Bryce Juneau    University of New Hampshire  Idaho National Laboratory       SULI
+Summer 2015  William Joseph Clark     University of New Hampshire  Brookhaven National Laboratory  SULI
+Summer 2015  Lauren Ashley Gazerwitz  University of New Hampshire  Brookhaven National Laboratory  SULI
+Summer 2014  Dulaney Leigh Miller     University of New Hampshire  Brookhaven National Laboratory  SULI
+Spring 2016  Lauren Ashley Gazerwitz  University of New Hampshire  Brookhaven National Laboratory  SULI
+Fall 2014    Jillian Fleming          University of New Hampshire  Brookhaven National Laboratory  SULI
+Fall 2014    Emily Rose Malkauskas    University of New Hampshire  Brookhaven National Laboratory  SULI
+```
 ---
 <a name="NH-02"></a>
 [Back to top](#top)
 ## NH-02 -- Rep. Ann M. Kuster (D) -- [Wikipedia](https://en.wikipedia.org/wiki/NH-02)
-### Committees
+## Committees
 Ann M. Kuster is the #25 Democrat on the House Committee on Energy and Commerce 
 
-### HEP Grants
+## HEP Grants
 In the past 8 years, this district has received:<b> $915,000 </b>in SC HEP grants.
 ```
 Institution          Amount ($)    Start  End      Principal Investigator    Project Title
@@ -102,7 +123,7 @@ Institution          Amount ($)    Start  End      Principal Investigator    Pro
 Dartmouth College       765,000     2014  Ongoing  Caldwell, Robert          Dartmouth Theory Group at the Cosmic Frontier:  The Origin and Nature of our Universe
 DARTMOUTH COLLEGE       150,000     2013  2014     Caldwell                  Dartmouth Theory Group at the Cosmic Frontier: The Origin and Nature of our Universe
 ```
-### SC Contracts
+## SC Contracts
 In the past 8 years, this district has received:
 1 Office of Science contracts, totalling <b> $15,680</b>
 ```
@@ -110,7 +131,7 @@ In the past 8 years, this district has received:
 ------  ----------------------------  ------------  -------------------------
   2013  RED RIVER COMPUTER CO., INC.        15,680  ADPE SYSTEM CONFIGURATION
 ```
-### NSF MPS Grants
+## NSF MPS Grants
 In the past 8 years, this district has received:<b> $17,396,246 </b>in NSF MPS grants.
 ```
   Year  Institution                           Amount ($)
@@ -125,5 +146,17 @@ In the past 8 years, this district has received:<b> $17,396,246 </b>in NSF MPS g
   2013  TRUSTEES OF DARTMOUTH COLLEGE          2,321,016
   2013  UNIVERSITY SYSTEM OF NEW HAMPSHIRE       263,700
   2012  TRUSTEES OF DARTMOUTH COLLEGE          1,410,528
+```
+## SULI/CCI Interns
+From 2014-2016 (only years available), this district had 6 SULI/CCI interns
+```
+Term         Name                   College            Host Lab                               Program
+-----------  ---------------------  -----------------  -------------------------------------  ---------
+Summer 2016  Melissa Ellen Dunham   Dartmouth College  Oak Ridge National Laboratory          SULI
+Summer 2014  Michelle Chen          Dartmouth College  Brookhaven National Laboratory         SULI
+Summer 2014  Benjamin Behr Conley   Dartmouth College  Argonne National Laboratory            SULI
+Summer 2014  Matthew William Long   Dartmouth College  National Renewable Energy Laboratory   SULI
+Spring 2015  Lucille Mayme Watkins  Dartmouth College  Lawrence Berkeley National Laboratory  SULI
+Fall 2014    Phuong Luong           Dartmouth College  Ames National Laboratory               SULI
 ```
 ---

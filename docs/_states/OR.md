@@ -33,7 +33,7 @@ In the past 8 years, this state has received:
   2013  UNIVERSITY OF OREGON       878,000
   2012  UNIVERSITY OF OREGON     1,158,000
 ```
-### SC Contracts
+## SC Contracts
 ```
 This state received no SC contracts from 2012-2019
 ```
@@ -55,25 +55,42 @@ PACIFIC UNIVERSITY                       534,155
 LINFIELD COLLEGE                         180,677
 REED COLLEGE                              28,000
 ```
+## SULI/CCI Interns
+From 2014-2016 (only years available), this district had 34 SULI/CCI interns
+```
+  # Interns  Program    College
+-----------  ---------  ------------------------------
+          9  SULI       University of Oregon
+          8  SULI       Oregon State University
+          6  SULI       Willamette University
+          2  SULI       Lewis and Clark College
+          2  SULI       Pacific University
+          2  SULI       Reed College
+          1  SULI       Eastern Oregon University
+          1  SULI       Linfield College
+          1  SULI       Oregon Institute of Technology
+          1  SULI       Portland State University
+          1  SULI       University of Portland
+```
 ---
 ---
 <a name="OR-01"></a>
 [Back to top](#top)
 ## OR-01 -- Rep. Suzanne Bonamici (D) -- [Wikipedia](https://en.wikipedia.org/wiki/OR-01)
-### Committees
+## Committees
 Suzanne Bonamici is the #4 Democrat on the House Committee on Science, Space, and Technology 
 
 Suzanne Bonamici is the #5 Democrat on the House Subcommittee on Higher Education and Workforce Development 
 
-### HEP Grants
+## HEP Grants
 ```
 This district received no SC HEP grants from 2012-2019
 ```
-### SC Contracts
+## SC Contracts
 ```
 This district received no SC contracts from 2012-2019
 ```
-### NSF MPS Grants
+## NSF MPS Grants
 In the past 8 years, this district has received:<b> $945,130 </b>in NSF MPS grants.
 ```
   Year  Institution                  Amount ($)
@@ -87,41 +104,58 @@ In the past 8 years, this district has received:<b> $945,130 </b>in NSF MPS gran
   2012  PACIFIC UNIVERSITY               91,885
   2012  PORTLAND STATE UNIVERSITY       201,086
 ```
+## SULI/CCI Interns
+From 2014-2016 (only years available), this district had 3 SULI/CCI interns
+```
+Term         Name                 College             Host Lab                              Program
+-----------  -------------------  ------------------  ------------------------------------  ---------
+Summer 2016  Daniel Yates         Pacific University  Brookhaven National Laboratory        SULI
+Summer 2015  Justin Robert Davis  Linfield College    National Renewable Energy Laboratory  SULI
+Summer 2015  Allan Sykes          Pacific University  National Renewable Energy Laboratory  SULI
+```
 ---
 <a name="OR-02"></a>
 [Back to top](#top)
 ## OR-02 -- Rep. Greg Walden (R) -- [Wikipedia](https://en.wikipedia.org/wiki/OR-02)
-### Committees
+## Committees
 Greg Walden is the #1 Republican on the House Committee on Energy and Commerce 
 
-### HEP Grants
+## HEP Grants
 ```
 This district received no SC HEP grants from 2012-2019
 ```
-### SC Contracts
+## SC Contracts
 ```
 This district received no SC contracts from 2012-2019
 ```
-### NSF MPS Grants
+## NSF MPS Grants
 ```
 This district received no NSF MPS grants from 2012-2019
+```
+## SULI/CCI Interns
+From 2014-2016 (only years available), this district had 2 SULI/CCI interns
+```
+Term         Name          College                         Host Lab                                Program
+-----------  ------------  ------------------------------  --------------------------------------  ---------
+Summer 2015  Dakotah Webb  Oregon Institute of Technology  Lawrence Livermore National Laboratory  SULI
+Spring 2016  Tonny Yang    Eastern Oregon University       Pacific Northwest National Laboratory   SULI
 ```
 ---
 <a name="OR-03"></a>
 [Back to top](#top)
 ## OR-03 -- Rep. Earl Blumenauer (D) -- [Wikipedia](https://en.wikipedia.org/wiki/OR-03)
-### Committees
-Earl Blumenauer is not on any of our key committees 
+## Committees
+Earl Blumenauer is not on any of our key committees. 
 
-### HEP Grants
+## HEP Grants
 ```
 This district received no SC HEP grants from 2012-2019
 ```
-### SC Contracts
+## SC Contracts
 ```
 This district received no SC contracts from 2012-2019
 ```
-### NSF MPS Grants
+## NSF MPS Grants
 In the past 8 years, this district has received:<b> $6,910,546 </b>in NSF MPS grants.
 ```
   Year  Institution                           Amount ($)
@@ -147,14 +181,26 @@ In the past 8 years, this district has received:<b> $6,910,546 </b>in NSF MPS gr
   2014  OREGON HEALTH & SCIENCE UNIVERSITY       258,101
   2013  PORTLAND STATE UNIVERSITY                709,024
 ```
+## SULI/CCI Interns
+From 2014-2016 (only years available), this district had 6 SULI/CCI interns
+```
+Term         Name                      College                    Host Lab                                        Program
+-----------  ------------------------  -------------------------  ----------------------------------------------  ---------
+Summer 2016  Emily O'sullivan          Lewis and Clark College    National Renewable Energy Laboratory            SULI
+Summer 2016  Chelsea Benedict          Portland State University  SLAC National Accelerator Laboratory            SULI
+Summer 2015  Charles Anthony McIntyre  Reed College               Thomas Jefferson National Accelerator Facility  SULI
+Summer 2015  Keira Roberts             Lewis and Clark College    Lawrence Livermore National Laboratory          SULI
+Summer 2014  Amelia Dunn               Reed College               Ames National Laboratory                        SULI
+Summer 2014  Jordan Seiji Lum          University of Portland     National Renewable Energy Laboratory            SULI
+```
 ---
 <a name="OR-04"></a>
 [Back to top](#top)
 ## OR-04 -- Rep. Peter A. DeFazio (D) -- [Wikipedia](https://en.wikipedia.org/wiki/OR-04)
-### Committees
-Peter A. DeFazio is not on any of our key committees 
+## Committees
+Peter A. DeFazio is not on any of our key committees. 
 
-### HEP Grants
+## HEP Grants
 In the past 8 years, this district has received:<b> $7,880,800 </b>in SC HEP grants.
 ```
 Institution             Amount ($)    Start  End      Principal Investigator    Project Title
@@ -175,11 +221,11 @@ UNIVERSITY OF OREGON             0     2012  2013     Brau                      
 UNIVERSITY OF OREGON             0     2012  2014     Brau                      Sid Detector R&D
 UNIVERSITY OF OREGON     1,976,000     2012  2014     Brau                      Task A:  Theory of Elementary Particles; Task B Experimental High Energy Physics
 ```
-### SC Contracts
+## SC Contracts
 ```
 This district received no SC contracts from 2012-2019
 ```
-### NSF MPS Grants
+## NSF MPS Grants
 In the past 8 years, this district has received:<b> $57,080,703 </b>in NSF MPS grants.
 ```
   Year  Institution                Amount ($)
@@ -199,22 +245,45 @@ In the past 8 years, this district has received:<b> $57,080,703 </b>in NSF MPS g
   2013  UNIVERSITY OF OREGON        3,881,220
   2012  UNIVERSITY OF OREGON        3,581,118
 ```
+## SULI/CCI Interns
+From 2014-2016 (only years available), this district had 17 SULI/CCI interns
+```
+Term         Name                     College                  Host Lab                                        Program
+-----------  -----------------------  -----------------------  ----------------------------------------------  ---------
+Summer 2016  Zena Jensvold            University of Oregon     Argonne National Laboratory                     SULI
+Summer 2016  Benjamin Fannin Bachman  University of Oregon     National Renewable Energy Laboratory            SULI
+Summer 2016  Aaron Tamashiro          Oregon State University  Lawrence Livermore National Laboratory          SULI
+Summer 2016  Gabriel Nowak            Oregon State University  Thomas Jefferson National Accelerator Facility  SULI
+Summer 2016  Hallie Wahlstrom         Oregon State University  Pacific Northwest National Laboratory           SULI
+Summer 2015  Sara Cade                University of Oregon     Pacific Northwest National Laboratory           SULI
+Summer 2015  Benjamin Fannin Bachman  University of Oregon     National Renewable Energy Laboratory            SULI
+Summer 2015  Cameron Frank            Oregon State University  Argonne National Laboratory                     SULI
+Summer 2015  Rachael McConnell        Oregon State University  Lawrence Livermore National Laboratory          SULI
+Summer 2015  Evan Peters              Oregon State University  General Atomics / DIII-D                        SULI
+Summer 2015  Aaron Tamashiro          Oregon State University  Lawrence Livermore National Laboratory          SULI
+Summer 2015  Jonathan Scott Anchell   University of Oregon     Oak Ridge National Laboratory                   SULI
+Summer 2014  Timothy Cole Hubbard     Oregon State University  Idaho National Laboratory                       SULI
+Summer 2014  Jonathan Scott Anchell   University of Oregon     Oak Ridge National Laboratory                   SULI
+Spring 2015  Kirk Larsen              University of Oregon     Lawrence Berkeley National Laboratory           SULI
+Fall 2015    Sara Cade                University of Oregon     Pacific Northwest National Laboratory           SULI
+Fall 2014    Kirk Larsen              University of Oregon     Lawrence Berkeley National Laboratory           SULI
+```
 ---
 <a name="OR-05"></a>
 [Back to top](#top)
 ## OR-05 -- Rep. Kurt Schrader (D) -- [Wikipedia](https://en.wikipedia.org/wiki/OR-05)
-### Committees
+## Committees
 Kurt Schrader is the #18 Democrat on the House Committee on Energy and Commerce 
 
-### HEP Grants
+## HEP Grants
 ```
 This district received no SC HEP grants from 2012-2019
 ```
-### SC Contracts
+## SC Contracts
 ```
 This district received no SC contracts from 2012-2019
 ```
-### NSF MPS Grants
+## NSF MPS Grants
 In the past 8 years, this district has received:<b> $2,444,535 </b>in NSF MPS grants.
 ```
   Year  Institution                Amount ($)
@@ -226,5 +295,17 @@ In the past 8 years, this district has received:<b> $2,444,535 </b>in NSF MPS gr
   2013  WILLAMETTE UNIVERSITY          45,158
   2012  OREGON STATE UNIVERSITY     1,293,545
   2012  WILLAMETTE UNIVERSITY         559,231
+```
+## SULI/CCI Interns
+From 2014-2016 (only years available), this district had 6 SULI/CCI interns
+```
+Term         Name                   College                Host Lab                               Program
+-----------  ---------------------  ---------------------  -------------------------------------  ---------
+Summer 2016  Todd Jesse Denning     Willamette University  Pacific Northwest National Laboratory  SULI
+Summer 2015  Michelle Renee Fallon  Willamette University  Idaho National Laboratory              SULI
+Summer 2015  Alexandra Ramsey       Willamette University  SLAC National Accelerator Laboratory   SULI
+Summer 2015  Savanna Marie Steele   Willamette University  Pacific Northwest National Laboratory  SULI
+Summer 2015  Clara Tibbetts         Willamette University  Ames National Laboratory               SULI
+Summer 2014  Clara Tibbetts         Willamette University  Ames National Laboratory               SULI
 ```
 ---

@@ -15,7 +15,7 @@ Mitch McConnell is the #2 Republican on the Senate Committee on Appropriations
 
 Mitch McConnell is the #2 Republican on the Senate Appropriations Subcommittee on Energy and Water Development 
 
-Rand Paul is not on any of our key committees 
+Rand Paul is not on any of our key committees. 
 
 ## HEP Grants
 In the past 8 years, this state has received:
@@ -29,7 +29,7 @@ In the past 8 years, this state has received:
   2013  UNIVERSITY OF LOUISVILLE        78,000
   2012  UNIVERSITY OF LOUISVILLE             0
 ```
-### SC Contracts
+## SC Contracts
 In the past 8 years, this state has received:
 2 Office of Science contracts, totalling <b> $1,421,964</b>
 ```
@@ -58,19 +58,31 @@ NORTHERN KENTUCKY UNIVERSITY                               242,978
 EASTERN KENTUCKY UNIVERSITY                                143,420
 U OF LOUISVILLE RES FDN                                     95,363
 ```
+## SULI/CCI Interns
+From 2014-2016 (only years available), this district had 15 SULI/CCI interns
+```
+  # Interns  Program    College
+-----------  ---------  ---------------------------------------------
+          5  SULI       University of Kentucky
+          3  SULI       University of the Cumberlands
+          2  SULI       Union College
+          2  SULI       University of Louisville
+          2  SULI       Western Kentucky University
+          1  SULI       West Kentucky community and Technical College
+```
 ---
 ---
 <a name="KY-01"></a>
 [Back to top](#top)
 ## KY-01 -- Rep. James Comer (R) -- [Wikipedia](https://en.wikipedia.org/wiki/KY-01)
-### Committees
+## Committees
 James Comer is the #7 Republican on the House Subcommittee on Higher Education and Workforce Development 
 
-### HEP Grants
+## HEP Grants
 ```
 This district received no SC HEP grants from 2012-2019
 ```
-### SC Contracts
+## SC Contracts
 In the past 8 years, this district has received:
 2 Office of Science contracts, totalling <b> $1,421,964</b>
 ```
@@ -81,7 +93,7 @@ In the past 8 years, this district has received:
   2013  ELECTRIC ENERGY INCORPORATED          650,000  UTILITIES- ELECTRIC
   2012  ELECTRIC ENERGY INCORPORATED          350,000  UTILITIES- ELECTRIC
 ```
-### NSF MPS Grants
+## NSF MPS Grants
 In the past 8 years, this district has received:<b> $531,326 </b>in NSF MPS grants.
 ```
   Year  Institution                Amount ($)
@@ -90,24 +102,31 @@ In the past 8 years, this district has received:<b> $531,326 </b>in NSF MPS gran
   2017  MURRAY STATE UNIVERSITY        74,625
   2014  MURRAY STATE UNIVERSITY       149,940
 ```
+## SULI/CCI Interns
+From 2014-2016 (only years available), this district had 1 SULI/CCI intern
+```
+Term         Name           College                                        Host Lab                       Program
+-----------  -------------  ---------------------------------------------  -----------------------------  ---------
+Summer 2014  Seth Trammell  West Kentucky community and Technical College  Oak Ridge National Laboratory  SULI
+```
 ---
 <a name="KY-02"></a>
 [Back to top](#top)
 ## KY-02 -- Rep. Brett Guthrie (R) -- [Wikipedia](https://en.wikipedia.org/wiki/KY-02)
-### Committees
+## Committees
 Brett Guthrie is the #2 Republican on the House Subcommittee on Higher Education and Workforce Development 
 
 Brett Guthrie is the #8 Republican on the House Committee on Energy and Commerce 
 
-### HEP Grants
+## HEP Grants
 ```
 This district received no SC HEP grants from 2012-2019
 ```
-### SC Contracts
+## SC Contracts
 ```
 This district received no SC contracts from 2012-2019
 ```
-### NSF MPS Grants
+## NSF MPS Grants
 In the past 8 years, this district has received:<b> $1,468,400 </b>in NSF MPS grants.
 ```
   Year  Institution                                            Amount ($)
@@ -118,14 +137,22 @@ In the past 8 years, this district has received:<b> $1,468,400 </b>in NSF MPS gr
   2013  WESTERN KENTUCKY UNIVERSITY RESEARCH FOUNDATI             497,999
   2012  WESTERN KENTUCKY UNIVERSITY RESEARCH FOUNDATI             254,000
 ```
+## SULI/CCI Interns
+From 2014-2016 (only years available), this district had 2 SULI/CCI interns
+```
+Term         Name                     College                      Host Lab                        Program
+-----------  -----------------------  ---------------------------  ------------------------------  ---------
+Summer 2016  Brittany Annjean Broder  Western Kentucky University  Brookhaven National Laboratory  SULI
+Summer 2016  Paul Hudson              Western Kentucky University  Oak Ridge National Laboratory   SULI
+```
 ---
 <a name="KY-03"></a>
 [Back to top](#top)
 ## KY-03 -- Rep. John A. Yarmuth (D) -- [Wikipedia](https://en.wikipedia.org/wiki/KY-03)
-### Committees
-John A. Yarmuth is not on any of our key committees 
+## Committees
+John A. Yarmuth is not on any of our key committees. 
 
-### HEP Grants
+## HEP Grants
 In the past 8 years, this district has received:<b> $151,000 </b>in SC HEP grants.
 ```
 Institution                 Amount ($)    Start    End  Principal Investigator    Project Title
@@ -134,11 +161,11 @@ University of Louisville        73,000     2014   2016  Brown, David            
 UNIVERSITY OF LOUISVILLE        78,000     2013   2014  Brown                     Studies of Hadronic Physics With the BaBar Detector at SLAC and the ATLAS Detector and the LHC
 UNIVERSITY OF LOUISVILLE             0     2012   2014  Brown                     Contributions to Studies of CP Violation and Hadronic Physics with the Babar Collaboration
 ```
-### SC Contracts
+## SC Contracts
 ```
 This district received no SC contracts from 2012-2019
 ```
-### NSF MPS Grants
+## NSF MPS Grants
 In the past 8 years, this district has received:<b> $4,178,946 </b>in NSF MPS grants.
 ```
   Year  Institution                 Amount ($)
@@ -152,22 +179,30 @@ In the past 8 years, this district has received:<b> $4,178,946 </b>in NSF MPS gr
   2013  UNIVERSITY OF LOUISVILLE       260,000
   2012  UNIVERSITY OF LOUISVILLE       609,075
 ```
+## SULI/CCI Interns
+From 2014-2016 (only years available), this district had 2 SULI/CCI interns
+```
+Term         Name                     College                   Host Lab                              Program
+-----------  -----------------------  ------------------------  ------------------------------------  ---------
+Spring 2016  Dakota Keith Goodman     University of Louisville  Oak Ridge National Laboratory         SULI
+Spring 2016  Marcus Emory Schwarting  University of Louisville  National Renewable Energy Laboratory  SULI
+```
 ---
 <a name="KY-04"></a>
 [Back to top](#top)
 ## KY-04 -- Rep. Thomas Massie (R) -- [Wikipedia](https://en.wikipedia.org/wiki/KY-04)
-### Committees
-Thomas Massie is not on any of our key committees 
+## Committees
+Thomas Massie is not on any of our key committees. 
 
-### HEP Grants
+## HEP Grants
 ```
 This district received no SC HEP grants from 2012-2019
 ```
-### SC Contracts
+## SC Contracts
 ```
 This district received no SC contracts from 2012-2019
 ```
-### NSF MPS Grants
+## NSF MPS Grants
 In the past 8 years, this district has received:<b> $1,690,314 </b>in NSF MPS grants.
 ```
   Year  Institution                                             Amount ($)
@@ -179,33 +214,48 @@ In the past 8 years, this district has received:<b> $1,690,314 </b>in NSF MPS gr
   2013  NORTHERN KENTUCKY UNIVERSITY RESEARCH FOUNDAT              165,000
   2012  NORTHERN KENTUCKY UNIVERSITY RESEARCH FOUNDAT              220,251
 ```
+## SULI/CCI Interns
+```
+This district had no SULI/CCI interns from 2014-2016 (only years available)
+```
 ---
 <a name="KY-05"></a>
 [Back to top](#top)
 ## KY-05 -- Rep. Harold Rogers (R) -- [Wikipedia](https://en.wikipedia.org/wiki/KY-05)
-### Committees
+## Committees
 Harold Rogers is the #2 Republican on the House Committee on Appropriations 
 
-### HEP Grants
+## HEP Grants
 ```
 This district received no SC HEP grants from 2012-2019
 ```
-### SC Contracts
+## SC Contracts
 ```
 This district received no SC contracts from 2012-2019
 ```
-### NSF MPS Grants
+## NSF MPS Grants
 ```
 This district received no NSF MPS grants from 2012-2019
+```
+## SULI/CCI Interns
+From 2014-2016 (only years available), this district had 5 SULI/CCI interns
+```
+Term         Name                  College                        Host Lab                              Program
+-----------  --------------------  -----------------------------  ------------------------------------  ---------
+Summer 2016  James Frank England   University of the Cumberlands  Oak Ridge National Laboratory         SULI
+Summer 2015  Caelan Lapointe       Union College                  National Renewable Energy Laboratory  SULI
+Summer 2014  Caelan Lapointe       Union College                  National Renewable Energy Laboratory  SULI
+Spring 2016  Chelsea Renee Hinton  University of the Cumberlands  Brookhaven National Laboratory        SULI
+Fall 2015    Chelsea Renee Hinton  University of the Cumberlands  Brookhaven National Laboratory        SULI
 ```
 ---
 <a name="KY-06"></a>
 [Back to top](#top)
 ## KY-06 -- Rep. Andy Barr (R) -- [Wikipedia](https://en.wikipedia.org/wiki/KY-06)
-### Committees
-Andy Barr is not on any of our key committees 
+## Committees
+Andy Barr is not on any of our key committees. 
 
-### HEP Grants
+## HEP Grants
 In the past 8 years, this district has received:<b> $412,000 </b>in SC HEP grants.
 ```
 Institution               Amount ($)    Start  End      Principal Investigator    Project Title
@@ -213,11 +263,11 @@ Institution               Amount ($)    Start  End      Principal Investigator  
 University of Kentucky         5,000     2018  Ongoing  Hill, Richard             From nucleons to nuclei: enabling discovery for neutrinos, dark matter and more
 University of Kentucky       407,000     2018  Ongoing  Hill, Richard             High energy physics tools for precision neutrino interactions
 ```
-### SC Contracts
+## SC Contracts
 ```
 This district received no SC contracts from 2012-2019
 ```
-### NSF MPS Grants
+## NSF MPS Grants
 In the past 8 years, this district has received:<b> $18,970,139 </b>in NSF MPS grants.
 ```
   Year  Institution                    Amount ($)
@@ -232,5 +282,16 @@ In the past 8 years, this district has received:<b> $18,970,139 </b>in NSF MPS g
   2014  UNIVERSITY OF KENTUCKY          1,433,029
   2013  UNIVERSITY OF KENTUCKY          2,905,993
   2012  UNIVERSITY OF KENTUCKY          3,008,958
+```
+## SULI/CCI Interns
+From 2014-2016 (only years available), this district had 5 SULI/CCI interns
+```
+Term         Name                     College                 Host Lab                               Program
+-----------  -----------------------  ----------------------  -------------------------------------  ---------
+Summer 2016  Benjamin Austin Begley   University of Kentucky  Oak Ridge National Laboratory          SULI
+Summer 2014  Brian Edward Allgeier    University of Kentucky  Fermi National Accelerator Laboratory  SULI
+Summer 2014  Michael Andrew Carlton   University of Kentucky  Los Alamos National Laboratory         SULI
+Summer 2014  Anastasia Nicole Kazadi  University of Kentucky  Oak Ridge National Laboratory          SULI
+Summer 2014  Joseph Papp              University of Kentucky  Los Alamos National Laboratory         SULI
 ```
 ---

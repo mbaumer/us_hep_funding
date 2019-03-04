@@ -11,9 +11,9 @@ permalink : /states/IA/
 
 # IA -- Sen. Chuck Grassley (R) and  Sen. Joni Ernst (R)
 ## Committees
-Chuck Grassley is not on any of our key committees 
+Chuck Grassley is not on any of our key committees. 
 
-Joni Ernst is not on any of our key committees 
+Joni Ernst is not on any of our key committees. 
 
 ## HEP Grants
 In the past 8 years, this state has received:
@@ -26,7 +26,7 @@ University of Iowa                                  2,958,000
 IOWA STATE UNIVERSITY                               2,037,000
 UNIVERSITY OF IOWA                                  1,114,000
 ```
-### SC Contracts
+## SC Contracts
 In the past 8 years, this state has received:
 2 Office of Science contracts, totalling <b> $406,626,657</b>
 ```
@@ -62,23 +62,37 @@ NORTHWESTERN COLLEGE                                  121,825
 UNI                                                    86,001
 DORDT COLLEGE, INCORPORATED                            55,685
 ```
+## SULI/CCI Interns
+From 2014-2016 (only years available), this district had 60 SULI/CCI interns
+```
+  # Interns  Program    College
+-----------  ---------  ---------------------------------
+         39  SULI       Iowa State University
+          6  SULI       University of Iowa
+          5  SULI       Grinnell College
+          4  SULI       University of Northern Iowa
+          2  CCI        Des Moines Area Community College
+          2  SULI       Coe College
+          1  SULI       Central College
+          1  SULI       Drake University
+```
 ---
 ---
 <a name="IA-01"></a>
 [Back to top](#top)
 ## IA-01 -- Rep. Abby Finkenauer (D) -- [Wikipedia](https://en.wikipedia.org/wiki/IA-01)
-### Committees
-Abby Finkenauer is not on any of our key committees 
+## Committees
+Abby Finkenauer is not on any of our key committees. 
 
-### HEP Grants
+## HEP Grants
 ```
 This district received no SC HEP grants from 2012-2019
 ```
-### SC Contracts
+## SC Contracts
 ```
 This district received no SC contracts from 2012-2019
 ```
-### NSF MPS Grants
+## NSF MPS Grants
 In the past 8 years, this district has received:<b> $3,211,989 </b>in NSF MPS grants.
 ```
   Year  Institution                          Amount ($)
@@ -99,14 +113,31 @@ In the past 8 years, this district has received:<b> $3,211,989 </b>in NSF MPS gr
   2013  UNIVERSITY OF NORTHERN IOWA             195,401
   2012  UNIVERSITY OF NORTHERN IOWA              90,000
 ```
+## SULI/CCI Interns
+From 2014-2016 (only years available), this district had 11 SULI/CCI interns
+```
+Term         Name                      College                      Host Lab                              Program
+-----------  ------------------------  ---------------------------  ------------------------------------  ---------
+Summer 2016  Lucas Paul Beving         University of Northern Iowa  Princeton Plasma Physics Laboratory   SULI
+Summer 2016  Madison Danell Fellows    Grinnell College             National Renewable Energy Laboratory  SULI
+Summer 2016  Emily Kozik               Grinnell College             Ames National Laboratory              SULI
+Summer 2016  Henry Nelson              Grinnell College             Brookhaven National Laboratory        SULI
+Summer 2016  Heather N Ruiz            Coe College                  Argonne National Laboratory           SULI
+Summer 2015  Corey Cooling             University of Northern Iowa  Ames National Laboratory              SULI
+Summer 2015  Madison DaNell Fellows    Grinnell College             Sandia National Laboratory            SULI
+Summer 2014  Courtney Keiser           University of Northern Iowa  Argonne National Laboratory           SULI
+Summer 2014  Kyle Spurgeon             University of Northern Iowa  Argonne National Laboratory           SULI
+Summer 2014  James Pollock             Grinnell College             SLAC National Accelerator Laboratory  SULI
+Summer 2014  Maureen Judith Salisbury  Coe College                  Argonne National Laboratory           SULI
+```
 ---
 <a name="IA-02"></a>
 [Back to top](#top)
 ## IA-02 -- Rep. David Loebsack (D) -- [Wikipedia](https://en.wikipedia.org/wiki/IA-02)
-### Committees
+## Committees
 David Loebsack is the #17 Democrat on the House Committee on Energy and Commerce 
 
-### HEP Grants
+## HEP Grants
 In the past 8 years, this district has received:<b> $4,072,000 </b>in SC HEP grants.
 ```
 Institution           Amount ($)    Start  End      Principal Investigator    Project Title
@@ -123,11 +154,11 @@ UNIVERSITY OF IOWA       622,000     2012  2014     Mallik                    Hi
 UNIVERSITY OF IOWA        40,000     2012  2013     Meurice                   Infrared Fixed Points in Multiflavor Lattice Gauge Theory
 UNIVERSITY OF IOWA         4,000     2012  2014     Onel                      Secondary Emission Sampling Calorimetry Sensor Development
 ```
-### SC Contracts
+## SC Contracts
 ```
 This district received no SC contracts from 2012-2019
 ```
-### NSF MPS Grants
+## NSF MPS Grants
 In the past 8 years, this district has received:<b> $18,467,844 </b>in NSF MPS grants.
 ```
   Year  Institution                Amount ($)
@@ -142,18 +173,31 @@ In the past 8 years, this district has received:<b> $18,467,844 </b>in NSF MPS g
   2012  COE COLLEGE                   422,342
   2012  UNIVERSITY OF IOWA, THE     3,815,267
 ```
+## SULI/CCI Interns
+From 2014-2016 (only years available), this district had 7 SULI/CCI interns
+```
+Term         Name                 College             Host Lab                        Program
+-----------  -------------------  ------------------  ------------------------------  ---------
+Summer 2016  Daniel Davies        University of Iowa  Argonne National Laboratory     SULI
+Summer 2015  Patrick John Adrian  University of Iowa  General Atomics / DIII-D        SULI
+Summer 2015  Daniel Davies        University of Iowa  Brookhaven National Laboratory  SULI
+Summer 2015  Matt Sean Johnson    University of Iowa  Argonne National Laboratory     SULI
+Summer 2014  Marissa Rose Brandt  Central College     Ames National Laboratory        SULI
+Summer 2014  Matt Sean Johnson    University of Iowa  Argonne National Laboratory     SULI
+Spring 2016  Keith Vidal          University of Iowa  Oak Ridge National Laboratory   SULI
+```
 ---
 <a name="IA-03"></a>
 [Back to top](#top)
 ## IA-03 -- Rep. Cynthia Axne (D) -- [Wikipedia](https://en.wikipedia.org/wiki/IA-03)
-### Committees
-Cynthia Axne is not on any of our key committees 
+## Committees
+Cynthia Axne is not on any of our key committees. 
 
-### HEP Grants
+## HEP Grants
 ```
 This district received no SC HEP grants from 2012-2019
 ```
-### SC Contracts
+## SC Contracts
 In the past 8 years, this district has received:
 1 Office of Science contracts, totalling <b> $4,200</b>
 ```
@@ -161,7 +205,7 @@ In the past 8 years, this district has received:
 ------  -------------------  ------------  ----------------------------------------
   2012  ATRIUM HOTELS, L.P.         4,200  EDUCATION/TRAINING- VOCATIONAL/TECHNICAL
 ```
-### NSF MPS Grants
+## NSF MPS Grants
 In the past 8 years, this district has received:<b> $695,989 </b>in NSF MPS grants.
 ```
   Year  Institution         Amount ($)
@@ -173,14 +217,23 @@ In the past 8 years, this district has received:<b> $695,989 </b>in NSF MPS gran
   2013  DRAKE UNIVERSITY       224,374
   2012  DRAKE UNIVERSITY       175,151
 ```
+## SULI/CCI Interns
+From 2014-2016 (only years available), this district had 3 SULI/CCI interns
+```
+Term         Name               College                            Host Lab                       Program
+-----------  -----------------  ---------------------------------  -----------------------------  ---------
+Summer 2016  Lucas J Rozendaal  Des Moines Area Community College  Ames National Laboratory       CCI
+Summer 2015  Joel Aaron Venzke  Drake University                   Oak Ridge National Laboratory  SULI
+Summer 2015  Daniel Bouk        Des Moines Area Community College  Ames National Laboratory       CCI
+```
 ---
 <a name="IA-04"></a>
 [Back to top](#top)
 ## IA-04 -- Rep. Steve King (R) -- [Wikipedia](https://en.wikipedia.org/wiki/IA-04)
-### Committees
-Steve King is not on any of our key committees 
+## Committees
+Steve King is not on any of our key committees. 
 
-### HEP Grants
+## HEP Grants
 In the past 8 years, this district has received:<b> $6,986,632 </b>in SC HEP grants.
 ```
 Institution                                        Amount ($)    Start  End      Principal Investigator    Project Title
@@ -198,7 +251,7 @@ IOWA STATE UNIVERSITY                                  55,000     2012  2013    
 IOWA STATE UNIVERSITY                               1,208,000     2012  2014     Krennrich, Cochran        Investigations in Experimental and Theoretical High Energy Physics
 IOWA STATE UNIVERSITY                                 142,000     2012  2014     Sanchez                   Neutrino Physics in the NOvA Experiment
 ```
-### SC Contracts
+## SC Contracts
 In the past 8 years, this district has received:
 1 Office of Science contracts, totalling <b> $406,622,457</b>
 ```
@@ -213,7 +266,7 @@ In the past 8 years, this district has received:
   2013  IOWA STATE UNIVERSITY EQUITIES CORPORATION    64,291,258  OPER OF GOVT R&D GOCO FACILITIES
   2012  IOWA STATE UNIVERSITY EQUITIES CORPORATION    37,963,497  OPER OF GOVT R&D GOCO FACILITIES
 ```
-### NSF MPS Grants
+## NSF MPS Grants
 In the past 8 years, this district has received:<b> $23,930,144 </b>in NSF MPS grants.
 ```
   Year  Institution                                        Amount ($)
@@ -232,5 +285,50 @@ In the past 8 years, this district has received:<b> $23,930,144 </b>in NSF MPS g
   2012  IOWA STATE UNIVERSITY                                 120,000
   2012  IOWA STATE UNIVERSITY OF SCIENCE AND TECHNOLO       2,520,196
   2012  LUTHER COLLEGE                                         34,015
+```
+## SULI/CCI Interns
+From 2014-2016 (only years available), this district had 39 SULI/CCI interns
+```
+Term         Name                       College                Host Lab                               Program
+-----------  -------------------------  ---------------------  -------------------------------------  ---------
+Summer 2016  Lipin (Ivy) Wu             Iowa State University  Ames National Laboratory               SULI
+Summer 2016  Curt William Waltmann      Iowa State University  Ames National Laboratory               SULI
+Summer 2016  Lindy Marie Sherman        Iowa State University  Ames National Laboratory               SULI
+Summer 2016  Kirk Rudolph               Iowa State University  Ames National Laboratory               SULI
+Summer 2016  Jessica Lauren Przybylski  Iowa State University  Ames National Laboratory               SULI
+Summer 2016  Jeffrey Neel               Iowa State University  Argonne National Laboratory            SULI
+Summer 2016  Nicole Jandick             Iowa State University  Ames National Laboratory               SULI
+Summer 2016  Rebecca Elise Harmon       Iowa State University  Sandia National Laboratory             SULI
+Summer 2016  John Guss                  Iowa State University  Ames National Laboratory               SULI
+Summer 2016  Brian Matthew Fuchs        Iowa State University  Pacific Northwest National Laboratory  SULI
+Summer 2016  Iver John Cleveland        Iowa State University  Ames National Laboratory               SULI
+Summer 2015  Jacinta Priya Misra        Iowa State University  Ames National Laboratory               SULI
+Summer 2015  Lipin (Ivy) Wu             Iowa State University  Ames National Laboratory               SULI
+Summer 2015  Kristi Michelle Short      Iowa State University  Ames National Laboratory               SULI
+Summer 2015  Jessica Lauren Przybylski  Iowa State University  Ames National Laboratory               SULI
+Summer 2015  Christian Edward Pinnell   Iowa State University  Ames National Laboratory               SULI
+Summer 2015  Brad James Ryan            Iowa State University  Ames National Laboratory               SULI
+Summer 2015  Nicole Jandick             Iowa State University  Ames National Laboratory               SULI
+Summer 2015  Brian Matthew Fuchs        Iowa State University  Pacific Northwest National Laboratory  SULI
+Summer 2015  Jeffrey Gustafson          Iowa State University  Ames National Laboratory               SULI
+Summer 2015  Robert Bromberek           Iowa State University  Argonne National Laboratory            SULI
+Summer 2015  Payton James Goodrich      Iowa State University  Ames National Laboratory               SULI
+Summer 2014  Andrew Gulstad             Iowa State University  Ames National Laboratory               SULI
+Summer 2014  Joshua David Bill          Iowa State University  Ames National Laboratory               SULI
+Summer 2014  Morgan Bobb                Iowa State University  Ames National Laboratory               SULI
+Summer 2014  Robert Bromberek           Iowa State University  Argonne National Laboratory            SULI
+Summer 2014  Shannon Goes               Iowa State University  Ames National Laboratory               SULI
+Summer 2014  Eric Schultz               Iowa State University  Ames National Laboratory               SULI
+Spring 2016  Timothy Hackett            Iowa State University  Ames National Laboratory               SULI
+Spring 2016  Adam Dziulko               Iowa State University  Lawrence Berkeley National Laboratory  SULI
+Spring 2015  Brittany Lynne Hallmark    Iowa State University  Ames National Laboratory               SULI
+Spring 2014  William Robin Lindemann    Iowa State University  Ames National Laboratory               SULI
+Spring 2014  Kelsie Marie Pugh          Iowa State University  Ames National Laboratory               SULI
+Spring 2014  Chloe McPherson            Iowa State University  Ames National Laboratory               SULI
+Spring 2014  Jacob Terrence Brenneman   Iowa State University  National Renewable Energy Laboratory   SULI
+Fall 2015    Kaiser Waring Aguirre      Iowa State University  Ames National Laboratory               SULI
+Fall 2015    Shannon Goes               Iowa State University  Ames National Laboratory               SULI
+Fall 2015    Safwan Elkhatib            Iowa State University  Pacific Northwest National Laboratory  SULI
+Fall 2015    Adam Dziulko               Iowa State University  Ames National Laboratory               SULI
 ```
 ---

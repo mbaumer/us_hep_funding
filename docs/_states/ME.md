@@ -25,7 +25,7 @@ Angus S. King, Jr. is the #8 Independent on the Senate Committee on Energy and N
 ```
 This state received no SC HEP grants from 2012-2019
 ```
-### SC Contracts
+## SC Contracts
 ```
 This state received no SC contracts from 2012-2019
 ```
@@ -42,23 +42,32 @@ PRESIDENT & TRUSTEES OF BATES COLLEGE       887,830
 UNIVERSITY OF NEW ENGLAND                   792,365
 BIGELOW LABORATORY FOR OCEAN SCIENCES       399,554
 ```
+## SULI/CCI Interns
+From 2014-2016 (only years available), this district had 5 SULI/CCI interns
+```
+  # Interns  Program    College
+-----------  ---------  -------------------
+          3  SULI       University of Maine
+          1  SULI       Bowdoin College
+          1  SULI       Unity College
+```
 ---
 ---
 <a name="ME-01"></a>
 [Back to top](#top)
 ## ME-01 -- Rep. Chellie Pingree (D) -- [Wikipedia](https://en.wikipedia.org/wiki/ME-01)
-### Committees
+## Committees
 Chellie Pingree is the #15 Democrat on the House Committee on Appropriations 
 
-### HEP Grants
+## HEP Grants
 ```
 This district received no SC HEP grants from 2012-2019
 ```
-### SC Contracts
+## SC Contracts
 ```
 This district received no SC contracts from 2012-2019
 ```
-### NSF MPS Grants
+## NSF MPS Grants
 In the past 8 years, this district has received:<b> $3,408,581 </b>in NSF MPS grants.
 ```
   Year  Institution                              Amount ($)
@@ -79,22 +88,29 @@ In the past 8 years, this district has received:<b> $3,408,581 </b>in NSF MPS gr
   2013  UNIVERSITY OF NEW ENGLAND                   417,785
   2012  BOWDOIN COLLEGE                             149,980
 ```
+## SULI/CCI Interns
+From 2014-2016 (only years available), this district had 1 SULI/CCI intern
+```
+Term         Name                   College          Host Lab                             Program
+-----------  ---------------------  ---------------  -----------------------------------  ---------
+Summer 2016  Joseph Sloane Seibert  Bowdoin College  Princeton Plasma Physics Laboratory  SULI
+```
 ---
 <a name="ME-02"></a>
 [Back to top](#top)
 ## ME-02 -- Rep. Jared F. Golden (D) -- [Wikipedia](https://en.wikipedia.org/wiki/ME-02)
-### Committees
-Jared F. Golden is not on any of our key committees 
+## Committees
+Jared F. Golden is not on any of our key committees. 
 
-### HEP Grants
+## HEP Grants
 ```
 This district received no SC HEP grants from 2012-2019
 ```
-### SC Contracts
+## SC Contracts
 ```
 This district received no SC contracts from 2012-2019
 ```
-### NSF MPS Grants
+## NSF MPS Grants
 In the past 8 years, this district has received:<b> $4,715,032 </b>in NSF MPS grants.
 ```
   Year  Institution                              Amount ($)
@@ -111,5 +127,15 @@ In the past 8 years, this district has received:<b> $4,715,032 </b>in NSF MPS gr
   2012  COLBY COLLEGE                               208,000
   2012  PRESIDENT & TRUSTEES OF BATES COLLEGE       518,036
   2012  UNIVERSITY OF MAINE SYSTEM                1,800,000
+```
+## SULI/CCI Interns
+From 2014-2016 (only years available), this district had 4 SULI/CCI interns
+```
+Term         Name                    College              Host Lab                               Program
+-----------  ----------------------  -------------------  -------------------------------------  ---------
+Summer 2015  Tayelor Gosselin        University of Maine  Brookhaven National Laboratory         SULI
+Summer 2015  Reid Vincent Eli Paris  University of Maine  Oak Ridge National Laboratory          SULI
+Summer 2014  Emily Kathryn Anderson  University of Maine  Pacific Northwest National Laboratory  SULI
+Spring 2014  Katie Schober           Unity College        Brookhaven National Laboratory         SULI
 ```
 ---

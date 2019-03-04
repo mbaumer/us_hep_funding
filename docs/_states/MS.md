@@ -35,7 +35,7 @@ In the past 8 years, this state has received:
   2013  UNIVERSITY OF MISSISSIPPI       118,000
   2012  UNIVERSITY OF MISSISSIPPI       349,000
 ```
-### SC Contracts
+## SC Contracts
 ```
 This state received no SC contracts from 2012-2019
 ```
@@ -53,15 +53,25 @@ UNIVERSITY OF SOUTHERN MISSISSIPPI, THE     2,007,549
 MISSISSIPPI STATE UNIV                        206,055
 U OF SOUTHERN MISSISSIPPI                       4,000
 ```
+## SULI/CCI Interns
+From 2014-2016 (only years available), this district had 15 SULI/CCI interns
+```
+  # Interns  Program    College
+-----------  ---------  ----------------------------------
+          9  SULI       Mississippi State University
+          3  SULI       Jackson State University
+          2  SULI       Rust College
+          1  SULI       University of Southern Mississippi
+```
 ---
 ---
 <a name="MS-01"></a>
 [Back to top](#top)
 ## MS-01 -- Rep. Trent Kelly (R) -- [Wikipedia](https://en.wikipedia.org/wiki/MS-01)
-### Committees
-Trent Kelly is not on any of our key committees 
+## Committees
+Trent Kelly is not on any of our key committees. 
 
-### HEP Grants
+## HEP Grants
 In the past 8 years, this district has received:<b> $2,375,000 </b>in SC HEP grants.
 ```
 Institution                  Amount ($)    Start  End      Principal Investigator    Project Title
@@ -71,11 +81,11 @@ University of Mississippi             0     2014  2015     Quinn, Breese        
 UNIVERSITY OF MISSISSIPPI       118,000     2013  2014     Quinn                     Studies of the Standard Model and Beyond at the Energy and Intensity Frontiers
 UNIVERSITY OF MISSISSIPPI       349,000     2012  2014     Cremaldi                  Experimental Study of Electroweak and Heavy Flavor Physics
 ```
-### SC Contracts
+## SC Contracts
 ```
 This district received no SC contracts from 2012-2019
 ```
-### NSF MPS Grants
+## NSF MPS Grants
 In the past 8 years, this district has received:<b> $6,414,416 </b>in NSF MPS grants.
 ```
   Year  Institution                  Amount ($)
@@ -88,22 +98,30 @@ In the past 8 years, this district has received:<b> $6,414,416 </b>in NSF MPS gr
   2013  UNIVERSITY OF MISSISSIPPI     1,157,000
   2012  UNIVERSITY OF MISSISSIPPI       897,398
 ```
+## SULI/CCI Interns
+From 2014-2016 (only years available), this district had 2 SULI/CCI interns
+```
+Term         Name                    College       Host Lab                              Program
+-----------  ----------------------  ------------  ------------------------------------  ---------
+Summer 2016  Nekesa Chinyere Oliver  Rust College  National Renewable Energy Laboratory  SULI
+Spring 2016  Nekesa Chinyere Oliver  Rust College  National Renewable Energy Laboratory  SULI
+```
 ---
 <a name="MS-02"></a>
 [Back to top](#top)
 ## MS-02 -- Rep. Bennie G. Thompson (D) -- [Wikipedia](https://en.wikipedia.org/wiki/MS-02)
-### Committees
-Bennie G. Thompson is not on any of our key committees 
+## Committees
+Bennie G. Thompson is not on any of our key committees. 
 
-### HEP Grants
+## HEP Grants
 ```
 This district received no SC HEP grants from 2012-2019
 ```
-### SC Contracts
+## SC Contracts
 ```
 This district received no SC contracts from 2012-2019
 ```
-### NSF MPS Grants
+## NSF MPS Grants
 In the past 8 years, this district has received:<b> $3,995,395 </b>in NSF MPS grants.
 ```
   Year  Institution                 Amount ($)
@@ -116,22 +134,31 @@ In the past 8 years, this district has received:<b> $3,995,395 </b>in NSF MPS gr
   2013  JACKSON STATE UNIVERSITY     1,200,000
   2012  JACKSON STATE UNIVERSITY       620,114
 ```
+## SULI/CCI Interns
+From 2014-2016 (only years available), this district had 3 SULI/CCI interns
+```
+Term         Name           College                   Host Lab                               Program
+-----------  -------------  ------------------------  -------------------------------------  ---------
+Summer 2015  Amir Ali       Jackson State University  Argonne National Laboratory            SULI
+Spring 2015  Ashlee Ingram  Jackson State University  Lawrence Berkeley National Laboratory  SULI
+Fall 2014    Ashlee Ingram  Jackson State University  Lawrence Berkeley National Laboratory  SULI
+```
 ---
 <a name="MS-03"></a>
 [Back to top](#top)
 ## MS-03 -- Rep. Michael Guest (R) -- [Wikipedia](https://en.wikipedia.org/wiki/MS-03)
-### Committees
-Michael Guest is not on any of our key committees 
+## Committees
+Michael Guest is not on any of our key committees. 
 
-### HEP Grants
+## HEP Grants
 ```
 This district received no SC HEP grants from 2012-2019
 ```
-### SC Contracts
+## SC Contracts
 ```
 This district received no SC contracts from 2012-2019
 ```
-### NSF MPS Grants
+## NSF MPS Grants
 In the past 8 years, this district has received:<b> $3,824,372 </b>in NSF MPS grants.
 ```
   Year  Institution                     Amount ($)
@@ -146,24 +173,39 @@ In the past 8 years, this district has received:<b> $3,824,372 </b>in NSF MPS gr
   2013  MISSISSIPPI STATE UNIVERSITY       317,737
   2012  MISSISSIPPI STATE UNIVERSITY       709,845
 ```
+## SULI/CCI Interns
+From 2014-2016 (only years available), this district had 9 SULI/CCI interns
+```
+Term         Name                   College                       Host Lab                                        Program
+-----------  ---------------------  ----------------------------  ----------------------------------------------  ---------
+Summer 2016  Mary King              Mississippi State University  Pacific Northwest National Laboratory           SULI
+Summer 2015  Sam Jones Cox          Mississippi State University  Oak Ridge National Laboratory                   SULI
+Summer 2015  John Kristian Madsen   Mississippi State University  Lawrence Livermore National Laboratory          SULI
+Summer 2015  Kendyl Ryan Partridge  Mississippi State University  Argonne National Laboratory                     SULI
+Summer 2014  Cameron Stuart Clarke  Mississippi State University  Thomas Jefferson National Accelerator Facility  SULI
+Summer 2014  Taylor Comer           Mississippi State University  Oak Ridge National Laboratory                   SULI
+Summer 2014  Ryan Jacob Weitzel     Mississippi State University  Argonne National Laboratory                     SULI
+Summer 2014  Zachary Windom         Mississippi State University  Oak Ridge National Laboratory                   SULI
+Fall 2014    Lauretta Gorman        Mississippi State University  Lawrence Berkeley National Laboratory           SULI
+```
 ---
 <a name="MS-04"></a>
 [Back to top](#top)
 ## MS-04 -- Rep. Steven M. Palazzo (R) -- [Wikipedia](https://en.wikipedia.org/wiki/MS-04)
-### Committees
+## Committees
 Steven M. Palazzo is the #3 Republican on the House Appropriations Subcommittee on Commerce, Justice, and Science 
 
 Steven M. Palazzo is the #19 Republican on the House Committee on Appropriations 
 
-### HEP Grants
+## HEP Grants
 ```
 This district received no SC HEP grants from 2012-2019
 ```
-### SC Contracts
+## SC Contracts
 ```
 This district received no SC contracts from 2012-2019
 ```
-### NSF MPS Grants
+## NSF MPS Grants
 In the past 8 years, this district has received:<b> $4,655,626 </b>in NSF MPS grants.
 ```
   Year  Institution                                Amount ($)
@@ -176,5 +218,12 @@ In the past 8 years, this district has received:<b> $4,655,626 </b>in NSF MPS gr
   2014  UNIVERSITY OF SOUTHERN MISSISSIPPI            866,223
   2013  UNIVERSITY OF SOUTHERN MISSISSIPPI            548,998
   2012  UNIVERSITY OF SOUTHERN MISSISSIPPI            711,002
+```
+## SULI/CCI Interns
+From 2014-2016 (only years available), this district had 1 SULI/CCI intern
+```
+Term         Name                      College                             Host Lab                       Program
+-----------  ------------------------  ----------------------------------  -----------------------------  ---------
+Summer 2015  Osler Kendall Moore, Jr.  University of Southern Mississippi  Oak Ridge National Laboratory  SULI
 ```
 ---

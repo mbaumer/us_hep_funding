@@ -13,7 +13,7 @@ permalink : /states/SD/
 ## Committees
 John Thune is the #2 Republican on the Senate Committee on Commerce, Science, and Transportation 
 
-Mike Rounds is not on any of our key committees 
+Mike Rounds is not on any of our key committees. 
 
 ## HEP Grants
 In the past 8 years, this state has received:
@@ -26,7 +26,7 @@ University of South Dakota                      579,000
 Dakota State University                          12,477
 DAKOTA STATE UNIVERSITY                           8,000
 ```
-### SC Contracts
+## SC Contracts
 ```
 This state received no SC contracts from 2012-2019
 ```
@@ -47,15 +47,25 @@ DAKOTA STATE UNIVERSITY                          24,000
 AUGUSTANA COLLEGE                                19,000
 DAKOTA STATE UNIV                                12,000
 ```
+## SULI/CCI Interns
+From 2014-2016 (only years available), this district had 7 SULI/CCI interns
+```
+  # Interns  Program    College
+-----------  ---------  -------------------------------------------
+          4  SULI       South Dakota School of Mines and Technology
+          1  SULI       Dakota State University
+          1  SULI       South Dakota State University
+          1  SULI       University of South Dakota
+```
 ---
 ---
 <a name="SD-00"></a>
 [Back to top](#top)
 ## SD-00 -- Rep. Dusty Johnson (R) -- [Wikipedia](https://en.wikipedia.org/wiki/SD-00)
-### Committees
-Dusty Johnson is not on any of our key committees 
+## Committees
+Dusty Johnson is not on any of our key committees. 
 
-### HEP Grants
+## HEP Grants
 In the past 8 years, this district has received:<b> $2,199,477 </b>in SC HEP grants.
 ```
 Institution                                  Amount ($)    Start  End      Principal Investigator    Project Title
@@ -68,11 +78,11 @@ Dakota State University                           4,000     2015  2016     Szcze
 South Dakota School of Mines & Technology     1,600,000     2015  Ongoing  Schnee, Richard           Underground Physics at SURF and Beyond
 DAKOTA STATE UNIVERSITY                           8,000     2013  2014     Szczerbinska              Center for Theoretical Underground Physics & Related Fields & International Conference on Interconnections Between Particle Physics & Cosmology, June/July 2013
 ```
-### SC Contracts
+## SC Contracts
 ```
 This district received no SC contracts from 2012-2019
 ```
-### NSF MPS Grants
+## NSF MPS Grants
 In the past 8 years, this district has received:<b> $8,796,726 </b>in NSF MPS grants.
 ```
   Year  Institution                                  Amount ($)
@@ -111,5 +121,18 @@ In the past 8 years, this district has received:<b> $8,796,726 </b>in NSF MPS gr
   2012  SOUTH DAKOTA STATE UNIVERSITY                   604,599
   2012  THE UNIVERSITY OF SOUTH DAKOTA                  559,563
   2012  AUGUSTANA COLLEGE ASSOCIATION, THE               82,611
+```
+## SULI/CCI Interns
+From 2014-2016 (only years available), this district had 7 SULI/CCI interns
+```
+Term         Name                   College                                      Host Lab                               Program
+-----------  ---------------------  -------------------------------------------  -------------------------------------  ---------
+Summer 2016  Riley Paulsen          University of South Dakota                   General Atomics / DIII-D               SULI
+Summer 2015  Daniel Tronstad        South Dakota School of Mines and Technology  Argonne National Laboratory            SULI
+Summer 2015  Hannah Wisser          South Dakota School of Mines and Technology  Fermi National Accelerator Laboratory  SULI
+Summer 2015  William Jake Hofer     Dakota State University                      Pacific Northwest National Laboratory  SULI
+Summer 2014  Travis Glenn Buse      South Dakota School of Mines and Technology  National Renewable Energy Laboratory   SULI
+Summer 2014  Scott Daniel Korthals  South Dakota State University                Argonne National Laboratory            SULI
+Spring 2016  Michael Kelly          South Dakota School of Mines and Technology  National Renewable Energy Laboratory   SULI
 ```
 ---

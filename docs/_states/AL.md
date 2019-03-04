@@ -17,7 +17,7 @@ Richard C. Shelby is the #1 Republican on the Senate Committee on Appropriations
 
 Richard C. Shelby is the #3 Republican on the Senate Appropriations Subcommittee on Energy and Water Development 
 
-Doug Jones is not on any of our key committees 
+Doug Jones is not on any of our key committees. 
 
 ## HEP Grants
 In the past 8 years, this state has received:
@@ -30,7 +30,7 @@ University of Alabama - Birmingham        712,000
 UNIVERSITY OF ALABAMA AT TUSCALOOSA       685,000
 UNIVERSITY OF SOUTH ALABAMA                70,000
 ```
-### SC Contracts
+## SC Contracts
 ```
 This state received no SC contracts from 2012-2019
 ```
@@ -54,26 +54,41 @@ ALABAMA STATE UNIVERSITY                       271,535
 UNIVERSITY OF NORTH ALABAMA                     48,544
 TROY UNIVERSITY                                 24,838
 ```
+## SULI/CCI Interns
+From 2014-2016 (only years available), this district had 35 SULI/CCI interns
+```
+  # Interns  Program    College
+-----------  ---------  ----------------------------------------------
+         10  SULI       The University of Alabama
+          7  SULI       Auburn University
+          5  SULI       Alabama Agricultural and Mechanical University
+          5  SULI       University of Alabama at Birmingham
+          4  SULI       University of Alabama in Huntsville
+          1  CCI        J.F. Drake State Technical College
+          1  SULI       Alabama State University
+          1  SULI       Birmingham-Southern College
+          1  SULI       University of South Alabama
+```
 ---
 ---
 <a name="AL-01"></a>
 [Back to top](#top)
 ## AL-01 -- Rep. Bradley Byrne (R) -- [Wikipedia](https://en.wikipedia.org/wiki/AL-01)
-### Committees
-Bradley Byrne is not on any of our key committees 
+## Committees
+Bradley Byrne is not on any of our key committees. 
 
-### HEP Grants
+## HEP Grants
 In the past 8 years, this district has received:<b> $70,000 </b>in SC HEP grants.
 ```
 Institution                    Amount ($)    Start    End  Principal Investigator    Project Title
 ---------------------------  ------------  -------  -----  ------------------------  -------------------------------------------------------------------------------------------------------------------------------
 UNIVERSITY OF SOUTH ALABAMA        70,000     2012   2014  Jenkins                   Experimental High Energy Physics at the University of South Alabama: Request to Continue Activities for CMS, BaBaR and Belle II
 ```
-### SC Contracts
+## SC Contracts
 ```
 This district received no SC contracts from 2012-2019
 ```
-### NSF MPS Grants
+## NSF MPS Grants
 In the past 8 years, this district has received:<b> $625,000 </b>in NSF MPS grants.
 ```
   Year  Institution                    Amount ($)
@@ -82,24 +97,31 @@ In the past 8 years, this district has received:<b> $625,000 </b>in NSF MPS gran
   2017  UNIVERSITY OF SOUTH ALABAMA        10,000
   2015  U OF SOUTH ALABAMA                285,000
 ```
+## SULI/CCI Interns
+From 2014-2016 (only years available), this district had 1 SULI/CCI intern
+```
+Term         Name             College                      Host Lab                        Program
+-----------  ---------------  ---------------------------  ------------------------------  ---------
+Summer 2016  Danielle Adamek  University of South Alabama  Brookhaven National Laboratory  SULI
+```
 ---
 <a name="AL-02"></a>
 [Back to top](#top)
 ## AL-02 -- Rep. Martha Roby (R) -- [Wikipedia](https://en.wikipedia.org/wiki/AL-02)
-### Committees
+## Committees
 Martha Roby is the #2 Republican on the House Appropriations Subcommittee on Commerce, Justice, and Science 
 
 Martha Roby is the #16 Republican on the House Committee on Appropriations 
 
-### HEP Grants
+## HEP Grants
 ```
 This district received no SC HEP grants from 2012-2019
 ```
-### SC Contracts
+## SC Contracts
 ```
 This district received no SC contracts from 2012-2019
 ```
-### NSF MPS Grants
+## NSF MPS Grants
 In the past 8 years, this district has received:<b> $434,195 </b>in NSF MPS grants.
 ```
   Year  Institution                 Amount ($)
@@ -109,22 +131,26 @@ In the past 8 years, this district has received:<b> $434,195 </b>in NSF MPS gran
   2016  ALABAMA STATE UNIVERSITY       271,535
   2015  AUBURN UNIVERSITY              137,822
 ```
+## SULI/CCI Interns
+```
+This district had no SULI/CCI interns from 2014-2016 (only years available)
+```
 ---
 <a name="AL-03"></a>
 [Back to top](#top)
 ## AL-03 -- Rep. Mike Rogers (R) -- [Wikipedia](https://en.wikipedia.org/wiki/AL-03)
-### Committees
-Mike Rogers is not on any of our key committees 
+## Committees
+Mike Rogers is not on any of our key committees. 
 
-### HEP Grants
+## HEP Grants
 ```
 This district received no SC HEP grants from 2012-2019
 ```
-### SC Contracts
+## SC Contracts
 ```
 This district received no SC contracts from 2012-2019
 ```
-### NSF MPS Grants
+## NSF MPS Grants
 In the past 8 years, this district has received:<b> $11,692,282 </b>in NSF MPS grants.
 ```
   Year  Institution            Amount ($)
@@ -141,43 +167,60 @@ In the past 8 years, this district has received:<b> $11,692,282 </b>in NSF MPS g
   2013  AUBURN UNIVERSITY         587,586
   2012  AUBURN UNIVERSITY         505,061
 ```
+## SULI/CCI Interns
+From 2014-2016 (only years available), this district had 7 SULI/CCI interns
+```
+Term         Name                     College            Host Lab                               Program
+-----------  -----------------------  -----------------  -------------------------------------  ---------
+Summer 2016  Matthew Barry            Auburn University  Princeton Plasma Physics Laboratory    SULI
+Summer 2016  Matthew David Preisser   Auburn University  Pacific Northwest National Laboratory  SULI
+Summer 2016  Zechun Yang              Auburn University  Brookhaven National Laboratory         SULI
+Summer 2015  Matthew Barry            Auburn University  SLAC National Accelerator Laboratory   SULI
+Summer 2014  Robert Joseph Joseph     Auburn University  Oak Ridge National Laboratory          SULI
+Summer 2014  Brittany Margaret Sipin  Auburn University  Oak Ridge National Laboratory          SULI
+Fall 2014    Daniel Dario Martinez    Auburn University  Lawrence Berkeley National Laboratory  SULI
+```
 ---
 <a name="AL-04"></a>
 [Back to top](#top)
 ## AL-04 -- Rep. Robert B. Aderholt (R) -- [Wikipedia](https://en.wikipedia.org/wiki/AL-04)
-### Committees
+## Committees
 Robert B. Aderholt is the #1 Republican on the House Appropriations Subcommittee on Commerce, Justice, and Science 
 
 Robert B. Aderholt is the #3 Republican on the House Committee on Appropriations 
 
-### HEP Grants
+## HEP Grants
 ```
 This district received no SC HEP grants from 2012-2019
 ```
-### SC Contracts
+## SC Contracts
 ```
 This district received no SC contracts from 2012-2019
 ```
-### NSF MPS Grants
+## NSF MPS Grants
 ```
 This district received no NSF MPS grants from 2012-2019
+```
+## SULI/CCI Interns
+```
+This district had no SULI/CCI interns from 2014-2016 (only years available)
 ```
 ---
 <a name="AL-05"></a>
 [Back to top](#top)
 ## AL-05 -- Rep. Mo Brooks (R) -- [Wikipedia](https://en.wikipedia.org/wiki/AL-05)
-### Committees
+## Committees
 Mo Brooks is the #2 Republican on the House Committee on Science, Space, and Technology 
 
-### HEP Grants
+## HEP Grants
 ```
 This district received no SC HEP grants from 2012-2019
 ```
-### SC Contracts
+## SC Contracts
 ```
 This district received no SC contracts from 2012-2019
 ```
-### NSF MPS Grants
+## NSF MPS Grants
 In the past 8 years, this district has received:<b> $2,852,426 </b>in NSF MPS grants.
 ```
   Year  Institution                                 Amount ($)
@@ -198,33 +241,60 @@ In the past 8 years, this district has received:<b> $2,852,426 </b>in NSF MPS gr
   2012  UNIVERSITY OF ALABAMA IN HUNTSVILLE            370,277
   2012  UNIVERSITY OF NORTH ALABAMA                     19,114
 ```
+## SULI/CCI Interns
+From 2014-2016 (only years available), this district had 10 SULI/CCI interns
+```
+Term         Name                  College                                         Host Lab                        Program
+-----------  --------------------  ----------------------------------------------  ------------------------------  ---------
+Summer 2016  Rachel Sanders        Alabama Agricultural and Mechanical University  Brookhaven National Laboratory  SULI
+Summer 2016  Lauren Walker         Alabama Agricultural and Mechanical University  Brookhaven National Laboratory  SULI
+Summer 2016  William Blake Hawley  University of Alabama in Huntsville             Oak Ridge National Laboratory   SULI
+Summer 2015  Renee Chan            University of Alabama in Huntsville             Brookhaven National Laboratory  SULI
+Summer 2014  Michael Avery Knotts  Alabama Agricultural and Mechanical University  Oak Ridge National Laboratory   SULI
+Summer 2014  john mwathi           Alabama Agricultural and Mechanical University  Brookhaven National Laboratory  SULI
+Summer 2014  Shaun Perryman        J.F. Drake State Technical College              Oak Ridge National Laboratory   CCI
+Spring 2016  Daniel Smallwood      University of Alabama in Huntsville             Oak Ridge National Laboratory   SULI
+Spring 2015  William Blake Hawley  University of Alabama in Huntsville             Oak Ridge National Laboratory   SULI
+Spring 2014  Belther Monono        Alabama Agricultural and Mechanical University  Oak Ridge National Laboratory   SULI
+```
 ---
 <a name="AL-06"></a>
 [Back to top](#top)
 ## AL-06 -- Rep. Gary J. Palmer (R) -- [Wikipedia](https://en.wikipedia.org/wiki/AL-06)
-### Committees
-Gary J. Palmer is not on any of our key committees 
+## Committees
+Gary J. Palmer is not on any of our key committees. 
 
-### HEP Grants
+## HEP Grants
 ```
 This district received no SC HEP grants from 2012-2019
 ```
-### SC Contracts
+## SC Contracts
 ```
 This district received no SC contracts from 2012-2019
 ```
-### NSF MPS Grants
+## NSF MPS Grants
 ```
 This district received no NSF MPS grants from 2012-2019
+```
+## SULI/CCI Interns
+From 2014-2016 (only years available), this district had 5 SULI/CCI interns
+```
+Term         Name                      College                              Host Lab                               Program
+-----------  ------------------------  -----------------------------------  -------------------------------------  ---------
+Summer 2016  Kristina Celeste Fong     University of Alabama at Birmingham  Brookhaven National Laboratory         SULI
+Summer 2016  Aidan O'beirne            University of Alabama at Birmingham  Los Alamos National Laboratory         SULI
+Summer 2015  Kristina Celeste Fong     University of Alabama at Birmingham  Brookhaven National Laboratory         SULI
+Summer 2015  Luke Mitchell McClintock  University of Alabama at Birmingham  Los Alamos National Laboratory         SULI
+Spring 2016  Joshua Josiah Pritchett   University of Alabama at Birmingham  Lawrence Berkeley National Laboratory  SULI
 ```
 ---
 <a name="AL-07"></a>
 [Back to top](#top)
 ## AL-07 -- Rep. Terri A. Sewell (D) -- [Wikipedia](https://en.wikipedia.org/wiki/AL-07)
-### Committees
-Terri A. Sewell is not on any of our key committees 
+## Committees
+Terri A. Sewell is not on any of our key committees. 
 
-### HEP Grants
+## HEP Grants
 In the past 8 years, this district has received:<b> $4,291,000 </b>in SC HEP grants.
 ```
 Institution                            Amount ($)    Start  End      Principal Investigator    Project Title
@@ -235,11 +305,11 @@ University of Alabama                   2,774,000     2014  Ongoing  Busenitz, J
 UNIVERSITY OF ALABAMA AT TUSCALOOSA       635,000     2012  2014     Busenitz                  Research in Neutrino Physics
 UNIVERSITY OF ALABAMA AT TUSCALOOSA        50,000     2012  2013     Okada                     Research in Theoretical High Energy Physics
 ```
-### SC Contracts
+## SC Contracts
 ```
 This district received no SC contracts from 2012-2019
 ```
-### NSF MPS Grants
+## NSF MPS Grants
 In the past 8 years, this district has received:<b> $16,808,910 </b>in NSF MPS grants.
 ```
   Year  Institution                            Amount ($)
@@ -260,5 +330,23 @@ In the past 8 years, this district has received:<b> $16,808,910 </b>in NSF MPS g
   2013  UNIVERSITY OF ALABAMA AT BIRMINGHAM       753,080
   2012  UNIVERSITY OF ALABAMA                   2,205,252
   2012  UNIVERSITY OF ALABAMA AT BIRMINGHAM       710,254
+```
+## SULI/CCI Interns
+From 2014-2016 (only years available), this district had 12 SULI/CCI interns
+```
+Term         Name                          College                      Host Lab                               Program
+-----------  ----------------------------  ---------------------------  -------------------------------------  ---------
+Summer 2016  Emma Clements                 The University of Alabama    National Renewable Energy Laboratory   SULI
+Summer 2016  Matthew Fister                The University of Alabama    Los Alamos National Laboratory         SULI
+Summer 2016  Emily Leviness                The University of Alabama    General Atomics / DIII-D               SULI
+Summer 2016  Travis Taylor                 The University of Alabama    Oak Ridge National Laboratory          SULI
+Summer 2015  Zachary Thane Thompson        The University of Alabama    Oak Ridge National Laboratory          SULI
+Summer 2014  Barry Clay Burrows            The University of Alabama    Oak Ridge National Laboratory          SULI
+Summer 2014  Jake Farell                   The University of Alabama    Savannah River National Laboratory     SULI
+Summer 2014  Laurel Johnson                The University of Alabama    Argonne National Laboratory            SULI
+Summer 2014  Trisha D. Handley             Alabama State University     Ames National Laboratory               SULI
+Spring 2015  Marissa Amey Jenness Leshnov  The University of Alabama    National Renewable Energy Laboratory   SULI
+Fall 2015    Kaitlyn Leigh Somazze         The University of Alabama    Idaho National Laboratory              SULI
+Fall 2014    Huda Qureshi                  Birmingham-Southern College  Lawrence Berkeley National Laboratory  SULI
 ```
 ---

@@ -13,7 +13,7 @@ permalink : /states/MN/
 ## Committees
 Amy Klobuchar is the #2 Democrat on the Senate Committee on Commerce, Science, and Transportation 
 
-Tina Smith is not on any of our key committees 
+Tina Smith is not on any of our key committees. 
 
 ## HEP Grants
 In the past 8 years, this state has received:
@@ -30,7 +30,7 @@ In the past 8 years, this state has received:
   2012  UNIVERSITY OF MINNESOTA, DULUTH             45,000
   2012  UNIVERSITY OF MINNESOTA, MINNEAPOLIS     2,956,000
 ```
-### SC Contracts
+## SC Contracts
 In the past 8 years, this state has received:
 3 Office of Science contracts, totalling <b> $21,551</b>
 ```
@@ -68,23 +68,40 @@ SAINT OLAF COLLEGE                                   19,390
 SAINT MARY'S UNIVERSITY OF MINNESOTA                 14,000
 COLLEGE OF ST SCHOLASTICA INC                         9,000
 ```
+## SULI/CCI Interns
+From 2014-2016 (only years available), this district had 36 SULI/CCI interns
+```
+  # Interns  Program    College
+-----------  ---------  -------------------------------------------
+          8  SULI       St. Olaf College
+          7  SULI       University of Minnesota-Twin Cities
+          6  SULI       Carleton College
+          4  SULI       University of Saint Thomas
+          3  SULI       Winona State University
+          2  SULI       Saint John's University
+          2  SULI       University of Minnesota-Duluth
+          1  CCI        Minneapolis Community and Technical College
+          1  SULI       Gustavus Adolphus College
+          1  SULI       St. Cloud State University
+          1  SULI       University of Minnesota-Morris
+```
 ---
 ---
 <a name="MN-01"></a>
 [Back to top](#top)
 ## MN-01 -- Rep. Jim Hagedorn (R) -- [Wikipedia](https://en.wikipedia.org/wiki/MN-01)
-### Committees
-Jim Hagedorn is not on any of our key committees 
+## Committees
+Jim Hagedorn is not on any of our key committees. 
 
-### HEP Grants
+## HEP Grants
 ```
 This district received no SC HEP grants from 2012-2019
 ```
-### SC Contracts
+## SC Contracts
 ```
 This district received no SC contracts from 2012-2019
 ```
-### NSF MPS Grants
+## NSF MPS Grants
 In the past 8 years, this district has received:<b> $998,505 </b>in NSF MPS grants.
 ```
   Year  Institution                             Amount ($)
@@ -97,22 +114,32 @@ In the past 8 years, this district has received:<b> $998,505 </b>in NSF MPS gran
   2012  MINNESOTA STATE UNIVERSITY, MANKATO         24,000
   2012  SAINT MARY'S UNIVERSITY OF MINNESOTA        14,000
 ```
+## SULI/CCI Interns
+From 2014-2016 (only years available), this district had 4 SULI/CCI interns
+```
+Term         Name                  College                    Host Lab                     Program
+-----------  --------------------  -------------------------  ---------------------------  ---------
+Summer 2015  Domenic Ofsdahl       Winona State University    Argonne National Laboratory  SULI
+Summer 2014  Daniel James Baldwin  Gustavus Adolphus College  Ames National Laboratory     SULI
+Summer 2014  Kevin Michael Brom    Winona State University    Argonne National Laboratory  SULI
+Summer 2014  Tad DeGonda Dolphay   Winona State University    Argonne National Laboratory  SULI
+```
 ---
 <a name="MN-02"></a>
 [Back to top](#top)
 ## MN-02 -- Rep. Angie Craig (D) -- [Wikipedia](https://en.wikipedia.org/wiki/MN-02)
-### Committees
-Angie Craig is not on any of our key committees 
+## Committees
+Angie Craig is not on any of our key committees. 
 
-### HEP Grants
+## HEP Grants
 ```
 This district received no SC HEP grants from 2012-2019
 ```
-### SC Contracts
+## SC Contracts
 ```
 This district received no SC contracts from 2012-2019
 ```
-### NSF MPS Grants
+## NSF MPS Grants
 In the past 8 years, this district has received:<b> $4,281,867 </b>in NSF MPS grants.
 ```
   Year  Institution           Amount ($)
@@ -131,18 +158,38 @@ In the past 8 years, this district has received:<b> $4,281,867 </b>in NSF MPS gr
   2012  CARLETON COLLEGE         537,152
   2012  ST. OLAF COLLEGE         321,529
 ```
+## SULI/CCI Interns
+From 2014-2016 (only years available), this district had 14 SULI/CCI interns
+```
+Term         Name                           College           Host Lab                               Program
+-----------  -----------------------------  ----------------  -------------------------------------  ---------
+Summer 2016  Caitlyn Amanda Rachel Johnson  St. Olaf College  National Renewable Energy Laboratory   SULI
+Summer 2016  Zachary Michael Norberg        St. Olaf College  Pacific Northwest National Laboratory  SULI
+Summer 2016  Adam Rutkowski                 Carleton College  Lawrence Berkeley National Laboratory  SULI
+Summer 2015  Jordan Timothy Dull            St. Olaf College  Argonne National Laboratory            SULI
+Summer 2015  Heena Joo                      St. Olaf College  Pacific Northwest National Laboratory  SULI
+Summer 2015  Joshua Lipstone                Carleton College  Oak Ridge National Laboratory          SULI
+Summer 2014  Jordan Timothy Dull            St. Olaf College  Brookhaven National Laboratory         SULI
+Summer 2014  Meghan Mariah Exner            St. Olaf College  Brookhaven National Laboratory         SULI
+Summer 2014  Jorden Alyss Johnson           St. Olaf College  Ames National Laboratory               SULI
+Summer 2014  Anna Mattson                   St. Olaf College  Idaho National Laboratory              SULI
+Summer 2014  Grace Ayres Newman             Carleton College  Pacific Northwest National Laboratory  SULI
+Spring 2015  Andrew Beach Peterson          Carleton College  Los Alamos National Laboratory         SULI
+Fall 2014    Julia Edith Greenwald          Carleton College  National Renewable Energy Laboratory   SULI
+Fall 2014    Andrew Beach Peterson          Carleton College  Los Alamos National Laboratory         SULI
+```
 ---
 <a name="MN-03"></a>
 [Back to top](#top)
 ## MN-03 -- Rep. Dean Phillips (D) -- [Wikipedia](https://en.wikipedia.org/wiki/MN-03)
-### Committees
-Dean Phillips is not on any of our key committees 
+## Committees
+Dean Phillips is not on any of our key committees. 
 
-### HEP Grants
+## HEP Grants
 ```
 This district received no SC HEP grants from 2012-2019
 ```
-### SC Contracts
+## SC Contracts
 In the past 8 years, this district has received:
 3 Office of Science contracts, totalling <b> $21,551</b>
 ```
@@ -152,29 +199,33 @@ In the past 8 years, this district has received:
   2013  WORLD DATA PRODUCTS, INC.            7,235  ADP INPUT/OUTPUT AND STORAGE DEVICES
   2013  WORLD DATA PRODUCTS, INC.            7,990  ADPE SYSTEM CONFIGURATION
 ```
-### NSF MPS Grants
+## NSF MPS Grants
 In the past 8 years, this district has received:<b> $72,183 </b>in NSF MPS grants.
 ```
   Year  Institution                         Amount ($)
 ------  --------------------------------  ------------
   2012  NORTH HENNEPIN COMMUNITY COLLEGE        72,183
 ```
+## SULI/CCI Interns
+```
+This district had no SULI/CCI interns from 2014-2016 (only years available)
+```
 ---
 <a name="MN-04"></a>
 [Back to top](#top)
 ## MN-04 -- Rep. Betty McCollum (D) -- [Wikipedia](https://en.wikipedia.org/wiki/MN-04)
-### Committees
+## Committees
 Betty McCollum is the #10 Democrat on the House Committee on Appropriations 
 
-### HEP Grants
+## HEP Grants
 ```
 This district received no SC HEP grants from 2012-2019
 ```
-### SC Contracts
+## SC Contracts
 ```
 This district received no SC contracts from 2012-2019
 ```
-### NSF MPS Grants
+## NSF MPS Grants
 In the past 8 years, this district has received:<b> $3,732,634 </b>in NSF MPS grants.
 ```
   Year  Institution                                      Amount ($)
@@ -197,14 +248,24 @@ In the past 8 years, this district has received:<b> $3,732,634 </b>in NSF MPS gr
   2012  UNIVERSITY OF ST. THOMAS                            192,173
   2012  BETHEL UNIVERSITY                                   230,349
 ```
+## SULI/CCI Interns
+From 2014-2016 (only years available), this district had 4 SULI/CCI interns
+```
+Term         Name            College                     Host Lab                                Program
+-----------  --------------  --------------------------  --------------------------------------  ---------
+Summer 2016  Anna Grim       University of Saint Thomas  Lawrence Livermore National Laboratory  SULI
+Summer 2016  Mitchell Klein  University of Saint Thomas  Los Alamos National Laboratory          SULI
+Summer 2016  Emily Vecchia   University of Saint Thomas  Los Alamos National Laboratory          SULI
+Summer 2015  Ryan Slechta    University of Saint Thomas  Los Alamos National Laboratory          SULI
+```
 ---
 <a name="MN-05"></a>
 [Back to top](#top)
 ## MN-05 -- Rep. Ilhan Omar (D) -- [Wikipedia](https://en.wikipedia.org/wiki/MN-05)
-### Committees
+## Committees
 Ilhan Omar is the #12 Democrat on the House Subcommittee on Higher Education and Workforce Development 
 
-### HEP Grants
+## HEP Grants
 In the past 8 years, this district has received:<b> $19,135,000 </b>in SC HEP grants.
 ```
 Institution                             Amount ($)    Start  End      Principal Investigator    Project Title
@@ -219,11 +280,11 @@ UNIVERSITY OF MINNESOTA, MINNEAPOLIS        32,000     2013  2014     Pawloski  
 UNIVERSITY OF MINNESOTA, MINNEAPOLIS     3,169,000     2012  2014     Marshak                   Collaborative Research and Development in Neutrino Physics
 UNIVERSITY OF MINNESOTA, MINNEAPOLIS     3,808,000     2012  2014     Rusack, Olive             Experimental and Theoretical High Energy Physics
 ```
-### SC Contracts
+## SC Contracts
 ```
 This district received no SC contracts from 2012-2019
 ```
-### NSF MPS Grants
+## NSF MPS Grants
 In the past 8 years, this district has received:<b> $134,936,334 </b>in NSF MPS grants.
 ```
   Year  Institution                               Amount ($)
@@ -240,22 +301,36 @@ In the past 8 years, this district has received:<b> $134,936,334 </b>in NSF MPS 
   2012  AUGSBURG COLLEGE                             157,925
   2012  REGENTS OF THE UNIVERSITY OF MINNESOTA    22,893,163
 ```
+## SULI/CCI Interns
+From 2014-2016 (only years available), this district had 8 SULI/CCI interns
+```
+Term         Name            College                                      Host Lab                               Program
+-----------  --------------  -------------------------------------------  -------------------------------------  ---------
+Summer 2016  Seamus Jones    University of Minnesota-Twin Cities          Argonne National Laboratory            SULI
+Summer 2016  John Ke         University of Minnesota-Twin Cities          Lawrence Berkeley National Laboratory  SULI
+Summer 2016  Jay Wang        University of Minnesota-Twin Cities          Lawrence Berkeley National Laboratory  SULI
+Summer 2016  Mbathio Diagne  Minneapolis Community and Technical College  National Renewable Energy Laboratory   CCI
+Summer 2015  John Ke         University of Minnesota-Twin Cities          Lawrence Berkeley National Laboratory  SULI
+Summer 2015  Maren Symes     University of Minnesota-Twin Cities          Pacific Northwest National Laboratory  SULI
+Summer 2014  Kelly Stifter   University of Minnesota-Twin Cities          Fermi National Accelerator Laboratory  SULI
+Spring 2015  Rishabh Mishra  University of Minnesota-Twin Cities          Oak Ridge National Laboratory          SULI
+```
 ---
 <a name="MN-06"></a>
 [Back to top](#top)
 ## MN-06 -- Rep. Tom Emmer (R) -- [Wikipedia](https://en.wikipedia.org/wiki/MN-06)
-### Committees
-Tom Emmer is not on any of our key committees 
+## Committees
+Tom Emmer is not on any of our key committees. 
 
-### HEP Grants
+## HEP Grants
 ```
 This district received no SC HEP grants from 2012-2019
 ```
-### SC Contracts
+## SC Contracts
 ```
 This district received no SC contracts from 2012-2019
 ```
-### NSF MPS Grants
+## NSF MPS Grants
 In the past 8 years, this district has received:<b> $651,460 </b>in NSF MPS grants.
 ```
   Year  Institution                  Amount ($)
@@ -265,22 +340,31 @@ In the past 8 years, this district has received:<b> $651,460 </b>in NSF MPS gran
   2012  COLLEGE OF SAINT BENEDICT        42,500
   2012  ST CLOUD STATE UNIVERSITY       129,809
 ```
+## SULI/CCI Interns
+From 2014-2016 (only years available), this district had 3 SULI/CCI interns
+```
+Term         Name             College                     Host Lab                        Program
+-----------  ---------------  --------------------------  ------------------------------  ---------
+Summer 2014  Anthony Pearson  St. Cloud State University  Los Alamos National Laboratory  SULI
+Spring 2016  Orlando Lopez    Saint John's University     Brookhaven National Laboratory  SULI
+Fall 2015    Orlando Lopez    Saint John's University     Brookhaven National Laboratory  SULI
+```
 ---
 <a name="MN-07"></a>
 [Back to top](#top)
 ## MN-07 -- Rep. Collin C. Peterson (D) -- [Wikipedia](https://en.wikipedia.org/wiki/MN-07)
-### Committees
-Collin C. Peterson is not on any of our key committees 
+## Committees
+Collin C. Peterson is not on any of our key committees. 
 
-### HEP Grants
+## HEP Grants
 ```
 This district received no SC HEP grants from 2012-2019
 ```
-### SC Contracts
+## SC Contracts
 ```
 This district received no SC contracts from 2012-2019
 ```
-### NSF MPS Grants
+## NSF MPS Grants
 In the past 8 years, this district has received:<b> $140,000 </b>in NSF MPS grants.
 ```
   Year  Institution                               Amount ($)
@@ -288,25 +372,32 @@ In the past 8 years, this district has received:<b> $140,000 </b>in NSF MPS gran
   2018  REGENTS OF THE UNIVERSITY OF MINNESOTA        45,170
   2016  REGENTS OF THE UNIVERSITY OF MINNESOTA        94,830
 ```
+## SULI/CCI Interns
+From 2014-2016 (only years available), this district had 1 SULI/CCI intern
+```
+Term         Name              College                         Host Lab                              Program
+-----------  ----------------  ------------------------------  ------------------------------------  ---------
+Summer 2016  Calvin Lee Cicha  University of Minnesota-Morris  National Renewable Energy Laboratory  SULI
+```
 ---
 <a name="MN-08"></a>
 [Back to top](#top)
 ## MN-08 -- Rep. Pete Stauber (R) -- [Wikipedia](https://en.wikipedia.org/wiki/MN-08)
-### Committees
-Pete Stauber is not on any of our key committees 
+## Committees
+Pete Stauber is not on any of our key committees. 
 
-### HEP Grants
+## HEP Grants
 In the past 8 years, this district has received:<b> $45,000 </b>in SC HEP grants.
 ```
 Institution                        Amount ($)    Start    End  Principal Investigator    Project Title
 -------------------------------  ------------  -------  -----  ------------------------  ----------------------------------------------------------------------
 UNIVERSITY OF MINNESOTA, DULUTH        45,000     2012   2013  Hiller                    Nonperturbative Analysis of Field Theories Quantized on the Light Cone
 ```
-### SC Contracts
+## SC Contracts
 ```
 This district received no SC contracts from 2012-2019
 ```
-### NSF MPS Grants
+## NSF MPS Grants
 In the past 8 years, this district has received:<b> $3,543,941 </b>in NSF MPS grants.
 ```
   Year  Institution                               Amount ($)
@@ -320,5 +411,13 @@ In the past 8 years, this district has received:<b> $3,543,941 </b>in NSF MPS gr
   2014  REGENTS OF THE UNIVERSITY OF MINNESOTA       437,081
   2013  REGENTS OF THE UNIVERSITY OF MINNESOTA       693,056
   2012  REGENTS OF THE UNIVERSITY OF MINNESOTA       489,270
+```
+## SULI/CCI Interns
+From 2014-2016 (only years available), this district had 2 SULI/CCI interns
+```
+Term         Name            College                         Host Lab                                Program
+-----------  --------------  ------------------------------  --------------------------------------  ---------
+Summer 2016  Ellen Monzo     University of Minnesota-Duluth  Lawrence Livermore National Laboratory  SULI
+Summer 2016  Paul Vaynshenk  University of Minnesota-Duluth  National Renewable Energy Laboratory    SULI
 ```
 ---

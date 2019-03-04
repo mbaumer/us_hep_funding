@@ -11,9 +11,9 @@ permalink : /states/VA/
 
 # VA -- Sen. Mark R. Warner (D) and  Sen. Tim Kaine (D)
 ## Committees
-Mark R. Warner is not on any of our key committees 
+Mark R. Warner is not on any of our key committees. 
 
-Tim Kaine is not on any of our key committees 
+Tim Kaine is not on any of our key committees. 
 
 ## HEP Grants
 In the past 8 years, this state has received:
@@ -35,7 +35,7 @@ Old Dominion University                                                    62,00
 COLLEGE OFWILLIAM AND MARY                                                 60,000
 George Mason University                                                     5,000
 ```
-### SC Contracts
+## SC Contracts
 In the past 8 years, this state has received:
 26 Office of Science contracts, totalling <b> $1,088,781,249</b>
 ```
@@ -96,15 +96,38 @@ ASSN FOR WOMEN IN MATH                                   45,678
 MARYMOUNT UNIVERSITY                                     26,589
 AMER STATISTICAL ASSOC                                    9,000
 ```
+## SULI/CCI Interns
+From 2014-2016 (only years available), this district had 84 SULI/CCI interns
+```
+  # Interns  Program    College
+-----------  ---------  ---------------------------------------------------
+         28  SULI       Virginia Polytechnic Institute and State University
+         14  SULI       University of Virginia
+          9  SULI       College of William and Mary
+          6  SULI       Christopher Newport University
+          5  SULI       James Madison University
+          3  SULI       George Mason University
+          3  SULI       University of Mary Washington
+          2  SULI       Old Dominion University
+          2  SULI       Virginia State University
+          2  SULI       Virginia Military Institute
+          2  SULI       Virginia Commonwealth University
+          2  SULI       Washington and Lee University
+          2  SULI       Emory & Henry College
+          1  SULI       Radford University
+          1  SULI       Liberty University
+          1  SULI       Hampton University
+          1  CCI        Northern Virginia Community College
+```
 ---
 ---
 <a name="VA-01"></a>
 [Back to top](#top)
 ## VA-01 -- Rep. Robert J. Wittman (R) -- [Wikipedia](https://en.wikipedia.org/wiki/VA-01)
-### Committees
-Robert J. Wittman is not on any of our key committees 
+## Committees
+Robert J. Wittman is not on any of our key committees. 
 
-### HEP Grants
+## HEP Grants
 In the past 8 years, this district has received:<b> $398,000 </b>in SC HEP grants.
 ```
 Institution                    Amount ($)    Start  End      Principal Investigator    Project Title
@@ -114,7 +137,7 @@ College of William and Mary        64,000     2014  2016     Kelley, Michael    
 COLLEGE OF WILLIAM AND MARY        64,000     2013  2014     Kelley                    Laser Polishing:  Green Path to Improved Accelerator Surfaces
 COLLEGE OFWILLIAM AND MARY         60,000     2012  2013     Kelley                    Laser Polishing:  Green Path to Improved Accelerator Surfaces
 ```
-### SC Contracts
+## SC Contracts
 In the past 8 years, this district has received:
 1 Office of Science contracts, totalling <b> $240,155,306</b>
 ```
@@ -123,7 +146,7 @@ In the past 8 years, this district has received:
   2013  JEFFERSON SCIENCE ASSOCIATES LIMITED LIABILITY COMPANY A SURA/CSC COMPANY    70,359,136  OPER OF GOVT R&D GOCO FACILITIES
   2012  JEFFERSON SCIENCE ASSOCIATES LIMITED LIABILITY COMPANY A SURA/CSC COMPANY   169,796,170  OPER OF GOVT R&D GOCO FACILITIES
 ```
-### NSF MPS Grants
+## NSF MPS Grants
 In the past 8 years, this district has received:<b> $9,182,082 </b>in NSF MPS grants.
 ```
   Year  Institution                             Amount ($)
@@ -137,14 +160,23 @@ In the past 8 years, this district has received:<b> $9,182,082 </b>in NSF MPS gr
   2012  CHRISTOPHER NEWPORT UNIVERSITY             185,000
   2012  COLLEGE OF WILLIAM & MARY, THE           1,837,040
 ```
+## SULI/CCI Interns
+From 2014-2016 (only years available), this district had 3 SULI/CCI interns
+```
+Term         Name                        College                        Host Lab                        Program
+-----------  --------------------------  -----------------------------  ------------------------------  ---------
+Summer 2016  Nicholas Alexander Gabriel  University of Mary Washington  Brookhaven National Laboratory  SULI
+Summer 2015  Juliana Kim                 University of Mary Washington  Argonne National Laboratory     SULI
+Summer 2015  Meghan Elizabeth King       University of Mary Washington  Brookhaven National Laboratory  SULI
+```
 ---
 <a name="VA-02"></a>
 [Back to top](#top)
 ## VA-02 -- Rep. Elaine G. Luria (D) -- [Wikipedia](https://en.wikipedia.org/wiki/VA-02)
-### Committees
-Elaine G. Luria is not on any of our key committees 
+## Committees
+Elaine G. Luria is not on any of our key committees. 
 
-### HEP Grants
+## HEP Grants
 In the past 8 years, this district has received:<b> $2,502,000 </b>in SC HEP grants.
 ```
 Institution                                    Amount ($)    Start    End  Principal Investigator    Project Title
@@ -155,7 +187,7 @@ Old Dominion University Research Foundation       555,000     2015   2017  Vusko
 OLD DOMINION UNIVERSITY                           465,000     2013   2014  Gurevich                  Investigation of new superconducting materials for the next generation high-gradient RF cavities for particle accelerators
 OLD DOMINION UNIVERSITY                           382,000     2012   2014  Vuskovic                  Plasma Processing of SRF Cavities for the Next Generation of Particle Accelerators
 ```
-### SC Contracts
+## SC Contracts
 In the past 8 years, this district has received:
 2 Office of Science contracts, totalling <b> $551,202,612</b>
 ```
@@ -168,7 +200,7 @@ In the past 8 years, this district has received:
   2014  JEFFERSON SCIENCE ASSOCIATES LIMITED LIABILITY COMPANY A SURA/CSC COMPANY   166,337,305  OPER OF GOVT R&D GOCO FACILITIES
   2013  JEFFERSON SCIENCE ASSOCIATES LIMITED LIABILITY COMPANY A SURA/CSC COMPANY    67,409,166  OPER OF GOVT R&D GOCO FACILITIES
 ```
-### NSF MPS Grants
+## NSF MPS Grants
 In the past 8 years, this district has received:<b> $5,817,072 </b>in NSF MPS grants.
 ```
   Year  Institution                       Amount ($)
@@ -179,14 +211,29 @@ In the past 8 years, this district has received:<b> $5,817,072 </b>in NSF MPS gr
   2014  VIRGINIA WESLEYAN COLLEGE            120,438
   2013  CHRISTOPHER NEWPORT UNIVERSITY       185,000
 ```
+## SULI/CCI Interns
+From 2014-2016 (only years available), this district had 9 SULI/CCI interns
+```
+Term         Name                    College                      Host Lab                                        Program
+-----------  ----------------------  ---------------------------  ----------------------------------------------  ---------
+Summer 2016  Ethan Buck              College of William and Mary  Thomas Jefferson National Accelerator Facility  SULI
+Summer 2016  Brandon Mark Buncher    College of William and Mary  Fermi National Accelerator Laboratory           SULI
+Summer 2016  Veronica Over           College of William and Mary  Thomas Jefferson National Accelerator Facility  SULI
+Summer 2015  Samuel Girdzis          College of William and Mary  Argonne National Laboratory                     SULI
+Summer 2014  Samuel Girdzis          College of William and Mary  Thomas Jefferson National Accelerator Facility  SULI
+Summer 2014  Elizabeth Anne Johnson  College of William and Mary  Oak Ridge National Laboratory                   SULI
+Summer 2014  Matthew Lee Mendonca    College of William and Mary  Thomas Jefferson National Accelerator Facility  SULI
+Summer 2014  David Andrew Specht     College of William and Mary  Lawrence Livermore National Laboratory          SULI
+Summer 2014  Matthew Stephens        College of William and Mary  Thomas Jefferson National Accelerator Facility  SULI
+```
 ---
 <a name="VA-03"></a>
 [Back to top](#top)
 ## VA-03 -- Rep. Robert C. "Bobby" Scott (D) -- [Wikipedia](https://en.wikipedia.org/wiki/VA-03)
-### Committees
-Robert C. "Bobby" Scott is not on any of our key committees 
+## Committees
+Robert C. "Bobby" Scott is not on any of our key committees. 
 
-### HEP Grants
+## HEP Grants
 In the past 8 years, this district has received:<b> $62,000 </b>in SC HEP grants.
 ```
 Institution                                    Amount ($)    Start  End      Principal Investigator    Project Title
@@ -197,7 +244,7 @@ Old Dominion University                                 0     2018  Ongoing  Vus
 Old Dominion University Research Foundation             0     2017  2018     Gurevich, Alexander       Investigation of new superconducting materials for the next generation high-gradient RF cavities for particle accelerators
 Old Dominion University Research Foundation             0     2017  2018     Vuskovic, Leposava        Plasma Processing of SRF Cavities for the Next Generation of Particle Accelerators
 ```
-### SC Contracts
+## SC Contracts
 In the past 8 years, this district has received:
 1 Office of Science contracts, totalling <b> $292,972,021</b>
 ```
@@ -207,7 +254,7 @@ In the past 8 years, this district has received:
   2018  JEFFERSON SCIENCE ASSOCIATES LIMITED LIABILITY COMPANY A SURA/CSC COMPANY   129,807,045  OPER OF GOVT R&D GOCO FACILITIES
   2017  JEFFERSON SCIENCE ASSOCIATES LIMITED LIABILITY COMPANY A SURA/CSC COMPANY    60,383,212  OPER OF GOVT R&D GOCO FACILITIES
 ```
-### NSF MPS Grants
+## NSF MPS Grants
 In the past 8 years, this district has received:<b> $21,147,810 </b>in NSF MPS grants.
 ```
   Year  Institution                                    Amount ($)
@@ -244,33 +291,58 @@ In the past 8 years, this district has received:<b> $21,147,810 </b>in NSF MPS g
   2012  OLD DOMINION UNIVERSITY RESEARCH FOUNDATION       619,448
   2012  HAMPTON UNIVERSITY                                595,085
 ```
+## SULI/CCI Interns
+From 2014-2016 (only years available), this district had 9 SULI/CCI interns
+```
+Term         Name                       College                         Host Lab                                        Program
+-----------  -------------------------  ------------------------------  ----------------------------------------------  ---------
+Summer 2016  Christian Davison          Christopher Newport University  Thomas Jefferson National Accelerator Facility  SULI
+Summer 2015  Christian Davison          Christopher Newport University  Thomas Jefferson National Accelerator Facility  SULI
+Summer 2015  Mitchell Reed Kerver       Christopher Newport University  Thomas Jefferson National Accelerator Facility  SULI
+Summer 2015  Eric James Thompson        Christopher Newport University  Thomas Jefferson National Accelerator Facility  SULI
+Summer 2015  Victoria Grace Lagerquist  Old Dominion University         Thomas Jefferson National Accelerator Facility  SULI
+Summer 2015  Quinton Gipson             Hampton University              Brookhaven National Laboratory                  SULI
+Summer 2014  Brad Thomas Damiano        Christopher Newport University  Thomas Jefferson National Accelerator Facility  SULI
+Summer 2014  Angelica Jusino            Christopher Newport University  Thomas Jefferson National Accelerator Facility  SULI
+Summer 2014  Joseph David Newton        Old Dominion University         Brookhaven National Laboratory                  SULI
+```
 ---
 <a name="VA-04"></a>
 [Back to top](#top)
 ## VA-04 -- Rep. A. Donald McEachin (D) -- [Wikipedia](https://en.wikipedia.org/wiki/VA-04)
-### Committees
+## Committees
 A. Donald McEachin is the #28 Democrat on the House Committee on Energy and Commerce 
 
-### HEP Grants
+## HEP Grants
 ```
 This district received no SC HEP grants from 2012-2019
 ```
-### SC Contracts
+## SC Contracts
 ```
 This district received no SC contracts from 2012-2019
 ```
-### NSF MPS Grants
+## NSF MPS Grants
 ```
 This district received no NSF MPS grants from 2012-2019
+```
+## SULI/CCI Interns
+From 2014-2016 (only years available), this district had 4 SULI/CCI interns
+```
+Term         Name                    College                           Host Lab                                        Program
+-----------  ----------------------  --------------------------------  ----------------------------------------------  ---------
+Summer 2016  Latasha Bagby           Virginia State University         Thomas Jefferson National Accelerator Facility  SULI
+Summer 2016  Adarsha Sapkota         Virginia Commonwealth University  Thomas Jefferson National Accelerator Facility  SULI
+Summer 2015  Rachel Tomiko Malonson  Virginia Commonwealth University  Thomas Jefferson National Accelerator Facility  SULI
+Summer 2014  Erick Huston            Virginia State University         Oak Ridge National Laboratory                   SULI
 ```
 ---
 <a name="VA-05"></a>
 [Back to top](#top)
 ## VA-05 -- Rep. Denver Riggleman (R) -- [Wikipedia](https://en.wikipedia.org/wiki/VA-05)
-### Committees
-Denver Riggleman is not on any of our key committees 
+## Committees
+Denver Riggleman is not on any of our key committees. 
 
-### HEP Grants
+## HEP Grants
 In the past 8 years, this district has received:<b> $9,536,000 </b>in SC HEP grants.
 ```
 Institution                Amount ($)    Start  End      Principal Investigator    Project Title
@@ -287,11 +359,11 @@ UNIVERSITY OF VIRGINIA        647,000     2012  2013     Cox                    
 UNIVERSITY OF VIRGINIA        315,000     2012  2013     Dukes                     Research in the Intensity Frontier:  NOvA and Mu2e
 UNIVERSITY OF VIRGINIA        350,000     2012  2013     Thacker                   The University of Virginia Theoretical High Energy Physics
 ```
-### SC Contracts
+## SC Contracts
 ```
 This district received no SC contracts from 2012-2019
 ```
-### NSF MPS Grants
+## NSF MPS Grants
 In the past 8 years, this district has received:<b> $31,990,647 </b>in NSF MPS grants.
 ```
   Year  Institution                                        Amount ($)
@@ -310,22 +382,42 @@ In the past 8 years, this district has received:<b> $31,990,647 </b>in NSF MPS g
   2013  RECTOR & VISITORS OF THE UNIVERSITY OF VIRGIN       3,765,318
   2012  RECTOR & VISITORS OF THE UNIVERSITY OF VIRGIN       7,881,751
 ```
+## SULI/CCI Interns
+From 2014-2016 (only years available), this district had 14 SULI/CCI interns
+```
+Term         Name                   College                 Host Lab                                        Program
+-----------  ---------------------  ----------------------  ----------------------------------------------  ---------
+Summer 2016  Joseph Edward Daly     University of Virginia  SLAC National Accelerator Laboratory            SULI
+Summer 2016  Heeseok Joo            University of Virginia  Princeton Plasma Physics Laboratory             SULI
+Summer 2016  Amanda Seiken          University of Virginia  Thomas Jefferson National Accelerator Facility  SULI
+Summer 2016  Bethany Wissmann       University of Virginia  Thomas Jefferson National Accelerator Facility  SULI
+Summer 2015  David Brown            University of Virginia  National Renewable Energy Laboratory            SULI
+Summer 2015  Samantha Fortuna       University of Virginia  Brookhaven National Laboratory                  SULI
+Summer 2015  John Hack              University of Virginia  Brookhaven National Laboratory                  SULI
+Summer 2015  Tyler Lam              University of Virginia  SLAC National Accelerator Laboratory            SULI
+Summer 2015  Louis Gerald Lukaczyk  University of Virginia  SLAC National Accelerator Laboratory            SULI
+Summer 2015  Sabire Lara Sisman     University of Virginia  Savannah River National Laboratory              SULI
+Summer 2014  Samantha Fortuna       University of Virginia  Brookhaven National Laboratory                  SULI
+Summer 2014  Benjamin Lake Hill     University of Virginia  Lawrence Berkeley National Laboratory           SULI
+Spring 2015  Dustin Ray Crouse      University of Virginia  National Renewable Energy Laboratory            SULI
+Fall 2014    Dustin Ray Crouse      University of Virginia  National Renewable Energy Laboratory            SULI
+```
 ---
 <a name="VA-06"></a>
 [Back to top](#top)
 ## VA-06 -- Rep. Ben Cline (R) -- [Wikipedia](https://en.wikipedia.org/wiki/VA-06)
-### Committees
+## Committees
 Ben Cline is the #8 Republican on the House Subcommittee on Higher Education and Workforce Development 
 
-### HEP Grants
+## HEP Grants
 ```
 This district received no SC HEP grants from 2012-2019
 ```
-### SC Contracts
+## SC Contracts
 ```
 This district received no SC contracts from 2012-2019
 ```
-### NSF MPS Grants
+## NSF MPS Grants
 In the past 8 years, this district has received:<b> $2,100,840 </b>in NSF MPS grants.
 ```
   Year  Institution                           Amount ($)
@@ -338,22 +430,38 @@ In the past 8 years, this district has received:<b> $2,100,840 </b>in NSF MPS gr
   2013  WASHINGTON AND LEE UNIVERSITY, THE        91,787
   2012  JAMES MADISON UNIVERSITY                 661,550
 ```
+## SULI/CCI Interns
+From 2014-2016 (only years available), this district had 10 SULI/CCI interns
+```
+Term         Name                    College                        Host Lab                                        Program
+-----------  ----------------------  -----------------------------  ----------------------------------------------  ---------
+Summer 2016  Joseph John Lopreto     James Madison University       Thomas Jefferson National Accelerator Facility  SULI
+Summer 2016  Matthew O'malley        James Madison University       Argonne National Laboratory                     SULI
+Summer 2016  Shlomo Honig            Washington and Lee University  Argonne National Laboratory                     SULI
+Summer 2015  Erin Delaney O'Brien    James Madison University       Brookhaven National Laboratory                  SULI
+Summer 2015  Angelo Anthony Kirchon  Virginia Military Institute    Lawrence Livermore National Laboratory          SULI
+Summer 2015  Dylan Miller            Virginia Military Institute    Oak Ridge National Laboratory                   SULI
+Summer 2014  Hunter Wallace Hart     James Madison University       Lawrence Berkeley National Laboratory           SULI
+Summer 2014  Tanner James Waggoner   Washington and Lee University  Pacific Northwest National Laboratory           SULI
+Spring 2016  Daniel O'neal Reddy     Liberty University             Savannah River National Laboratory              SULI
+Spring 2014  Thomas Hoke             James Madison University       Oak Ridge National Laboratory                   SULI
+```
 ---
 <a name="VA-07"></a>
 [Back to top](#top)
 ## VA-07 -- Rep. Abigail Davis Spanberger (D) -- [Wikipedia](https://en.wikipedia.org/wiki/VA-07)
-### Committees
-Abigail Davis Spanberger is not on any of our key committees 
+## Committees
+Abigail Davis Spanberger is not on any of our key committees. 
 
-### HEP Grants
+## HEP Grants
 ```
 This district received no SC HEP grants from 2012-2019
 ```
-### SC Contracts
+## SC Contracts
 ```
 This district received no SC contracts from 2012-2019
 ```
-### NSF MPS Grants
+## NSF MPS Grants
 In the past 8 years, this district has received:<b> $2,234,445 </b>in NSF MPS grants.
 ```
   Year  Institution               Amount ($)
@@ -364,18 +472,22 @@ In the past 8 years, this district has received:<b> $2,234,445 </b>in NSF MPS gr
   2013  UNIVERSITY OF RICHMOND       525,959
   2012  UNIVERSITY OF RICHMOND       720,168
 ```
+## SULI/CCI Interns
+```
+This district had no SULI/CCI interns from 2014-2016 (only years available)
+```
 ---
 <a name="VA-08"></a>
 [Back to top](#top)
 ## VA-08 -- Rep. Donald S. Beyer, Jr. (D) -- [Wikipedia](https://en.wikipedia.org/wiki/VA-08)
-### Committees
+## Committees
 Donald S. Beyer, Jr. is the #17 Democrat on the House Committee on Science, Space, and Technology 
 
-### HEP Grants
+## HEP Grants
 ```
 This district received no SC HEP grants from 2012-2019
 ```
-### SC Contracts
+## SC Contracts
 In the past 8 years, this district has received:
 9 Office of Science contracts, totalling <b> $4,166,262</b>
 ```
@@ -388,7 +500,7 @@ ORACLE AMERICA, INC.                       38,304  ADP SOFTWARE
 DELOITTE CONSULTING LLP                    13,750  SUPPORT- PROFESSIONAL: OTHER
 SPECIAL LIBRARIES ASSOCIATION, INC.         3,150  MISCELLANEOUS COMMUNICATION EQUIPMENT
 ```
-### NSF MPS Grants
+## NSF MPS Grants
 In the past 8 years, this district has received:<b> $1,202,082 </b>in NSF MPS grants.
 ```
   Year  Institution                           Amount ($)
@@ -405,14 +517,18 @@ In the past 8 years, this district has received:<b> $1,202,082 </b>in NSF MPS gr
   2012  SMITHSONIAN INSTITUTION                  480,000
   2012  SOFTWARE DEFINED RADIO FORUM, INC.        25,000
 ```
+## SULI/CCI Interns
+```
+This district had no SULI/CCI interns from 2014-2016 (only years available)
+```
 ---
 <a name="VA-09"></a>
 [Back to top](#top)
 ## VA-09 -- Rep. H. Morgan Griffith (R) -- [Wikipedia](https://en.wikipedia.org/wiki/VA-09)
-### Committees
+## Committees
 H. Morgan Griffith is the #12 Republican on the House Committee on Energy and Commerce 
 
-### HEP Grants
+## HEP Grants
 In the past 8 years, this district has received:<b> $4,550,000 </b>in SC HEP grants.
 ```
 Institution                                                            Amount ($)    Start  End      Principal Investigator    Project Title
@@ -429,11 +545,11 @@ VIRGINIA POLYTECHNIC INSTITUTE                                            516,00
 VIRGINIA POLYTECHNIC INSTITUTE                                             25,000     2012  2014     Huber                     International Neutrino Summer School, July 10-21, 2012
 VIRGINIA POLYTECHNIC INSTITUTE                                            550,000     2012  2014     Piilonen, Takeuchi        Investigations in Experimental and Theoretical Particle Physics
 ```
-### SC Contracts
+## SC Contracts
 ```
 This district received no SC contracts from 2012-2019
 ```
-### NSF MPS Grants
+## NSF MPS Grants
 In the past 8 years, this district has received:<b> $27,016,224 </b>in NSF MPS grants.
 ```
   Year  Institution                                          Amount ($)
@@ -448,18 +564,55 @@ In the past 8 years, this district has received:<b> $27,016,224 </b>in NSF MPS g
   2013  VIRGINIA POLYTECHNIC INSTITUTE & STATE UNIVER         2,583,726
   2012  VIRGINIA POLYTECHNIC INSTITUTE & STATE UNIVER         4,660,413
 ```
+## SULI/CCI Interns
+From 2014-2016 (only years available), this district had 31 SULI/CCI interns
+```
+Term         Name                          College                                              Host Lab                                        Program
+-----------  ----------------------------  ---------------------------------------------------  ----------------------------------------------  ---------
+Summer 2016  Megan Carey Freyman           Virginia Polytechnic Institute and State University  Lawrence Livermore National Laboratory          SULI
+Summer 2016  Andrew Bowers                 Virginia Polytechnic Institute and State University  Oak Ridge National Laboratory                   SULI
+Summer 2016  Adam Wise                     Virginia Polytechnic Institute and State University  National Renewable Energy Laboratory            SULI
+Summer 2016  Sara Peterson                 Virginia Polytechnic Institute and State University  SLAC National Accelerator Laboratory            SULI
+Summer 2016  Matthew Moniot                Virginia Polytechnic Institute and State University  National Renewable Energy Laboratory            SULI
+Summer 2016  Megan Nicole Lilly            Virginia Polytechnic Institute and State University  Oak Ridge National Laboratory                   SULI
+Summer 2016  Anthony Lanzillotta           Virginia Polytechnic Institute and State University  Oak Ridge National Laboratory                   SULI
+Summer 2016  Alexandra Justice Bosh        Virginia Polytechnic Institute and State University  Princeton Plasma Physics Laboratory             SULI
+Summer 2016  Jason Gray                    Virginia Polytechnic Institute and State University  Lawrence Livermore National Laboratory          SULI
+Summer 2016  Christian Gilbertson          Virginia Polytechnic Institute and State University  SLAC National Accelerator Laboratory            SULI
+Summer 2016  Lisa Jordan                   Virginia Polytechnic Institute and State University  Oak Ridge National Laboratory                   SULI
+Summer 2015  Anthony Lanzillotta           Virginia Polytechnic Institute and State University  Oak Ridge National Laboratory                   SULI
+Summer 2015  Megan Nicole Lilly            Virginia Polytechnic Institute and State University  Oak Ridge National Laboratory                   SULI
+Summer 2015  Elizabeth Piersall            Virginia Polytechnic Institute and State University  Oak Ridge National Laboratory                   SULI
+Summer 2015  Marina Kiseleva               Virginia Polytechnic Institute and State University  Los Alamos National Laboratory                  SULI
+Summer 2015  Erica Kelley Grant            Virginia Polytechnic Institute and State University  Oak Ridge National Laboratory                   SULI
+Summer 2015  Ella Chalkley                 Virginia Polytechnic Institute and State University  National Renewable Energy Laboratory            SULI
+Summer 2015  Andrew Bowers                 Virginia Polytechnic Institute and State University  Oak Ridge National Laboratory                   SULI
+Summer 2015  Megan Carey Freyman           Virginia Polytechnic Institute and State University  Lawrence Livermore National Laboratory          SULI
+Summer 2014  Morgan Nicole Jacques         Radford University                                   Ames National Laboratory                        SULI
+Summer 2014  Erica Kelley Grant            Virginia Polytechnic Institute and State University  Oak Ridge National Laboratory                   SULI
+Summer 2014  Kevin Hannon                  Virginia Polytechnic Institute and State University  Oak Ridge National Laboratory                   SULI
+Summer 2014  Jeffrey Glen Stevenson        Virginia Polytechnic Institute and State University  Thomas Jefferson National Accelerator Facility  SULI
+Summer 2014  Elizabeth Piersall            Virginia Polytechnic Institute and State University  Oak Ridge National Laboratory                   SULI
+Summer 2014  Amanda Hoebel                 Virginia Polytechnic Institute and State University  Thomas Jefferson National Accelerator Facility  SULI
+Spring 2016  Wesley Holt Higgins           Emory & Henry College                                Oak Ridge National Laboratory                   SULI
+Spring 2015  Mario Sergio Solano Gonzales  Virginia Polytechnic Institute and State University  Lawrence Berkeley National Laboratory           SULI
+Spring 2015  Andrew Marino                 Virginia Polytechnic Institute and State University  Oak Ridge National Laboratory                   SULI
+Fall 2015    Ella Chalkley                 Virginia Polytechnic Institute and State University  National Renewable Energy Laboratory            SULI
+Fall 2015    Wesley Holt Higgins           Emory & Henry College                                Oak Ridge National Laboratory                   SULI
+Fall 2014    Mario Sergio Solano Gonzales  Virginia Polytechnic Institute and State University  Lawrence Berkeley National Laboratory           SULI
+```
 ---
 <a name="VA-10"></a>
 [Back to top](#top)
 ## VA-10 -- Rep. Jennifer Wexton (D) -- [Wikipedia](https://en.wikipedia.org/wiki/VA-10)
-### Committees
+## Committees
 Jennifer Wexton is the #22 Democrat on the House Committee on Science, Space, and Technology 
 
-### HEP Grants
+## HEP Grants
 ```
 This district received no SC HEP grants from 2012-2019
 ```
-### SC Contracts
+## SC Contracts
 In the past 8 years, this district has received:
 1 Office of Science contracts, totalling <b> $17,475</b>
 ```
@@ -467,25 +620,29 @@ In the past 8 years, this district has received:
 ------  -----------------  ------------  -------------------------
   2012  PC MALL GOV, INC.        17,475  ADPE SYSTEM CONFIGURATION
 ```
-### NSF MPS Grants
+## NSF MPS Grants
 ```
 This district received no NSF MPS grants from 2012-2019
+```
+## SULI/CCI Interns
+```
+This district had no SULI/CCI interns from 2014-2016 (only years available)
 ```
 ---
 <a name="VA-11"></a>
 [Back to top](#top)
 ## VA-11 -- Rep. Gerald E. Connolly (D) -- [Wikipedia](https://en.wikipedia.org/wiki/VA-11)
-### Committees
-Gerald E. Connolly is not on any of our key committees 
+## Committees
+Gerald E. Connolly is not on any of our key committees. 
 
-### HEP Grants
+## HEP Grants
 In the past 8 years, this district has received:<b> $5,000 </b>in SC HEP grants.
 ```
 Institution                Amount ($)    Start    End  Principal Investigator    Project Title
 -----------------------  ------------  -------  -----  ------------------------  -------------------------------------
 George Mason University         5,000     2016   2017  Rubin, Philip             Support for the BEACH 2016 Conference
 ```
-### SC Contracts
+## SC Contracts
 In the past 8 years, this district has received:
 14 Office of Science contracts, totalling <b> $267,573</b>
 ```
@@ -501,7 +658,7 @@ ORACLE AMERICA, INC.               12,020  ADP SOFTWARE
 DLT SOLUTIONS, LLC                 11,309  IT AND TELECOM- SYSTEMS ANALYSIS
 DLT SOLUTIONS, LLC                  8,114  IT AND TELECOM- ANNUAL HARDWARE MAINTENANCE SERVICE PLANS
 ```
-### NSF MPS Grants
+## NSF MPS Grants
 In the past 8 years, this district has received:<b> $6,286,050 </b>in NSF MPS grants.
 ```
   Year  Institution                             Amount ($)
@@ -518,5 +675,15 @@ In the past 8 years, this district has received:<b> $6,286,050 </b>in NSF MPS gr
   2013  ASSOCIATION FOR WOMEN IN MATHEMATICS        49,861
   2013  GEORGE MASON UNIVERSITY                    665,445
   2012  GEORGE MASON UNIVERSITY                    671,212
+```
+## SULI/CCI Interns
+From 2014-2016 (only years available), this district had 4 SULI/CCI interns
+```
+Term         Name                    College                              Host Lab                                        Program
+-----------  ----------------------  -----------------------------------  ----------------------------------------------  ---------
+Summer 2016  Evan David Eugene Lamb  George Mason University              Pacific Northwest National Laboratory           SULI
+Summer 2015  Felisa Conrad-Burton    George Mason University              Brookhaven National Laboratory                  SULI
+Summer 2015  Nina Mazzarelli         Northern Virginia Community College  Fermi National Accelerator Laboratory           CCI
+Summer 2014  Scott Tyler Carlson     George Mason University              Thomas Jefferson National Accelerator Facility  SULI
 ```
 ---

@@ -11,9 +11,9 @@ permalink : /states/PA/
 
 # PA -- Sen. Robert P. Casey, Jr. (D) and  Sen. Patrick J. Toomey (R)
 ## Committees
-Robert P. Casey, Jr. is not on any of our key committees 
+Robert P. Casey, Jr. is not on any of our key committees. 
 
-Patrick J. Toomey is not on any of our key committees 
+Patrick J. Toomey is not on any of our key committees. 
 
 ## HEP Grants
 In the past 8 years, this state has received:
@@ -33,7 +33,7 @@ Drexel University                 1,045,000
 PENNSYLVANIA STATE UNIVERSITY       449,000
 DREXEL UNIVERSITY                   256,000
 ```
-### SC Contracts
+## SC Contracts
 In the past 8 years, this state has received:
 27 Office of Science contracts, totalling <b> $1,391,444</b>
 ```
@@ -107,19 +107,57 @@ MORAVIAN COLLEGE                                                        26,748
 DUQUESNE UNIVERSITY                                                     20,405
 SOC INDUS&APPL MATH(SIAM)                                               17,387
 ```
+## SULI/CCI Interns
+From 2014-2016 (only years available), this district had 110 SULI/CCI interns
+```
+  # Interns  Program    College
+-----------  ---------  -------------------------------------------
+         14  SULI       Penn State University Park
+         12  SULI       University of Pennsylvania
+          9  SULI       University of Pittsburgh
+          8  SULI       Carnegie Mellon University
+          7  SULI       Lock Haven University
+          7  SULI       Kutztown University of Pennsylvania
+          5  SULI       Haverford College
+          5  SULI       Edinboro University of Pennsylvania
+          4  SULI       Bucknell University
+          4  SULI       Allegheny College
+          4  SULI       Drexel University
+          3  SULI       Swarthmore College
+          2  SULI       Duquesne University
+          2  SULI       Penn State Berks
+          2  SULI       Ursinus College
+          2  SULI       Temple University
+          2  SULI       Juniata College
+          2  SULI       York College of Pennsylvania
+          2  SULI       Lehigh University
+          2  SULI       Lebanon Valley College
+          1  SULI       Messiah College
+          1  SULI       Mercyhurst University
+          1  SULI       Penn State Brandywine
+          1  SULI       East Stroudsburg University of Pennsylvania
+          1  SULI       Saint Francis University
+          1  SULI       Shippensburg University of Pennsylvania
+          1  SULI       The University of Scranton
+          1  SULI       Lafayette College
+          1  SULI       Cedar Crest College
+          1  SULI       Gettysburg College
+          1  SULI       Washington and Jefferson College
+          1  SULI       Indiana University of Pennsylvania
+```
 ---
 ---
 <a name="PA-01"></a>
 [Back to top](#top)
 ## PA-01 -- Rep. Brian K. Fitzpatrick (R) -- [Wikipedia](https://en.wikipedia.org/wiki/PA-01)
-### Committees
-Brian K. Fitzpatrick is not on any of our key committees 
+## Committees
+Brian K. Fitzpatrick is not on any of our key committees. 
 
-### HEP Grants
+## HEP Grants
 ```
 This district received no SC HEP grants from 2012-2019
 ```
-### SC Contracts
+## SC Contracts
 In the past 8 years, this district has received:
 10 Office of Science contracts, totalling <b> $214,985</b>
 ```
@@ -135,7 +173,7 @@ In the past 8 years, this district has received:
   2012  AMERICAN ASSN FOR CANCER RES         5,578  NEWSPAPERS AND PERIODICALS
   2012  TAYLOR & FRANCIS INC                15,186  BOOKS AND PAMPHLETS
 ```
-### NSF MPS Grants
+## NSF MPS Grants
 In the past 8 years, this district has received:<b> $13,218,451 </b>in NSF MPS grants.
 ```
   Year  Institution                                                         Amount ($)
@@ -148,14 +186,18 @@ In the past 8 years, this district has received:<b> $13,218,451 </b>in NSF MPS g
   2013  TEMPLE UNIVERSITY-OF THE COMMONWEALTH SYSTEM                           227,775
   2012  TEMPLE UNIVERSITY-OF THE COMMONWEALTH SYSTEM                         3,649,694
 ```
+## SULI/CCI Interns
+```
+This district had no SULI/CCI interns from 2014-2016 (only years available)
+```
 ---
 <a name="PA-02"></a>
 [Back to top](#top)
 ## PA-02 -- Rep. Brendan F. Boyle (D) -- [Wikipedia](https://en.wikipedia.org/wiki/PA-02)
-### Committees
-Brendan F. Boyle is not on any of our key committees 
+## Committees
+Brendan F. Boyle is not on any of our key committees. 
 
-### HEP Grants
+## HEP Grants
 In the past 8 years, this district has received:<b> $26,224,000 </b>in SC HEP grants.
 ```
 Institution                   Amount ($)    Start  End      Principal Investigator    Project Title
@@ -180,7 +222,7 @@ UNIVERSITY OF PENNSYLVANIA        60,000     2013  2014     Sako                
 UNIVERSITY OF PENNSYLVANIA     6,436,000     2012  2014     Williams                  Research in High Energy Physics at the University of Pennsylvania
 DREXEL UNIVERSITY                256,000     2012  2014     Lane                      Experimental Neutrino Physics
 ```
-### SC Contracts
+## SC Contracts
 In the past 8 years, this district has received:
 17 Office of Science contracts, totalling <b> $1,176,459</b>
 ```
@@ -193,7 +235,7 @@ SOCIETY FOR INDUSTRIAL AND APPLIED MATHEMATICS                     36,822  NEWSP
 THOMSON REUTERS (MARKETS) LLC                                       8,124  IT AND TELECOM- WEB-BASED SUBSCRIPTION
 NATIONAL FEDERATION OF ABSTRACTING AND INFORMATION SERVICES         6,408  IT AND TELECOM- OTHER IT AND TELECOMMUNICATIONS
 ```
-### NSF MPS Grants
+## NSF MPS Grants
 In the past 8 years, this district has received:<b> $115,504,109 </b>in NSF MPS grants.
 ```
   Year  Institution                                        Amount ($)
@@ -243,22 +285,30 @@ In the past 8 years, this district has received:<b> $115,504,109 </b>in NSF MPS 
   2012  UNIVERSITY OF THE SCIENCES IN PHILADELPHIA            328,000
   2012  DREXEL UNIVERSITY                                   1,073,760
 ```
+## SULI/CCI Interns
+From 2014-2016 (only years available), this district had 2 SULI/CCI interns
+```
+Term         Name                    College            Host Lab                        Program
+-----------  ----------------------  -----------------  ------------------------------  ---------
+Summer 2016  Allison Alizabeth Hess  Temple University  Los Alamos National Laboratory  SULI
+Spring 2015  Quynh Le Nguyen         Temple University  Argonne National Laboratory     SULI
+```
 ---
 <a name="PA-03"></a>
 [Back to top](#top)
 ## PA-03 -- Rep. Dwight Evans (D) -- [Wikipedia](https://en.wikipedia.org/wiki/PA-03)
-### Committees
-Dwight Evans is not on any of our key committees 
+## Committees
+Dwight Evans is not on any of our key committees. 
 
-### HEP Grants
+## HEP Grants
 ```
 This district received no SC HEP grants from 2012-2019
 ```
-### SC Contracts
+## SC Contracts
 ```
 This district received no SC contracts from 2012-2019
 ```
-### NSF MPS Grants
+## NSF MPS Grants
 In the past 8 years, this district has received:<b> $785,060 </b>in NSF MPS grants.
 ```
   Year  Institution            Amount ($)
@@ -268,22 +318,44 @@ In the past 8 years, this district has received:<b> $785,060 </b>in NSF MPS gran
   2015  WESTMINSTER COLLEGE        90,225
   2013  ALLEGHENY COLLEGE         231,312
 ```
+## SULI/CCI Interns
+From 2014-2016 (only years available), this district had 16 SULI/CCI interns
+```
+Term         Name                       College                     Host Lab                               Program
+-----------  -------------------------  --------------------------  -------------------------------------  ---------
+Summer 2016  Jedidiah Dale              University of Pennsylvania  Brookhaven National Laboratory         SULI
+Summer 2016  Daniel Brian Durham        University of Pennsylvania  Lawrence Berkeley National Laboratory  SULI
+Summer 2016  Radhika Katti              University of Pennsylvania  Oak Ridge National Laboratory          SULI
+Summer 2016  Nicholas Bradley Mcgreivy  University of Pennsylvania  Princeton Plasma Physics Laboratory    SULI
+Summer 2016  Kalina Polet Slavkova      University of Pennsylvania  Los Alamos National Laboratory         SULI
+Summer 2016  James Townley              University of Pennsylvania  Brookhaven National Laboratory         SULI
+Summer 2015  Ryan Dungee                University of Pennsylvania  SLAC National Accelerator Laboratory   SULI
+Summer 2015  Katherine Senter           University of Pennsylvania  Oak Ridge National Laboratory          SULI
+Summer 2015  Matthew Parsons            Drexel University           Princeton Plasma Physics Laboratory    SULI
+Summer 2014  Mary Frances Brass         University of Pennsylvania  Pacific Northwest National Laboratory  SULI
+Summer 2014  Vijay Govindarajan         University of Pennsylvania  Argonne National Laboratory            SULI
+Summer 2014  Shanna Luedtke             University of Pennsylvania  Lawrence Berkeley National Laboratory  SULI
+Summer 2014  Albert Wang Xiao           University of Pennsylvania  Lawrence Berkeley National Laboratory  SULI
+Summer 2014  Matthew Parsons            Drexel University           Princeton Plasma Physics Laboratory    SULI
+Summer 2014  Marcus Francis Seaman      Drexel University           Princeton Plasma Physics Laboratory    SULI
+Spring 2015  Daniel Christe             Drexel University           Los Alamos National Laboratory         SULI
+```
 ---
 <a name="PA-04"></a>
 [Back to top](#top)
 ## PA-04 -- Rep. Madeleine Dean (D) -- [Wikipedia](https://en.wikipedia.org/wiki/PA-04)
-### Committees
-Madeleine Dean is not on any of our key committees 
+## Committees
+Madeleine Dean is not on any of our key committees. 
 
-### HEP Grants
+## HEP Grants
 ```
 This district received no SC HEP grants from 2012-2019
 ```
-### SC Contracts
+## SC Contracts
 ```
 This district received no SC contracts from 2012-2019
 ```
-### NSF MPS Grants
+## NSF MPS Grants
 In the past 8 years, this district has received:<b> $441,731 </b>in NSF MPS grants.
 ```
   Year  Institution                                     Amount ($)
@@ -296,14 +368,22 @@ In the past 8 years, this district has received:<b> $441,731 </b>in NSF MPS gran
   2012  MATERIALS RESEARCH SOCIETY                         108,000
   2012  MINERALS, METALS AND MATERIALS SOCIETY, INC.        25,000
 ```
+## SULI/CCI Interns
+From 2014-2016 (only years available), this district had 2 SULI/CCI interns
+```
+Term         Name                  College          Host Lab                             Program
+-----------  --------------------  ---------------  -----------------------------------  ---------
+Summer 2015  Tamas Aleksei Budner  Ursinus College  Princeton Plasma Physics Laboratory  SULI
+Spring 2015  Tamas Aleksei Budner  Ursinus College  Princeton Plasma Physics Laboratory  SULI
+```
 ---
 <a name="PA-05"></a>
 [Back to top](#top)
 ## PA-05 -- Rep. Mary Gay Scanlon (D) -- [Wikipedia](https://en.wikipedia.org/wiki/PA-05)
-### Committees
-Mary Gay Scanlon is not on any of our key committees 
+## Committees
+Mary Gay Scanlon is not on any of our key committees. 
 
-### HEP Grants
+## HEP Grants
 In the past 8 years, this district has received:<b> $1,710,000 </b>in SC HEP grants.
 ```
 Institution                      Amount ($)    Start  End      Principal Investigator    Project Title
@@ -316,11 +396,11 @@ Pennsylvania State University       140,000     2014  2016     Gunaydin, Murat  
 PENNSYLVANIA STATE UNIVERSITY        35,000     2013  2014     Gunaydin                  Theoretical Studies in High Energy Physics
 PENNSYLVANIA STATE UNIVERSITY       414,000     2012  2014     Collins                   Theoretical Studies in Elementary Particle Physics
 ```
-### SC Contracts
+## SC Contracts
 ```
 This district received no SC contracts from 2012-2019
 ```
-### NSF MPS Grants
+## NSF MPS Grants
 In the past 8 years, this district has received:<b> $119,322,810 </b>in NSF MPS grants.
 ```
   Year  Institution                           Amount ($)
@@ -339,22 +419,37 @@ In the past 8 years, this district has received:<b> $119,322,810 </b>in NSF MPS 
   2012  CLARION UNIVERSITY OF PENNSYLVANIA       353,530
   2012  PENNSYLVANIA STATE UNIVERSITY, THE    16,735,170
 ```
+## SULI/CCI Interns
+From 2014-2016 (only years available), this district had 9 SULI/CCI interns
+```
+Term         Name                     College                Host Lab                               Program
+-----------  -----------------------  ---------------------  -------------------------------------  ---------
+Summer 2016  Isaac Wintermute Little  Swarthmore College     National Renewable Energy Laboratory   SULI
+Summer 2015  Chloe Wang               Haverford College      Lawrence Berkeley National Laboratory  SULI
+Summer 2015  Malia Wenny              Haverford College      National Renewable Energy Laboratory   SULI
+Summer 2014  Margaret Duffy           Haverford College      Lawrence Berkeley National Laboratory  SULI
+Summer 2014  Rachel Carson Flaherman  Swarthmore College     SLAC National Accelerator Laboratory   SULI
+Summer 2014  Maegan Hearney           Swarthmore College     Brookhaven National Laboratory         SULI
+Summer 2014  Cory Charles Kitay       Penn State Brandywine  Los Alamos National Laboratory         SULI
+Spring 2015  Katherine Elbert         Haverford College      Brookhaven National Laboratory         SULI
+Fall 2014    Katherine Elbert         Haverford College      Los Alamos National Laboratory         SULI
+```
 ---
 <a name="PA-06"></a>
 [Back to top](#top)
 ## PA-06 -- Rep. Chrissy Houlahan (D) -- [Wikipedia](https://en.wikipedia.org/wiki/PA-06)
-### Committees
-Chrissy Houlahan is not on any of our key committees 
+## Committees
+Chrissy Houlahan is not on any of our key committees. 
 
-### HEP Grants
+## HEP Grants
 ```
 This district received no SC HEP grants from 2012-2019
 ```
-### SC Contracts
+## SC Contracts
 ```
 This district received no SC contracts from 2012-2019
 ```
-### NSF MPS Grants
+## NSF MPS Grants
 In the past 8 years, this district has received:<b> $2,577,624 </b>in NSF MPS grants.
 ```
   Year  Institution                                Amount ($)
@@ -370,22 +465,30 @@ In the past 8 years, this district has received:<b> $2,577,624 </b>in NSF MPS gr
   2012  KUTZTOWN UNIVERSITY OF PENNSYLVANIA            46,338
   2012  URSINUS COLLEGE                               123,140
 ```
+## SULI/CCI Interns
+From 2014-2016 (only years available), this district had 2 SULI/CCI interns
+```
+Term         Name            College           Host Lab                                        Program
+-----------  --------------  ----------------  ----------------------------------------------  ---------
+Summer 2016  Mason Albright  Penn State Berks  Thomas Jefferson National Accelerator Facility  SULI
+Spring 2014  Erin Finley     Penn State Berks  Ames National Laboratory                        SULI
+```
 ---
 <a name="PA-07"></a>
 [Back to top](#top)
 ## PA-07 -- Rep. Susan Wild (D) -- [Wikipedia](https://en.wikipedia.org/wiki/PA-07)
-### Committees
-Susan Wild is not on any of our key committees 
+## Committees
+Susan Wild is not on any of our key committees. 
 
-### HEP Grants
+## HEP Grants
 ```
 This district received no SC HEP grants from 2012-2019
 ```
-### SC Contracts
+## SC Contracts
 ```
 This district received no SC contracts from 2012-2019
 ```
-### NSF MPS Grants
+## NSF MPS Grants
 In the past 8 years, this district has received:<b> $3,800,487 </b>in NSF MPS grants.
 ```
   Year  Institution                                          Amount ($)
@@ -401,62 +504,95 @@ In the past 8 years, this district has received:<b> $3,800,487 </b>in NSF MPS gr
   2013  VILLANOVA UNIVERSITY IN THE STATE OF PENNSYLV           110,000
   2012  VILLANOVA UNIVERSITY IN THE STATE OF PENNSYLV           320,543
 ```
+## SULI/CCI Interns
+From 2014-2016 (only years available), this district had 5 SULI/CCI interns
+```
+Term         Name                  College                                      Host Lab                             Program
+-----------  --------------------  -------------------------------------------  -----------------------------------  ---------
+Summer 2016  Austin Wesley Keller  Lehigh University                            Argonne National Laboratory          SULI
+Summer 2016  Emily Lindahl         Lafayette College                            Brookhaven National Laboratory       SULI
+Summer 2015  Cara Bagley           Lehigh University                            Princeton Plasma Physics Laboratory  SULI
+Summer 2015  Zachary Gotthardt     East Stroudsburg University of Pennsylvania  Brookhaven National Laboratory       SULI
+Summer 2014  Mackenzie Rae Beyer   Cedar Crest College                          Ames National Laboratory             SULI
+```
 ---
 <a name="PA-08"></a>
 [Back to top](#top)
 ## PA-08 -- Rep. Matt Cartwright (D) -- [Wikipedia](https://en.wikipedia.org/wiki/PA-08)
-### Committees
+## Committees
 Matt Cartwright is the #2 Democrat on the House Appropriations Subcommittee on Commerce, Justice, and Science 
 
 Matt Cartwright is the #18 Democrat on the House Committee on Appropriations 
 
-### HEP Grants
+## HEP Grants
 ```
 This district received no SC HEP grants from 2012-2019
 ```
-### SC Contracts
+## SC Contracts
 ```
 This district received no SC contracts from 2012-2019
 ```
-### NSF MPS Grants
+## NSF MPS Grants
 ```
 This district received no NSF MPS grants from 2012-2019
+```
+## SULI/CCI Interns
+From 2014-2016 (only years available), this district had 1 SULI/CCI intern
+```
+Term         Name           College                     Host Lab                        Program
+-----------  -------------  --------------------------  ------------------------------  ---------
+Summer 2016  Kaitlyn Irwin  The University of Scranton  Brookhaven National Laboratory  SULI
 ```
 ---
 <a name="PA-09"></a>
 [Back to top](#top)
 ## PA-09 -- Rep. Daniel Meuser (R) -- [Wikipedia](https://en.wikipedia.org/wiki/PA-09)
-### Committees
+## Committees
 Daniel Meuser is the #11 Republican on the House Subcommittee on Higher Education and Workforce Development 
 
-### HEP Grants
+## HEP Grants
 ```
 This district received no SC HEP grants from 2012-2019
 ```
-### SC Contracts
+## SC Contracts
 ```
 This district received no SC contracts from 2012-2019
 ```
-### NSF MPS Grants
+## NSF MPS Grants
 ```
 This district received no NSF MPS grants from 2012-2019
+```
+## SULI/CCI Interns
+From 2014-2016 (only years available), this district had 9 SULI/CCI interns
+```
+Term         Name                           College                              Host Lab                               Program
+-----------  -----------------------------  -----------------------------------  -------------------------------------  ---------
+Summer 2015  Margariete GeorgeAlan Malenda  Kutztown University of Pennsylvania  Los Alamos National Laboratory         SULI
+Summer 2015  Randall Scott Rogers           Kutztown University of Pennsylvania  Los Alamos National Laboratory         SULI
+Summer 2015  Ishankumar Vijaykumar Soni     Kutztown University of Pennsylvania  Ames National Laboratory               SULI
+Summer 2014  Zachary Philip Gotlib          Kutztown University of Pennsylvania  Brookhaven National Laboratory         SULI
+Summer 2014  Dea Musa                       Kutztown University of Pennsylvania  Los Alamos National Laboratory         SULI
+Spring 2016  Emily E Snyder                 Kutztown University of Pennsylvania  Los Alamos National Laboratory         SULI
+Spring 2016  Kathryn White                  Lebanon Valley College               Ames National Laboratory               SULI
+Fall 2015    Emily E Snyder                 Kutztown University of Pennsylvania  Lawrence Berkeley National Laboratory  SULI
+Fall 2015    Kathryn White                  Lebanon Valley College               Ames National Laboratory               SULI
 ```
 ---
 <a name="PA-10"></a>
 [Back to top](#top)
 ## PA-10 -- Rep. Scott Perry (R) -- [Wikipedia](https://en.wikipedia.org/wiki/PA-10)
-### Committees
-Scott Perry is not on any of our key committees 
+## Committees
+Scott Perry is not on any of our key committees. 
 
-### HEP Grants
+## HEP Grants
 ```
 This district received no SC HEP grants from 2012-2019
 ```
-### SC Contracts
+## SC Contracts
 ```
 This district received no SC contracts from 2012-2019
 ```
-### NSF MPS Grants
+## NSF MPS Grants
 In the past 8 years, this district has received:<b> $2,856,093 </b>in NSF MPS grants.
 ```
   Year  Institution               Amount ($)
@@ -471,41 +607,54 @@ In the past 8 years, this district has received:<b> $2,856,093 </b>in NSF MPS gr
   2012  BUCKNELL UNIVERSITY          617,203
   2012  SUSQUEHANNA UNIVERSITY        50,000
 ```
+## SULI/CCI Interns
+From 2014-2016 (only years available), this district had 3 SULI/CCI interns
+```
+Term         Name                  College                       Host Lab                        Program
+-----------  --------------------  ----------------------------  ------------------------------  ---------
+Summer 2015  Mary Theresa Bollard  York College of Pennsylvania  Brookhaven National Laboratory  SULI
+Summer 2014  Mary Theresa Bollard  York College of Pennsylvania  Brookhaven National Laboratory  SULI
+Summer 2014  Zachary Sorrell       Messiah College               Brookhaven National Laboratory  SULI
+```
 ---
 <a name="PA-11"></a>
 [Back to top](#top)
 ## PA-11 -- Rep. Lloyd Smucker (R) -- [Wikipedia](https://en.wikipedia.org/wiki/PA-11)
-### Committees
+## Committees
 Lloyd Smucker is the #1 Republican on the House Subcommittee on Higher Education and Workforce Development 
 
-### HEP Grants
+## HEP Grants
 ```
 This district received no SC HEP grants from 2012-2019
 ```
-### SC Contracts
+## SC Contracts
 ```
 This district received no SC contracts from 2012-2019
 ```
-### NSF MPS Grants
+## NSF MPS Grants
 In the past 8 years, this district has received:<b> $217,583 </b>in NSF MPS grants.
 ```
   Year  Institution          Amount ($)
 ------  -----------------  ------------
   2014  DICKINSON COLLEGE       217,583
 ```
+## SULI/CCI Interns
+```
+This district had no SULI/CCI interns from 2014-2016 (only years available)
+```
 ---
 <a name="PA-12"></a>
 [Back to top](#top)
 ## PA-12 Unknown Rep.
-### HEP Grants
+## HEP Grants
 ```
 This district received no SC HEP grants from 2012-2019
 ```
-### SC Contracts
+## SC Contracts
 ```
 This district received no SC contracts from 2012-2019
 ```
-### NSF MPS Grants
+## NSF MPS Grants
 In the past 8 years, this district has received:<b> $765,160 </b>in NSF MPS grants.
 ```
   Year  Institution                                           Amount ($)
@@ -519,36 +668,77 @@ In the past 8 years, this district has received:<b> $765,160 </b>in NSF MPS gran
   2014  MATERIALS RESEARCH SOCIETY                               167,890
   2013  MATERIALS RESEARCH SOCIETY                                35,200
 ```
+## SULI/CCI Interns
+From 2014-2016 (only years available), this district had 25 SULI/CCI interns
+```
+Term         Name                    College                     Host Lab                                Program
+-----------  ----------------------  --------------------------  --------------------------------------  ---------
+Summer 2016  Evan Schlenker          Bucknell University         Oak Ridge National Laboratory           SULI
+Summer 2016  Jianting Chi            Penn State University Park  National Renewable Energy Laboratory    SULI
+Summer 2016  Daniel William Dudt     Bucknell University         General Atomics / DIII-D                SULI
+Summer 2016  Jessica Ann Abruzzese   Bucknell University         Brookhaven National Laboratory          SULI
+Summer 2016  Casey A Morean          Lock Haven University       Oak Ridge National Laboratory           SULI
+Summer 2016  John Wilkinson          Lock Haven University       Lawrence Livermore National Laboratory  SULI
+Summer 2016  Joel Thomas Strandburg  Penn State University Park  Brookhaven National Laboratory          SULI
+Summer 2016  Kathryn Eva Sautter     Penn State University Park  National Renewable Energy Laboratory    SULI
+Summer 2016  Daniel Johnson Ruth     Penn State University Park  Sandia National Laboratory              SULI
+Summer 2016  Robert Michael Nidzyn   Penn State University Park  Brookhaven National Laboratory          SULI
+Summer 2016  Yeeren Low              Penn State University Park  Brookhaven National Laboratory          SULI
+Summer 2016  Jacob Cordell           Penn State University Park  National Renewable Energy Laboratory    SULI
+Summer 2016  Kevin Andrew Barber     Penn State University Park  National Renewable Energy Laboratory    SULI
+Summer 2015  David Samuel Kalb       Bucknell University         Pacific Northwest National Laboratory   SULI
+Summer 2015  Brian Andrew Wickens    Penn State University Park  National Renewable Energy Laboratory    SULI
+Summer 2015  Jason Eric Turner       Penn State University Park  Idaho National Laboratory               SULI
+Summer 2015  Michelle Michaels       Penn State University Park  Argonne National Laboratory             SULI
+Summer 2015  Ramya Gurunathan        Penn State University Park  Lawrence Berkeley National Laboratory   SULI
+Summer 2015  Warren McDonald         Lock Haven University       Oak Ridge National Laboratory           SULI
+Summer 2014  Mackenzie Leigh Maurer  Lock Haven University       Lawrence Livermore National Laboratory  SULI
+Summer 2014  Renee Snook             Lock Haven University       Oak Ridge National Laboratory           SULI
+Summer 2014  Warren McDonald         Lock Haven University       Ames National Laboratory                SULI
+Spring 2015  Alexandra M Catena      Penn State University Park  Lawrence Berkeley National Laboratory   SULI
+Spring 2014  Miranda Lynn Striluk    Lock Haven University       Pacific Northwest National Laboratory   SULI
+Fall 2014    Alexandra M Catena      Penn State University Park  Lawrence Berkeley National Laboratory   SULI
+```
 ---
 <a name="PA-13"></a>
 [Back to top](#top)
 ## PA-13 -- Rep. John Joyce (R) -- [Wikipedia](https://en.wikipedia.org/wiki/PA-13)
-### Committees
-John Joyce is not on any of our key committees 
+## Committees
+John Joyce is not on any of our key committees. 
 
-### HEP Grants
+## HEP Grants
 ```
 This district received no SC HEP grants from 2012-2019
 ```
-### SC Contracts
+## SC Contracts
 ```
 This district received no SC contracts from 2012-2019
 ```
-### NSF MPS Grants
+## NSF MPS Grants
 In the past 8 years, this district has received:<b> $298,559 </b>in NSF MPS grants.
 ```
   Year  Institution                           Amount ($)
 ------  ----------------------------------  ------------
   2018  INSTITUTE FOR CANCER RESEARCH, THE       298,559
 ```
+## SULI/CCI Interns
+From 2014-2016 (only years available), this district had 4 SULI/CCI interns
+```
+Term         Name                  College                                  Host Lab                               Program
+-----------  --------------------  ---------------------------------------  -------------------------------------  ---------
+Summer 2016  Amber Lynn Evans      Juniata College                          Brookhaven National Laboratory         SULI
+Summer 2016  Brian Andrew Wickens  Shippensburg University of Pennsylvania  National Renewable Energy Laboratory   SULI
+Summer 2015  David Toole           Juniata College                          Lawrence Berkeley National Laboratory  SULI
+Spring 2016  Julie Blum            Gettysburg College                       Lawrence Berkeley National Laboratory  SULI
+```
 ---
 <a name="PA-14"></a>
 [Back to top](#top)
 ## PA-14 -- Rep. Guy Reschenthaler (R) -- [Wikipedia](https://en.wikipedia.org/wiki/PA-14)
-### Committees
-Guy Reschenthaler is not on any of our key committees 
+## Committees
+Guy Reschenthaler is not on any of our key committees. 
 
-### HEP Grants
+## HEP Grants
 In the past 8 years, this district has received:<b> $18,092,000 </b>in SC HEP grants.
 ```
 Institution                   Amount ($)    Start  End      Principal Investigator    Project Title
@@ -576,11 +766,11 @@ UNIVERSITY OF PITTSBURGH          25,000     2012  2014     Han                 
 CARNEGIE MELLON UNIVERSITY     1,196,000     2012  2013     Paulini, Ferguson, Vogel  Research in Experimental and Theoretical High Energy Physics
 CARNEGIE MELLON UNIVERSITY       300,000     2012  2014     Mandelbaum                Optimal Cosmological Measurements with Weak Gravitational Lensing
 ```
-### SC Contracts
+## SC Contracts
 ```
 This district received no SC contracts from 2012-2019
 ```
-### NSF MPS Grants
+## NSF MPS Grants
 In the past 8 years, this district has received:<b> $92,902,193 </b>in NSF MPS grants.
 ```
   Year  Institution                               Amount ($)
@@ -610,22 +800,29 @@ In the past 8 years, this district has received:<b> $92,902,193 </b>in NSF MPS g
   2012  UNIVERSITY OF PITTSBURGH THE               5,421,363
   2012  CARNEGIE MELLON UNIVERSITY                 6,447,658
 ```
+## SULI/CCI Interns
+From 2014-2016 (only years available), this district had 1 SULI/CCI intern
+```
+Term         Name                     College                           Host Lab                        Program
+-----------  -----------------------  --------------------------------  ------------------------------  ---------
+Spring 2015  Matthew Gregory Rollins  Washington and Jefferson College  Los Alamos National Laboratory  SULI
+```
 ---
 <a name="PA-15"></a>
 [Back to top](#top)
 ## PA-15 -- Rep. Glenn Thompson (R) -- [Wikipedia](https://en.wikipedia.org/wiki/PA-15)
-### Committees
+## Committees
 Glenn Thompson is the #2 Republican on the House Subcommittee on Early Childhood, Elementary, and Secondary Education 
 
-### HEP Grants
+## HEP Grants
 ```
 This district received no SC HEP grants from 2012-2019
 ```
-### SC Contracts
+## SC Contracts
 ```
 This district received no SC contracts from 2012-2019
 ```
-### NSF MPS Grants
+## NSF MPS Grants
 In the past 8 years, this district has received:<b> $13,649,383 </b>in NSF MPS grants.
 ```
   Year  Institution                            Amount ($)
@@ -653,22 +850,39 @@ In the past 8 years, this district has received:<b> $13,649,383 </b>in NSF MPS g
   2012  MUHLENBERG COLLEGE                         54,000
   2012  LAFAYETTE COLLEGE                         225,697
 ```
+## SULI/CCI Interns
+From 2014-2016 (only years available), this district had 11 SULI/CCI interns
+```
+Term         Name                     College                             Host Lab                               Program
+-----------  -----------------------  ----------------------------------  -------------------------------------  ---------
+Summer 2016  Matthew Michael Carroll  University of Pittsburgh            Pacific Northwest National Laboratory  SULI
+Summer 2016  Colleen Hilla            University of Pittsburgh            Oak Ridge National Laboratory          SULI
+Summer 2016  Emma Raszmann            University of Pittsburgh            National Renewable Energy Laboratory   SULI
+Summer 2016  Miriam Anne Rathbun      University of Pittsburgh            Oak Ridge National Laboratory          SULI
+Summer 2015  Julie Fornaciari         University of Pittsburgh            Lawrence Berkeley National Laboratory  SULI
+Summer 2015  Erica Lynn Stevens       University of Pittsburgh            Pacific Northwest National Laboratory  SULI
+Summer 2014  Mark Cinquegrani         University of Pittsburgh            Brookhaven National Laboratory         SULI
+Summer 2014  Jonathan Goodwill        University of Pittsburgh            Ames National Laboratory               SULI
+Summer 2014  Jann Albert Grovogui     University of Pittsburgh            Argonne National Laboratory            SULI
+Spring 2016  Travis Scott Schofield   Saint Francis University            Lawrence Berkeley National Laboratory  SULI
+Spring 2015  Colleen Kaitlyn Trostle  Indiana University of Pennsylvania  Pacific Northwest National Laboratory  SULI
+```
 ---
 <a name="PA-16"></a>
 [Back to top](#top)
 ## PA-16 -- Rep. Mike Kelly (R) -- [Wikipedia](https://en.wikipedia.org/wiki/PA-16)
-### Committees
-Mike Kelly is not on any of our key committees 
+## Committees
+Mike Kelly is not on any of our key committees. 
 
-### HEP Grants
+## HEP Grants
 ```
 This district received no SC HEP grants from 2012-2019
 ```
-### SC Contracts
+## SC Contracts
 ```
 This district received no SC contracts from 2012-2019
 ```
-### NSF MPS Grants
+## NSF MPS Grants
 In the past 8 years, this district has received:<b> $2,063,166 </b>in NSF MPS grants.
 ```
   Year  Institution                                Amount ($)
@@ -684,24 +898,40 @@ In the past 8 years, this district has received:<b> $2,063,166 </b>in NSF MPS gr
   2012  FRANKLIN AND MARSHALL COLLEGE                 264,566
   2012  WEST CHESTER UNIVERSITY OF PENNSYLVANIA       104,000
 ```
+## SULI/CCI Interns
+From 2014-2016 (only years available), this district had 10 SULI/CCI interns
+```
+Term         Name                    College                              Host Lab                               Program
+-----------  ----------------------  -----------------------------------  -------------------------------------  ---------
+Summer 2016  Kevin Joshua Shuman     Edinboro University of Pennsylvania  Fermi National Accelerator Laboratory  SULI
+Summer 2016  Matthew Gray            Allegheny College                    Oak Ridge National Laboratory          SULI
+Summer 2016  Daniel Zoole Israeli    Mercyhurst University                Argonne National Laboratory            SULI
+Summer 2015  Brandon Clements        Edinboro University of Pennsylvania  Argonne National Laboratory            SULI
+Summer 2015  Allison Marie Cabo      Allegheny College                    Oak Ridge National Laboratory          SULI
+Summer 2015  Alexander Smith Porter  Allegheny College                    Ames National Laboratory               SULI
+Summer 2014  Katherine Bauder        Edinboro University of Pennsylvania  Argonne National Laboratory            SULI
+Summer 2014  Alex James Lillie       Edinboro University of Pennsylvania  Argonne National Laboratory            SULI
+Summer 2014  Brett Alexander Rhodes  Edinboro University of Pennsylvania  Argonne National Laboratory            SULI
+Fall 2014    Kevin Paul Lucht        Allegheny College                    Lawrence Berkeley National Laboratory  SULI
+```
 ---
 <a name="PA-17"></a>
 [Back to top](#top)
 ## PA-17 -- Rep. Conor Lamb (D) -- [Wikipedia](https://en.wikipedia.org/wiki/PA-17)
-### Committees
+## Committees
 Conor Lamb is the #1 Democrat on the House Committee on Science, Space, and Technology; Subcommittee on Energy 
 
 Conor Lamb is the #6 Democrat on the House Committee on Science, Space, and Technology 
 
-### HEP Grants
+## HEP Grants
 ```
 This district received no SC HEP grants from 2012-2019
 ```
-### SC Contracts
+## SC Contracts
 ```
 This district received no SC contracts from 2012-2019
 ```
-### NSF MPS Grants
+## NSF MPS Grants
 In the past 8 years, this district has received:<b> $1,032,310 </b>in NSF MPS grants.
 ```
   Year  Institution               Amount ($)
@@ -714,23 +944,43 @@ In the past 8 years, this district has received:<b> $1,032,310 </b>in NSF MPS gr
   2013  LAFAYETTE COLLEGE            116,932
   2012  LEBANON VALLEY COLLEGE       137,000
 ```
+## SULI/CCI Interns
+```
+This district had no SULI/CCI interns from 2014-2016 (only years available)
+```
 ---
 <a name="PA-18"></a>
 [Back to top](#top)
 ## PA-18 -- Rep. Michael F. Doyle (D) -- [Wikipedia](https://en.wikipedia.org/wiki/PA-18)
-### Committees
+## Committees
 Michael F. Doyle is the #6 Democrat on the House Committee on Energy and Commerce 
 
-### HEP Grants
+## HEP Grants
 ```
 This district received no SC HEP grants from 2012-2019
 ```
-### SC Contracts
+## SC Contracts
 ```
 This district received no SC contracts from 2012-2019
 ```
-### NSF MPS Grants
+## NSF MPS Grants
 ```
 This district received no NSF MPS grants from 2012-2019
+```
+## SULI/CCI Interns
+From 2014-2016 (only years available), this district had 10 SULI/CCI interns
+```
+Term         Name                 College                     Host Lab                                        Program
+-----------  -------------------  --------------------------  ----------------------------------------------  ---------
+Summer 2016  John Shlonsky        Carnegie Mellon University  Brookhaven National Laboratory                  SULI
+Summer 2016  Anirudh Sridhar      Carnegie Mellon University  Argonne National Laboratory                     SULI
+Summer 2016  Justin Goodwill      Duquesne University         Thomas Jefferson National Accelerator Facility  SULI
+Summer 2015  Jeremy Rowen Hyde    Carnegie Mellon University  SLAC National Accelerator Laboratory            SULI
+Summer 2015  Andrew Lendacky      Duquesne University         Thomas Jefferson National Accelerator Facility  SULI
+Summer 2014  George Degen         Carnegie Mellon University  Argonne National Laboratory                     SULI
+Summer 2014  Jeremy Rowen Hyde    Carnegie Mellon University  Brookhaven National Laboratory                  SULI
+Summer 2014  Nathaniel Joseph     Carnegie Mellon University  Brookhaven National Laboratory                  SULI
+Summer 2014  Rekha Regmi Schnepf  Carnegie Mellon University  National Renewable Energy Laboratory            SULI
+Summer 2014  Julia H Yang         Carnegie Mellon University  SLAC National Accelerator Laboratory            SULI
 ```
 ---

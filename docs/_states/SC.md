@@ -17,7 +17,7 @@ Lindsey Graham is the #6 Republican on the Senate Committee on Appropriations
 
 Lindsey Graham is the #6 Republican on the Senate Appropriations Subcommittee on Energy and Water Development 
 
-Tim Scott is not on any of our key committees 
+Tim Scott is not on any of our key committees. 
 
 ## HEP Grants
 In the past 8 years, this state has received:
@@ -34,7 +34,7 @@ In the past 8 years, this state has received:
   2012  THE CITADEL                         23,000
   2012  UNIVERSITY OF SOUTH CAROLINA       598,000
 ```
-### SC Contracts
+## SC Contracts
 In the past 8 years, this state has received:
 6 Office of Science contracts, totalling <b> $7,507,172</b>
 ```
@@ -62,26 +62,41 @@ SOUTH CAROLINA STATE UNIVERSITY              164,835
 COKER COLLEGE                                144,213
 U OF SC COLUMBIA                              15,000
 ```
+## SULI/CCI Interns
+From 2014-2016 (only years available), this district had 37 SULI/CCI interns
+```
+  # Interns  Program    College
+-----------  ---------  -------------------------------------
+         15  SULI       University of South Carolina-Columbia
+         11  SULI       Clemson University
+          4  SULI       College of Charleston
+          2  SULI       Furman University
+          1  SULI       Benedict College
+          1  SULI       Converse College
+          1  SULI       South Carolina State University
+          1  SULI       University of South Carolina-Aiken
+          1  SULI       Wofford College
+```
 ---
 ---
 <a name="SC-01"></a>
 [Back to top](#top)
 ## SC-01 -- Rep. Joe Cunningham (D) -- [Wikipedia](https://en.wikipedia.org/wiki/SC-01)
-### Committees
-Joe Cunningham is not on any of our key committees 
+## Committees
+Joe Cunningham is not on any of our key committees. 
 
-### HEP Grants
+## HEP Grants
 In the past 8 years, this district has received:<b> $23,000 </b>in SC HEP grants.
 ```
 Institution      Amount ($)    Start    End  Principal Investigator    Project Title
 -------------  ------------  -------  -----  ------------------------  --------------------------------------------------------------------------------
 THE CITADEL          23,000     2012   2013  Yost                      Precision Studies of Hadronic and Electro-Weak Interactions for Collider Physics
 ```
-### SC Contracts
+## SC Contracts
 ```
 This district received no SC contracts from 2012-2019
 ```
-### NSF MPS Grants
+## NSF MPS Grants
 In the past 8 years, this district has received:<b> $1,363,300 </b>in NSF MPS grants.
 ```
   Year  Institution                             Amount ($)
@@ -93,22 +108,32 @@ In the past 8 years, this district has received:<b> $1,363,300 </b>in NSF MPS gr
   2012  COLLEGE OF CHARLESTON                      546,188
   2012  MEDICAL UNIVERSITY OF SOUTH CAROLINA       158,334
 ```
+## SULI/CCI Interns
+From 2014-2016 (only years available), this district had 4 SULI/CCI interns
+```
+Term         Name                     College                Host Lab                               Program
+-----------  -----------------------  ---------------------  -------------------------------------  ---------
+Summer 2014  Caleb Henry Whitaker     College of Charleston  Argonne National Laboratory            SULI
+Spring 2016  Madeleine Parker Gordon  College of Charleston  Lawrence Berkeley National Laboratory  SULI
+Fall 2015    Madeleine Parker Gordon  College of Charleston  Lawrence Berkeley National Laboratory  SULI
+Fall 2015    Brenna Norton-Baker      College of Charleston  National Renewable Energy Laboratory   SULI
+```
 ---
 <a name="SC-02"></a>
 [Back to top](#top)
 ## SC-02 -- Rep. Joe Wilson (R) -- [Wikipedia](https://en.wikipedia.org/wiki/SC-02)
-### Committees
-Joe Wilson is not on any of our key committees 
+## Committees
+Joe Wilson is not on any of our key committees. 
 
-### HEP Grants
+## HEP Grants
 ```
 This district received no SC HEP grants from 2012-2019
 ```
-### SC Contracts
+## SC Contracts
 ```
 This district received no SC contracts from 2012-2019
 ```
-### NSF MPS Grants
+## NSF MPS Grants
 In the past 8 years, this district has received:<b> $7,617,274 </b>in NSF MPS grants.
 ```
   Year  Institution                     Amount ($)
@@ -116,22 +141,29 @@ In the past 8 years, this district has received:<b> $7,617,274 </b>in NSF MPS gr
   2018  UNIVERSITY OF SOUTH CAROLINA     3,532,843
   2017  UNIVERSITY OF SOUTH CAROLINA     4,084,431
 ```
+## SULI/CCI Interns
+From 2014-2016 (only years available), this district had 1 SULI/CCI intern
+```
+Term         Name          College                             Host Lab                       Program
+-----------  ------------  ----------------------------------  -----------------------------  ---------
+Summer 2016  Austin Freed  University of South Carolina-Aiken  Oak Ridge National Laboratory  SULI
+```
 ---
 <a name="SC-03"></a>
 [Back to top](#top)
 ## SC-03 -- Rep. Jeff Duncan (R) -- [Wikipedia](https://en.wikipedia.org/wiki/SC-03)
-### Committees
+## Committees
 Jeff Duncan is the #23 Republican on the House Committee on Energy and Commerce 
 
-### HEP Grants
+## HEP Grants
 ```
 This district received no SC HEP grants from 2012-2019
 ```
-### SC Contracts
+## SC Contracts
 ```
 This district received no SC contracts from 2012-2019
 ```
-### NSF MPS Grants
+## NSF MPS Grants
 In the past 8 years, this district has received:<b> $17,441,924 </b>in NSF MPS grants.
 ```
   Year  Institution                               Amount ($)
@@ -148,24 +180,41 @@ In the past 8 years, this district has received:<b> $17,441,924 </b>in NSF MPS g
   2012  CLEMSON UNIVERSITY                         1,759,005
   2012  CLEMSON UNIVERSITY RESEARCH FOUNDATION       129,569
 ```
+## SULI/CCI Interns
+From 2014-2016 (only years available), this district had 11 SULI/CCI interns
+```
+Term         Name                      College             Host Lab                               Program
+-----------  ------------------------  ------------------  -------------------------------------  ---------
+Summer 2016  Emma Coleman              Clemson University  Argonne National Laboratory            SULI
+Summer 2016  Amanda Doris Farthing     Clemson University  National Renewable Energy Laboratory   SULI
+Summer 2016  Julia Grace Riley         Clemson University  Brookhaven National Laboratory         SULI
+Summer 2016  Gary Kenneth Vestal       Clemson University  Oak Ridge National Laboratory          SULI
+Summer 2015  Mindy Earnest             Clemson University  Oak Ridge National Laboratory          SULI
+Summer 2015  David Nasol               Clemson University  Savannah River National Laboratory     SULI
+Summer 2015  Barbara Woo               Clemson University  Brookhaven National Laboratory         SULI
+Summer 2015  Mikita Yankouski          Clemson University  Los Alamos National Laboratory         SULI
+Summer 2014  John Christopher Garland  Clemson University  Oak Ridge National Laboratory          SULI
+Spring 2015  GARY KENNETH VESTAL       Clemson University  Oak Ridge National Laboratory          SULI
+Fall 2015    Barbara Woo               Clemson University  Lawrence Berkeley National Laboratory  SULI
+```
 ---
 <a name="SC-04"></a>
 [Back to top](#top)
 ## SC-04 -- Rep. William R. Timmons IV (R) -- [Wikipedia](https://en.wikipedia.org/wiki/SC-04)
-### Committees
+## Committees
 William R. Timmons IV is the #12 Republican on the House Subcommittee on Higher Education and Workforce Development 
 
 William R. Timmons IV is the #5 Republican on the House Subcommittee on Early Childhood, Elementary, and Secondary Education 
 
-### HEP Grants
+## HEP Grants
 ```
 This district received no SC HEP grants from 2012-2019
 ```
-### SC Contracts
+## SC Contracts
 ```
 This district received no SC contracts from 2012-2019
 ```
-### NSF MPS Grants
+## NSF MPS Grants
 In the past 8 years, this district has received:<b> $1,812,134 </b>in NSF MPS grants.
 ```
   Year  Institution          Amount ($)
@@ -178,18 +227,28 @@ In the past 8 years, this district has received:<b> $1,812,134 </b>in NSF MPS gr
   2013  FURMAN UNIVERSITY       103,875
   2012  FURMAN UNIVERSITY       199,199
 ```
+## SULI/CCI Interns
+From 2014-2016 (only years available), this district had 4 SULI/CCI interns
+```
+Term         Name                     College            Host Lab                               Program
+-----------  -----------------------  -----------------  -------------------------------------  ---------
+Summer 2016  Jamey Bower              Wofford College    Pacific Northwest National Laboratory  SULI
+Summer 2015  Tabitha Faith Colter     Furman University  Oak Ridge National Laboratory          SULI
+Summer 2015  Andrew Emerson           Furman University  Oak Ridge National Laboratory          SULI
+Summer 2014  Kandice Elizabeth Miles  Converse College   Oak Ridge National Laboratory          SULI
+```
 ---
 <a name="SC-05"></a>
 [Back to top](#top)
 ## SC-05 -- Rep. Ralph Norman (R) -- [Wikipedia](https://en.wikipedia.org/wiki/SC-05)
-### Committees
+## Committees
 Ralph Norman is the #9 Republican on the House Committee on Science, Space, and Technology 
 
-### HEP Grants
+## HEP Grants
 ```
 This district received no SC HEP grants from 2012-2019
 ```
-### SC Contracts
+## SC Contracts
 In the past 8 years, this district has received:
 6 Office of Science contracts, totalling <b> $7,507,172</b>
 ```
@@ -198,7 +257,7 @@ In the past 8 years, this district has received:
   2018  TRIBALCO, LLC     2,028,834  RADIO AND TELEVISION COMMUNICATION EQUIPMENT, EXCEPT AIRBORNE
   2017  TRIBALCO, LLC     5,478,338  RADIO AND TELEVISION COMMUNICATION EQUIPMENT, EXCEPT AIRBORNE
 ```
-### NSF MPS Grants
+## NSF MPS Grants
 In the past 8 years, this district has received:<b> $435,651 </b>in NSF MPS grants.
 ```
   Year  Institution            Amount ($)
@@ -206,14 +265,18 @@ In the past 8 years, this district has received:<b> $435,651 </b>in NSF MPS gran
   2014  WINTHROP UNIVERSITY       291,438
   2012  COKER COLLEGE             144,213
 ```
+## SULI/CCI Interns
+```
+This district had no SULI/CCI interns from 2014-2016 (only years available)
+```
 ---
 <a name="SC-06"></a>
 [Back to top](#top)
 ## SC-06 -- Rep. James E. Clyburn (D) -- [Wikipedia](https://en.wikipedia.org/wiki/SC-06)
-### Committees
-James E. Clyburn is not on any of our key committees 
+## Committees
+James E. Clyburn is not on any of our key committees. 
 
-### HEP Grants
+## HEP Grants
 In the past 8 years, this district has received:<b> $2,963,000 </b>in SC HEP grants.
 ```
 Institution                     Amount ($)    Start  End      Principal Investigator    Project Title
@@ -226,11 +289,11 @@ UNIVERSITY OF SOUTH CAROLINA       290,000     2013  2014     Petti             
 UNIVERSITY OF SOUTH CAROLINA        55,000     2013  2014     Purohit                   Energy Frontier Physics: Experimental Particle Physics research to be done using the ATLAS detector at CERN
 UNIVERSITY OF SOUTH CAROLINA       598,000     2012  2013     Rosenfeld, Purohit        Experimental Particle Physics
 ```
-### SC Contracts
+## SC Contracts
 ```
 This district received no SC contracts from 2012-2019
 ```
-### NSF MPS Grants
+## NSF MPS Grants
 In the past 8 years, this district has received:<b> $21,245,855 </b>in NSF MPS grants.
 ```
   Year  Institution                             Amount ($)
@@ -252,23 +315,50 @@ In the past 8 years, this district has received:<b> $21,245,855 </b>in NSF MPS g
   2013  UNIVERSITY OF SOUTH CAROLINA             3,330,308
   2012  SOUTH CAROLINA RESEARCH FOUNDATION       4,990,023
 ```
+## SULI/CCI Interns
+From 2014-2016 (only years available), this district had 17 SULI/CCI interns
+```
+Term         Name                       College                                Host Lab                                Program
+-----------  -------------------------  -------------------------------------  --------------------------------------  ---------
+Summer 2016  Terkessia Ardreonda Hart   South Carolina State University        Lawrence Livermore National Laboratory  SULI
+Summer 2016  Mackenize Morris           University of South Carolina-Columbia  Oak Ridge National Laboratory           SULI
+Summer 2016  Christian Tyler Carey      University of South Carolina-Columbia  National Renewable Energy Laboratory    SULI
+Summer 2016  Matt Adamski               University of South Carolina-Columbia  National Renewable Energy Laboratory    SULI
+Summer 2015  Anna Lynn                  University of South Carolina-Columbia  Oak Ridge National Laboratory           SULI
+Summer 2015  Michelle Josephine Thomas  University of South Carolina-Columbia  Ames National Laboratory                SULI
+Summer 2015  Leah Zhou McGovern         University of South Carolina-Columbia  National Renewable Energy Laboratory    SULI
+Summer 2015  Jonathan Michael Freed     University of South Carolina-Columbia  Oak Ridge National Laboratory           SULI
+Summer 2015  Chris Joseph Buckman       University of South Carolina-Columbia  Oak Ridge National Laboratory           SULI
+Summer 2014  Charles Staub              University of South Carolina-Columbia  National Renewable Energy Laboratory    SULI
+Summer 2014  Nick James Weidner         University of South Carolina-Columbia  Argonne National Laboratory             SULI
+Spring 2016  Christian Tyler Carey      University of South Carolina-Columbia  National Renewable Energy Laboratory    SULI
+Spring 2016  Jocelyn Kate Mackay        University of South Carolina-Columbia  National Renewable Energy Laboratory    SULI
+Spring 2015  Leah Zhou McGovern         University of South Carolina-Columbia  National Renewable Energy Laboratory    SULI
+Spring 2014  Martin Anthony Epps, Jr.   Benedict College                       Brookhaven National Laboratory          SULI
+Fall 2015    Jacob Alois Przywara       University of South Carolina-Columbia  National Renewable Energy Laboratory    SULI
+Fall 2014    Charles Staub              University of South Carolina-Columbia  National Renewable Energy Laboratory    SULI
+```
 ---
 <a name="SC-07"></a>
 [Back to top](#top)
 ## SC-07 -- Rep. Tom Rice (R) -- [Wikipedia](https://en.wikipedia.org/wiki/SC-07)
-### Committees
-Tom Rice is not on any of our key committees 
+## Committees
+Tom Rice is not on any of our key committees. 
 
-### HEP Grants
+## HEP Grants
 ```
 This district received no SC HEP grants from 2012-2019
 ```
-### SC Contracts
+## SC Contracts
 ```
 This district received no SC contracts from 2012-2019
 ```
-### NSF MPS Grants
+## NSF MPS Grants
 ```
 This district received no NSF MPS grants from 2012-2019
+```
+## SULI/CCI Interns
+```
+This district had no SULI/CCI interns from 2014-2016 (only years available)
 ```
 ---

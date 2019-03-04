@@ -11,9 +11,9 @@ permalink : /states/NY/
 
 # NY -- Sen. Kirsten E. Gillibrand (D) and  Sen. Charles E. Schumer (D)
 ## Committees
-Kirsten E. Gillibrand is not on any of our key committees 
+Kirsten E. Gillibrand is not on any of our key committees. 
 
-Charles E. Schumer is not on any of our key committees 
+Charles E. Schumer is not on any of our key committees. 
 
 ## HEP Grants
 In the past 8 years, this state has received:
@@ -48,7 +48,7 @@ SUNY - University of Albany                                          90,000
 University at Albany (SUNY)                                               0
 Research Foundation of The City University of New York (CUNY)             0
 ```
-### SC Contracts
+## SC Contracts
 In the past 8 years, this state has received:
 52 Office of Science contracts, totalling <b> $4,782,894,080</b>
 ```
@@ -163,15 +163,80 @@ ST LAWRENCE UNIVERSITY (INC)                                                    
 ST LAWRENCE UNIVERSITY                                                                9,630
 SUNY BINGHAMTON                                                                         200
 ```
+## SULI/CCI Interns
+From 2014-2016 (only years available), this district had 311 SULI/CCI interns
+```
+  # Interns  Program    College
+-----------  ---------  --------------------------------------------------------------------------------
+         62  SULI       State University of New York at Stony Brook
+         32  SULI       Cornell University
+         17  SULI       Rensselaer Polytechnic Institute
+         15  SULI       State University of New York at Binghamton
+         14  CCI        Suffolk County Community College Ammerman Campus
+         13  SULI       Saint Joseph's College, New York - Suffolk Campus
+          8  SULI       Polytechnic Institute of New York University
+          8  SULI       City University of New York The City College
+          8  SULI       Rochester Institute of Technology
+          8  CCI        City University of New York Queensborough Community College
+          8  SULI       State University of New York College at Geneseo
+          7  SULI       New York City College of Technology/City University of New York
+          5  SULI       Columbia University in the City of New York
+          5  CCI        City University of New York Bronx Community College
+          5  SULI       University at Albany, SUNY
+          5  SULI       City University of New York Medger Evers College
+          4  SULI       State University of New York College of Environmental Science and Forestry
+          4  SULI       Suffolk County Community College Ammerman Campus
+          4  SULI       Clarkson University
+          4  SULI       City University of New York Hunter College
+          4  SULI       State University of New York at New Paltz
+          4  SULI       University at Buffalo-SUNY
+          4  SULI       State University of New York College at Oswego
+          3  CCI        Genesee Community College
+          3  SULI       University of Rochester
+          3  SULI       Ithaca College
+          3  SULI       State University of New York College at Oneonta
+          3  SULI       State University of New York College at Old Westbury
+          3  SULI       Hofstra University
+          3  SULI       Fordham University
+          3  SULI       Paul Smith's College
+          3  SULI       Colgate University
+          2  SULI       Syracuse University Main Campus
+          2  SULI       State University of New York College at Plattsburgh
+          2  SULI       State University of New York College of Agriculture and Technology at Cobleskill
+          2  SULI       Vassar College
+          2  SULI       Dowling College
+          2  SULI       City University of New York Queens College
+          2  SULI       Hudson Valley Community College
+          2  SULI       Hartwick College
+          2  SULI       New York Institute of Technology
+          1  CCI        Hostos Community College-City University of New York
+          1  CCI        Jefferson Community College
+          1  CCI        Monroe Community College
+          1  SULI       Adelphi University
+          1  SULI       Binghamton University
+          1  SULI       Canisius College
+          1  SULI       City University of New York Bronx Community College
+          1  SULI       City University of New York Brooklyn College
+          1  SULI       New York University
+          1  SULI       DeVry College of New York
+          1  SULI       Hamilton College
+          1  SULI       Houghton College
+          1  SULI       State University of New York College at Buffalo
+          1  SULI       Skidmore College
+          1  SULI       Siena College
+          1  SULI       Marist College
+          1  SULI       Nazareth College of Rochester
+          1  SULI       Long Island University
+```
 ---
 ---
 <a name="NY-01"></a>
 [Back to top](#top)
 ## NY-01 -- Rep. Lee M. Zeldin (R) -- [Wikipedia](https://en.wikipedia.org/wiki/NY-01)
-### Committees
-Lee M. Zeldin is not on any of our key committees 
+## Committees
+Lee M. Zeldin is not on any of our key committees. 
 
-### HEP Grants
+## HEP Grants
 In the past 8 years, this district has received:<b> $11,757,000 </b>in SC HEP grants.
 ```
 Institution                                          Amount ($)    Start  End      Principal Investigator    Project Title
@@ -206,7 +271,7 @@ STATE U. OF NEW YORK AT STONY BROOK                     300,000     2012  2014  
 STATE U. OF NEW YORK AT STONY BROOK                     312,000     2012  2014     Ben-Zvi                   Study of Electron Transport and Amplification in Diamond
 STATE U. OF NEW YORK AT STONY BROOK                           0     2012  2013     Ben-Zvi                   Study of Electron Transport and Amplification in Diamond
 ```
-### SC Contracts
+## SC Contracts
 In the past 8 years, this district has received:
 22 Office of Science contracts, totalling <b> $4,769,356,369</b>
 ```
@@ -230,7 +295,7 @@ SHARP ELECTRONICS CORPORATION                    8,410  MISCELLANEOUS OFFICE MAC
 PARK UNIVERSITY ENTERPRISES, INC                 7,500  EDUCATION/TRAINING- TRAINING/CURRICULUM DEVELOPMENT
 ASPEN SYSTEMS, INC.                              3,520  INFORMATION TECHNOLOGY INPUT/OUTPUT AND STORAGE DEVICES
 ```
-### NSF MPS Grants
+## NSF MPS Grants
 In the past 8 years, this district has received:<b> $84,983,311 </b>in NSF MPS grants.
 ```
   Year  Institution                                                      Amount ($)
@@ -247,37 +312,144 @@ In the past 8 years, this district has received:<b> $84,983,311 </b>in NSF MPS g
   2013  THE RESEARCH FOUNDATION OF STATE UNIVERSITY O                     8,444,963
   2012  THE RESEARCH FOUNDATION OF STATE UNIVERSITY O                     6,528,484
 ```
+## SULI/CCI Interns
+From 2014-2016 (only years available), this district had 93 SULI/CCI interns
+```
+Term         Name                             College                                            Host Lab                                        Program
+-----------  -------------------------------  -------------------------------------------------  ----------------------------------------------  ---------
+Summer 2016  Emily Jean Gass                  State University of New York at Stony Brook        Brookhaven National Laboratory                  SULI
+Summer 2016  Carmenn Ooi                      State University of New York at Stony Brook        Brookhaven National Laboratory                  SULI
+Summer 2016  Daniel Cacace                    State University of New York at Stony Brook        Brookhaven National Laboratory                  SULI
+Summer 2016  Taylor Lynn Campbell             State University of New York at Stony Brook        Brookhaven National Laboratory                  SULI
+Summer 2016  Gavyn P Hagemann                 State University of New York at Stony Brook        Brookhaven National Laboratory                  SULI
+Summer 2016  Jie Hu                           State University of New York at Stony Brook        Brookhaven National Laboratory                  SULI
+Summer 2016  Jian Huang                       State University of New York at Stony Brook        Brookhaven National Laboratory                  SULI
+Summer 2016  Wayne Scott Johnson Jr           State University of New York at Stony Brook        Brookhaven National Laboratory                  SULI
+Summer 2016  Kyle Henry Johnson               State University of New York at Stony Brook        Brookhaven National Laboratory                  SULI
+Summer 2016  Spencer Ean Laddy-Locks          State University of New York at Stony Brook        Brookhaven National Laboratory                  SULI
+Summer 2016  Ryan James Latsko-Hilbert        State University of New York at Stony Brook        Brookhaven National Laboratory                  SULI
+Summer 2016  Christina May Moore              State University of New York at Stony Brook        Brookhaven National Laboratory                  SULI
+Summer 2016  Alexander Muller                 State University of New York at Stony Brook        Brookhaven National Laboratory                  SULI
+Summer 2016  Daniel Marc Purschke             State University of New York at Stony Brook        Brookhaven National Laboratory                  SULI
+Summer 2016  Rishi Anand                      State University of New York at Stony Brook        Brookhaven National Laboratory                  SULI
+Summer 2016  Rajith Radhakrishnan             State University of New York at Stony Brook        Brookhaven National Laboratory                  SULI
+Summer 2016  Arthur Ronne                     State University of New York at Stony Brook        Brookhaven National Laboratory                  SULI
+Summer 2016  Derek Squires                    State University of New York at Stony Brook        Brookhaven National Laboratory                  SULI
+Summer 2016  Brandon Levent Yalin             State University of New York at Stony Brook        Brookhaven National Laboratory                  SULI
+Summer 2016  Sabrina Marie Santiago           Suffolk County Community College Ammerman Campus   Brookhaven National Laboratory                  SULI
+Summer 2016  Lucia Mallozzi                   Suffolk County Community College Ammerman Campus   Idaho National Laboratory                       CCI
+Summer 2016  Bianca Paul                      Suffolk County Community College Ammerman Campus   Pacific Northwest National Laboratory           CCI
+Summer 2016  Shariq Rafi Syed                 Suffolk County Community College Ammerman Campus   Brookhaven National Laboratory                  CCI
+Summer 2016  Melissa Dejesus                  Saint Joseph's College, New York - Suffolk Campus  Brookhaven National Laboratory                  SULI
+Summer 2016  Christin Elliott                 Saint Joseph's College, New York - Suffolk Campus  Brookhaven National Laboratory                  SULI
+Summer 2016  Matthew Joseph Harris            Saint Joseph's College, New York - Suffolk Campus  Brookhaven National Laboratory                  SULI
+Summer 2016  John Leonard Buckheit            State University of New York at Stony Brook        Brookhaven National Laboratory                  SULI
+Summer 2016  Samantha Ashley Miller           Saint Joseph's College, New York - Suffolk Campus  Brookhaven National Laboratory                  SULI
+Summer 2015  Spencer Ean Laddy-Locks          State University of New York at Stony Brook        Brookhaven National Laboratory                  SULI
+Summer 2015  Jie Hu                           State University of New York at Stony Brook        Brookhaven National Laboratory                  SULI
+Summer 2015  Timothy Maggio                   Suffolk County Community College Ammerman Campus   Brookhaven National Laboratory                  CCI
+Summer 2015  Do Om                            Suffolk County Community College Ammerman Campus   Brookhaven National Laboratory                  CCI
+Summer 2015  Bianca Paul                      Suffolk County Community College Ammerman Campus   Pacific Northwest National Laboratory           CCI
+Summer 2015  Ammara Saeed                     Suffolk County Community College Ammerman Campus   Brookhaven National Laboratory                  CCI
+Summer 2015  Derek Squires                    Suffolk County Community College Ammerman Campus   Brookhaven National Laboratory                  CCI
+Summer 2015  Hannah Leonard                   State University of New York at Stony Brook        Lawrence Berkeley National Laboratory           SULI
+Summer 2015  Samantha Ashley Miller           Saint Joseph's College, New York - Suffolk Campus  Brookhaven National Laboratory                  SULI
+Summer 2015  Thomas Eric Smith                Saint Joseph's College, New York - Suffolk Campus  Brookhaven National Laboratory                  SULI
+Summer 2015  Matthew R Stitt                  Saint Joseph's College, New York - Suffolk Campus  Brookhaven National Laboratory                  SULI
+Summer 2015  Nawal Ahmed                      State University of New York at Stony Brook        Brookhaven National Laboratory                  SULI
+Summer 2015  Taylor Lynn Campbell             State University of New York at Stony Brook        Brookhaven National Laboratory                  SULI
+Summer 2015  Dhruv Dixit                      State University of New York at Stony Brook        Brookhaven National Laboratory                  SULI
+Summer 2015  Shawn Hoose                      State University of New York at Stony Brook        Brookhaven National Laboratory                  SULI
+Summer 2015  Daniel Cacace                    State University of New York at Stony Brook        Brookhaven National Laboratory                  SULI
+Summer 2015  Mark Vincent Jensen              State University of New York at Stony Brook        Brookhaven National Laboratory                  SULI
+Summer 2015  rajith radhakrishnan             State University of New York at Stony Brook        Brookhaven National Laboratory                  SULI
+Summer 2015  Jessica Li                       State University of New York at Stony Brook        Brookhaven National Laboratory                  SULI
+Summer 2015  Nicole LiBretto                  State University of New York at Stony Brook        Lawrence Berkeley National Laboratory           SULI
+Summer 2015  Jake Lindberg                    State University of New York at Stony Brook        Brookhaven National Laboratory                  SULI
+Summer 2015  Helen Liu                        State University of New York at Stony Brook        Brookhaven National Laboratory                  SULI
+Summer 2015  Raffaele Miceli                  State University of New York at Stony Brook        Brookhaven National Laboratory                  SULI
+Summer 2015  Elad Michael                     State University of New York at Stony Brook        Lawrence Berkeley National Laboratory           SULI
+Summer 2015  Casey Robert Vieni               State University of New York at Stony Brook        Brookhaven National Laboratory                  SULI
+Summer 2015  Lindsay Bonich                   Suffolk County Community College Ammerman Campus   Brookhaven National Laboratory                  CCI
+Summer 2015  Michael John Severance           State University of New York at Stony Brook        Brookhaven National Laboratory                  SULI
+Summer 2015  Lauren Sprung                    State University of New York at Stony Brook        Brookhaven National Laboratory                  SULI
+Summer 2015  Dennis Tao                       State University of New York at Stony Brook        Brookhaven National Laboratory                  SULI
+Summer 2015  Ilana Teplitsky                  State University of New York at Stony Brook        Brookhaven National Laboratory                  SULI
+Summer 2014  James Thomas Young               Saint Joseph's College, New York - Suffolk Campus  Brookhaven National Laboratory                  SULI
+Summer 2014  Thomas Eric Smith                Saint Joseph's College, New York - Suffolk Campus  Brookhaven National Laboratory                  SULI
+Summer 2014  Daniel Cisek                     Saint Joseph's College, New York - Suffolk Campus  Brookhaven National Laboratory                  SULI
+Summer 2014  Alissa Michelle Bruno            Saint Joseph's College, New York - Suffolk Campus  Lawrence Berkeley National Laboratory           SULI
+Summer 2014  Thomas Fasano                    State University of New York at Stony Brook        Brookhaven National Laboratory                  SULI
+Summer 2014  BRENNY FELIZ                     State University of New York at Stony Brook        Brookhaven National Laboratory                  SULI
+Summer 2014  Mark Vincent Jensen              State University of New York at Stony Brook        Brookhaven National Laboratory                  SULI
+Summer 2014  Alison Egbon                     State University of New York at Stony Brook        Brookhaven National Laboratory                  SULI
+Summer 2014  Derek Squires                    Suffolk County Community College Ammerman Campus   Brookhaven National Laboratory                  CCI
+Summer 2014  Stefani Ahsanov                  State University of New York at Stony Brook        Brookhaven National Laboratory                  SULI
+Summer 2014  Eric Richard Ruhoy               Saint Joseph's College, New York - Suffolk Campus  Brookhaven National Laboratory                  SULI
+Summer 2014  Paul Andrew Philipsberg          State University of New York at Stony Brook        Brookhaven National Laboratory                  SULI
+Summer 2014  Jonathan Matthew Millings        Suffolk County Community College Ammerman Campus   Brookhaven National Laboratory                  CCI
+Summer 2014  William Roh                      State University of New York at Stony Brook        Thomas Jefferson National Accelerator Facility  SULI
+Summer 2014  Casey Robert Vieni               State University of New York at Stony Brook        Brookhaven National Laboratory                  SULI
+Summer 2014  ilia vardishvili                 State University of New York at Stony Brook        Brookhaven National Laboratory                  SULI
+Summer 2014  Fernando Taone Torales - Acosta  State University of New York at Stony Brook        Thomas Jefferson National Accelerator Facility  SULI
+Summer 2014  Andrew Sung                      State University of New York at Stony Brook        Brookhaven National Laboratory                  SULI
+Summer 2014  Christina Marie Snyder           State University of New York at Stony Brook        Brookhaven National Laboratory                  SULI
+Summer 2014  Timothy Leeney                   Suffolk County Community College Ammerman Campus   Brookhaven National Laboratory                  CCI
+Summer 2014  Valerie Marie Sabatasso          State University of New York at Stony Brook        Brookhaven National Laboratory                  SULI
+Summer 2014  Michael John Severance           State University of New York at Stony Brook        Brookhaven National Laboratory                  SULI
+Summer 2014  Jessica Li                       State University of New York at Stony Brook        Brookhaven National Laboratory                  SULI
+Summer 2014  Anthony Joseph Borrelli          Suffolk County Community College Ammerman Campus   Brookhaven National Laboratory                  SULI
+Summer 2014  Ryan James Latsko-Hilbert        Suffolk County Community College Ammerman Campus   Brookhaven National Laboratory                  SULI
+Summer 2014  Zach Strum                       Suffolk County Community College Ammerman Campus   Brookhaven National Laboratory                  SULI
+Summer 2014  Hannah Leonard                   State University of New York at Stony Brook        Lawrence Berkeley National Laboratory           SULI
+Summer 2014  Meghan Ashley Donnelly           Suffolk County Community College Ammerman Campus   Brookhaven National Laboratory                  CCI
+Spring 2016  Lindsay Bonich                   Suffolk County Community College Ammerman Campus   Brookhaven National Laboratory                  CCI
+Spring 2016  Daniel Cisek                     Saint Joseph's College, New York - Suffolk Campus  Brookhaven National Laboratory                  SULI
+Spring 2015  Stefani Ahsanov                  State University of New York at Stony Brook        Lawrence Berkeley National Laboratory           SULI
+Spring 2015  Bath-sheva Sholomson             State University of New York at Stony Brook        Lawrence Berkeley National Laboratory           SULI
+Spring 2014  Lizhen Tan                       State University of New York at Stony Brook        Lawrence Berkeley National Laboratory           SULI
+Spring 2014  Ella Teplitsky                   State University of New York at Stony Brook        Brookhaven National Laboratory                  SULI
+Spring 2014  Dara Bobb-Semple                 State University of New York at Stony Brook        Brookhaven National Laboratory                  SULI
+```
 ---
 <a name="NY-02"></a>
 [Back to top](#top)
 ## NY-02 -- Rep. Peter T. King (R) -- [Wikipedia](https://en.wikipedia.org/wiki/NY-02)
-### Committees
-Peter T. King is not on any of our key committees 
+## Committees
+Peter T. King is not on any of our key committees. 
 
-### HEP Grants
+## HEP Grants
 ```
 This district received no SC HEP grants from 2012-2019
 ```
-### SC Contracts
+## SC Contracts
 ```
 This district received no SC contracts from 2012-2019
 ```
-### NSF MPS Grants
+## NSF MPS Grants
 ```
 This district received no NSF MPS grants from 2012-2019
+```
+## SULI/CCI Interns
+From 2014-2016 (only years available), this district had 2 SULI/CCI interns
+```
+Term         Name                     College          Host Lab                        Program
+-----------  -----------------------  ---------------  ------------------------------  ---------
+Summer 2015  Nicholas Anthony Bonura  Dowling College  Brookhaven National Laboratory  SULI
+Fall 2015    Nicholas Anthony Bonura  Dowling College  Brookhaven National Laboratory  SULI
 ```
 ---
 <a name="NY-03"></a>
 [Back to top](#top)
 ## NY-03 -- Rep. Thomas R. Suozzi (D) -- [Wikipedia](https://en.wikipedia.org/wiki/NY-03)
-### Committees
-Thomas R. Suozzi is not on any of our key committees 
+## Committees
+Thomas R. Suozzi is not on any of our key committees. 
 
-### HEP Grants
+## HEP Grants
 ```
 This district received no SC HEP grants from 2012-2019
 ```
-### SC Contracts
+## SC Contracts
 In the past 8 years, this district has received:
 1 Office of Science contracts, totalling <b> $6,052</b>
 ```
@@ -285,7 +457,7 @@ In the past 8 years, this district has received:
 ------  ------------------  ------------  --------------------------
   2016  AIP PUBLISHING LLC         6,052  NEWSPAPERS AND PERIODICALS
 ```
-### NSF MPS Grants
+## NSF MPS Grants
 In the past 8 years, this district has received:<b> $1,449,910 </b>in NSF MPS grants.
 ```
   Year  Institution                      Amount ($)
@@ -297,22 +469,34 @@ In the past 8 years, this district has received:<b> $1,449,910 </b>in NSF MPS gr
   2013  LONG ISLAND UNIVERSITY              223,312
   2012  LONG ISLAND UNIVERSITY               60,000
 ```
+## SULI/CCI Interns
+From 2014-2016 (only years available), this district had 6 SULI/CCI interns
+```
+Term         Name                  College                                               Host Lab                               Program
+-----------  --------------------  ----------------------------------------------------  -------------------------------------  ---------
+Summer 2016  Paul Kenneth Norian   New York Institute of Technology                      National Renewable Energy Laboratory   SULI
+Summer 2016  John Anthony Pavacic  Long Island University                                Brookhaven National Laboratory         SULI
+Summer 2015  Alyson Abraham        State University of New York College at Old Westbury  Brookhaven National Laboratory         SULI
+Summer 2015  balal Aslam           New York Institute of Technology                      Brookhaven National Laboratory         SULI
+Spring 2015  Leonard Chavannes     State University of New York College at Old Westbury  Lawrence Berkeley National Laboratory  SULI
+Fall 2014    Leonard Chavannes     State University of New York College at Old Westbury  Brookhaven National Laboratory         SULI
+```
 ---
 <a name="NY-04"></a>
 [Back to top](#top)
 ## NY-04 -- Rep. Kathleen M. Rice (D) -- [Wikipedia](https://en.wikipedia.org/wiki/NY-04)
-### Committees
-Kathleen M. Rice is not on any of our key committees 
+## Committees
+Kathleen M. Rice is not on any of our key committees. 
 
-### HEP Grants
+## HEP Grants
 ```
 This district received no SC HEP grants from 2012-2019
 ```
-### SC Contracts
+## SC Contracts
 ```
 This district received no SC contracts from 2012-2019
 ```
-### NSF MPS Grants
+## NSF MPS Grants
 In the past 8 years, this district has received:<b> $111,248 </b>in NSF MPS grants.
 ```
   Year  Institution           Amount ($)
@@ -320,14 +504,24 @@ In the past 8 years, this district has received:<b> $111,248 </b>in NSF MPS gran
   2018  ADELPHI UNIVERSITY        81,248
   2017  ADELPHI UNIVERSITY        30,000
 ```
+## SULI/CCI Interns
+From 2014-2016 (only years available), this district had 4 SULI/CCI interns
+```
+Term         Name                         College             Host Lab                        Program
+-----------  ---------------------------  ------------------  ------------------------------  ---------
+Summer 2016  Matthew Joesph Kallicharran  Hofstra University  Brookhaven National Laboratory  SULI
+Summer 2016  Fernanda Murillo             Adelphi University  Brookhaven National Laboratory  SULI
+Summer 2015  Michael Nicholas Nino        Hofstra University  Brookhaven National Laboratory  SULI
+Summer 2014  Claire Marie Weaver          Hofstra University  Brookhaven National Laboratory  SULI
+```
 ---
 <a name="NY-05"></a>
 [Back to top](#top)
 ## NY-05 -- Rep. Gregory W. Meeks (D) -- [Wikipedia](https://en.wikipedia.org/wiki/NY-05)
-### Committees
-Gregory W. Meeks is not on any of our key committees 
+## Committees
+Gregory W. Meeks is not on any of our key committees. 
 
-### HEP Grants
+## HEP Grants
 In the past 8 years, this district has received:<b> $536,000 </b>in SC HEP grants.
 ```
 Institution                                        Amount ($)    Start  End      Principal Investigator    Project Title
@@ -337,11 +531,11 @@ York College (CUNY)                                    95,000     2015  2016    
 City College of New York (CUNY), Queens College        98,000     2014  2015     Lynch, Kevin              Mu2e at the City University of New York
 CITY UNIVERSITY OF NEW YORK, YORK COLLEGE              93,000     2013  2014     Lynch                     Mu2e at the City University of New York
 ```
-### SC Contracts
+## SC Contracts
 ```
 This district received no SC contracts from 2012-2019
 ```
-### NSF MPS Grants
+## NSF MPS Grants
 In the past 8 years, this district has received:<b> $2,534,968 </b>in NSF MPS grants.
 ```
   Year  Institution                                               Amount ($)
@@ -352,24 +546,28 @@ In the past 8 years, this district has received:<b> $2,534,968 </b>in NSF MPS gr
   2014  RESEARCH FOUNDATION OF THE CITY UNIVERSITY OF                350,691
   2013  RESEARCH FOUNDATION OF THE CITY UNIVERSITY OF                648,769
 ```
+## SULI/CCI Interns
+```
+This district had no SULI/CCI interns from 2014-2016 (only years available)
+```
 ---
 <a name="NY-06"></a>
 [Back to top](#top)
 ## NY-06 -- Rep. Grace Meng (D) -- [Wikipedia](https://en.wikipedia.org/wiki/NY-06)
-### Committees
+## Committees
 Grace Meng is the #3 Democrat on the House Appropriations Subcommittee on Commerce, Justice, and Science 
 
 Grace Meng is the #19 Democrat on the House Committee on Appropriations 
 
-### HEP Grants
+## HEP Grants
 ```
 This district received no SC HEP grants from 2012-2019
 ```
-### SC Contracts
+## SC Contracts
 ```
 This district received no SC contracts from 2012-2019
 ```
-### NSF MPS Grants
+## NSF MPS Grants
 In the past 8 years, this district has received:<b> $5,850,652 </b>in NSF MPS grants.
 ```
   Year  Institution                                               Amount ($)
@@ -386,18 +584,35 @@ In the past 8 years, this district has received:<b> $5,850,652 </b>in NSF MPS gr
   2012  RESEARCH FOUNDATION OF THE CITY UNIVERSITY OF                403,790
   2012  ST JOHN'S UNIVERSITY, NEW YORK                               153,360
 ```
+## SULI/CCI Interns
+From 2014-2016 (only years available), this district had 11 SULI/CCI interns
+```
+Term         Name                    College                                                      Host Lab                        Program
+-----------  ----------------------  -----------------------------------------------------------  ------------------------------  ---------
+Summer 2016  Eddie D Fernandez       City University of New York Queens College                   Brookhaven National Laboratory  SULI
+Summer 2016  Nida Imtiaz             DeVry College of New York                                    Brookhaven National Laboratory  SULI
+Summer 2016  Jonathan Bernal         City University of New York Queensborough Community College  Brookhaven National Laboratory  CCI
+Summer 2016  Kristina Papacostas     City University of New York Queensborough Community College  Brookhaven National Laboratory  CCI
+Summer 2016  Jasodra Devi Ramdihal   City University of New York Queensborough Community College  Brookhaven National Laboratory  CCI
+Summer 2016  Chanele Rodriguez       City University of New York Queensborough Community College  Brookhaven National Laboratory  CCI
+Summer 2016  David Salazar           City University of New York Queensborough Community College  Brookhaven National Laboratory  CCI
+Summer 2015  Chanele Rodriguez       City University of New York Queensborough Community College  Brookhaven National Laboratory  CCI
+Summer 2015  Emely Rosario           City University of New York Queensborough Community College  Brookhaven National Laboratory  CCI
+Summer 2014  Alyssa Faye Blumenthal  City University of New York Queens College                   Argonne National Laboratory     SULI
+Summer 2014  Damian Ewko             City University of New York Queensborough Community College  Brookhaven National Laboratory  CCI
+```
 ---
 <a name="NY-07"></a>
 [Back to top](#top)
 ## NY-07 -- Rep. Nydia M. Velázquez (D) -- [Wikipedia](https://en.wikipedia.org/wiki/NY-07)
-### Committees
-Nydia M. Velázquez is not on any of our key committees 
+## Committees
+Nydia M. Velázquez is not on any of our key committees. 
 
-### HEP Grants
+## HEP Grants
 ```
 This district received no SC HEP grants from 2012-2019
 ```
-### SC Contracts
+## SC Contracts
 In the past 8 years, this district has received:
 1 Office of Science contracts, totalling <b> $19,966</b>
 ```
@@ -405,7 +620,7 @@ In the past 8 years, this district has received:
 ------  -------------------  ------------  ----------------
   2016  OFFICE LEADER CORP.        19,966  OFFICE FURNITURE
 ```
-### NSF MPS Grants
+## NSF MPS Grants
 In the past 8 years, this district has received:<b> $295,487 </b>in NSF MPS grants.
 ```
   Year  Institution                                      Amount ($)
@@ -416,18 +631,39 @@ In the past 8 years, this district has received:<b> $295,487 </b>in NSF MPS gran
   2013  MULTIPLE RECIPIENTS                                 102,100
   2013  RESEARCH FOUNDATION OF THE CITY UNIVERSITY OF        15,000
 ```
+## SULI/CCI Interns
+From 2014-2016 (only years available), this district had 15 SULI/CCI interns
+```
+Term         Name                       College                                                          Host Lab                              Program
+-----------  -------------------------  ---------------------------------------------------------------  ------------------------------------  ---------
+Summer 2016  Javier Joya                New York City College of Technology/City University of New York  Brookhaven National Laboratory        SULI
+Summer 2016  Soren Cheng                Polytechnic Institute of New York University                     Brookhaven National Laboratory        SULI
+Summer 2015  Prantick K Dhar            New York City College of Technology/City University of New York  Brookhaven National Laboratory        SULI
+Summer 2015  Elizabeth Rosenzweig       New York City College of Technology/City University of New York  Oak Ridge National Laboratory         SULI
+Summer 2015  Soren Cheng                Polytechnic Institute of New York University                     Brookhaven National Laboratory        SULI
+Summer 2015  Rajeev Jonathan Seemungal  Polytechnic Institute of New York University                     Brookhaven National Laboratory        SULI
+Summer 2014  Mamadou Misbaou Bah        New York City College of Technology/City University of New York  Brookhaven National Laboratory        SULI
+Summer 2014  Kayle Jamil Corneill       New York City College of Technology/City University of New York  Brookhaven National Laboratory        SULI
+Summer 2014  Milor Louis                New York City College of Technology/City University of New York  Brookhaven National Laboratory        SULI
+Summer 2014  suhua zeng                 New York City College of Technology/City University of New York  Brookhaven National Laboratory        SULI
+Summer 2014  Rajeev Jonathan Seemungal  Polytechnic Institute of New York University                     Brookhaven National Laboratory        SULI
+Summer 2014  Louis Tessler              Polytechnic Institute of New York University                     SLAC National Accelerator Laboratory  SULI
+Summer 2014  Christine Truong           Polytechnic Institute of New York University                     Brookhaven National Laboratory        SULI
+Spring 2015  Adrian Guillermo Hurtado   Polytechnic Institute of New York University                     Brookhaven National Laboratory        SULI
+Fall 2014    Adrian Guillermo Hurtado   Polytechnic Institute of New York University                     Brookhaven National Laboratory        SULI
+```
 ---
 <a name="NY-08"></a>
 [Back to top](#top)
 ## NY-08 -- Rep. Hakeem S. Jeffries (D) -- [Wikipedia](https://en.wikipedia.org/wiki/NY-08)
-### Committees
-Hakeem S. Jeffries is not on any of our key committees 
+## Committees
+Hakeem S. Jeffries is not on any of our key committees. 
 
-### HEP Grants
+## HEP Grants
 ```
 This district received no SC HEP grants from 2012-2019
 ```
-### SC Contracts
+## SC Contracts
 In the past 8 years, this district has received:
 3 Office of Science contracts, totalling <b> $85,484</b>
 ```
@@ -437,7 +673,7 @@ In the past 8 years, this district has received:
   2012  ASSOCIATION FOR COMPUTING MACHINERY, INC.         7,275  NEWSPAPERS AND PERIODICALS
   2012  NATURE AMERICA, INC.                             70,209  NEWSPAPERS AND PERIODICALS
 ```
-### NSF MPS Grants
+## NSF MPS Grants
 In the past 8 years, this district has received:<b> $10,792,179 </b>in NSF MPS grants.
 ```
   Year  Institution                                     Amount ($)
@@ -448,22 +684,26 @@ In the past 8 years, this district has received:<b> $10,792,179 </b>in NSF MPS g
   2012  MULTIPLE RECIPIENTS                                450,000
   2012  NEW YORK UNIVERSITY                              9,018,056
 ```
+## SULI/CCI Interns
+```
+This district had no SULI/CCI interns from 2014-2016 (only years available)
+```
 ---
 <a name="NY-09"></a>
 [Back to top](#top)
 ## NY-09 -- Rep. Yvette D. Clarke (D) -- [Wikipedia](https://en.wikipedia.org/wiki/NY-09)
-### Committees
+## Committees
 Yvette D. Clarke is the #16 Democrat on the House Committee on Energy and Commerce 
 
-### HEP Grants
+## HEP Grants
 ```
 This district received no SC HEP grants from 2012-2019
 ```
-### SC Contracts
+## SC Contracts
 ```
 This district received no SC contracts from 2012-2019
 ```
-### NSF MPS Grants
+## NSF MPS Grants
 In the past 8 years, this district has received:<b> $2,634,840 </b>in NSF MPS grants.
 ```
   Year  Institution                                               Amount ($)
@@ -478,18 +718,30 @@ In the past 8 years, this district has received:<b> $2,634,840 </b>in NSF MPS gr
   2013  RESEARCH FOUNDATION OF THE CITY UNIVERSITY OF                152,244
   2012  RESEARCH FOUNDATION OF THE CITY UNIVERSITY OF                562,844
 ```
+## SULI/CCI Interns
+From 2014-2016 (only years available), this district had 6 SULI/CCI interns
+```
+Term         Name                        College                                           Host Lab                        Program
+-----------  --------------------------  ------------------------------------------------  ------------------------------  ---------
+Summer 2016  Crystal Latisha Abrams      City University of New York Medger Evers College  Brookhaven National Laboratory  SULI
+Spring 2016  Crystal Latisha Abrams      City University of New York Medger Evers College  Brookhaven National Laboratory  SULI
+Spring 2014  Ruma Hoque                  City University of New York Medger Evers College  Brookhaven National Laboratory  SULI
+Spring 2014  Nneka Estee Joyette-Daniel  City University of New York Medger Evers College  Brookhaven National Laboratory  SULI
+Fall 2014    Olivia Wiggins              City University of New York Medger Evers College  Brookhaven National Laboratory  SULI
+Fall 2014    Anna Tsygelnytska           City University of New York Brooklyn College      Brookhaven National Laboratory  SULI
+```
 ---
 <a name="NY-10"></a>
 [Back to top](#top)
 ## NY-10 -- Rep. Jerrold Nadler (D) -- [Wikipedia](https://en.wikipedia.org/wiki/NY-10)
-### Committees
-Jerrold Nadler is not on any of our key committees 
+## Committees
+Jerrold Nadler is not on any of our key committees. 
 
-### HEP Grants
+## HEP Grants
 ```
 This district received no SC HEP grants from 2012-2019
 ```
-### SC Contracts
+## SC Contracts
 In the past 8 years, this district has received:
 8 Office of Science contracts, totalling <b> $506,162</b>
 ```
@@ -503,7 +755,7 @@ In the past 8 years, this district has received:
   2013  NATURE AMERICA, INC.                         146,703  NEWSPAPERS AND PERIODICALS
   2013  ORCID, INC.                                    8,336  SUPPORT- ADMINISTRATIVE: INFORMATION RETRIEVAL
 ```
-### NSF MPS Grants
+## NSF MPS Grants
 In the past 8 years, this district has received:<b> $152,239,000 </b>in NSF MPS grants.
 ```
   Year  Institution                                      Amount ($)
@@ -539,22 +791,34 @@ In the past 8 years, this district has received:<b> $152,239,000 </b>in NSF MPS 
   2012  RFCUNY - NYC COLLEGE OF TECHNOLOGY                   37,500
   2012  POLYTECHNIC INSTITUTE OF NEW YORK UNIVERSITY        724,222
 ```
+## SULI/CCI Interns
+From 2014-2016 (only years available), this district had 6 SULI/CCI interns
+```
+Term         Name                College                                      Host Lab                               Program
+-----------  ------------------  -------------------------------------------  -------------------------------------  ---------
+Summer 2016  Ben Yehuda Israeli  Columbia University in the City of New York  Princeton Plasma Physics Laboratory    SULI
+Summer 2015  Sarah Berlinger     Columbia University in the City of New York  Lawrence Berkeley National Laboratory  SULI
+Summer 2015  Ben Yehuda Israeli  Columbia University in the City of New York  Princeton Plasma Physics Laboratory    SULI
+Summer 2015  Yuxin Wang          New York University                          Los Alamos National Laboratory         SULI
+Summer 2014  Nathaniel Posey     Columbia University in the City of New York  Princeton Plasma Physics Laboratory    SULI
+Summer 2014  Erik B Schiferle    Columbia University in the City of New York  Ames National Laboratory               SULI
+```
 ---
 <a name="NY-11"></a>
 [Back to top](#top)
 ## NY-11 -- Rep. Max Rose (D) -- [Wikipedia](https://en.wikipedia.org/wiki/NY-11)
-### Committees
-Max Rose is not on any of our key committees 
+## Committees
+Max Rose is not on any of our key committees. 
 
-### HEP Grants
+## HEP Grants
 ```
 This district received no SC HEP grants from 2012-2019
 ```
-### SC Contracts
+## SC Contracts
 ```
 This district received no SC contracts from 2012-2019
 ```
-### NSF MPS Grants
+## NSF MPS Grants
 In the past 8 years, this district has received:<b> $4,421,411 </b>in NSF MPS grants.
 ```
   Year  Institution                                               Amount ($)
@@ -568,21 +832,25 @@ In the past 8 years, this district has received:<b> $4,421,411 </b>in NSF MPS gr
   2013  RESEARCH FOUNDATION OF THE CITY UNIVERSITY OF                646,907
   2012  RESEARCH FOUNDATION OF THE CITY UNIVERSITY OF              1,001,662
 ```
+## SULI/CCI Interns
+```
+This district had no SULI/CCI interns from 2014-2016 (only years available)
+```
 ---
 <a name="NY-12"></a>
 [Back to top](#top)
 ## NY-12 -- Rep. Carolyn B. Maloney (D) -- [Wikipedia](https://en.wikipedia.org/wiki/NY-12)
-### Committees
-Carolyn B. Maloney is not on any of our key committees 
+## Committees
+Carolyn B. Maloney is not on any of our key committees. 
 
-### HEP Grants
+## HEP Grants
 In the past 8 years, this district has received:<b> $0 </b>in SC HEP grants.
 ```
 Institution                                                      Amount ($)    Start    End  Principal Investigator    Project Title
 -------------------------------------------------------------  ------------  -------  -----  ------------------------  ---------------------------------------
 Research Foundation of The City University of New York (CUNY)             0     2016   2017  Lynch, Kevin              Mu2e at the City University of New York
 ```
-### SC Contracts
+## SC Contracts
 In the past 8 years, this district has received:
 9 Office of Science contracts, totalling <b> $510,513</b>
 ```
@@ -596,7 +864,7 @@ In the past 8 years, this district has received:
   2014  ELSEVIER INC.                                   120,000  BOOKS AND PAMPHLETS
   2013  ELSEVIER INC.                                   115,338  BOOKS AND PAMPHLETS
 ```
-### NSF MPS Grants
+## NSF MPS Grants
 In the past 8 years, this district has received:<b> $8,112,990 </b>in NSF MPS grants.
 ```
   Year  Institution                                               Amount ($)
@@ -632,14 +900,32 @@ In the past 8 years, this district has received:<b> $8,112,990 </b>in NSF MPS gr
   2013  RESEARCH FOUNDATION OF THE CITY UNIVERSITY OF              1,399,117
   2012  MULTIPLE RECIPIENTS                                           92,836
 ```
+## SULI/CCI Interns
+From 2014-2016 (only years available), this district had 12 SULI/CCI interns
+```
+Term         Name                            College                                       Host Lab                        Program
+-----------  ------------------------------  --------------------------------------------  ------------------------------  ---------
+Summer 2016  Anna Mcgilloway                 City University of New York The City College  Brookhaven National Laboratory  SULI
+Summer 2016  Jessica Mele                    City University of New York The City College  Brookhaven National Laboratory  SULI
+Summer 2016  Allison I Villegas Roman        City University of New York Hunter College    Argonne National Laboratory     SULI
+Summer 2015  Md Raqibul Islam                City University of New York The City College  Los Alamos National Laboratory  SULI
+Summer 2015  Jessica Mele                    City University of New York The City College  Brookhaven National Laboratory  SULI
+Summer 2015  Christine Hirt                  City University of New York Hunter College    Brookhaven National Laboratory  SULI
+Summer 2015  Yeeren Low                      City University of New York Hunter College    Brookhaven National Laboratory  SULI
+Summer 2014  Magdalena Rozalia Andrzejewska  City University of New York The City College  Brookhaven National Laboratory  SULI
+Summer 2014  Ricky B Bhola                   City University of New York The City College  Brookhaven National Laboratory  SULI
+Summer 2014  Salima Varese                   City University of New York The City College  Brookhaven National Laboratory  SULI
+Summer 2014  Christine Hirt                  City University of New York Hunter College    Brookhaven National Laboratory  SULI
+Spring 2014  Marisol Bonnet                  City University of New York The City College  Oak Ridge National Laboratory   SULI
+```
 ---
 <a name="NY-13"></a>
 [Back to top](#top)
 ## NY-13 -- Rep. Adriano Espaillat (D) -- [Wikipedia](https://en.wikipedia.org/wiki/NY-13)
-### Committees
-Adriano Espaillat is not on any of our key committees 
+## Committees
+Adriano Espaillat is not on any of our key committees. 
 
-### HEP Grants
+## HEP Grants
 In the past 8 years, this district has received:<b> $4,951,000 </b>in SC HEP grants.
 ```
 Institution            Amount ($)    Start  End      Principal Investigator    Project Title
@@ -648,11 +934,11 @@ Columbia University       300,000     2014  2015     Christ, Norman            T
 Columbia University       300,000     2014  2017     Nicolis, Alberto          Quantum Field Theories for Cosmology
 Columbia University     4,351,000     2014  Ongoing  Weinberg, Erick           Theoretical High Energy Physics
 ```
-### SC Contracts
+## SC Contracts
 ```
 This district received no SC contracts from 2012-2019
 ```
-### NSF MPS Grants
+## NSF MPS Grants
 In the past 8 years, this district has received:<b> $31,331,183 </b>in NSF MPS grants.
 ```
   Year  Institution                                                     Amount ($)
@@ -676,18 +962,22 @@ In the past 8 years, this district has received:<b> $31,331,183 </b>in NSF MPS g
   2013  YESHIVA UNIVERSITY                                                 255,515
   2012  RESEARCH FOUNDATION OF THE CITY UNIVERSITY OF                      200,997
 ```
+## SULI/CCI Interns
+```
+This district had no SULI/CCI interns from 2014-2016 (only years available)
+```
 ---
 <a name="NY-14"></a>
 [Back to top](#top)
 ## NY-14 -- Rep. Alexandria Ocasio-Cortez (D) -- [Wikipedia](https://en.wikipedia.org/wiki/NY-14)
-### Committees
-Alexandria Ocasio-Cortez is not on any of our key committees 
+## Committees
+Alexandria Ocasio-Cortez is not on any of our key committees. 
 
-### HEP Grants
+## HEP Grants
 ```
 This district received no SC HEP grants from 2012-2019
 ```
-### SC Contracts
+## SC Contracts
 In the past 8 years, this district has received:
 1 Office of Science contracts, totalling <b> $92,109</b>
 ```
@@ -695,7 +985,7 @@ In the past 8 years, this district has received:
 ------  -------------  ------------  -------------------
   2012  ELSEVIER INC.        92,109  BOOKS AND PAMPHLETS
 ```
-### NSF MPS Grants
+## NSF MPS Grants
 In the past 8 years, this district has received:<b> $2,507,997 </b>in NSF MPS grants.
 ```
   Year  Institution                                      Amount ($)
@@ -710,16 +1000,20 @@ In the past 8 years, this district has received:<b> $2,507,997 </b>in NSF MPS gr
   2012  RESEARCH FOUNDATION OF THE CITY UNIVERSITY OF     1,699,150
   2012  WEILL MEDICAL COLLEGE OF CORNELL UNIVERSITY         100,000
 ```
+## SULI/CCI Interns
+```
+This district had no SULI/CCI interns from 2014-2016 (only years available)
+```
 ---
 <a name="NY-15"></a>
 [Back to top](#top)
 ## NY-15 -- Rep. José E. Serrano (D) -- [Wikipedia](https://en.wikipedia.org/wiki/NY-15)
-### Committees
+## Committees
 José E. Serrano is the #1 Democrat on the House Appropriations Subcommittee on Commerce, Justice, and Science 
 
 José E. Serrano is the #4 Democrat on the House Committee on Appropriations 
 
-### HEP Grants
+## HEP Grants
 In the past 8 years, this district has received:<b> $3,769,000 </b>in SC HEP grants.
 ```
 Institution               Amount ($)    Start    End  Principal Investigator    Project Title
@@ -730,11 +1024,11 @@ COLUMBIA UNIVERSITY        2,650,000     2012   2014  Christ, Weinberg          
 COLUMBIA UNIVERSITY          300,000     2012   2014  Nicolis                   Quantum Field Theories for Cosmology
 ROCKEFELLER UNIVERSITY       564,000     2012   2014  Goulianos                 Experimental Studies of Elementary Particle Interactions at High Energies
 ```
-### SC Contracts
+## SC Contracts
 ```
 This district received no SC contracts from 2012-2019
 ```
-### NSF MPS Grants
+## NSF MPS Grants
 In the past 8 years, this district has received:<b> $43,500,915 </b>in NSF MPS grants.
 ```
   Year  Institution                                                     Amount ($)
@@ -755,22 +1049,38 @@ In the past 8 years, this district has received:<b> $43,500,915 </b>in NSF MPS g
   2012  THE TRUSTEES OF COLUMBIA UNIVERSITY IN THE CI                   23,024,548
   2012  YESHIVA UNIVERSITY                                               1,231,614
 ```
+## SULI/CCI Interns
+From 2014-2016 (only years available), this district had 10 SULI/CCI interns
+```
+Term         Name                           College                                               Host Lab                        Program
+-----------  -----------------------------  ----------------------------------------------------  ------------------------------  ---------
+Summer 2016  Daniel Wines                   Fordham University                                    Brookhaven National Laboratory  SULI
+Summer 2016  Christopher Camilo Reyes       City University of New York Bronx Community College   Brookhaven National Laboratory  CCI
+Summer 2016  Rayzeline Ellianna Diaz Perez  City University of New York Bronx Community College   Brookhaven National Laboratory  CCI
+Summer 2016  Isamar Garrido-Rodriguez       Hostos Community College-City University of New York  Brookhaven National Laboratory  CCI
+Summer 2015  Jon Gustafson                  Fordham University                                    Brookhaven National Laboratory  SULI
+Summer 2014  Jon Gustafson                  Fordham University                                    Brookhaven National Laboratory  SULI
+Summer 2014  Sarja Lowe                     City University of New York Bronx Community College   Brookhaven National Laboratory  CCI
+Spring 2016  Christopher Camilo Reyes       City University of New York Bronx Community College   Brookhaven National Laboratory  CCI
+Spring 2016  Rayzeline Ellianna Diaz Perez  City University of New York Bronx Community College   Brookhaven National Laboratory  CCI
+Spring 2015  Edem Kokou                     City University of New York Bronx Community College   Oak Ridge National Laboratory   SULI
+```
 ---
 <a name="NY-16"></a>
 [Back to top](#top)
 ## NY-16 -- Rep. Eliot L. Engel (D) -- [Wikipedia](https://en.wikipedia.org/wiki/NY-16)
-### Committees
+## Committees
 Eliot L. Engel is the #4 Democrat on the House Committee on Energy and Commerce 
 
-### HEP Grants
+## HEP Grants
 ```
 This district received no SC HEP grants from 2012-2019
 ```
-### SC Contracts
+## SC Contracts
 ```
 This district received no SC contracts from 2012-2019
 ```
-### NSF MPS Grants
+## NSF MPS Grants
 In the past 8 years, this district has received:<b> $935,944 </b>in NSF MPS grants.
 ```
   Year  Institution               Amount ($)
@@ -783,18 +1093,22 @@ In the past 8 years, this district has received:<b> $935,944 </b>in NSF MPS gran
   2014  MANHATTAN COLLEGE CORP        72,854
   2013  IONA COLLEGE                 116,000
 ```
+## SULI/CCI Interns
+```
+This district had no SULI/CCI interns from 2014-2016 (only years available)
+```
 ---
 <a name="NY-17"></a>
 [Back to top](#top)
 ## NY-17 -- Rep. Nita M. Lowey (D) -- [Wikipedia](https://en.wikipedia.org/wiki/NY-17)
-### Committees
+## Committees
 Nita M. Lowey is the #1 Democrat on the House Committee on Appropriations 
 
-### HEP Grants
+## HEP Grants
 ```
 This district received no SC HEP grants from 2012-2019
 ```
-### SC Contracts
+## SC Contracts
 In the past 8 years, this district has received:
 2 Office of Science contracts, totalling <b> $9,210</b>
 ```
@@ -803,7 +1117,7 @@ In the past 8 years, this district has received:
   2016  CAMBRIDGE UNIVERSITY PRESS         4,717  NEWSPAPERS AND PERIODICALS
   2015  CAMBRIDGE UNIVERSITY PRESS         4,493  BOOKS AND PAMPHLETS
 ```
-### NSF MPS Grants
+## NSF MPS Grants
 In the past 8 years, this district has received:<b> $324,015 </b>in NSF MPS grants.
 ```
   Year  Institution                                      Amount ($)
@@ -811,22 +1125,26 @@ In the past 8 years, this district has received:<b> $324,015 </b>in NSF MPS gran
   2013  RESEARCH FOUNDATION OF THE CITY UNIVERSITY OF         5,922
   2012  RESEARCH FOUNDATION OF THE CITY UNIVERSITY OF       318,093
 ```
+## SULI/CCI Interns
+```
+This district had no SULI/CCI interns from 2014-2016 (only years available)
+```
 ---
 <a name="NY-18"></a>
 [Back to top](#top)
 ## NY-18 -- Rep. Sean Patrick Maloney (D) -- [Wikipedia](https://en.wikipedia.org/wiki/NY-18)
-### Committees
-Sean Patrick Maloney is not on any of our key committees 
+## Committees
+Sean Patrick Maloney is not on any of our key committees. 
 
-### HEP Grants
+## HEP Grants
 ```
 This district received no SC HEP grants from 2012-2019
 ```
-### SC Contracts
+## SC Contracts
 ```
 This district received no SC contracts from 2012-2019
 ```
-### NSF MPS Grants
+## NSF MPS Grants
 In the past 8 years, this district has received:<b> $1,027,309 </b>in NSF MPS grants.
 ```
   Year  Institution                Amount ($)
@@ -839,22 +1157,31 @@ In the past 8 years, this district has received:<b> $1,027,309 </b>in NSF MPS gr
   2013  VASSAR COLLEGE                 75,000
   2012  IONA COLLEGE                   76,000
 ```
+## SULI/CCI Interns
+From 2014-2016 (only years available), this district had 3 SULI/CCI interns
+```
+Term         Name             College         Host Lab                        Program
+-----------  ---------------  --------------  ------------------------------  ---------
+Summer 2014  Christopher Lee  Marist College  Brookhaven National Laboratory  SULI
+Summer 2014  Kevin Terry Lee  Vassar College  Brookhaven National Laboratory  SULI
+Fall 2014    Kevin Terry Lee  Vassar College  Argonne National Laboratory     SULI
+```
 ---
 <a name="NY-19"></a>
 [Back to top](#top)
 ## NY-19 -- Rep. Antonio Delgado (D) -- [Wikipedia](https://en.wikipedia.org/wiki/NY-19)
-### Committees
-Antonio Delgado is not on any of our key committees 
+## Committees
+Antonio Delgado is not on any of our key committees. 
 
-### HEP Grants
+## HEP Grants
 ```
 This district received no SC HEP grants from 2012-2019
 ```
-### SC Contracts
+## SC Contracts
 ```
 This district received no SC contracts from 2012-2019
 ```
-### NSF MPS Grants
+## NSF MPS Grants
 In the past 8 years, this district has received:<b> $756,305 </b>in NSF MPS grants.
 ```
   Year  Institution                                                      Amount ($)
@@ -867,18 +1194,35 @@ In the past 8 years, this district has received:<b> $756,305 </b>in NSF MPS gran
   2012  ASSN FOR SYMBOLIC LOGIC                                              30,000
   2012  VASSAR COLLEGE                                                       75,000
 ```
+## SULI/CCI Interns
+From 2014-2016 (only years available), this district had 11 SULI/CCI interns
+```
+Term         Name                  College                                                                           Host Lab                              Program
+-----------  --------------------  --------------------------------------------------------------------------------  ------------------------------------  ---------
+Summer 2016  William O'connell     State University of New York College at Oneonta                                   Brookhaven National Laboratory        SULI
+Summer 2016  Mamoudou Ba           State University of New York at New Paltz                                         Brookhaven National Laboratory        SULI
+Summer 2016  Alexander Gibson      Hartwick College                                                                  SLAC National Accelerator Laboratory  SULI
+Summer 2015  Kyle Henry Johnson    State University of New York College at Oneonta                                   Brookhaven National Laboratory        SULI
+Summer 2015  MAMOUDOU BA           State University of New York at New Paltz                                         Brookhaven National Laboratory        SULI
+Summer 2015  Alexander Gibson      Hartwick College                                                                  SLAC National Accelerator Laboratory  SULI
+Summer 2014  Erica Bornoft         State University of New York College at Oneonta                                   Brookhaven National Laboratory        SULI
+Summer 2014  Ilana Leigh Heckler   State University of New York at New Paltz                                         Brookhaven National Laboratory        SULI
+Summer 2014  Alicia Marie Pomeroy  State University of New York College of Agriculture and Technology at Cobleskill  Brookhaven National Laboratory        SULI
+Summer 2014  Amanda Vescovi        State University of New York College of Agriculture and Technology at Cobleskill  Brookhaven National Laboratory        SULI
+Fall 2015    Kathleen Westervelt   State University of New York at New Paltz                                         Argonne National Laboratory           SULI
+```
 ---
 <a name="NY-20"></a>
 [Back to top](#top)
 ## NY-20 -- Rep. Paul Tonko (D) -- [Wikipedia](https://en.wikipedia.org/wiki/NY-20)
-### Committees
+## Committees
 Paul Tonko is the #15 Democrat on the House Committee on Science, Space, and Technology 
 
 Paul Tonko is the #5 Democrat on the House Committee on Science, Space, and Technology; Subcommittee on Research and Technology 
 
 Paul Tonko is the #15 Democrat on the House Committee on Energy and Commerce 
 
-### HEP Grants
+## HEP Grants
 In the past 8 years, this district has received:<b> $1,013,000 </b>in SC HEP grants.
 ```
 Institution                                     Amount ($)    Start  End      Principal Investigator    Project Title
@@ -893,11 +1237,11 @@ University at Albany (SUNY)                              0     2015  2016     Er
 Rensselaer Polytechnic Institute                         0     2014  2015     Giedt, Joel               SEARCHING FOR THETA_13 AT DAYA BAY
 State University of New York (SUNY) - Albany       180,000     2014  2015     Ernst, Jesse              Experimental Particle Physics Research at SUNY Albany
 ```
-### SC Contracts
+## SC Contracts
 ```
 This district received no SC contracts from 2012-2019
 ```
-### NSF MPS Grants
+## NSF MPS Grants
 In the past 8 years, this district has received:<b> $24,969,772 </b>in NSF MPS grants.
 ```
   Year  Institution                                                                      Amount ($)
@@ -933,14 +1277,46 @@ In the past 8 years, this district has received:<b> $24,969,772 </b>in NSF MPS g
   2013  RENSSELAER POLYTECHNIC INSTITUTE                                                  5,108,613
   2012  BARD COLLEGE                                                                          2,000
 ```
+## SULI/CCI Interns
+From 2014-2016 (only years available), this district had 26 SULI/CCI interns
+```
+Term         Name                    College                           Host Lab                                Program
+-----------  ----------------------  --------------------------------  --------------------------------------  ---------
+Summer 2016  Brenna Bonnie Buckley   Rensselaer Polytechnic Institute  Brookhaven National Laboratory          SULI
+Summer 2016  J Parker Hamren         Rensselaer Polytechnic Institute  Lawrence Livermore National Laboratory  SULI
+Summer 2016  Shresht Joshi           University at Albany, SUNY        Brookhaven National Laboratory          SULI
+Summer 2016  Rachel Ann Genzer       University at Albany, SUNY        Brookhaven National Laboratory          SULI
+Summer 2016  Michael Dolce           University at Albany, SUNY        Brookhaven National Laboratory          SULI
+Summer 2016  Amanda Lewis            Rensselaer Polytechnic Institute  Brookhaven National Laboratory          SULI
+Summer 2016  Riley Joinnides         Rensselaer Polytechnic Institute  Brookhaven National Laboratory          SULI
+Summer 2016  Amanda Depoian          Siena College                     Brookhaven National Laboratory          SULI
+Summer 2015  Amanda Lewis            Rensselaer Polytechnic Institute  Princeton Plasma Physics Laboratory     SULI
+Summer 2015  Alex De Palma           University at Albany, SUNY        Ames National Laboratory                SULI
+Summer 2015  Angelika Rothberg       Rensselaer Polytechnic Institute  Brookhaven National Laboratory          SULI
+Summer 2015  Joseph Sutton           Rensselaer Polytechnic Institute  Brookhaven National Laboratory          SULI
+Summer 2015  Matthew Daly Zimmer     Rensselaer Polytechnic Institute  Lawrence Livermore National Laboratory  SULI
+Summer 2015  Amanda Rose Gallo       Rensselaer Polytechnic Institute  Brookhaven National Laboratory          SULI
+Summer 2015  Thomas John DeMartino   Rensselaer Polytechnic Institute  Brookhaven National Laboratory          SULI
+Summer 2015  Ferheen Qureshi         Rensselaer Polytechnic Institute  Brookhaven National Laboratory          SULI
+Summer 2014  Robert Jacoby           Rensselaer Polytechnic Institute  Brookhaven National Laboratory          SULI
+Summer 2014  Hannah Nelson           Rensselaer Polytechnic Institute  Brookhaven National Laboratory          SULI
+Summer 2014  Josue San Emeterio      Rensselaer Polytechnic Institute  Ames National Laboratory                SULI
+Summer 2014  Emily Ruth Singer       Skidmore College                  Brookhaven National Laboratory          SULI
+Summer 2014  Katherine Towey         University at Albany, SUNY        Brookhaven National Laboratory          SULI
+Summer 2014  Megan Frances Wart      Rensselaer Polytechnic Institute  Brookhaven National Laboratory          SULI
+Summer 2014  Benjamin Tyler Daniels  Rensselaer Polytechnic Institute  Brookhaven National Laboratory          SULI
+Spring 2016  Kristen Brewster        Hudson Valley Community College   Brookhaven National Laboratory          SULI
+Spring 2014  Joseph Horne            Rensselaer Polytechnic Institute  Oak Ridge National Laboratory           SULI
+Fall 2015    Kristen Brewster        Hudson Valley Community College   Brookhaven National Laboratory          SULI
+```
 ---
 <a name="NY-21"></a>
 [Back to top](#top)
 ## NY-21 -- Rep. Elise M. Stefanik (R) -- [Wikipedia](https://en.wikipedia.org/wiki/NY-21)
-### Committees
+## Committees
 Elise M. Stefanik is the #4 Republican on the House Subcommittee on Higher Education and Workforce Development 
 
-### HEP Grants
+## HEP Grants
 In the past 8 years, this district has received:<b> $701,000 </b>in SC HEP grants.
 ```
 Institution                       Amount ($)    Start    End  Principal Investigator    Project Title
@@ -948,11 +1324,11 @@ Institution                       Amount ($)    Start    End  Principal Investig
 RENSSELAER POLYTECHNIC INST.         586,000     2012   2014  Napolitano                Searching for Theta_13 at Daya Bay
 STATE U. OF NEW YORK AT ALBANY       115,000     2012   2014  Ernst                     New Ideas for the ATLAS Experiment
 ```
-### SC Contracts
+## SC Contracts
 ```
 This district received no SC contracts from 2012-2019
 ```
-### NSF MPS Grants
+## NSF MPS Grants
 In the past 8 years, this district has received:<b> $8,124,368 </b>in NSF MPS grants.
 ```
   Year  Institution                                      Amount ($)
@@ -971,14 +1347,30 @@ In the past 8 years, this district has received:<b> $8,124,368 </b>in NSF MPS gr
   2012  SIENA COLLEGE (INC)                                  81,195
   2012  TRUSTEES OF UNION COLLEGE IN THE TOWN OF SCHE       776,206
 ```
+## SULI/CCI Interns
+From 2014-2016 (only years available), this district had 10 SULI/CCI interns
+```
+Term         Name                      College                                              Host Lab                              Program
+-----------  ------------------------  ---------------------------------------------------  ------------------------------------  ---------
+Summer 2016  Lisa Marie Marone         Clarkson University                                  Brookhaven National Laboratory        SULI
+Summer 2016  Emma Squires              Paul Smith's College                                 Brookhaven National Laboratory        SULI
+Summer 2016  Harry Erhardt Werner Iv   Jefferson Community College                          SLAC National Accelerator Laboratory  CCI
+Summer 2015  Alexander George Karlis   State University of New York College at Plattsburgh  Brookhaven National Laboratory        SULI
+Summer 2015  Taylor Ruhle              Paul Smith's College                                 Brookhaven National Laboratory        SULI
+Summer 2014  Orion Landauer Kafka      Clarkson University                                  Oak Ridge National Laboratory         SULI
+Summer 2014  Alexander Kafka Landauer  Clarkson University                                  Oak Ridge National Laboratory         SULI
+Summer 2014  Yarong Lin                Clarkson University                                  Oak Ridge National Laboratory         SULI
+Summer 2014  Cole Chrisitan Martin     State University of New York College at Plattsburgh  Argonne National Laboratory           SULI
+Fall 2014    Virginia Brink            Paul Smith's College                                 Brookhaven National Laboratory        SULI
+```
 ---
 <a name="NY-22"></a>
 [Back to top](#top)
 ## NY-22 -- Rep. Anthony Brindisi (D) -- [Wikipedia](https://en.wikipedia.org/wiki/NY-22)
-### Committees
-Anthony Brindisi is not on any of our key committees 
+## Committees
+Anthony Brindisi is not on any of our key committees. 
 
-### HEP Grants
+## HEP Grants
 In the past 8 years, this district has received:<b> $2,523,000 </b>in SC HEP grants.
 ```
 Institution           Amount ($)    Start    End  Principal Investigator    Project Title
@@ -988,7 +1380,7 @@ CORNELL UNIVERSITY       625,000     2012   2014  Gibbons                   An I
 CORNELL UNIVERSITY       648,000     2012   2014  Hoffstaetter              Raising Superconducting Cavity Gradients
 CORNELL UNIVERSITY       950,000     2012   2014  Rubin                     Damping Ring R&D at CESR TA
 ```
-### SC Contracts
+## SC Contracts
 In the past 8 years, this district has received:
 2 Office of Science contracts, totalling <b> $47,485</b>
 ```
@@ -997,7 +1389,7 @@ In the past 8 years, this district has received:
   2015  COMPUTER CONNECTION OF CENTRAL NEW YORK INC.        42,500  ADPE SYSTEM CONFIGURATION
   2013  COMPUTER CONNECTION OF CENTRAL NEW YORK INC.         4,985  ADPE SYSTEM CONFIGURATION
 ```
-### NSF MPS Grants
+## NSF MPS Grants
 In the past 8 years, this district has received:<b> $70,616,369 </b>in NSF MPS grants.
 ```
   Year  Institution                                                      Amount ($)
@@ -1022,14 +1414,40 @@ In the past 8 years, this district has received:<b> $70,616,369 </b>in NSF MPS g
   2012  RESEARCH FOUNDATION OF STATE UNIVERSITY OF NE                       840,452
   2012  CORNELL UNIVERSITY, INC                                          51,172,674
 ```
+## SULI/CCI Interns
+From 2014-2016 (only years available), this district had 20 SULI/CCI interns
+```
+Term         Name                       College                                     Host Lab                               Program
+-----------  -------------------------  ------------------------------------------  -------------------------------------  ---------
+Summer 2016  Kaden Badalian             State University of New York at Binghamton  Brookhaven National Laboratory         SULI
+Summer 2016  Kathleen Chen              Colgate University                          Lawrence Berkeley National Laboratory  SULI
+Summer 2016  Brian Savona               State University of New York at Binghamton  Brookhaven National Laboratory         SULI
+Summer 2016  Matthew Petryk             State University of New York at Binghamton  Brookhaven National Laboratory         SULI
+Summer 2016  Cara Elizabeth Jozefowski  State University of New York at Binghamton  Brookhaven National Laboratory         SULI
+Summer 2015  Lauren Zipper              State University of New York at Binghamton  Brookhaven National Laboratory         SULI
+Summer 2015  Zachary Lebens             State University of New York at Binghamton  Brookhaven National Laboratory         SULI
+Summer 2015  Brandon Thomas Pereyra     State University of New York at Binghamton  National Renewable Energy Laboratory   SULI
+Summer 2015  Nicholas Tsirakis          State University of New York at Binghamton  Brookhaven National Laboratory         SULI
+Summer 2014  Wil Lieberman-Cribbin      Colgate University                          National Renewable Energy Laboratory   SULI
+Summer 2014  Matthew Chiulli            Binghamton University                       Brookhaven National Laboratory         SULI
+Summer 2014  Michelle Cerniglia         State University of New York at Binghamton  Brookhaven National Laboratory         SULI
+Summer 2014  Joseph Karp                State University of New York at Binghamton  Brookhaven National Laboratory         SULI
+Summer 2014  Lauren Zipper              State University of New York at Binghamton  Brookhaven National Laboratory         SULI
+Summer 2014  Nicholas Tsirakis          State University of New York at Binghamton  Brookhaven National Laboratory         SULI
+Summer 2014  Matthew Petryk             State University of New York at Binghamton  Brookhaven National Laboratory         SULI
+Summer 2014  Brandon Thomas Pereyra     State University of New York at Binghamton  National Renewable Energy Laboratory   SULI
+Summer 2014  Alex Frederick Koenig      State University of New York at Binghamton  Brookhaven National Laboratory         SULI
+Spring 2015  Wil Lieberman-Cribbin      Colgate University                          Brookhaven National Laboratory         SULI
+Spring 2015  Emma Taccardi              Hamilton College                            Lawrence Berkeley National Laboratory  SULI
+```
 ---
 <a name="NY-23"></a>
 [Back to top](#top)
 ## NY-23 -- Rep. Tom Reed (R) -- [Wikipedia](https://en.wikipedia.org/wiki/NY-23)
-### Committees
-Tom Reed is not on any of our key committees 
+## Committees
+Tom Reed is not on any of our key committees. 
 
-### HEP Grants
+## HEP Grants
 In the past 8 years, this district has received:<b> $7,598,000 </b>in SC HEP grants.
 ```
 Institution           Amount ($)    Start  End      Principal Investigator    Project Title
@@ -1047,11 +1465,11 @@ Cornell University     1,790,000     2014  2018     Gibbons, Lawrence         Pr
 Cornell University     1,892,000     2014  2018     Hoffstaetter, Georg       Raising Superconducting Cavity Gradients
 Cornell University             0     2014  2015     Hoffstaetter, Georg       Fundamental Research in High-Q0 Superconducting Cavities
 ```
-### SC Contracts
+## SC Contracts
 ```
 This district received no SC contracts from 2012-2019
 ```
-### NSF MPS Grants
+## NSF MPS Grants
 In the past 8 years, this district has received:<b> $269,789,008 </b>in NSF MPS grants.
 ```
   Year  Institution                                      Amount ($)
@@ -1080,14 +1498,56 @@ In the past 8 years, this district has received:<b> $269,789,008 </b>in NSF MPS 
   2012  COLGATE UNIVERSITY                                  170,827
   2012  CLARKSON UNIVERSITY                                 426,156
 ```
+## SULI/CCI Interns
+From 2014-2016 (only years available), this district had 36 SULI/CCI interns
+```
+Term         Name                            College             Host Lab                                Program
+-----------  ------------------------------  ------------------  --------------------------------------  ---------
+Summer 2016  August Gula                     Houghton College    Brookhaven National Laboratory          SULI
+Summer 2016  Stacey Anne Sternberg           Cornell University  Brookhaven National Laboratory          SULI
+Summer 2016  Allison Pereira                 Cornell University  Brookhaven National Laboratory          SULI
+Summer 2016  Claire Yu Xue O'kane            Cornell University  Brookhaven National Laboratory          SULI
+Summer 2016  James Wei-Shan Noeckel          Cornell University  Pacific Northwest National Laboratory   SULI
+Summer 2016  Khloe Nicole Heath              Cornell University  SLAC National Accelerator Laboratory    SULI
+Summer 2016  Ian Thomas Fried                Cornell University  Argonne National Laboratory             SULI
+Summer 2016  Fletcher Chapin                 Cornell University  Oak Ridge National Laboratory           SULI
+Summer 2016  Jung-Eun Ahn                    Cornell University  Los Alamos National Laboratory          SULI
+Summer 2015  Yi-Chun (Kelly) Huang           Cornell University  National Renewable Energy Laboratory    SULI
+Summer 2015  Jeremy S. Poe                   Ithaca College      National Renewable Energy Laboratory    SULI
+Summer 2015  Rachel Barone                   Ithaca College      Argonne National Laboratory             SULI
+Summer 2015  Karann Putrevu                  Cornell University  Brookhaven National Laboratory          SULI
+Summer 2015  Zachary D Porter                Cornell University  SLAC National Accelerator Laboratory    SULI
+Summer 2015  Kevin James Palm                Cornell University  Brookhaven National Laboratory          SULI
+Summer 2015  Sophia Lai                      Cornell University  Oak Ridge National Laboratory           SULI
+Summer 2015  Haydn Reinhold Lenz             Cornell University  Pacific Northwest National Laboratory   SULI
+Summer 2015  Cari Lynn Gostic                Cornell University  Brookhaven National Laboratory          SULI
+Summer 2015  Cecilia Chen                    Cornell University  Lawrence Livermore National Laboratory  SULI
+Summer 2015  Felice Chan                     Cornell University  Argonne National Laboratory             SULI
+Summer 2015  Mallika Shirodkar Bariya        Cornell University  Lawrence Berkeley National Laboratory   SULI
+Summer 2014  James Kenneth Senter            Cornell University  Oak Ridge National Laboratory           SULI
+Summer 2014  Lipi Gupta                      Cornell University  SLAC National Accelerator Laboratory    SULI
+Summer 2014  James McClintock                Cornell University  Brookhaven National Laboratory          SULI
+Summer 2014  Jeremy S. Poe                   Ithaca College      National Renewable Energy Laboratory    SULI
+Summer 2014  Brenna Elizabeth Block Mockler  Cornell University  SLAC National Accelerator Laboratory    SULI
+Summer 2014  Walter Atticus Schaefer         Cornell University  Argonne National Laboratory             SULI
+Summer 2014  Sam Ryan Schraer                Cornell University  Brookhaven National Laboratory          SULI
+Summer 2014  James Anders Stahlkrantz        Cornell University  Brookhaven National Laboratory          SULI
+Summer 2014  Maria Sirenko                   Cornell University  Brookhaven National Laboratory          SULI
+Summer 2014  Tabatha Lyn Felter              Cornell University  Brookhaven National Laboratory          SULI
+Summer 2014  Robert Duggan                   Cornell University  Oak Ridge National Laboratory           SULI
+Spring 2016  Bryan Anthonio                  Cornell University  Lawrence Berkeley National Laboratory   SULI
+Spring 2015  Sandy Chan                      Cornell University  Lawrence Berkeley National Laboratory   SULI
+Spring 2015  Adam Lowery                     Cornell University  Brookhaven National Laboratory          SULI
+Fall 2015    Bryan Anthonio                  Cornell University  Lawrence Berkeley National Laboratory   SULI
+```
 ---
 <a name="NY-24"></a>
 [Back to top](#top)
 ## NY-24 -- Rep. John Katko (R) -- [Wikipedia](https://en.wikipedia.org/wiki/NY-24)
-### Committees
-John Katko is not on any of our key committees 
+## Committees
+John Katko is not on any of our key committees. 
 
-### HEP Grants
+## HEP Grants
 In the past 8 years, this district has received:<b> $1,645,000 </b>in SC HEP grants.
 ```
 Institution            Amount ($)    Start  End      Principal Investigator    Project Title
@@ -1095,11 +1555,11 @@ Institution            Amount ($)    Start  End      Principal Investigator    P
 Syracuse University        56,000     2014  2016     Catterall, Simon          Searching for Physics Beyond the Standard Model: Strongly Coupled Theories at the Intensity and Energy Frontiers
 Syracuse University     1,589,000     2014  Ongoing  Catterall, Simon          Theoretical Particle Physics and Cosmology
 ```
-### SC Contracts
+## SC Contracts
 ```
 This district received no SC contracts from 2012-2019
 ```
-### NSF MPS Grants
+## NSF MPS Grants
 In the past 8 years, this district has received:<b> $25,290,582 </b>in NSF MPS grants.
 ```
   Year  Institution                                                      Amount ($)
@@ -1114,14 +1574,30 @@ In the past 8 years, this district has received:<b> $25,290,582 </b>in NSF MPS g
   2012  HAMILTON COLLEGE                                                    143,105
   2012  HOBART AND WILLIAM SMITH COLLEGES                                    90,000
 ```
+## SULI/CCI Interns
+From 2014-2016 (only years available), this district had 10 SULI/CCI interns
+```
+Term         Name                       College                                                                     Host Lab                              Program
+-----------  -------------------------  --------------------------------------------------------------------------  ------------------------------------  ---------
+Summer 2015  Eric Tyler Stevens         State University of New York College of Environmental Science and Forestry  Oak Ridge National Laboratory         SULI
+Summer 2015  Daniel Labuz               State University of New York College at Oswego                              Oak Ridge National Laboratory         SULI
+Summer 2015  Raul Martinez Jr           Syracuse University Main Campus                                             Brookhaven National Laboratory        SULI
+Summer 2014  Morgan Payne Connolly      State University of New York College of Environmental Science and Forestry  National Renewable Energy Laboratory  SULI
+Summer 2014  Galit Idan                 State University of New York College of Environmental Science and Forestry  Brookhaven National Laboratory        SULI
+Summer 2014  Vyncent Pham Hoang Nguyen  State University of New York College at Oswego                              Oak Ridge National Laboratory         SULI
+Spring 2016  Galit Idan                 State University of New York College of Environmental Science and Forestry  Brookhaven National Laboratory        SULI
+Spring 2016  Shane Stone                Syracuse University Main Campus                                             Brookhaven National Laboratory        SULI
+Spring 2015  Daniel Labuz               State University of New York College at Oswego                              Oak Ridge National Laboratory         SULI
+Fall 2014    Vyncent Pham Hoang Nguyen  State University of New York College at Oswego                              Oak Ridge National Laboratory         SULI
+```
 ---
 <a name="NY-25"></a>
 [Back to top](#top)
 ## NY-25 -- Rep. Joseph D. Morelle (D) -- [Wikipedia](https://en.wikipedia.org/wiki/NY-25)
-### Committees
+## Committees
 Joseph D. Morelle is the #8 Democrat on the House Subcommittee on Early Childhood, Elementary, and Secondary Education 
 
-### HEP Grants
+## HEP Grants
 In the past 8 years, this district has received:<b> $9,215,000 </b>in SC HEP grants.
 ```
 Institution                Amount ($)    Start  End      Principal Investigator    Project Title
@@ -1136,7 +1612,7 @@ SYRACUSE UNIVERSITY           268,000     2013  2014     Catterall              
 SYRACUSE UNIVERSITY            56,000     2012  2014     Catterall                 Searching for Physics Beyond the Standard Model:  Strongly Coupled Theories at the Intensity and Energy Frontiers
 SYRACUSE UNIVERSITY           338,000     2012  2014     Catterall                 Research Program in Elementary Particle Theory
 ```
-### SC Contracts
+## SC Contracts
 In the past 8 years, this district has received:
 2 Office of Science contracts, totalling <b> $10,052,340</b>
 ```
@@ -1151,7 +1627,7 @@ In the past 8 years, this district has received:
   2014  DAWNBREAKER, INC.     1,049,944  SUPPORT- PROFESSIONAL: OTHER
   2013  DAWNBREAKER INC       2,000,000  SUPPORT- MANAGEMENT: OTHER
 ```
-### NSF MPS Grants
+## NSF MPS Grants
 In the past 8 years, this district has received:<b> $33,425,634 </b>in NSF MPS grants.
 ```
   Year  Institution                                     Amount ($)
@@ -1174,22 +1650,41 @@ In the past 8 years, this district has received:<b> $33,425,634 </b>in NSF MPS g
   2013  UNIVERSITY OF ROCHESTER                          3,200,840
   2012  SYRACUSE UNIVERSITY                              4,528,264
 ```
+## SULI/CCI Interns
+From 2014-2016 (only years available), this district had 13 SULI/CCI interns
+```
+Term         Name                     College                            Host Lab                                        Program
+-----------  -----------------------  ---------------------------------  ----------------------------------------------  ---------
+Summer 2016  Jonathan Boualavong      University of Rochester            Pacific Northwest National Laboratory           SULI
+Summer 2016  Jacob Larkin             University of Rochester            Brookhaven National Laboratory                  SULI
+Summer 2016  Melissa L. Wilkinson     Nazareth College of Rochester      Pacific Northwest National Laboratory           SULI
+Summer 2016  Shane Michtavy           Monroe Community College           Brookhaven National Laboratory                  CCI
+Summer 2015  Michael John Dzara       Rochester Institute of Technology  National Renewable Energy Laboratory            SULI
+Summer 2015  Jacob Larkin             University of Rochester            Brookhaven National Laboratory                  SULI
+Summer 2014  Michael John Dzara       Rochester Institute of Technology  National Renewable Energy Laboratory            SULI
+Summer 2014  Robert Maurice Karl      Rochester Institute of Technology  Thomas Jefferson National Accelerator Facility  SULI
+Summer 2014  Benjamin Joseph Kraines  Rochester Institute of Technology  Lawrence Livermore National Laboratory          SULI
+Summer 2014  Grant Salk               Rochester Institute of Technology  Lawrence Livermore National Laboratory          SULI
+Spring 2016  Ryan Eric Patalano       Rochester Institute of Technology  National Renewable Energy Laboratory            SULI
+Spring 2014  Junghune Nam             Rochester Institute of Technology  Lawrence Berkeley National Laboratory           SULI
+Spring 2014  Charles Andrew Pueschel  Rochester Institute of Technology  Ames National Laboratory                        SULI
+```
 ---
 <a name="NY-26"></a>
 [Back to top](#top)
 ## NY-26 -- Rep. Brian Higgins (D) -- [Wikipedia](https://en.wikipedia.org/wiki/NY-26)
-### Committees
-Brian Higgins is not on any of our key committees 
+## Committees
+Brian Higgins is not on any of our key committees. 
 
-### HEP Grants
+## HEP Grants
 ```
 This district received no SC HEP grants from 2012-2019
 ```
-### SC Contracts
+## SC Contracts
 ```
 This district received no SC contracts from 2012-2019
 ```
-### NSF MPS Grants
+## NSF MPS Grants
 In the past 8 years, this district has received:<b> $25,617,384 </b>in NSF MPS grants.
 ```
   Year  Institution                                                      Amount ($)
@@ -1209,22 +1704,30 @@ In the past 8 years, this district has received:<b> $25,617,384 </b>in NSF MPS g
   2013  RESEARCH FOUNDATION OF STATE UNIVERSITY OF NE                     5,296,683
   2012  RESEARCH FOUNDATION OF STATE UNIVERSITY OF NE                     3,570,388
 ```
+## SULI/CCI Interns
+From 2014-2016 (only years available), this district had 2 SULI/CCI interns
+```
+Term         Name                  College                                          Host Lab                        Program
+-----------  --------------------  -----------------------------------------------  ------------------------------  ---------
+Summer 2015  Allison Grace Kelley  Canisius College                                 Brookhaven National Laboratory  SULI
+Summer 2014  Bryna Torre           State University of New York College at Buffalo  Brookhaven National Laboratory  SULI
+```
 ---
 <a name="NY-27"></a>
 [Back to top](#top)
 ## NY-27 -- Rep. Chris Collins (R) -- [Wikipedia](https://en.wikipedia.org/wiki/NY-27)
-### Committees
-Chris Collins is not on any of our key committees 
+## Committees
+Chris Collins is not on any of our key committees. 
 
-### HEP Grants
+## HEP Grants
 ```
 This district received no SC HEP grants from 2012-2019
 ```
-### SC Contracts
+## SC Contracts
 ```
 This district received no SC contracts from 2012-2019
 ```
-### NSF MPS Grants
+## NSF MPS Grants
 In the past 8 years, this district has received:<b> $549,982 </b>in NSF MPS grants.
 ```
   Year  Institution                                                      Amount ($)
@@ -1234,5 +1737,26 @@ In the past 8 years, this district has received:<b> $549,982 </b>in NSF MPS gran
   2016  RESEARCH FOUNDATION FOR THE STATE UNIVERSITY                         61,625
   2012  CANISIUS COLLEGE                                                    285,000
   2012  THE RESEARCH FOUNDATION OF STATE UNIVERSITY O                        64,303
+```
+## SULI/CCI Interns
+From 2014-2016 (only years available), this district had 15 SULI/CCI interns
+```
+Term         Name                         College                                          Host Lab                               Program
+-----------  ---------------------------  -----------------------------------------------  -------------------------------------  ---------
+Summer 2016  Nicholas Maineri             State University of New York College at Geneseo  Brookhaven National Laboratory         SULI
+Summer 2015  Alex Kramer                  State University of New York College at Geneseo  Brookhaven National Laboratory         SULI
+Summer 2015  Claire Shanklin              State University of New York College at Geneseo  Brookhaven National Laboratory         SULI
+Summer 2015  Laura Shanklin               State University of New York College at Geneseo  Brookhaven National Laboratory         SULI
+Summer 2015  Timothy Leeney               University at Buffalo-SUNY                       Brookhaven National Laboratory         SULI
+Summer 2015  Victoria Riso                University at Buffalo-SUNY                       General Atomics / DIII-D               SULI
+Summer 2015  Colton Buck                  Genesee Community College                        Lawrence Berkeley National Laboratory  CCI
+Summer 2014  Shannon Baxter               State University of New York College at Geneseo  Brookhaven National Laboratory         SULI
+Summer 2014  Rachael Phyllis Burganowski  State University of New York College at Geneseo  Argonne National Laboratory            SULI
+Summer 2014  Kimberly Giacalone           State University of New York College at Geneseo  Brookhaven National Laboratory         SULI
+Summer 2014  Daniel Miserendino           State University of New York College at Geneseo  Brookhaven National Laboratory         SULI
+Summer 2014  Daniel Ericson               University at Buffalo-SUNY                       Brookhaven National Laboratory         SULI
+Summer 2014  Jacob A Smith                Genesee Community College                        Los Alamos National Laboratory         CCI
+Summer 2014  Joseph Stein                 Genesee Community College                        Ames National Laboratory               CCI
+Spring 2015  Jenny Chen                   University at Buffalo-SUNY                       Oak Ridge National Laboratory          SULI
 ```
 ---

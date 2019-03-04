@@ -28,7 +28,7 @@ UNIVERSITY OF WISCONSIN, MADISON         6,633,000
 University of Wisconsin - Eau Claire       600,000
 UNIVERSITY OF WISCONSIN, EAU CLAIRE              0
 ```
-### SC Contracts
+## SC Contracts
 In the past 8 years, this state has received:
 3 Office of Science contracts, totalling <b> $11,590</b>
 ```
@@ -59,23 +59,45 @@ PII REDACTED                                      150,000
 REDACTED DUE TO PII                               100,000
 U OF WISCONSIN RIVER FALLS                         75,018
 ```
+## SULI/CCI Interns
+From 2014-2016 (only years available), this district had 42 SULI/CCI interns
+```
+  # Interns  Program    College
+-----------  ---------  -------------------------------------
+         15  SULI       University of Wisconsin-Madison
+          5  SULI       Milwaukee School of Engineering
+          4  SULI       Carthage College
+          2  SULI       Cardinal Stritch University
+          2  SULI       Lawrence University
+          2  SULI       Madison Area Technical College
+          2  SULI       University of Wisconsin Colleges
+          2  SULI       University of Wisconsin-Platteville
+          1  CCI        Madison Area Technical College
+          1  SULI       Ripon College
+          1  SULI       Saint Norbert College
+          1  SULI       University of Wisconsin-Eau Claire
+          1  SULI       University of Wisconsin-La Crosse
+          1  SULI       University of Wisconsin-River Falls
+          1  SULI       University of Wisconsin-Stevens Point
+          1  SULI       University of Wisconsin-Whitewater
+```
 ---
 ---
 <a name="WI-01"></a>
 [Back to top](#top)
 ## WI-01 -- Rep. Bryan Steil (R) -- [Wikipedia](https://en.wikipedia.org/wiki/WI-01)
-### Committees
-Bryan Steil is not on any of our key committees 
+## Committees
+Bryan Steil is not on any of our key committees. 
 
-### HEP Grants
+## HEP Grants
 ```
 This district received no SC HEP grants from 2012-2019
 ```
-### SC Contracts
+## SC Contracts
 ```
 This district received no SC contracts from 2012-2019
 ```
-### NSF MPS Grants
+## NSF MPS Grants
 In the past 8 years, this district has received:<b> $230,326 </b>in NSF MPS grants.
 ```
   Year  Institution         Amount ($)
@@ -84,16 +106,26 @@ In the past 8 years, this district has received:<b> $230,326 </b>in NSF MPS gran
   2014  CARTHAGE COLLEGE        43,700
   2012  CARTHAGE COLLEGE       105,645
 ```
+## SULI/CCI Interns
+From 2014-2016 (only years available), this district had 4 SULI/CCI interns
+```
+Term         Name                College           Host Lab                     Program
+-----------  ------------------  ----------------  ---------------------------  ---------
+Summer 2016  Stephen Boyd Janke  Carthage College  Argonne National Laboratory  SULI
+Summer 2015  Bryan Lee Collins   Carthage College  Argonne National Laboratory  SULI
+Summer 2015  Ryan James Maeder   Carthage College  Argonne National Laboratory  SULI
+Spring 2014  Steven Kalberg      Carthage College  Argonne National Laboratory  SULI
+```
 ---
 <a name="WI-02"></a>
 [Back to top](#top)
 ## WI-02 -- Rep. Mark Pocan (D) -- [Wikipedia](https://en.wikipedia.org/wiki/WI-02)
-### Committees
+## Committees
 Mark Pocan is the #6 Democrat on the House Appropriations Subcommittee on Energy and Water Development 
 
 Mark Pocan is the #20 Democrat on the House Committee on Appropriations 
 
-### HEP Grants
+## HEP Grants
 In the past 8 years, this district has received:<b> $19,902,000 </b>in SC HEP grants.
 ```
 Institution                          Amount ($)    Start  End      Principal Investigator    Project Title
@@ -107,7 +139,7 @@ University of Wisconsin - Madison       110,000     2016  2017     CARLSMITH,  D
 University of Wisconsin - Madison     7,525,000     2014  2017     Smith, Wesley             High Energy Physics Research: Experimental And Theoretical
 UNIVERSITY OF WISCONSIN, MADISON      6,633,000     2012  2014     Smith                     High Energy Physics Research: Experimental, Theoretical, Phenomenology, Mathematical
 ```
-### SC Contracts
+## SC Contracts
 In the past 8 years, this district has received:
 3 Office of Science contracts, totalling <b> $11,590</b>
 ```
@@ -117,7 +149,7 @@ In the past 8 years, this district has received:
   2015  AMERICAN SOCIETY OF AGRONOMY, INC.         3,800  NEWSPAPERS AND PERIODICALS
   2013  AMERICAN SOCIETY OF AGRONOMY, INC.         3,800  NEWSPAPERS AND PERIODICALS
 ```
-### NSF MPS Grants
+## NSF MPS Grants
 In the past 8 years, this district has received:<b> $171,676,584 </b>in NSF MPS grants.
 ```
   Year  Institution                                    Amount ($)
@@ -136,14 +168,40 @@ In the past 8 years, this district has received:<b> $171,676,584 </b>in NSF MPS 
   2013  UNIVERSITY OF WISCONSIN SYSTEM                 26,111,081
   2012  UNIVERSITY OF WISCONSIN SYSTEM                 31,493,335
 ```
+## SULI/CCI Interns
+From 2014-2016 (only years available), this district had 20 SULI/CCI interns
+```
+Term         Name                      College                           Host Lab                               Program
+-----------  ------------------------  --------------------------------  -------------------------------------  ---------
+Summer 2016  Andrew Scott Hauser       University of Wisconsin-Madison   Argonne National Laboratory            SULI
+Summer 2016  Joshua Daniel Lin         University of Wisconsin-Madison   Argonne National Laboratory            SULI
+Summer 2016  Riley Cecelia Whitehead   Madison Area Technical College    National Renewable Energy Laboratory   SULI
+Summer 2016  Maxwell Brennan           University of Wisconsin Colleges  National Renewable Energy Laboratory   SULI
+Summer 2016  Elizabeth Rose Penn       University of Wisconsin-Madison   National Renewable Energy Laboratory   SULI
+Summer 2016  Zachary David Jensen      University of Wisconsin-Madison   Oak Ridge National Laboratory          SULI
+Summer 2016  Lewis Thomas Kunik        University of Wisconsin-Madison   National Renewable Energy Laboratory   SULI
+Summer 2015  Meghan Fujimoto           University of Wisconsin-Madison   Pacific Northwest National Laboratory  SULI
+Summer 2015  Aaron John Mallek         University of Wisconsin-Madison   Argonne National Laboratory            SULI
+Summer 2015  Andrew John Micklich      University of Wisconsin-Madison   Argonne National Laboratory            SULI
+Summer 2015  Isaiah Alden Scott        University of Wisconsin-Madison   National Renewable Energy Laboratory   SULI
+Summer 2015  Maggie Ann Sobolewski     University of Wisconsin-Madison   Argonne National Laboratory            SULI
+Summer 2014  Grace Kathryn Kikkebusch  University of Wisconsin Colleges  Ames National Laboratory               SULI
+Summer 2014  Andrew Alt                University of Wisconsin-Madison   Princeton Plasma Physics Laboratory    SULI
+Summer 2014  Emily Gasteyer            University of Wisconsin-Madison   National Renewable Energy Laboratory   SULI
+Summer 2014  Stephen Taylor            University of Wisconsin-Madison   Los Alamos National Laboratory         SULI
+Summer 2014  Dominick John Pattermann  University of Wisconsin-Madison   Argonne National Laboratory            SULI
+Summer 2014  Luis Velazquez            Madison Area Technical College    Ames National Laboratory               CCI
+Spring 2015  Sahit Mandala             University of Wisconsin-Madison   Lawrence Berkeley National Laboratory  SULI
+Spring 2015  Luis F Gomes              Madison Area Technical College    Argonne National Laboratory            SULI
+```
 ---
 <a name="WI-03"></a>
 [Back to top](#top)
 ## WI-03 -- Rep. Ron Kind (D) -- [Wikipedia](https://en.wikipedia.org/wiki/WI-03)
-### Committees
-Ron Kind is not on any of our key committees 
+## Committees
+Ron Kind is not on any of our key committees. 
 
-### HEP Grants
+## HEP Grants
 In the past 8 years, this district has received:<b> $600,000 </b>in SC HEP grants.
 ```
 Institution                             Amount ($)    Start  End      Principal Investigator    Project Title
@@ -151,11 +209,11 @@ Institution                             Amount ($)    Start  End      Principal 
 University of Wisconsin - Eau Claire       600,000     2014  Ongoing  Jewell, Matthew           Mechanical Performance of HTS Superconductor for HEP Applications
 UNIVERSITY OF WISCONSIN, EAU CLAIRE              0     2013  2014     Jewell                    Mechanical Performance of HTS Superconductor for HEP Applications
 ```
-### SC Contracts
+## SC Contracts
 ```
 This district received no SC contracts from 2012-2019
 ```
-### NSF MPS Grants
+## NSF MPS Grants
 In the past 8 years, this district has received:<b> $3,441,265 </b>in NSF MPS grants.
 ```
   Year  Institution                                Amount ($)
@@ -169,22 +227,34 @@ In the past 8 years, this district has received:<b> $3,441,265 </b>in NSF MPS gr
   2013  UNIVERSITY OF WISCONSIN SYSTEM                116,305
   2012  UNIVERSITY OF WISCONSIN SYSTEM                479,811
 ```
+## SULI/CCI Interns
+From 2014-2016 (only years available), this district had 6 SULI/CCI interns
+```
+Term         Name                        College                                Host Lab                               Program
+-----------  --------------------------  -------------------------------------  -------------------------------------  ---------
+Summer 2016  Shawn Michael Fritsche      University of Wisconsin-Platteville    Argonne National Laboratory            SULI
+Summer 2016  Alexandra Anastasia Koegel  University of Wisconsin-Stevens Point  National Renewable Energy Laboratory   SULI
+Summer 2016  Priya Patel                 University of Wisconsin-La Crosse      Lawrence Berkeley National Laboratory  SULI
+Summer 2015  Jacob Smagacz               University of Wisconsin-Platteville    Argonne National Laboratory            SULI
+Summer 2014  Sarah Ullyssa Naegeli       University of Wisconsin-Eau Claire     Pacific Northwest National Laboratory  SULI
+Spring 2016  Tyrel Truman Danielson      University of Wisconsin-River Falls    National Renewable Energy Laboratory   SULI
+```
 ---
 <a name="WI-04"></a>
 [Back to top](#top)
 ## WI-04 -- Rep. Gwen Moore (D) -- [Wikipedia](https://en.wikipedia.org/wiki/WI-04)
-### Committees
-Gwen Moore is not on any of our key committees 
+## Committees
+Gwen Moore is not on any of our key committees. 
 
-### HEP Grants
+## HEP Grants
 ```
 This district received no SC HEP grants from 2012-2019
 ```
-### SC Contracts
+## SC Contracts
 ```
 This district received no SC contracts from 2012-2019
 ```
-### NSF MPS Grants
+## NSF MPS Grants
 In the past 8 years, this district has received:<b> $40,463,023 </b>in NSF MPS grants.
 ```
   Year  Institution                                Amount ($)
@@ -207,22 +277,35 @@ In the past 8 years, this district has received:<b> $40,463,023 </b>in NSF MPS g
   2012  UNIVERSITY OF WISCONSIN SYSTEM              3,268,554
   2012  MARQUETTE UNIVERSITY                          481,602
 ```
+## SULI/CCI Interns
+From 2014-2016 (only years available), this district had 7 SULI/CCI interns
+```
+Term         Name                      College                          Host Lab                              Program
+-----------  ------------------------  -------------------------------  ------------------------------------  ---------
+Summer 2016  Justin Lee Clough         Milwaukee School of Engineering  SLAC National Accelerator Laboratory  SULI
+Summer 2016  Kathlyn Marie Hornberger  Milwaukee School of Engineering  Argonne National Laboratory           SULI
+Summer 2015  Victoria Burke            Cardinal Stritch University      Argonne National Laboratory           SULI
+Summer 2015  Justin Lee Clough         Milwaukee School of Engineering  Argonne National Laboratory           SULI
+Summer 2015  Elizabeth Sarah Paoli     Milwaukee School of Engineering  Argonne National Laboratory           SULI
+Summer 2014  Victoria Burke            Cardinal Stritch University      Argonne National Laboratory           SULI
+Summer 2014  Daniel Joseph Franke      Milwaukee School of Engineering  Argonne National Laboratory           SULI
+```
 ---
 <a name="WI-05"></a>
 [Back to top](#top)
 ## WI-05 -- Rep. F. James Sensenbrenner, Jr. (R) -- [Wikipedia](https://en.wikipedia.org/wiki/WI-05)
-### Committees
-F. James Sensenbrenner, Jr. is not on any of our key committees 
+## Committees
+F. James Sensenbrenner, Jr. is not on any of our key committees. 
 
-### HEP Grants
+## HEP Grants
 ```
 This district received no SC HEP grants from 2012-2019
 ```
-### SC Contracts
+## SC Contracts
 ```
 This district received no SC contracts from 2012-2019
 ```
-### NSF MPS Grants
+## NSF MPS Grants
 In the past 8 years, this district has received:<b> $668,049 </b>in NSF MPS grants.
 ```
   Year  Institution                                Amount ($)
@@ -232,24 +315,31 @@ In the past 8 years, this district has received:<b> $668,049 </b>in NSF MPS gran
   2014  MEDICAL COLLEGE OF WISCONSIN, INC., THE        68,000
   2012  MEDICAL COLLEGE OF WISCONSIN, INC., THE        89,765
 ```
+## SULI/CCI Interns
+From 2014-2016 (only years available), this district had 1 SULI/CCI intern
+```
+Term         Name             College                             Host Lab                               Program
+-----------  ---------------  ----------------------------------  -------------------------------------  ---------
+Summer 2016  Francesca Smith  University of Wisconsin-Whitewater  Pacific Northwest National Laboratory  SULI
+```
 ---
 <a name="WI-06"></a>
 [Back to top](#top)
 ## WI-06 -- Rep. Glenn Grothman (R) -- [Wikipedia](https://en.wikipedia.org/wiki/WI-06)
-### Committees
+## Committees
 Glenn Grothman is the #3 Republican on the House Subcommittee on Higher Education and Workforce Development 
 
 Glenn Grothman is the #3 Republican on the House Subcommittee on Early Childhood, Elementary, and Secondary Education 
 
-### HEP Grants
+## HEP Grants
 ```
 This district received no SC HEP grants from 2012-2019
 ```
-### SC Contracts
+## SC Contracts
 ```
 This district received no SC contracts from 2012-2019
 ```
-### NSF MPS Grants
+## NSF MPS Grants
 In the past 8 years, this district has received:<b> $1,018,290 </b>in NSF MPS grants.
 ```
   Year  Institution                                Amount ($)
@@ -260,22 +350,29 @@ In the past 8 years, this district has received:<b> $1,018,290 </b>in NSF MPS gr
   2015  UNIVERSITY OF WISCONSIN SYSTEM                160,721
   2014  RIPON COLLEGE                                 237,383
 ```
+## SULI/CCI Interns
+From 2014-2016 (only years available), this district had 1 SULI/CCI intern
+```
+Term       Name          College        Host Lab                       Program
+---------  ------------  -------------  -----------------------------  ---------
+Fall 2014  David Garcia  Ripon College  Oak Ridge National Laboratory  SULI
+```
 ---
 <a name="WI-07"></a>
 [Back to top](#top)
 ## WI-07 -- Rep. Sean P. Duffy (R) -- [Wikipedia](https://en.wikipedia.org/wiki/WI-07)
-### Committees
-Sean P. Duffy is not on any of our key committees 
+## Committees
+Sean P. Duffy is not on any of our key committees. 
 
-### HEP Grants
+## HEP Grants
 ```
 This district received no SC HEP grants from 2012-2019
 ```
-### SC Contracts
+## SC Contracts
 ```
 This district received no SC contracts from 2012-2019
 ```
-### NSF MPS Grants
+## NSF MPS Grants
 In the past 8 years, this district has received:<b> $690,011 </b>in NSF MPS grants.
 ```
   Year  Institution                       Amount ($)
@@ -286,22 +383,26 @@ In the past 8 years, this district has received:<b> $690,011 </b>in NSF MPS gran
   2015  U OF WISCONSIN RIVER FALLS            75,018
   2013  UNIVERSITY OF WISCONSIN SYSTEM       248,228
 ```
+## SULI/CCI Interns
+```
+This district had no SULI/CCI interns from 2014-2016 (only years available)
+```
 ---
 <a name="WI-08"></a>
 [Back to top](#top)
 ## WI-08 -- Rep. Mike Gallagher (R) -- [Wikipedia](https://en.wikipedia.org/wiki/WI-08)
-### Committees
-Mike Gallagher is not on any of our key committees 
+## Committees
+Mike Gallagher is not on any of our key committees. 
 
-### HEP Grants
+## HEP Grants
 ```
 This district received no SC HEP grants from 2012-2019
 ```
-### SC Contracts
+## SC Contracts
 ```
 This district received no SC contracts from 2012-2019
 ```
-### NSF MPS Grants
+## NSF MPS Grants
 In the past 8 years, this district has received:<b> $165,000 </b>in NSF MPS grants.
 ```
   Year  Institution            Amount ($)
@@ -309,5 +410,14 @@ In the past 8 years, this district has received:<b> $165,000 </b>in NSF MPS gran
   2014  LAWRENCE UNIVERSITY        53,524
   2013  LAWRENCE UNIVERSITY        56,476
   2012  LAWRENCE UNIVERSITY        55,000
+```
+## SULI/CCI Interns
+From 2014-2016 (only years available), this district had 3 SULI/CCI interns
+```
+Term         Name                  College                Host Lab                              Program
+-----------  --------------------  ---------------------  ------------------------------------  ---------
+Summer 2016  Joseph James Liberko  Lawrence University    Ames National Laboratory              SULI
+Summer 2016  Maria Satnik          Saint Norbert College  SLAC National Accelerator Laboratory  SULI
+Summer 2015  Ari Rice              Lawrence University    Brookhaven National Laboratory        SULI
 ```
 ---

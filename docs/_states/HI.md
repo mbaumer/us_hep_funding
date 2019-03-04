@@ -35,7 +35,7 @@ In the past 8 years, this state has received:
   2013  UNIVERSITY OF HAWAII     2,183,000
   2012  UNIVERSITY OF HAWAII     1,714,000
 ```
-### SC Contracts
+## SC Contracts
 ```
 This state received no SC contracts from 2012-2019
 ```
@@ -50,17 +50,25 @@ CALIFORNIA ASSOCIATION FOR RESEARCH IN ASTRON        8,093,400
 CALIFORNIA ASSOCIATION FOR RESEARCH IN ASTRONOMY     6,172,037
 CHAMINADE UNIVERSITY OF HONOLULU                       633,668
 ```
+## SULI/CCI Interns
+From 2014-2016 (only years available), this district had 7 SULI/CCI interns
+```
+  # Interns  Program    College
+-----------  ---------  -----------------------------
+          6  SULI       University of Hawaii at Manoa
+          1  SULI       Kapioiani Community College
+```
 ---
 ---
 <a name="HI-01"></a>
 [Back to top](#top)
 ## HI-01 -- Rep. Ed Case (D) -- [Wikipedia](https://en.wikipedia.org/wiki/HI-01)
-### Committees
+## Committees
 Ed Case is the #6 Democrat on the House Appropriations Subcommittee on Commerce, Justice, and Science 
 
 Ed Case is the #30 Democrat on the House Committee on Appropriations 
 
-### HEP Grants
+## HEP Grants
 In the past 8 years, this district has received:<b> $8,664,000 </b>in SC HEP grants.
 ```
 Institution             Amount ($)    Start  End      Principal Investigator    Project Title
@@ -72,11 +80,11 @@ University of Hawaii     7,495,000     2014  Ongoing  Browder, Thomas           
 University of Hawaii       600,000     2014  Ongoing  Maricic, Jelena           Resolving Reactor Antineutrino Anomaly with Strong Antineutrino Source
 University of Hawaii       150,000     2014  2015     Vahsen, Sven Einar        Participation in the Belle and Belle II Experiments at the Intensity Frontier
 ```
-### SC Contracts
+## SC Contracts
 ```
 This district received no SC contracts from 2012-2019
 ```
-### NSF MPS Grants
+## NSF MPS Grants
 In the past 8 years, this district has received:<b> $30,797,663 </b>in NSF MPS grants.
 ```
   Year  Institution                         Amount ($)
@@ -91,22 +99,35 @@ In the past 8 years, this district has received:<b> $30,797,663 </b>in NSF MPS g
   2013  UNIVERSITY OF HAWAII SYSTEMS         4,404,345
   2012  UNIVERSITY OF HAWAII SYSTEMS         5,649,430
 ```
+## SULI/CCI Interns
+From 2014-2016 (only years available), this district had 7 SULI/CCI interns
+```
+Term         Name                  College                        Host Lab                               Program
+-----------  --------------------  -----------------------------  -------------------------------------  ---------
+Summer 2016  Tommy Lam             University of Hawaii at Manoa  Pacific Northwest National Laboratory  SULI
+Summer 2014  Raquel Auwae          University of Hawaii at Manoa  Oak Ridge National Laboratory          SULI
+Summer 2014  Christina Ann Nelson  Kapioiani Community College    Fermi National Accelerator Laboratory  SULI
+Spring 2016  Claire Ellen Kohout   University of Hawaii at Manoa  Argonne National Laboratory            SULI
+Fall 2015    Mael Flament          University of Hawaii at Manoa  Lawrence Berkeley National Laboratory  SULI
+Fall 2015    Claire Ellen Kohout   University of Hawaii at Manoa  Argonne National Laboratory            SULI
+Fall 2014    Raquel Auwae          University of Hawaii at Manoa  Oak Ridge National Laboratory          SULI
+```
 ---
 <a name="HI-02"></a>
 [Back to top](#top)
 ## HI-02 -- Rep. Tulsi Gabbard (D) -- [Wikipedia](https://en.wikipedia.org/wiki/HI-02)
-### Committees
-Tulsi Gabbard is not on any of our key committees 
+## Committees
+Tulsi Gabbard is not on any of our key committees. 
 
-### HEP Grants
+## HEP Grants
 ```
 This district received no SC HEP grants from 2012-2019
 ```
-### SC Contracts
+## SC Contracts
 ```
 This district received no SC contracts from 2012-2019
 ```
-### NSF MPS Grants
+## NSF MPS Grants
 In the past 8 years, this district has received:<b> $14,491,610 </b>in NSF MPS grants.
 ```
   Year  Institution                                         Amount ($)
@@ -120,5 +141,9 @@ In the past 8 years, this district has received:<b> $14,491,610 </b>in NSF MPS g
   2014  CALIFORNIA ASSOCIATION FOR RESEARCH IN ASTRON        4,000,000
   2013  CALIFORNIA ASSOCIATION FOR RESEARCH IN ASTRON        1,172,838
   2012  CALIFORNIA ASSOCIATION FOR RESEARCH IN ASTRON        1,182,447
+```
+## SULI/CCI Interns
+```
+This district had no SULI/CCI interns from 2014-2016 (only years available)
 ```
 ---

@@ -32,7 +32,7 @@ LOUISIANA STATE UNIVERSITY                       837,000
 Louisiana Tech University                        546,000
 LOUISIANA TECH UNIVERSITY                        423,000
 ```
-### SC Contracts
+## SC Contracts
 ```
 This state received no SC contracts from 2012-2019
 ```
@@ -59,23 +59,32 @@ SOUTHEASTERN LOUISIANA UNIVERSITY                        375,786
 TULANE UNIVERSITY                                        158,784
 UNIV OF LOUISIANA AT LAFAY                                40,610
 ```
+## SULI/CCI Interns
+From 2014-2016 (only years available), this district had 7 SULI/CCI interns
+```
+  # Interns  Program    College
+-----------  ---------  ------------------------------------------------------------------
+          4  SULI       Louisiana State University and Agricultural and Mechanical College
+          2  SULI       Tulane University
+          1  SULI       University of Louisiana at Monroe
+```
 ---
 ---
 <a name="LA-01"></a>
 [Back to top](#top)
 ## LA-01 -- Rep. Steve Scalise (R) -- [Wikipedia](https://en.wikipedia.org/wiki/LA-01)
-### Committees
+## Committees
 Steve Scalise is the #5 Republican on the House Committee on Energy and Commerce 
 
-### HEP Grants
+## HEP Grants
 ```
 This district received no SC HEP grants from 2012-2019
 ```
-### SC Contracts
+## SC Contracts
 ```
 This district received no SC contracts from 2012-2019
 ```
-### NSF MPS Grants
+## NSF MPS Grants
 In the past 8 years, this district has received:<b> $13,101,616 </b>in NSF MPS grants.
 ```
   Year  Institution                                           Amount ($)
@@ -91,22 +100,30 @@ In the past 8 years, this district has received:<b> $13,101,616 </b>in NSF MPS g
   2013  ADMINISTRATORS OF THE TULANE EDUCATIONAL FUND          1,833,655
   2013  SOUTHEASTERN LOUISIANA UNIVERSITY                        274,000
 ```
+## SULI/CCI Interns
+From 2014-2016 (only years available), this district had 2 SULI/CCI interns
+```
+Term         Name                        College            Host Lab                        Program
+-----------  --------------------------  -----------------  ------------------------------  ---------
+Summer 2016  Daniel Edward Christiansen  Tulane University  Brookhaven National Laboratory  SULI
+Summer 2016  Wilson Jeter                Tulane University  Oak Ridge National Laboratory   SULI
+```
 ---
 <a name="LA-02"></a>
 [Back to top](#top)
 ## LA-02 -- Rep. Cedric L. Richmond (D) -- [Wikipedia](https://en.wikipedia.org/wiki/LA-02)
-### Committees
-Cedric L. Richmond is not on any of our key committees 
+## Committees
+Cedric L. Richmond is not on any of our key committees. 
 
-### HEP Grants
+## HEP Grants
 ```
 This district received no SC HEP grants from 2012-2019
 ```
-### SC Contracts
+## SC Contracts
 ```
 This district received no SC contracts from 2012-2019
 ```
-### NSF MPS Grants
+## NSF MPS Grants
 In the past 8 years, this district has received:<b> $7,568,943 </b>in NSF MPS grants.
 ```
   Year  Institution                                      Amount ($)
@@ -127,22 +144,26 @@ In the past 8 years, this district has received:<b> $7,568,943 </b>in NSF MPS gr
   2012  UNIVERSITY OF NEW ORLEANS                           828,000
   2012  XAVIER UNIVERSITY OF LOUISIANA                       14,338
 ```
+## SULI/CCI Interns
+```
+This district had no SULI/CCI interns from 2014-2016 (only years available)
+```
 ---
 <a name="LA-03"></a>
 [Back to top](#top)
 ## LA-03 -- Rep. Clay Higgins (R) -- [Wikipedia](https://en.wikipedia.org/wiki/LA-03)
-### Committees
-Clay Higgins is not on any of our key committees 
+## Committees
+Clay Higgins is not on any of our key committees. 
 
-### HEP Grants
+## HEP Grants
 ```
 This district received no SC HEP grants from 2012-2019
 ```
-### SC Contracts
+## SC Contracts
 ```
 This district received no SC contracts from 2012-2019
 ```
-### NSF MPS Grants
+## NSF MPS Grants
 In the past 8 years, this district has received:<b> $1,273,291 </b>in NSF MPS grants.
 ```
   Year  Institution                             Amount ($)
@@ -154,36 +175,44 @@ In the past 8 years, this district has received:<b> $1,273,291 </b>in NSF MPS gr
   2014  UNIVERSITY OF LOUISIANA AT LAFAYETTE       180,000
   2013  UNIVERSITY OF LOUISIANA AT LAFAYETTE       580,000
 ```
+## SULI/CCI Interns
+```
+This district had no SULI/CCI interns from 2014-2016 (only years available)
+```
 ---
 <a name="LA-04"></a>
 [Back to top](#top)
 ## LA-04 -- Rep. Mike Johnson (R) -- [Wikipedia](https://en.wikipedia.org/wiki/LA-04)
-### Committees
-Mike Johnson is not on any of our key committees 
+## Committees
+Mike Johnson is not on any of our key committees. 
 
-### HEP Grants
+## HEP Grants
 ```
 This district received no SC HEP grants from 2012-2019
 ```
-### SC Contracts
+## SC Contracts
 ```
 This district received no SC contracts from 2012-2019
 ```
-### NSF MPS Grants
+## NSF MPS Grants
 In the past 8 years, this district has received:<b> $197,800 </b>in NSF MPS grants.
 ```
   Year  Institution                          Amount ($)
 ------  ---------------------------------  ------------
   2013  LOUISIANA STATE UNIVERSITY SYSTEM       197,800
 ```
+## SULI/CCI Interns
+```
+This district had no SULI/CCI interns from 2014-2016 (only years available)
+```
 ---
 <a name="LA-05"></a>
 [Back to top](#top)
 ## LA-05 -- Rep. Ralph Lee Abraham (R) -- [Wikipedia](https://en.wikipedia.org/wiki/LA-05)
-### Committees
-Ralph Lee Abraham is not on any of our key committees 
+## Committees
+Ralph Lee Abraham is not on any of our key committees. 
 
-### HEP Grants
+## HEP Grants
 In the past 8 years, this district has received:<b> $969,000 </b>in SC HEP grants.
 ```
 Institution                  Amount ($)    Start    End  Principal Investigator    Project Title
@@ -193,11 +222,11 @@ Louisiana Tech University       416,000     2014   2018  Sawyer, Lee            
 LOUISIANA TECH UNIVERSITY       185,000     2013   2014  Sawyer                    High Energy Physics Research at the Energy Frontier at Louisiana Tech
 LOUISIANA TECH UNIVERSITY       238,000     2012   2014  Sawyer                    Research in High Energy Physics
 ```
-### SC Contracts
+## SC Contracts
 ```
 This district received no SC contracts from 2012-2019
 ```
-### NSF MPS Grants
+## NSF MPS Grants
 In the past 8 years, this district has received:<b> $969,620 </b>in NSF MPS grants.
 ```
   Year  Institution                  Amount ($)
@@ -209,14 +238,21 @@ In the past 8 years, this district has received:<b> $969,620 </b>in NSF MPS gran
   2013  LOUISIANA TECH UNIVERSITY       286,281
   2012  LOUISIANA TECH UNIVERSITY       124,821
 ```
+## SULI/CCI Interns
+From 2014-2016 (only years available), this district had 1 SULI/CCI intern
+```
+Term         Name              College                            Host Lab                        Program
+-----------  ----------------  ---------------------------------  ------------------------------  ---------
+Spring 2015  Zachary Streeter  University of Louisiana at Monroe  Brookhaven National Laboratory  SULI
+```
 ---
 <a name="LA-06"></a>
 [Back to top](#top)
 ## LA-06 -- Rep. Garret Graves (R) -- [Wikipedia](https://en.wikipedia.org/wiki/LA-06)
-### Committees
-Garret Graves is not on any of our key committees 
+## Committees
+Garret Graves is not on any of our key committees. 
 
-### HEP Grants
+## HEP Grants
 In the past 8 years, this district has received:<b> $2,779,000 </b>in SC HEP grants.
 ```
 Institution                                   Amount ($)    Start  End      Principal Investigator    Project Title
@@ -227,11 +263,11 @@ LOUISIANA STATE UNIVERSITY                       417,000     2013  2014     Matt
 LOUISIANA STATE UNIVERSITY                       410,000     2012  2013     Matthews, Metcalf         Research in Elementary Particle Physics and Cosmic Ray Physics
 LOUISIANA STATE UNIVERSITY                        10,000     2012  2013     Suller                    2012 International Particle Accelerator Conference, May 20-25, 2012
 ```
-### SC Contracts
+## SC Contracts
 ```
 This district received no SC contracts from 2012-2019
 ```
-### NSF MPS Grants
+## NSF MPS Grants
 In the past 8 years, this district has received:<b> $29,538,514 </b>in NSF MPS grants.
 ```
   Year  Institution                                   Amount ($)
@@ -254,5 +290,15 @@ In the past 8 years, this district has received:<b> $29,538,514 </b>in NSF MPS g
   2012  LOUISIANA STATE UNIVERSITY SYSTEM              4,763,202
   2012  SOUTHERN UNIVERSITY AND ANM COLLEGE SYSTEM       425,000
   2012  BATON ROUGE AREA FOUNDATION INC                  276,350
+```
+## SULI/CCI Interns
+From 2014-2016 (only years available), this district had 4 SULI/CCI interns
+```
+Term         Name                   College                                                             Host Lab                               Program
+-----------  ---------------------  ------------------------------------------------------------------  -------------------------------------  ---------
+Summer 2016  Derek Walker           Louisiana State University and Agricultural and Mechanical College  Fermi National Accelerator Laboratory  SULI
+Summer 2015  Daniel Joseph DiMarco  Louisiana State University and Agricultural and Mechanical College  Savannah River National Laboratory     SULI
+Summer 2014  Andrew Paul Olivier    Louisiana State University and Agricultural and Mechanical College  Fermi National Accelerator Laboratory  SULI
+Spring 2014  Edward Limin Lo        Louisiana State University and Agricultural and Mechanical College  Lawrence Berkeley National Laboratory  SULI
 ```
 ---

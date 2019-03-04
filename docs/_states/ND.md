@@ -19,13 +19,13 @@ John Hoeven is the #7 Republican on the Senate Appropriations Subcommittee on En
 
 John Hoeven is the #11 Republican on the Senate Committee on Energy and Natural Resources 
 
-Kevin Cramer is not on any of our key committees 
+Kevin Cramer is not on any of our key committees. 
 
 ## HEP Grants
 ```
 This state received no SC HEP grants from 2012-2019
 ```
-### SC Contracts
+## SC Contracts
 ```
 This state received no SC contracts from 2012-2019
 ```
@@ -50,23 +50,30 @@ In the past 8 years, this state has received:
   2012  NORTH DAKOTA STATE UNIVERSITY       938,649
   2012  UNIVERSITY OF NORTH DAKOTA          300,000
 ```
+## SULI/CCI Interns
+From 2014-2016 (only years available), this district had 1 SULI/CCI intern
+```
+  # Interns  Program    College
+-----------  ---------  -----------------------------------------
+          1  SULI       North Dakota State University Main Campus
+```
 ---
 ---
 <a name="ND-00"></a>
 [Back to top](#top)
 ## ND-00 -- Rep. Kelly Armstrong (R) -- [Wikipedia](https://en.wikipedia.org/wiki/ND-00)
-### Committees
-Kelly Armstrong is not on any of our key committees 
+## Committees
+Kelly Armstrong is not on any of our key committees. 
 
-### HEP Grants
+## HEP Grants
 ```
 This district received no SC HEP grants from 2012-2019
 ```
-### SC Contracts
+## SC Contracts
 ```
 This district received no SC contracts from 2012-2019
 ```
-### NSF MPS Grants
+## NSF MPS Grants
 In the past 8 years, this district has received:<b> $5,937,485 </b>in NSF MPS grants.
 ```
   Year  Institution                      Amount ($)
@@ -85,5 +92,12 @@ In the past 8 years, this district has received:<b> $5,937,485 </b>in NSF MPS gr
   2013  UNIVERSITY OF NORTH DAKOTA          119,051
   2012  NORTH DAKOTA STATE UNIVERSITY       938,649
   2012  UNIVERSITY OF NORTH DAKOTA          300,000
+```
+## SULI/CCI Interns
+From 2014-2016 (only years available), this district had 1 SULI/CCI intern
+```
+Term       Name                  College                                    Host Lab                        Program
+---------  --------------------  -----------------------------------------  ------------------------------  ---------
+Fall 2015  Loren James Anderson  North Dakota State University Main Campus  Los Alamos National Laboratory  SULI
 ```
 ---

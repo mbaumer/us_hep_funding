@@ -32,7 +32,7 @@ FLORIDA INSTITUTE OF TECHNOLOGY       299,000
 FLORIDA A&M UNIVERSITY                141,000
 Florida A&M University                 78,000
 ```
-### SC Contracts
+## SC Contracts
 In the past 8 years, this state has received:
 5 Office of Science contracts, totalling <b> $65,689</b>
 ```
@@ -80,34 +80,62 @@ FLORIDA ATLANTIC UNIV                                       45,565
 FLORIDA GULF COAST UNIV                                     30,000
 UNIVERSITY OF NORTH FLORIDA                                  7,500
 ```
+## SULI/CCI Interns
+From 2014-2016 (only years available), this district had 67 SULI/CCI interns
+```
+  # Interns  Program    College
+-----------  ---------  ----------------------------------------------
+         16  SULI       University of Florida
+         10  SULI       University of Central Florida
+          9  SULI       Florida Institute of Technology
+          8  SULI       Florida Atlantic University
+          5  SULI       Florida International University
+          4  CCI        Tallahassee Community College
+          4  SULI       University of South Florida
+          3  SULI       Florida State University
+          2  SULI       Florida Agricultural and Mechanical University
+          2  SULI       University of West Florida
+          1  CCI        Santa Fe College
+          1  SULI       Embry-Riddle Aeronautical University
+          1  SULI       New College of Florida
+          1  SULI       Stetson University
+```
 ---
 ---
 <a name="FL-01"></a>
 [Back to top](#top)
 ## FL-01 -- Rep. Matt Gaetz (R) -- [Wikipedia](https://en.wikipedia.org/wiki/FL-01)
-### Committees
-Matt Gaetz is not on any of our key committees 
+## Committees
+Matt Gaetz is not on any of our key committees. 
 
-### HEP Grants
+## HEP Grants
 ```
 This district received no SC HEP grants from 2012-2019
 ```
-### SC Contracts
+## SC Contracts
 ```
 This district received no SC contracts from 2012-2019
 ```
-### NSF MPS Grants
+## NSF MPS Grants
 ```
 This district received no NSF MPS grants from 2012-2019
+```
+## SULI/CCI Interns
+From 2014-2016 (only years available), this district had 2 SULI/CCI interns
+```
+Term         Name            College                     Host Lab                                        Program
+-----------  --------------  --------------------------  ----------------------------------------------  ---------
+Summer 2016  Cynthia Mccord  University of West Florida  Thomas Jefferson National Accelerator Facility  SULI
+Summer 2015  Cynthia McCord  University of West Florida  Thomas Jefferson National Accelerator Facility  SULI
 ```
 ---
 <a name="FL-02"></a>
 [Back to top](#top)
 ## FL-02 -- Rep. Neal P. Dunn (R) -- [Wikipedia](https://en.wikipedia.org/wiki/FL-02)
-### Committees
+## Committees
 Neal P. Dunn is the #8 Republican on the House Committee on Science, Space, and Technology 
 
-### HEP Grants
+## HEP Grants
 In the past 8 years, this district has received:<b> $18,799,999 </b>in SC HEP grants.
 ```
 Institution                 Amount ($)    Start  End      Principal Investigator    Project Title
@@ -134,11 +162,11 @@ FLORIDA STATE UNIVERSITY       476,000     2012  2014     Van Sciver            
 FLORIDA STATE UNIVERSITY     1,148,000     2012  2014     Larbalestier              High Field Superconductor Development and Understanding
 FLORIDA A&M UNIVERSITY         141,000     2012  2014     Williams                  Advanced Accelerators:  Particle, Photon and Plasma Wave Interactions
 ```
-### SC Contracts
+## SC Contracts
 ```
 This district received no SC contracts from 2012-2019
 ```
-### NSF MPS Grants
+## NSF MPS Grants
 In the past 8 years, this district has received:<b> $199,208,177 </b>in NSF MPS grants.
 ```
   Year  Institution                      Amount ($)
@@ -153,14 +181,23 @@ In the past 8 years, this district has received:<b> $199,208,177 </b>in NSF MPS 
   2013  FLORIDA STATE UNIVERSITY, THE    36,908,080
   2012  FLORIDA STATE UNIVERSITY, THE    35,990,352
 ```
+## SULI/CCI Interns
+From 2014-2016 (only years available), this district had 3 SULI/CCI interns
+```
+Term         Name                    College                   Host Lab                     Program
+-----------  ----------------------  ------------------------  ---------------------------  ---------
+Summer 2016  Amelia Emily-Kay Estry  Florida State University  Ames National Laboratory     SULI
+Summer 2016  Alex Ryan Saperstein    Florida State University  Argonne National Laboratory  SULI
+Summer 2015  Madeline Austin         Florida State University  Argonne National Laboratory  SULI
+```
 ---
 <a name="FL-03"></a>
 [Back to top](#top)
 ## FL-03 -- Rep. Ted S. Yoho (R) -- [Wikipedia](https://en.wikipedia.org/wiki/FL-03)
-### Committees
-Ted S. Yoho is not on any of our key committees 
+## Committees
+Ted S. Yoho is not on any of our key committees. 
 
-### HEP Grants
+## HEP Grants
 In the past 8 years, this district has received:<b> $10,824,000 </b>in SC HEP grants.
 ```
 Institution              Amount ($)    Start  End      Principal Investigator    Project Title
@@ -176,11 +213,11 @@ University of Florida     1,676,000     2014  Ongoing  Ray, Heather             
 University of Florida       660,000     2014  Ongoing  Tanner, David             Construction And Operation Of The Generation-2 Admx Detector
 University of Florida       220,000     2014  2016     Tanner, David             Search for axionic dark matter
 ```
-### SC Contracts
+## SC Contracts
 ```
 This district received no SC contracts from 2012-2019
 ```
-### NSF MPS Grants
+## NSF MPS Grants
 In the past 8 years, this district has received:<b> $41,830,074 </b>in NSF MPS grants.
 ```
   Year  Institution                                         Amount ($)
@@ -196,22 +233,45 @@ In the past 8 years, this district has received:<b> $41,830,074 </b>in NSF MPS g
   2014  UNIVERSITY OF FLORIDA                                6,294,762
   2013  UNIVERSITY OF FLORIDA                                6,904,259
 ```
+## SULI/CCI Interns
+From 2014-2016 (only years available), this district had 17 SULI/CCI interns
+```
+Term         Name                         College                Host Lab                                        Program
+-----------  ---------------------------  ---------------------  ----------------------------------------------  ---------
+Summer 2016  Ryan Alexander Veatch        Santa Fe College       Oak Ridge National Laboratory                   CCI
+Summer 2016  Paul Adam Lengemann          University of Florida  Oak Ridge National Laboratory                   SULI
+Summer 2016  Decarle Jin                  University of Florida  Pacific Northwest National Laboratory           SULI
+Summer 2015  Amar Mohabir                 University of Florida  Oak Ridge National Laboratory                   SULI
+Summer 2015  James Totten                 University of Florida  Idaho National Laboratory                       SULI
+Summer 2015  Cody Jordan Reeves           University of Florida  Thomas Jefferson National Accelerator Facility  SULI
+Summer 2015  Dustin Popp                  University of Florida  Oak Ridge National Laboratory                   SULI
+Summer 2015  Rebecca O'Toole              University of Florida  Oak Ridge National Laboratory                   SULI
+Summer 2015  Haley Lewis                  University of Florida  National Renewable Energy Laboratory            SULI
+Summer 2014  Keith Rausch                 University of Florida  Argonne National Laboratory                     SULI
+Summer 2014  Christopher Robert Greulich  University of Florida  Pacific Northwest National Laboratory           SULI
+Spring 2016  Rebecca O'toole              University of Florida  Oak Ridge National Laboratory                   SULI
+Spring 2015  Matthew Joseph Mitrani       University of Florida  Oak Ridge National Laboratory                   SULI
+Spring 2015  Neil Glikin                  University of Florida  Brookhaven National Laboratory                  SULI
+Spring 2015  Alex Adams                   University of Florida  Oak Ridge National Laboratory                   SULI
+Fall 2015    Jason Richards Pfeilsticker  University of Florida  National Renewable Energy Laboratory            SULI
+Fall 2014    Amar Mohabir                 University of Florida  Oak Ridge National Laboratory                   SULI
+```
 ---
 <a name="FL-04"></a>
 [Back to top](#top)
 ## FL-04 -- Rep. John H. Rutherford (R) -- [Wikipedia](https://en.wikipedia.org/wiki/FL-04)
-### Committees
+## Committees
 John H. Rutherford is the #22 Republican on the House Committee on Appropriations 
 
-### HEP Grants
+## HEP Grants
 ```
 This district received no SC HEP grants from 2012-2019
 ```
-### SC Contracts
+## SC Contracts
 ```
 This district received no SC contracts from 2012-2019
 ```
-### NSF MPS Grants
+## NSF MPS Grants
 In the past 8 years, this district has received:<b> $977,128 </b>in NSF MPS grants.
 ```
   Year  Institution                         Amount ($)
@@ -222,22 +282,26 @@ In the past 8 years, this district has received:<b> $977,128 </b>in NSF MPS gran
   2014  UNIVERSITY OF NORTH FLORIDA, THE       407,491
   2012  UNIVERSITY OF NORTH FLORIDA              7,500
 ```
+## SULI/CCI Interns
+```
+This district had no SULI/CCI interns from 2014-2016 (only years available)
+```
 ---
 <a name="FL-05"></a>
 [Back to top](#top)
 ## FL-05 -- Rep. Al Lawson, Jr. (D) -- [Wikipedia](https://en.wikipedia.org/wiki/FL-05)
-### Committees
-Al Lawson, Jr. is not on any of our key committees 
+## Committees
+Al Lawson, Jr. is not on any of our key committees. 
 
-### HEP Grants
+## HEP Grants
 ```
 This district received no SC HEP grants from 2012-2019
 ```
-### SC Contracts
+## SC Contracts
 ```
 This district received no SC contracts from 2012-2019
 ```
-### NSF MPS Grants
+## NSF MPS Grants
 In the past 8 years, this district has received:<b> $92,347,446 </b>in NSF MPS grants.
 ```
   Year  Institution                      Amount ($)
@@ -248,14 +312,26 @@ In the past 8 years, this district has received:<b> $92,347,446 </b>in NSF MPS g
   2017  FLORIDA STATE UNIVERSITY         18,883,617
   2017  FLORIDA STATE UNIVERSITY, THE    10,722,709
 ```
+## SULI/CCI Interns
+From 2014-2016 (only years available), this district had 6 SULI/CCI interns
+```
+Term         Name                      College                                         Host Lab                        Program
+-----------  ------------------------  ----------------------------------------------  ------------------------------  ---------
+Summer 2015  laverne sharlana maxwell  Florida Agricultural and Mechanical University  Brookhaven National Laboratory  SULI
+Summer 2015  David Perez               Tallahassee Community College                   Brookhaven National Laboratory  CCI
+Summer 2014  Nicholas Miguel Smith     Florida Agricultural and Mechanical University  Brookhaven National Laboratory  SULI
+Summer 2014  Emily Jane Hadden         Tallahassee Community College                   Brookhaven National Laboratory  CCI
+Summer 2014  Mauro Mancilla            Tallahassee Community College                   Brookhaven National Laboratory  CCI
+Summer 2014  Mark Rumenik              Tallahassee Community College                   Brookhaven National Laboratory  CCI
+```
 ---
 <a name="FL-06"></a>
 [Back to top](#top)
 ## FL-06 -- Rep. Michael Waltz (R) -- [Wikipedia](https://en.wikipedia.org/wiki/FL-06)
-### Committees
+## Committees
 Michael Waltz is the #14 Republican on the House Committee on Science, Space, and Technology 
 
-### HEP Grants
+## HEP Grants
 In the past 8 years, this district has received:<b> $4,654,000 </b>in SC HEP grants.
 ```
 Institution              Amount ($)    Start    End  Principal Investigator    Project Title
@@ -267,11 +343,11 @@ UNIVERSITY OF FLORIDA        85,000     2013   2014  Tanner                    S
 UNIVERSITY OF FLORIDA       955,000     2013   2014  Yelton                    Research in High Energy Experimental Physics using the CMS detector at the Large Hadron Collider, CERN, Geneva
 UNIVERSITY OF FLORIDA     2,241,000     2012   2013  Yelton                    High Energy Experimental and Theoretical Research
 ```
-### SC Contracts
+## SC Contracts
 ```
 This district received no SC contracts from 2012-2019
 ```
-### NSF MPS Grants
+## NSF MPS Grants
 In the past 8 years, this district has received:<b> $9,115,056 </b>in NSF MPS grants.
 ```
   Year  Institution                                 Amount ($)
@@ -284,22 +360,30 @@ In the past 8 years, this district has received:<b> $9,115,056 </b>in NSF MPS gr
   2013  EMBRY-RIDDLE AERONAUTICAL UNIVERSITY INC       365,197
   2012  UNIVERSITY OF FLORIDA                        8,229,333
 ```
+## SULI/CCI Interns
+From 2014-2016 (only years available), this district had 2 SULI/CCI interns
+```
+Term         Name                College                               Host Lab                       Program
+-----------  ------------------  ------------------------------------  -----------------------------  ---------
+Summer 2015  Vanna Blasczak      Stetson University                    Ames National Laboratory       SULI
+Summer 2015  Rachael Isphording  Embry-Riddle Aeronautical University  Oak Ridge National Laboratory  SULI
+```
 ---
 <a name="FL-07"></a>
 [Back to top](#top)
 ## FL-07 -- Rep. Stephanie N. Murphy (D) -- [Wikipedia](https://en.wikipedia.org/wiki/FL-07)
-### Committees
-Stephanie N. Murphy is not on any of our key committees 
+## Committees
+Stephanie N. Murphy is not on any of our key committees. 
 
-### HEP Grants
+## HEP Grants
 ```
 This district received no SC HEP grants from 2012-2019
 ```
-### SC Contracts
+## SC Contracts
 ```
 This district received no SC contracts from 2012-2019
 ```
-### NSF MPS Grants
+## NSF MPS Grants
 In the past 8 years, this district has received:<b> $19,904,824 </b>in NSF MPS grants.
 ```
   Year  Institution                                             Amount ($)
@@ -318,14 +402,30 @@ In the past 8 years, this district has received:<b> $19,904,824 </b>in NSF MPS g
   2013  ROLLINS COLLEGE                                            214,745
   2013  UNIVERSITY OF CENTRAL FLORIDA                            1,704,472
 ```
+## SULI/CCI Interns
+From 2014-2016 (only years available), this district had 10 SULI/CCI interns
+```
+Term         Name                College                        Host Lab                               Program
+-----------  ------------------  -----------------------------  -------------------------------------  ---------
+Summer 2016  Shelby Khandasammy  University of Central Florida  Ames National Laboratory               SULI
+Summer 2016  Erik M Ninnemann    University of Central Florida  Oak Ridge National Laboratory          SULI
+Summer 2015  Zachary Loparo      University of Central Florida  Sandia National Laboratory             SULI
+Summer 2015  Leigh Nash          University of Central Florida  Argonne National Laboratory            SULI
+Summer 2014  Zachary Loparo      University of Central Florida  Oak Ridge National Laboratory          SULI
+Summer 2014  Adam Phillips       University of Central Florida  Lawrence Berkeley National Laboratory  SULI
+Spring 2016  Anne Ly Pham        University of Central Florida  Lawrence Berkeley National Laboratory  SULI
+Spring 2015  Adam Phillips       University of Central Florida  National Renewable Energy Laboratory   SULI
+Spring 2014  Robert E Bantz      University of Central Florida  National Renewable Energy Laboratory   SULI
+Fall 2015    Anne Ly Pham        University of Central Florida  Lawrence Berkeley National Laboratory  SULI
+```
 ---
 <a name="FL-08"></a>
 [Back to top](#top)
 ## FL-08 -- Rep. Bill Posey (R) -- [Wikipedia](https://en.wikipedia.org/wiki/FL-08)
-### Committees
+## Committees
 Bill Posey is the #3 Republican on the House Committee on Science, Space, and Technology 
 
-### HEP Grants
+## HEP Grants
 In the past 8 years, this district has received:<b> $1,371,000 </b>in SC HEP grants.
 ```
 Institution                        Amount ($)    Start  End      Principal Investigator    Project Title
@@ -334,11 +434,11 @@ Florida Institute of Technology     1,170,000     2015  Ongoing  Hohlmann, Marcu
 Florida Institute of Technology       118,000     2014  2015     Hohlmann, Marcus          Experimental High Energy Physics Research
 Florida Institute of Technology        83,000     2014  2016     Yumiceva, Francisco       Search for New Physics in Top Quark Production and Upgrade of the CMS Hadron Calorimeter
 ```
-### SC Contracts
+## SC Contracts
 ```
 This district received no SC contracts from 2012-2019
 ```
-### NSF MPS Grants
+## NSF MPS Grants
 In the past 8 years, this district has received:<b> $1,963,195 </b>in NSF MPS grants.
 ```
   Year  Institution                              Amount ($)
@@ -349,63 +449,86 @@ In the past 8 years, this district has received:<b> $1,963,195 </b>in NSF MPS gr
   2014  FLORIDA INSTITUTE OF TECHNOLOGY, INC.       394,916
   2013  FLORIDA INSTITUTE OF TECHNOLOGY, INC.       354,763
 ```
+## SULI/CCI Interns
+From 2014-2016 (only years available), this district had 9 SULI/CCI interns
+```
+Term         Name                      College                          Host Lab                                        Program
+-----------  ------------------------  -------------------------------  ----------------------------------------------  ---------
+Summer 2016  Zoe Ashton                Florida Institute of Technology  Los Alamos National Laboratory                  SULI
+Summer 2015  Brooke Adams              Florida Institute of Technology  Brookhaven National Laboratory                  SULI
+Summer 2015  Zoe Ashton                Florida Institute of Technology  Los Alamos National Laboratory                  SULI
+Summer 2015  Mary Kosak                Florida Institute of Technology  Los Alamos National Laboratory                  SULI
+Summer 2014  Mary Kosak                Florida Institute of Technology  Los Alamos National Laboratory                  SULI
+Summer 2014  Jessie Michael Twigger    Florida Institute of Technology  Thomas Jefferson National Accelerator Facility  SULI
+Spring 2015  Michael William Phipps    Florida Institute of Technology  Brookhaven National Laboratory                  SULI
+Fall 2014    William Patrick Comaskey  Florida Institute of Technology  Lawrence Berkeley National Laboratory           SULI
+Fall 2014    Michael William Phipps    Florida Institute of Technology  Brookhaven National Laboratory                  SULI
+```
 ---
 <a name="FL-09"></a>
 [Back to top](#top)
 ## FL-09 -- Rep. Darren Soto (D) -- [Wikipedia](https://en.wikipedia.org/wiki/FL-09)
-### Committees
+## Committees
 Darren Soto is the #30 Democrat on the House Committee on Energy and Commerce 
 
-### HEP Grants
+## HEP Grants
 ```
 This district received no SC HEP grants from 2012-2019
 ```
-### SC Contracts
+## SC Contracts
 ```
 This district received no SC contracts from 2012-2019
 ```
-### NSF MPS Grants
+## NSF MPS Grants
 ```
 This district received no NSF MPS grants from 2012-2019
+```
+## SULI/CCI Interns
+```
+This district had no SULI/CCI interns from 2014-2016 (only years available)
 ```
 ---
 <a name="FL-10"></a>
 [Back to top](#top)
 ## FL-10 -- Rep. Val Butler Demings (D) -- [Wikipedia](https://en.wikipedia.org/wiki/FL-10)
-### Committees
-Val Butler Demings is not on any of our key committees 
+## Committees
+Val Butler Demings is not on any of our key committees. 
 
-### HEP Grants
+## HEP Grants
 ```
 This district received no SC HEP grants from 2012-2019
 ```
-### SC Contracts
+## SC Contracts
 ```
 This district received no SC contracts from 2012-2019
 ```
-### NSF MPS Grants
+## NSF MPS Grants
 In the past 8 years, this district has received:<b> $107,255 </b>in NSF MPS grants.
 ```
   Year  Institution             Amount ($)
 ------  --------------------  ------------
   2012  ECKERD COLLEGE, INC.       107,255
 ```
+## SULI/CCI Interns
+```
+This district had no SULI/CCI interns from 2014-2016 (only years available)
+```
 ---
 <a name="FL-11"></a>
 [Back to top](#top)
 ## FL-11 -- Rep. Daniel Webster (R) -- [Wikipedia](https://en.wikipedia.org/wiki/FL-11)
-### Committees
-Daniel Webster is not on any of our key committees 
+## Committees
+Daniel Webster is not on any of our key committees. 
 
-### HEP Grants
+## HEP Grants
 ```
 This district received no SC HEP grants from 2012-2019
 ```
-### SC Contracts
+## SC Contracts
 ```
 This district received no SC contracts from 2012-2019
 ```
-### NSF MPS Grants
+## NSF MPS Grants
 In the past 8 years, this district has received:<b> $1,883,871 </b>in NSF MPS grants.
 ```
   Year  Institution                    Amount ($)
@@ -413,60 +536,72 @@ In the past 8 years, this district has received:<b> $1,883,871 </b>in NSF MPS gr
   2013  UNIVERSITY OF SOUTH FLORIDA        20,000
   2012  UNIVERSITY OF SOUTH FLORIDA     1,863,871
 ```
+## SULI/CCI Interns
+```
+This district had no SULI/CCI interns from 2014-2016 (only years available)
+```
 ---
 <a name="FL-12"></a>
 [Back to top](#top)
 ## FL-12 -- Rep. Gus M. Bilirakis (R) -- [Wikipedia](https://en.wikipedia.org/wiki/FL-12)
-### Committees
+## Committees
 Gus M. Bilirakis is the #13 Republican on the House Committee on Energy and Commerce 
 
-### HEP Grants
+## HEP Grants
 ```
 This district received no SC HEP grants from 2012-2019
 ```
-### SC Contracts
+## SC Contracts
 ```
 This district received no SC contracts from 2012-2019
 ```
-### NSF MPS Grants
+## NSF MPS Grants
 ```
 This district received no NSF MPS grants from 2012-2019
+```
+## SULI/CCI Interns
+```
+This district had no SULI/CCI interns from 2014-2016 (only years available)
 ```
 ---
 <a name="FL-13"></a>
 [Back to top](#top)
 ## FL-13 -- Rep. Charlie Crist (D) -- [Wikipedia](https://en.wikipedia.org/wiki/FL-13)
-### Committees
+## Committees
 Charlie Crist is the #18 Democrat on the House Committee on Science, Space, and Technology 
 
 Charlie Crist is the #5 Democrat on the House Appropriations Subcommittee on Commerce, Justice, and Science 
 
 Charlie Crist is the #28 Democrat on the House Committee on Appropriations 
 
-### HEP Grants
+## HEP Grants
 ```
 This district received no SC HEP grants from 2012-2019
 ```
-### SC Contracts
+## SC Contracts
 ```
 This district received no SC contracts from 2012-2019
 ```
-### NSF MPS Grants
+## NSF MPS Grants
 ```
 This district received no NSF MPS grants from 2012-2019
+```
+## SULI/CCI Interns
+```
+This district had no SULI/CCI interns from 2014-2016 (only years available)
 ```
 ---
 <a name="FL-14"></a>
 [Back to top](#top)
 ## FL-14 -- Rep. Kathy Castor (D) -- [Wikipedia](https://en.wikipedia.org/wiki/FL-14)
-### Committees
+## Committees
 Kathy Castor is the #10 Democrat on the House Committee on Energy and Commerce 
 
-### HEP Grants
+## HEP Grants
 ```
 This district received no SC HEP grants from 2012-2019
 ```
-### SC Contracts
+## SC Contracts
 In the past 8 years, this district has received:
 1 Office of Science contracts, totalling <b> $37,077</b>
 ```
@@ -474,7 +609,7 @@ In the past 8 years, this district has received:
 ------  ----------------------  ------------  ------------------------
   2018  FEDERAL CONTRACTS CORP        37,077  PASSENGER MOTOR VEHICLES
 ```
-### NSF MPS Grants
+## NSF MPS Grants
 In the past 8 years, this district has received:<b> $5,224,495 </b>in NSF MPS grants.
 ```
   Year  Institution                               Amount ($)
@@ -484,25 +619,35 @@ In the past 8 years, this district has received:<b> $5,224,495 </b>in NSF MPS gr
   2018  UNIVERSITY OF TAMPA, INCORPORATED, THE       411,986
   2017  UNIVERSITY OF SOUTH FLORIDA                2,217,676
 ```
+## SULI/CCI Interns
+From 2014-2016 (only years available), this district had 4 SULI/CCI interns
+```
+Term         Name                 College                      Host Lab                               Program
+-----------  -------------------  ---------------------------  -------------------------------------  ---------
+Summer 2016  Edward Mitchell      University of South Florida  Oak Ridge National Laboratory          SULI
+Spring 2016  Paul Matthew Kairys  University of South Florida  National Renewable Energy Laboratory   SULI
+Spring 2015  Romina Gotzmann      University of South Florida  Lawrence Berkeley National Laboratory  SULI
+Fall 2015    Romina Gotzmann      University of South Florida  Lawrence Berkeley National Laboratory  SULI
+```
 ---
 <a name="FL-15"></a>
 [Back to top](#top)
 ## FL-15 -- Rep. Ross Spano (R) -- [Wikipedia](https://en.wikipedia.org/wiki/FL-15)
-### Committees
-Ross Spano is not on any of our key committees 
+## Committees
+Ross Spano is not on any of our key committees. 
 
-### HEP Grants
+## HEP Grants
 In the past 8 years, this district has received:<b> $299,000 </b>in SC HEP grants.
 ```
 Institution                        Amount ($)    Start    End  Principal Investigator    Project Title
 -------------------------------  ------------  -------  -----  ------------------------  --------------------------------------------------------------------------------------
 FLORIDA INSTITUTE OF TECHNOLOGY       299,000     2012   2014  Hohlmann, Baarmand        Experimental Investigation of Hadron Collisions at the Highest Center-of-Mass Energies
 ```
-### SC Contracts
+## SC Contracts
 ```
 This district received no SC contracts from 2012-2019
 ```
-### NSF MPS Grants
+## NSF MPS Grants
 In the past 8 years, this district has received:<b> $6,659,145 </b>in NSF MPS grants.
 ```
   Year  Institution                              Amount ($)
@@ -515,18 +660,22 @@ In the past 8 years, this district has received:<b> $6,659,145 </b>in NSF MPS gr
   2013  UNIVERSITY OF SOUTH FLORIDA                 885,488
   2012  FLORIDA INSTITUTE OF TECHNOLOGY, INC.       193,463
 ```
+## SULI/CCI Interns
+```
+This district had no SULI/CCI interns from 2014-2016 (only years available)
+```
 ---
 <a name="FL-16"></a>
 [Back to top](#top)
 ## FL-16 -- Rep. Vern Buchanan (R) -- [Wikipedia](https://en.wikipedia.org/wiki/FL-16)
-### Committees
-Vern Buchanan is not on any of our key committees 
+## Committees
+Vern Buchanan is not on any of our key committees. 
 
-### HEP Grants
+## HEP Grants
 ```
 This district received no SC HEP grants from 2012-2019
 ```
-### SC Contracts
+## SC Contracts
 In the past 8 years, this district has received:
 1 Office of Science contracts, totalling <b> $10,739</b>
 ```
@@ -534,7 +683,7 @@ In the past 8 years, this district has received:
 ------  -------------------------  ------------  -----------------------------------------
   2013  TOM BRUNTON MASONRY, INC.        10,739  ARCHITECT AND ENGINEERING- GENERAL: OTHER
 ```
-### NSF MPS Grants
+## NSF MPS Grants
 In the past 8 years, this district has received:<b> $369,602 </b>in NSF MPS grants.
 ```
   Year  Institution               Amount ($)
@@ -542,22 +691,29 @@ In the past 8 years, this district has received:<b> $369,602 </b>in NSF MPS gran
   2018  NEW COLLEGE OF FLORIDA       125,449
   2014  NEW COLLEGE OF FLORIDA       244,153
 ```
+## SULI/CCI Interns
+From 2014-2016 (only years available), this district had 1 SULI/CCI intern
+```
+Term         Name            College                 Host Lab                    Program
+-----------  --------------  ----------------------  --------------------------  ---------
+Summer 2015  Zachary Decker  New College of Florida  Sandia National Laboratory  SULI
+```
 ---
 <a name="FL-17"></a>
 [Back to top](#top)
 ## FL-17 -- Rep. W. Gregory Steube (R) -- [Wikipedia](https://en.wikipedia.org/wiki/FL-17)
-### Committees
-W. Gregory Steube is not on any of our key committees 
+## Committees
+W. Gregory Steube is not on any of our key committees. 
 
-### HEP Grants
+## HEP Grants
 ```
 This district received no SC HEP grants from 2012-2019
 ```
-### SC Contracts
+## SC Contracts
 ```
 This district received no SC contracts from 2012-2019
 ```
-### NSF MPS Grants
+## NSF MPS Grants
 In the past 8 years, this district has received:<b> $329,172 </b>in NSF MPS grants.
 ```
   Year  Institution            Amount ($)
@@ -565,44 +721,52 @@ In the past 8 years, this district has received:<b> $329,172 </b>in NSF MPS gran
   2013  UNIVERSITY OF MIAMI        40,431
   2012  UNIVERSITY OF MIAMI       288,741
 ```
+## SULI/CCI Interns
+```
+This district had no SULI/CCI interns from 2014-2016 (only years available)
+```
 ---
 <a name="FL-18"></a>
 [Back to top](#top)
 ## FL-18 -- Rep. Brian J. Mast (R) -- [Wikipedia](https://en.wikipedia.org/wiki/FL-18)
-### Committees
-Brian J. Mast is not on any of our key committees 
+## Committees
+Brian J. Mast is not on any of our key committees. 
 
-### HEP Grants
+## HEP Grants
 ```
 This district received no SC HEP grants from 2012-2019
 ```
-### SC Contracts
+## SC Contracts
 ```
 This district received no SC contracts from 2012-2019
 ```
-### NSF MPS Grants
+## NSF MPS Grants
 In the past 8 years, this district has received:<b> $1,542,164 </b>in NSF MPS grants.
 ```
   Year  Institution            Amount ($)
 ------  -------------------  ------------
   2012  UNIVERSITY OF MIAMI     1,542,164
 ```
+## SULI/CCI Interns
+```
+This district had no SULI/CCI interns from 2014-2016 (only years available)
+```
 ---
 <a name="FL-19"></a>
 [Back to top](#top)
 ## FL-19 -- Rep. Francis Rooney (R) -- [Wikipedia](https://en.wikipedia.org/wiki/FL-19)
-### Committees
-Francis Rooney is not on any of our key committees 
+## Committees
+Francis Rooney is not on any of our key committees. 
 
-### HEP Grants
+## HEP Grants
 ```
 This district received no SC HEP grants from 2012-2019
 ```
-### SC Contracts
+## SC Contracts
 ```
 This district received no SC contracts from 2012-2019
 ```
-### NSF MPS Grants
+## NSF MPS Grants
 In the past 8 years, this district has received:<b> $482,857 </b>in NSF MPS grants.
 ```
   Year  Institution                      Amount ($)
@@ -613,39 +777,47 @@ In the past 8 years, this district has received:<b> $482,857 </b>in NSF MPS gran
   2015  FLORIDA GULF COAST UNIVERSITY       274,466
   2012  FLORIDA ATLANTIC UNIVERSITY          75,000
 ```
+## SULI/CCI Interns
+```
+This district had no SULI/CCI interns from 2014-2016 (only years available)
+```
 ---
 <a name="FL-20"></a>
 [Back to top](#top)
 ## FL-20 -- Rep. Alcee L. Hastings (D) -- [Wikipedia](https://en.wikipedia.org/wiki/FL-20)
-### Committees
-Alcee L. Hastings is not on any of our key committees 
+## Committees
+Alcee L. Hastings is not on any of our key committees. 
 
-### HEP Grants
+## HEP Grants
 ```
 This district received no SC HEP grants from 2012-2019
 ```
-### SC Contracts
+## SC Contracts
 ```
 This district received no SC contracts from 2012-2019
 ```
-### NSF MPS Grants
+## NSF MPS Grants
 ```
 This district received no NSF MPS grants from 2012-2019
+```
+## SULI/CCI Interns
+```
+This district had no SULI/CCI interns from 2014-2016 (only years available)
 ```
 ---
 <a name="FL-21"></a>
 [Back to top](#top)
 ## FL-21 -- Rep. Lois Frankel (D) -- [Wikipedia](https://en.wikipedia.org/wiki/FL-21)
-### Committees
+## Committees
 Lois Frankel is the #7 Democrat on the House Appropriations Subcommittee on Energy and Water Development 
 
 Lois Frankel is the #23 Democrat on the House Committee on Appropriations 
 
-### HEP Grants
+## HEP Grants
 ```
 This district received no SC HEP grants from 2012-2019
 ```
-### SC Contracts
+## SC Contracts
 In the past 8 years, this district has received:
 1 Office of Science contracts, totalling <b> $4,111</b>
 ```
@@ -653,25 +825,29 @@ In the past 8 years, this district has received:
 ------  ------------------  ------------  ---------------
   2015  SUPPLIES NOW, INC.         4,111  OFFICE SUPPLIES
 ```
-### NSF MPS Grants
+## NSF MPS Grants
 In the past 8 years, this district has received:<b> $1,558,838 </b>in NSF MPS grants.
 ```
   Year  Institution                         Amount ($)
 ------  --------------------------------  ------------
   2012  FLORIDA INTERNATIONAL UNIVERSITY     1,558,838
 ```
+## SULI/CCI Interns
+```
+This district had no SULI/CCI interns from 2014-2016 (only years available)
+```
 ---
 <a name="FL-22"></a>
 [Back to top](#top)
 ## FL-22 -- Rep. Theodore E. Deutch (D) -- [Wikipedia](https://en.wikipedia.org/wiki/FL-22)
-### Committees
-Theodore E. Deutch is not on any of our key committees 
+## Committees
+Theodore E. Deutch is not on any of our key committees. 
 
-### HEP Grants
+## HEP Grants
 ```
 This district received no SC HEP grants from 2012-2019
 ```
-### SC Contracts
+## SC Contracts
 In the past 8 years, this district has received:
 2 Office of Science contracts, totalling <b> $13,762</b>
 ```
@@ -680,7 +856,7 @@ In the past 8 years, this district has received:
   2016  TAYLOR & FRANCIS GROUP, LLC         5,960  NEWSPAPERS AND PERIODICALS
   2014  SIMPLEXGRINNELL LP                  7,802  FIRE CONTROL DIRECTORS
 ```
-### NSF MPS Grants
+## NSF MPS Grants
 In the past 8 years, this district has received:<b> $831,734 </b>in NSF MPS grants.
 ```
   Year  Institution                    Amount ($)
@@ -692,43 +868,61 @@ In the past 8 years, this district has received:<b> $831,734 </b>in NSF MPS gran
   2015  FLORIDA ATLANTIC UNIVERSITY       106,498
   2013  FLORIDA ATLANTIC UNIVERSITY       165,999
 ```
+## SULI/CCI Interns
+From 2014-2016 (only years available), this district had 8 SULI/CCI interns
+```
+Term         Name                     College                      Host Lab                                        Program
+-----------  -----------------------  ---------------------------  ----------------------------------------------  ---------
+Summer 2016  Chelsey Rebecca Hoff     Florida Atlantic University  Oak Ridge National Laboratory                   SULI
+Summer 2016  Han Soul Lee             Florida Atlantic University  Brookhaven National Laboratory                  SULI
+Summer 2015  Elizabeth Leslie Rubino  Florida Atlantic University  Brookhaven National Laboratory                  SULI
+Summer 2014  Zaarah Lyla Mohamed      Florida Atlantic University  Thomas Jefferson National Accelerator Facility  SULI
+Spring 2016  Chelsey Rebecca Hoff     Florida Atlantic University  Oak Ridge National Laboratory                   SULI
+Fall 2015    Zachary Taylor Anderson  Florida Atlantic University  Lawrence Berkeley National Laboratory           SULI
+Fall 2015    Ryan Crichton            Florida Atlantic University  Argonne National Laboratory                     SULI
+Fall 2015    Samuel Haskins Schlegel  Florida Atlantic University  Oak Ridge National Laboratory                   SULI
+```
 ---
 <a name="FL-23"></a>
 [Back to top](#top)
 ## FL-23 -- Rep. Debbie Wasserman Schultz (D) -- [Wikipedia](https://en.wikipedia.org/wiki/FL-23)
-### Committees
+## Committees
 Debbie Wasserman Schultz is the #3 Democrat on the House Appropriations Subcommittee on Energy and Water Development 
 
 Debbie Wasserman Schultz is the #13 Democrat on the House Committee on Appropriations 
 
-### HEP Grants
+## HEP Grants
 ```
 This district received no SC HEP grants from 2012-2019
 ```
-### SC Contracts
+## SC Contracts
 ```
 This district received no SC contracts from 2012-2019
 ```
-### NSF MPS Grants
+## NSF MPS Grants
 ```
 This district received no NSF MPS grants from 2012-2019
+```
+## SULI/CCI Interns
+```
+This district had no SULI/CCI interns from 2014-2016 (only years available)
 ```
 ---
 <a name="FL-24"></a>
 [Back to top](#top)
 ## FL-24 -- Rep. Frederica S. Wilson (D) -- [Wikipedia](https://en.wikipedia.org/wiki/FL-24)
-### Committees
+## Committees
 Frederica S. Wilson is the #6 Democrat on the House Subcommittee on Early Childhood, Elementary, and Secondary Education 
 
-### HEP Grants
+## HEP Grants
 ```
 This district received no SC HEP grants from 2012-2019
 ```
-### SC Contracts
+## SC Contracts
 ```
 This district received no SC contracts from 2012-2019
 ```
-### NSF MPS Grants
+## NSF MPS Grants
 In the past 8 years, this district has received:<b> $2,006,026 </b>in NSF MPS grants.
 ```
   Year  Institution                      Amount ($)
@@ -736,44 +930,52 @@ In the past 8 years, this district has received:<b> $2,006,026 </b>in NSF MPS gr
   2013  UNIVERSITY OF CENTRAL FLORIDA       110,000
   2012  UNIVERSITY OF CENTRAL FLORIDA     1,896,026
 ```
+## SULI/CCI Interns
+```
+This district had no SULI/CCI interns from 2014-2016 (only years available)
+```
 ---
 <a name="FL-25"></a>
 [Back to top](#top)
 ## FL-25 -- Rep. Mario Diaz-Balart (R) -- [Wikipedia](https://en.wikipedia.org/wiki/FL-25)
-### Committees
+## Committees
 Mario Diaz-Balart is the #8 Republican on the House Committee on Appropriations 
 
-### HEP Grants
+## HEP Grants
 ```
 This district received no SC HEP grants from 2012-2019
 ```
-### SC Contracts
+## SC Contracts
 ```
 This district received no SC contracts from 2012-2019
 ```
-### NSF MPS Grants
+## NSF MPS Grants
 In the past 8 years, this district has received:<b> $103,086 </b>in NSF MPS grants.
 ```
   Year  Institution                         Amount ($)
 ------  --------------------------------  ------------
   2013  FLORIDA INTERNATIONAL UNIVERSITY       103,086
 ```
+## SULI/CCI Interns
+```
+This district had no SULI/CCI interns from 2014-2016 (only years available)
+```
 ---
 <a name="FL-26"></a>
 [Back to top](#top)
 ## FL-26 -- Rep. Debbie Mucarsel-Powell (D) -- [Wikipedia](https://en.wikipedia.org/wiki/FL-26)
-### Committees
-Debbie Mucarsel-Powell is not on any of our key committees 
+## Committees
+Debbie Mucarsel-Powell is not on any of our key committees. 
 
-### HEP Grants
+## HEP Grants
 ```
 This district received no SC HEP grants from 2012-2019
 ```
-### SC Contracts
+## SC Contracts
 ```
 This district received no SC contracts from 2012-2019
 ```
-### NSF MPS Grants
+## NSF MPS Grants
 In the past 8 years, this district has received:<b> $4,676,312 </b>in NSF MPS grants.
 ```
   Year  Institution                         Amount ($)
@@ -787,22 +989,33 @@ In the past 8 years, this district has received:<b> $4,676,312 </b>in NSF MPS gr
   2014  FLORIDA INTERNATIONAL UNIVERSITY       748,522
   2013  FLORIDA INTERNATIONAL UNIVERSITY       986,059
 ```
+## SULI/CCI Interns
+From 2014-2016 (only years available), this district had 5 SULI/CCI interns
+```
+Term         Name                   College                           Host Lab                                        Program
+-----------  ---------------------  --------------------------------  ----------------------------------------------  ---------
+Summer 2016  Abdul Rahim Ansari     Florida International University  Thomas Jefferson National Accelerator Facility  SULI
+Summer 2015  Anthony Llodra         Florida International University  Thomas Jefferson National Accelerator Facility  SULI
+Summer 2014  Adrianna Marie Angulo  Florida International University  Princeton Plasma Physics Laboratory             SULI
+Summer 2014  Jenna Samuel           Florida International University  Thomas Jefferson National Accelerator Facility  SULI
+Spring 2016  Jason Rolando Soto     Florida International University  Lawrence Berkeley National Laboratory           SULI
+```
 ---
 <a name="FL-27"></a>
 [Back to top](#top)
 ## FL-27 -- Rep. Donna E. Shalala (D) -- [Wikipedia](https://en.wikipedia.org/wiki/FL-27)
-### Committees
+## Committees
 Donna E. Shalala is the #4 Democrat on the House Subcommittee on Early Childhood, Elementary, and Secondary Education 
 
-### HEP Grants
+## HEP Grants
 ```
 This district received no SC HEP grants from 2012-2019
 ```
-### SC Contracts
+## SC Contracts
 ```
 This district received no SC contracts from 2012-2019
 ```
-### NSF MPS Grants
+## NSF MPS Grants
 In the past 8 years, this district has received:<b> $7,808,223 </b>in NSF MPS grants.
 ```
   Year  Institution            Amount ($)
@@ -814,5 +1027,9 @@ In the past 8 years, this district has received:<b> $7,808,223 </b>in NSF MPS gr
   2015  UNIVERSITY OF MIAMI     1,545,519
   2014  UNIVERSITY OF MIAMI       932,167
   2013  UNIVERSITY OF MIAMI     1,729,695
+```
+## SULI/CCI Interns
+```
+This district had no SULI/CCI interns from 2014-2016 (only years available)
 ```
 ---

@@ -17,7 +17,7 @@ Dianne Feinstein is the #3 Democrat on the Senate Committee on Appropriations
 
 Dianne Feinstein is the #1 Democrat on the Senate Appropriations Subcommittee on Energy and Water Development 
 
-Kamala D. Harris is not on any of our key committees 
+Kamala D. Harris is not on any of our key committees. 
 
 ## HEP Grants
 In the past 8 years, this state has received:
@@ -53,7 +53,7 @@ UNIVERSITY OF SOUTHERN CALIFORNIA                  699,000
 SAN FRANCISCO STATE UNIVERSITY                     385,000
 CALIFORNIA STATE U. LONG BEACH                      40,000
 ```
-### SC Contracts
+## SC Contracts
 In the past 8 years, this state has received:
 30 Office of Science contracts, totalling <b> $9,913,394,719</b>
 ```
@@ -190,15 +190,115 @@ THEISS RESEARCH                                                    45,898
 PEPPERDINE UNIVERSITY                                              38,903
 SAN FRANCISCO STATE UNIV                                           38,349
 ```
+## SULI/CCI Interns
+From 2014-2016 (only years available), this district had 309 SULI/CCI interns
+```
+  # Interns  Program    College
+-----------  ---------  -------------------------------------------------------
+         58  SULI       University of California-Berkeley
+         20  SULI       University of California-San Diego
+         16  SULI       University of California-Davis
+         12  SULI       University of California-Santa Barbara
+         11  SULI       University of California-Los Angeles
+          9  SULI       Stanford University
+          9  SULI       University of California - Merced
+          7  SULI       Harvey Mudd College
+          7  CCI        College of the Desert
+          7  SULI       University of California-Santa Cruz
+          6  CCI        Las Positas College
+          6  SULI       Pomona College
+          6  SULI       California Polytechnic State University-San Luis Obispo
+          5  CCI        Laney College
+          5  SULI       Humboldt State University
+          4  CCI        Hartnell College
+          4  CCI        Contra Costa College
+          4  CCI        College of San Mateo
+          3  SULI       Mills College
+          3  SULI       California State Polytechnic University-Pomona
+          3  CCI        Sacramento City College
+          3  SULI       San Francisco State University
+          3  SULI       University of California-Irvine
+          3  CCI        Santa Barbara City College
+          3  SULI       San Jose State University
+          3  SULI       University of California-Riverside
+          3  CCI        City College of San Francisco
+          3  SULI       University of Southern California
+          3  SULI       Contra Costa College
+          2  SULI       California State University-East Bay
+          2  SULI       California State University-Fullerton
+          2  SULI       California State University-Los Angeles
+          2  SULI       California Lutheran University
+          2  SULI       California Institute of Technology
+          2  SULI       Sacramento City College
+          2  SULI       Yuba College
+          2  SULI       Claremont McKenna College
+          2  SULI       Vanguard University of Southern California
+          2  CCI        San Joaquin Delta College
+          2  SULI       University of the Pacific
+          2  CCI        Canada College
+          2  CCI        Ohlone College
+          2  CCI        Napa Valley College
+          2  SULI       City College of San Francisco
+          1  SULI       Santa Clara University
+          1  SULI       Lincoln University
+          1  SULI       Laney College
+          1  SULI       University of San Diego
+          1  SULI       University of Redlands
+          1  SULI       Sonoma State University
+          1  SULI       University of La Verne
+          1  SULI       Santa Monica College
+          1  SULI       Skyline College
+          1  SULI       Point Loma Nazarene University
+          1  SULI       Scripps College
+          1  SULI       San Diego State University
+          1  SULI       Sierra College
+          1  CCI        Allan Hancock College
+          1  SULI       Chapman University
+          1  SULI       Chabot College
+          1  CCI        Los Medanos College
+          1  CCI        Los Angeles Valley College
+          1  CCI        Fresno City College
+          1  CCI        Foothill College
+          1  CCI        Evergreen Valley College
+          1  CCI        El Camino College
+          1  CCI        Diablo Valley College
+          1  CCI        De Anza College
+          1  CCI        Cuesta College
+          1  CCI        Crafton Hills College
+          1  CCI        College of the Canyons
+          1  CCI        College of Alameda
+          1  CCI        Cabrillo College
+          1  CCI        Berkeley City College
+          1  CCI        Austin Community College District
+          1  CCI        Marshalltown Community College
+          1  CCI        Mission College
+          1  CCI        Monterey Peninsula College
+          1  CCI        University of California-Santa Cruz
+          1  SULI       California State University-Stanislaus
+          1  SULI       California State University-San Bernardino
+          1  SULI       California State University-Sacramento
+          1  SULI       California State University-Fresno
+          1  CCI        American River College
+          1  SULI       Biola University
+          1  CCI        Solano Community College
+          1  CCI        Mt. San Jacinto College
+          1  CCI        Skyline College
+          1  CCI        Shasta College
+          1  CCI        Santa Rosa Junior College
+          1  CCI        Santa Monica College
+          1  CCI        San Jose City College
+          1  CCI        Saddleback College
+          1  SULI       California State University-Bakersfield
+```
 ---
 ---
 <a name="CA-01"></a>
 [Back to top](#top)
 ## CA-01 -- Rep. Doug LaMalfa (R) -- [Wikipedia](https://en.wikipedia.org/wiki/CA-01)
-### Committees
-Doug LaMalfa is not on any of our key committees 
+## Committees
+Doug LaMalfa is not on any of our key committees. 
 
-### HEP Grants
+## HEP Grants
 In the past 8 years, this district has received:<b> $4,697,000 </b>in SC HEP grants.
 ```
 Institution                  Amount ($)    Start    End  Principal Investigator    Project Title
@@ -208,11 +308,11 @@ U. OF CALIFORNIA AT DAVIS        70,000     2013   2014  Tripathi               
 U. OF CALIFORNIA AT DAVIS     2,677,000     2012   2014  Conway, Ko                High Energy Particle Physics Research
 U. OF CALIFORNIA AT DAVIS        22,000     2012   2013  Tripathi                  Development of Interconnect Technologies for Particle Detectors
 ```
-### SC Contracts
+## SC Contracts
 ```
 This district received no SC contracts from 2012-2019
 ```
-### NSF MPS Grants
+## NSF MPS Grants
 In the past 8 years, this district has received:<b> $25,009,137 </b>in NSF MPS grants.
 ```
   Year  Institution                        Amount ($)
@@ -226,22 +326,29 @@ In the past 8 years, this district has received:<b> $25,009,137 </b>in NSF MPS g
   2012  PACIFIC UNION COLLEGE                  37,058
   2012  UNIVERSITY OF CALIFORNIA, DAVIS     8,276,567
 ```
+## SULI/CCI Interns
+From 2014-2016 (only years available), this district had 1 SULI/CCI intern
+```
+Term         Name              College         Host Lab                  Program
+-----------  ----------------  --------------  ------------------------  ---------
+Summer 2015  Lindsey Matheney  Shasta College  Ames National Laboratory  CCI
+```
 ---
 <a name="CA-02"></a>
 [Back to top](#top)
 ## CA-02 -- Rep. Jared Huffman (D) -- [Wikipedia](https://en.wikipedia.org/wiki/CA-02)
-### Committees
-Jared Huffman is not on any of our key committees 
+## Committees
+Jared Huffman is not on any of our key committees. 
 
-### HEP Grants
+## HEP Grants
 ```
 This district received no SC HEP grants from 2012-2019
 ```
-### SC Contracts
+## SC Contracts
 ```
 This district received no SC contracts from 2012-2019
 ```
-### NSF MPS Grants
+## NSF MPS Grants
 In the past 8 years, this district has received:<b> $920,923 </b>in NSF MPS grants.
 ```
   Year  Institution                                                Amount ($)
@@ -255,14 +362,25 @@ In the past 8 years, this district has received:<b> $920,923 </b>in NSF MPS gran
   2013  HUMBOLDT STATE UNIVERSITY SPONSORED PROGRAMS                  103,132
   2012  CSU CHICO RESEARCH FOUNDATION                                 107,534
 ```
+## SULI/CCI Interns
+From 2014-2016 (only years available), this district had 5 SULI/CCI interns
+```
+Term         Name                 College                    Host Lab                               Program
+-----------  -------------------  -------------------------  -------------------------------------  ---------
+Summer 2016  Thayer Birch         Humboldt State University  Pacific Northwest National Laboratory  SULI
+Summer 2015  Julian Antony Quick  Humboldt State University  National Renewable Energy Laboratory   SULI
+Summer 2015  Chad Wilhite         Humboldt State University  Brookhaven National Laboratory         SULI
+Summer 2014  Lindsey Smith        Humboldt State University  Brookhaven National Laboratory         SULI
+Spring 2016  Julian Antony Quick  Humboldt State University  National Renewable Energy Laboratory   SULI
+```
 ---
 <a name="CA-03"></a>
 [Back to top](#top)
 ## CA-03 -- Rep. John Garamendi (D) -- [Wikipedia](https://en.wikipedia.org/wiki/CA-03)
-### Committees
-John Garamendi is not on any of our key committees 
+## Committees
+John Garamendi is not on any of our key committees. 
 
-### HEP Grants
+## HEP Grants
 In the past 8 years, this district has received:<b> $12,665,558 </b>in SC HEP grants.
 ```
 Institution                         Amount ($)    Start  End      Principal Investigator    Project Title
@@ -278,11 +396,11 @@ University of California - Davis         5,000     2015  2017     Gunion, John  
 University of California - Davis    11,040,000     2014  Ongoing  Conway, John              Research in High Energy Physics and Cosmology at the University of California
 University of California - Davis       240,000     2014  2018     Tripathi, Mani            R&D in Interconnect Technologies and Radiation Damage Studies
 ```
-### SC Contracts
+## SC Contracts
 ```
 This district received no SC contracts from 2012-2019
 ```
-### NSF MPS Grants
+## NSF MPS Grants
 In the past 8 years, this district has received:<b> $32,341,416 </b>in NSF MPS grants.
 ```
   Year  Institution                        Amount ($)
@@ -294,41 +412,73 @@ In the past 8 years, this district has received:<b> $32,341,416 </b>in NSF MPS g
   2015  U OF CAL DAVIS                        517,469
   2015  UNIVERSITY OF CALIFORNIA, DAVIS     5,391,151
 ```
+## SULI/CCI Interns
+From 2014-2016 (only years available), this district had 19 SULI/CCI interns
+```
+Term         Name                      College                         Host Lab                                Program
+-----------  ------------------------  ------------------------------  --------------------------------------  ---------
+Summer 2016  Hasith Rajakarunanayake   University of California-Davis  Lawrence Berkeley National Laboratory   SULI
+Summer 2016  Mitchell Petures          University of California-Davis  Lawrence Berkeley National Laboratory   SULI
+Summer 2016  Jayke Samson Nguyen       University of California-Davis  Brookhaven National Laboratory          SULI
+Summer 2016  Jessi Hartman             University of California-Davis  Argonne National Laboratory             SULI
+Summer 2015  Navneet Dhaliwal          University of California-Davis  Brookhaven National Laboratory          SULI
+Summer 2015  Andre Gaglianone Miranda  University of California-Davis  SLAC National Accelerator Laboratory    SULI
+Summer 2015  Emma Julliette Willard    Yuba College                    General Atomics / DIII-D                SULI
+Summer 2015  Hamza Ammar               University of California-Davis  Lawrence Berkeley National Laboratory   SULI
+Summer 2015  Sarah de Bord             University of California-Davis  Sandia National Laboratory              SULI
+Summer 2015  Doniko Kingi              University of California-Davis  Lawrence Livermore National Laboratory  SULI
+Summer 2014  Sergio Banuelos           Yuba College                    SLAC National Accelerator Laboratory    SULI
+Summer 2014  Adrianna Amsden           University of California-Davis  Los Alamos National Laboratory          SULI
+Summer 2014  Kathryn Dahlgren          University of California-Davis  Sandia National Laboratory              SULI
+Summer 2014  Jamie Yates               University of California-Davis  Argonne National Laboratory             SULI
+Summer 2014  Daniel James Nilson       University of California-Davis  Lawrence Livermore National Laboratory  SULI
+Summer 2014  Perry Leong               University of California-Davis  SLAC National Accelerator Laboratory    SULI
+Summer 2014  Bryan Lee                 University of California-Davis  Lawrence Livermore National Laboratory  SULI
+Summer 2014  Andre Gaglianone Miranda  Solano Community College        SLAC National Accelerator Laboratory    CCI
+Spring 2015  Evan Racah                University of California-Davis  Lawrence Berkeley National Laboratory   SULI
+```
 ---
 <a name="CA-04"></a>
 [Back to top](#top)
 ## CA-04 -- Rep. Tom McClintock (R) -- [Wikipedia](https://en.wikipedia.org/wiki/CA-04)
-### Committees
-Tom McClintock is not on any of our key committees 
+## Committees
+Tom McClintock is not on any of our key committees. 
 
-### HEP Grants
+## HEP Grants
 ```
 This district received no SC HEP grants from 2012-2019
 ```
-### SC Contracts
+## SC Contracts
 ```
 This district received no SC contracts from 2012-2019
 ```
-### NSF MPS Grants
+## NSF MPS Grants
 ```
 This district received no NSF MPS grants from 2012-2019
+```
+## SULI/CCI Interns
+From 2014-2016 (only years available), this district had 1 SULI/CCI intern
+```
+Term         Name            College         Host Lab                               Program
+-----------  --------------  --------------  -------------------------------------  ---------
+Summer 2014  Rehan Raiyyani  Sierra College  Lawrence Berkeley National Laboratory  SULI
 ```
 ---
 <a name="CA-05"></a>
 [Back to top](#top)
 ## CA-05 -- Rep. Mike Thompson (D) -- [Wikipedia](https://en.wikipedia.org/wiki/CA-05)
-### Committees
-Mike Thompson is not on any of our key committees 
+## Committees
+Mike Thompson is not on any of our key committees. 
 
-### HEP Grants
+## HEP Grants
 ```
 This district received no SC HEP grants from 2012-2019
 ```
-### SC Contracts
+## SC Contracts
 ```
 This district received no SC contracts from 2012-2019
 ```
-### NSF MPS Grants
+## NSF MPS Grants
 In the past 8 years, this district has received:<b> $1,020,047 </b>in NSF MPS grants.
 ```
   Year  Institution                            Amount ($)
@@ -343,22 +493,32 @@ In the past 8 years, this district has received:<b> $1,020,047 </b>in NSF MPS gr
   2014  CALIFORNIA STATE UNIVERSITY               310,000
   2013  CALIFORNIA STATE UNIVERSITY               100,000
 ```
+## SULI/CCI Interns
+From 2014-2016 (only years available), this district had 4 SULI/CCI interns
+```
+Term         Name               College                    Host Lab                                Program
+-----------  -----------------  -------------------------  --------------------------------------  ---------
+Summer 2016  Sarah Castorena    Napa Valley College        Sandia National Laboratory              CCI
+Summer 2016  Klaire Hubbard     Napa Valley College        Brookhaven National Laboratory          CCI
+Summer 2014  Alexander Delzell  Santa Rosa Junior College  Sandia National Laboratory              CCI
+Spring 2014  fujun bernie       Sonoma State University    Lawrence Livermore National Laboratory  SULI
+```
 ---
 <a name="CA-06"></a>
 [Back to top](#top)
 ## CA-06 -- Rep. Doris O. Matsui (D) -- [Wikipedia](https://en.wikipedia.org/wiki/CA-06)
-### Committees
+## Committees
 Doris O. Matsui is the #9 Democrat on the House Committee on Energy and Commerce 
 
-### HEP Grants
+## HEP Grants
 ```
 This district received no SC HEP grants from 2012-2019
 ```
-### SC Contracts
+## SC Contracts
 ```
 This district received no SC contracts from 2012-2019
 ```
-### NSF MPS Grants
+## NSF MPS Grants
 In the past 8 years, this district has received:<b> $939,202 </b>in NSF MPS grants.
 ```
   Year  Institution                     Amount ($)
@@ -368,41 +528,58 @@ In the past 8 years, this district has received:<b> $939,202 </b>in NSF MPS gran
   2015  UNIVERSITY ENTERPRISES, INC.       120,000
   2012  CALIFORNIA STATE UNIVERSITY        100,000
 ```
+## SULI/CCI Interns
+From 2014-2016 (only years available), this district had 7 SULI/CCI interns
+```
+Term         Name                   College                                 Host Lab                                Program
+-----------  ---------------------  --------------------------------------  --------------------------------------  ---------
+Summer 2015  Allison Lo             Sacramento City College                 SLAC National Accelerator Laboratory    SULI
+Summer 2015  Steven Henry Robinson  Sacramento City College                 Fermi National Accelerator Laboratory   CCI
+Summer 2015  Don Huynh              American River College                  Lawrence Berkeley National Laboratory   CCI
+Spring 2016  Steven Henry Robinson  Sacramento City College                 Lawrence Berkeley National Laboratory   CCI
+Spring 2016  Avneet Singh           Sacramento City College                 Lawrence Berkeley National Laboratory   CCI
+Spring 2015  Hector Garcia Lomeli   California State University-Sacramento  Lawrence Livermore National Laboratory  SULI
+Fall 2014    Pui Ching Lan          Sacramento City College                 Lawrence Livermore National Laboratory  SULI
+```
 ---
 <a name="CA-07"></a>
 [Back to top](#top)
 ## CA-07 -- Rep. Ami Bera (D) -- [Wikipedia](https://en.wikipedia.org/wiki/CA-07)
-### Committees
+## Committees
 Ami Bera is the #5 Democrat on the House Committee on Science, Space, and Technology 
 
-### HEP Grants
+## HEP Grants
 ```
 This district received no SC HEP grants from 2012-2019
 ```
-### SC Contracts
+## SC Contracts
 ```
 This district received no SC contracts from 2012-2019
 ```
-### NSF MPS Grants
+## NSF MPS Grants
 ```
 This district received no NSF MPS grants from 2012-2019
+```
+## SULI/CCI Interns
+```
+This district had no SULI/CCI interns from 2014-2016 (only years available)
 ```
 ---
 <a name="CA-08"></a>
 [Back to top](#top)
 ## CA-08 -- Rep. Paul Cook (R) -- [Wikipedia](https://en.wikipedia.org/wiki/CA-08)
-### Committees
-Paul Cook is not on any of our key committees 
+## Committees
+Paul Cook is not on any of our key committees. 
 
-### HEP Grants
+## HEP Grants
 ```
 This district received no SC HEP grants from 2012-2019
 ```
-### SC Contracts
+## SC Contracts
 ```
 This district received no SC contracts from 2012-2019
 ```
-### NSF MPS Grants
+## NSF MPS Grants
 In the past 8 years, this district has received:<b> $2,247,329 </b>in NSF MPS grants.
 ```
   Year  Institution                                    Amount ($)
@@ -416,18 +593,26 @@ In the past 8 years, this district has received:<b> $2,247,329 </b>in NSF MPS gr
   2012  UNIVERSITY OF CALIFORNIA, SAN FRANCISCO           110,000
   2012  UNIVERSITY OF SAN FRANCISCO INC                    68,617
 ```
+## SULI/CCI Interns
+From 2014-2016 (only years available), this district had 2 SULI/CCI interns
+```
+Term         Name              College                         Host Lab                               Program
+-----------  ----------------  ------------------------------  -------------------------------------  ---------
+Summer 2016  Miller Schweiger  Marshalltown Community College  Ames National Laboratory               CCI
+Summer 2014  Maria Winters     Crafton Hills College           Pacific Northwest National Laboratory  CCI
+```
 ---
 <a name="CA-09"></a>
 [Back to top](#top)
 ## CA-09 -- Rep. Jerry McNerney (D) -- [Wikipedia](https://en.wikipedia.org/wiki/CA-09)
-### Committees
+## Committees
 Jerry McNerney is the #6 Democrat on the House Committee on Science, Space, and Technology; Subcommittee on Energy 
 
 Jerry McNerney is the #13 Democrat on the House Committee on Science, Space, and Technology 
 
 Jerry McNerney is the #12 Democrat on the House Committee on Energy and Commerce 
 
-### HEP Grants
+## HEP Grants
 In the past 8 years, this district has received:<b> $866,000 </b>in SC HEP grants.
 ```
 Institution                     Amount ($)    Start    End  Principal Investigator    Project Title
@@ -437,7 +622,7 @@ U. OF CALIFORNIA AT BERKELEY       285,000     2012   2014  Leemans             
 U. OF CALIFORNIA AT BERKELEY       206,000     2012   2014  Linder                    Cosmic Growth Rate as Probe of Dark Matter and Gravity
 U. OF CALIFORNIA AT BERKELEY       375,000     2012   2014  Wurtele                   Advanced Concepts for Ultrahigh Brightness and Low Temperature Beams
 ```
-### SC Contracts
+## SC Contracts
 In the past 8 years, this district has received:
 4 Office of Science contracts, totalling <b> $998,418,144</b>
 ```
@@ -448,7 +633,7 @@ In the past 8 years, this district has received:
   2012  HLC GROUP INC                                              5,035  EDUCATION/TRAINING- TRAINING/CURRICULUM DEVELOPMENT
   2012  THE REGENTS OF THE UNIVERSITY OF CALIFORNIA (1741)   727,532,614  OPER OF GOVT R&D GOCO FACILITIES
 ```
-### NSF MPS Grants
+## NSF MPS Grants
 In the past 8 years, this district has received:<b> $30,840,230 </b>in NSF MPS grants.
 ```
   Year  Institution                                     Amount ($)
@@ -464,41 +649,58 @@ In the past 8 years, this district has received:<b> $30,840,230 </b>in NSF MPS g
   2012  MATHEMATICAL SCIENCES RESEARCH INSTITUTE         4,805,747
   2012  REGENTS OF THE UNIVERSITY OF CALIFORNIA, THE    24,206,519
 ```
+## SULI/CCI Interns
+From 2014-2016 (only years available), this district had 4 SULI/CCI interns
+```
+Term         Name                        College                    Host Lab                                Program
+-----------  --------------------------  -------------------------  --------------------------------------  ---------
+Summer 2016  Carolina Celeste Gutierrez  San Joaquin Delta College  Lawrence Berkeley National Laboratory   CCI
+Summer 2016  Cynthia Ruiz                San Joaquin Delta College  Lawrence Berkeley National Laboratory   CCI
+Summer 2014  Timothy Lee                 University of the Pacific  Lawrence Livermore National Laboratory  SULI
+Spring 2015  Charles Cameron Cornell     University of the Pacific  Lawrence Livermore National Laboratory  SULI
+```
 ---
 <a name="CA-10"></a>
 [Back to top](#top)
 ## CA-10 -- Rep. Josh Harder (D) -- [Wikipedia](https://en.wikipedia.org/wiki/CA-10)
-### Committees
+## Committees
 Josh Harder is the #10 Democrat on the House Subcommittee on Higher Education and Workforce Development 
 
-### HEP Grants
+## HEP Grants
 ```
 This district received no SC HEP grants from 2012-2019
 ```
-### SC Contracts
+## SC Contracts
 ```
 This district received no SC contracts from 2012-2019
 ```
-### NSF MPS Grants
+## NSF MPS Grants
 ```
 This district received no NSF MPS grants from 2012-2019
+```
+## SULI/CCI Interns
+From 2014-2016 (only years available), this district had 1 SULI/CCI intern
+```
+Term       Name              College                                 Host Lab                               Program
+---------  ----------------  --------------------------------------  -------------------------------------  ---------
+Fall 2015  Gabi Shana David  California State University-Stanislaus  Lawrence Berkeley National Laboratory  SULI
 ```
 ---
 <a name="CA-11"></a>
 [Back to top](#top)
 ## CA-11 -- Rep. Mark DeSaulnier (D) -- [Wikipedia](https://en.wikipedia.org/wiki/CA-11)
-### Committees
+## Committees
 Mark DeSaulnier is the #7 Democrat on the House Subcommittee on Early Childhood, Elementary, and Secondary Education 
 
-### HEP Grants
+## HEP Grants
 ```
 This district received no SC HEP grants from 2012-2019
 ```
-### SC Contracts
+## SC Contracts
 ```
 This district received no SC contracts from 2012-2019
 ```
-### NSF MPS Grants
+## NSF MPS Grants
 In the past 8 years, this district has received:<b> $330,000 </b>in NSF MPS grants.
 ```
   Year  Institution              Amount ($)
@@ -506,14 +708,29 @@ In the past 8 years, this district has received:<b> $330,000 </b>in NSF MPS gran
   2018  PII REDACTED                150,000
   2012  UNIVERSITY OF PACIFIC       180,000
 ```
+## SULI/CCI Interns
+From 2014-2016 (only years available), this district had 9 SULI/CCI interns
+```
+Term         Name                  College                Host Lab                                Program
+-----------  --------------------  ---------------------  --------------------------------------  ---------
+Summer 2016  Aigerim Daniyar       Contra Costa College   Lawrence Berkeley National Laboratory   CCI
+Summer 2016  Amritpal Kaur         Contra Costa College   Lawrence Berkeley National Laboratory   CCI
+Summer 2016  Tohid Saeed Moradi    Contra Costa College   Lawrence Berkeley National Laboratory   CCI
+Summer 2015  DUY MASUNO            Contra Costa College   Lawrence Berkeley National Laboratory   SULI
+Summer 2015  Jessica Isabell Shaw  Contra Costa College   Lawrence Livermore National Laboratory  SULI
+Summer 2014  Amanuel Gebreyesus    Contra Costa College   Lawrence Berkeley National Laboratory   CCI
+Summer 2014  Luis Mojica           Los Medanos College    Lawrence Berkeley National Laboratory   CCI
+Summer 2014  Emmanuel Valenton     Diablo Valley College  Sandia National Laboratory              CCI
+Spring 2016  Alejandro Romero      Contra Costa College   Lawrence Berkeley National Laboratory   SULI
+```
 ---
 <a name="CA-12"></a>
 [Back to top](#top)
 ## CA-12 -- Rep. Nancy Pelosi (D) -- [Wikipedia](https://en.wikipedia.org/wiki/CA-12)
-### Committees
-Nancy Pelosi is not on any of our key committees 
+## Committees
+Nancy Pelosi is not on any of our key committees. 
 
-### HEP Grants
+## HEP Grants
 In the past 8 years, this district has received:<b> $385,000 </b>in SC HEP grants.
 ```
 Institution                       Amount ($)    Start    End  Principal Investigator    Project Title
@@ -521,11 +738,11 @@ Institution                       Amount ($)    Start    End  Principal Investig
 SAN FRANCISCO STATE UNIVERSITY       280,000     2012   2014  Greensite                 Research in Theoretical High Energy Physics
 SAN FRANCISCO STATE UNIVERSITY       105,000     2012   2014  Unsal                     Non-Perturbative Aspects of Thermal QCD
 ```
-### SC Contracts
+## SC Contracts
 ```
 This district received no SC contracts from 2012-2019
 ```
-### NSF MPS Grants
+## NSF MPS Grants
 In the past 8 years, this district has received:<b> $4,230,900 </b>in NSF MPS grants.
 ```
   Year  Institution                                                    Amount ($)
@@ -541,14 +758,18 @@ In the past 8 years, this district has received:<b> $4,230,900 </b>in NSF MPS gr
   2013  UNIVERSITY OF SAN FRANCISCO INC                                   163,985
   2012  SAN FRANCISCO STATE UNIVERSITY                                  1,169,730
 ```
+## SULI/CCI Interns
+```
+This district had no SULI/CCI interns from 2014-2016 (only years available)
+```
 ---
 <a name="CA-13"></a>
 [Back to top](#top)
 ## CA-13 -- Rep. Barbara Lee (D) -- [Wikipedia](https://en.wikipedia.org/wiki/CA-13)
-### Committees
+## Committees
 Barbara Lee is the #9 Democrat on the House Committee on Appropriations 
 
-### HEP Grants
+## HEP Grants
 In the past 8 years, this district has received:<b> $2,999,000 </b>in SC HEP grants.
 ```
 Institution                            Amount ($)    Start  End      Principal Investigator    Project Title
@@ -562,7 +783,7 @@ University of California - Berkeley       147,000     2014  2015     Leemans, Wi
 University of California - Berkeley       107,000     2014  Ongoing  Linder, Eric              Cosmic Growth Rate as Probe of Dark Matter and Gravity
 University of California - Berkeley       255,000     2014  2016     Wurtele, Jonathan         Advanced Concepts for Ultrahigh Brightness and Low Temperature Beams
 ```
-### SC Contracts
+## SC Contracts
 In the past 8 years, this district has received:
 5 Office of Science contracts, totalling <b> $5,213,775,957</b>
 ```
@@ -574,7 +795,7 @@ LOCKWOOD HILLS FEDERAL, LLC                               383,055  SUPPORT- PROF
 LOCKWOOD HILLS FEDERAL, LLC                               188,700  SUPPORT- ADMINISTRATIVE: OTHER
 JOAN E  CAPRIGLIONE                                        15,134  SUPPORT- PROFESSIONAL: OTHER
 ```
-### NSF MPS Grants
+## NSF MPS Grants
 In the past 8 years, this district has received:<b> $158,411,843 </b>in NSF MPS grants.
 ```
   Year  Institution                                      Amount ($)
@@ -600,14 +821,90 @@ In the past 8 years, this district has received:<b> $158,411,843 </b>in NSF MPS 
   2013  MATHEMATICAL SCIENCES RESEARCH INSTITUTE          4,672,605
   2012  CALIFORNIA STATE UNIVERSITY EAST BAY FOUNDATI        67,020
 ```
+## SULI/CCI Interns
+From 2014-2016 (only years available), this district had 70 SULI/CCI interns
+```
+Term         Name                        College                            Host Lab                                Program
+-----------  --------------------------  ---------------------------------  --------------------------------------  ---------
+Summer 2016  Ashley Elizabeth Cronk      Berkeley City College              Lawrence Berkeley National Laboratory   CCI
+Summer 2016  Danika Katherine Nimlos     University of California-Berkeley  Oak Ridge National Laboratory           SULI
+Summer 2016  Alexander Chuang            University of California-Berkeley  Ames National Laboratory                SULI
+Summer 2016  Joseph Labrum               University of California-Berkeley  Princeton Plasma Physics Laboratory     SULI
+Summer 2016  Anna I Leskova              University of California-Berkeley  SLAC National Accelerator Laboratory    SULI
+Summer 2016  Ken Jun Lim                 University of California-Berkeley  Idaho National Laboratory               SULI
+Summer 2016  Duy Masuno                  University of California-Berkeley  Lawrence Berkeley National Laboratory   SULI
+Summer 2016  Halley Radhika Nathwani     University of California-Berkeley  National Renewable Energy Laboratory    SULI
+Summer 2016  Vy Ngo                      University of California-Berkeley  Lawrence Berkeley National Laboratory   SULI
+Summer 2016  Jason Liu                   University of California-Berkeley  Lawrence Livermore National Laboratory  SULI
+Summer 2016  Anne Rosen                  University of California-Berkeley  Lawrence Berkeley National Laboratory   SULI
+Summer 2016  Emmanuel Valenton           University of California-Berkeley  Sandia National Laboratory              SULI
+Summer 2016  Jonathan Wang               University of California-Berkeley  Lawrence Berkeley National Laboratory   SULI
+Summer 2016  Kevin Wu                    University of California-Berkeley  National Renewable Energy Laboratory    SULI
+Summer 2016  Maria Guadalupe Young       University of California-Berkeley  Oak Ridge National Laboratory           SULI
+Summer 2016  William Maxwell Wallace     Laney College                      Princeton Plasma Physics Laboratory     CCI
+Summer 2015  Ian Rachmiel Jones          University of California-Berkeley  Pacific Northwest National Laboratory   SULI
+Summer 2015  William Maxwell Wallace     Laney College                      Princeton Plasma Physics Laboratory     CCI
+Summer 2015  Van Thi Hong Vu             University of California-Berkeley  Lawrence Berkeley National Laboratory   SULI
+Summer 2015  Pascal Polonik              University of California-Berkeley  Lawrence Berkeley National Laboratory   SULI
+Summer 2015  Alison Ong                  University of California-Berkeley  SLAC National Accelerator Laboratory    SULI
+Summer 2015  Brandon Scott McKinzie      University of California-Berkeley  Brookhaven National Laboratory          SULI
+Summer 2015  Jacob Maddox                University of California-Berkeley  Princeton Plasma Physics Laboratory     SULI
+Summer 2015  Michelle Victoria Koo       University of California-Berkeley  Lawrence Berkeley National Laboratory   SULI
+Summer 2015  Michael Anthony Knyszek     University of California-Berkeley  Princeton Plasma Physics Laboratory     SULI
+Summer 2015  Stefan Christian Klein      University of California-Berkeley  National Renewable Energy Laboratory    SULI
+Summer 2015  Jon Weiner                  University of California-Berkeley  Oak Ridge National Laboratory           SULI
+Summer 2015  Vince Hipwell               University of California-Berkeley  Lawrence Berkeley National Laboratory   SULI
+Summer 2015  John Mehmet Dagdelen        University of California-Berkeley  National Renewable Energy Laboratory    SULI
+Summer 2015  Connie Chen                 University of California-Berkeley  Sandia National Laboratory              SULI
+Summer 2015  Lauren Capelluto            University of California-Berkeley  Brookhaven National Laboratory          SULI
+Summer 2015  Xiuwen Cao                  University of California-Berkeley  Lawrence Berkeley National Laboratory   SULI
+Summer 2015  Chaitanya Aluru             University of California-Berkeley  Lawrence Berkeley National Laboratory   SULI
+Summer 2015  Narayan Shyamal Gopinathan  University of California-Berkeley  Lawrence Berkeley National Laboratory   SULI
+Summer 2014  Jeronimo Mora               Laney College                      Lawrence Livermore National Laboratory  CCI
+Summer 2014  Daniel Hwai-en Hsieh        University of California-Berkeley  Lawrence Berkeley National Laboratory   SULI
+Summer 2014  Tom (Tien Wei) Lee          University of California-Berkeley  Lawrence Berkeley National Laboratory   SULI
+Summer 2014  Samuel McAlpine             University of California-Berkeley  Lawrence Livermore National Laboratory  SULI
+Summer 2014  Kristi Michelle Short       Mills College                      Ames National Laboratory                SULI
+Summer 2014  Jenine Hassoun              University of California-Berkeley  Lawrence Berkeley National Laboratory   SULI
+Summer 2014  Gabriel John Pillitiere     Laney College                      Oak Ridge National Laboratory           CCI
+Summer 2014  Dominique Yancey Piens      Laney College                      Lawrence Berkeley National Laboratory   CCI
+Summer 2014  Dennis Yu                   College of Alameda                 Lawrence Berkeley National Laboratory   CCI
+Spring 2016  Benjamin Peter Leroy        University of California-Berkeley  Lawrence Berkeley National Laboratory   SULI
+Spring 2016  Manuel Silva                University of California-Berkeley  Lawrence Berkeley National Laboratory   SULI
+Spring 2016  Tom (Tien Wei) Lee          University of California-Berkeley  Lawrence Livermore National Laboratory  SULI
+Spring 2015  Joel Grebel                 University of California-Berkeley  Argonne National Laboratory             SULI
+Spring 2015  Nicholas Englund            University of California-Berkeley  Lawrence Berkeley National Laboratory   SULI
+Spring 2015  Chun Man Chow               University of California-Berkeley  Argonne National Laboratory             SULI
+Spring 2015  Abelardo Arellano           University of California-Berkeley  Lawrence Berkeley National Laboratory   SULI
+Spring 2015  Jillian Kimberly Steele     Mills College                      Lawrence Berkeley National Laboratory   SULI
+Spring 2015  Darwin Zwissler             University of California-Berkeley  Lawrence Livermore National Laboratory  SULI
+Spring 2014  Andrew Brian Pun            University of California-Berkeley  Lawrence Berkeley National Laboratory   SULI
+Spring 2014  Jae Ho Lee                  University of California-Berkeley  Lawrence Berkeley National Laboratory   SULI
+Spring 2014  Jerry Lin                   University of California-Berkeley  Pacific Northwest National Laboratory   SULI
+Spring 2014  Karen Chong                 University of California-Berkeley  Lawrence Berkeley National Laboratory   SULI
+Spring 2014  Maris Arthurs               University of California-Berkeley  Lawrence Berkeley National Laboratory   SULI
+Spring 2014  Richard Beck                University of California-Berkeley  Lawrence Livermore National Laboratory  SULI
+Fall 2015    April M Dawoud              Laney College                      Lawrence Berkeley National Laboratory   SULI
+Fall 2015    Dianne Quiroz               University of California-Berkeley  Lawrence Berkeley National Laboratory   SULI
+Fall 2015    Jacob Maddox                University of California-Berkeley  Princeton Plasma Physics Laboratory     SULI
+Fall 2015    Jason Liu                   University of California-Berkeley  Lawrence Livermore National Laboratory  SULI
+Fall 2015    YAN LEI                     University of California-Berkeley  Lawrence Berkeley National Laboratory   SULI
+Fall 2015    Suhas Ganjam                University of California-Berkeley  Lawrence Berkeley National Laboratory   SULI
+Fall 2014    Abelardo Arellano           University of California-Berkeley  Lawrence Berkeley National Laboratory   SULI
+Fall 2014    William James Connacher     University of California-Berkeley  Argonne National Laboratory             SULI
+Fall 2014    Jillian Kimberly Steele     Mills College                      Lawrence Berkeley National Laboratory   SULI
+Fall 2014    Nicholas Englund            University of California-Berkeley  Lawrence Berkeley National Laboratory   SULI
+Fall 2014    Adam Lowery                 Lincoln University                 Brookhaven National Laboratory          SULI
+Fall 2014    Darwin Zwissler             University of California-Berkeley  Lawrence Livermore National Laboratory  SULI
+```
 ---
 <a name="CA-14"></a>
 [Back to top](#top)
 ## CA-14 -- Rep. Jackie Speier (D) -- [Wikipedia](https://en.wikipedia.org/wiki/CA-14)
-### Committees
-Jackie Speier is not on any of our key committees 
+## Committees
+Jackie Speier is not on any of our key committees. 
 
-### HEP Grants
+## HEP Grants
 In the past 8 years, this district has received:<b> $4,920,000 </b>in SC HEP grants.
 ```
 Institution                       Amount ($)    Start  End      Principal Investigator    Project Title
@@ -624,7 +921,7 @@ STANFORD UNIVERSITY                1,365,000     2012  2013     Cabrera, Gratta 
 STANFORD UNIVERSITY                  300,000     2012  2014     Hartnoll                  Holography, Gravity and Condensed Matter
 STANFORD UNIVERSITY                  300,000     2012  2014     Senatore                  From Cosmological Observations to Fundamental Interactions
 ```
-### SC Contracts
+## SC Contracts
 In the past 8 years, this district has received:
 4 Office of Science contracts, totalling <b> $481,047,246</b>
 ```
@@ -636,7 +933,7 @@ In the past 8 years, this district has received:
   2012  ANNUAL REVIEWS, INC.                                13,472  NEWSPAPERS AND PERIODICALS
   2012  STANFORD UNIVERSITY                            336,995,612  OPER OF GOVT R&D GOCO FACILITIES
 ```
-### NSF MPS Grants
+## NSF MPS Grants
 In the past 8 years, this district has received:<b> $36,654,160 </b>in NSF MPS grants.
 ```
   Year  Institution                               Amount ($)
@@ -653,18 +950,38 @@ In the past 8 years, this district has received:<b> $36,654,160 </b>in NSF MPS g
   2012  SETI INSTITUTE                                96,379
   2012  SRI INTERNATIONAL                         10,613,289
 ```
+## SULI/CCI Interns
+From 2014-2016 (only years available), this district had 14 SULI/CCI interns
+```
+Term         Name                           College                         Host Lab                               Program
+-----------  -----------------------------  ------------------------------  -------------------------------------  ---------
+Summer 2016  Katherine Dunne                City College of San Francisco   Lawrence Berkeley National Laboratory  CCI
+Summer 2016  Alycia Kaplan                  City College of San Francisco   SLAC National Accelerator Laboratory   CCI
+Summer 2016  Alexander Jesse Gillanders     San Francisco State University  Lawrence Berkeley National Laboratory  SULI
+Summer 2016  Megan Louise Mayer             San Francisco State University  Ames National Laboratory               SULI
+Summer 2015  Quan My Tran                   Skyline College                 Idaho National Laboratory              SULI
+Summer 2015  Miguel Antonio Torres Bernabe  College of San Mateo            Lawrence Berkeley National Laboratory  CCI
+Summer 2015  Victor Raul Chacon             College of San Mateo            Lawrence Berkeley National Laboratory  CCI
+Summer 2015  Austin Djang                   College of San Mateo            SLAC National Accelerator Laboratory   CCI
+Summer 2014  Alexandra Saari                City College of San Francisco   Los Alamos National Laboratory         SULI
+Summer 2014  Roger Edward Monroy            City College of San Francisco   SLAC National Accelerator Laboratory   CCI
+Summer 2014  Mejdi Mogannam                 Skyline College                 Lawrence Berkeley National Laboratory  CCI
+Summer 2014  Heriberto Rodriguez            College of San Mateo            Lawrence Berkeley National Laboratory  CCI
+Spring 2016  Lauren Fletcher                San Francisco State University  Pacific Northwest National Laboratory  SULI
+Fall 2015    Megan Farley                   City College of San Francisco   Lawrence Berkeley National Laboratory  SULI
+```
 ---
 <a name="CA-15"></a>
 [Back to top](#top)
 ## CA-15 -- Rep. Eric Swalwell (D) -- [Wikipedia](https://en.wikipedia.org/wiki/CA-15)
-### Committees
-Eric Swalwell is not on any of our key committees 
+## Committees
+Eric Swalwell is not on any of our key committees. 
 
-### HEP Grants
+## HEP Grants
 ```
 This district received no SC HEP grants from 2012-2019
 ```
-### SC Contracts
+## SC Contracts
 In the past 8 years, this district has received:
 1 Office of Science contracts, totalling <b> $6,262</b>
 ```
@@ -672,7 +989,7 @@ In the past 8 years, this district has received:
 ------  ----------  ------------  -------------------------
   2012  APPLE INC.         6,262  ADPE SYSTEM CONFIGURATION
 ```
-### NSF MPS Grants
+## NSF MPS Grants
 In the past 8 years, this district has received:<b> $967,252 </b>in NSF MPS grants.
 ```
   Year  Institution                                        Amount ($)
@@ -684,22 +1001,37 @@ In the past 8 years, this district has received:<b> $967,252 </b>in NSF MPS gran
   2013  CALIFORNIA STATE UNIVERSITY EAST BAY FOUNDATI         109,141
   2012  PRESIDENT AND BOARD OF TRUSTEES OF SANTA CLAR          39,015
 ```
+## SULI/CCI Interns
+From 2014-2016 (only years available), this district had 9 SULI/CCI interns
+```
+Term         Name              College                               Host Lab                                Program
+-----------  ----------------  ------------------------------------  --------------------------------------  ---------
+Summer 2016  Komal Rana        California State University-East Bay  Pacific Northwest National Laboratory   SULI
+Summer 2016  Aaron Czeszynski  Las Positas College                   Sandia National Laboratory              CCI
+Summer 2016  Jorge Ligeti      Las Positas College                   Lawrence Livermore National Laboratory  CCI
+Summer 2015  Ian Wei Ging Liu  Las Positas College                   Sandia National Laboratory              CCI
+Summer 2014  satinder singh    California State University-East Bay  Lawrence Berkeley National Laboratory   SULI
+Summer 2014  Logan Bekker      Las Positas College                   Lawrence Livermore National Laboratory  CCI
+Summer 2014  Samira Iqbal      Las Positas College                   Sandia National Laboratory              CCI
+Summer 2014  Pritvi Raj Kumar  Las Positas College                   Sandia National Laboratory              CCI
+Spring 2015  Efrain Cuellar    Chabot College                        Lawrence Berkeley National Laboratory   SULI
+```
 ---
 <a name="CA-16"></a>
 [Back to top](#top)
 ## CA-16 -- Rep. Jim Costa (D) -- [Wikipedia](https://en.wikipedia.org/wiki/CA-16)
-### Committees
-Jim Costa is not on any of our key committees 
+## Committees
+Jim Costa is not on any of our key committees. 
 
-### HEP Grants
+## HEP Grants
 ```
 This district received no SC HEP grants from 2012-2019
 ```
-### SC Contracts
+## SC Contracts
 ```
 This district received no SC contracts from 2012-2019
 ```
-### NSF MPS Grants
+## NSF MPS Grants
 In the past 8 years, this district has received:<b> $7,618,128 </b>in NSF MPS grants.
 ```
   Year  Institution                                          Amount ($)
@@ -716,14 +1048,30 @@ In the past 8 years, this district has received:<b> $7,618,128 </b>in NSF MPS gr
   2013  UNIVERSITY OF CALIFORNIA MERCED                       1,241,709
   2012  SAN JOSE STATE UNIVERSITY RESEARCH FOUNDATION           220,000
 ```
+## SULI/CCI Interns
+From 2014-2016 (only years available), this district had 10 SULI/CCI interns
+```
+Term         Name                        College                            Host Lab                                Program
+-----------  --------------------------  ---------------------------------  --------------------------------------  ---------
+Summer 2016  Salvatore Thomas Angrisani  University of California - Merced  Argonne National Laboratory             SULI
+Summer 2015  John Angelo Cronin          University of California - Merced  Lawrence Berkeley National Laboratory   SULI
+Summer 2015  Dylan Lee Dahlquist         University of California - Merced  Lawrence Livermore National Laboratory  SULI
+Summer 2015  Kalvin Ogbuefi              University of California - Merced  National Renewable Energy Laboratory    SULI
+Summer 2014  Forrest Martin Angle        University of California - Merced  National Renewable Energy Laboratory    SULI
+Spring 2016  Timothy Clopp               University of California - Merced  Argonne National Laboratory             SULI
+Spring 2016  Sameet Singh                Fresno City College                Brookhaven National Laboratory          CCI
+Spring 2015  Ashley LaDonna Hall         University of California - Merced  Lawrence Livermore National Laboratory  SULI
+Spring 2015  Jenny Pang                  University of California - Merced  Lawrence Berkeley National Laboratory   SULI
+Fall 2015    Kalvin Ogbuefi              University of California - Merced  Idaho National Laboratory               SULI
+```
 ---
 <a name="CA-17"></a>
 [Back to top](#top)
 ## CA-17 -- Rep. Ro Khanna (D) -- [Wikipedia](https://en.wikipedia.org/wiki/CA-17)
-### Committees
-Ro Khanna is not on any of our key committees 
+## Committees
+Ro Khanna is not on any of our key committees. 
 
-### HEP Grants
+## HEP Grants
 In the past 8 years, this district has received:<b> $5,381,000 </b>in SC HEP grants.
 ```
 Institution                       Amount ($)    Start    End  Principal Investigator    Project Title
@@ -736,7 +1084,7 @@ U. OF CALIFORNIA AT SANTA CRUZ        10,000     2012   2013  Primack           
 U. OF CALIFORNIA AT SANTA CRUZ     2,847,000     2012   2014  Ritz, Seiden              Research in High Energy Physics
 U. OF CALIFORNIA AT SANTA CRUZ             0     2012   2013  Woosley                   SciDAC: Computational Astrophysics Consortium: 3 Supernovae, Gamma Ray Bursts, and Nucleosynthesis
 ```
-### SC Contracts
+## SC Contracts
 In the past 8 years, this district has received:
 1 Office of Science contracts, totalling <b> $15,576</b>
 ```
@@ -744,7 +1092,7 @@ In the past 8 years, this district has received:
 ------  -------------------------------  ------------  -------------------------------
   2016  NEW TECH SOLUTIONS INCORPORATED        15,576  INFORMATION TECHNOLOGY SOFTWARE
 ```
-### NSF MPS Grants
+## NSF MPS Grants
 In the past 8 years, this district has received:<b> $11,443,188 </b>in NSF MPS grants.
 ```
   Year  Institution                                               Amount ($)
@@ -759,14 +1107,25 @@ In the past 8 years, this district has received:<b> $11,443,188 </b>in NSF MPS g
   2013  UNIVERSITY OF CALIFORNIA, SANTA CRUZ                         444,009
   2012  UNIVERSITY OF CALIFORNIA, SANTA CRUZ                       4,733,020
 ```
+## SULI/CCI Interns
+From 2014-2016 (only years available), this district had 5 SULI/CCI interns
+```
+Term         Name                     College                 Host Lab                                Program
+-----------  -----------------------  ----------------------  --------------------------------------  ---------
+Summer 2016  Melissa Robin Ng         Ohlone College          Lawrence Livermore National Laboratory  CCI
+Summer 2016  Chance Alexander Shore   Ohlone College          Lawrence Berkeley National Laboratory   CCI
+Summer 2015  Adrienne Fernandez Tina  Santa Clara University  SLAC National Accelerator Laboratory    SULI
+Summer 2015  Vy Ngo                   Mission College         Lawrence Berkeley National Laboratory   CCI
+Summer 2014  Colin Nguyen             De Anza College         Lawrence Berkeley National Laboratory   CCI
+```
 ---
 <a name="CA-18"></a>
 [Back to top](#top)
 ## CA-18 -- Rep. Anna G. Eshoo (D) -- [Wikipedia](https://en.wikipedia.org/wiki/CA-18)
-### Committees
+## Committees
 Anna G. Eshoo is the #3 Democrat on the House Committee on Energy and Commerce 
 
-### HEP Grants
+## HEP Grants
 In the past 8 years, this district has received:<b> $6,274,000 </b>in SC HEP grants.
 ```
 Institution            Amount ($)    Start  End      Principal Investigator    Project Title
@@ -782,7 +1141,7 @@ Stanford University       450,000     2014  2017     Hartnoll, Sean            H
 Stanford University        80,000     2014  2016     Huang, Zhirong            Organization of the 16th Advanced Accelerator Concepts (AAC) Workshop by Stanford University
 Stanford University       450,000     2014  2018     Senatore, Leonardo        From Cosmological Observations to Fundamental Interactions
 ```
-### SC Contracts
+## SC Contracts
 In the past 8 years, this district has received:
 3 Office of Science contracts, totalling <b> $3,214,523,034</b>
 ```
@@ -798,7 +1157,7 @@ In the past 8 years, this district has received:
   2014  STANFORD UNIVERSITY    425,342,918  OPER OF GOVT R&D GOCO FACILITIES
   2013  STANFORD UNIVERSITY    239,240,020  OPER OF GOVT R&D GOCO FACILITIES
 ```
-### NSF MPS Grants
+## NSF MPS Grants
 In the past 8 years, this district has received:<b> $123,565,591 </b>in NSF MPS grants.
 ```
   Year  Institution                               Amount ($)
@@ -828,18 +1187,37 @@ In the past 8 years, this district has received:<b> $123,565,591 </b>in NSF MPS 
   2012  UNIVERSITY OF CALIFORNIA, MERCED             114,985
   2012  UNIVERSITY OF CALIFORNIA MERCED              943,694
 ```
+## SULI/CCI Interns
+From 2014-2016 (only years available), this district had 13 SULI/CCI interns
+```
+Term         Name                       College                Host Lab                                Program
+-----------  -------------------------  ---------------------  --------------------------------------  ---------
+Summer 2016  David Lafehr               Stanford University    National Renewable Energy Laboratory    SULI
+Summer 2016  Leonard C Lupin-Jimenez    Stanford University    General Atomics / DIII-D                SULI
+Summer 2016  Georgia Elizabeth Murray   Stanford University    Lawrence Livermore National Laboratory  SULI
+Summer 2016  Chloe Rickards             Stanford University    Los Alamos National Laboratory          SULI
+Summer 2016  Martin Douglas Adams       Canada College         Fermi National Accelerator Laboratory   CCI
+Summer 2015  Nicholas Michio Broad      Stanford University    Lawrence Livermore National Laboratory  SULI
+Summer 2015  Allison Crow               Stanford University    National Renewable Energy Laboratory    SULI
+Summer 2015  Roger Samir Isied          Foothill College       Brookhaven National Laboratory          CCI
+Summer 2015  Federico Lopez-Casildo Jr  Canada College         Lawrence Berkeley National Laboratory   CCI
+Summer 2014  Brandon Taylor Buscaino    Stanford University    Lawrence Livermore National Laboratory  SULI
+Summer 2014  Nancy Carlos               Stanford University    Lawrence Berkeley National Laboratory   SULI
+Summer 2014  Owen Michael Oneal         Stanford University    National Renewable Energy Laboratory    SULI
+Summer 2014  Yin Yin                    San Jose City College  Lawrence Berkeley National Laboratory   CCI
+```
 ---
 <a name="CA-19"></a>
 [Back to top](#top)
 ## CA-19 -- Rep. Zoe Lofgren (D) -- [Wikipedia](https://en.wikipedia.org/wiki/CA-19)
-### Committees
+## Committees
 Zoe Lofgren is the #2 Democrat on the House Committee on Science, Space, and Technology 
 
-### HEP Grants
+## HEP Grants
 ```
 This district received no SC HEP grants from 2012-2019
 ```
-### SC Contracts
+## SC Contracts
 In the past 8 years, this district has received:
 1 Office of Science contracts, totalling <b> $143,250</b>
 ```
@@ -847,7 +1225,7 @@ In the past 8 years, this district has received:
 ------  ------------------------  ------------  ------------------------------
   2018  NEXTSTEP TECHNOLOGY, INC       143,250  SUPPORT- ADMINISTRATIVE: OTHER
 ```
-### NSF MPS Grants
+## NSF MPS Grants
 In the past 8 years, this district has received:<b> $9,588,282 </b>in NSF MPS grants.
 ```
   Year  Institution                                      Amount ($)
@@ -859,14 +1237,24 @@ In the past 8 years, this district has received:<b> $9,588,282 </b>in NSF MPS gr
   2016  SAN JOSE STATE UNIVERSITY RESEARCH FOUNDATION       236,202
   2015  SAN JOSE STATE UNIVERSITY RESEARCH FOUNDATION        13,054
 ```
+## SULI/CCI Interns
+From 2014-2016 (only years available), this district had 4 SULI/CCI interns
+```
+Term         Name                          College                    Host Lab                                Program
+-----------  ----------------------------  -------------------------  --------------------------------------  ---------
+Summer 2016  Kevin Antonio Hernandez       San Jose State University  Lawrence Berkeley National Laboratory   SULI
+Summer 2016  Ekaterina Antonovna Goldberg  Evergreen Valley College   Lawrence Berkeley National Laboratory   CCI
+Summer 2015  logan bekker                  San Jose State University  Lawrence Livermore National Laboratory  SULI
+Spring 2016  Charlene Cuellar              San Jose State University  Lawrence Berkeley National Laboratory   SULI
+```
 ---
 <a name="CA-20"></a>
 [Back to top](#top)
 ## CA-20 -- Rep. Jimmy Panetta (D) -- [Wikipedia](https://en.wikipedia.org/wiki/CA-20)
-### Committees
-Jimmy Panetta is not on any of our key committees 
+## Committees
+Jimmy Panetta is not on any of our key committees. 
 
-### HEP Grants
+## HEP Grants
 In the past 8 years, this district has received:<b> $13,033,903 </b>in SC HEP grants.
 ```
 Institution                              Amount ($)    Start  End      Principal Investigator     Project Title
@@ -878,11 +1266,11 @@ University of California - Santa Cruz             0     2015  2016     Ritz, Ste
 University of California - Santa Cruz    11,758,903     2014  Ongoing  Ritz, Steven               Research in Particle Physics
 University of California - Santa Cruz       260,000     2014  2016     Woosley, Stan              Type Ia Supernovae as Tools for Studying Dark Energy
 ```
-### SC Contracts
+## SC Contracts
 ```
 This district received no SC contracts from 2012-2019
 ```
-### NSF MPS Grants
+## NSF MPS Grants
 In the past 8 years, this district has received:<b> $24,052,208 </b>in NSF MPS grants.
 ```
   Year  Institution                               Amount ($)
@@ -899,22 +1287,42 @@ In the past 8 years, this district has received:<b> $24,052,208 </b>in NSF MPS g
   2014  UNIVERSITY OF CALIFORNIA, SANTA CRUZ       3,759,397
   2013  UNIVERSITY OF CALIFORNIA, SANTA CRUZ       5,187,706
 ```
+## SULI/CCI Interns
+From 2014-2016 (only years available), this district had 14 SULI/CCI interns
+```
+Term         Name                        College                              Host Lab                                Program
+-----------  --------------------------  -----------------------------------  --------------------------------------  ---------
+Summer 2016  Peter Harrington            University of California-Santa Cruz  SLAC National Accelerator Laboratory    SULI
+Summer 2016  Kelin Kurzer-Ogul           University of California-Santa Cruz  SLAC National Accelerator Laboratory    SULI
+Summer 2016  Adriaan Daniel Knox         Hartnell College                     Oak Ridge National Laboratory           CCI
+Summer 2016  Brady Robertson             Cabrillo College                     Lawrence Berkeley National Laboratory   CCI
+Summer 2015  Luc d'Hauthuille            University of California-Santa Cruz  Princeton Plasma Physics Laboratory     SULI
+Summer 2015  Jarred Gillette             University of California-Santa Cruz  SLAC National Accelerator Laboratory    SULI
+Summer 2015  Megan Renee Splettstoesser  University of California-Santa Cruz  SLAC National Accelerator Laboratory    SULI
+Summer 2015  Daniel Ramos                University of California-Santa Cruz  Lawrence Berkeley National Laboratory   CCI
+Summer 2015  Gavin Jules Sonne           Hartnell College                     Lawrence Livermore National Laboratory  CCI
+Summer 2015  Adriaan Daniel Knox         Monterey Peninsula College           Oak Ridge National Laboratory           CCI
+Summer 2014  Athena Lauren Gallegos      University of California-Santa Cruz  SLAC National Accelerator Laboratory    SULI
+Summer 2014  Benjamin Stahl              University of California-Santa Cruz  SLAC National Accelerator Laboratory    SULI
+Summer 2014  Harjyot Singh Mohar         Hartnell College                     Lawrence Berkeley National Laboratory   CCI
+Summer 2014  Jaime Vasquez               Hartnell College                     Fermi National Accelerator Laboratory   CCI
+```
 ---
 <a name="CA-21"></a>
 [Back to top](#top)
 ## CA-21 -- Rep. TJ Cox (D) -- [Wikipedia](https://en.wikipedia.org/wiki/CA-21)
-### Committees
-TJ Cox is not on any of our key committees 
+## Committees
+TJ Cox is not on any of our key committees. 
 
-### HEP Grants
+## HEP Grants
 ```
 This district received no SC HEP grants from 2012-2019
 ```
-### SC Contracts
+## SC Contracts
 ```
 This district received no SC contracts from 2012-2019
 ```
-### NSF MPS Grants
+## NSF MPS Grants
 In the past 8 years, this district has received:<b> $596,211 </b>in NSF MPS grants.
 ```
   Year  Institution                                      Amount ($)
@@ -923,22 +1331,26 @@ In the past 8 years, this district has received:<b> $596,211 </b>in NSF MPS gran
   2013  MULTIPLE RECIPIENTS                                  89,000
   2012  CALIFORNIA STATE UNIVERSITY FRESNO FOUNDATION       407,211
 ```
+## SULI/CCI Interns
+```
+This district had no SULI/CCI interns from 2014-2016 (only years available)
+```
 ---
 <a name="CA-22"></a>
 [Back to top](#top)
 ## CA-22 -- Rep. Devin Nunes (R) -- [Wikipedia](https://en.wikipedia.org/wiki/CA-22)
-### Committees
-Devin Nunes is not on any of our key committees 
+## Committees
+Devin Nunes is not on any of our key committees. 
 
-### HEP Grants
+## HEP Grants
 ```
 This district received no SC HEP grants from 2012-2019
 ```
-### SC Contracts
+## SC Contracts
 ```
 This district received no SC contracts from 2012-2019
 ```
-### NSF MPS Grants
+## NSF MPS Grants
 In the past 8 years, this district has received:<b> $1,653,521 </b>in NSF MPS grants.
 ```
   Year  Institution                                      Amount ($)
@@ -949,14 +1361,21 @@ In the past 8 years, this district has received:<b> $1,653,521 </b>in NSF MPS gr
   2012  CAL POLY CORPORATION                                490,994
   2012  CALIFORNIA STATE UNIVERSITY, BAKERSFIELD            269,594
 ```
+## SULI/CCI Interns
+From 2014-2016 (only years available), this district had 1 SULI/CCI intern
+```
+Term         Name            College                             Host Lab                               Program
+-----------  --------------  ----------------------------------  -------------------------------------  ---------
+Summer 2014  Ricardo Rangel  California State University-Fresno  Pacific Northwest National Laboratory  SULI
+```
 ---
 <a name="CA-23"></a>
 [Back to top](#top)
 ## CA-23 -- Rep. Kevin McCarthy (R) -- [Wikipedia](https://en.wikipedia.org/wiki/CA-23)
-### Committees
-Kevin McCarthy is not on any of our key committees 
+## Committees
+Kevin McCarthy is not on any of our key committees. 
 
-### HEP Grants
+## HEP Grants
 In the past 8 years, this district has received:<b> $4,747,000 </b>in SC HEP grants.
 ```
 Institution                          Amount ($)    Start    End  Principal Investigator    Project Title
@@ -967,11 +1386,11 @@ U. OF CALIFORNIA AT SANTA BARBARA             0     2012   2013  Monreal        
 U. OF CALIFORNIA AT SANTA BARBARA     4,487,000     2012   2014  Richman                   UCSB High Energy User Group
 U. OF CALIFORNIA AT SANTA BARBARA             0     2012   2013  Sugar                     SciDAC: National Computational Infrastructure for Lattice Gauge Theory
 ```
-### SC Contracts
+## SC Contracts
 ```
 This district received no SC contracts from 2012-2019
 ```
-### NSF MPS Grants
+## NSF MPS Grants
 In the past 8 years, this district has received:<b> $18,205,602 </b>in NSF MPS grants.
 ```
   Year  Institution                                      Amount ($)
@@ -981,14 +1400,22 @@ In the past 8 years, this district has received:<b> $18,205,602 </b>in NSF MPS g
   2012  UNIVERSITY OF CALIFORNIA, SANTA BARBARA          15,901,215
   2012  WESTMONT COLLEGE                                     25,000
 ```
+## SULI/CCI Interns
+From 2014-2016 (only years available), this district had 2 SULI/CCI interns
+```
+Term         Name                    College                                  Host Lab                        Program
+-----------  ----------------------  ---------------------------------------  ------------------------------  ---------
+Summer 2015  David Alexander Liddle  Austin Community College District        Los Alamos National Laboratory  CCI
+Spring 2016  Cecilia Osorio          California State University-Bakersfield  Brookhaven National Laboratory  SULI
+```
 ---
 <a name="CA-24"></a>
 [Back to top](#top)
 ## CA-24 -- Rep. Salud O. Carbajal (D) -- [Wikipedia](https://en.wikipedia.org/wiki/CA-24)
-### Committees
-Salud O. Carbajal is not on any of our key committees 
+## Committees
+Salud O. Carbajal is not on any of our key committees. 
 
-### HEP Grants
+## HEP Grants
 In the past 8 years, this district has received:<b> $12,300,696 </b>in SC HEP grants.
 ```
 Institution                                 Amount ($)    Start  End      Principal Investigator    Project Title
@@ -1001,11 +1428,11 @@ University of California - Santa Barbara             0     2014  2015     Monrea
 University of California - Santa Barbara        -2,304     2014  2016     Richman, Jeffrey          Ucsb High Energy User Group
 University of California - Santa Barbara    10,312,000     2014  Ongoing  Richman, Jeffrey          Ucsb High Energy Physics Group Proposal For De-Foa-0000948
 ```
-### SC Contracts
+## SC Contracts
 ```
 This district received no SC contracts from 2012-2019
 ```
-### NSF MPS Grants
+## NSF MPS Grants
 In the past 8 years, this district has received:<b> $111,905,361 </b>in NSF MPS grants.
 ```
   Year  Institution                                               Amount ($)
@@ -1033,37 +1460,73 @@ In the past 8 years, this district has received:<b> $111,905,361 </b>in NSF MPS 
   2013  UNIVERSITY OF CALIFORNIA, SANTA BARBARA                   19,692,615
   2013  CAL POLY CORPORATION                                         752,027
 ```
+## SULI/CCI Interns
+From 2014-2016 (only years available), this district had 23 SULI/CCI interns
+```
+Term         Name                            College                                                  Host Lab                                Program
+-----------  ------------------------------  -------------------------------------------------------  --------------------------------------  ---------
+Summer 2016  Kyle Douglas Wycoff             University of California-Santa Barbara                   Lawrence Berkeley National Laboratory   SULI
+Summer 2016  Pedro Mariano Mariano Da Silva  University of California-Santa Barbara                   Idaho National Laboratory               SULI
+Summer 2016  Pavel Anisimovich Dolin         Santa Barbara City College                               Fermi National Accelerator Laboratory   CCI
+Summer 2016  Nathan Yee                      California Polytechnic State University-San Luis Obispo  Lawrence Livermore National Laboratory  SULI
+Summer 2016  Alexander Pink                  California Polytechnic State University-San Luis Obispo  National Renewable Energy Laboratory    SULI
+Summer 2016  Leo William Turner Parsons      California Polytechnic State University-San Luis Obispo  Oak Ridge National Laboratory           SULI
+Summer 2016  Kenneth B Ainslie               California Polytechnic State University-San Luis Obispo  Lawrence Berkeley National Laboratory   SULI
+Summer 2016  Ricardo Vidrio                  University of California-Santa Barbara                   Oak Ridge National Laboratory           SULI
+Summer 2016  Howard Graham Giese             Cuesta College                                           Brookhaven National Laboratory          CCI
+Summer 2016  Cobi James Allen                University of California-Santa Barbara                   Lawrence Berkeley National Laboratory   SULI
+Summer 2016  Zulfi-Khar Ahmad Ali            University of California-Santa Barbara                   SLAC National Accelerator Laboratory    SULI
+Summer 2015  Aron Daw                        California Polytechnic State University-San Luis Obispo  Lawrence Livermore National Laboratory  SULI
+Summer 2015  Alina Aurora Lusebrink          California Polytechnic State University-San Luis Obispo  Fermi National Accelerator Laboratory   SULI
+Summer 2015  Alexandra Saari                 University of California-Santa Barbara                   Los Alamos National Laboratory          SULI
+Summer 2015  Vanessa Alexandra Imani         Santa Barbara City College                               Lawrence Berkeley National Laboratory   CCI
+Summer 2014  Celeste Maureen Bean            University of California-Santa Barbara                   Los Alamos National Laboratory          SULI
+Summer 2014  Andrew James Boniface           Allan Hancock College                                    Ames National Laboratory                CCI
+Summer 2014  Brandan Boyle                   Santa Barbara City College                               SLAC National Accelerator Laboratory    CCI
+Summer 2014  Jiayi Jiang                     University of California-Santa Barbara                   SLAC National Accelerator Laboratory    SULI
+Spring 2015  Elizabeth Levy                  University of California-Santa Barbara                   Lawrence Berkeley National Laboratory   SULI
+Spring 2014  Victoria Ann Xu                 University of California-Santa Barbara                   Lawrence Berkeley National Laboratory   SULI
+Fall 2015    Brett Dolan Russell             University of California-Santa Barbara                   Lawrence Berkeley National Laboratory   SULI
+Fall 2014    Elizabeth Levy                  University of California-Santa Barbara                   Lawrence Berkeley National Laboratory   SULI
+```
 ---
 <a name="CA-25"></a>
 [Back to top](#top)
 ## CA-25 -- Rep. Katie Hill (D) -- [Wikipedia](https://en.wikipedia.org/wiki/CA-25)
-### Committees
+## Committees
 Katie Hill is the #20 Democrat on the House Committee on Science, Space, and Technology 
 
-### HEP Grants
+## HEP Grants
 ```
 This district received no SC HEP grants from 2012-2019
 ```
-### SC Contracts
+## SC Contracts
 ```
 This district received no SC contracts from 2012-2019
 ```
-### NSF MPS Grants
+## NSF MPS Grants
 ```
 This district received no NSF MPS grants from 2012-2019
+```
+## SULI/CCI Interns
+From 2014-2016 (only years available), this district had 1 SULI/CCI intern
+```
+Term         Name            College                 Host Lab                       Program
+-----------  --------------  ----------------------  -----------------------------  ---------
+Summer 2016  Travis Tindell  College of the Canyons  Oak Ridge National Laboratory  CCI
 ```
 ---
 <a name="CA-26"></a>
 [Back to top](#top)
 ## CA-26 -- Rep. Julia Brownley (D) -- [Wikipedia](https://en.wikipedia.org/wiki/CA-26)
-### Committees
-Julia Brownley is not on any of our key committees 
+## Committees
+Julia Brownley is not on any of our key committees. 
 
-### HEP Grants
+## HEP Grants
 ```
 This district received no SC HEP grants from 2012-2019
 ```
-### SC Contracts
+## SC Contracts
 In the past 8 years, this district has received:
 3 Office of Science contracts, totalling <b> $13,981</b>
 ```
@@ -1073,7 +1536,7 @@ In the past 8 years, this district has received:
   2014  SAGE PUBLICATIONS, INC.         4,959  NEWSPAPERS AND PERIODICALS
   2013  SAGE PUBLICATIONS, INC.         3,792  NEWSPAPERS AND PERIODICALS
 ```
-### NSF MPS Grants
+## NSF MPS Grants
 In the past 8 years, this district has received:<b> $940,035 </b>in NSF MPS grants.
 ```
   Year  Institution                                     Amount ($)
@@ -1087,14 +1550,22 @@ In the past 8 years, this district has received:<b> $940,035 </b>in NSF MPS gran
   2012  PITZER COLLEGE                                     136,983
   2012  POMONA COLLEGE                                      56,236
 ```
+## SULI/CCI Interns
+From 2014-2016 (only years available), this district had 2 SULI/CCI interns
+```
+Term         Name                     College                         Host Lab                               Program
+-----------  -----------------------  ------------------------------  -------------------------------------  ---------
+Summer 2014  Astrid Marisol Olivares  California Lutheran University  Pacific Northwest National Laboratory  SULI
+Spring 2016  Matt Bryson              California Lutheran University  Lawrence Berkeley National Laboratory  SULI
+```
 ---
 <a name="CA-27"></a>
 [Back to top](#top)
 ## CA-27 -- Rep. Judy Chu (D) -- [Wikipedia](https://en.wikipedia.org/wiki/CA-27)
-### Committees
-Judy Chu is not on any of our key committees 
+## Committees
+Judy Chu is not on any of our key committees. 
 
-### HEP Grants
+## HEP Grants
 In the past 8 years, this district has received:<b> $21,233,000 </b>in SC HEP grants.
 ```
 Institution                                     Amount ($)    Start    End  Principal Investigator    Project Title
@@ -1119,11 +1590,11 @@ CALIFORNIA INST. OF TECHNOLOGY                     173,000     2013   2014  Patt
 CALIFORNIA INST. OF TECHNOLOGY                           0     2013   2014  Newman                    US LHCNet:Transatlantic Networking for the LHC & the US HEP Community; EVO: A Global-Scale Networked Infrasture for Collaboration by the LHC...
 CALIFORNIA INST. OF TECHNOLOGY                     144,000     2013   2014  Cheung                    The Higgs Frontier
 ```
-### SC Contracts
+## SC Contracts
 ```
 This district received no SC contracts from 2012-2019
 ```
-### NSF MPS Grants
+## NSF MPS Grants
 In the past 8 years, this district has received:<b> $384,485,832 </b>in NSF MPS grants.
 ```
   Year  Institution                           Amount ($)
@@ -1157,22 +1628,46 @@ In the past 8 years, this district has received:<b> $384,485,832 </b>in NSF MPS 
   2013  CLAREMONT MCKENNA COLLEGE                323,185
   2012  UNIVERSITY CORPORATION, THE              792,000
 ```
+## SULI/CCI Interns
+From 2014-2016 (only years available), this district had 18 SULI/CCI interns
+```
+Term         Name                    College                             Host Lab                               Program
+-----------  ----------------------  ----------------------------------  -------------------------------------  ---------
+Summer 2016  Nina Maureen Vincent    Scripps College                     National Renewable Energy Laboratory   SULI
+Summer 2016  Lucille Wells           California Institute of Technology  Los Alamos National Laboratory         SULI
+Summer 2016  Jenny Smith             Harvey Mudd College                 SLAC National Accelerator Laboratory   SULI
+Summer 2016  Olivia Schneble         Harvey Mudd College                 National Renewable Energy Laboratory   SULI
+Summer 2016  Rachel Mow              Harvey Mudd College                 National Renewable Energy Laboratory   SULI
+Summer 2016  Marisol Beck            Harvey Mudd College                 Oak Ridge National Laboratory          SULI
+Summer 2016  Benjamin Gregory        Pomona College                      Lawrence Berkeley National Laboratory  SULI
+Summer 2016  Nathan Ross Sandford    Pomona College                      SLAC National Accelerator Laboratory   SULI
+Summer 2016  Matthew Byong Bae       Harvey Mudd College                 Lawrence Berkeley National Laboratory  SULI
+Summer 2015  Emily Beese             Harvey Mudd College                 National Renewable Energy Laboratory   SULI
+Summer 2015  Noah James Stanton      Pomona College                      National Renewable Energy Laboratory   SULI
+Summer 2015  Ryan Adam Dodson        Pomona College                      Los Alamos National Laboratory         SULI
+Summer 2014  Celeste Melamed         Harvey Mudd College                 National Renewable Energy Laboratory   SULI
+Summer 2014  Aleksandra Karapetrova  Pomona College                      Argonne National Laboratory            SULI
+Summer 2014  Naoki Eto               California Institute of Technology  Lawrence Berkeley National Laboratory  SULI
+Spring 2015  Roxanne Fries           Claremont McKenna College           Lawrence Berkeley National Laboratory  SULI
+Fall 2015    Noah James Stanton      Pomona College                      National Renewable Energy Laboratory   SULI
+Fall 2014    Roxanne Fries           Claremont McKenna College           Lawrence Berkeley National Laboratory  SULI
+```
 ---
 <a name="CA-28"></a>
 [Back to top](#top)
 ## CA-28 -- Rep. Adam B. Schiff (D) -- [Wikipedia](https://en.wikipedia.org/wiki/CA-28)
-### Committees
-Adam B. Schiff is not on any of our key committees 
+## Committees
+Adam B. Schiff is not on any of our key committees. 
 
-### HEP Grants
+## HEP Grants
 ```
 This district received no SC HEP grants from 2012-2019
 ```
-### SC Contracts
+## SC Contracts
 ```
 This district received no SC contracts from 2012-2019
 ```
-### NSF MPS Grants
+## NSF MPS Grants
 In the past 8 years, this district has received:<b> $883,030 </b>in NSF MPS grants.
 ```
   Year  Institution                    Amount ($)
@@ -1181,14 +1676,18 @@ In the past 8 years, this district has received:<b> $883,030 </b>in NSF MPS gran
   2013  CEDARS-SINAI MEDICAL CENTER       182,522
   2013  LOS ANGELES CITY COLLEGE          226,253
 ```
+## SULI/CCI Interns
+```
+This district had no SULI/CCI interns from 2014-2016 (only years available)
+```
 ---
 <a name="CA-29"></a>
 [Back to top](#top)
 ## CA-29 -- Rep. Tony Cárdenas (D) -- [Wikipedia](https://en.wikipedia.org/wiki/CA-29)
-### Committees
+## Committees
 Tony Cárdenas is the #20 Democrat on the House Committee on Energy and Commerce 
 
-### HEP Grants
+## HEP Grants
 In the past 8 years, this district has received:<b> $9,449,468 </b>in SC HEP grants.
 ```
 Institution                           Amount ($)    Start  End      Principal Investigator    Project Title
@@ -1207,11 +1706,11 @@ CALIFORNIA INST. OF TECHNOLOGY           150,000     2012  2013     Hirata      
 CALIFORNIA INST. OF TECHNOLOGY           165,000     2012  2013     Patterson                 Developing Novel Techniques for Readout, Calibration and Event Selection in the NOVA Long-Baseline Neutrino Experiment
 CALIFORNIA INST. OF TECHNOLOGY         3,761,000     2012  2013     Wise, Hitlin              High Energy Physics
 ```
-### SC Contracts
+## SC Contracts
 ```
 This district received no SC contracts from 2012-2019
 ```
-### NSF MPS Grants
+## NSF MPS Grants
 In the past 8 years, this district has received:<b> $73,989,777 </b>in NSF MPS grants.
 ```
   Year  Institution                           Amount ($)
@@ -1221,16 +1720,23 @@ In the past 8 years, this district has received:<b> $73,989,777 </b>in NSF MPS g
   2012  CALIFORNIA INSTITUTE OF TECHNOLOGY    73,326,225
   2012  MULTIPLE RECIPIENTS                      474,000
 ```
+## SULI/CCI Interns
+From 2014-2016 (only years available), this district had 1 SULI/CCI intern
+```
+Term         Name                  College                     Host Lab                             Program
+-----------  --------------------  --------------------------  -----------------------------------  ---------
+Summer 2015  Ivan Abelardo Merino  Los Angeles Valley College  Princeton Plasma Physics Laboratory  CCI
+```
 ---
 <a name="CA-30"></a>
 [Back to top](#top)
 ## CA-30 -- Rep. Brad Sherman (D) -- [Wikipedia](https://en.wikipedia.org/wiki/CA-30)
-### Committees
+## Committees
 Brad Sherman is the #11 Democrat on the House Committee on Science, Space, and Technology 
 
 Brad Sherman is the #4 Democrat on the House Committee on Science, Space, and Technology; Subcommittee on Research and Technology 
 
-### HEP Grants
+## HEP Grants
 In the past 8 years, this district has received:<b> $8,728,000 </b>in SC HEP grants.
 ```
 Institution                        Amount ($)    Start    End  Principal Investigator    Project Title
@@ -1246,11 +1752,11 @@ U. OF CALIFORNIA AT LOS ANGELES     1,370,000     2012   2013  Joshi, Mori      
 U. OF CALIFORNIA AT LOS ANGELES       270,000     2012   2014  Mori                      Community Project for Accelerator Science and Simulation
 U. OF CALIFORNIA AT LOS ANGELES     1,247,000     2012   2013  Rosenzweig, Pellegrini    Theoretical and Experimental Studies in Accelerator Physics
 ```
-### SC Contracts
+## SC Contracts
 ```
 This district received no SC contracts from 2012-2019
 ```
-### NSF MPS Grants
+## NSF MPS Grants
 In the past 8 years, this district has received:<b> $24,740,010 </b>in NSF MPS grants.
 ```
   Year  Institution                              Amount ($)
@@ -1265,22 +1771,26 @@ In the past 8 years, this district has received:<b> $24,740,010 </b>in NSF MPS g
   2013  UNIVERSITY OF CALIFORNIA, LOS ANGELES        80,300
   2012  UNIVERSITY OF CALIFORNIA, LOS ANGELES    17,107,332
 ```
+## SULI/CCI Interns
+```
+This district had no SULI/CCI interns from 2014-2016 (only years available)
+```
 ---
 <a name="CA-31"></a>
 [Back to top](#top)
 ## CA-31 -- Rep. Pete Aguilar (D) -- [Wikipedia](https://en.wikipedia.org/wiki/CA-31)
-### Committees
+## Committees
 Pete Aguilar is the #22 Democrat on the House Committee on Appropriations 
 
-### HEP Grants
+## HEP Grants
 ```
 This district received no SC HEP grants from 2012-2019
 ```
-### SC Contracts
+## SC Contracts
 ```
 This district received no SC contracts from 2012-2019
 ```
-### NSF MPS Grants
+## NSF MPS Grants
 In the past 8 years, this district has received:<b> $1,790,904 </b>in NSF MPS grants.
 ```
   Year  Institution                                    Amount ($)
@@ -1293,22 +1803,30 @@ In the past 8 years, this district has received:<b> $1,790,904 </b>in NSF MPS gr
   2012  LOS ANGELES CITY COLLEGE                          114,192
   2012  OCCIDENTAL COLLEGE                                256,000
 ```
+## SULI/CCI Interns
+From 2014-2016 (only years available), this district had 2 SULI/CCI interns
+```
+Term         Name           College                                     Host Lab                   Program
+-----------  -------------  ------------------------------------------  -------------------------  ---------
+Summer 2016  Mickie Hirata  University of Redlands                      General Atomics / DIII-D   SULI
+Summer 2014  Jared Johnson  California State University-San Bernardino  Idaho National Laboratory  SULI
+```
 ---
 <a name="CA-32"></a>
 [Back to top](#top)
 ## CA-32 -- Rep. Grace F. Napolitano (D) -- [Wikipedia](https://en.wikipedia.org/wiki/CA-32)
-### Committees
-Grace F. Napolitano is not on any of our key committees 
+## Committees
+Grace F. Napolitano is not on any of our key committees. 
 
-### HEP Grants
+## HEP Grants
 ```
 This district received no SC HEP grants from 2012-2019
 ```
-### SC Contracts
+## SC Contracts
 ```
 This district received no SC contracts from 2012-2019
 ```
-### NSF MPS Grants
+## NSF MPS Grants
 In the past 8 years, this district has received:<b> $1,337,179 </b>in NSF MPS grants.
 ```
   Year  Institution                                      Amount ($)
@@ -1316,14 +1834,21 @@ In the past 8 years, this district has received:<b> $1,337,179 </b>in NSF MPS gr
   2015  AZUSA PACIFIC UNIVERSITY                            159,045
   2012  CALIFORNIA STATE UNIVERSITY AUXILIARY SERVICE     1,178,134
 ```
+## SULI/CCI Interns
+From 2014-2016 (only years available), this district had 1 SULI/CCI intern
+```
+Term         Name           College                 Host Lab                  Program
+-----------  -------------  ----------------------  ------------------------  ---------
+Summer 2014  Katherine Bay  University of La Verne  Ames National Laboratory  SULI
+```
 ---
 <a name="CA-33"></a>
 [Back to top](#top)
 ## CA-33 -- Rep. Ted Lieu (D) -- [Wikipedia](https://en.wikipedia.org/wiki/CA-33)
-### Committees
-Ted Lieu is not on any of our key committees 
+## Committees
+Ted Lieu is not on any of our key committees. 
 
-### HEP Grants
+## HEP Grants
 In the past 8 years, this district has received:<b> $18,660,000 </b>in SC HEP grants.
 ```
 Institution                               Amount ($)    Start  End      Principal Investigator    Project Title
@@ -1337,11 +1862,11 @@ University of California - Los Angeles     4,760,000     2014  Ongoing  Rosenzwe
 UNIVERSITY OF SOUTHERN CALIFORNIA                  0     2012  2013     Muggli                    Program for Plasma-Based Concepts for Future High Energy Accelerators
 UNIVERSITY OF SOUTHERN CALIFORNIA            699,000     2012  2014     Warner, Bars              Theoretical  Particle Physics
 ```
-### SC Contracts
+## SC Contracts
 ```
 This district received no SC contracts from 2012-2019
 ```
-### NSF MPS Grants
+## NSF MPS Grants
 In the past 8 years, this district has received:<b> $108,523,226 </b>in NSF MPS grants.
 ```
   Year  Institution                              Amount ($)
@@ -1364,18 +1889,37 @@ In the past 8 years, this district has received:<b> $108,523,226 </b>in NSF MPS 
   2013  UNIVERSITY OF CALIFORNIA, LOS ANGELES    16,903,538
   2012  UNIVERSITY OF SOUTHERN CALIFORNIA         6,907,117
 ```
+## SULI/CCI Interns
+From 2014-2016 (only years available), this district had 13 SULI/CCI interns
+```
+Term         Name                            College                               Host Lab                                Program
+-----------  ------------------------------  ------------------------------------  --------------------------------------  ---------
+Summer 2016  Akash Neal Biswas               University of California-Los Angeles  Sandia National Laboratory              SULI
+Summer 2016  Austin Nicholas Park            University of California-Los Angeles  Lawrence Berkeley National Laboratory   SULI
+Summer 2016  Karen Erisse Martin Tolentino   University of California-Los Angeles  Lawrence Berkeley National Laboratory   SULI
+Summer 2015  Austin Kassels                  University of California-Los Angeles  Lawrence Livermore National Laboratory  SULI
+Summer 2014  Justin Carl Ondry               University of California-Los Angeles  Lawrence Berkeley National Laboratory   SULI
+Summer 2014  Wen Yu Peng                     University of California-Los Angeles  Sandia National Laboratory              SULI
+Summer 2014  Moe Wai Aung                    Santa Monica College                  Lawrence Berkeley National Laboratory   CCI
+Spring 2016  Chloe Groome                    University of California-Los Angeles  Lawrence Berkeley National Laboratory   SULI
+Spring 2016  Camilla Dodge Koslowsky Harris  University of California-Los Angeles  Los Alamos National Laboratory          SULI
+Spring 2016  Jacquelynne Vaughan             University of California-Los Angeles  Los Alamos National Laboratory          SULI
+Spring 2016  Angelica Ottaviano              Santa Monica College                  Princeton Plasma Physics Laboratory     SULI
+Fall 2015    Chloe Groome                    University of California-Los Angeles  Lawrence Berkeley National Laboratory   SULI
+Fall 2015    Camilla Dodge Koslowsky Harris  University of California-Los Angeles  Los Alamos National Laboratory          SULI
+```
 ---
 <a name="CA-34"></a>
 [Back to top](#top)
 ## CA-34 -- Rep. Jimmy Gomez (D) -- [Wikipedia](https://en.wikipedia.org/wiki/CA-34)
-### Committees
-Jimmy Gomez is not on any of our key committees 
+## Committees
+Jimmy Gomez is not on any of our key committees. 
 
-### HEP Grants
+## HEP Grants
 ```
 This district received no SC HEP grants from 2012-2019
 ```
-### SC Contracts
+## SC Contracts
 In the past 8 years, this district has received:
 1 Office of Science contracts, totalling <b> $4,600,000</b>
 ```
@@ -1384,7 +1928,7 @@ In the past 8 years, this district has received:
   2018  LARTA, INC     2,500,000  SUPPORT- PROFESSIONAL: OTHER
   2017  LARTA, INC     2,100,000  SUPPORT- PROFESSIONAL: OTHER
 ```
-### NSF MPS Grants
+## NSF MPS Grants
 In the past 8 years, this district has received:<b> $5,203,442 </b>in NSF MPS grants.
 ```
   Year  Institution                                            Amount ($)
@@ -1400,22 +1944,30 @@ In the past 8 years, this district has received:<b> $5,203,442 </b>in NSF MPS gr
   2014  OCCIDENTAL COLLEGE                                        339,409
   2013  OCCIDENTAL COLLEGE                                        188,000
 ```
+## SULI/CCI Interns
+From 2014-2016 (only years available), this district had 2 SULI/CCI interns
+```
+Term         Name           College                                  Host Lab                        Program
+-----------  -------------  ---------------------------------------  ------------------------------  ---------
+Summer 2014  Juliette Ohan  California State University-Los Angeles  Los Alamos National Laboratory  SULI
+Spring 2014  Juliette Ohan  California State University-Los Angeles  Los Alamos National Laboratory  SULI
+```
 ---
 <a name="CA-35"></a>
 [Back to top](#top)
 ## CA-35 -- Rep. Norma J. Torres (D) -- [Wikipedia](https://en.wikipedia.org/wiki/CA-35)
-### Committees
+## Committees
 Norma J. Torres is the #27 Democrat on the House Committee on Appropriations 
 
-### HEP Grants
+## HEP Grants
 ```
 This district received no SC HEP grants from 2012-2019
 ```
-### SC Contracts
+## SC Contracts
 ```
 This district received no SC contracts from 2012-2019
 ```
-### NSF MPS Grants
+## NSF MPS Grants
 In the past 8 years, this district has received:<b> $1,402,469 </b>in NSF MPS grants.
 ```
   Year  Institution                       Amount ($)
@@ -1426,33 +1978,56 @@ In the past 8 years, this district has received:<b> $1,402,469 </b>in NSF MPS gr
   2014  CAL POLY POMONA FOUNDATION INC       292,776
   2013  CAL POLY POMONA FOUNDATION INC        45,288
 ```
+## SULI/CCI Interns
+From 2014-2016 (only years available), this district had 3 SULI/CCI interns
+```
+Term         Name                        College                                         Host Lab                                Program
+-----------  --------------------------  ----------------------------------------------  --------------------------------------  ---------
+Summer 2015  Christopher William Nilsen  California State Polytechnic University-Pomona  Sandia National Laboratory              SULI
+Summer 2014  Alyssa Mendoza              California State Polytechnic University-Pomona  Lawrence Livermore National Laboratory  SULI
+Summer 2014  Christopher William Nilsen  California State Polytechnic University-Pomona  Sandia National Laboratory              SULI
+```
 ---
 <a name="CA-36"></a>
 [Back to top](#top)
 ## CA-36 -- Rep. Raul Ruiz (D) -- [Wikipedia](https://en.wikipedia.org/wiki/CA-36)
-### Committees
+## Committees
 Raul Ruiz is the #21 Democrat on the House Committee on Energy and Commerce 
 
-### HEP Grants
+## HEP Grants
 ```
 This district received no SC HEP grants from 2012-2019
 ```
-### SC Contracts
+## SC Contracts
 ```
 This district received no SC contracts from 2012-2019
 ```
-### NSF MPS Grants
+## NSF MPS Grants
 ```
 This district received no NSF MPS grants from 2012-2019
+```
+## SULI/CCI Interns
+From 2014-2016 (only years available), this district had 8 SULI/CCI interns
+```
+Term         Name                     College                  Host Lab                               Program
+-----------  -----------------------  -----------------------  -------------------------------------  ---------
+Summer 2016  Fatima Paulina Pantoja   College of the Desert    Pacific Northwest National Laboratory  CCI
+Summer 2016  Jessica Romero Vega      College of the Desert    Idaho National Laboratory              CCI
+Summer 2016  Haide Vela-Alvarez       College of the Desert    Los Alamos National Laboratory         CCI
+Summer 2015  Fatima Paulina Pantoja   College of the Desert    Pacific Northwest National Laboratory  CCI
+Summer 2015  Haide Vela-Alvarez       College of the Desert    Los Alamos National Laboratory         CCI
+Summer 2014  Arthur Miller            College of the Desert    Idaho National Laboratory              CCI
+Summer 2014  Luis Sierra              College of the Desert    Lawrence Berkeley National Laboratory  CCI
+Summer 2014  Maureen Wanjiru Njuguna  Mt. San Jacinto College  Idaho National Laboratory              CCI
 ```
 ---
 <a name="CA-37"></a>
 [Back to top](#top)
 ## CA-37 -- Rep. Karen Bass (D) -- [Wikipedia](https://en.wikipedia.org/wiki/CA-37)
-### Committees
-Karen Bass is not on any of our key committees 
+## Committees
+Karen Bass is not on any of our key committees. 
 
-### HEP Grants
+## HEP Grants
 In the past 8 years, this district has received:<b> $1,120,000 </b>in SC HEP grants.
 ```
 Institution                          Amount ($)    Start  End      Principal Investigator    Project Title
@@ -1460,7 +2035,7 @@ Institution                          Amount ($)    Start  End      Principal Inv
 University of Southern California             0     2014  2015     Warner, Nicholas          THEORETICAL PARTICLE PHYSICS
 University of Southern California     1,120,000     2014  Ongoing  Warner, Nicholas          Gravity, Geometry and Field Theory in Fundamental Physics
 ```
-### SC Contracts
+## SC Contracts
 In the past 8 years, this district has received:
 1 Office of Science contracts, totalling <b> $102,342</b>
 ```
@@ -1468,7 +2043,7 @@ In the past 8 years, this district has received:
 ------  -----------------------------------  ------------  ------------------------------
   2012  HUMAN POTENTIAL CONSULTANTS, L.L.C.       102,342  SUPPORT- ADMINISTRATIVE: OTHER
 ```
-### NSF MPS Grants
+## NSF MPS Grants
 In the past 8 years, this district has received:<b> $14,369,368 </b>in NSF MPS grants.
 ```
   Year  Institution                          Amount ($)
@@ -1480,18 +2055,27 @@ In the past 8 years, this district has received:<b> $14,369,368 </b>in NSF MPS g
   2015  EIF                                     198,000
   2015  UNIVERSITY OF SOUTHERN CALIFORNIA     2,230,822
 ```
+## SULI/CCI Interns
+From 2014-2016 (only years available), this district had 3 SULI/CCI interns
+```
+Term         Name                College                            Host Lab                                Program
+-----------  ------------------  ---------------------------------  --------------------------------------  ---------
+Summer 2016  Kami Martine Cohen  University of Southern California  Lawrence Berkeley National Laboratory   SULI
+Summer 2016  Theresa Ann Green   University of Southern California  Lawrence Livermore National Laboratory  SULI
+Summer 2014  Sam Roger Butler    University of Southern California  Pacific Northwest National Laboratory   SULI
+```
 ---
 <a name="CA-38"></a>
 [Back to top](#top)
 ## CA-38 -- Rep. Linda T. Sánchez (D) -- [Wikipedia](https://en.wikipedia.org/wiki/CA-38)
-### Committees
-Linda T. Sánchez is not on any of our key committees 
+## Committees
+Linda T. Sánchez is not on any of our key committees. 
 
-### HEP Grants
+## HEP Grants
 ```
 This district received no SC HEP grants from 2012-2019
 ```
-### SC Contracts
+## SC Contracts
 In the past 8 years, this district has received:
 4 Office of Science contracts, totalling <b> $61,796</b>
 ```
@@ -1501,29 +2085,36 @@ In the past 8 years, this district has received:
   2015  IMPRES TECHNOLOGY SOLUTIONS, INC.        53,636  ADPE SYSTEM CONFIGURATION
   2015  IMPRES TECHNOLOGY SOLUTIONS, INC.         4,514  IT AND TELECOM- ANNUAL SOFTWARE MAINTENANCE SERVICE PLANS
 ```
-### NSF MPS Grants
+## NSF MPS Grants
 In the past 8 years, this district has received:<b> $37,077 </b>in NSF MPS grants.
 ```
   Year  Institution                       Amount ($)
 ------  ------------------------------  ------------
   2012  CAL POLY POMONA FOUNDATION INC        37,077
 ```
+## SULI/CCI Interns
+From 2014-2016 (only years available), this district had 1 SULI/CCI intern
+```
+Term         Name               College           Host Lab                                Program
+-----------  -----------------  ----------------  --------------------------------------  ---------
+Summer 2016  Garrett Stevenson  Biola University  Lawrence Livermore National Laboratory  SULI
+```
 ---
 <a name="CA-39"></a>
 [Back to top](#top)
 ## CA-39 -- Rep. Gil Cisneros (D) -- [Wikipedia](https://en.wikipedia.org/wiki/CA-39)
-### Committees
-Gil Cisneros is not on any of our key committees 
+## Committees
+Gil Cisneros is not on any of our key committees. 
 
-### HEP Grants
+## HEP Grants
 ```
 This district received no SC HEP grants from 2012-2019
 ```
-### SC Contracts
+## SC Contracts
 ```
 This district received no SC contracts from 2012-2019
 ```
-### NSF MPS Grants
+## NSF MPS Grants
 In the past 8 years, this district has received:<b> $5,102,498 </b>in NSF MPS grants.
 ```
   Year  Institution                                     Amount ($)
@@ -1537,36 +2128,48 @@ In the past 8 years, this district has received:<b> $5,102,498 </b>in NSF MPS gr
   2014  CSU FULLERTON AUXILIARY SERVICES CORPORATION     1,034,154
   2013  CALIFORNIA STATE UNIVERSITY, FULLERTON             430,407
 ```
+## SULI/CCI Interns
+From 2014-2016 (only years available), this district had 2 SULI/CCI interns
+```
+Term         Name              College                                Host Lab                       Program
+-----------  ----------------  -------------------------------------  -----------------------------  ---------
+Summer 2014  Kevin Vincent     California State University-Fullerton  Oak Ridge National Laboratory  SULI
+Summer 2014  Austin Howard Xu  California State University-Fullerton  Argonne National Laboratory    SULI
+```
 ---
 <a name="CA-40"></a>
 [Back to top](#top)
 ## CA-40 -- Rep. Lucille Roybal-Allard (D) -- [Wikipedia](https://en.wikipedia.org/wiki/CA-40)
-### Committees
+## Committees
 Lucille Roybal-Allard is the #7 Democrat on the House Committee on Appropriations 
 
-### HEP Grants
+## HEP Grants
 ```
 This district received no SC HEP grants from 2012-2019
 ```
-### SC Contracts
+## SC Contracts
 ```
 This district received no SC contracts from 2012-2019
 ```
-### NSF MPS Grants
+## NSF MPS Grants
 In the past 8 years, this district has received:<b> $157,688 </b>in NSF MPS grants.
 ```
   Year  Institution                               Amount ($)
 ------  --------------------------------------  ------------
   2012  CALIFORNIA STATE UNIVERSITY, FULLERTON       157,688
 ```
+## SULI/CCI Interns
+```
+This district had no SULI/CCI interns from 2014-2016 (only years available)
+```
 ---
 <a name="CA-41"></a>
 [Back to top](#top)
 ## CA-41 -- Rep. Mark Takano (D) -- [Wikipedia](https://en.wikipedia.org/wiki/CA-41)
-### Committees
+## Committees
 Mark Takano is the #6 Democrat on the House Subcommittee on Higher Education and Workforce Development 
 
-### HEP Grants
+## HEP Grants
 In the past 8 years, this district has received:<b> $4,277,000 </b>in SC HEP grants.
 ```
 Institution                             Amount ($)    Start  End      Principal Investigator    Project Title
@@ -1574,11 +2177,11 @@ Institution                             Amount ($)    Start  End      Principal 
 University of California - Riverside       540,000     2014  2017     Hanson, Gail              Physics Research with the CMS Experiment at CERN - Energy Frontier Experiment
 University of California - Riverside     3,737,000     2014  Ongoing  Wimpenny, Stephen         High Energy Physics at the Energy and Theoretical Frontiers
 ```
-### SC Contracts
+## SC Contracts
 ```
 This district received no SC contracts from 2012-2019
 ```
-### NSF MPS Grants
+## NSF MPS Grants
 In the past 8 years, this district has received:<b> $14,841,731 </b>in NSF MPS grants.
 ```
   Year  Institution                                             Amount ($)
@@ -1588,57 +2191,77 @@ In the past 8 years, this district has received:<b> $14,841,731 </b>in NSF MPS g
   2017  REGENTS OF THE UNIVERSITY OF CALIFORNIA AT RIVERSIDE     5,340,227
   2012  UNIVERSITY ENTERPRISES CORPORATION AT CSUSB                739,209
 ```
+## SULI/CCI Interns
+From 2014-2016 (only years available), this district had 3 SULI/CCI interns
+```
+Term         Name                      College                             Host Lab                                Program
+-----------  ------------------------  ----------------------------------  --------------------------------------  ---------
+Summer 2016  Idalia Ramirez            University of California-Riverside  Pacific Northwest National Laboratory   SULI
+Summer 2014  Shreya Sawhney Celly      University of California-Riverside  Oak Ridge National Laboratory           SULI
+Summer 2014  Alexander Robert Hartley  University of California-Riverside  Lawrence Livermore National Laboratory  SULI
+```
 ---
 <a name="CA-42"></a>
 [Back to top](#top)
 ## CA-42 -- Rep. Ken Calvert (R) -- [Wikipedia](https://en.wikipedia.org/wiki/CA-42)
-### Committees
+## Committees
 Ken Calvert is the #2 Republican on the House Appropriations Subcommittee on Energy and Water Development 
 
 Ken Calvert is the #6 Republican on the House Committee on Appropriations 
 
-### HEP Grants
+## HEP Grants
 ```
 This district received no SC HEP grants from 2012-2019
 ```
-### SC Contracts
+## SC Contracts
 ```
 This district received no SC contracts from 2012-2019
 ```
-### NSF MPS Grants
+## NSF MPS Grants
 ```
 This district received no NSF MPS grants from 2012-2019
+```
+## SULI/CCI Interns
+```
+This district had no SULI/CCI interns from 2014-2016 (only years available)
 ```
 ---
 <a name="CA-43"></a>
 [Back to top](#top)
 ## CA-43 -- Rep. Maxine Waters (D) -- [Wikipedia](https://en.wikipedia.org/wiki/CA-43)
-### Committees
-Maxine Waters is not on any of our key committees 
+## Committees
+Maxine Waters is not on any of our key committees. 
 
-### HEP Grants
+## HEP Grants
 ```
 This district received no SC HEP grants from 2012-2019
 ```
-### SC Contracts
+## SC Contracts
 ```
 This district received no SC contracts from 2012-2019
 ```
-### NSF MPS Grants
+## NSF MPS Grants
 In the past 8 years, this district has received:<b> $55,466 </b>in NSF MPS grants.
 ```
   Year  Institution                        Amount ($)
 ------  -------------------------------  ------------
   2014  LOYOLA MARYMOUNT UNIVERSITY INC        55,466
 ```
+## SULI/CCI Interns
+From 2014-2016 (only years available), this district had 1 SULI/CCI intern
+```
+Term         Name                 College            Host Lab                       Program
+-----------  -------------------  -----------------  -----------------------------  ---------
+Summer 2016  Edward Sunghoon Kim  El Camino College  Oak Ridge National Laboratory  CCI
+```
 ---
 <a name="CA-44"></a>
 [Back to top](#top)
 ## CA-44 -- Rep. Nanette Diaz Barragán (D) -- [Wikipedia](https://en.wikipedia.org/wiki/CA-44)
-### Committees
+## Committees
 Nanette Diaz Barragán is the #27 Democrat on the House Committee on Energy and Commerce 
 
-### HEP Grants
+## HEP Grants
 In the past 8 years, this district has received:<b> $2,573,000 </b>in SC HEP grants.
 ```
 Institution                      Amount ($)    Start    End  Principal Investigator    Project Title
@@ -1648,7 +2271,7 @@ U. OF CALIFORNIA AT RIVERSIDE       228,000     2012   2013  Hanson             
 U. OF CALIFORNIA AT RIVERSIDE             0     2012   2014  Hanson                    Neutrino Factory & Muon Collider Fellow
 U. OF CALIFORNIA AT RIVERSIDE     2,117,000     2012   2014  Wimpenny                  High Energy Physics - Energy, Intensity, Theoretical Frontier
 ```
-### SC Contracts
+## SC Contracts
 In the past 8 years, this district has received:
 2 Office of Science contracts, totalling <b> $641,702</b>
 ```
@@ -1660,7 +2283,7 @@ In the past 8 years, this district has received:
   2014  HUMAN POTENTIAL CONSULTANTS, L.L.C.       107,080  SUPPORT- ADMINISTRATIVE: OTHER
   2013  HUMAN POTENTIAL CONSULTANTS, L.L.C.       129,709  SUPPORT- ADMINISTRATIVE: OTHER
 ```
-### NSF MPS Grants
+## NSF MPS Grants
 In the past 8 years, this district has received:<b> $22,662,496 </b>in NSF MPS grants.
 ```
   Year  Institution                                      Amount ($)
@@ -1673,14 +2296,18 @@ In the past 8 years, this district has received:<b> $22,662,496 </b>in NSF MPS g
   2013  REGENTS OF THE UNIVERSITY OF CALIFORNIA AT RI     4,043,248
   2012  REGENTS OF THE UNIVERSITY OF CALIFORNIA AT RI     5,758,849
 ```
+## SULI/CCI Interns
+```
+This district had no SULI/CCI interns from 2014-2016 (only years available)
+```
 ---
 <a name="CA-45"></a>
 [Back to top](#top)
 ## CA-45 -- Rep. Katie Porter (D) -- [Wikipedia](https://en.wikipedia.org/wiki/CA-45)
-### Committees
-Katie Porter is not on any of our key committees 
+## Committees
+Katie Porter is not on any of our key committees. 
 
-### HEP Grants
+## HEP Grants
 In the past 8 years, this district has received:<b> $12,613,000 </b>in SC HEP grants.
 ```
 Institution                          Amount ($)    Start  End      Principal Investigator    Project Title
@@ -1692,11 +2319,11 @@ University of California - Irvine       150,000     2015  2018     Murgia, Simon
 University of California - Irvine     2,335,000     2014  Ongoing  Sobel, Henry              Super-Kamiokande Operations
 University of California - Irvine     9,768,000     2014  Ongoing  Sobel, Henry              A Research Program in Elementary Particle Physics
 ```
-### SC Contracts
+## SC Contracts
 ```
 This district received no SC contracts from 2012-2019
 ```
-### NSF MPS Grants
+## NSF MPS Grants
 In the past 8 years, this district has received:<b> $45,687,699 </b>in NSF MPS grants.
 ```
   Year  Institution                                      Amount ($)
@@ -1708,25 +2335,34 @@ In the past 8 years, this district has received:<b> $45,687,699 </b>in NSF MPS g
   2016  UNIVERSITY OF CALIFORNIA, IRVINE                 10,897,040
   2015  UNIVERSITY OF CALIFORNIA, IRVINE                  8,051,070
 ```
+## SULI/CCI Interns
+From 2014-2016 (only years available), this district had 3 SULI/CCI interns
+```
+Term         Name                     College                          Host Lab                              Program
+-----------  -----------------------  -------------------------------  ------------------------------------  ---------
+Summer 2015  Salvador Badillo-Rios    University of California-Irvine  Sandia National Laboratory            SULI
+Fall 2015    Michael Ryan Klosterman  University of California-Irvine  Los Alamos National Laboratory        SULI
+Fall 2014    Ben Zhou                 University of California-Irvine  National Renewable Energy Laboratory  SULI
+```
 ---
 <a name="CA-46"></a>
 [Back to top](#top)
 ## CA-46 -- Rep. J. Luis Correa (D) -- [Wikipedia](https://en.wikipedia.org/wiki/CA-46)
-### Committees
-J. Luis Correa is not on any of our key committees 
+## Committees
+J. Luis Correa is not on any of our key committees. 
 
-### HEP Grants
+## HEP Grants
 In the past 8 years, this district has received:<b> $40,000 </b>in SC HEP grants.
 ```
 Institution                       Amount ($)    Start    End  Principal Investigator    Project Title
 ------------------------------  ------------  -------  -----  ------------------------  --------------------------------------------------------------------
 CALIFORNIA STATE U. LONG BEACH        40,000     2012   2014  Rajpoot                   Studies in Gravity, Supersymmetry, Supergravity and Extended Objects
 ```
-### SC Contracts
+## SC Contracts
 ```
 This district received no SC contracts from 2012-2019
 ```
-### NSF MPS Grants
+## NSF MPS Grants
 In the past 8 years, this district has received:<b> $547,164 </b>in NSF MPS grants.
 ```
   Year  Institution                                      Amount ($)
@@ -1735,18 +2371,25 @@ In the past 8 years, this district has received:<b> $547,164 </b>in NSF MPS gran
   2013  CHAPMAN UNIVERSITY                                   39,553
   2012  CALIFORNIA STATE UNIVERSITY LONG BEACH FOUNDA       237,611
 ```
+## SULI/CCI Interns
+From 2014-2016 (only years available), this district had 1 SULI/CCI intern
+```
+Term         Name                   College             Host Lab                       Program
+-----------  ---------------------  ------------------  -----------------------------  ---------
+Summer 2014  Ariane Elizabeth Jong  Chapman University  Oak Ridge National Laboratory  SULI
+```
 ---
 <a name="CA-47"></a>
 [Back to top](#top)
 ## CA-47 -- Rep. Alan S. Lowenthal (D) -- [Wikipedia](https://en.wikipedia.org/wiki/CA-47)
-### Committees
-Alan S. Lowenthal is not on any of our key committees 
+## Committees
+Alan S. Lowenthal is not on any of our key committees. 
 
-### HEP Grants
+## HEP Grants
 ```
 This district received no SC HEP grants from 2012-2019
 ```
-### SC Contracts
+## SC Contracts
 In the past 8 years, this district has received:
 2 Office of Science contracts, totalling <b> $39,041</b>
 ```
@@ -1755,7 +2398,7 @@ In the past 8 years, this district has received:
   2015  EXEMPLIS LLC                   8,381  OFFICE FURNITURE
   2012  HIRSCH ELECTRONICS LLC        30,660  MISCELLANEOUS ALARM, SIGNAL, AND SECURITY DETECTION SYSTEMS
 ```
-### NSF MPS Grants
+## NSF MPS Grants
 In the past 8 years, this district has received:<b> $2,610,228 </b>in NSF MPS grants.
 ```
   Year  Institution                                                    Amount ($)
@@ -1769,14 +2412,18 @@ In the past 8 years, this district has received:<b> $2,610,228 </b>in NSF MPS gr
   2013  CALIFORNIA STATE UNIVERSITY LONG BEACH FOUNDA                     152,048
   2013  CALIFORNIA STATE UNIVERSITY, LONG BEACH RESEA                     413,505
 ```
+## SULI/CCI Interns
+```
+This district had no SULI/CCI interns from 2014-2016 (only years available)
+```
 ---
 <a name="CA-48"></a>
 [Back to top](#top)
 ## CA-48 -- Rep. Harley Rouda (D) -- [Wikipedia](https://en.wikipedia.org/wiki/CA-48)
-### Committees
-Harley Rouda is not on any of our key committees 
+## Committees
+Harley Rouda is not on any of our key committees. 
 
-### HEP Grants
+## HEP Grants
 In the past 8 years, this district has received:<b> $4,925,000 </b>in SC HEP grants.
 ```
 Institution                   Amount ($)    Start    End  Principal Investigator    Project Title
@@ -1785,11 +2432,11 @@ U. OF CALIFORNIA AT IRVINE     1,792,000     2013   2014  Sobel                 
 U. OF CALIFORNIA AT IRVINE       500,000     2013   2014  Sobel                     Super-Kamiokande Operations
 U. OF CALIFORNIA AT IRVINE     2,633,000     2012   2013  Sobel                     A Research Program in Neutrino Physics, Cosmic Rays, and Elementary Particles
 ```
-### SC Contracts
+## SC Contracts
 ```
 This district received no SC contracts from 2012-2019
 ```
-### NSF MPS Grants
+## NSF MPS Grants
 In the past 8 years, this district has received:<b> $43,215,852 </b>in NSF MPS grants.
 ```
   Year  Institution                         Amount ($)
@@ -1799,22 +2446,30 @@ In the past 8 years, this district has received:<b> $43,215,852 </b>in NSF MPS g
   2013  UNIVERSITY OF CALIFORNIA, IRVINE    14,224,456
   2012  UNIVERSITY OF CALIFORNIA, IRVINE    12,924,563
 ```
+## SULI/CCI Interns
+From 2014-2016 (only years available), this district had 2 SULI/CCI interns
+```
+Term         Name                 College                                     Host Lab                               Program
+-----------  -------------------  ------------------------------------------  -------------------------------------  ---------
+Spring 2015  Alexis Amaris Reyes  Vanguard University of Southern California  Lawrence Berkeley National Laboratory  SULI
+Fall 2014    Alexis Amaris Reyes  Vanguard University of Southern California  Lawrence Berkeley National Laboratory  SULI
+```
 ---
 <a name="CA-49"></a>
 [Back to top](#top)
 ## CA-49 -- Rep. Mike Levin (D) -- [Wikipedia](https://en.wikipedia.org/wiki/CA-49)
-### Committees
-Mike Levin is not on any of our key committees 
+## Committees
+Mike Levin is not on any of our key committees. 
 
-### HEP Grants
+## HEP Grants
 ```
 This district received no SC HEP grants from 2012-2019
 ```
-### SC Contracts
+## SC Contracts
 ```
 This district received no SC contracts from 2012-2019
 ```
-### NSF MPS Grants
+## NSF MPS Grants
 In the past 8 years, this district has received:<b> $57,988,433 </b>in NSF MPS grants.
 ```
   Year  Institution                            Amount ($)
@@ -1832,22 +2487,49 @@ In the past 8 years, this district has received:<b> $57,988,433 </b>in NSF MPS g
   2013  SCRIPPS RESEARCH INSTITUTE, THE           720,000
   2013  UNIVERSITY OF CALIFORNIA, SAN DIEGO    12,706,058
 ```
+## SULI/CCI Interns
+From 2014-2016 (only years available), this district had 21 SULI/CCI interns
+```
+Term         Name                          College                             Host Lab                                Program
+-----------  ----------------------------  ----------------------------------  --------------------------------------  ---------
+Summer 2016  Alex Homond Wong              Saddleback College                  Idaho National Laboratory               CCI
+Summer 2016  Lance Michael Nielson-Konzen  University of California-San Diego  Oak Ridge National Laboratory           SULI
+Summer 2016  Ian Wei Ging Liu              University of California-San Diego  Sandia National Laboratory              SULI
+Summer 2016  Benjamin Lam                  University of California-San Diego  National Renewable Energy Laboratory    SULI
+Summer 2016  Haley Hamza                   University of California-San Diego  Lawrence Livermore National Laboratory  SULI
+Summer 2015  Esther Chan                   University of California-San Diego  National Renewable Energy Laboratory    SULI
+Summer 2015  andrew sweeney                University of California-San Diego  Lawrence Berkeley National Laboratory   SULI
+Summer 2015  Joshua Kelley Przepioski      University of California-San Diego  SLAC National Accelerator Laboratory    SULI
+Summer 2015  Brandon James Pitts           University of California-San Diego  Lawrence Livermore National Laboratory  SULI
+Summer 2015  Matthew Capella               University of California-San Diego  General Atomics / DIII-D                SULI
+Summer 2014  Esther Chan                   University of California-San Diego  National Renewable Energy Laboratory    SULI
+Summer 2014  Megan Wong                    University of California-San Diego  Ames National Laboratory                SULI
+Summer 2014  Eduardo Valle                 University of California-San Diego  Sandia National Laboratory              SULI
+Summer 2014  Richard Thomas                University of California-San Diego  Lawrence Berkeley National Laboratory   SULI
+Summer 2014  Dane Sequeira                 University of California-San Diego  National Renewable Energy Laboratory    SULI
+Summer 2014  Ryan Lu                       University of California-San Diego  Lawrence Berkeley National Laboratory   SULI
+Summer 2014  Frank Hu                      University of California-San Diego  Lawrence Berkeley National Laboratory   SULI
+Summer 2014  Marquis Douglas               University of California-San Diego  SLAC National Accelerator Laboratory    SULI
+Summer 2014  Peter Neal Suan Barrina       University of California-San Diego  SLAC National Accelerator Laboratory    SULI
+Spring 2015  Wan Yin Cheung                University of California-San Diego  National Renewable Energy Laboratory    SULI
+Fall 2015    Wan Yin Cheung                University of California-San Diego  National Renewable Energy Laboratory    SULI
+```
 ---
 <a name="CA-50"></a>
 [Back to top](#top)
 ## CA-50 -- Rep. Duncan Hunter (R) -- [Wikipedia](https://en.wikipedia.org/wiki/CA-50)
-### Committees
-Duncan Hunter is not on any of our key committees 
+## Committees
+Duncan Hunter is not on any of our key committees. 
 
-### HEP Grants
+## HEP Grants
 ```
 This district received no SC HEP grants from 2012-2019
 ```
-### SC Contracts
+## SC Contracts
 ```
 This district received no SC contracts from 2012-2019
 ```
-### NSF MPS Grants
+## NSF MPS Grants
 In the past 8 years, this district has received:<b> $540,790 </b>in NSF MPS grants.
 ```
   Year  Institution                                           Amount ($)
@@ -1858,33 +2540,41 @@ In the past 8 years, this district has received:<b> $540,790 </b>in NSF MPS gran
   2015  UNIVERSITY AUXILIARY AND RESEARCH SERVICES CO            180,000
   2012  SCIBERQUEST, INC.                                         55,000
 ```
+## SULI/CCI Interns
+```
+This district had no SULI/CCI interns from 2014-2016 (only years available)
+```
 ---
 <a name="CA-51"></a>
 [Back to top](#top)
 ## CA-51 -- Rep. Juan Vargas (D) -- [Wikipedia](https://en.wikipedia.org/wiki/CA-51)
-### Committees
-Juan Vargas is not on any of our key committees 
+## Committees
+Juan Vargas is not on any of our key committees. 
 
-### HEP Grants
+## HEP Grants
 ```
 This district received no SC HEP grants from 2012-2019
 ```
-### SC Contracts
+## SC Contracts
 ```
 This district received no SC contracts from 2012-2019
 ```
-### NSF MPS Grants
+## NSF MPS Grants
 ```
 This district received no NSF MPS grants from 2012-2019
+```
+## SULI/CCI Interns
+```
+This district had no SULI/CCI interns from 2014-2016 (only years available)
 ```
 ---
 <a name="CA-52"></a>
 [Back to top](#top)
 ## CA-52 -- Rep. Scott H. Peters (D) -- [Wikipedia](https://en.wikipedia.org/wiki/CA-52)
-### Committees
+## Committees
 Scott H. Peters is the #22 Democrat on the House Committee on Energy and Commerce 
 
-### HEP Grants
+## HEP Grants
 In the past 8 years, this district has received:<b> $8,781,000 </b>in SC HEP grants.
 ```
 Institution                             Amount ($)    Start  End      Principal Investigator    Project Title
@@ -1893,7 +2583,7 @@ University of California - San Diego       235,000     2018  Ongoing  Green, Dan
 University of California - San Diego       235,000     2018  Ongoing  Lin, Tongyan              Deciphering Dark Matter in the Milky Way
 University of California - San Diego     8,311,000     2014  Ongoing  Kuti, Julius              Research in Theoretical/Experimental High Energy Physics (Task T-1, T-2 and P)
 ```
-### SC Contracts
+## SC Contracts
 In the past 8 years, this district has received:
 1 Office of Science contracts, totalling <b> $6,388</b>
 ```
@@ -1901,7 +2591,7 @@ In the past 8 years, this district has received:
 ------  --------------  ------------  -------------------------------
   2016  BLUE TECH INC.         6,388  INFORMATION TECHNOLOGY SOFTWARE
 ```
-### NSF MPS Grants
+## NSF MPS Grants
 In the past 8 years, this district has received:<b> $30,770,362 </b>in NSF MPS grants.
 ```
   Year  Institution                            Amount ($)
@@ -1919,16 +2609,24 @@ In the past 8 years, this district has received:<b> $30,770,362 </b>in NSF MPS g
   2013  UNIVERSITY OF CALIFORNIA, SAN DIEGO     3,117,456
   2013  UNIVERSITY OF SAN DIEGO                   451,293
 ```
+## SULI/CCI Interns
+From 2014-2016 (only years available), this district had 2 SULI/CCI interns
+```
+Term         Name                   College                         Host Lab                              Program
+-----------  ---------------------  ------------------------------  ------------------------------------  ---------
+Summer 2016  Gregory Hopkins        University of San Diego         National Renewable Energy Laboratory  SULI
+Summer 2015  Clayton Robert Hamill  Point Loma Nazarene University  Brookhaven National Laboratory        SULI
+```
 ---
 <a name="CA-53"></a>
 [Back to top](#top)
 ## CA-53 -- Rep. Susan A. Davis (D) -- [Wikipedia](https://en.wikipedia.org/wiki/CA-53)
-### Committees
+## Committees
 Susan A. Davis is the #1 Democrat on the House Subcommittee on Higher Education and Workforce Development 
 
 Susan A. Davis is the #5 Democrat on the House Subcommittee on Early Childhood, Elementary, and Secondary Education 
 
-### HEP Grants
+## HEP Grants
 In the past 8 years, this district has received:<b> $3,070,000 </b>in SC HEP grants.
 ```
 Institution                      Amount ($)    Start    End  Principal Investigator         Project Title
@@ -1936,11 +2634,11 @@ Institution                      Amount ($)    Start    End  Principal Investiga
 U. OF CALIFORNIA AT SAN DIEGO     1,545,000     2013   2014  Kuti                           Research in Theoretical/Experimental High Energy Physics (Task T-1, T-2 and P)
 U. OF CALIFORNIA AT SAN DIEGO     1,525,000     2012   2013  Kuti, Branson, Sharma, Griest  Elementary Particle Physics
 ```
-### SC Contracts
+## SC Contracts
 ```
 This district received no SC contracts from 2012-2019
 ```
-### NSF MPS Grants
+## NSF MPS Grants
 In the past 8 years, this district has received:<b> $20,230,851 </b>in NSF MPS grants.
 ```
   Year  Institution                              Amount ($)
@@ -1959,5 +2657,12 @@ In the past 8 years, this district has received:<b> $20,230,851 </b>in NSF MPS g
   2012  THEISS RESEARCH                              45,898
   2012  UNIVERSITY OF CALIFORNIA, SAN DIEGO      12,579,631
   2012  UNIVERSITY OF SAN DIEGO                     376,613
+```
+## SULI/CCI Interns
+From 2014-2016 (only years available), this district had 1 SULI/CCI intern
+```
+Term         Name                       College                     Host Lab                  Program
+-----------  -------------------------  --------------------------  ------------------------  ---------
+Summer 2015  Samantha Josephina Guerra  San Diego State University  General Atomics / DIII-D  SULI
 ```
 ---

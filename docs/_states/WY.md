@@ -13,7 +13,7 @@ permalink : /states/WY/
 ## Committees
 John Barrasso is the #2 Republican on the Senate Committee on Energy and Natural Resources 
 
-Michael B. Enzi is not on any of our key committees 
+Michael B. Enzi is not on any of our key committees. 
 
 ## HEP Grants
 In the past 8 years, this state has received:
@@ -23,7 +23,7 @@ In the past 8 years, this state has received:
 ------  ---------------------  ------------
   2018  University of Wyoming       205,000
 ```
-### SC Contracts
+## SC Contracts
 ```
 This state received no SC contracts from 2012-2019
 ```
@@ -41,26 +41,34 @@ In the past 8 years, this state has received:
   2013  UNIVERSITY OF WYOMING     1,166,598
   2012  UNIVERSITY OF WYOMING     1,388,342
 ```
+## SULI/CCI Interns
+From 2014-2016 (only years available), this district had 8 SULI/CCI interns
+```
+  # Interns  Program    College
+-----------  ---------  ---------------------------------
+          7  SULI       University of Wyoming
+          1  CCI        Western Wyoming Community College
+```
 ---
 ---
 <a name="WY-00"></a>
 [Back to top](#top)
 ## WY-00 -- Rep. Liz Cheney (R) -- [Wikipedia](https://en.wikipedia.org/wiki/WY-00)
-### Committees
-Liz Cheney is not on any of our key committees 
+## Committees
+Liz Cheney is not on any of our key committees. 
 
-### HEP Grants
+## HEP Grants
 In the past 8 years, this district has received:<b> $205,000 </b>in SC HEP grants.
 ```
 Institution              Amount ($)    Start  End      Principal Investigator    Project Title
 ---------------------  ------------  -------  -------  ------------------------  ----------------------------------------------------------------------
 University of Wyoming       205,000     2018  Ongoing  Myers, Adam               EBOSS AND DESI: LSS CATALOGS, TARGETING AND SPECTROSCOPIC CONTAMINANTS
 ```
-### SC Contracts
+## SC Contracts
 ```
 This district received no SC contracts from 2012-2019
 ```
-### NSF MPS Grants
+## NSF MPS Grants
 In the past 8 years, this district has received:<b> $9,432,816 </b>in NSF MPS grants.
 ```
   Year  Institution              Amount ($)
@@ -72,5 +80,19 @@ In the past 8 years, this district has received:<b> $9,432,816 </b>in NSF MPS gr
   2014  UNIVERSITY OF WYOMING     2,483,679
   2013  UNIVERSITY OF WYOMING     1,166,598
   2012  UNIVERSITY OF WYOMING     1,388,342
+```
+## SULI/CCI Interns
+From 2014-2016 (only years available), this district had 8 SULI/CCI interns
+```
+Term         Name                            College                            Host Lab                                Program
+-----------  ------------------------------  ---------------------------------  --------------------------------------  ---------
+Summer 2016  Alexandra Elise Garcia Poulsen  University of Wyoming              Idaho National Laboratory               SULI
+Summer 2016  Jonathan Pullum                 University of Wyoming              Idaho National Laboratory               SULI
+Summer 2015  John Brouwer                    University of Wyoming              Idaho National Laboratory               SULI
+Summer 2014  Steven Levesque                 University of Wyoming              Idaho National Laboratory               SULI
+Summer 2014  Christopher Meadows             University of Wyoming              Lawrence Livermore National Laboratory  SULI
+Summer 2014  Katherine Miranda Bobo          Western Wyoming Community College  Idaho National Laboratory               CCI
+Spring 2015  Talysa Stockert                 University of Wyoming              National Renewable Energy Laboratory    SULI
+Spring 2014  Hunter Weston Storaci           University of Wyoming              Lawrence Livermore National Laboratory  SULI
 ```
 ---
