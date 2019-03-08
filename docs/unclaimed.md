@@ -17,7 +17,7 @@ permalink: '/unclaimed/'
 }
 </style>
 <div class="alert alert-info">
-Be sure to mark your chosen district as "claimed" in WHIPS before contacting any offices using this information! List current as of 3/7; 4:12PST
+Be sure to mark your chosen district as "claimed" in WHIPS before contacting any offices using this information! List current as of 3/7; 19:28PST
 </div>
 ---
 ### Unclaimed districts with Office of HEP grants
@@ -25,7 +25,6 @@ Be sure to mark your chosen district as "claimed" in WHIPS before contacting any
 
 In addition to its broader impacts on the economy and national security, HEP research also has local impact in the ```XXX``` District. In recent years, researchers at ```XXX``` have received over $```XXX``` in grants from the Department of Energy Office of High Energy Physics.
 <ol>
-<li><a href="https://mbaumer.github.io/us_hep_funding/states/PA/#PA-05">PA-05</a></li>
 <li><a href="https://mbaumer.github.io/us_hep_funding/states/CO/#CO-04">CO-04</a></li>
 <li><a href="https://mbaumer.github.io/us_hep_funding/states/LA/#LA-06">LA-06</a></li>
 </ol>
@@ -40,7 +39,6 @@ In addition to its broader impacts on the economy and national security, HEP res
 <li><a href="https://mbaumer.github.io/us_hep_funding/states/TX/#TX-16">TX-16</a></li>
 <li><a href="https://mbaumer.github.io/us_hep_funding/states/WA/#WA-10">WA-10</a></li>
 <li><a href="https://mbaumer.github.io/us_hep_funding/states/FL/#FL-26">FL-26</a></li>
-<li><a href="https://mbaumer.github.io/us_hep_funding/states/NJ/#NJ-10">NJ-10</a></li>
 <li><a href="https://mbaumer.github.io/us_hep_funding/states/GA/#GA-10">GA-10</a></li>
 <li><a href="https://mbaumer.github.io/us_hep_funding/states/GA/#GA-11">GA-11</a></li>
 <li><a href="https://mbaumer.github.io/us_hep_funding/states/PA/#PA-10">PA-10</a></li>
@@ -63,10 +61,8 @@ In addition to its broader impacts on the economy and national security, HEP res
 <li><a href="https://mbaumer.github.io/us_hep_funding/states/NJ/#NJ-01">NJ-01</a></li>
 <li><a href="https://mbaumer.github.io/us_hep_funding/states/NH/#NH-01">NH-01</a></li>
 <li><a href="https://mbaumer.github.io/us_hep_funding/states/NY/#NY-11">NY-11</a></li>
-<li><a href="https://mbaumer.github.io/us_hep_funding/states/PA/#PA-05">PA-05</a></li>
 <li><a href="https://mbaumer.github.io/us_hep_funding/states/NJ/#NJ-08">NJ-08</a></li>
 <li><a href="https://mbaumer.github.io/us_hep_funding/states/NY/#NY-03">NY-03</a></li>
-<li><a href="https://mbaumer.github.io/us_hep_funding/states/FL/#FL-24">FL-24</a></li>
 <li><a href="https://mbaumer.github.io/us_hep_funding/states/NE/#NE-02">NE-02</a></li>
 <li><a href="https://mbaumer.github.io/us_hep_funding/states/CO/#CO-04">CO-04</a></li>
 <li><a href="https://mbaumer.github.io/us_hep_funding/states/VA/#VA-06">VA-06</a></li>
