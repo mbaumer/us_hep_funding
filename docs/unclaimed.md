@@ -17,7 +17,7 @@ permalink: '/unclaimed/'
 }
 </style>
 <div class="alert alert-info">
-Be sure to mark your chosen district as "claimed" in WHIPS before contacting any offices using this information! List current as of 3/7; 19:28PST
+Be sure to mark your chosen district as "claimed" in WHIPS before contacting any offices using this information! List current as of 3/8; 10:56PST
 </div>
 ---
 ### Unclaimed districts with Office of HEP grants
@@ -25,7 +25,6 @@ Be sure to mark your chosen district as "claimed" in WHIPS before contacting any
 
 In addition to its broader impacts on the economy and national security, HEP research also has local impact in the ```XXX``` District. In recent years, researchers at ```XXX``` have received over $```XXX``` in grants from the Department of Energy Office of High Energy Physics.
 <ol>
-<li><a href="https://mbaumer.github.io/us_hep_funding/states/CO/#CO-04">CO-04</a></li>
 <li><a href="https://mbaumer.github.io/us_hep_funding/states/LA/#LA-06">LA-06</a></li>
 </ol>
 ---
@@ -36,7 +35,6 @@ In addition to its broader impacts on the economy and national security, HEP res
 <ol>
 <li><a href="https://mbaumer.github.io/us_hep_funding/states/VA/#VA-11">VA-11</a></li>
 <li><a href="https://mbaumer.github.io/us_hep_funding/states/NY/#NY-19">NY-19</a></li>
-<li><a href="https://mbaumer.github.io/us_hep_funding/states/TX/#TX-16">TX-16</a></li>
 <li><a href="https://mbaumer.github.io/us_hep_funding/states/WA/#WA-10">WA-10</a></li>
 <li><a href="https://mbaumer.github.io/us_hep_funding/states/FL/#FL-26">FL-26</a></li>
 <li><a href="https://mbaumer.github.io/us_hep_funding/states/GA/#GA-10">GA-10</a></li>
@@ -53,18 +51,18 @@ In addition to its broader impacts on the economy and national security, HEP res
 <li><a href="https://mbaumer.github.io/us_hep_funding/states/CA/#CA-21">CA-21</a></li>
 <li><a href="https://mbaumer.github.io/us_hep_funding/states/FL/#FL-10">FL-10</a></li>
 <li><a href="https://mbaumer.github.io/us_hep_funding/states/NY/#NY-16">NY-16</a></li>
-<li><a href="https://mbaumer.github.io/us_hep_funding/states/TX/#TX-15">TX-15</a></li>
 <li><a href="https://mbaumer.github.io/us_hep_funding/states/NJ/#NJ-05">NJ-05</a></li>
 <li><a href="https://mbaumer.github.io/us_hep_funding/states/PA/#PA-06">PA-06</a></li>
 <li><a href="https://mbaumer.github.io/us_hep_funding/states/GA/#GA-04">GA-04</a></li>
+<li><a href="https://mbaumer.github.io/us_hep_funding/states/PA/#PA-17">PA-17</a></li>
 <li><a href="https://mbaumer.github.io/us_hep_funding/states/NV/#NV-03">NV-03</a></li>
 <li><a href="https://mbaumer.github.io/us_hep_funding/states/NJ/#NJ-01">NJ-01</a></li>
 <li><a href="https://mbaumer.github.io/us_hep_funding/states/NH/#NH-01">NH-01</a></li>
+<li><a href="https://mbaumer.github.io/us_hep_funding/states/CO/#CO-07">CO-07</a></li>
 <li><a href="https://mbaumer.github.io/us_hep_funding/states/NY/#NY-11">NY-11</a></li>
 <li><a href="https://mbaumer.github.io/us_hep_funding/states/NJ/#NJ-08">NJ-08</a></li>
 <li><a href="https://mbaumer.github.io/us_hep_funding/states/NY/#NY-03">NY-03</a></li>
 <li><a href="https://mbaumer.github.io/us_hep_funding/states/NE/#NE-02">NE-02</a></li>
-<li><a href="https://mbaumer.github.io/us_hep_funding/states/CO/#CO-04">CO-04</a></li>
 <li><a href="https://mbaumer.github.io/us_hep_funding/states/VA/#VA-06">VA-06</a></li>
 <li><a href="https://mbaumer.github.io/us_hep_funding/states/GA/#GA-09">GA-09</a></li>
 <li><a href="https://mbaumer.github.io/us_hep_funding/states/SC/#SC-03">SC-03</a></li>
@@ -77,7 +75,6 @@ In addition to its broader impacts on the economy and national security, HEP res
 <li><a href="https://mbaumer.github.io/us_hep_funding/states/FL/#FL-19">FL-19</a></li>
 <li><a href="https://mbaumer.github.io/us_hep_funding/states/GA/#GA-08">GA-08</a></li>
 <li><a href="https://mbaumer.github.io/us_hep_funding/states/FL/#FL-17">FL-17</a></li>
-<li><a href="https://mbaumer.github.io/us_hep_funding/states/TX/#TX-13">TX-13</a></li>
 <li><a href="https://mbaumer.github.io/us_hep_funding/states/FL/#FL-11">FL-11</a></li>
 <li><a href="https://mbaumer.github.io/us_hep_funding/states/GA/#GA-07">GA-07</a></li>
 </ol>
@@ -87,5 +84,4 @@ In addition to its broader impacts on the economy and national security, HEP res
 
 In addition to its broader impacts on the economy and national security, HEP research also has local impact in the ```XXX``` District. In recent years, ```XXX``` students from ```XXX``` have earned prestigious SULI/CCI research internships at DOE National Laboratories, part of our field's wide-ranging efforts to develop technical skills in a new generation of the STEM workforce.
 <ol>
-<li><a href="https://mbaumer.github.io/us_hep_funding/states/CA/#CA-36">CA-36</a></li>
 </ol>
