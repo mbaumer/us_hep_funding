@@ -144,45 +144,49 @@ print 'Be sure to mark your chosen district as "claimed" in WHIPS before contact
 print '</div>'
 print '---'
 
-print '### Unclaimed districts with Office of HEP grants'
-print '*Sample text (replace ```XXX``` with district info):* \n'
-print 'In addition to its broader impacts on the economy and national security, HEP research also has local impact in the ```XXX``` District. In recent years, researchers at ```XXX``` have received over $```XXX``` in grants from the Department of Energy Office of High Energy Physics.'
-print '<ol>'
-for dist in districts_w_hep:
-    dist = dist[0]
-    state = dist[:2].upper()
-    print '<li><a href="https://mbaumer.github.io/us_hep_funding/states/'+state+'/#'+dist.upper()+'">'+dist+'</a></li>'
-print '</ol>'
-print '---'
+if len(districts_w_hep) > 0:
+    print '### Unclaimed districts with Office of HEP grants'
+    print '*Sample text (replace ```XXX``` with district info):* \n'
+    print 'In addition to its broader impacts on the economy and national security, HEP research also has local impact in the ```XXX``` District. In recent years, researchers at ```XXX``` have received over $```XXX``` in grants from the Department of Energy Office of High Energy Physics.'
+    print '<ol>'
+    for dist in districts_w_hep:
+        dist = dist[0]
+        state = dist[:2].upper()
+        print '<li><a href="https://mbaumer.github.io/us_hep_funding/states/'+state+'/#'+dist.upper()+'">'+dist+'</a></li>'
+    print '</ol>'
+    print '---'
 
-print '### Unclaimed districts with NSF MPS grants **AND** SULI/CCI students'
-print '*Sample text (replace ```XXX``` with district info):* \n'
-print 'In addition to its broader impacts on the economy and national security, HEP research also has local impact in the ```XXX``` District. Researchers at ```XXX``` have received over $```XXX``` in grants from the NSF Directorate for Mathematical and Physical Sciences, which along with the DOE Office of High Energy Physics fund the majority of our research. In addition, ```XXX``` students from ```XXX``` have earned prestigious SULI/CCI research internships at DOE National Laboratories, part of our field\'s wide-ranging efforts to develop technical skills in a new generation of the STEM workforce.'
-print '<ol>'
-for dist in districts_suli:
-    dist = dist[0]
-    state = dist[:2].upper()
-    print '<li><a href="https://mbaumer.github.io/us_hep_funding/states/'+state+'/#'+dist.upper()+'">'+dist+'</a></li>'
-print '</ol>' 
-print '---'
+if len(districts_suli) > 0:
+    print '### Unclaimed districts with NSF MPS grants **AND** SULI/CCI students'
+    print '*Sample text (replace ```XXX``` with district info):* \n'
+    print 'In addition to its broader impacts on the economy and national security, HEP research also has local impact in the ```XXX``` District. Researchers at ```XXX``` have received over $```XXX``` in grants from the NSF Directorate for Mathematical and Physical Sciences, which along with the DOE Office of High Energy Physics fund the majority of our research. In addition, ```XXX``` students from ```XXX``` have earned prestigious SULI/CCI research internships at DOE National Laboratories, part of our field\'s wide-ranging efforts to develop technical skills in a new generation of the STEM workforce.'
+    print '<ol>'
+    for dist in districts_suli:
+        dist = dist[0]
+        state = dist[:2].upper()
+        print '<li><a href="https://mbaumer.github.io/us_hep_funding/states/'+state+'/#'+dist.upper()+'">'+dist+'</a></li>'
+    print '</ol>' 
+    print '---'
 
-print '### Unclaimed districts with NSF MPS grants'
-print '*Sample text (replace ```XXX``` with district info):* \n'
-print 'In addition to its broader impacts on the economy and national security, HEP research also has local impact in the ```XXX``` District. Researchers at ```XXX``` have received over $```XXX``` in grants from the NSF Directorate for Mathematical and Physical Sciences, which along with the DOE Office of High Energy Physics fund the majority of our research.'
-print '<ol>'
-for dist in districts_nsf:
-    dist = dist[0]
-    state = dist[:2].upper()
-    print '<li><a href="https://mbaumer.github.io/us_hep_funding/states/'+state+'/#'+dist.upper()+'">'+dist+'</a></li>'
-print '</ol>'   
-print '---'
+if len(districts_nsf) > 0:
+    print '### Unclaimed districts with NSF MPS grants'
+    print '*Sample text (replace ```XXX``` with district info):* \n'
+    print 'In addition to its broader impacts on the economy and national security, HEP research also has local impact in the ```XXX``` District. Researchers at ```XXX``` have received over $```XXX``` in grants from the NSF Directorate for Mathematical and Physical Sciences, which along with the DOE Office of High Energy Physics fund the majority of our research.'
+    print '<ol>'
+    for dist in districts_nsf:
+        dist = dist[0]
+        state = dist[:2].upper()
+        print '<li><a href="https://mbaumer.github.io/us_hep_funding/states/'+state+'/#'+dist.upper()+'">'+dist+'</a></li>'
+    print '</ol>'   
+    print '---'
 
-print '### Unclaimed districts with SULI/CCI Students'
-print '*Sample text (replace ```XXX``` with district info):* \n'
-print 'In addition to its broader impacts on the economy and national security, HEP research also has local impact in the ```XXX``` District. In recent years, ```XXX``` students from ```XXX``` have earned prestigious SULI/CCI research internships at DOE National Laboratories, part of our field\'s wide-ranging efforts to develop technical skills in a new generation of the STEM workforce.'
-print '<ol>'
-for dist in districts_only_suli:
-    dist = dist[0]
-    state = dist[:2].upper()
-    print '<li><a href="https://mbaumer.github.io/us_hep_funding/states/'+state+'/#'+dist.upper()+'">'+dist+'</a></li>'
-print '</ol>'
+if len(districts_only_suli) > 0:
+    print '### Unclaimed districts with SULI/CCI Students'
+    print '*Sample text (replace ```XXX``` with district info):* \n'
+    print 'In addition to its broader impacts on the economy and national security, HEP research also has local impact in the ```XXX``` District. In recent years, ```XXX``` students from ```XXX``` have earned prestigious SULI/CCI research internships at DOE National Laboratories, part of our field\'s wide-ranging efforts to develop technical skills in a new generation of the STEM workforce.'
+    print '<ol>'
+    for dist in districts_only_suli:
+        dist = dist[0]
+        state = dist[:2].upper()
+        print '<li><a href="https://mbaumer.github.io/us_hep_funding/states/'+state+'/#'+dist.upper()+'">'+dist+'</a></li>'
+    print '</ol>'

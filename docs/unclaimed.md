@@ -79,9 +79,3 @@ In addition to its broader impacts on the economy and national security, HEP res
 <li><a href="https://mbaumer.github.io/us_hep_funding/states/GA/#GA-07">GA-07</a></li>
 </ol>
 ---
-### Unclaimed districts with SULI/CCI Students
-*Sample text (replace ```XXX``` with district info):* 
-
-In addition to its broader impacts on the economy and national security, HEP research also has local impact in the ```XXX``` District. In recent years, ```XXX``` students from ```XXX``` have earned prestigious SULI/CCI research internships at DOE National Laboratories, part of our field's wide-ranging efforts to develop technical skills in a new generation of the STEM workforce.
-<ol>
-</ol>
