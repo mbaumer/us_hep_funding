@@ -9,8 +9,7 @@ layout: page
 
 .alert {
   position: relative;
-  padding: 0.75rem 1.25rem;
-  margin-bottom: 1rem;
+  padding: 0.75rem .75rem;
   border: 1px solid transparent;
   border-radius: 0.25rem;
 }
