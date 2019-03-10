@@ -126,6 +126,7 @@ def clean_doe_grant_data():
     data2.loc[data2['Institution'] == 'California Institute of Technology', 'Congressional District'] = 'CA-27'
     data.loc[data['Institution'] == 'California Institute of Technology', 'Congressional District'] = 'CA-27'
     data0.loc[data0['Institution'] == 'California Institute of Technology', 'Congressional District'] = 'CA-27'
+    dataA.loc[dataA['Institution'] == 'California Institute of Technology', 'Congressional District'] = 'CA-27'
     ### END FIXES
 
     institutions = pd.concat([dataA['Institution'],data0['Institution'], data['Institution'], data2['Institution'],

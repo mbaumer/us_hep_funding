@@ -1494,29 +1494,33 @@ This district had no SULI/CCI interns from 2014-2016 (only years available)
 Judy Chu is not on any of our key committees. 
 
 ## HEP Grants
-In the past 8 years, this district has received:<b> $21,233,000 </b>in SC HEP grants.
+In the past 8 years, this district has received:<b> $26,606,468 </b>in SC HEP grants.
 ```
-Institution                                     Amount ($)    Start    End  Principal Investigator    Project Title
---------------------------------------------  ------------  -------  -----  ------------------------  -----------------------------------------------------------------------------------------------------------------------------------------------
-California Institute of Technology                 460,000     2017   2018  Golwala, Sunil            Broadband Microstrip-Coupled Titanium Nitride Kinetic Inductance Detectors: A Key Detector Technology for CMB-S4
-California Institute of Technology               2,920,000     2017   2018  Spiropulu, Maria          Accomplishments and Future Goals of the Experimental Particle Physics Group at Caltech
-California Institute of Technology                 124,000     2015   2016  Patterson, Ryan           Developing Novel Techniques For Readout, Calibration And Event Selection In The Nova Long-Baseline Neutrino Experiment
-California Institute of Technology                 454,000     2015   2018  Cheung, Clifford          The Higgs Frontier
-California Institute of Technology                 295,000     2015   2018  Golwala, Sunil            A Massive, Position-Resolving, High-Energy-Resolution Detector for  Non-Accelerator Cosmic and Intensity Frontier Particle Physics
-California Institute of Technology                 150,000     2015   2017  Hirata, Christopher       Cosmological Probes of Fundamental Physics
-California Institute of Technology               1,690,000     2015   2018  Wise, Mark                Research Accomplishments And Goals Of The Theoretical High Energy Physics Group
-California Institute of Technology               6,132,000     2015   2017  Wise, Mark                Research Accomplishments and Goals of the Experimental High Energy Physics Group
-California Institute of Technology (CalTech)       152,000     2014   2015  Cheung, Clifford          The Higgs Frontier
-California Institute of Technology (CalTech)       620,000     2014   2015  Wise, Mark                RESEARCH ACCOMPLISHMENTS AND GOALS OF THE THEORETICAL HIGH ENERGY PHYSICS GROUP
-California Institute of Technology (CalTech)     1,389,000     2014   2015  Wise, Mark                HIGH ENERGY PHYSICS
-California Institute of Technology (CalTech)       121,000     2014   2015  Patterson, Ryan           Developing Novel Techniques for Readout, Calibration and Event Selection in the NOVA Long-Baseline Neutrino Experiment
-California Institute of Technology (CalTech)       150,000     2014   2015  Hirata, Christopher       Cosmological Probes of Fundamental Physics
-California Institute of Technology (CalTech)     2,655,000     2014   2015  Wise, Mark                Research Accomplishments and Goals of the Experimental High Energy Physics Group
-CALIFORNIA INST. OF TECHNOLOGY                     150,000     2013   2014  Hirata                    Cosmological Probes of Fundamental Physics
-CALIFORNIA INST. OF TECHNOLOGY                   3,454,000     2013   2014  Wise, Hitlin              High Energy Physics
-CALIFORNIA INST. OF TECHNOLOGY                     173,000     2013   2014  Patterson                 Developing Novel Techniques for Readout, Calibration and Event Selection in the NOVA Long-Baseline Neutrino Experiment
-CALIFORNIA INST. OF TECHNOLOGY                           0     2013   2014  Newman                    US LHCNet:Transatlantic Networking for the LHC & the US HEP Community; EVO: A Global-Scale Networked Infrasture for Collaboration by the LHC...
-CALIFORNIA INST. OF TECHNOLOGY                     144,000     2013   2014  Cheung                    The Higgs Frontier
+Institution                                     Amount ($)    Start  End      Principal Investigator    Project Title
+--------------------------------------------  ------------  -------  -------  ------------------------  -----------------------------------------------------------------------------------------------------------------------------------------------
+California Institute of Technology                 750,000     2018  Ongoing  Simmons-Duffin, David     Precision Computations in Strongly Coupled Conformal Field Theories
+California Institute of Technology                 310,000     2018  Ongoing  Spiropulu, Maria          Quantum Machine Learning and Quantum Computation Frameworks for HEP (QMLQCF)
+California Institute of Technology                 490,000     2018  Ongoing  Spiropulu, Maria          Quantum Communication Channels for Fundamental Physics (QCCFP)
+California Institute of Technology                 360,000     2018  Ongoing  Preskill, John            Quantum error correction and spacetime geometry
+California Institute of Technology               5,850,000     2017  Ongoing  Spiropulu, Maria          Accomplishments and Future Goals of the Experimental Particle Physics Group at Caltech
+California Institute of Technology                 460,000     2017  Ongoing  Golwala, Sunil            Broadband Microstrip-Coupled Titanium Nitride Kinetic Inductance Detectors: A Key Detector Technology for CMB-S4
+California Institute of Technology                 124,000     2015  2016     Patterson, Ryan           Developing Novel Techniques For Readout, Calibration And Event Selection In The Nova Long-Baseline Neutrino Experiment
+California Institute of Technology               2,340,000     2015  Ongoing  Wise, Mark                Research Accomplishments and Goals of the Theoretical High Energy Physics Group
+California Institute of Technology                  33,468     2015  Ongoing  Hirata, Christopher       Cosmological Probes of Fundamental Physics
+California Institute of Technology                 295,000     2015  Ongoing  Golwala, Sunil            A Massive, Position-Resolving, High-Energy-Resolution Detector for  Non-Accelerator Cosmic and Intensity Frontier Particle Physics
+California Institute of Technology                 454,000     2015  Ongoing  Cheung, Clifford          The Higgs Frontier
+California Institute of Technology               6,132,000     2015  2017     Wise, Mark                Research Accomplishments and Goals of the Experimental High Energy Physics Group
+California Institute of Technology (CalTech)       152,000     2014  2015     Cheung, Clifford          The Higgs Frontier
+California Institute of Technology (CalTech)       150,000     2014  2015     Hirata, Christopher       Cosmological Probes of Fundamental Physics
+California Institute of Technology (CalTech)       121,000     2014  2015     Patterson, Ryan           Developing Novel Techniques for Readout, Calibration and Event Selection in the NOVA Long-Baseline Neutrino Experiment
+California Institute of Technology (CalTech)     1,389,000     2014  2015     Wise, Mark                HIGH ENERGY PHYSICS
+California Institute of Technology (CalTech)       620,000     2014  2015     Wise, Mark                RESEARCH ACCOMPLISHMENTS AND GOALS OF THE THEORETICAL HIGH ENERGY PHYSICS GROUP
+California Institute of Technology (CalTech)     2,655,000     2014  2015     Wise, Mark                Research Accomplishments and Goals of the Experimental High Energy Physics Group
+CALIFORNIA INST. OF TECHNOLOGY                     150,000     2013  2014     Hirata                    Cosmological Probes of Fundamental Physics
+CALIFORNIA INST. OF TECHNOLOGY                   3,454,000     2013  2014     Wise, Hitlin              High Energy Physics
+CALIFORNIA INST. OF TECHNOLOGY                     173,000     2013  2014     Patterson                 Developing Novel Techniques for Readout, Calibration and Event Selection in the NOVA Long-Baseline Neutrino Experiment
+CALIFORNIA INST. OF TECHNOLOGY                           0     2013  2014     Newman                    US LHCNet:Transatlantic Networking for the LHC & the US HEP Community; EVO: A Global-Scale Networked Infrasture for Collaboration by the LHC...
+CALIFORNIA INST. OF TECHNOLOGY                     144,000     2013  2014     Cheung                    The Higgs Frontier
 ```
 ## SC Contracts
 ```
@@ -1611,23 +1615,13 @@ This district had no SULI/CCI interns from 2014-2016 (only years available)
 Tony Cárdenas is the #20 Democrat on the House Committee on Energy and Commerce 
 
 ## HEP Grants
-In the past 8 years, this district has received:<b> $9,449,468 </b>in SC HEP grants.
+In the past 8 years, this district has received:<b> $4,076,000 </b>in SC HEP grants.
 ```
-Institution                           Amount ($)    Start  End      Principal Investigator    Project Title
-----------------------------------  ------------  -------  -------  ------------------------  ----------------------------------------------------------------------------------------------------------------------------------
-California Institute of Technology             0     2018  Ongoing  Cheung, Clifford          The Higgs Frontier
-California Institute of Technology             0     2018  Ongoing  Golwala, Sunil            A Massive, Position-Resolving, High-Energy-Resolution Detector for  Non-Accelerator Cosmic and Intensity Frontier Particle Physics
-California Institute of Technology             0     2018  Ongoing  Golwala, Sunil            Broadband Microstrip-Coupled Titanium Nitride Kinetic Inductance Detectors: A Key Detector Technology for CMB-S4
-California Institute of Technology      -116,532     2018  Ongoing  Hirata, Christopher       Cosmological Probes of Fundamental Physics
-California Institute of Technology       360,000     2018  Ongoing  Preskill, John            Quantum error correction and spacetime geometry
-California Institute of Technology       750,000     2018  Ongoing  Simmons-Duffin, David     Precision Computations in Strongly Coupled Conformal Field Theories
-California Institute of Technology     2,930,000     2018  Ongoing  Spiropulu, Maria          ACCOMPLISHMENTS AND FUTURE GOALS OF THE EXPERIEMENTAL PARTICLE PHYSICS GROUP AT CALTECH
-California Institute of Technology       490,000     2018  Ongoing  Spiropulu, Maria          Quantum Communication Channels for Fundamental Physics (QCCFP)
-California Institute of Technology       310,000     2018  Ongoing  Spiropulu, Maria          Quantum Machine Learning and Quantum Computation Frameworks for HEP (QMLQCF)
-California Institute of Technology       650,000     2018  Ongoing  Wise, Mark                Research Accomplishments and Goals of the Theoretical High Energy Physics Group
-CALIFORNIA INST. OF TECHNOLOGY           150,000     2012  2013     Hirata                    Cosmological Probes of Fundamental Physics
-CALIFORNIA INST. OF TECHNOLOGY           165,000     2012  2013     Patterson                 Developing Novel Techniques for Readout, Calibration and Event Selection in the NOVA Long-Baseline Neutrino Experiment
-CALIFORNIA INST. OF TECHNOLOGY         3,761,000     2012  2013     Wise, Hitlin              High Energy Physics
+Institution                       Amount ($)    Start    End  Principal Investigator    Project Title
+------------------------------  ------------  -------  -----  ------------------------  ----------------------------------------------------------------------------------------------------------------------
+CALIFORNIA INST. OF TECHNOLOGY       150,000     2012   2013  Hirata                    Cosmological Probes of Fundamental Physics
+CALIFORNIA INST. OF TECHNOLOGY       165,000     2012   2013  Patterson                 Developing Novel Techniques for Readout, Calibration and Event Selection in the NOVA Long-Baseline Neutrino Experiment
+CALIFORNIA INST. OF TECHNOLOGY     3,761,000     2012   2013  Wise, Hitlin              High Energy Physics
 ```
 ## SC Contracts
 ```
