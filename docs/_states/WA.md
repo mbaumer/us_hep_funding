@@ -17,6 +17,7 @@ Maria Cantwell is the #3 Democrat on the Senate Committee on Energy and Natural 
 
 Maria Cantwell is the #1 Democrat on the Senate Committee on Commerce, Science, and Transportation 
 
+## Committees
 Patty Murray is the #2 Democrat on the Senate Committee on Appropriations 
 
 Patty Murray is the #2 Democrat on the Senate Appropriations Subcommittee on Energy and Water Development 
@@ -25,15 +26,15 @@ Patty Murray is the #2 Democrat on the Senate Appropriations Subcommittee on Ene
 In the past 8 years, this state has received:
 37 HEP grants, totalling <b> $15,364,000</b>
 ```
-  Year  Institution                          Amount ($)
-------  ---------------------------------  ------------
-  2018  University of Washington              1,550,000
-  2017  University of Washington              1,338,000
-  2016  University of Washington              2,945,000
-  2015  University of Washington              2,230,000
-  2014  University of Washington              3,046,000
-  2013  UNIVERSITY OF WASHINGTON, SEATTLE     1,884,000
-  2012  UNIVERSITY OF WASHINGTON, SEATTLE     2,371,000
+  Year  Institution                 Amount ($)
+------  ------------------------  ------------
+  2018  University of Washington     1,550,000
+  2017  University of Washington     1,338,000
+  2016  University of Washington     2,945,000
+  2015  University of Washington     2,230,000
+  2014  University of Washington     3,046,000
+  2013  University of Washington     1,884,000
+  2012  University of Washington     2,371,000
 ```
 ## SC Contracts
 In the past 8 years, this state has received:
@@ -41,16 +42,16 @@ In the past 8 years, this state has received:
 ```
 Vendor                                                Amount ($)  Item
 -------------------------------------------------  -------------  ----------------------------------------------------------------------
-BATTELLE MEMORIAL INSTITUTE                        6,837,177,200  OPER OF GOVT R&D GOCO FACILITIES
-YAHSGS LLC                                               150,000  SUPPORT- PROFESSIONAL: ENGINEERING/TECHNICAL
-RENO/TAHOE REALTY GROUP, LLC                              32,489  SUPPORT- PROFESSIONAL: REAL ESTATE BROKERAGE
-CH2M HILL PLATEAU REMEDIATION COMPANY                     31,257  MAINT-REP-ALT/WASTE TRMT-STORE FAC
-DELACY CONSULTING LLC                                     20,800  SUPPORT- PROFESSIONAL: REAL PROPERTY APPRAISALS
-THERRIEN COMPANY INC, THE                                 18,800  SUPPORT- PROFESSIONAL: REAL PROPERTY APPRAISALS
-INSIGHT PUBLIC SECTOR, INC.                               12,617  ADP SOFTWARE
-MICROSOFT CORPORATION SITZ IN REDMOND CORPORATION         10,000  IT AND TELECOM- INFORMATION AND DATA BROADCASTING OR DATA DISTRIBUTION
-LEVERAGE INFORMATION SYSTEMS, INC.                         8,162  IT AND TELECOM- ANNUAL HARDWARE MAINTENANCE SERVICE PLANS
-SOLUTION PLANNING AND CONTRACT ENVIRONMENT, INC.           3,951  OFFICE FURNITURE
+Battelle Memorial Institute                        6,837,177,200  Operation Of Govt R&D GOCO Facilities
+Yahsgs LLC                                               150,000  Support- Professional: Engineering/Technical
+Reno/Tahoe Realty Group, LLC                              32,489  Support- Professional: Real Estate Brokerage
+Ch2M Hill Plateau Remediation Company                     31,257  Maint-Rep-Alt/Waste Trmt-Store Fac
+Delacy Consulting LLC                                     20,800  Support- Professional: Real Property Appraisals
+Therrien Company Inc, The                                 18,800  Support- Professional: Real Property Appraisals
+Insight Public Sector, Inc.                               12,617  ADP Software
+Microsoft Corporation Sitz In Redmond Corporation         10,000  IT And Telecom- Information And Data Broadcasting Or Data Distribution
+Leverage Information Systems, Inc.                         8,162  IT And Telecom- Annual Hardware Maintenance Service Plans
+Solution Planning And Contract Environment, Inc.           3,951  Office Furniture
 ```
 ## NSF MPS Grants
 In the past 8 years, this state has received:
@@ -58,26 +59,23 @@ In the past 8 years, this state has received:
 ```
 Institution                               Amount ($)
 --------------------------------------  ------------
-UNIVERSITY OF WASHINGTON                 108,581,485
-WASHINGTON STATE UNIVERSITY               17,001,752
-WESTERN WASHINGTON UNIVERSITY              5,733,957
-MULTIPLE RECIPIENTS                        3,052,000
-U OF WASHINGTON                            1,915,004
-SEATTLE UNIVERSITY                         1,665,885
-ASTROPHYSICAL RESEARCH CONSORTIUM          1,472,956
-UNIVERSITY OF PUGET SOUND, THE             1,182,015
-WHITMAN COLLEGE, INC                       1,136,929
-FRED HUTCHINSON CANCER RESEARCH CENTER     1,023,783
-CENTRAL WASHINGTON UNIVERSITY INC            837,006
-WHITWORTH UNIVERSITY                         477,992
-EASTERN WASHINGTON UNIVERSITY                420,000
-PII REDACTED                                 400,000
-PACIFIC LUTHERAN UNIVERSITY INC              380,000
-THE CORPORATION OF GONZAGA UNIVERSITY        277,770
-NORTHWEST RESEARCH ASSOCIATES, INC.           79,950
-CENTRAL WASHINGTON UNIV                       75,281
-WESTERN WASHINGTON UNIV                       49,806
-BATTELLE MEMORIAL INSTITUTE                    5,000
+University Of Washington                 110,496,489
+Washington State University               17,001,752
+Western Washington University              5,783,763
+Multiple Recipients                        3,052,000
+Seattle University                         1,665,885
+Astrophysical Research Consortium          1,472,956
+University Of Puget Sound                  1,182,015
+Whitman College                            1,136,929
+Fred Hutchinson Cancer Research Center     1,023,783
+Central Washington University                912,287
+Whitworth University                         477,992
+Eastern Washington University                420,000
+Pii Redacted                                 400,000
+Pacific Lutheran University                  380,000
+Corporation Of Gonzaga University            277,770
+Northwest Research Associates                 79,950
+Battelle Memorial Institute                    5,000
 ```
 ## SULI/CCI Interns
 <p align="center">
@@ -112,9 +110,6 @@ From 2014-2016 (only years available), this state had 70 SULI/CCI interns
 <a name="WA-01"></a>
 [Back to top](#top)
 ## WA-01 -- Rep. Suzan K. DelBene (D) -- [Wikipedia](https://en.wikipedia.org/wiki/WA-01)
-## Committees
-Suzan K. DelBene is not on any of our key committees. 
-
 ## HEP Grants
 ```
 This district received no SC HEP grants from 2012-2019
@@ -125,15 +120,15 @@ In the past 8 years, this district has received:
 ```
   Year  Vendor                                               Amount ($)  Item
 ------  -------------------------------------------------  ------------  ----------------------------------------------------------------------
-  2015  LEVERAGE INFORMATION SYSTEMS, INC.                        8,162  IT AND TELECOM- ANNUAL HARDWARE MAINTENANCE SERVICE PLANS
-  2014  MICROSOFT CORPORATION SITZ IN REDMOND CORPORATION        10,000  IT AND TELECOM- INFORMATION AND DATA BROADCASTING OR DATA DISTRIBUTION
+  2015  Leverage Information Systems, Inc.                        8,162  IT And Telecom- Annual Hardware Maintenance Service Plans
+  2014  Microsoft Corporation Sitz In Redmond Corporation        10,000  IT And Telecom- Information And Data Broadcasting Or Data Distribution
 ```
 ## NSF MPS Grants
 In the past 8 years, this district has received:<b> $79,950 </b>in NSF MPS grants.
 ```
-  Year  Institution                            Amount ($)
-------  -----------------------------------  ------------
-  2015  NORTHWEST RESEARCH ASSOCIATES, INC.        79,950
+  Year  Institution                      Amount ($)
+------  -----------------------------  ------------
+  2015  Northwest Research Associates        79,950
 ```
 ## SULI/CCI Interns
 ```
@@ -143,9 +138,6 @@ This district had no SULI/CCI interns from 2014-2016 (only years available)
 <a name="WA-02"></a>
 [Back to top](#top)
 ## WA-02 -- Rep. Rick Larsen (D) -- [Wikipedia](https://en.wikipedia.org/wiki/WA-02)
-## Committees
-Rick Larsen is not on any of our key committees. 
-
 ## HEP Grants
 ```
 This district received no SC HEP grants from 2012-2019
@@ -159,14 +151,13 @@ In the past 8 years, this district has received:<b> $5,783,763 </b>in NSF MPS gr
 ```
   Year  Institution                      Amount ($)
 ------  -----------------------------  ------------
-  2018  WESTERN WASHINGTON UNIVERSITY     1,132,291
-  2017  WESTERN WASHINGTON UNIVERSITY       779,054
-  2016  WESTERN WASHINGTON UNIVERSITY        33,884
-  2015  WESTERN WASHINGTON UNIV              49,806
-  2015  WESTERN WASHINGTON UNIVERSITY       892,500
-  2014  WESTERN WASHINGTON UNIVERSITY     1,368,549
-  2013  WESTERN WASHINGTON UNIVERSITY       575,949
-  2012  WESTERN WASHINGTON UNIVERSITY       951,730
+  2018  Western Washington University     1,132,291
+  2017  Western Washington University       779,054
+  2016  Western Washington University        33,884
+  2015  Western Washington University       942,306
+  2014  Western Washington University     1,368,549
+  2013  Western Washington University       575,949
+  2012  Western Washington University       951,730
 ```
 ## SULI/CCI Interns
 From 2014-2016 (only years available), this district had 2 SULI/CCI interns
@@ -218,20 +209,20 @@ In the past 8 years, this district has received:
 ```
 Vendor                                               Amount ($)  Item
 ------------------------------------------------  -------------  -----------------------------------------------
-BATTELLE MEMORIAL INSTITUTE                       6,837,177,200  OPER OF GOVT R&D GOCO FACILITIES
-YAHSGS LLC                                              150,000  SUPPORT- PROFESSIONAL: ENGINEERING/TECHNICAL
-RENO/TAHOE REALTY GROUP, LLC                             32,489  SUPPORT- PROFESSIONAL: REAL ESTATE BROKERAGE
-CH2M HILL PLATEAU REMEDIATION COMPANY                    31,257  MAINT-REP-ALT/WASTE TRMT-STORE FAC
-DELACY CONSULTING LLC                                    20,800  SUPPORT- PROFESSIONAL: REAL PROPERTY APPRAISALS
-SOLUTION PLANNING AND CONTRACT ENVIRONMENT, INC.          3,951  OFFICE FURNITURE
+Battelle Memorial Institute                       6,837,177,200  Operation Of Govt R&D GOCO Facilities
+Yahsgs LLC                                              150,000  Support- Professional: Engineering/Technical
+Reno/Tahoe Realty Group, LLC                             32,489  Support- Professional: Real Estate Brokerage
+Ch2M Hill Plateau Remediation Company                    31,257  Maint-Rep-Alt/Waste Trmt-Store Fac
+Delacy Consulting LLC                                    20,800  Support- Professional: Real Property Appraisals
+Solution Planning And Contract Environment, Inc.          3,951  Office Furniture
 ```
 ## NSF MPS Grants
 In the past 8 years, this district has received:<b> $322,073 </b>in NSF MPS grants.
 ```
-  Year  Institution                          Amount ($)
-------  ---------------------------------  ------------
-  2015  BATTELLE MEMORIAL INSTITUTE               5,000
-  2012  CENTRAL WASHINGTON UNIVERSITY INC       317,073
+  Year  Institution                      Amount ($)
+------  -----------------------------  ------------
+  2015  Battelle Memorial Institute           5,000
+  2012  Central Washington University       317,073
 ```
 ## SULI/CCI Interns
 From 2014-2016 (only years available), this district had 15 SULI/CCI interns
@@ -271,30 +262,30 @@ In the past 8 years, this district has received:
 ```
   Year  Vendor                         Amount ($)  Item
 ------  ---------------------------  ------------  ------------
-  2012  INSIGHT PUBLIC SECTOR, INC.        12,617  ADP SOFTWARE
+  2012  Insight Public Sector, Inc.        12,617  ADP Software
 ```
 ## NSF MPS Grants
 In the past 8 years, this district has received:<b> $19,314,443 </b>in NSF MPS grants.
 ```
-  Year  Institution                              Amount ($)
-------  -------------------------------------  ------------
-  2018  WHITWORTH UNIVERSITY                        325,000
-  2018  WHITMAN COLLEGE, INC                        448,386
-  2018  WASHINGTON STATE UNIVERSITY               2,726,146
-  2017  WHITWORTH UNIVERSITY                        152,992
-  2017  WHITMAN COLLEGE, INC                        223,143
-  2017  WASHINGTON STATE UNIVERSITY               1,579,460
-  2017  EASTERN WASHINGTON UNIVERSITY               300,000
-  2016  WASHINGTON STATE UNIVERSITY               1,919,959
-  2015  WHITMAN COLLEGE, INC                        385,400
-  2015  WASHINGTON STATE UNIVERSITY               1,413,411
-  2014  WASHINGTON STATE UNIVERSITY               1,413,007
-  2014  THE CORPORATION OF GONZAGA UNIVERSITY        36,276
-  2013  WASHINGTON STATE UNIVERSITY               2,613,043
-  2013  EASTERN WASHINGTON UNIVERSITY               120,000
-  2012  WASHINGTON STATE UNIVERSITY               5,336,726
-  2012  WHITMAN COLLEGE, INC                         80,000
-  2012  THE CORPORATION OF GONZAGA UNIVERSITY       241,494
+  Year  Institution                          Amount ($)
+------  ---------------------------------  ------------
+  2018  Whitworth University                    325,000
+  2018  Whitman College                         448,386
+  2018  Washington State University           2,726,146
+  2017  Whitworth University                    152,992
+  2017  Whitman College                         223,143
+  2017  Washington State University           1,579,460
+  2017  Eastern Washington University           300,000
+  2016  Washington State University           1,919,959
+  2015  Whitman College                         385,400
+  2015  Washington State University           1,413,411
+  2014  Washington State University           1,413,007
+  2014  Corporation Of Gonzaga University        36,276
+  2013  Washington State University           2,613,043
+  2013  Eastern Washington University           120,000
+  2012  Washington State University           5,336,726
+  2012  Whitman College                          80,000
+  2012  Corporation Of Gonzaga University       241,494
 ```
 ## SULI/CCI Interns
 From 2014-2016 (only years available), this district had 26 SULI/CCI interns
@@ -347,18 +338,18 @@ In the past 8 years, this district has received:
 ```
   Year  Vendor                       Amount ($)  Item
 ------  -------------------------  ------------  -----------------------------------------------
-  2017  THERRIEN COMPANY INC, THE        18,800  SUPPORT- PROFESSIONAL: REAL PROPERTY APPRAISALS
+  2017  Therrien Company Inc, The        18,800  Support- Professional: Real Property Appraisals
 ```
 ## NSF MPS Grants
 In the past 8 years, this district has received:<b> $1,182,015 </b>in NSF MPS grants.
 ```
-  Year  Institution                       Amount ($)
-------  ------------------------------  ------------
-  2018  UNIVERSITY OF PUGET SOUND, THE       270,000
-  2017  UNIVERSITY OF PUGET SOUND, THE       333,908
-  2015  UNIVERSITY OF PUGET SOUND, THE       347,120
-  2014  UNIVERSITY OF PUGET SOUND, THE        33,830
-  2013  UNIVERSITY OF PUGET SOUND, THE       197,157
+  Year  Institution                  Amount ($)
+------  -------------------------  ------------
+  2018  University Of Puget Sound       270,000
+  2017  University Of Puget Sound       333,908
+  2015  University Of Puget Sound       347,120
+  2014  University Of Puget Sound        33,830
+  2013  University Of Puget Sound       197,157
 ```
 ## SULI/CCI Interns
 From 2014-2016 (only years available), this district had 6 SULI/CCI interns
@@ -382,21 +373,21 @@ Pramila Jayapal is the #9 Democrat on the House Subcommittee on Higher Education
 ## HEP Grants
 In the past 8 years, this district has received:<b> $15,364,000 </b>in SC HEP grants.
 ```
-Institution                          Amount ($)    Start  End      Principal Investigator    Project Title
----------------------------------  ------------  -------  -------  ------------------------  ----------------------------------------------------------------------------------------------------------------------------------------------------------------
-University of Washington                750,000     2016  Ongoing  Hsu, Shih-Chieh           Search for Dark Matter using mono-Higgs and the ATLAS Pixel Detector
-University of Washington                552,000     2014  Ongoing  Connolly, Andrew          A Framework for Dark Energy Surveys
-University of Washington                      0     2014  2015     Nelson, Ann               THEORETICAL AND EXPERIMENTAL NUCLEAR PHYSICS
-University of Washington              2,823,000     2014  Ongoing  Nelson, Ann               Theory of Particles, Fields, and Strings
-University of Washington                345,000     2014  2015     Rosenberg, Leslie         The Phase II Upgrade of the Axion Dark-Matter Experiment (ADMX)
-University of Washington              4,514,000     2014  Ongoing  Rosenberg, Leslie         The Generation 2 Axion Dark Matter Experiment (ADMX-G2): University of Washington Fabrication, Commissioning and Operations in the 0.6-2 GHz Frequency Bands
-University of Washington              1,923,000     2014  Ongoing  Rosenberg, Leslie         Experimental Particle-Astrophysics at the University of Washington
-University of Washington                202,000     2014  2017     wilkes, richard           Experimental Neutrino Physics
-UNIVERSITY OF WASHINGTON, SEATTLE       550,000     2013  2014     Rosenberg                 The Generation 2 Axion Dark-Matter Experiment
-UNIVERSITY OF WASHINGTON, SEATTLE        10,000     2012  2013     Nelson                    Theoretical & Experimental Particle Physics - Participant Support for "Vistas in Axion Physics: A Roadmap for Theoretical & Experimental Axion Physics, Apr 2012
-UNIVERSITY OF WASHINGTON, SEATTLE     2,781,000     2012  2014     Nelson, Wilkes, Yaffe     Theoretical and Experimental Particle Physics
-UNIVERSITY OF WASHINGTON, SEATTLE       849,000     2012  2014     Rosenberg                 The Phase II Upgrade of the Axion Dark-Matter Experiment (ADMX)
-UNIVERSITY OF WASHINGTON, SEATTLE        65,000     2012  2013     Son                       Holographic and Field-Theoretical Studies on Many-Body Physics
+Institution                 Amount ($)    Start  End      Principal Investigator    Project Title
+------------------------  ------------  -------  -------  ------------------------  ----------------------------------------------------------------------------------------------------------------------------------------------------------------
+University of Washington       750,000     2016  Ongoing  Hsu, Shih-Chieh           Search for Dark Matter using mono-Higgs and the ATLAS Pixel Detector
+University of Washington       552,000     2014  Ongoing  Connolly, Andrew          A Framework for Dark Energy Surveys
+University of Washington             0     2014  2015     Nelson, Ann               THEORETICAL AND EXPERIMENTAL NUCLEAR PHYSICS
+University of Washington     2,823,000     2014  Ongoing  Nelson, Ann               Theory of Particles, Fields, and Strings
+University of Washington       345,000     2014  2015     Rosenberg, Leslie         The Phase II Upgrade of the Axion Dark-Matter Experiment (ADMX)
+University of Washington     4,514,000     2014  Ongoing  Rosenberg, Leslie         The Generation 2 Axion Dark Matter Experiment (ADMX-G2): University of Washington Fabrication, Commissioning and Operations in the 0.6-2 GHz Frequency Bands
+University of Washington     1,923,000     2014  Ongoing  Rosenberg, Leslie         Experimental Particle-Astrophysics at the University of Washington
+University of Washington       202,000     2014  2017     wilkes, richard           Experimental Neutrino Physics
+University of Washington       550,000     2013  2014     Rosenberg                 The Generation 2 Axion Dark-Matter Experiment
+University of Washington        10,000     2012  2013     Nelson                    Theoretical & Experimental Particle Physics - Participant Support for "Vistas in Axion Physics: A Roadmap for Theoretical & Experimental Axion Physics, Apr 2012
+University of Washington     2,781,000     2012  2014     Nelson, Wilkes, Yaffe     Theoretical and Experimental Particle Physics
+University of Washington       849,000     2012  2014     Rosenberg                 The Phase II Upgrade of the Axion Dark-Matter Experiment (ADMX)
+University of Washington        65,000     2012  2013     Son                       Holographic and Field-Theoretical Studies on Many-Body Physics
 ```
 ## SC Contracts
 ```
@@ -407,27 +398,26 @@ In the past 8 years, this district has received:<b> $116,658,139 </b>in NSF MPS 
 ```
   Year  Institution                               Amount ($)
 ------  --------------------------------------  ------------
-  2019  UNIVERSITY OF WASHINGTON                      18,437
-  2018  UNIVERSITY OF WASHINGTON                  14,932,213
-  2018  PII REDACTED                                 150,000
-  2018  FRED HUTCHINSON CANCER RESEARCH CENTER        83,747
-  2017  UNIVERSITY OF WASHINGTON                  16,256,944
-  2017  PII REDACTED                                 100,000
-  2017  FRED HUTCHINSON CANCER RESEARCH CENTER        42,575
-  2016  UNIVERSITY OF WASHINGTON                  15,312,404
-  2016  FRED HUTCHINSON CANCER RESEARCH CENTER        84,845
-  2015  UNIVERSITY OF WASHINGTON                   7,243,056
-  2015  U OF WASHINGTON                            1,915,004
-  2014  UNIVERSITY OF WASHINGTON                  16,310,585
-  2014  MULTIPLE RECIPIENTS                           89,000
-  2013  UNIVERSITY OF WASHINGTON                  14,522,953
-  2013  MULTIPLE RECIPIENTS                        1,520,000
-  2013  FRED HUTCHINSON CANCER RESEARCH CENTER       315,914
-  2012  FRED HUTCHINSON CANCER RESEARCH CENTER       496,702
-  2012  UNIVERSITY OF WASHINGTON                  23,984,893
-  2012  SEATTLE UNIVERSITY                           362,911
-  2012  MULTIPLE RECIPIENTS                        1,443,000
-  2012  ASTROPHYSICAL RESEARCH CONSORTIUM          1,472,956
+  2019  University Of Washington                      18,437
+  2018  University Of Washington                  14,932,213
+  2018  Pii Redacted                                 150,000
+  2018  Fred Hutchinson Cancer Research Center        83,747
+  2017  University Of Washington                  16,256,944
+  2017  Pii Redacted                                 100,000
+  2017  Fred Hutchinson Cancer Research Center        42,575
+  2016  Fred Hutchinson Cancer Research Center        84,845
+  2016  University Of Washington                  15,312,404
+  2015  University Of Washington                   9,158,060
+  2014  University Of Washington                  16,310,585
+  2014  Multiple Recipients                           89,000
+  2013  University Of Washington                  14,522,953
+  2013  Multiple Recipients                        1,520,000
+  2013  Fred Hutchinson Cancer Research Center       315,914
+  2012  Fred Hutchinson Cancer Research Center       496,702
+  2012  University Of Washington                  23,984,893
+  2012  Seattle University                           362,911
+  2012  Multiple Recipients                        1,443,000
+  2012  Astrophysical Research Consortium          1,472,956
 ```
 ## SULI/CCI Interns
 From 2014-2016 (only years available), this district had 14 SULI/CCI interns
@@ -467,12 +457,12 @@ This district received no SC contracts from 2012-2019
 ## NSF MPS Grants
 In the past 8 years, this district has received:<b> $595,214 </b>in NSF MPS grants.
 ```
-  Year  Institution                          Amount ($)
-------  ---------------------------------  ------------
-  2016  CENTRAL WASHINGTON UNIVERSITY INC       264,439
-  2015  CENTRAL WASHINGTON UNIV                  75,281
-  2014  CENTRAL WASHINGTON UNIVERSITY INC        79,759
-  2013  CENTRAL WASHINGTON UNIVERSITY INC       175,735
+  Year  Institution                      Amount ($)
+------  -----------------------------  ------------
+  2016  Central Washington University       264,439
+  2015  Central Washington University        75,281
+  2014  Central Washington University        79,759
+  2013  Central Washington University       175,735
 ```
 ## SULI/CCI Interns
 ```
@@ -482,9 +472,6 @@ This district had no SULI/CCI interns from 2014-2016 (only years available)
 <a name="WA-09"></a>
 [Back to top](#top)
 ## WA-09 -- Rep. Adam Smith (D) -- [Wikipedia](https://en.wikipedia.org/wiki/WA-09)
-## Committees
-Adam Smith is not on any of our key committees. 
-
 ## HEP Grants
 ```
 This district received no SC HEP grants from 2012-2019
@@ -498,11 +485,11 @@ In the past 8 years, this district has received:<b> $1,302,974 </b>in NSF MPS gr
 ```
   Year  Institution           Amount ($)
 ------  ------------------  ------------
-  2018  SEATTLE UNIVERSITY        70,008
-  2017  SEATTLE UNIVERSITY       282,149
-  2016  SEATTLE UNIVERSITY       208,645
-  2015  SEATTLE UNIVERSITY       398,734
-  2013  SEATTLE UNIVERSITY       343,438
+  2018  Seattle University        70,008
+  2017  Seattle University       282,149
+  2016  Seattle University       208,645
+  2015  Seattle University       398,734
+  2013  Seattle University       343,438
 ```
 ## SULI/CCI Interns
 From 2014-2016 (only years available), this district had 2 SULI/CCI interns
@@ -516,9 +503,6 @@ Summer 2014  Drew Morales Cameron  Seattle University  National Renewable Energy
 <a name="WA-10"></a>
 [Back to top](#top)
 ## WA-10 -- Rep. Denny Heck (D) -- [Wikipedia](https://en.wikipedia.org/wiki/WA-10)
-## Committees
-Denny Heck is not on any of our key committees. 
-
 ## HEP Grants
 ```
 This district received no SC HEP grants from 2012-2019
@@ -530,11 +514,11 @@ This district received no SC contracts from 2012-2019
 ## NSF MPS Grants
 In the past 8 years, this district has received:<b> $530,000 </b>in NSF MPS grants.
 ```
-  Year  Institution                        Amount ($)
-------  -------------------------------  ------------
-  2018  PII REDACTED                          150,000
-  2017  PACIFIC LUTHERAN UNIVERSITY INC       188,000
-  2014  PACIFIC LUTHERAN UNIVERSITY INC       192,000
+  Year  Institution                    Amount ($)
+------  ---------------------------  ------------
+  2018  Pii Redacted                      150,000
+  2017  Pacific Lutheran University       188,000
+  2014  Pacific Lutheran University       192,000
 ```
 ## SULI/CCI Interns
 From 2014-2016 (only years available), this district had 5 SULI/CCI interns

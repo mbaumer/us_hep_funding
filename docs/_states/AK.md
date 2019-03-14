@@ -21,6 +21,7 @@ Lisa Murkowski is the #5 Republican on the Senate Appropriations Subcommittee on
 
 Lisa Murkowski is the #1 Republican on the Senate Committee on Energy and Natural Resources 
 
+## Committees
 Dan Sullivan is the #7 Republican on the Senate Committee on Commerce, Science, and Transportation 
 
 ## HEP Grants
@@ -33,18 +34,25 @@ In the past 8 years, this state has received:
 ```
   Year  Vendor                                      Amount ($)  Item
 ------  ----------------------------------------  ------------  ---------------------------------------
-  2014  COPPER RIVER INFORMATION TECHNOLOGY, LLC         3,944  MINI AND MICRO COMPUTER CONTROL DEVICES
+  2014  Copper River Information Technology, LLC         3,944  Mini And Micro Computer Control Devices
 ```
 ## NSF MPS Grants
 In the past 8 years, this state has received:
 13 NSF MPS grants, totalling <b> $1,460,723</b>
 ```
-Institution                       Amount ($)
-------------------------------  ------------
-UNIVERSITY OF ALASKA FAIRBANKS       889,448
-UNIVERSITY OF ALASKA ANCHORAGE       432,467
-UNIVERSITY OF ALASKA SOUTHEAST        96,808
-U OF ALASKA FAIRBANKS                 42,000
+  Year  Institution                       Amount ($)
+------  ------------------------------  ------------
+  2018  University Of Alaska Anchorage       239,086
+  2017  University Of Alaska Anchorage        63,294
+  2017  University Of Alaska Fairbanks       239,583
+  2016  University Of Alaska Anchorage       100,000
+  2016  University Of Alaska Fairbanks        54,680
+  2015  University Of Alaska Fairbanks        42,000
+  2015  University Of Alaska Southeast        96,808
+  2014  University Of Alaska Anchorage        30,087
+  2014  University Of Alaska Fairbanks       286,670
+  2013  University Of Alaska Fairbanks       156,515
+  2012  University Of Alaska Fairbanks       152,000
 ```
 ## SULI/CCI Interns
 <p align="center">
@@ -61,9 +69,6 @@ From 2014-2016 (only years available), this state had 1 SULI/CCI intern
 <a name="AK-00"></a>
 [Back to top](#top)
 ## AK-00 -- Rep. Don Young (R) -- [Wikipedia](https://en.wikipedia.org/wiki/AK-00)
-## Committees
-Don Young is not on any of our key committees. 
-
 ## HEP Grants
 ```
 This district received no SC HEP grants from 2012-2019
@@ -74,24 +79,24 @@ In the past 8 years, this district has received:
 ```
   Year  Vendor                                      Amount ($)  Item
 ------  ----------------------------------------  ------------  ---------------------------------------
-  2014  COPPER RIVER INFORMATION TECHNOLOGY, LLC         3,944  MINI AND MICRO COMPUTER CONTROL DEVICES
+  2014  Copper River Information Technology, LLC         3,944  Mini And Micro Computer Control Devices
 ```
 ## NSF MPS Grants
 In the past 8 years, this district has received:<b> $1,460,723 </b>in NSF MPS grants.
 ```
   Year  Institution                       Amount ($)
 ------  ------------------------------  ------------
-  2018  UNIVERSITY OF ALASKA ANCHORAGE       239,086
-  2017  UNIVERSITY OF ALASKA ANCHORAGE        63,294
-  2017  UNIVERSITY OF ALASKA FAIRBANKS       239,583
-  2016  UNIVERSITY OF ALASKA ANCHORAGE       100,000
-  2016  UNIVERSITY OF ALASKA FAIRBANKS        54,680
-  2015  U OF ALASKA FAIRBANKS                 42,000
-  2015  UNIVERSITY OF ALASKA SOUTHEAST        96,808
-  2014  UNIVERSITY OF ALASKA ANCHORAGE        30,087
-  2014  UNIVERSITY OF ALASKA FAIRBANKS       286,670
-  2013  UNIVERSITY OF ALASKA FAIRBANKS       156,515
-  2012  UNIVERSITY OF ALASKA FAIRBANKS       152,000
+  2018  University Of Alaska Anchorage       239,086
+  2017  University Of Alaska Anchorage        63,294
+  2017  University Of Alaska Fairbanks       239,583
+  2016  University Of Alaska Anchorage       100,000
+  2016  University Of Alaska Fairbanks        54,680
+  2015  University Of Alaska Fairbanks        42,000
+  2015  University Of Alaska Southeast        96,808
+  2014  University Of Alaska Anchorage        30,087
+  2014  University Of Alaska Fairbanks       286,670
+  2013  University Of Alaska Fairbanks       156,515
+  2012  University Of Alaska Fairbanks       152,000
 ```
 ## SULI/CCI Interns
 From 2014-2016 (only years available), this district had 1 SULI/CCI intern

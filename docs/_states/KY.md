@@ -15,8 +15,6 @@ Mitch McConnell is the #2 Republican on the Senate Committee on Appropriations
 
 Mitch McConnell is the #2 Republican on the Senate Appropriations Subcommittee on Energy and Water Development 
 
-Rand Paul is not on any of our key committees. 
-
 ## HEP Grants
 In the past 8 years, this state has received:
 7 HEP grants, totalling <b> $563,000</b>
@@ -26,8 +24,8 @@ In the past 8 years, this state has received:
   2018  University of Kentucky         412,000
   2015  University of Louisville             0
   2014  University of Louisville        73,000
-  2013  UNIVERSITY OF LOUISVILLE        78,000
-  2012  UNIVERSITY OF LOUISVILLE             0
+  2013  University of Louisville        78,000
+  2012  University of Louisville             0
 ```
 ## SC Contracts
 In the past 8 years, this state has received:
@@ -35,28 +33,28 @@ In the past 8 years, this state has received:
 ```
   Year  Vendor                             Amount ($)  Item
 ------  -------------------------------  ------------  --------------------------------------------
-  2014  BOSTON GOVERNMENT SERVICES, LLC       258,735  SUPPORT- PROFESSIONAL: ENGINEERING/TECHNICAL
-  2013  BOSTON GOVERNMENT SERVICES, LLC       163,229  SUPPORT- PROFESSIONAL: ENGINEERING/TECHNICAL
-  2013  ELECTRIC ENERGY INCORPORATED          650,000  UTILITIES- ELECTRIC
-  2012  ELECTRIC ENERGY INCORPORATED          350,000  UTILITIES- ELECTRIC
+  2014  Boston Government Services, LLC       258,735  Support- Professional: Engineering/Technical
+  2013  Boston Government Services, LLC       163,229  Support- Professional: Engineering/Technical
+  2013  Electric Energy Inc.                  650,000  Utilities- Electric
+  2012  Electric Energy Inc.                  350,000  Utilities- Electric
 ```
 ## NSF MPS Grants
 In the past 8 years, this state has received:
 159 NSF MPS grants, totalling <b> $26,839,125</b>
 ```
-Institution                                             Amount ($)
-----------------------------------------------------  ------------
-UNIVERSITY OF KENTUCKY                                  18,566,719
-UNIVERSITY OF LOUISVILLE                                 4,083,583
-NORTHERN KENTUCKY UNIVERSITY RESEARCH FOUNDAT            1,204,357
-WESTERN KENTUCKY UNIVERSITY RESEARCH FOUNDATI            1,180,275
-MURRAY STATE UNIVERSITY                                    531,326
-WESTERN KENTUCKY UNIVERSITY RESEARCH FOUNDATION INC        288,125
-U OF KENTUCKY RES FDN                                      260,000
-NORTHERN KENTUCKY UNIVERSITY RESEARCH FOUNDATION INC       242,979
-NORTHERN KENTUCKY UNIVERSITY                               242,978
-EASTERN KENTUCKY UNIVERSITY                                143,420
-U OF LOUISVILLE RES FDN                                     95,363
+Institution                                         Amount ($)
+------------------------------------------------  ------------
+University Of Kentucky                              18,566,719
+University Of Louisville                             4,083,583
+Northern Kentucky University Research Foundat        1,204,357
+Western Kentucky University Research Foundati        1,180,275
+Murray State University                                531,326
+Western Kentucky University Research Foundation        288,125
+University Of Kentucky Res Foundation                  260,000
+Northern Kentucky University Research Foundation       242,979
+Northern Kentucky University                           242,978
+Eastern Kentucky University                            143,420
+University Of Louisville Res Foundation                 95,363
 ```
 ## SULI/CCI Interns
 <p align="center">
@@ -91,19 +89,19 @@ In the past 8 years, this district has received:
 ```
   Year  Vendor                             Amount ($)  Item
 ------  -------------------------------  ------------  --------------------------------------------
-  2014  BOSTON GOVERNMENT SERVICES, LLC       258,735  SUPPORT- PROFESSIONAL: ENGINEERING/TECHNICAL
-  2013  BOSTON GOVERNMENT SERVICES, LLC       163,229  SUPPORT- PROFESSIONAL: ENGINEERING/TECHNICAL
-  2013  ELECTRIC ENERGY INCORPORATED          650,000  UTILITIES- ELECTRIC
-  2012  ELECTRIC ENERGY INCORPORATED          350,000  UTILITIES- ELECTRIC
+  2014  Boston Government Services, LLC       258,735  Support- Professional: Engineering/Technical
+  2013  Boston Government Services, LLC       163,229  Support- Professional: Engineering/Technical
+  2013  Electric Energy Inc.                  650,000  Utilities- Electric
+  2012  Electric Energy Inc.                  350,000  Utilities- Electric
 ```
 ## NSF MPS Grants
 In the past 8 years, this district has received:<b> $531,326 </b>in NSF MPS grants.
 ```
   Year  Institution                Amount ($)
 ------  -----------------------  ------------
-  2018  MURRAY STATE UNIVERSITY       306,761
-  2017  MURRAY STATE UNIVERSITY        74,625
-  2014  MURRAY STATE UNIVERSITY       149,940
+  2018  Murray State University       306,761
+  2017  Murray State University        74,625
+  2014  Murray State University       149,940
 ```
 ## SULI/CCI Interns
 From 2014-2016 (only years available), this district had 1 SULI/CCI intern
@@ -132,13 +130,13 @@ This district received no SC contracts from 2012-2019
 ## NSF MPS Grants
 In the past 8 years, this district has received:<b> $1,468,400 </b>in NSF MPS grants.
 ```
-  Year  Institution                                            Amount ($)
-------  ---------------------------------------------------  ------------
-  2018  WESTERN KENTUCKY UNIVERSITY RESEARCH FOUNDATION INC       288,125
-  2016  WESTERN KENTUCKY UNIVERSITY RESEARCH FOUNDATI             127,808
-  2015  WESTERN KENTUCKY UNIVERSITY RESEARCH FOUNDATI             300,468
-  2013  WESTERN KENTUCKY UNIVERSITY RESEARCH FOUNDATI             497,999
-  2012  WESTERN KENTUCKY UNIVERSITY RESEARCH FOUNDATI             254,000
+  Year  Institution                                        Amount ($)
+------  -----------------------------------------------  ------------
+  2018  Western Kentucky University Research Foundation       288,125
+  2016  Western Kentucky University Research Foundati         127,808
+  2015  Western Kentucky University Research Foundati         300,468
+  2013  Western Kentucky University Research Foundati         497,999
+  2012  Western Kentucky University Research Foundati         254,000
 ```
 ## SULI/CCI Interns
 From 2014-2016 (only years available), this district had 2 SULI/CCI interns
@@ -152,17 +150,14 @@ Summer 2016  Paul Hudson              Western Kentucky University  Oak Ridge Nat
 <a name="KY-03"></a>
 [Back to top](#top)
 ## KY-03 -- Rep. John A. Yarmuth (D) -- [Wikipedia](https://en.wikipedia.org/wiki/KY-03)
-## Committees
-John A. Yarmuth is not on any of our key committees. 
-
 ## HEP Grants
 In the past 8 years, this district has received:<b> $151,000 </b>in SC HEP grants.
 ```
 Institution                 Amount ($)    Start    End  Principal Investigator    Project Title
 ------------------------  ------------  -------  -----  ------------------------  ----------------------------------------------------------------------------------------------
 University of Louisville        73,000     2014   2016  Brown, David              Studies of Hadronic Physics With the BaBar Detector at SLAC and the ATLAS Detector and the LHC
-UNIVERSITY OF LOUISVILLE        78,000     2013   2014  Brown                     Studies of Hadronic Physics With the BaBar Detector at SLAC and the ATLAS Detector and the LHC
-UNIVERSITY OF LOUISVILLE             0     2012   2014  Brown                     Contributions to Studies of CP Violation and Hadronic Physics with the Babar Collaboration
+University of Louisville        78,000     2013   2014  Brown                     Studies of Hadronic Physics With the BaBar Detector at SLAC and the ATLAS Detector and the LHC
+University of Louisville             0     2012   2014  Brown                     Contributions to Studies of CP Violation and Hadronic Physics with the Babar Collaboration
 ```
 ## SC Contracts
 ```
@@ -171,16 +166,16 @@ This district received no SC contracts from 2012-2019
 ## NSF MPS Grants
 In the past 8 years, this district has received:<b> $4,178,946 </b>in NSF MPS grants.
 ```
-  Year  Institution                 Amount ($)
-------  ------------------------  ------------
-  2018  UNIVERSITY OF LOUISVILLE       474,477
-  2017  UNIVERSITY OF LOUISVILLE       450,000
-  2016  UNIVERSITY OF LOUISVILLE       523,225
-  2015  U OF LOUISVILLE RES FDN         95,363
-  2015  UNIVERSITY OF LOUISVILLE       909,280
-  2014  UNIVERSITY OF LOUISVILLE       857,526
-  2013  UNIVERSITY OF LOUISVILLE       260,000
-  2012  UNIVERSITY OF LOUISVILLE       609,075
+  Year  Institution                                Amount ($)
+------  ---------------------------------------  ------------
+  2018  University Of Louisville                      474,477
+  2017  University Of Louisville                      450,000
+  2016  University Of Louisville                      523,225
+  2015  University Of Louisville                      909,280
+  2015  University Of Louisville Res Foundation        95,363
+  2014  University Of Louisville                      857,526
+  2013  University Of Louisville                      260,000
+  2012  University Of Louisville                      609,075
 ```
 ## SULI/CCI Interns
 From 2014-2016 (only years available), this district had 1 SULI/CCI intern
@@ -193,9 +188,6 @@ Spring 2016  Marcus Emory Schwarting  University of Louisville  National Renewab
 <a name="KY-04"></a>
 [Back to top](#top)
 ## KY-04 -- Rep. Thomas Massie (R) -- [Wikipedia](https://en.wikipedia.org/wiki/KY-04)
-## Committees
-Thomas Massie is not on any of our key committees. 
-
 ## HEP Grants
 ```
 This district received no SC HEP grants from 2012-2019
@@ -207,14 +199,14 @@ This district received no SC contracts from 2012-2019
 ## NSF MPS Grants
 In the past 8 years, this district has received:<b> $1,690,314 </b>in NSF MPS grants.
 ```
-  Year  Institution                                             Amount ($)
-------  ----------------------------------------------------  ------------
-  2018  NORTHERN KENTUCKY UNIVERSITY                               242,978
-  2017  NORTHERN KENTUCKY UNIVERSITY RESEARCH FOUNDATION INC       242,979
-  2016  NORTHERN KENTUCKY UNIVERSITY RESEARCH FOUNDAT              435,677
-  2015  NORTHERN KENTUCKY UNIVERSITY RESEARCH FOUNDAT              383,429
-  2013  NORTHERN KENTUCKY UNIVERSITY RESEARCH FOUNDAT              165,000
-  2012  NORTHERN KENTUCKY UNIVERSITY RESEARCH FOUNDAT              220,251
+  Year  Institution                                         Amount ($)
+------  ------------------------------------------------  ------------
+  2018  Northern Kentucky University                           242,978
+  2017  Northern Kentucky University Research Foundation       242,979
+  2016  Northern Kentucky University Research Foundat          435,677
+  2015  Northern Kentucky University Research Foundat          383,429
+  2013  Northern Kentucky University Research Foundat          165,000
+  2012  Northern Kentucky University Research Foundat          220,251
 ```
 ## SULI/CCI Interns
 ```
@@ -252,9 +244,6 @@ Summer 2014  Caelan Lapointe      Union College                  National Renewa
 <a name="KY-06"></a>
 [Back to top](#top)
 ## KY-06 -- Rep. Andy Barr (R) -- [Wikipedia](https://en.wikipedia.org/wiki/KY-06)
-## Committees
-Andy Barr is not on any of our key committees. 
-
 ## HEP Grants
 In the past 8 years, this district has received:<b> $412,000 </b>in SC HEP grants.
 ```
@@ -270,18 +259,18 @@ This district received no SC contracts from 2012-2019
 ## NSF MPS Grants
 In the past 8 years, this district has received:<b> $18,970,139 </b>in NSF MPS grants.
 ```
-  Year  Institution                    Amount ($)
-------  ---------------------------  ------------
-  2019  UNIVERSITY OF KENTUCKY             65,044
-  2018  UNIVERSITY OF KENTUCKY          4,490,902
-  2017  UNIVERSITY OF KENTUCKY          2,761,259
-  2016  EASTERN KENTUCKY UNIVERSITY       143,420
-  2016  UNIVERSITY OF KENTUCKY          2,843,255
-  2015  U OF KENTUCKY RES FDN             260,000
-  2015  UNIVERSITY OF KENTUCKY          1,058,279
-  2014  UNIVERSITY OF KENTUCKY          1,433,029
-  2013  UNIVERSITY OF KENTUCKY          2,905,993
-  2012  UNIVERSITY OF KENTUCKY          3,008,958
+  Year  Institution                              Amount ($)
+------  -------------------------------------  ------------
+  2019  University Of Kentucky                       65,044
+  2018  University Of Kentucky                    4,490,902
+  2017  University Of Kentucky                    2,761,259
+  2016  Eastern Kentucky University                 143,420
+  2016  University Of Kentucky                    2,843,255
+  2015  University Of Kentucky                    1,058,279
+  2015  University Of Kentucky Res Foundation       260,000
+  2014  University Of Kentucky                    1,433,029
+  2013  University Of Kentucky                    2,905,993
+  2012  University Of Kentucky                    3,008,958
 ```
 ## SULI/CCI Interns
 From 2014-2016 (only years available), this district had 4 SULI/CCI interns

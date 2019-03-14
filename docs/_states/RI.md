@@ -11,8 +11,6 @@ permalink : /states/RI/
 
 # RI -- Sen. Sheldon Whitehouse (D) and  Sen. Jack Reed (D)
 ## Committees
-Sheldon Whitehouse is not on any of our key committees. 
-
 Jack Reed is the #4 Democrat on the Senate Appropriations Subcommittee on Commerce, Justice, Science, and Related Agencies 
 
 Jack Reed is the #5 Democrat on the Senate Committee on Appropriations 
@@ -28,8 +26,8 @@ In the past 8 years, this state has received:
   2016  Brown University     1,650,000
   2015  Brown University     1,643,000
   2014  Brown University     1,981,000
-  2013  BROWN UNIVERSITY     2,630,000
-  2012  BROWN UNIVERSITY     1,976,000
+  2013  Brown University     2,630,000
+  2012  Brown University     1,976,000
 ```
 ## SC Contracts
 ```
@@ -39,23 +37,20 @@ This state received no SC contracts from 2012-2019
 In the past 8 years, this state has received:
 309 NSF MPS grants, totalling <b> $63,669,541</b>
 ```
-Institution                                                                               Amount ($)
---------------------------------------------------------------------------------------  ------------
-BROWN UNIVERSITY IN PROVIDENCE IN STATE OF RI                                             36,943,572
-BROWN UNIVERSITY IN PROVIDENCE IN THE STATE OF RHODE ISLAND AND PROVIDENCE PLANTATIONS    16,214,318
-AMERICAN MATHEMATICAL SOCIETY                                                              3,556,633
-UNIVERSITY OF RHODE ISLAND                                                                 1,666,883
-BROWN UNIVERSITY IN PROVIDENCE IN THE STATE O                                              1,162,585
-BROWN UNIVERSITY                                                                           1,045,534
-GORDON RESEARCH CONFERENCES INC                                                              705,539
-AMERICAN MATHEMATICAL SOCIETY INC                                                            538,110
-GORDON RESEARCH CONFERENCES                                                                  536,421
-PII REDACTED                                                                                 450,000
-U OF RHODE ISLAND                                                                            260,000
-AMER MATHEMATICAL SOC                                                                        248,620
-PROVIDENCE COLLEGE                                                                           191,371
-GORDON RES CONFERENCES                                                                        90,000
-RHODE ISLAND COLLEGE (INC)                                                                    59,955
+Institution                                                                           Amount ($)
+----------------------------------------------------------------------------------  ------------
+Brown University In Providence In State Of Ri                                         36,943,572
+Brown University In Providence In State Of Rhode Island And Providence Plantations    16,214,318
+American Mathematical Society                                                          4,094,743
+University Of Rhode Island                                                             1,926,883
+Gordon Research Conferences                                                            1,241,960
+Brown University In Providence In State O                                              1,162,585
+Brown University                                                                       1,045,534
+Pii Redacted                                                                             450,000
+Amer Mathematical Soc                                                                    248,620
+Providence College                                                                       191,371
+Gordon Res Conferences                                                                    90,000
+Rhode Island College                                                                      59,955
 ```
 ## SULI/CCI Interns
 <p align="center">
@@ -75,9 +70,6 @@ From 2014-2016 (only years available), this state had 12 SULI/CCI interns
 <a name="RI-01"></a>
 [Back to top](#top)
 ## RI-01 -- Rep. David N. Cicilline (D) -- [Wikipedia](https://en.wikipedia.org/wiki/RI-01)
-## Committees
-David N. Cicilline is not on any of our key committees. 
-
 ## HEP Grants
 In the past 8 years, this district has received:<b> $13,360,000 </b>in SC HEP grants.
 ```
@@ -89,9 +81,9 @@ Brown University     6,398,000     2015  Ongoing  Landsberg, Greg           Fund
 Brown University     1,566,000     2014  2015     Cutts, David              A Research Program in Theoretical and Experimental High Energy Physics
 Brown University       265,000     2014  2017     Dell'Antonio, Ian         Modeling and Correcting Systematic Errors in the Weak Gravitational Lensing Calibration of Galaxy Cluster Masses with LSST
 Brown University       300,000     2014  2016     Volovich, Anastasia       Miracles in Scattering Amplitudes: from QCD to Gravity
-BROWN UNIVERSITY     1,611,000     2013  2014     Cutts                     A Research Program in Theoretical and Experimental High Energy Physics
-BROWN UNIVERSITY     2,695,000     2012  2014     Cutts                     A Research Program in Theoretical and Experimental High Energy Physics
-BROWN UNIVERSITY       300,000     2012  2014     Volovich                  Miracles in Scattering Amplitudes: from QCD to Gravity
+Brown University     1,611,000     2013  2014     Cutts                     A Research Program in Theoretical and Experimental High Energy Physics
+Brown University     2,695,000     2012  2014     Cutts                     A Research Program in Theoretical and Experimental High Energy Physics
+Brown University       300,000     2012  2014     Volovich                  Miracles in Scattering Amplitudes: from QCD to Gravity
 ```
 ## SC Contracts
 ```
@@ -100,28 +92,28 @@ This district received no SC contracts from 2012-2019
 ## NSF MPS Grants
 In the past 8 years, this district has received:<b> $58,862,363 </b>in NSF MPS grants.
 ```
-  Year  Institution                                                                               Amount ($)
-------  --------------------------------------------------------------------------------------  ------------
-  2018  PII REDACTED                                                                                 300,000
-  2018  BROWN UNIVERSITY IN PROVIDENCE IN THE STATE OF RHODE ISLAND AND PROVIDENCE PLANTATIONS     5,994,047
-  2018  AMERICAN MATHEMATICAL SOCIETY                                                                297,000
-  2017  PII REDACTED                                                                                 150,000
-  2017  BROWN UNIVERSITY IN PROVIDENCE IN THE STATE OF RHODE ISLAND AND PROVIDENCE PLANTATIONS    10,220,271
-  2017  BROWN UNIVERSITY IN PROVIDENCE IN THE STATE O                                                150,000
-  2017  AMERICAN MATHEMATICAL SOCIETY                                                                167,500
-  2016  BROWN UNIVERSITY IN PROVIDENCE IN THE STATE O                                              1,012,585
-  2016  PROVIDENCE COLLEGE                                                                           126,399
-  2016  BROWN UNIVERSITY IN PROVIDENCE IN STATE OF RI                                              6,057,109
-  2016  AMERICAN MATHEMATICAL SOCIETY                                                              1,225,745
-  2015  BROWN UNIVERSITY IN PROVIDENCE IN STATE OF RI                                              5,925,521
-  2015  BROWN UNIVERSITY                                                                           1,045,534
-  2015  AMER MATHEMATICAL SOC                                                                        248,620
-  2014  BROWN UNIVERSITY IN PROVIDENCE IN STATE OF RI                                              6,863,829
-  2014  AMERICAN MATHEMATICAL SOCIETY                                                                628,330
-  2013  BROWN UNIVERSITY IN PROVIDENCE IN STATE OF RI                                              7,489,011
-  2013  AMERICAN MATHEMATICAL SOCIETY                                                              1,238,058
-  2012  BROWN UNIVERSITY IN PROVIDENCE IN STATE OF RI                                              9,184,694
-  2012  AMERICAN MATHEMATICAL SOCIETY INC                                                            538,110
+  Year  Institution                                                                           Amount ($)
+------  ----------------------------------------------------------------------------------  ------------
+  2018  Pii Redacted                                                                             300,000
+  2018  Brown University In Providence In State Of Rhode Island And Providence Plantations     5,994,047
+  2018  American Mathematical Society                                                            297,000
+  2017  Pii Redacted                                                                             150,000
+  2017  Brown University In Providence In State Of Rhode Island And Providence Plantations    10,220,271
+  2017  Brown University In Providence In State O                                                150,000
+  2017  American Mathematical Society                                                            167,500
+  2016  Brown University In Providence In State Of Ri                                          6,057,109
+  2016  Providence College                                                                       126,399
+  2016  Brown University In Providence In State O                                              1,012,585
+  2016  American Mathematical Society                                                          1,225,745
+  2015  Brown University In Providence In State Of Ri                                          5,925,521
+  2015  Brown University                                                                       1,045,534
+  2015  Amer Mathematical Soc                                                                    248,620
+  2014  Brown University In Providence In State Of Ri                                          6,863,829
+  2014  American Mathematical Society                                                            628,330
+  2013  Brown University In Providence In State Of Ri                                          7,489,011
+  2013  American Mathematical Society                                                          1,238,058
+  2012  Brown University In Providence In State Of Ri                                          9,184,694
+  2012  American Mathematical Society                                                            538,110
 ```
 ## SULI/CCI Interns
 From 2014-2016 (only years available), this district had 7 SULI/CCI interns
@@ -140,9 +132,6 @@ Summer 2014  Jeff Baum                 Brown University  Idaho National Laborato
 <a name="RI-02"></a>
 [Back to top](#top)
 ## RI-02 -- Rep. James R. Langevin (D) -- [Wikipedia](https://en.wikipedia.org/wiki/RI-02)
-## Committees
-James R. Langevin is not on any of our key committees. 
-
 ## HEP Grants
 ```
 This district received no SC HEP grants from 2012-2019
@@ -156,26 +145,24 @@ In the past 8 years, this district has received:<b> $4,807,178 </b>in NSF MPS gr
 ```
   Year  Institution                                      Amount ($)
 ------  ---------------------------------------------  ------------
-  2018  UNIVERSITY OF RHODE ISLAND                          317,800
-  2018  GORDON RESEARCH CONFERENCES                         186,581
-  2017  UNIVERSITY OF RHODE ISLAND                          413,243
-  2017  PROVIDENCE COLLEGE                                   64,972
-  2017  GORDON RESEARCH CONFERENCES                         138,010
-  2016  UNIVERSITY OF RHODE ISLAND                          683,717
-  2016  GORDON RESEARCH CONFERENCES                         201,830
-  2015  U OF RHODE ISLAND                                   260,000
-  2015  UNIVERSITY OF RHODE ISLAND                          202,993
-  2015  GORDON RESEARCH CONFERENCES INC                      35,000
-  2015  GORDON RESEARCH CONFERENCES                          10,000
-  2015  GORDON RES CONFERENCES                               90,000
-  2014  UNIVERSITY OF RHODE ISLAND                           49,130
-  2014  RHODE ISLAND COLLEGE (INC)                           19,967
-  2014  GORDON RESEARCH CONFERENCES INC                     190,900
-  2013  RHODE ISLAND COLLEGE (INC)                           19,989
-  2013  GORDON RESEARCH CONFERENCES INC                     157,950
-  2013  BROWN UNIVERSITY IN PROVIDENCE IN STATE OF RI     1,423,408
-  2012  RHODE ISLAND COLLEGE (INC)                           19,999
-  2012  GORDON RESEARCH CONFERENCES INC                     321,689
+  2018  University Of Rhode Island                          317,800
+  2018  Gordon Research Conferences                         186,581
+  2017  University Of Rhode Island                          413,243
+  2017  Providence College                                   64,972
+  2017  Gordon Research Conferences                         138,010
+  2016  University Of Rhode Island                          683,717
+  2016  Gordon Research Conferences                         201,830
+  2015  University Of Rhode Island                          462,993
+  2015  Gordon Research Conferences                          45,000
+  2015  Gordon Res Conferences                               90,000
+  2014  University Of Rhode Island                           49,130
+  2014  Rhode Island College                                 19,967
+  2014  Gordon Research Conferences                         190,900
+  2013  Rhode Island College                                 19,989
+  2013  Gordon Research Conferences                         157,950
+  2013  Brown University In Providence In State Of Ri     1,423,408
+  2012  Rhode Island College                                 19,999
+  2012  Gordon Research Conferences                         321,689
 ```
 ## SULI/CCI Interns
 From 2014-2016 (only years available), this district had 5 SULI/CCI interns

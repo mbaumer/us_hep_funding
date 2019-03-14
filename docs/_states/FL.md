@@ -15,6 +15,7 @@ Marco Rubio is the #9 Republican on the Senate Appropriations Subcommittee on Co
 
 Marco Rubio is the #15 Republican on the Senate Committee on Appropriations 
 
+## Committees
 Rick Scott is the #14 Republican on the Senate Committee on Commerce, Science, and Transportation 
 
 ## HEP Grants
@@ -23,14 +24,10 @@ In the past 8 years, this state has received:
 ```
 Institution                        Amount ($)
 -------------------------------  ------------
-Florida State University           14,229,999
-University of Florida              10,824,000
-UNIVERSITY OF FLORIDA               4,654,000
-FLORIDA STATE UNIVERSITY            4,351,000
-Florida Institute of Technology     1,371,000
-FLORIDA INSTITUTE OF TECHNOLOGY       299,000
-FLORIDA A&M UNIVERSITY                141,000
-Florida A&M University                 78,000
+Florida State University           18,580,999
+University of Florida              15,478,000
+Florida Institute of Technology     1,670,000
+Florida A&M University                219,000
 ```
 ## SC Contracts
 In the past 8 years, this state has received:
@@ -38,47 +35,40 @@ In the past 8 years, this state has received:
 ```
 Vendor                         Amount ($)  Item
 ---------------------------  ------------  -----------------------------------------
-FEDERAL CONTRACTS CORP             37,077  PASSENGER MOTOR VEHICLES
-TOM BRUNTON MASONRY, INC.          10,739  ARCHITECT AND ENGINEERING- GENERAL: OTHER
-SIMPLEXGRINNELL LP                  7,802  FIRE CONTROL DIRECTORS
-TAYLOR & FRANCIS GROUP, LLC         5,960  NEWSPAPERS AND PERIODICALS
-SUPPLIES NOW, INC.                  4,111  OFFICE SUPPLIES
+Federal Contracts Corp             37,077  Passenger Motor Vehicles
+Tom Brunton Masonry, Inc.          10,739  Architect And Engineering- General: Other
+Simplexgrinnell Lp                  7,802  Fire Control Directors
+Taylor & Francis Group, LLC         5,960  Newspapers And Periodicals
+Supplies Now, Inc.                  4,111  Office Supplies
 ```
 ## NSF MPS Grants
 In the past 8 years, this state has received:
 812 NSF MPS grants, totalling <b> $398,928,680</b>
 ```
-Institution                                             Amount ($)
-----------------------------------------------------  ------------
-FLORIDA STATE UNIVERSITY, THE                          184,316,447
-FLORIDA STATE UNIVERSITY                               106,926,152
-UNIVERSITY OF FLORIDA                                   49,419,443
-UNIVERSITY OF CENTRAL FLORIDA BOARD OF TRUSTEES, THE    13,943,523
-UNIVERSITY OF SOUTH FLORIDA                             12,081,799
-UNIVERSITY OF MIAMI                                      9,679,559
-UNIVERSITY OF CENTRAL FLORIDA                            7,134,104
-FLORIDA INTERNATIONAL UNIVERSITY                         6,196,111
-FLORIDA INSTITUTE OF TECHNOLOGY, INC.                    2,070,469
-U OF SOUTH FLORIDA                                       1,080,263
-EMBRY-RIDDLE AERONAUTICAL UNIVERSITY INC                   910,390
-FLORIDA ATLANTIC UNIVERSITY                                861,169
-UNIVERSITY OF NORTH FLORIDA, THE                           819,628
-ROLLINS COLLEGE                                            586,390
-UNIVERSITY OF TAMPA, INCORPORATED, THE                     411,986
-FLORIDA GULF COAST UNIVERSITY                              377,857
-NEW COLLEGE OF FLORIDA                                     369,602
-FOUNDATION FOR APPLIED MOLECULAR EVOLUTION, I              339,970
-FLORIDA A & M UNIVERSITY                                   313,024
-FOUNDATION FOR APPLIED MOLECULAR EVOLUTION, INC.           299,994
-PII REDACTED                                               150,000
-FLORIDA INTERNATIONAL UNIV                                 142,125
-UNIVERSITY OF CENTRAL FLORIDA BOARD OF TRUSTE              120,806
-ECKERD COLLEGE, INC.                                       107,255
-BETHUNE-COOKMAN UNIVERSITY INC.                            101,360
-FLORIDA INSTITUTE OF TECH                                   86,189
-FLORIDA ATLANTIC UNIV                                       45,565
-FLORIDA GULF COAST UNIV                                     30,000
-UNIVERSITY OF NORTH FLORIDA                                  7,500
+Institution                                        Amount ($)
+-----------------------------------------------  ------------
+Florida State University                          291,242,599
+University Of Florida                              49,419,443
+University Of Central Florida Board Of Trustees    13,943,523
+University Of South Florida                        13,162,062
+University Of Miami                                 9,679,559
+University Of Central Florida                       7,134,104
+Florida International University                    6,338,236
+Florida Institute Of Technology                     2,156,658
+Embry-Riddle Aeronautical University                  910,390
+Florida Atlantic University                           906,734
+University Of North Florida                           827,128
+Rollins College                                       586,390
+University Of Tampa Incorporated                      411,986
+Florida Gulf Coast University                         407,857
+New College Of Florida                                369,602
+Foundation For Applied Molecular Evolution I          339,970
+Florida A & M University                              313,024
+Foundation For Applied Molecular Evolution            299,994
+Pii Redacted                                          150,000
+University Of Central Florida Board Of Truste         120,806
+Eckerd College                                        107,255
+Bethune-Cookman University Inc.                       101,360
 ```
 ## SULI/CCI Interns
 <p align="center">
@@ -105,9 +95,6 @@ From 2014-2016 (only years available), this state had 49 SULI/CCI interns
 <a name="FL-01"></a>
 [Back to top](#top)
 ## FL-01 -- Rep. Matt Gaetz (R) -- [Wikipedia](https://en.wikipedia.org/wiki/FL-01)
-## Committees
-Matt Gaetz is not on any of our key committees. 
-
 ## HEP Grants
 ```
 This district received no SC HEP grants from 2012-2019
@@ -147,20 +134,20 @@ Florida State University       710,000     2017  Ongoing  Cooley, Lance         
 Florida State University             0     2017  Ongoing  Guo, Wei                  LIQUID HELIUM FLUID DYNAMICS STUDIES
 Florida State University       450,000     2016  Ongoing  Johnson, Kurtis           Ultra-Rad-Hard Particle Detection for Modern Colliders
 Florida State University       750,000     2016  2017     Larbalestier, David       THE UNDERLYING SCIENCE OF ROUND WIRE Bi-2212 (Bi2Sr2CaCu2O8+x)
+Florida State University     1,820,000     2014  Ongoing  Larbalestier, David       Nb3Sn Superconductors for the LHC and for Accelerators Beyond the LHC
+Florida State University     1,265,000     2014  2017     Van Sciver, Steven        Liquid Helium Fluid Dynamics Studies
+Florida State University     3,175,000     2014  Ongoing  Prosper, Harrison         Florida State University High Energy Physics
+Florida State University     1,025,000     2014  Ongoing  Lee, Peter                The Impact of Grain Boundaries and Dislocation Substructures On Functional Properties of Nb for SRF Cavities: Microstructural, Microchemical, and Electromagnetic Characterization
+Florida State University     3,295,000     2014  Ongoing  Larbalestier, David       The Underlying Science of Round Wire Bi-2212 (Bi2Sr2CaCu2O8+x)
 Florida A&M University          78,000     2014  2017     Williams, Ronald          Advanced Accelerators: Particle, Photon and Plasma Wave Interactions
 Florida State University            -1     2014  2016     Larbalestier, David       High Field Superconductor Development And Understanding
-Florida State University     3,295,000     2014  Ongoing  Larbalestier, David       The Underlying Science of Round Wire Bi-2212 (Bi2Sr2CaCu2O8+x)
-Florida State University     1,820,000     2014  Ongoing  Larbalestier, David       Nb3Sn Superconductors for the LHC and for Accelerators Beyond the LHC
-Florida State University     1,025,000     2014  Ongoing  Lee, Peter                The Impact of Grain Boundaries and Dislocation Substructures On Functional Properties of Nb for SRF Cavities: Microstructural, Microchemical, and Electromagnetic Characterization
-Florida State University     3,175,000     2014  Ongoing  Prosper, Harrison         Florida State University High Energy Physics
-Florida State University     1,265,000     2014  2017     Van Sciver, Steven        Liquid Helium Fluid Dynamics Studies
-FLORIDA STATE UNIVERSITY       743,000     2013  2014     Prosper                   Florida State University High Energy Physics
-FLORIDA STATE UNIVERSITY       200,000     2013  2014     Lee                       The Cost of Grain Boundaries on the Performance of Superconducting Cavities: Microstructural, Microchemical, and Electromagnetic Characterization
-FLORIDA STATE UNIVERSITY       580,000     2013  2014     Larbalestier              The Underlying Science of High Critical Current Density in Round Wire Bi-2212
-FLORIDA STATE UNIVERSITY     1,204,000     2012  2014     Prosper, Owens            High Energy Physics
-FLORIDA STATE UNIVERSITY       476,000     2012  2014     Van Sciver                Liquid Helium Fluid Dynamics Studies
-FLORIDA STATE UNIVERSITY     1,148,000     2012  2014     Larbalestier              High Field Superconductor Development and Understanding
-FLORIDA A&M UNIVERSITY         141,000     2012  2014     Williams                  Advanced Accelerators:  Particle, Photon and Plasma Wave Interactions
+Florida State University       200,000     2013  2014     Lee                       The Cost of Grain Boundaries on the Performance of Superconducting Cavities: Microstructural, Microchemical, and Electromagnetic Characterization
+Florida State University       743,000     2013  2014     Prosper                   Florida State University High Energy Physics
+Florida State University       580,000     2013  2014     Larbalestier              The Underlying Science of High Critical Current Density in Round Wire Bi-2212
+Florida State University     1,204,000     2012  2014     Prosper, Owens            High Energy Physics
+Florida State University       476,000     2012  2014     Van Sciver                Liquid Helium Fluid Dynamics Studies
+Florida State University     1,148,000     2012  2014     Larbalestier              High Field Superconductor Development and Understanding
+Florida A&M University         141,000     2012  2014     Williams                  Advanced Accelerators:  Particle, Photon and Plasma Wave Interactions
 ```
 ## SC Contracts
 ```
@@ -169,17 +156,16 @@ This district received no SC contracts from 2012-2019
 ## NSF MPS Grants
 In the past 8 years, this district has received:<b> $199,208,177 </b>in NSF MPS grants.
 ```
-  Year  Institution                      Amount ($)
-------  -----------------------------  ------------
-  2017  FLORIDA STATE UNIVERSITY, THE       205,724
-  2016  FLORIDA A & M UNIVERSITY             19,999
-  2016  FLORIDA STATE UNIVERSITY, THE    40,380,226
-  2015  FLORIDA STATE UNIVERSITY         25,494,440
-  2015  FLORIDA STATE UNIVERSITY, THE    14,354,578
-  2014  FLORIDA A & M UNIVERSITY            100,000
-  2014  FLORIDA STATE UNIVERSITY, THE    45,754,778
-  2013  FLORIDA STATE UNIVERSITY, THE    36,908,080
-  2012  FLORIDA STATE UNIVERSITY, THE    35,990,352
+  Year  Institution                 Amount ($)
+------  ------------------------  ------------
+  2017  Florida State University       205,724
+  2016  Florida A & M University        19,999
+  2016  Florida State University    40,380,226
+  2015  Florida State University    39,849,018
+  2014  Florida A & M University       100,000
+  2014  Florida State University    45,754,778
+  2013  Florida State University    36,908,080
+  2012  Florida State University    35,990,352
 ```
 ## SULI/CCI Interns
 ```
@@ -189,9 +175,6 @@ This district had no SULI/CCI interns from 2014-2016 (only years available)
 <a name="FL-03"></a>
 [Back to top](#top)
 ## FL-03 -- Rep. Ted S. Yoho (R) -- [Wikipedia](https://en.wikipedia.org/wiki/FL-03)
-## Committees
-Ted S. Yoho is not on any of our key committees. 
-
 ## HEP Grants
 In the past 8 years, this district has received:<b> $10,824,000 </b>in SC HEP grants.
 ```
@@ -215,18 +198,18 @@ This district received no SC contracts from 2012-2019
 ## NSF MPS Grants
 In the past 8 years, this district has received:<b> $41,830,074 </b>in NSF MPS grants.
 ```
-  Year  Institution                                         Amount ($)
-------  ------------------------------------------------  ------------
-  2019  UNIVERSITY OF FLORIDA                                  356,553
-  2018  FOUNDATION FOR APPLIED MOLECULAR EVOLUTION, INC.       299,994
-  2018  UNIVERSITY OF FLORIDA                                7,905,257
-  2017  UNIVERSITY OF FLORIDA                                6,641,016
-  2016  FOUNDATION FOR APPLIED MOLECULAR EVOLUTION, I           19,970
-  2016  UNIVERSITY OF FLORIDA                                5,036,153
-  2015  FOUNDATION FOR APPLIED MOLECULAR EVOLUTION, I          320,000
-  2015  UNIVERSITY OF FLORIDA                                8,052,110
-  2014  UNIVERSITY OF FLORIDA                                6,294,762
-  2013  UNIVERSITY OF FLORIDA                                6,904,259
+  Year  Institution                                     Amount ($)
+------  --------------------------------------------  ------------
+  2019  University Of Florida                              356,553
+  2018  Foundation For Applied Molecular Evolution         299,994
+  2018  University Of Florida                            7,905,257
+  2017  University Of Florida                            6,641,016
+  2016  Foundation For Applied Molecular Evolution I        19,970
+  2016  University Of Florida                            5,036,153
+  2015  Foundation For Applied Molecular Evolution I       320,000
+  2015  University Of Florida                            8,052,110
+  2014  University Of Florida                            6,294,762
+  2013  University Of Florida                            6,904,259
 ```
 ## SULI/CCI Interns
 From 2014-2016 (only years available), this district had 15 SULI/CCI interns
@@ -267,13 +250,13 @@ This district received no SC contracts from 2012-2019
 ## NSF MPS Grants
 In the past 8 years, this district has received:<b> $977,128 </b>in NSF MPS grants.
 ```
-  Year  Institution                         Amount ($)
-------  --------------------------------  ------------
-  2017  PII REDACTED                           150,000
-  2017  UNIVERSITY OF NORTH FLORIDA, THE       294,000
-  2016  UNIVERSITY OF NORTH FLORIDA, THE       118,137
-  2014  UNIVERSITY OF NORTH FLORIDA, THE       407,491
-  2012  UNIVERSITY OF NORTH FLORIDA              7,500
+  Year  Institution                    Amount ($)
+------  ---------------------------  ------------
+  2017  Pii Redacted                      150,000
+  2017  University Of North Florida       294,000
+  2016  University Of North Florida       118,137
+  2014  University Of North Florida       407,491
+  2012  University Of North Florida         7,500
 ```
 ## SULI/CCI Interns
 ```
@@ -283,9 +266,6 @@ This district had no SULI/CCI interns from 2014-2016 (only years available)
 <a name="FL-05"></a>
 [Back to top](#top)
 ## FL-05 -- Rep. Al Lawson, Jr. (D) -- [Wikipedia](https://en.wikipedia.org/wiki/FL-05)
-## Committees
-Al Lawson, Jr. is not on any of our key committees. 
-
 ## HEP Grants
 ```
 This district received no SC HEP grants from 2012-2019
@@ -297,13 +277,12 @@ This district received no SC contracts from 2012-2019
 ## NSF MPS Grants
 In the past 8 years, this district has received:<b> $92,347,446 </b>in NSF MPS grants.
 ```
-  Year  Institution                      Amount ($)
-------  -----------------------------  ------------
-  2019  FLORIDA STATE UNIVERSITY              5,000
-  2018  FLORIDA STATE UNIVERSITY         62,543,095
-  2017  FLORIDA A & M UNIVERSITY            193,025
-  2017  FLORIDA STATE UNIVERSITY         18,883,617
-  2017  FLORIDA STATE UNIVERSITY, THE    10,722,709
+  Year  Institution                 Amount ($)
+------  ------------------------  ------------
+  2019  Florida State University         5,000
+  2018  Florida State University    62,543,095
+  2017  Florida A & M University       193,025
+  2017  Florida State University    29,606,326
 ```
 ## SULI/CCI Interns
 From 2014-2016 (only years available), this district had 3 SULI/CCI interns
@@ -326,12 +305,12 @@ In the past 8 years, this district has received:<b> $4,654,000 </b>in SC HEP gra
 ```
 Institution              Amount ($)    Start    End  Principal Investigator    Project Title
 ---------------------  ------------  -------  -----  ------------------------  --------------------------------------------------------------------------------------------------------------
-UNIVERSITY OF FLORIDA       316,000     2013   2014  Field                     Elementary Particle Theory and Phenomenology at the University of Florida
-UNIVERSITY OF FLORIDA       107,000     2013   2014  Ray                       Neutrino Cross Sections: Foundations of the Future
-UNIVERSITY OF FLORIDA       950,000     2013   2014  Tanner                    The Generation 2 Axion Dark-Matter Experiment (Gen 2 ADMX)
-UNIVERSITY OF FLORIDA        85,000     2013   2014  Tanner                    Search for axionic dark matter
-UNIVERSITY OF FLORIDA       955,000     2013   2014  Yelton                    Research in High Energy Experimental Physics using the CMS detector at the Large Hadron Collider, CERN, Geneva
-UNIVERSITY OF FLORIDA     2,241,000     2012   2013  Yelton                    High Energy Experimental and Theoretical Research
+University of Florida       316,000     2013   2014  Field                     Elementary Particle Theory and Phenomenology at the University of Florida
+University of Florida       107,000     2013   2014  Ray                       Neutrino Cross Sections: Foundations of the Future
+University of Florida       950,000     2013   2014  Tanner                    The Generation 2 Axion Dark-Matter Experiment (Gen 2 ADMX)
+University of Florida        85,000     2013   2014  Tanner                    Search for axionic dark matter
+University of Florida       955,000     2013   2014  Yelton                    Research in High Energy Experimental Physics using the CMS detector at the Large Hadron Collider, CERN, Geneva
+University of Florida     2,241,000     2012   2013  Yelton                    High Energy Experimental and Theoretical Research
 ```
 ## SC Contracts
 ```
@@ -340,15 +319,15 @@ This district received no SC contracts from 2012-2019
 ## NSF MPS Grants
 In the past 8 years, this district has received:<b> $9,115,056 </b>in NSF MPS grants.
 ```
-  Year  Institution                                 Amount ($)
-------  ----------------------------------------  ------------
-  2018  BETHUNE-COOKMAN UNIVERSITY INC.                101,360
-  2018  EMBRY-RIDDLE AERONAUTICAL UNIVERSITY INC       146,099
-  2017  EMBRY-RIDDLE AERONAUTICAL UNIVERSITY INC        78,687
-  2016  EMBRY-RIDDLE AERONAUTICAL UNIVERSITY INC        39,999
-  2014  EMBRY-RIDDLE AERONAUTICAL UNIVERSITY INC       154,381
-  2013  EMBRY-RIDDLE AERONAUTICAL UNIVERSITY INC       365,197
-  2012  UNIVERSITY OF FLORIDA                        8,229,333
+  Year  Institution                             Amount ($)
+------  ------------------------------------  ------------
+  2018  Bethune-Cookman University Inc.            101,360
+  2018  Embry-Riddle Aeronautical University       146,099
+  2017  Embry-Riddle Aeronautical University        78,687
+  2016  Embry-Riddle Aeronautical University        39,999
+  2014  Embry-Riddle Aeronautical University       154,381
+  2013  Embry-Riddle Aeronautical University       365,197
+  2012  University Of Florida                    8,229,333
 ```
 ## SULI/CCI Interns
 From 2014-2016 (only years available), this district had 1 SULI/CCI intern
@@ -361,9 +340,6 @@ Summer 2015  Vanna Blasczak  Stetson University  Ames National Laboratory  SULI
 <a name="FL-07"></a>
 [Back to top](#top)
 ## FL-07 -- Rep. Stephanie N. Murphy (D) -- [Wikipedia](https://en.wikipedia.org/wiki/FL-07)
-## Committees
-Stephanie N. Murphy is not on any of our key committees. 
-
 ## HEP Grants
 ```
 This district received no SC HEP grants from 2012-2019
@@ -375,21 +351,21 @@ This district received no SC contracts from 2012-2019
 ## NSF MPS Grants
 In the past 8 years, this district has received:<b> $19,904,824 </b>in NSF MPS grants.
 ```
-  Year  Institution                                             Amount ($)
-------  ----------------------------------------------------  ------------
-  2019  UNIVERSITY OF CENTRAL FLORIDA BOARD OF TRUSTEES, THE       685,000
-  2018  ROLLINS COLLEGE                                            126,109
-  2018  UNIVERSITY OF CENTRAL FLORIDA BOARD OF TRUSTEES, THE    11,668,225
-  2017  ROLLINS COLLEGE                                            123,873
-  2017  UNIVERSITY OF CENTRAL FLORIDA BOARD OF TRUSTE              120,806
-  2017  UNIVERSITY OF CENTRAL FLORIDA BOARD OF TRUSTEES, THE     1,590,298
-  2016  ROLLINS COLLEGE                                            121,663
-  2016  UNIVERSITY OF CENTRAL FLORIDA                            1,025,266
-  2015  UNIVERSITY OF CENTRAL FLORIDA                            1,198,472
-  2014  UNIVERSITY OF CENTRAL FLORIDA                            1,199,868
-  2013  EMBRY-RIDDLE AERONAUTICAL UNIVERSITY INC                   126,027
-  2013  ROLLINS COLLEGE                                            214,745
-  2013  UNIVERSITY OF CENTRAL FLORIDA                            1,704,472
+  Year  Institution                                        Amount ($)
+------  -----------------------------------------------  ------------
+  2019  University Of Central Florida Board Of Trustees       685,000
+  2018  Rollins College                                       126,109
+  2018  University Of Central Florida Board Of Trustees    11,668,225
+  2017  Rollins College                                       123,873
+  2017  University Of Central Florida Board Of Truste         120,806
+  2017  University Of Central Florida Board Of Trustees     1,590,298
+  2016  Rollins College                                       121,663
+  2016  University Of Central Florida                       1,025,266
+  2015  University Of Central Florida                       1,198,472
+  2014  University Of Central Florida                       1,199,868
+  2013  Embry-Riddle Aeronautical University                  126,027
+  2013  Rollins College                                       214,745
+  2013  University Of Central Florida                       1,704,472
 ```
 ## SULI/CCI Interns
 From 2014-2016 (only years available), this district had 7 SULI/CCI interns
@@ -427,13 +403,13 @@ This district received no SC contracts from 2012-2019
 ## NSF MPS Grants
 In the past 8 years, this district has received:<b> $1,963,195 </b>in NSF MPS grants.
 ```
-  Year  Institution                              Amount ($)
-------  -------------------------------------  ------------
-  2017  FLORIDA INSTITUTE OF TECHNOLOGY, INC.       416,705
-  2016  FLORIDA INSTITUTE OF TECHNOLOGY, INC.       710,622
-  2015  FLORIDA INSTITUTE OF TECH                    86,189
-  2014  FLORIDA INSTITUTE OF TECHNOLOGY, INC.       394,916
-  2013  FLORIDA INSTITUTE OF TECHNOLOGY, INC.       354,763
+  Year  Institution                        Amount ($)
+------  -------------------------------  ------------
+  2017  Florida Institute Of Technology       416,705
+  2016  Florida Institute Of Technology       710,622
+  2015  Florida Institute Of Technology        86,189
+  2014  Florida Institute Of Technology       394,916
+  2013  Florida Institute Of Technology       354,763
 ```
 ## SULI/CCI Interns
 From 2014-2016 (only years available), this district had 7 SULI/CCI interns
@@ -475,9 +451,6 @@ This district had no SULI/CCI interns from 2014-2016 (only years available)
 <a name="FL-10"></a>
 [Back to top](#top)
 ## FL-10 -- Rep. Val Butler Demings (D) -- [Wikipedia](https://en.wikipedia.org/wiki/FL-10)
-## Committees
-Val Butler Demings is not on any of our key committees. 
-
 ## HEP Grants
 ```
 This district received no SC HEP grants from 2012-2019
@@ -489,9 +462,9 @@ This district received no SC contracts from 2012-2019
 ## NSF MPS Grants
 In the past 8 years, this district has received:<b> $107,255 </b>in NSF MPS grants.
 ```
-  Year  Institution             Amount ($)
-------  --------------------  ------------
-  2012  ECKERD COLLEGE, INC.       107,255
+  Year  Institution       Amount ($)
+------  --------------  ------------
+  2012  Eckerd College       107,255
 ```
 ## SULI/CCI Interns
 ```
@@ -501,9 +474,6 @@ This district had no SULI/CCI interns from 2014-2016 (only years available)
 <a name="FL-11"></a>
 [Back to top](#top)
 ## FL-11 -- Rep. Daniel Webster (R) -- [Wikipedia](https://en.wikipedia.org/wiki/FL-11)
-## Committees
-Daniel Webster is not on any of our key committees. 
-
 ## HEP Grants
 ```
 This district received no SC HEP grants from 2012-2019
@@ -517,8 +487,8 @@ In the past 8 years, this district has received:<b> $1,883,871 </b>in NSF MPS gr
 ```
   Year  Institution                    Amount ($)
 ------  ---------------------------  ------------
-  2013  UNIVERSITY OF SOUTH FLORIDA        20,000
-  2012  UNIVERSITY OF SOUTH FLORIDA     1,863,871
+  2013  University Of South Florida        20,000
+  2012  University Of South Florida     1,863,871
 ```
 ## SULI/CCI Interns
 ```
@@ -591,17 +561,17 @@ In the past 8 years, this district has received:
 ```
   Year  Vendor                    Amount ($)  Item
 ------  ----------------------  ------------  ------------------------
-  2018  FEDERAL CONTRACTS CORP        37,077  PASSENGER MOTOR VEHICLES
+  2018  Federal Contracts Corp        37,077  Passenger Motor Vehicles
 ```
 ## NSF MPS Grants
 In the past 8 years, this district has received:<b> $5,224,495 </b>in NSF MPS grants.
 ```
-  Year  Institution                               Amount ($)
-------  --------------------------------------  ------------
-  2019  UNIVERSITY OF SOUTH FLORIDA                  518,312
-  2018  UNIVERSITY OF SOUTH FLORIDA                2,076,521
-  2018  UNIVERSITY OF TAMPA, INCORPORATED, THE       411,986
-  2017  UNIVERSITY OF SOUTH FLORIDA                2,217,676
+  Year  Institution                         Amount ($)
+------  --------------------------------  ------------
+  2019  University Of South Florida            518,312
+  2018  University Of South Florida          2,076,521
+  2018  University Of Tampa Incorporated       411,986
+  2017  University Of South Florida          2,217,676
 ```
 ## SULI/CCI Interns
 From 2014-2016 (only years available), this district had 3 SULI/CCI interns
@@ -616,15 +586,12 @@ Fall 2015    Romina Gotzmann      University of South Florida  Lawrence Berkeley
 <a name="FL-15"></a>
 [Back to top](#top)
 ## FL-15 -- Rep. Ross Spano (R) -- [Wikipedia](https://en.wikipedia.org/wiki/FL-15)
-## Committees
-Ross Spano is not on any of our key committees. 
-
 ## HEP Grants
 In the past 8 years, this district has received:<b> $299,000 </b>in SC HEP grants.
 ```
 Institution                        Amount ($)    Start    End  Principal Investigator    Project Title
 -------------------------------  ------------  -------  -----  ------------------------  --------------------------------------------------------------------------------------
-FLORIDA INSTITUTE OF TECHNOLOGY       299,000     2012   2014  Hohlmann, Baarmand        Experimental Investigation of Hadron Collisions at the Highest Center-of-Mass Energies
+Florida Institute of Technology       299,000     2012   2014  Hohlmann, Baarmand        Experimental Investigation of Hadron Collisions at the Highest Center-of-Mass Energies
 ```
 ## SC Contracts
 ```
@@ -633,15 +600,14 @@ This district received no SC contracts from 2012-2019
 ## NSF MPS Grants
 In the past 8 years, this district has received:<b> $6,659,145 </b>in NSF MPS grants.
 ```
-  Year  Institution                              Amount ($)
-------  -------------------------------------  ------------
-  2017  UNIVERSITY OF SOUTH FLORIDA                 615,253
-  2016  UNIVERSITY OF SOUTH FLORIDA               1,224,529
-  2015  U OF SOUTH FLORIDA                        1,080,263
-  2015  UNIVERSITY OF SOUTH FLORIDA               1,062,090
-  2014  UNIVERSITY OF SOUTH FLORIDA               1,598,059
-  2013  UNIVERSITY OF SOUTH FLORIDA                 885,488
-  2012  FLORIDA INSTITUTE OF TECHNOLOGY, INC.       193,463
+  Year  Institution                        Amount ($)
+------  -------------------------------  ------------
+  2017  University Of South Florida           615,253
+  2016  University Of South Florida         1,224,529
+  2015  University Of South Florida         2,142,353
+  2014  University Of South Florida         1,598,059
+  2013  University Of South Florida           885,488
+  2012  Florida Institute Of Technology       193,463
 ```
 ## SULI/CCI Interns
 ```
@@ -651,9 +617,6 @@ This district had no SULI/CCI interns from 2014-2016 (only years available)
 <a name="FL-16"></a>
 [Back to top](#top)
 ## FL-16 -- Rep. Vern Buchanan (R) -- [Wikipedia](https://en.wikipedia.org/wiki/FL-16)
-## Committees
-Vern Buchanan is not on any of our key committees. 
-
 ## HEP Grants
 ```
 This district received no SC HEP grants from 2012-2019
@@ -664,15 +627,15 @@ In the past 8 years, this district has received:
 ```
   Year  Vendor                       Amount ($)  Item
 ------  -------------------------  ------------  -----------------------------------------
-  2013  TOM BRUNTON MASONRY, INC.        10,739  ARCHITECT AND ENGINEERING- GENERAL: OTHER
+  2013  Tom Brunton Masonry, Inc.        10,739  Architect And Engineering- General: Other
 ```
 ## NSF MPS Grants
 In the past 8 years, this district has received:<b> $369,602 </b>in NSF MPS grants.
 ```
   Year  Institution               Amount ($)
 ------  ----------------------  ------------
-  2018  NEW COLLEGE OF FLORIDA       125,449
-  2014  NEW COLLEGE OF FLORIDA       244,153
+  2018  New College Of Florida       125,449
+  2014  New College Of Florida       244,153
 ```
 ## SULI/CCI Interns
 ```
@@ -682,9 +645,6 @@ This district had no SULI/CCI interns from 2014-2016 (only years available)
 <a name="FL-17"></a>
 [Back to top](#top)
 ## FL-17 -- Rep. W. Gregory Steube (R) -- [Wikipedia](https://en.wikipedia.org/wiki/FL-17)
-## Committees
-W. Gregory Steube is not on any of our key committees. 
-
 ## HEP Grants
 ```
 This district received no SC HEP grants from 2012-2019
@@ -698,8 +658,8 @@ In the past 8 years, this district has received:<b> $329,172 </b>in NSF MPS gran
 ```
   Year  Institution            Amount ($)
 ------  -------------------  ------------
-  2013  UNIVERSITY OF MIAMI        40,431
-  2012  UNIVERSITY OF MIAMI       288,741
+  2013  University Of Miami        40,431
+  2012  University Of Miami       288,741
 ```
 ## SULI/CCI Interns
 ```
@@ -709,9 +669,6 @@ This district had no SULI/CCI interns from 2014-2016 (only years available)
 <a name="FL-18"></a>
 [Back to top](#top)
 ## FL-18 -- Rep. Brian J. Mast (R) -- [Wikipedia](https://en.wikipedia.org/wiki/FL-18)
-## Committees
-Brian J. Mast is not on any of our key committees. 
-
 ## HEP Grants
 ```
 This district received no SC HEP grants from 2012-2019
@@ -725,7 +682,7 @@ In the past 8 years, this district has received:<b> $1,542,164 </b>in NSF MPS gr
 ```
   Year  Institution            Amount ($)
 ------  -------------------  ------------
-  2012  UNIVERSITY OF MIAMI     1,542,164
+  2012  University Of Miami     1,542,164
 ```
 ## SULI/CCI Interns
 ```
@@ -735,9 +692,6 @@ This district had no SULI/CCI interns from 2014-2016 (only years available)
 <a name="FL-19"></a>
 [Back to top](#top)
 ## FL-19 -- Rep. Francis Rooney (R) -- [Wikipedia](https://en.wikipedia.org/wiki/FL-19)
-## Committees
-Francis Rooney is not on any of our key committees. 
-
 ## HEP Grants
 ```
 This district received no SC HEP grants from 2012-2019
@@ -751,11 +705,10 @@ In the past 8 years, this district has received:<b> $482,857 </b>in NSF MPS gran
 ```
   Year  Institution                      Amount ($)
 ------  -----------------------------  ------------
-  2018  FLORIDA GULF COAST UNIVERSITY        45,000
-  2017  FLORIDA GULF COAST UNIVERSITY        58,391
-  2015  FLORIDA GULF COAST UNIV              30,000
-  2015  FLORIDA GULF COAST UNIVERSITY       274,466
-  2012  FLORIDA ATLANTIC UNIVERSITY          75,000
+  2018  Florida Gulf Coast University        45,000
+  2017  Florida Gulf Coast University        58,391
+  2015  Florida Gulf Coast University       304,466
+  2012  Florida Atlantic University          75,000
 ```
 ## SULI/CCI Interns
 ```
@@ -765,9 +718,6 @@ This district had no SULI/CCI interns from 2014-2016 (only years available)
 <a name="FL-20"></a>
 [Back to top](#top)
 ## FL-20 -- Rep. Alcee L. Hastings (D) -- [Wikipedia](https://en.wikipedia.org/wiki/FL-20)
-## Committees
-Alcee L. Hastings is not on any of our key committees. 
-
 ## HEP Grants
 ```
 This district received no SC HEP grants from 2012-2019
@@ -803,14 +753,14 @@ In the past 8 years, this district has received:
 ```
   Year  Vendor                Amount ($)  Item
 ------  ------------------  ------------  ---------------
-  2015  SUPPLIES NOW, INC.         4,111  OFFICE SUPPLIES
+  2015  Supplies Now, Inc.         4,111  Office Supplies
 ```
 ## NSF MPS Grants
 In the past 8 years, this district has received:<b> $1,558,838 </b>in NSF MPS grants.
 ```
   Year  Institution                         Amount ($)
 ------  --------------------------------  ------------
-  2012  FLORIDA INTERNATIONAL UNIVERSITY     1,558,838
+  2012  Florida International University     1,558,838
 ```
 ## SULI/CCI Interns
 ```
@@ -820,9 +770,6 @@ This district had no SULI/CCI interns from 2014-2016 (only years available)
 <a name="FL-22"></a>
 [Back to top](#top)
 ## FL-22 -- Rep. Theodore E. Deutch (D) -- [Wikipedia](https://en.wikipedia.org/wiki/FL-22)
-## Committees
-Theodore E. Deutch is not on any of our key committees. 
-
 ## HEP Grants
 ```
 This district received no SC HEP grants from 2012-2019
@@ -833,20 +780,19 @@ In the past 8 years, this district has received:
 ```
   Year  Vendor                         Amount ($)  Item
 ------  ---------------------------  ------------  --------------------------
-  2016  TAYLOR & FRANCIS GROUP, LLC         5,960  NEWSPAPERS AND PERIODICALS
-  2014  SIMPLEXGRINNELL LP                  7,802  FIRE CONTROL DIRECTORS
+  2016  Taylor & Francis Group, LLC         5,960  Newspapers And Periodicals
+  2014  Simplexgrinnell Lp                  7,802  Fire Control Directors
 ```
 ## NSF MPS Grants
 In the past 8 years, this district has received:<b> $831,734 </b>in NSF MPS grants.
 ```
   Year  Institution                    Amount ($)
 ------  ---------------------------  ------------
-  2018  FLORIDA ATLANTIC UNIVERSITY       279,840
-  2017  FLORIDA ATLANTIC UNIVERSITY       190,847
-  2016  FLORIDA ATLANTIC UNIVERSITY        42,985
-  2015  FLORIDA ATLANTIC UNIV              45,565
-  2015  FLORIDA ATLANTIC UNIVERSITY       106,498
-  2013  FLORIDA ATLANTIC UNIVERSITY       165,999
+  2018  Florida Atlantic University       279,840
+  2017  Florida Atlantic University       190,847
+  2016  Florida Atlantic University        42,985
+  2015  Florida Atlantic University       152,063
+  2013  Florida Atlantic University       165,999
 ```
 ## SULI/CCI Interns
 From 2014-2016 (only years available), this district had 7 SULI/CCI interns
@@ -906,8 +852,8 @@ In the past 8 years, this district has received:<b> $2,006,026 </b>in NSF MPS gr
 ```
   Year  Institution                      Amount ($)
 ------  -----------------------------  ------------
-  2013  UNIVERSITY OF CENTRAL FLORIDA       110,000
-  2012  UNIVERSITY OF CENTRAL FLORIDA     1,896,026
+  2013  University Of Central Florida       110,000
+  2012  University Of Central Florida     1,896,026
 ```
 ## SULI/CCI Interns
 ```
@@ -933,7 +879,7 @@ In the past 8 years, this district has received:<b> $103,086 </b>in NSF MPS gran
 ```
   Year  Institution                         Amount ($)
 ------  --------------------------------  ------------
-  2013  FLORIDA INTERNATIONAL UNIVERSITY       103,086
+  2013  Florida International University       103,086
 ```
 ## SULI/CCI Interns
 ```
@@ -943,9 +889,6 @@ This district had no SULI/CCI interns from 2014-2016 (only years available)
 <a name="FL-26"></a>
 [Back to top](#top)
 ## FL-26 -- Rep. Debbie Mucarsel-Powell (D) -- [Wikipedia](https://en.wikipedia.org/wiki/FL-26)
-## Committees
-Debbie Mucarsel-Powell is not on any of our key committees. 
-
 ## HEP Grants
 ```
 This district received no SC HEP grants from 2012-2019
@@ -959,14 +902,13 @@ In the past 8 years, this district has received:<b> $4,676,312 </b>in NSF MPS gr
 ```
   Year  Institution                         Amount ($)
 ------  --------------------------------  ------------
-  2019  FLORIDA INTERNATIONAL UNIVERSITY        28,725
-  2018  FLORIDA INTERNATIONAL UNIVERSITY       446,394
-  2017  FLORIDA INTERNATIONAL UNIVERSITY     1,183,281
-  2016  FLORIDA INTERNATIONAL UNIVERSITY       444,127
-  2015  FLORIDA INTERNATIONAL UNIV             142,125
-  2015  FLORIDA INTERNATIONAL UNIVERSITY       697,079
-  2014  FLORIDA INTERNATIONAL UNIVERSITY       748,522
-  2013  FLORIDA INTERNATIONAL UNIVERSITY       986,059
+  2019  Florida International University        28,725
+  2018  Florida International University       446,394
+  2017  Florida International University     1,183,281
+  2016  Florida International University       444,127
+  2015  Florida International University       839,204
+  2014  Florida International University       748,522
+  2013  Florida International University       986,059
 ```
 ## SULI/CCI Interns
 From 2014-2016 (only years available), this district had 4 SULI/CCI interns
@@ -998,13 +940,13 @@ In the past 8 years, this district has received:<b> $7,808,223 </b>in NSF MPS gr
 ```
   Year  Institution            Amount ($)
 ------  -------------------  ------------
-  2019  UNIVERSITY OF MIAMI        29,902
-  2018  UNIVERSITY OF MIAMI     1,500,296
-  2017  UNIVERSITY OF MIAMI       883,180
-  2016  UNIVERSITY OF MIAMI     1,187,464
-  2015  UNIVERSITY OF MIAMI     1,545,519
-  2014  UNIVERSITY OF MIAMI       932,167
-  2013  UNIVERSITY OF MIAMI     1,729,695
+  2019  University Of Miami        29,902
+  2018  University Of Miami     1,500,296
+  2017  University Of Miami       883,180
+  2016  University Of Miami     1,187,464
+  2015  University Of Miami     1,545,519
+  2014  University Of Miami       932,167
+  2013  University Of Miami     1,729,695
 ```
 ## SULI/CCI Interns
 ```

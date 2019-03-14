@@ -17,6 +17,7 @@ Jon Tester is the #3 Democrat on the Senate Appropriations Subcommittee on Energ
 
 Jon Tester is the #10 Democrat on the Senate Committee on Commerce, Science, and Transportation 
 
+## Committees
 Steve Daines is the #4 Republican on the Senate Energy Subcommittee on Energy 
 
 Steve Daines is the #14 Republican on the Senate Committee on Appropriations 
@@ -35,12 +36,25 @@ This state received no SC contracts from 2012-2019
 In the past 8 years, this state has received:
 80 NSF MPS grants, totalling <b> $14,522,450</b>
 ```
-Institution                      Amount ($)
------------------------------  ------------
-MONTANA STATE UNIVERSITY, INC    10,751,341
-UNIVERSITY OF MONTANA SYSTEM      2,247,144
-UNIVERSITY OF MONTANA             1,249,133
-MONTANA STATE UNIVERSITY            274,832
+  Year  Institution                     Amount ($)
+------  ----------------------------  ------------
+  2019  University Of Montana               41,012
+  2018  University Of Montana              368,049
+  2018  Montana State University         2,711,292
+  2017  University Of Montana              547,872
+  2017  Montana State University         1,593,151
+  2016  Montana State University         1,073,059
+  2016  University Of Montana System       499,999
+  2016  University Of Montana              270,000
+  2015  University Of Montana System       412,750
+  2015  University Of Montana               22,200
+  2015  Montana State University         1,261,817
+  2014  University Of Montana System       270,000
+  2014  Montana State University         1,170,902
+  2013  University Of Montana System       796,630
+  2013  Montana State University         1,063,963
+  2012  University Of Montana System       267,765
+  2012  Montana State University         2,151,989
 ```
 ## SULI/CCI Interns
 <p align="center">
@@ -72,26 +86,25 @@ This district received no SC contracts from 2012-2019
 ## NSF MPS Grants
 In the past 8 years, this district has received:<b> $14,522,450 </b>in NSF MPS grants.
 ```
-  Year  Institution                      Amount ($)
-------  -----------------------------  ------------
-  2019  UNIVERSITY OF MONTANA                41,012
-  2018  UNIVERSITY OF MONTANA               368,049
-  2018  MONTANA STATE UNIVERSITY, INC     2,711,292
-  2017  UNIVERSITY OF MONTANA               547,872
-  2017  MONTANA STATE UNIVERSITY, INC     1,593,151
-  2016  MONTANA STATE UNIVERSITY, INC     1,073,059
-  2016  UNIVERSITY OF MONTANA SYSTEM        499,999
-  2016  UNIVERSITY OF MONTANA               270,000
-  2015  UNIVERSITY OF MONTANA SYSTEM        412,750
-  2015  UNIVERSITY OF MONTANA                22,200
-  2015  MONTANA STATE UNIVERSITY, INC       986,985
-  2015  MONTANA STATE UNIVERSITY            274,832
-  2014  UNIVERSITY OF MONTANA SYSTEM        270,000
-  2014  MONTANA STATE UNIVERSITY, INC     1,170,902
-  2013  UNIVERSITY OF MONTANA SYSTEM        796,630
-  2013  MONTANA STATE UNIVERSITY, INC     1,063,963
-  2012  UNIVERSITY OF MONTANA SYSTEM        267,765
-  2012  MONTANA STATE UNIVERSITY, INC     2,151,989
+  Year  Institution                     Amount ($)
+------  ----------------------------  ------------
+  2019  University Of Montana               41,012
+  2018  University Of Montana              368,049
+  2018  Montana State University         2,711,292
+  2017  University Of Montana              547,872
+  2017  Montana State University         1,593,151
+  2016  Montana State University         1,073,059
+  2016  University Of Montana System       499,999
+  2016  University Of Montana              270,000
+  2015  University Of Montana System       412,750
+  2015  University Of Montana               22,200
+  2015  Montana State University         1,261,817
+  2014  University Of Montana System       270,000
+  2014  Montana State University         1,170,902
+  2013  University Of Montana System       796,630
+  2013  Montana State University         1,063,963
+  2012  University Of Montana System       267,765
+  2012  Montana State University         2,151,989
 ```
 ## SULI/CCI Interns
 From 2014-2016 (only years available), this district had 6 SULI/CCI interns

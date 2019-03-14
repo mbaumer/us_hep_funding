@@ -10,21 +10,25 @@ permalink : /states/NC/
 [NC-01](#NC-01)  [NC-02](#NC-02)  [NC-03](#NC-03)  [NC-04](#NC-04)  [NC-05](#NC-05)  [NC-06](#NC-06)  [NC-07](#NC-07)  [NC-08](#NC-08)  [NC-09](#NC-09)  [NC-10](#NC-10)  [NC-11](#NC-11)  [NC-12](#NC-12)  [NC-13](#NC-13)  
 
 # NC -- Sen. Richard Burr (R) and  Sen. Thom Tillis (R)
-## Committees
-Richard Burr is not on any of our key committees. 
-
-Thom Tillis is not on any of our key committees. 
-
 ## HEP Grants
 In the past 8 years, this state has received:
 25 HEP grants, totalling <b> $10,417,000</b>
 ```
-Institution                          Amount ($)
----------------------------------  ------------
-Duke University                       7,886,000
-DUKE UNIVERSITY                       1,916,000
-North Carolina State University         615,000
-U. OF NORTH CAROLINA, CHAPEL HILL             0
+  Year  Institution                                   Amount ($)
+------  ------------------------------------------  ------------
+  2018  Duke University                                1,500,000
+  2018  North Carolina State University                  315,000
+  2017  Duke University                                1,490,000
+  2016  Duke University                                1,375,000
+  2016  North Carolina State University                        0
+  2015  Duke University                                2,104,000
+  2015  North Carolina State University                        0
+  2014  Duke University                                1,417,000
+  2014  North Carolina State University                  300,000
+  2013  Duke University                                  565,000
+  2013  University of North Carolina - Chapel Hill             0
+  2012  Duke University                                1,351,000
+  2012  University of North Carolina - Chapel Hill             0
 ```
 ## SC Contracts
 In the past 8 years, this state has received:
@@ -32,7 +36,7 @@ In the past 8 years, this state has received:
 ```
   Year  Vendor                           Amount ($)  Item
 ------  -----------------------------  ------------  --------------------------
-  2012  OXFORD UNIVERSITY PRESS, INC.         3,049  NEWSPAPERS AND PERIODICALS
+  2012  Oxford University Press, Inc.         3,049  Newspapers And Periodicals
 ```
 ## NSF MPS Grants
 In the past 8 years, this state has received:
@@ -40,34 +44,32 @@ In the past 8 years, this state has received:
 ```
 Institution                                                   Amount ($)
 ----------------------------------------------------------  ------------
-UNIVERSITY OF NORTH CAROLINA AT CHAPEL HILL                   67,871,607
-DUKE UNIVERSITY                                               50,142,055
-NORTH CAROLINA STATE UNIVERSITY                               44,264,991
-U OF NC CHAPEL HILL                                            4,285,079
-NORTH CAROLINA CENTRAL UNIVERSITY                              3,882,429
-WAKE FOREST UNIVERSITY                                         3,119,586
-UNIVERSITY OF NORTH CAROLINA AT CHARLOTTE                      2,282,157
-UNIVERSITY OF NORTH CAROLINA AT GREENSBORO                     2,181,712
-NORTH CAROLINA STATE U                                         2,179,404
-UNIVERSITY OF NORTH CAROLINA AT WILMINGTON                     1,637,391
-UNIVERSITY OF NORTH CAROLINA AT CHARLOTTE, THE                 1,612,320
-FAYETTEVILLE STATE UNIVERSITY                                    801,900
-WINSTON-SALEM STATE UNIVERSITY (INC)                             748,663
-TRUSTEES OF DAVIDSON COLLEGE, THE                                593,917
-APPALACHIAN STATE UNIVERSITY                                     592,316
-NORTH CAROLINA AGRICULTURAL AND TECHNICAL STA                    563,412
-HIGH POINT UNIVERSITY                                            522,086
-EAST CAROLINA UNIVERSITY                                         407,468
-NORTH CAROLINA AGRICULTURAL AND TECHNICAL STATE UNIVERSITY       357,195
-PII REDACTED                                                     300,000
-APPALACHIAN STATE UNIV                                           299,891
-UNIVERSITY OF NORTH CAROLINA AT ASHEVILLE                        279,772
-ELIZABETH CITY STATE UNIVERSITY                                  237,423
-UNIVERSITY OF NORTH CAROLINA AT PEMBROKE                         156,951
-U OF NC CHARLOTTE                                                 59,953
-ELON UNIVERSITY                                                   38,685
-NATIONAL INSTITUTE OF STATISTICAL SCIENCES                        19,890
-WAKE FOREST UNIVERSITY HEALTH SCIENCES                             9,424
+University Of North Carolina At Chapel Hill                   67,871,607
+Duke University                                               50,142,055
+North Carolina State University                               44,264,991
+University Of Nc Chapel Hill                                   4,285,079
+University Of North Carolina At Charlotte                      3,894,477
+North Carolina Central University                              3,882,429
+Wake Forest University                                         3,119,586
+University Of North Carolina At Greensboro                     2,181,712
+North Carolina State U                                         2,179,404
+University Of North Carolina At Wilmington                     1,637,391
+Appalachian State University                                     892,207
+Fayetteville State University                                    801,900
+Winston-Salem State University                                   748,663
+Davidson College                                                 593,917
+North Carolina Agricultural And Technical Sta                    563,412
+High Point University                                            522,086
+East Carolina University                                         407,468
+North Carolina Agricultural And Technical State University       357,195
+Pii Redacted                                                     300,000
+University Of North Carolina At Asheville                        279,772
+Elizabeth City State University                                  237,423
+University Of North Carolina At Pembroke                         156,951
+University Of Nc Charlotte                                        59,953
+Elon University                                                   38,685
+National Institute Of Statistical Sciences                        19,890
+Wake Forest University Health Sciences                             9,424
 ```
 ## SULI/CCI Interns
 <p align="center">
@@ -117,18 +119,18 @@ In the past 8 years, this district has received:<b> $48,362,191 </b>in NSF MPS g
 ```
   Year  Institution                          Amount ($)
 ------  ---------------------------------  ------------
-  2018  DUKE UNIVERSITY                      13,386,001
-  2018  NORTH CAROLINA CENTRAL UNIVERSITY     2,305,429
-  2017  DUKE UNIVERSITY                       6,188,424
-  2017  NORTH CAROLINA CENTRAL UNIVERSITY       740,000
-  2017  PII REDACTED                            150,000
-  2016  DUKE UNIVERSITY                       5,444,519
-  2016  NORTH CAROLINA CENTRAL UNIVERSITY       177,000
-  2015  DUKE UNIVERSITY                       5,841,523
-  2015  NORTH CAROLINA CENTRAL UNIVERSITY       660,000
-  2014  DUKE UNIVERSITY                       5,885,883
-  2013  DUKE UNIVERSITY                       7,345,989
-  2013  ELIZABETH CITY STATE UNIVERSITY         237,423
+  2018  Duke University                      13,386,001
+  2018  North Carolina Central University     2,305,429
+  2017  Duke University                       6,188,424
+  2017  North Carolina Central University       740,000
+  2017  Pii Redacted                            150,000
+  2016  Duke University                       5,444,519
+  2016  North Carolina Central University       177,000
+  2015  Duke University                       5,841,523
+  2015  North Carolina Central University       660,000
+  2014  Duke University                       5,885,883
+  2013  Duke University                       7,345,989
+  2013  Elizabeth City State University         237,423
 ```
 ## SULI/CCI Interns
 From 2014-2016 (only years available), this district had 5 SULI/CCI interns
@@ -145,9 +147,6 @@ Fall 2015    Isa Louise Ferrall        Duke University  National Renewable Energ
 <a name="NC-02"></a>
 [Back to top](#top)
 ## NC-02 -- Rep. George Holding (R) -- [Wikipedia](https://en.wikipedia.org/wiki/NC-02)
-## Committees
-George Holding is not on any of our key committees. 
-
 ## HEP Grants
 ```
 This district received no SC HEP grants from 2012-2019
@@ -185,12 +184,12 @@ In the past 8 years, this district has received:<b> $1,384,660 </b>in NSF MPS gr
 ```
   Year  Institution                                   Amount ($)
 ------  ------------------------------------------  ------------
-  2017  EAST CAROLINA UNIVERSITY                         252,000
-  2016  UNIVERSITY OF NORTH CAROLINA AT WILMINGTON       330,000
-  2015  UNIVERSITY OF NORTH CAROLINA AT WILMINGTON       465,948
-  2014  UNIVERSITY OF NORTH CAROLINA AT WILMINGTON        30,000
-  2013  UNIVERSITY OF NORTH CAROLINA AT WILMINGTON       151,244
-  2012  EAST CAROLINA UNIVERSITY                         155,468
+  2017  East Carolina University                         252,000
+  2016  University Of North Carolina At Wilmington       330,000
+  2015  University Of North Carolina At Wilmington       465,948
+  2014  University Of North Carolina At Wilmington        30,000
+  2013  University Of North Carolina At Wilmington       151,244
+  2012  East Carolina University                         155,468
 ```
 ## SULI/CCI Interns
 From 2014-2016 (only years available), this district had 2 SULI/CCI interns
@@ -210,15 +209,15 @@ David E. Price is the #6 Democrat on the House Committee on Appropriations
 ## HEP Grants
 In the past 8 years, this district has received:<b> $2,531,000 </b>in SC HEP grants.
 ```
-Institution                          Amount ($)    Start  End      Principal Investigator    Project Title
----------------------------------  ------------  -------  -------  ------------------------  -----------------------------------------------------------------------------------------------------
-North Carolina State University         315,000     2018  Ongoing  Green, Matthew            Measurement of Coherent Elastic Neutrino-Nucleus Scattering with Germanium Detectors at the SNS
-North Carolina State University         300,000     2014  2017     Schwartz, Justin          Superconducting joints between (RE)Ba2Cu3O7- coated conductors via electric field assisted processing
-DUKE UNIVERSITY                          70,000     2013  2014     Katsouleas                Theoretical and Experimental studies of Plasma acceleration of electrons and protons
-DUKE UNIVERSITY                               0     2013  2014     Kotwal                    Research in High Energy Physics at Duke University
-DUKE UNIVERSITY                          43,000     2013  2014     Kotwal                    W Boson Mass Measurement at CDF
-DUKE UNIVERSITY                       1,803,000     2012  2014     Kotwal                    Research in High Energy Physics at Duke University
-U. OF NORTH CAROLINA, CHAPEL HILL             0     2012  2014     Ng                        Theoretical Research in Cosmology, High-Energy Physics and String Theory at UNC-CH
+Institution                                   Amount ($)    Start  End      Principal Investigator    Project Title
+------------------------------------------  ------------  -------  -------  ------------------------  -----------------------------------------------------------------------------------------------------
+North Carolina State University                  315,000     2018  Ongoing  Green, Matthew            Measurement of Coherent Elastic Neutrino-Nucleus Scattering with Germanium Detectors at the SNS
+North Carolina State University                  300,000     2014  2017     Schwartz, Justin          Superconducting joints between (RE)Ba2Cu3O7- coated conductors via electric field assisted processing
+Duke University                                   70,000     2013  2014     Katsouleas                Theoretical and Experimental studies of Plasma acceleration of electrons and protons
+Duke University                                        0     2013  2014     Kotwal                    Research in High Energy Physics at Duke University
+Duke University                                   43,000     2013  2014     Kotwal                    W Boson Mass Measurement at CDF
+Duke University                                1,803,000     2012  2014     Kotwal                    Research in High Energy Physics at Duke University
+University of North Carolina - Chapel Hill             0     2012  2014     Ng                        Theoretical Research in Cosmology, High-Energy Physics and String Theory at UNC-CH
 ```
 ## SC Contracts
 In the past 8 years, this district has received:
@@ -226,37 +225,37 @@ In the past 8 years, this district has received:
 ```
   Year  Vendor                           Amount ($)  Item
 ------  -----------------------------  ------------  --------------------------
-  2012  OXFORD UNIVERSITY PRESS, INC.         3,049  NEWSPAPERS AND PERIODICALS
+  2012  Oxford University Press, Inc.         3,049  Newspapers And Periodicals
 ```
 ## NSF MPS Grants
 In the past 8 years, this district has received:<b> $125,022,587 </b>in NSF MPS grants.
 ```
   Year  Institution                                    Amount ($)
 ------  -------------------------------------------  ------------
-  2019  UNIVERSITY OF NORTH CAROLINA AT CHAPEL HILL       248,000
-  2019  NORTH CAROLINA STATE UNIVERSITY                    48,820
-  2018  UNIVERSITY OF NORTH CAROLINA AT CHAPEL HILL    13,783,146
-  2018  PII REDACTED                                      150,000
-  2018  NORTH CAROLINA STATE UNIVERSITY                 7,296,508
-  2018  NATIONAL INSTITUTE OF STATISTICAL SCIENCES          9,990
-  2017  UNIVERSITY OF NORTH CAROLINA AT CHAPEL HILL    11,267,194
-  2017  NORTH CAROLINA STATE UNIVERSITY                 7,999,901
-  2016  NATIONAL INSTITUTE OF STATISTICAL SCIENCES          9,900
-  2016  UNIVERSITY OF NORTH CAROLINA AT CHAPEL HILL     8,692,688
-  2016  NORTH CAROLINA STATE UNIVERSITY                 4,782,569
-  2016  FAYETTEVILLE STATE UNIVERSITY                     201,900
-  2015  UNIVERSITY OF NORTH CAROLINA AT CHAPEL HILL     4,901,212
-  2015  U OF NC CHAPEL HILL                             4,285,079
-  2015  NORTH CAROLINA STATE UNIVERSITY                 4,890,975
-  2015  NORTH CAROLINA STATE U                          2,179,404
-  2014  UNIVERSITY OF NORTH CAROLINA AT CHAPEL HILL     9,162,108
-  2014  NORTH CAROLINA STATE UNIVERSITY                 3,811,327
-  2013  UNIVERSITY OF NORTH CAROLINA AT CHAPEL HILL     7,398,193
-  2013  NORTH CAROLINA STATE UNIVERSITY                 7,743,268
-  2013  DUKE UNIVERSITY                                   112,646
-  2012  NORTH CAROLINA STATE UNIVERSITY                 7,691,623
-  2012  UNIVERSITY OF NORTH CAROLINA AT CHAPEL HILL    12,419,066
-  2012  DUKE UNIVERSITY                                 5,937,070
+  2019  University Of North Carolina At Chapel Hill       248,000
+  2019  North Carolina State University                    48,820
+  2018  University Of North Carolina At Chapel Hill    13,783,146
+  2018  Pii Redacted                                      150,000
+  2018  North Carolina State University                 7,296,508
+  2018  National Institute Of Statistical Sciences          9,990
+  2017  University Of North Carolina At Chapel Hill    11,267,194
+  2017  North Carolina State University                 7,999,901
+  2016  National Institute Of Statistical Sciences          9,900
+  2016  University Of North Carolina At Chapel Hill     8,692,688
+  2016  North Carolina State University                 4,782,569
+  2016  Fayetteville State University                     201,900
+  2015  University Of North Carolina At Chapel Hill     4,901,212
+  2015  University Of Nc Chapel Hill                    4,285,079
+  2015  North Carolina State University                 4,890,975
+  2015  North Carolina State U                          2,179,404
+  2014  University Of North Carolina At Chapel Hill     9,162,108
+  2014  North Carolina State University                 3,811,327
+  2013  University Of North Carolina At Chapel Hill     7,398,193
+  2013  North Carolina State University                 7,743,268
+  2013  Duke University                                   112,646
+  2012  North Carolina State University                 7,691,623
+  2012  University Of North Carolina At Chapel Hill    12,419,066
+  2012  Duke University                                 5,937,070
 ```
 ## SULI/CCI Interns
 From 2014-2016 (only years available), this district had 15 SULI/CCI interns
@@ -283,9 +282,6 @@ Fall 2015    Ryan Southard           North Carolina State University            
 <a name="NC-05"></a>
 [Back to top](#top)
 ## NC-05 -- Rep. Virginia Foxx (R) -- [Wikipedia](https://en.wikipedia.org/wiki/NC-05)
-## Committees
-Virginia Foxx is not on any of our key committees. 
-
 ## HEP Grants
 ```
 This district received no SC HEP grants from 2012-2019
@@ -299,17 +295,17 @@ In the past 8 years, this district has received:<b> $4,769,880 </b>in NSF MPS gr
 ```
   Year  Institution                               Amount ($)
 ------  --------------------------------------  ------------
-  2018  WINSTON-SALEM STATE UNIVERSITY (INC)         748,663
-  2017  WAKE FOREST UNIVERSITY                       389,984
-  2016  WAKE FOREST UNIVERSITY                       767,911
-  2016  WAKE FOREST UNIVERSITY HEALTH SCIENCES         9,424
-  2015  APPALACHIAN STATE UNIV                       299,891
-  2015  WAKE FOREST UNIVERSITY                       834,941
-  2014  WAKE FOREST UNIVERSITY                       390,000
-  2013  APPALACHIAN STATE UNIVERSITY                  72,450
-  2013  WAKE FOREST UNIVERSITY                       441,275
-  2012  APPALACHIAN STATE UNIVERSITY                 519,866
-  2012  WAKE FOREST UNIVERSITY                       295,475
+  2018  Winston-Salem State University               748,663
+  2017  Wake Forest University                       389,984
+  2016  Wake Forest University                       767,911
+  2016  Wake Forest University Health Sciences         9,424
+  2015  Appalachian State University                 299,891
+  2015  Wake Forest University                       834,941
+  2014  Wake Forest University                       390,000
+  2013  Appalachian State University                  72,450
+  2013  Wake Forest University                       441,275
+  2012  Appalachian State University                 519,866
+  2012  Wake Forest University                       295,475
 ```
 ## SULI/CCI Interns
 ```
@@ -335,15 +331,15 @@ In the past 8 years, this district has received:<b> $2,363,979 </b>in NSF MPS gr
 ```
   Year  Institution                                                   Amount ($)
 ------  ----------------------------------------------------------  ------------
-  2018  NORTH CAROLINA AGRICULTURAL AND TECHNICAL STATE UNIVERSITY       183,337
-  2018  UNIVERSITY OF NORTH CAROLINA AT GREENSBORO                        22,599
-  2017  NORTH CAROLINA AGRICULTURAL AND TECHNICAL STATE UNIVERSITY       173,858
-  2017  UNIVERSITY OF NORTH CAROLINA AT GREENSBORO                       304,959
-  2016  UNIVERSITY OF NORTH CAROLINA AT GREENSBORO                        40,505
-  2015  UNIVERSITY OF NORTH CAROLINA AT GREENSBORO                       236,834
-  2014  UNIVERSITY OF NORTH CAROLINA AT GREENSBORO                     1,053,420
-  2013  UNIVERSITY OF NORTH CAROLINA AT GREENSBORO                       309,782
-  2012  ELON UNIVERSITY                                                   38,685
+  2018  North Carolina Agricultural And Technical State University       183,337
+  2018  University Of North Carolina At Greensboro                        22,599
+  2017  North Carolina Agricultural And Technical State University       173,858
+  2017  University Of North Carolina At Greensboro                       304,959
+  2016  University Of North Carolina At Greensboro                        40,505
+  2015  University Of North Carolina At Greensboro                       236,834
+  2014  University Of North Carolina At Greensboro                     1,053,420
+  2013  University Of North Carolina At Greensboro                       309,782
+  2012  Elon University                                                   38,685
 ```
 ## SULI/CCI Interns
 From 2014-2016 (only years available), this district had 2 SULI/CCI interns
@@ -357,9 +353,6 @@ Summer 2015  Brittany Rose DiRienzo  Elon University  Brookhaven National Labora
 <a name="NC-07"></a>
 [Back to top](#top)
 ## NC-07 -- Rep. David Rouzer (R) -- [Wikipedia](https://en.wikipedia.org/wiki/NC-07)
-## Committees
-David Rouzer is not on any of our key committees. 
-
 ## HEP Grants
 ```
 This district received no SC HEP grants from 2012-2019
@@ -373,10 +366,10 @@ In the past 8 years, this district has received:<b> $660,199 </b>in NSF MPS gran
 ```
   Year  Institution                                   Amount ($)
 ------  ------------------------------------------  ------------
-  2018  UNIVERSITY OF NORTH CAROLINA AT WILMINGTON        90,297
-  2017  UNIVERSITY OF NORTH CAROLINA AT WILMINGTON       322,416
-  2013  UNIVERSITY OF NORTH CAROLINA AT WILMINGTON        64,228
-  2012  UNIVERSITY OF NORTH CAROLINA AT WILMINGTON       183,258
+  2018  University Of North Carolina At Wilmington        90,297
+  2017  University Of North Carolina At Wilmington       322,416
+  2013  University Of North Carolina At Wilmington        64,228
+  2012  University Of North Carolina At Wilmington       183,258
 ```
 ## SULI/CCI Interns
 From 2014-2016 (only years available), this district had 1 SULI/CCI intern
@@ -405,8 +398,8 @@ In the past 8 years, this district has received:<b> $756,951 </b>in NSF MPS gran
 ```
   Year  Institution                                 Amount ($)
 ------  ----------------------------------------  ------------
-  2018  FAYETTEVILLE STATE UNIVERSITY                  600,000
-  2015  UNIVERSITY OF NORTH CAROLINA AT PEMBROKE       156,951
+  2018  Fayetteville State University                  600,000
+  2015  University Of North Carolina At Pembroke       156,951
 ```
 ## SULI/CCI Interns
 ```
@@ -427,10 +420,10 @@ This district received no SC contracts from 2012-2019
 ## NSF MPS Grants
 In the past 8 years, this district has received:<b> $593,917 </b>in NSF MPS grants.
 ```
-  Year  Institution                          Amount ($)
-------  ---------------------------------  ------------
-  2017  TRUSTEES OF DAVIDSON COLLEGE, THE       294,000
-  2016  TRUSTEES OF DAVIDSON COLLEGE, THE       299,917
+  Year  Institution         Amount ($)
+------  ----------------  ------------
+  2017  Davidson College       294,000
+  2016  Davidson College       299,917
 ```
 ## SULI/CCI Interns
 From 2014-2016 (only years available), this district had 1 SULI/CCI intern
@@ -443,9 +436,6 @@ Summer 2014  Albert Tung  Rio Hondo Community College  Oak Ridge National Labora
 <a name="NC-10"></a>
 [Back to top](#top)
 ## NC-10 -- Rep. Patrick T. McHenry (R) -- [Wikipedia](https://en.wikipedia.org/wiki/NC-10)
-## Committees
-Patrick T. McHenry is not on any of our key committees. 
-
 ## HEP Grants
 ```
 This district received no SC HEP grants from 2012-2019
@@ -459,7 +449,7 @@ In the past 8 years, this district has received:<b> $82,500 </b>in NSF MPS grant
 ```
   Year  Institution                                  Amount ($)
 ------  -----------------------------------------  ------------
-  2013  UNIVERSITY OF NORTH CAROLINA AT ASHEVILLE        82,500
+  2013  University Of North Carolina At Asheville        82,500
 ```
 ## SULI/CCI Interns
 ```
@@ -469,9 +459,6 @@ This district had no SULI/CCI interns from 2014-2016 (only years available)
 <a name="NC-11"></a>
 [Back to top](#top)
 ## NC-11 -- Rep. Mark Meadows (R) -- [Wikipedia](https://en.wikipedia.org/wiki/NC-11)
-## Committees
-Mark Meadows is not on any of our key committees. 
-
 ## HEP Grants
 ```
 This district received no SC HEP grants from 2012-2019
@@ -485,7 +472,7 @@ In the past 8 years, this district has received:<b> $197,272 </b>in NSF MPS gran
 ```
   Year  Institution                                  Amount ($)
 ------  -----------------------------------------  ------------
-  2012  UNIVERSITY OF NORTH CAROLINA AT ASHEVILLE       197,272
+  2012  University Of North Carolina At Asheville       197,272
 ```
 ## SULI/CCI Interns
 From 2014-2016 (only years available), this district had 2 SULI/CCI interns
@@ -513,22 +500,22 @@ This district received no SC contracts from 2012-2019
 ## NSF MPS Grants
 In the past 8 years, this district has received:<b> $4,517,842 </b>in NSF MPS grants.
 ```
-  Year  Institution                                       Amount ($)
-------  ----------------------------------------------  ------------
-  2019  UNIVERSITY OF NORTH CAROLINA AT CHARLOTTE, THE       135,489
-  2018  UNIVERSITY OF NORTH CAROLINA AT CHARLOTTE, THE       932,012
-  2017  UNIVERSITY OF NORTH CAROLINA AT CHARLOTTE, THE       544,819
-  2016  NORTH CAROLINA AGRICULTURAL AND TECHNICAL STA         42,840
-  2016  UNIVERSITY OF NORTH CAROLINA AT CHARLOTTE            426,200
-  2015  NORTH CAROLINA AGRICULTURAL AND TECHNICAL STA        135,571
-  2015  U OF NC CHARLOTTE                                     59,953
-  2015  UNIVERSITY OF NORTH CAROLINA AT CHARLOTTE            391,475
-  2014  NORTH CAROLINA AGRICULTURAL AND TECHNICAL STA        100,001
-  2014  UNIVERSITY OF NORTH CAROLINA AT CHARLOTTE            427,809
-  2013  NORTH CAROLINA AGRICULTURAL AND TECHNICAL STA         90,000
-  2013  UNIVERSITY OF NORTH CAROLINA AT CHARLOTTE            641,306
-  2012  NORTH CAROLINA AGRICULTURAL AND TECHNICAL STA        195,000
-  2012  UNIVERSITY OF NORTH CAROLINA AT CHARLOTTE            395,367
+  Year  Institution                                      Amount ($)
+------  ---------------------------------------------  ------------
+  2019  University Of North Carolina At Charlotte           135,489
+  2018  University Of North Carolina At Charlotte           932,012
+  2017  University Of North Carolina At Charlotte           544,819
+  2016  North Carolina Agricultural And Technical Sta        42,840
+  2016  University Of North Carolina At Charlotte           426,200
+  2015  North Carolina Agricultural And Technical Sta       135,571
+  2015  University Of Nc Charlotte                           59,953
+  2015  University Of North Carolina At Charlotte           391,475
+  2014  North Carolina Agricultural And Technical Sta       100,001
+  2014  University Of North Carolina At Charlotte           427,809
+  2013  North Carolina Agricultural And Technical Sta        90,000
+  2013  University Of North Carolina At Charlotte           641,306
+  2012  North Carolina Agricultural And Technical Sta       195,000
+  2012  University Of North Carolina At Charlotte           395,367
 ```
 ## SULI/CCI Interns
 From 2014-2016 (only years available), this district had 1 SULI/CCI intern
@@ -541,9 +528,6 @@ Summer 2016  Jonathan Lim  Davidson College  Los Alamos National Laboratory  SUL
 <a name="NC-13"></a>
 [Back to top](#top)
 ## NC-13 -- Rep. Ted Budd (R) -- [Wikipedia](https://en.wikipedia.org/wiki/NC-13)
-## Committees
-Ted Budd is not on any of our key committees. 
-
 ## HEP Grants
 ```
 This district received no SC HEP grants from 2012-2019
@@ -557,10 +541,10 @@ In the past 8 years, this district has received:<b> $735,699 </b>in NSF MPS gran
 ```
   Year  Institution                                   Amount ($)
 ------  ------------------------------------------  ------------
-  2018  HIGH POINT UNIVERSITY                            522,086
-  2018  UNIVERSITY OF NORTH CAROLINA AT GREENSBORO         9,000
-  2017  UNIVERSITY OF NORTH CAROLINA AT GREENSBORO        22,599
-  2012  UNIVERSITY OF NORTH CAROLINA AT GREENSBORO       182,014
+  2018  High Point University                            522,086
+  2018  University Of North Carolina At Greensboro         9,000
+  2017  University Of North Carolina At Greensboro        22,599
+  2012  University Of North Carolina At Greensboro       182,014
 ```
 ## SULI/CCI Interns
 ```

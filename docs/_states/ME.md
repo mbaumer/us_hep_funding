@@ -17,6 +17,7 @@ Susan M. Collins is the #4 Republican on the Senate Committee on Appropriations
 
 Susan M. Collins is the #4 Republican on the Senate Appropriations Subcommittee on Energy and Water Development 
 
+## Committees
 Angus S. King, Jr. is the #7 Independent on the Senate Energy Subcommittee on Energy 
 
 Angus S. King, Jr. is the #8 Independent on the Senate Committee on Energy and Natural Resources 
@@ -35,12 +36,12 @@ In the past 8 years, this state has received:
 ```
 Institution                              Amount ($)
 -------------------------------------  ------------
-UNIVERSITY OF MAINE SYSTEM                3,619,202
-BOWDOIN COLLEGE                           1,258,970
-COLBY COLLEGE                             1,165,692
-PRESIDENT & TRUSTEES OF BATES COLLEGE       887,830
-UNIVERSITY OF NEW ENGLAND                   792,365
-BIGELOW LABORATORY FOR OCEAN SCIENCES       399,554
+University Of Maine System                3,619,202
+Bowdoin College                           1,258,970
+Colby College                             1,165,692
+President & Bates College                   887,830
+University Of New England                   792,365
+Bigelow Laboratory For Ocean Sciences       399,554
 ```
 ## SULI/CCI Interns
 <p align="center">
@@ -75,21 +76,21 @@ In the past 8 years, this district has received:<b> $3,408,581 </b>in NSF MPS gr
 ```
   Year  Institution                              Amount ($)
 ------  -------------------------------------  ------------
-  2018  BIGELOW LABORATORY FOR OCEAN SCIENCES       399,554
-  2018  BOWDOIN COLLEGE                             437,815
-  2018  COLBY COLLEGE                               194,141
-  2017  BOWDOIN COLLEGE                             112,061
-  2017  COLBY COLLEGE                               332,234
-  2016  BOWDOIN COLLEGE                              98,600
-  2015  BOWDOIN COLLEGE                             106,000
-  2015  COLBY COLLEGE                                22,957
-  2015  UNIVERSITY OF NEW ENGLAND                   374,580
-  2014  BOWDOIN COLLEGE                             292,514
-  2014  COLBY COLLEGE                                29,690
-  2013  BOWDOIN COLLEGE                              62,000
-  2013  COLBY COLLEGE                               378,670
-  2013  UNIVERSITY OF NEW ENGLAND                   417,785
-  2012  BOWDOIN COLLEGE                             149,980
+  2018  Bigelow Laboratory For Ocean Sciences       399,554
+  2018  Bowdoin College                             437,815
+  2018  Colby College                               194,141
+  2017  Bowdoin College                             112,061
+  2017  Colby College                               332,234
+  2016  Bowdoin College                              98,600
+  2015  Bowdoin College                             106,000
+  2015  Colby College                                22,957
+  2015  University Of New England                   374,580
+  2014  Bowdoin College                             292,514
+  2014  Colby College                                29,690
+  2013  Bowdoin College                              62,000
+  2013  Colby College                               378,670
+  2013  University Of New England                   417,785
+  2012  Bowdoin College                             149,980
 ```
 ## SULI/CCI Interns
 From 2014-2016 (only years available), this district had 1 SULI/CCI intern
@@ -102,9 +103,6 @@ Summer 2016  Joseph Sloane Seibert  Bowdoin College  Princeton Plasma Physics La
 <a name="ME-02"></a>
 [Back to top](#top)
 ## ME-02 -- Rep. Jared F. Golden (D) -- [Wikipedia](https://en.wikipedia.org/wiki/ME-02)
-## Committees
-Jared F. Golden is not on any of our key committees. 
-
 ## HEP Grants
 ```
 This district received no SC HEP grants from 2012-2019
@@ -116,20 +114,20 @@ This district received no SC contracts from 2012-2019
 ## NSF MPS Grants
 In the past 8 years, this district has received:<b> $4,715,032 </b>in NSF MPS grants.
 ```
-  Year  Institution                              Amount ($)
-------  -------------------------------------  ------------
-  2018  PRESIDENT & TRUSTEES OF BATES COLLEGE       260,344
-  2018  UNIVERSITY OF MAINE SYSTEM                  535,900
-  2017  UNIVERSITY OF MAINE SYSTEM                  327,543
-  2016  PRESIDENT & TRUSTEES OF BATES COLLEGE        12,000
-  2015  UNIVERSITY OF MAINE SYSTEM                   18,907
-  2014  PRESIDENT & TRUSTEES OF BATES COLLEGE        41,450
-  2014  UNIVERSITY OF MAINE SYSTEM                  214,352
-  2013  PRESIDENT & TRUSTEES OF BATES COLLEGE        56,000
-  2013  UNIVERSITY OF MAINE SYSTEM                  722,500
-  2012  COLBY COLLEGE                               208,000
-  2012  PRESIDENT & TRUSTEES OF BATES COLLEGE       518,036
-  2012  UNIVERSITY OF MAINE SYSTEM                1,800,000
+  Year  Institution                   Amount ($)
+------  --------------------------  ------------
+  2018  President & Bates College        260,344
+  2018  University Of Maine System       535,900
+  2017  University Of Maine System       327,543
+  2016  President & Bates College         12,000
+  2015  University Of Maine System        18,907
+  2014  President & Bates College         41,450
+  2014  University Of Maine System       214,352
+  2013  President & Bates College         56,000
+  2013  University Of Maine System       722,500
+  2012  Colby College                    208,000
+  2012  President & Bates College        518,036
+  2012  University Of Maine System     1,800,000
 ```
 ## SULI/CCI Interns
 From 2014-2016 (only years available), this district had 3 SULI/CCI interns

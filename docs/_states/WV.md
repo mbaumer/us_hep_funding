@@ -19,6 +19,7 @@ Joe Manchin, III is the #14 Democrat on the Senate Committee on Appropriations
 
 Joe Manchin, III is the #1 Democrat on the Senate Committee on Energy and Natural Resources 
 
+## Committees
 Shelley Moore Capito is the #7 Republican on the Senate Appropriations Subcommittee on Commerce, Justice, Science, and Related Agencies 
 
 Shelley Moore Capito is the #11 Republican on the Senate Committee on Appropriations 
@@ -39,16 +40,16 @@ In the past 8 years, this state has received:
 ```
   Year  Institution                                      Amount ($)
 ------  ---------------------------------------------  ------------
-  2018  MARSHALL UNIVERSITY RESEARCH CORPORATION            415,000
-  2018  WEST VIRGINIA UNIVERSITY RESEARCH CORPORATION     3,832,303
-  2017  WEST VIRGINIA UNIVERSITY RESEARCH CORPORATION     2,436,019
-  2016  WEST VIRGINIA UNIVERSITY RESEARCH CORPORATION     3,277,030
-  2015  WEST VIRGINIA UNIVERSITY RESEARCH CORPORATION     1,375,140
-  2015  WV UNIV RESEARCH CORP                             1,474,918
-  2014  WEST VIRGINIA UNIVERSITY RESEARCH CORPORATION     2,904,443
-  2013  WEST VIRGINIA UNIVERSITY RESEARCH CORPORATION     2,156,346
-  2012  MARSHALL UNIVERSITY RESEARCH CORPORATION            338,845
-  2012  WEST VIRGINIA UNIVERSITY RESEARCH CORPORATION     2,347,751
+  2018  Marshall University Research Corporation            415,000
+  2018  West Virginia University Research Corporation     3,832,303
+  2017  West Virginia University Research Corporation     2,436,019
+  2016  West Virginia University Research Corporation     3,277,030
+  2015  West Virginia University Research Corporation     1,375,140
+  2015  Wv Univ Research Corp                             1,474,918
+  2014  West Virginia University Research Corporation     2,904,443
+  2013  West Virginia University Research Corporation     2,156,346
+  2012  Marshall University Research Corporation            338,845
+  2012  West Virginia University Research Corporation     2,347,751
 ```
 ## SULI/CCI Interns
 <p align="center">
@@ -84,14 +85,14 @@ In the past 8 years, this district has received:<b> $19,803,950 </b>in NSF MPS g
 ```
   Year  Institution                                      Amount ($)
 ------  ---------------------------------------------  ------------
-  2018  WEST VIRGINIA UNIVERSITY RESEARCH CORPORATION     3,832,303
-  2017  WEST VIRGINIA UNIVERSITY RESEARCH CORPORATION     2,436,019
-  2016  WEST VIRGINIA UNIVERSITY RESEARCH CORPORATION     3,277,030
-  2015  WEST VIRGINIA UNIVERSITY RESEARCH CORPORATION     1,375,140
-  2015  WV UNIV RESEARCH CORP                             1,474,918
-  2014  WEST VIRGINIA UNIVERSITY RESEARCH CORPORATION     2,904,443
-  2013  WEST VIRGINIA UNIVERSITY RESEARCH CORPORATION     2,156,346
-  2012  WEST VIRGINIA UNIVERSITY RESEARCH CORPORATION     2,347,751
+  2018  West Virginia University Research Corporation     3,832,303
+  2017  West Virginia University Research Corporation     2,436,019
+  2016  West Virginia University Research Corporation     3,277,030
+  2015  West Virginia University Research Corporation     1,375,140
+  2015  Wv Univ Research Corp                             1,474,918
+  2014  West Virginia University Research Corporation     2,904,443
+  2013  West Virginia University Research Corporation     2,156,346
+  2012  West Virginia University Research Corporation     2,347,751
 ```
 ## SULI/CCI Interns
 From 2014-2016 (only years available), this district had 9 SULI/CCI interns
@@ -112,9 +113,6 @@ Fall 2014    Julie Michelle Button   West Virginia University   Lawrence Livermo
 <a name="WV-02"></a>
 [Back to top](#top)
 ## WV-02 -- Rep. Alexander X. Mooney (R) -- [Wikipedia](https://en.wikipedia.org/wiki/WV-02)
-## Committees
-Alexander X. Mooney is not on any of our key committees. 
-
 ## HEP Grants
 ```
 This district received no SC HEP grants from 2012-2019
@@ -140,9 +138,6 @@ Summer 2015  Asa Nichols         West Virginia Wesleyan College  National Renewa
 <a name="WV-03"></a>
 [Back to top](#top)
 ## WV-03 -- Rep. Carol D. Miller (R) -- [Wikipedia](https://en.wikipedia.org/wiki/WV-03)
-## Committees
-Carol D. Miller is not on any of our key committees. 
-
 ## HEP Grants
 ```
 This district received no SC HEP grants from 2012-2019
@@ -156,8 +151,8 @@ In the past 8 years, this district has received:<b> $753,845 </b>in NSF MPS gran
 ```
   Year  Institution                                 Amount ($)
 ------  ----------------------------------------  ------------
-  2018  MARSHALL UNIVERSITY RESEARCH CORPORATION       415,000
-  2012  MARSHALL UNIVERSITY RESEARCH CORPORATION       338,845
+  2018  Marshall University Research Corporation       415,000
+  2012  Marshall University Research Corporation       338,845
 ```
 ## SULI/CCI Interns
 From 2014-2016 (only years available), this district had 2 SULI/CCI interns

@@ -13,18 +13,22 @@ permalink : /states/SD/
 ## Committees
 John Thune is the #2 Republican on the Senate Committee on Commerce, Science, and Transportation 
 
-Mike Rounds is not on any of our key committees. 
-
 ## HEP Grants
 In the past 8 years, this state has received:
 13 HEP grants, totalling <b> $2,199,477</b>
 ```
-Institution                                  Amount ($)
------------------------------------------  ------------
-South Dakota School of Mines & Technology     1,600,000
-University of South Dakota                      579,000
-Dakota State University                          12,477
-DAKOTA STATE UNIVERSITY                           8,000
+  Year  Institution                                  Amount ($)
+------  -----------------------------------------  ------------
+  2018  South Dakota School of Mines & Technology       500,000
+  2018  University of South Dakota                      459,000
+  2017  South Dakota School of Mines & Technology       436,000
+  2017  University of South Dakota                            0
+  2016  Dakota State University                           8,477
+  2016  South Dakota School of Mines & Technology       372,000
+  2016  University of South Dakota                      120,000
+  2015  Dakota State University                           4,000
+  2015  South Dakota School of Mines & Technology       292,000
+  2013  Dakota State University                           8,000
 ```
 ## SC Contracts
 ```
@@ -36,16 +40,14 @@ In the past 8 years, this state has received:
 ```
 Institution                                  Amount ($)
 -----------------------------------------  ------------
-THE UNIVERSITY OF SOUTH DAKOTA                3,208,179
-SOUTH DAKOTA SCHOOL OF MINES & TECHNOLOGY     2,269,881
-BLACK HILLS STATE UNIVERSITY                  1,385,107
-SOUTH DAKOTA STATE UNIVERSITY                 1,025,906
-AUGUSTANA COLLEGE ASSOCIATION, THE              561,010
-U OF SOUTH DAKOTA                               181,643
-SD SCH OF MINES AND TECH                        110,000
-DAKOTA STATE UNIVERSITY                          24,000
-AUGUSTANA COLLEGE                                19,000
-DAKOTA STATE UNIV                                12,000
+University Of South Dakota                    3,389,822
+South Dakota School Of Mines & Technology     2,269,881
+Black Hills State University                  1,385,107
+South Dakota State University                 1,025,906
+Augustana College Association                   561,010
+Sd Sch Of Mines And Technology                  110,000
+Dakota State University                          36,000
+Augustana College                                19,000
 ```
 ## SULI/CCI Interns
 <p align="center">
@@ -63,9 +65,6 @@ From 2014-2016 (only years available), this state had 4 SULI/CCI interns
 <a name="SD-00"></a>
 [Back to top](#top)
 ## SD-00 -- Rep. Dusty Johnson (R) -- [Wikipedia](https://en.wikipedia.org/wiki/SD-00)
-## Committees
-Dusty Johnson is not on any of our key committees. 
-
 ## HEP Grants
 In the past 8 years, this district has received:<b> $2,199,477 </b>in SC HEP grants.
 ```
@@ -77,7 +76,7 @@ Dakota State University                           8,477     2016  2017     Szcze
 University of South Dakota                      120,000     2016  2017     Mei, Dongming             Generation-2 Dark Matter Experiments at The University of South Dakota
 Dakota State University                           4,000     2015  2016     Szczerbinska, Barbara     Center For Theoretical Underground Physics And Related Fields: Cetup2015/ Particle Physics And Cosmology Conference: Ppc2015
 South Dakota School of Mines & Technology     1,600,000     2015  Ongoing  Schnee, Richard           Underground Physics at SURF and Beyond
-DAKOTA STATE UNIVERSITY                           8,000     2013  2014     Szczerbinska              Center for Theoretical Underground Physics & Related Fields & International Conference on Interconnections Between Particle Physics & Cosmology, June/July 2013
+Dakota State University                           8,000     2013  2014     Szczerbinska              Center for Theoretical Underground Physics & Related Fields & International Conference on Interconnections Between Particle Physics & Cosmology, June/July 2013
 ```
 ## SC Contracts
 ```
@@ -88,40 +87,39 @@ In the past 8 years, this district has received:<b> $8,796,726 </b>in NSF MPS gr
 ```
   Year  Institution                                  Amount ($)
 ------  -----------------------------------------  ------------
-  2019  THE UNIVERSITY OF SOUTH DAKOTA                   69,049
-  2018  THE UNIVERSITY OF SOUTH DAKOTA                  790,050
-  2018  SOUTH DAKOTA STATE UNIVERSITY                    31,919
-  2018  SOUTH DAKOTA SCHOOL OF MINES & TECHNOLOGY       882,420
-  2018  BLACK HILLS STATE UNIVERSITY                     95,979
-  2018  AUGUSTANA COLLEGE ASSOCIATION, THE              110,948
-  2017  THE UNIVERSITY OF SOUTH DAKOTA                  238,531
-  2017  SOUTH DAKOTA SCHOOL OF MINES & TECHNOLOGY       263,700
-  2017  BLACK HILLS STATE UNIVERSITY                     86,031
-  2017  AUGUSTANA COLLEGE ASSOCIATION, THE              119,006
-  2016  THE UNIVERSITY OF SOUTH DAKOTA                   94,492
-  2016  BLACK HILLS STATE UNIVERSITY                    434,873
-  2016  AUGUSTANA COLLEGE ASSOCIATION, THE               19,000
-  2015  SOUTH DAKOTA STATE UNIVERSITY                   384,288
-  2015  U OF SOUTH DAKOTA                               181,643
-  2015  THE UNIVERSITY OF SOUTH DAKOTA                  421,022
-  2015  SOUTH DAKOTA SCHOOL OF MINES & TECHNOLOGY       329,942
-  2015  DAKOTA STATE UNIV                                12,000
-  2015  AUGUSTANA COLLEGE                                19,000
-  2015  SD SCH OF MINES AND TECH                        110,000
-  2014  THE UNIVERSITY OF SOUTH DAKOTA                  737,610
-  2014  SOUTH DAKOTA STATE UNIVERSITY                     5,100
-  2014  BLACK HILLS STATE UNIVERSITY                    702,904
-  2014  AUGUSTANA COLLEGE ASSOCIATION, THE               73,133
-  2013  THE UNIVERSITY OF SOUTH DAKOTA                  297,862
-  2013  SOUTH DAKOTA SCHOOL OF MINES & TECHNOLOGY       392,942
-  2013  DAKOTA STATE UNIVERSITY                          12,000
-  2013  AUGUSTANA COLLEGE ASSOCIATION, THE              156,312
-  2012  SOUTH DAKOTA SCHOOL OF MINES & TECHNOLOGY       400,877
-  2012  DAKOTA STATE UNIVERSITY                          12,000
-  2012  BLACK HILLS STATE UNIVERSITY                     65,320
-  2012  SOUTH DAKOTA STATE UNIVERSITY                   604,599
-  2012  THE UNIVERSITY OF SOUTH DAKOTA                  559,563
-  2012  AUGUSTANA COLLEGE ASSOCIATION, THE               82,611
+  2019  University Of South Dakota                       69,049
+  2018  University Of South Dakota                      790,050
+  2018  South Dakota State University                    31,919
+  2018  South Dakota School Of Mines & Technology       882,420
+  2018  Black Hills State University                     95,979
+  2018  Augustana College Association                   110,948
+  2017  University Of South Dakota                      238,531
+  2017  South Dakota School Of Mines & Technology       263,700
+  2017  Black Hills State University                     86,031
+  2017  Augustana College Association                   119,006
+  2016  University Of South Dakota                       94,492
+  2016  Black Hills State University                    434,873
+  2016  Augustana College Association                    19,000
+  2015  South Dakota School Of Mines & Technology       329,942
+  2015  University Of South Dakota                      602,665
+  2015  South Dakota State University                   384,288
+  2015  Sd Sch Of Mines And Technology                  110,000
+  2015  Dakota State University                          12,000
+  2015  Augustana College                                19,000
+  2014  University Of South Dakota                      737,610
+  2014  South Dakota State University                     5,100
+  2014  Black Hills State University                    702,904
+  2014  Augustana College Association                    73,133
+  2013  University Of South Dakota                      297,862
+  2013  South Dakota School Of Mines & Technology       392,942
+  2013  Dakota State University                          12,000
+  2013  Augustana College Association                   156,312
+  2012  Black Hills State University                     65,320
+  2012  University Of South Dakota                      559,563
+  2012  South Dakota State University                   604,599
+  2012  South Dakota School Of Mines & Technology       400,877
+  2012  Dakota State University                          12,000
+  2012  Augustana College Association                    82,611
 ```
 ## SULI/CCI Interns
 From 2014-2016 (only years available), this district had 4 SULI/CCI interns

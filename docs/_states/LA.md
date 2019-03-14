@@ -15,6 +15,7 @@ Bill Cassidy is the #1 Republican on the Senate Energy Subcommittee on Energy
 
 Bill Cassidy is the #6 Republican on the Senate Committee on Energy and Natural Resources 
 
+## Committees
 John Kennedy is the #8 Republican on the Senate Appropriations Subcommittee on Commerce, Justice, Science, and Related Agencies 
 
 John Kennedy is the #12 Republican on the Senate Committee on Appropriations 
@@ -25,12 +26,21 @@ John Kennedy is the #8 Republican on the Senate Appropriations Subcommittee on E
 In the past 8 years, this state has received:
 16 HEP grants, totalling <b> $3,748,000</b>
 ```
-Institution                                   Amount ($)
-------------------------------------------  ------------
-Louisiana State University and A&M College     1,942,000
-LOUISIANA STATE UNIVERSITY                       837,000
-Louisiana Tech University                        546,000
-LOUISIANA TECH UNIVERSITY                        423,000
+  Year  Institution                   Amount ($)
+------  --------------------------  ------------
+  2018  Louisiana State University       400,000
+  2017  Louisiana State University       235,000
+  2017  Louisiana Tech University              0
+  2016  Louisiana State University       365,000
+  2016  Louisiana Tech University        130,000
+  2015  Louisiana State University       448,000
+  2015  Louisiana Tech University        208,000
+  2014  Louisiana State University       494,000
+  2014  Louisiana Tech University        208,000
+  2013  Louisiana State University       417,000
+  2013  Louisiana Tech University        185,000
+  2012  Louisiana State University       420,000
+  2012  Louisiana Tech University        238,000
 ```
 ## SC Contracts
 ```
@@ -40,24 +50,21 @@ This state received no SC contracts from 2012-2019
 In the past 8 years, this state has received:
 298 NSF MPS grants, totalling <b> $52,649,784</b>
 ```
-Institution                                           Amount ($)
---------------------------------------------------  ------------
-LOUISIANA STATE UNIVERSITY SYSTEM                     14,787,055
-LOUISIANA STATE UNIVERSITY                             9,852,508
-ADMINISTRATORS OF THE TULANE EDUCATIONAL FUND          7,918,809
-ADMINISTRATORS OF THE TULANE EDUCATIONAL FUND, THE     6,621,011
-UNIVERSITY OF NEW ORLEANS                              2,703,031
-SOUTHERN UNIVERSITY AND ANM COLLEGE SYSTEM             2,405,000
-LOUISIANA STATE UNIVERSITY SYSTEM075050765             1,957,088
-XAVIER UNIVERSITY OF LOUISIANA                         1,413,138
-UNIVERSITY OF LOUISIANA AT LAFAYETTE                   1,232,681
-LOUISIANA TECH UNIVERSITY                                969,620
-BATON ROUGE AREA FOUNDATION INC                          766,496
-LA ST U & A&M COLL                                       751,200
-BATON ROUGE AREA FOUNDATION, THE                         696,967
-SOUTHEASTERN LOUISIANA UNIVERSITY                        375,786
-TULANE UNIVERSITY                                        158,784
-UNIV OF LOUISIANA AT LAFAY                                40,610
+Institution                                   Amount ($)
+------------------------------------------  ------------
+Louisiana State University System             16,744,143
+Administrators Of Tulane Educational Fund     14,539,820
+Louisiana State University                     9,852,508
+University Of New Orleans                      2,703,031
+Southern University And Anm College System     2,405,000
+Baton Rouge Area Foundation                    1,463,463
+Xavier University Of Louisiana                 1,413,138
+University Of Louisiana At Lafayette           1,232,681
+Louisiana Tech University                        969,620
+La St U & A&M Coll                               751,200
+Southeastern Louisiana University                375,786
+Tulane University                                158,784
+Univ Of Louisiana At Lafay                        40,610
 ```
 ## SULI/CCI Interns
 <p align="center">
@@ -89,18 +96,18 @@ This district received no SC contracts from 2012-2019
 ## NSF MPS Grants
 In the past 8 years, this district has received:<b> $13,101,616 </b>in NSF MPS grants.
 ```
-  Year  Institution                                           Amount ($)
-------  --------------------------------------------------  ------------
-  2019  ADMINISTRATORS OF THE TULANE EDUCATIONAL FUND, THE       558,332
-  2018  ADMINISTRATORS OF THE TULANE EDUCATIONAL FUND, THE     3,813,428
-  2017  ADMINISTRATORS OF THE TULANE EDUCATIONAL FUND, THE     2,249,251
-  2016  ADMINISTRATORS OF THE TULANE EDUCATIONAL FUND          2,267,863
-  2016  SOUTHEASTERN LOUISIANA UNIVERSITY                        101,786
-  2015  ADMINISTRATORS OF THE TULANE EDUCATIONAL FUND          1,227,497
-  2015  TULANE UNIVERSITY                                        158,784
-  2014  ADMINISTRATORS OF THE TULANE EDUCATIONAL FUND            617,020
-  2013  ADMINISTRATORS OF THE TULANE EDUCATIONAL FUND          1,833,655
-  2013  SOUTHEASTERN LOUISIANA UNIVERSITY                        274,000
+  Year  Institution                                  Amount ($)
+------  -----------------------------------------  ------------
+  2019  Administrators Of Tulane Educational Fund       558,332
+  2018  Administrators Of Tulane Educational Fund     3,813,428
+  2017  Administrators Of Tulane Educational Fund     2,249,251
+  2016  Administrators Of Tulane Educational Fund     2,267,863
+  2016  Southeastern Louisiana University               101,786
+  2015  Administrators Of Tulane Educational Fund     1,227,497
+  2015  Tulane University                               158,784
+  2014  Administrators Of Tulane Educational Fund       617,020
+  2013  Administrators Of Tulane Educational Fund     1,833,655
+  2013  Southeastern Louisiana University               274,000
 ```
 ## SULI/CCI Interns
 From 2014-2016 (only years available), this district had 2 SULI/CCI interns
@@ -114,9 +121,6 @@ Summer 2016  Wilson Jeter                Tulane University  Oak Ridge National L
 <a name="LA-02"></a>
 [Back to top](#top)
 ## LA-02 -- Rep. Cedric L. Richmond (D) -- [Wikipedia](https://en.wikipedia.org/wiki/LA-02)
-## Committees
-Cedric L. Richmond is not on any of our key committees. 
-
 ## HEP Grants
 ```
 This district received no SC HEP grants from 2012-2019
@@ -128,23 +132,23 @@ This district received no SC contracts from 2012-2019
 ## NSF MPS Grants
 In the past 8 years, this district has received:<b> $7,568,943 </b>in NSF MPS grants.
 ```
-  Year  Institution                                      Amount ($)
-------  ---------------------------------------------  ------------
-  2018  SOUTHERN UNIVERSITY AND ANM COLLEGE SYSTEM          500,000
-  2018  UNIVERSITY OF NEW ORLEANS                           134,962
-  2018  XAVIER UNIVERSITY OF LOUISIANA                      699,849
-  2017  SOUTHERN UNIVERSITY AND ANM COLLEGE SYSTEM          500,000
-  2016  UNIVERSITY OF NEW ORLEANS                             9,465
-  2016  XAVIER UNIVERSITY OF LOUISIANA                      498,951
-  2015  UNIVERSITY OF NEW ORLEANS                           170,440
-  2014  UNIVERSITY OF NEW ORLEANS                           658,050
-  2014  XAVIER UNIVERSITY OF LOUISIANA                      200,000
-  2013  ADMINISTRATORS OF THE TULANE EDUCATIONAL FUND        15,750
-  2013  SOUTHERN UNIVERSITY AND ANM COLLEGE SYSTEM          480,000
-  2013  UNIVERSITY OF NEW ORLEANS                           902,114
-  2012  ADMINISTRATORS OF THE TULANE EDUCATIONAL FUND     1,957,024
-  2012  UNIVERSITY OF NEW ORLEANS                           828,000
-  2012  XAVIER UNIVERSITY OF LOUISIANA                       14,338
+  Year  Institution                                   Amount ($)
+------  ------------------------------------------  ------------
+  2018  Southern University And Anm College System       500,000
+  2018  University Of New Orleans                        134,962
+  2018  Xavier University Of Louisiana                   699,849
+  2017  Southern University And Anm College System       500,000
+  2016  University Of New Orleans                          9,465
+  2016  Xavier University Of Louisiana                   498,951
+  2015  University Of New Orleans                        170,440
+  2014  University Of New Orleans                        658,050
+  2014  Xavier University Of Louisiana                   200,000
+  2013  Administrators Of Tulane Educational Fund         15,750
+  2013  Southern University And Anm College System       480,000
+  2013  University Of New Orleans                        902,114
+  2012  Administrators Of Tulane Educational Fund      1,957,024
+  2012  University Of New Orleans                        828,000
+  2012  Xavier University Of Louisiana                    14,338
 ```
 ## SULI/CCI Interns
 ```
@@ -154,9 +158,6 @@ This district had no SULI/CCI interns from 2014-2016 (only years available)
 <a name="LA-03"></a>
 [Back to top](#top)
 ## LA-03 -- Rep. Clay Higgins (R) -- [Wikipedia](https://en.wikipedia.org/wiki/LA-03)
-## Committees
-Clay Higgins is not on any of our key committees. 
-
 ## HEP Grants
 ```
 This district received no SC HEP grants from 2012-2019
@@ -170,12 +171,12 @@ In the past 8 years, this district has received:<b> $1,273,291 </b>in NSF MPS gr
 ```
   Year  Institution                             Amount ($)
 ------  ------------------------------------  ------------
-  2018  UNIVERSITY OF LOUISIANA AT LAFAYETTE        97,681
-  2017  UNIVERSITY OF LOUISIANA AT LAFAYETTE       175,000
-  2016  UNIVERSITY OF LOUISIANA AT LAFAYETTE       200,000
-  2015  UNIV OF LOUISIANA AT LAFAY                  40,610
-  2014  UNIVERSITY OF LOUISIANA AT LAFAYETTE       180,000
-  2013  UNIVERSITY OF LOUISIANA AT LAFAYETTE       580,000
+  2018  University Of Louisiana At Lafayette        97,681
+  2017  University Of Louisiana At Lafayette       175,000
+  2016  University Of Louisiana At Lafayette       200,000
+  2015  Univ Of Louisiana At Lafay                  40,610
+  2014  University Of Louisiana At Lafayette       180,000
+  2013  University Of Louisiana At Lafayette       580,000
 ```
 ## SULI/CCI Interns
 ```
@@ -185,9 +186,6 @@ This district had no SULI/CCI interns from 2014-2016 (only years available)
 <a name="LA-04"></a>
 [Back to top](#top)
 ## LA-04 -- Rep. Mike Johnson (R) -- [Wikipedia](https://en.wikipedia.org/wiki/LA-04)
-## Committees
-Mike Johnson is not on any of our key committees. 
-
 ## HEP Grants
 ```
 This district received no SC HEP grants from 2012-2019
@@ -201,7 +199,7 @@ In the past 8 years, this district has received:<b> $197,800 </b>in NSF MPS gran
 ```
   Year  Institution                          Amount ($)
 ------  ---------------------------------  ------------
-  2013  LOUISIANA STATE UNIVERSITY SYSTEM       197,800
+  2013  Louisiana State University System       197,800
 ```
 ## SULI/CCI Interns
 ```
@@ -211,9 +209,6 @@ This district had no SULI/CCI interns from 2014-2016 (only years available)
 <a name="LA-05"></a>
 [Back to top](#top)
 ## LA-05 -- Rep. Ralph Lee Abraham (R) -- [Wikipedia](https://en.wikipedia.org/wiki/LA-05)
-## Committees
-Ralph Lee Abraham is not on any of our key committees. 
-
 ## HEP Grants
 In the past 8 years, this district has received:<b> $969,000 </b>in SC HEP grants.
 ```
@@ -221,8 +216,8 @@ Institution                  Amount ($)    Start    End  Principal Investigator 
 -------------------------  ------------  -------  -----  ------------------------  ---------------------------------------------------------------------
 Louisiana Tech University       130,000     2016   2017  Sawyer, H.                Testing the Standard Model at the Large Hadron Collider
 Louisiana Tech University       416,000     2014   2018  Sawyer, Lee               TESTING THE STANDARD MODEL AT THE LARGE HADRON COLLIDER
-LOUISIANA TECH UNIVERSITY       185,000     2013   2014  Sawyer                    High Energy Physics Research at the Energy Frontier at Louisiana Tech
-LOUISIANA TECH UNIVERSITY       238,000     2012   2014  Sawyer                    Research in High Energy Physics
+Louisiana Tech University       185,000     2013   2014  Sawyer                    High Energy Physics Research at the Energy Frontier at Louisiana Tech
+Louisiana Tech University       238,000     2012   2014  Sawyer                    Research in High Energy Physics
 ```
 ## SC Contracts
 ```
@@ -233,12 +228,12 @@ In the past 8 years, this district has received:<b> $969,620 </b>in NSF MPS gran
 ```
   Year  Institution                  Amount ($)
 ------  -------------------------  ------------
-  2018  LOUISIANA TECH UNIVERSITY        38,915
-  2017  LOUISIANA TECH UNIVERSITY       109,999
-  2015  LOUISIANA TECH UNIVERSITY       209,604
-  2014  LOUISIANA TECH UNIVERSITY       200,000
-  2013  LOUISIANA TECH UNIVERSITY       286,281
-  2012  LOUISIANA TECH UNIVERSITY       124,821
+  2018  Louisiana Tech University        38,915
+  2017  Louisiana Tech University       109,999
+  2015  Louisiana Tech University       209,604
+  2014  Louisiana Tech University       200,000
+  2013  Louisiana Tech University       286,281
+  2012  Louisiana Tech University       124,821
 ```
 ## SULI/CCI Interns
 ```
@@ -248,19 +243,16 @@ This district had no SULI/CCI interns from 2014-2016 (only years available)
 <a name="LA-06"></a>
 [Back to top](#top)
 ## LA-06 -- Rep. Garret Graves (R) -- [Wikipedia](https://en.wikipedia.org/wiki/LA-06)
-## Committees
-Garret Graves is not on any of our key committees. 
-
 ## HEP Grants
 In the past 8 years, this district has received:<b> $2,779,000 </b>in SC HEP grants.
 ```
-Institution                                   Amount ($)    Start  End      Principal Investigator    Project Title
-------------------------------------------  ------------  -------  -------  ------------------------  -------------------------------------------------------------------
-Louisiana State University and A&M College     1,000,000     2016  Ongoing  Kutter, Thomas            Research in Elementary Particle Physics and Cosmic Ray Physics
-Louisiana State University and A&M College       942,000     2014  2016     Matthews, James           Research in Elementary Particle Physics and Cosmic Ray Physics
-LOUISIANA STATE UNIVERSITY                       417,000     2013  2014     Matthews                  Research in Elementary Particle Physics and Cosmic Ray Physics
-LOUISIANA STATE UNIVERSITY                       410,000     2012  2013     Matthews, Metcalf         Research in Elementary Particle Physics and Cosmic Ray Physics
-LOUISIANA STATE UNIVERSITY                        10,000     2012  2013     Suller                    2012 International Particle Accelerator Conference, May 20-25, 2012
+Institution                   Amount ($)    Start  End      Principal Investigator    Project Title
+--------------------------  ------------  -------  -------  ------------------------  -------------------------------------------------------------------
+Louisiana State University     1,000,000     2016  Ongoing  Kutter, Thomas            Research in Elementary Particle Physics and Cosmic Ray Physics
+Louisiana State University       942,000     2014  2016     Matthews, James           Research in Elementary Particle Physics and Cosmic Ray Physics
+Louisiana State University       417,000     2013  2014     Matthews                  Research in Elementary Particle Physics and Cosmic Ray Physics
+Louisiana State University       410,000     2012  2013     Matthews, Metcalf         Research in Elementary Particle Physics and Cosmic Ray Physics
+Louisiana State University        10,000     2012  2013     Suller                    2012 International Particle Accelerator Conference, May 20-25, 2012
 ```
 ## SC Contracts
 ```
@@ -271,24 +263,23 @@ In the past 8 years, this district has received:<b> $29,538,514 </b>in NSF MPS g
 ```
   Year  Institution                                   Amount ($)
 ------  ------------------------------------------  ------------
-  2018  LOUISIANA STATE UNIVERSITY                     4,763,868
-  2018  BATON ROUGE AREA FOUNDATION, THE                 445,986
-  2017  LOUISIANA STATE UNIVERSITY                     4,476,807
-  2017  BATON ROUGE AREA FOUNDATION, THE                 100,763
-  2016  BATON ROUGE AREA FOUNDATION, THE                 150,218
-  2016  LOUISIANA STATE UNIVERSITY SYSTEM075050765     1,957,088
-  2016  LOUISIANA STATE UNIVERSITY SYSTEM                400,200
-  2016  LOUISIANA STATE UNIVERSITY                       611,833
-  2015  SOUTHERN UNIVERSITY AND ANM COLLEGE SYSTEM       500,000
-  2015  LOUISIANA STATE UNIVERSITY SYSTEM              2,592,497
-  2015  LA ST U & A&M COLL                               751,200
-  2015  BATON ROUGE AREA FOUNDATION INC                  224,076
-  2014  LOUISIANA STATE UNIVERSITY SYSTEM              3,045,395
-  2013  LOUISIANA STATE UNIVERSITY SYSTEM              3,787,961
-  2013  BATON ROUGE AREA FOUNDATION INC                  266,070
-  2012  LOUISIANA STATE UNIVERSITY SYSTEM              4,763,202
-  2012  SOUTHERN UNIVERSITY AND ANM COLLEGE SYSTEM       425,000
-  2012  BATON ROUGE AREA FOUNDATION INC                  276,350
+  2018  Louisiana State University                     4,763,868
+  2018  Baton Rouge Area Foundation                      445,986
+  2017  Louisiana State University                     4,476,807
+  2017  Baton Rouge Area Foundation                      100,763
+  2016  Louisiana State University System              2,357,288
+  2016  Louisiana State University                       611,833
+  2016  Baton Rouge Area Foundation                      150,218
+  2015  Southern University And Anm College System       500,000
+  2015  Louisiana State University System              2,592,497
+  2015  La St U & A&M Coll                               751,200
+  2015  Baton Rouge Area Foundation                      224,076
+  2014  Louisiana State University System              3,045,395
+  2013  Louisiana State University System              3,787,961
+  2013  Baton Rouge Area Foundation                      266,070
+  2012  Louisiana State University System              4,763,202
+  2012  Southern University And Anm College System       425,000
+  2012  Baton Rouge Area Foundation                      276,350
 ```
 ## SULI/CCI Interns
 From 2014-2016 (only years available), this district had 4 SULI/CCI interns

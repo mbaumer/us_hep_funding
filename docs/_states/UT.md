@@ -17,8 +17,6 @@ Mike Lee is the #4 Republican on the Senate Committee on Energy and Natural Reso
 
 Mike Lee is the #11 Republican on the Senate Committee on Commerce, Science, and Transportation 
 
-Mitt Romney is not on any of our key committees. 
-
 ## HEP Grants
 In the past 8 years, this state has received:
 19 HEP grants, totalling <b> $3,715,000</b>
@@ -30,8 +28,8 @@ In the past 8 years, this state has received:
   2016  University of Utah     1,052,000
   2015  University of Utah       657,000
   2014  University of Utah       343,000
-  2013  UNIVERSITY OF UTAH       245,000
-  2012  UNIVERSITY OF UTAH        78,000
+  2013  University of Utah       245,000
+  2012  University of Utah        78,000
 ```
 ## SC Contracts
 In the past 8 years, this state has received:
@@ -39,9 +37,9 @@ In the past 8 years, this state has received:
 ```
   Year  Vendor                   Amount ($)  Item
 ------  ---------------------  ------------  --------------------------
-  2015  OVID TECHNOLOGIES INC         3,531  NEWSPAPERS AND PERIODICALS
-  2014  OVID TECHNOLOGIES INC         3,270  NEWSPAPERS AND PERIODICALS
-  2012  OVID TECHNOLOGIES INC         3,028  NEWSPAPERS AND PERIODICALS
+  2015  Ovid Technologies Inc         3,531  Newspapers And Periodicals
+  2014  Ovid Technologies Inc         3,270  Newspapers And Periodicals
+  2012  Ovid Technologies Inc         3,028  Newspapers And Periodicals
 ```
 ## NSF MPS Grants
 In the past 8 years, this state has received:
@@ -49,13 +47,12 @@ In the past 8 years, this state has received:
 ```
 Institution                 Amount ($)
 ------------------------  ------------
-UNIVERSITY OF UTAH, THE     58,193,075
-BRIGHAM YOUNG UNIVERSITY    14,715,108
-UTAH STATE UNIVERSITY        5,358,219
-UNIVERSITY OF UTAH           1,412,034
-PII REDACTED                   300,000
-UTAH VALLEY UNIVERSITY         300,000
-DIXIE STATE UNIVERSITY         135,000
+University Of Utah          59,605,109
+Brigham Young University    14,715,108
+Utah State University        5,358,219
+Pii Redacted                   300,000
+Utah Valley University         300,000
+Dixie State University         135,000
 ```
 ## SULI/CCI Interns
 <p align="center">
@@ -74,9 +71,6 @@ From 2014-2016 (only years available), this state had 22 SULI/CCI interns
 <a name="UT-01"></a>
 [Back to top](#top)
 ## UT-01 -- Rep. Rob Bishop (R) -- [Wikipedia](https://en.wikipedia.org/wiki/UT-01)
-## Committees
-Rob Bishop is not on any of our key committees. 
-
 ## HEP Grants
 ```
 This district received no SC HEP grants from 2012-2019
@@ -87,20 +81,20 @@ In the past 8 years, this district has received:
 ```
   Year  Vendor                   Amount ($)  Item
 ------  ---------------------  ------------  --------------------------
-  2012  OVID TECHNOLOGIES INC         3,028  NEWSPAPERS AND PERIODICALS
+  2012  Ovid Technologies Inc         3,028  Newspapers And Periodicals
 ```
 ## NSF MPS Grants
 In the past 8 years, this district has received:<b> $5,358,219 </b>in NSF MPS grants.
 ```
   Year  Institution              Amount ($)
 ------  ---------------------  ------------
-  2018  UTAH STATE UNIVERSITY       692,642
-  2017  UTAH STATE UNIVERSITY     1,698,561
-  2016  UTAH STATE UNIVERSITY       188,391
-  2015  UTAH STATE UNIVERSITY       312,014
-  2014  UTAH STATE UNIVERSITY     1,119,543
-  2013  UTAH STATE UNIVERSITY     1,239,268
-  2012  UTAH STATE UNIVERSITY       107,800
+  2018  Utah State University       692,642
+  2017  Utah State University     1,698,561
+  2016  Utah State University       188,391
+  2015  Utah State University       312,014
+  2014  Utah State University     1,119,543
+  2013  Utah State University     1,239,268
+  2012  Utah State University       107,800
 ```
 ## SULI/CCI Interns
 From 2014-2016 (only years available), this district had 3 SULI/CCI interns
@@ -130,9 +124,9 @@ University of Utah     1,350,000     2015  2018     Dawson, Kyle              Th
 University of Utah       327,000     2014  2017     Bolton, Adam              Integrating Advanced Software and Statistical Methods for Spectroscopic Dark-Energy Surveys
 University of Utah       245,000     2014  Ongoing  Dawson, Kyle              Spectral Templates and Models of Small-scale Clustering for eBOSS and DESI
 University of Utah        78,000     2014  2015     DeTar, Carleton           Searching for Physics Beyond the Standard Model: Strongly Coupled Field Theories at the Intensity and Energy Frontiers
-UNIVERSITY OF UTAH       150,000     2013  2014     Bolton                    Integrating Advanced Software and Statistical Methods for Spectroscopic Dark-Energy Surveys
-UNIVERSITY OF UTAH        95,000     2013  2014     Dawson                    Modeling Spectra of 160,000 BOSS Quasars for Lyman Alpha Studies
-UNIVERSITY OF UTAH        78,000     2012  2014     Detar                     Searching for Physics Beyond the Standard Model: Strongly Coupled Field Theories at the Intensity and Energy Frontiers
+University of Utah       150,000     2013  2014     Bolton                    Integrating Advanced Software and Statistical Methods for Spectroscopic Dark-Energy Surveys
+University of Utah        95,000     2013  2014     Dawson                    Modeling Spectra of 160,000 BOSS Quasars for Lyman Alpha Studies
+University of Utah        78,000     2012  2014     Detar                     Searching for Physics Beyond the Standard Model: Strongly Coupled Field Theories at the Intensity and Energy Frontiers
 ```
 ## SC Contracts
 ```
@@ -141,20 +135,19 @@ This district received no SC contracts from 2012-2019
 ## NSF MPS Grants
 In the past 8 years, this district has received:<b> $60,040,109 </b>in NSF MPS grants.
 ```
-  Year  Institution                Amount ($)
-------  -----------------------  ------------
-  2019  UNIVERSITY OF UTAH, THE       387,810
-  2018  PII REDACTED                  150,000
-  2018  UNIVERSITY OF UTAH, THE     7,464,742
-  2017  PII REDACTED                  150,000
-  2017  UNIVERSITY OF UTAH, THE    10,475,573
-  2016  UNIVERSITY OF UTAH, THE     7,140,869
-  2015  DIXIE STATE UNIVERSITY        135,000
-  2015  UNIVERSITY OF UTAH          1,412,034
-  2015  UNIVERSITY OF UTAH, THE     4,325,370
-  2014  UNIVERSITY OF UTAH, THE     8,808,133
-  2013  UNIVERSITY OF UTAH, THE     8,921,795
-  2012  UNIVERSITY OF UTAH, THE    10,668,783
+  Year  Institution               Amount ($)
+------  ----------------------  ------------
+  2019  University Of Utah           387,810
+  2018  Pii Redacted                 150,000
+  2018  University Of Utah         7,464,742
+  2017  Pii Redacted                 150,000
+  2017  University Of Utah        10,475,573
+  2016  University Of Utah         7,140,869
+  2015  Dixie State University       135,000
+  2015  University Of Utah         5,737,404
+  2014  University Of Utah         8,808,133
+  2013  University Of Utah         8,921,795
+  2012  University Of Utah        10,668,783
 ```
 ## SULI/CCI Interns
 From 2014-2016 (only years available), this district had 19 SULI/CCI interns
@@ -185,9 +178,6 @@ Spring 2014  Arthur Adaon Castleton     Brigham Young University  Idaho National
 <a name="UT-03"></a>
 [Back to top](#top)
 ## UT-03 -- Rep. John R. Curtis (R) -- [Wikipedia](https://en.wikipedia.org/wiki/UT-03)
-## Committees
-John R. Curtis is not on any of our key committees. 
-
 ## HEP Grants
 ```
 This district received no SC HEP grants from 2012-2019
@@ -201,14 +191,14 @@ In the past 8 years, this district has received:<b> $15,015,108 </b>in NSF MPS g
 ```
   Year  Institution                 Amount ($)
 ------  ------------------------  ------------
-  2018  BRIGHAM YOUNG UNIVERSITY     7,271,101
-  2017  BRIGHAM YOUNG UNIVERSITY     1,630,742
-  2016  BRIGHAM YOUNG UNIVERSITY       906,169
-  2016  UTAH VALLEY UNIVERSITY         300,000
-  2015  BRIGHAM YOUNG UNIVERSITY       625,808
-  2014  BRIGHAM YOUNG UNIVERSITY     1,108,690
-  2013  BRIGHAM YOUNG UNIVERSITY       893,763
-  2012  BRIGHAM YOUNG UNIVERSITY     2,278,835
+  2018  Brigham Young University     7,271,101
+  2017  Brigham Young University     1,630,742
+  2016  Brigham Young University       906,169
+  2016  Utah Valley University         300,000
+  2015  Brigham Young University       625,808
+  2014  Brigham Young University     1,108,690
+  2013  Brigham Young University       893,763
+  2012  Brigham Young University     2,278,835
 ```
 ## SULI/CCI Interns
 ```
@@ -233,8 +223,8 @@ In the past 8 years, this district has received:
 ```
   Year  Vendor                   Amount ($)  Item
 ------  ---------------------  ------------  --------------------------
-  2015  OVID TECHNOLOGIES INC         3,531  NEWSPAPERS AND PERIODICALS
-  2014  OVID TECHNOLOGIES INC         3,270  NEWSPAPERS AND PERIODICALS
+  2015  Ovid Technologies Inc         3,531  Newspapers And Periodicals
+  2014  Ovid Technologies Inc         3,270  Newspapers And Periodicals
 ```
 ## NSF MPS Grants
 ```

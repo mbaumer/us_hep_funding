@@ -15,8 +15,6 @@ John Boozman is the #6 Republican on the Senate Appropriations Subcommittee on C
 
 John Boozman is the #10 Republican on the Senate Committee on Appropriations 
 
-Tom Cotton is not on any of our key committees. 
-
 ## HEP Grants
 ```
 This state received no SC HEP grants from 2012-2019
@@ -31,13 +29,11 @@ In the past 8 years, this state has received:
 ```
 Institution                                 Amount ($)
 ----------------------------------------  ------------
-UNIVERSITY OF ARKANSAS SYSTEM                9,263,725
-AR CHILDRENS HOSPITAL RESEARCH INSTITUTE     1,492,518
-U OF ARKANSAS                                  387,543
-UNIVERSITY OF CENTRAL ARKANSAS                 318,913
-UNIVERSITY OF ARKANSAS SYSTEM191429745         201,631
-UNIVERSITY OF ARKANSAS SYSTEM036725083          74,074
-ARKANSAS STATE UNIVERSITY                       34,000
+University Of Arkansas System                9,539,430
+Ar Childrens Hospital Research Institute     1,492,518
+University Of Arkansas                         387,543
+University Of Central Arkansas                 318,913
+Arkansas State University                       34,000
 ```
 ## SULI/CCI Interns
 <p align="center">
@@ -57,9 +53,6 @@ From 2014-2016 (only years available), this state had 6 SULI/CCI interns
 <a name="AR-01"></a>
 [Back to top](#top)
 ## AR-01 -- Rep. Eric A. "Rick" Crawford (R) -- [Wikipedia](https://en.wikipedia.org/wiki/AR-01)
-## Committees
-Eric A. "Rick" Crawford is not on any of our key committees. 
-
 ## HEP Grants
 ```
 This district received no SC HEP grants from 2012-2019
@@ -73,7 +66,7 @@ In the past 8 years, this district has received:<b> $34,000 </b>in NSF MPS grant
 ```
   Year  Institution                  Amount ($)
 ------  -------------------------  ------------
-  2012  ARKANSAS STATE UNIVERSITY        34,000
+  2012  Arkansas State University        34,000
 ```
 ## SULI/CCI Interns
 ```
@@ -83,9 +76,6 @@ This district had no SULI/CCI interns from 2014-2016 (only years available)
 <a name="AR-02"></a>
 [Back to top](#top)
 ## AR-02 -- Rep. J. French Hill (R) -- [Wikipedia](https://en.wikipedia.org/wiki/AR-02)
-## Committees
-J. French Hill is not on any of our key committees. 
-
 ## HEP Grants
 ```
 This district received no SC HEP grants from 2012-2019
@@ -99,15 +89,15 @@ In the past 8 years, this district has received:<b> $2,505,406 </b>in NSF MPS gr
 ```
   Year  Institution                                 Amount ($)
 ------  ----------------------------------------  ------------
-  2018  AR CHILDRENS HOSPITAL RESEARCH INSTITUTE       387,106
-  2018  UNIVERSITY OF ARKANSAS SYSTEM                   71,224
-  2017  AR CHILDRENS HOSPITAL RESEARCH INSTITUTE     1,105,412
-  2017  UNIVERSITY OF ARKANSAS SYSTEM                   71,224
-  2016  UNIVERSITY OF ARKANSAS SYSTEM036725083          74,074
-  2016  UNIVERSITY OF CENTRAL ARKANSAS                 223,913
-  2013  UNIVERSITY OF ARKANSAS SYSTEM                   58,397
-  2013  UNIVERSITY OF CENTRAL ARKANSAS                  95,000
-  2012  UNIVERSITY OF ARKANSAS SYSTEM                  419,056
+  2018  Ar Childrens Hospital Research Institute       387,106
+  2018  University Of Arkansas System                   71,224
+  2017  Ar Childrens Hospital Research Institute     1,105,412
+  2017  University Of Arkansas System                   71,224
+  2016  University Of Arkansas System                   74,074
+  2016  University Of Central Arkansas                 223,913
+  2013  University Of Arkansas System                   58,397
+  2013  University Of Central Arkansas                  95,000
+  2012  University Of Arkansas System                  419,056
 ```
 ## SULI/CCI Interns
 From 2014-2016 (only years available), this district had 6 SULI/CCI interns
@@ -139,18 +129,17 @@ This district received no SC contracts from 2012-2019
 ## NSF MPS Grants
 In the past 8 years, this district has received:<b> $9,232,998 </b>in NSF MPS grants.
 ```
-  Year  Institution                               Amount ($)
-------  --------------------------------------  ------------
-  2019  UNIVERSITY OF ARKANSAS SYSTEM                109,665
-  2018  UNIVERSITY OF ARKANSAS SYSTEM              1,109,635
-  2017  UNIVERSITY OF ARKANSAS SYSTEM              3,023,103
-  2016  UNIVERSITY OF ARKANSAS SYSTEM                869,840
-  2016  UNIVERSITY OF ARKANSAS SYSTEM191429745       201,631
-  2015  U OF ARKANSAS                                387,543
-  2015  UNIVERSITY OF ARKANSAS SYSTEM                 14,200
-  2014  UNIVERSITY OF ARKANSAS SYSTEM                793,318
-  2013  UNIVERSITY OF ARKANSAS SYSTEM              1,498,220
-  2012  UNIVERSITY OF ARKANSAS SYSTEM              1,225,843
+  Year  Institution                      Amount ($)
+------  -----------------------------  ------------
+  2019  University Of Arkansas System       109,665
+  2018  University Of Arkansas System     1,109,635
+  2017  University Of Arkansas System     3,023,103
+  2016  University Of Arkansas System     1,071,471
+  2015  University Of Arkansas              387,543
+  2015  University Of Arkansas System        14,200
+  2014  University Of Arkansas System       793,318
+  2013  University Of Arkansas System     1,498,220
+  2012  University Of Arkansas System     1,225,843
 ```
 ## SULI/CCI Interns
 ```
@@ -160,9 +149,6 @@ This district had no SULI/CCI interns from 2014-2016 (only years available)
 <a name="AR-04"></a>
 [Back to top](#top)
 ## AR-04 -- Rep. Bruce Westerman (R) -- [Wikipedia](https://en.wikipedia.org/wiki/AR-04)
-## Committees
-Bruce Westerman is not on any of our key committees. 
-
 ## HEP Grants
 ```
 This district received no SC HEP grants from 2012-2019

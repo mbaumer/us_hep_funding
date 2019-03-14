@@ -15,22 +15,19 @@ Debbie Stabenow is the #5 Democrat on the Senate Energy Subcommittee on Energy
 
 Debbie Stabenow is the #5 Democrat on the Senate Committee on Energy and Natural Resources 
 
+## Committees
 Gary C. Peters is the #7 Democrat on the Senate Committee on Commerce, Science, and Transportation 
 
 ## HEP Grants
 In the past 8 years, this state has received:
 92 HEP grants, totalling <b> $38,233,000</b>
 ```
-Institution                          Amount ($)
----------------------------------  ------------
-University of Michigan               19,141,000
-UNIVERSITY OF MICHIGAN                8,558,000
-Michigan State University             4,840,000
-Wayne State University                2,923,000
-WAYNE STATE UNIVERSITY                  982,000
-MICHIGAN STATE UNIVERSITY               899,000
-MICHIGAN TECH. UNIVERSITY               505,000
-Michigan Technological University       385,000
+Institution                  Amount ($)
+-------------------------  ------------
+University of Michigan       27,699,000
+Michigan State University     5,739,000
+Wayne State University        3,905,000
+Michigan Tech. University       890,000
 ```
 ## SC Contracts
 In the past 8 years, this state has received:
@@ -38,38 +35,35 @@ In the past 8 years, this state has received:
 ```
   Year  Vendor                            Amount ($)  Item
 ------  ------------------------------  ------------  ----------------------------------------------------------------------------------
-  2016  HERMAN MILLER, INC.                   21,274  OFFICE FURNITURE
-  2016  USER FRIENDLY CONSULTING, INC.         6,300  INFORMATION TECHNOLOGY SOFTWARE
-  2012  MOMAR INC.                             3,816  EQUIPMENT AND MATERIALS TESTING- WATER PURIFICATION AND SEWAGE TREATMENT EQUIPMENT
+  2016  Herman Miller, Inc.                   21,274  Office Furniture
+  2016  User Friendly Consulting, Inc.         6,300  Information Technology Software
+  2012  Momar Inc.                             3,816  Equipment And Materials Testing- Water Purification And Sewage Treatment Equipment
 ```
 ## NSF MPS Grants
 In the past 8 years, this state has received:
 1196 NSF MPS grants, totalling <b> $394,963,351</b>
 ```
-Institution                              Amount ($)
--------------------------------------  ------------
-MICHIGAN STATE UNIVERSITY               230,985,672
-REGENTS OF THE UNIVERSITY OF MICHIGAN   119,487,930
-WAYNE STATE UNIVERSITY (INC)             10,093,014
-MICHIGAN TECHNOLOGICAL UNIVERSITY         8,173,898
-WAYNE STATE UNIVERSITY                    6,373,075
-WESTERN MICHIGAN UNIVERSITY               3,675,981
-CENTRAL MICHIGAN UNIVERSITY (INC)         3,043,503
-OAKLAND UNIVERSITY                        2,628,570
-HOPE COLLEGE                              2,614,049
-UNIVERSITY OF MICHIGAN                    2,074,214
-CALVIN COLLEGE                            1,661,739
-KETTERING UNIVERSITY                      1,181,558
-PII REDACTED                                750,000
-GRAND VALLEY STATE UNIVERSITY               696,882
-LAKE SUPERIOR STATE UNIVERSITY              399,500
-ANDREWS UNIVERSITY INC                      292,927
-KALAMAZOO COLLEGE                           265,547
-REDACTED DUE TO PII                         200,000
-ALBION COLLEGE                              193,612
-GRAND VALLEY STATE UNIV                      76,809
-ANDREWS UNIVERSITY                           67,073
-UNIVERSITY OF DETROIT MERCY                  27,798
+Institution                          Amount ($)
+---------------------------------  ------------
+Michigan State University           230,985,672
+Regents Of University Of Michigan   119,487,930
+Wayne State University               16,466,089
+Michigan Technological University     8,173,898
+Western Michigan University           3,675,981
+Central Michigan University           3,043,503
+Oakland University                    2,628,570
+Hope College                          2,614,049
+University Of Michigan                2,074,214
+Calvin College                        1,661,739
+Kettering University                  1,181,558
+Grand Valley State University           773,691
+Pii Redacted                            750,000
+Lake Superior State University          399,500
+Andrews University                      360,000
+Kalamazoo College                       265,547
+Redacted Due To Pii                     200,000
+Albion College                          193,612
+University Of Detroit Mercy              27,798
 ```
 ## SULI/CCI Interns
 <p align="center">
@@ -98,17 +92,14 @@ From 2014-2016 (only years available), this state had 40 SULI/CCI interns
 <a name="MI-01"></a>
 [Back to top](#top)
 ## MI-01 -- Rep. Jack Bergman (R) -- [Wikipedia](https://en.wikipedia.org/wiki/MI-01)
-## Committees
-Jack Bergman is not on any of our key committees. 
-
 ## HEP Grants
 In the past 8 years, this district has received:<b> $890,000 </b>in SC HEP grants.
 ```
-Institution                          Amount ($)    Start    End  Principal Investigator    Project Title
----------------------------------  ------------  -------  -----  ------------------------  -------------------------------------------------------
-Michigan Technological University             0     2014   2015  Nitz, David               STUDIES OF HIGH ENERGY PARTICLE ASTROPHYSICS
-Michigan Technological University       385,000     2014   2016  Nitz, David               Studies of Particle Astrophysics at the Cosmic Frontier
-MICHIGAN TECH. UNIVERSITY               505,000     2012   2014  Nitz                      Studies of High Energy Particle Astrophysics
+Institution                  Amount ($)    Start    End  Principal Investigator    Project Title
+-------------------------  ------------  -------  -----  ------------------------  -------------------------------------------------------
+Michigan Tech. University             0     2014   2015  Nitz, David               STUDIES OF HIGH ENERGY PARTICLE ASTROPHYSICS
+Michigan Tech. University       385,000     2014   2016  Nitz, David               Studies of Particle Astrophysics at the Cosmic Frontier
+Michigan Tech. University       505,000     2012   2014  Nitz                      Studies of High Energy Particle Astrophysics
 ```
 ## SC Contracts
 ```
@@ -119,14 +110,14 @@ In the past 8 years, this district has received:<b> $8,573,398 </b>in NSF MPS gr
 ```
   Year  Institution                          Amount ($)
 ------  ---------------------------------  ------------
-  2018  MICHIGAN TECHNOLOGICAL UNIVERSITY       766,785
-  2017  MICHIGAN TECHNOLOGICAL UNIVERSITY       891,357
-  2016  LAKE SUPERIOR STATE UNIVERSITY          399,500
-  2016  MICHIGAN TECHNOLOGICAL UNIVERSITY       615,665
-  2015  MICHIGAN TECHNOLOGICAL UNIVERSITY       398,463
-  2014  MICHIGAN TECHNOLOGICAL UNIVERSITY     2,172,323
-  2013  MICHIGAN TECHNOLOGICAL UNIVERSITY       767,531
-  2012  MICHIGAN TECHNOLOGICAL UNIVERSITY     2,561,774
+  2018  Michigan Technological University       766,785
+  2017  Michigan Technological University       891,357
+  2016  Lake Superior State University          399,500
+  2016  Michigan Technological University       615,665
+  2015  Michigan Technological University       398,463
+  2014  Michigan Technological University     2,172,323
+  2013  Michigan Technological University       767,531
+  2012  Michigan Technological University     2,561,774
 ```
 ## SULI/CCI Interns
 From 2014-2016 (only years available), this district had 4 SULI/CCI interns
@@ -142,9 +133,6 @@ Summer 2014  Alexander Lurie   Michigan Technological University  Argonne Nation
 <a name="MI-02"></a>
 [Back to top](#top)
 ## MI-02 -- Rep. Bill Huizenga (R) -- [Wikipedia](https://en.wikipedia.org/wiki/MI-02)
-## Committees
-Bill Huizenga is not on any of our key committees. 
-
 ## HEP Grants
 ```
 This district received no SC HEP grants from 2012-2019
@@ -155,24 +143,23 @@ In the past 8 years, this district has received:
 ```
   Year  Vendor                 Amount ($)  Item
 ------  -------------------  ------------  ----------------
-  2016  HERMAN MILLER, INC.        21,274  OFFICE FURNITURE
+  2016  Herman Miller, Inc.        21,274  Office Furniture
 ```
 ## NSF MPS Grants
 In the past 8 years, this district has received:<b> $3,387,740 </b>in NSF MPS grants.
 ```
   Year  Institution                      Amount ($)
 ------  -----------------------------  ------------
-  2018  HOPE COLLEGE                        585,594
-  2017  GRAND VALLEY STATE UNIVERSITY       532,932
-  2017  HOPE COLLEGE                        159,297
-  2016  HOPE COLLEGE                        225,366
-  2015  GRAND VALLEY STATE UNIV              76,809
-  2015  GRAND VALLEY STATE UNIVERSITY        10,590
-  2015  HOPE COLLEGE                        284,338
-  2014  GRAND VALLEY STATE UNIVERSITY        76,722
-  2013  GRAND VALLEY STATE UNIVERSITY        76,638
-  2013  HOPE COLLEGE                        669,106
-  2012  HOPE COLLEGE                        690,348
+  2018  Hope College                        585,594
+  2017  Grand Valley State University       532,932
+  2017  Hope College                        159,297
+  2016  Hope College                        225,366
+  2015  Grand Valley State University        87,399
+  2015  Hope College                        284,338
+  2014  Grand Valley State University        76,722
+  2013  Grand Valley State University        76,638
+  2013  Hope College                        669,106
+  2012  Hope College                        690,348
 ```
 ## SULI/CCI Interns
 From 2014-2016 (only years available), this district had 3 SULI/CCI interns
@@ -187,9 +174,6 @@ Summer 2014  Danielle Rose Harris      Grand Valley State University  Argonne Na
 <a name="MI-03"></a>
 [Back to top](#top)
 ## MI-03 -- Rep. Justin Amash (R) -- [Wikipedia](https://en.wikipedia.org/wiki/MI-03)
-## Committees
-Justin Amash is not on any of our key committees. 
-
 ## HEP Grants
 ```
 This district received no SC HEP grants from 2012-2019
@@ -203,12 +187,12 @@ In the past 8 years, this district has received:<b> $1,855,351 </b>in NSF MPS gr
 ```
   Year  Institution       Amount ($)
 ------  --------------  ------------
-  2017  CALVIN COLLEGE       809,239
-  2016  CALVIN COLLEGE        89,179
-  2015  ALBION COLLEGE       193,612
-  2014  CALVIN COLLEGE        29,473
-  2013  CALVIN COLLEGE       432,128
-  2012  CALVIN COLLEGE       301,720
+  2017  Calvin College       809,239
+  2016  Calvin College        89,179
+  2015  Albion College       193,612
+  2014  Calvin College        29,473
+  2013  Calvin College       432,128
+  2012  Calvin College       301,720
 ```
 ## SULI/CCI Interns
 From 2014-2016 (only years available), this district had 2 SULI/CCI interns
@@ -236,11 +220,11 @@ This district received no SC contracts from 2012-2019
 ## NSF MPS Grants
 In the past 8 years, this district has received:<b> $1,514,396 </b>in NSF MPS grants.
 ```
-  Year  Institution                          Amount ($)
-------  ---------------------------------  ------------
-  2018  CENTRAL MICHIGAN UNIVERSITY (INC)       350,848
-  2017  CENTRAL MICHIGAN UNIVERSITY (INC)       899,855
-  2016  CENTRAL MICHIGAN UNIVERSITY (INC)       263,693
+  Year  Institution                    Amount ($)
+------  ---------------------------  ------------
+  2018  Central Michigan University       350,848
+  2017  Central Michigan University       899,855
+  2016  Central Michigan University       263,693
 ```
 ## SULI/CCI Interns
 From 2014-2016 (only years available), this district had 2 SULI/CCI interns
@@ -254,9 +238,6 @@ Summer 2014  Daniel Patrick Weller  Saginaw Valley State University  Ames Nation
 <a name="MI-05"></a>
 [Back to top](#top)
 ## MI-05 -- Rep. Daniel T. Kildee (D) -- [Wikipedia](https://en.wikipedia.org/wiki/MI-05)
-## Committees
-Daniel T. Kildee is not on any of our key committees. 
-
 ## HEP Grants
 ```
 This district received no SC HEP grants from 2012-2019
@@ -270,9 +251,9 @@ In the past 8 years, this district has received:<b> $1,181,558 </b>in NSF MPS gr
 ```
   Year  Institution             Amount ($)
 ------  --------------------  ------------
-  2015  KETTERING UNIVERSITY       543,600
-  2014  KETTERING UNIVERSITY       560,150
-  2013  KETTERING UNIVERSITY        77,808
+  2015  Kettering University       543,600
+  2014  Kettering University       560,150
+  2013  Kettering University        77,808
 ```
 ## SULI/CCI Interns
 From 2014-2016 (only years available), this district had 1 SULI/CCI intern
@@ -298,23 +279,23 @@ In the past 8 years, this district has received:
 ```
   Year  Vendor                            Amount ($)  Item
 ------  ------------------------------  ------------  -------------------------------
-  2016  USER FRIENDLY CONSULTING, INC.         6,300  INFORMATION TECHNOLOGY SOFTWARE
+  2016  User Friendly Consulting, Inc.         6,300  Information Technology Software
 ```
 ## NSF MPS Grants
 In the past 8 years, this district has received:<b> $4,301,528 </b>in NSF MPS grants.
 ```
   Year  Institution                    Amount ($)
 ------  ---------------------------  ------------
-  2018  ANDREWS UNIVERSITY                 67,073
-  2018  WESTERN MICHIGAN UNIVERSITY     1,228,020
-  2017  WESTERN MICHIGAN UNIVERSITY       375,079
-  2015  WESTERN MICHIGAN UNIVERSITY       308,602
-  2014  ANDREWS UNIVERSITY INC            292,927
-  2014  KALAMAZOO COLLEGE                 220,547
-  2014  WESTERN MICHIGAN UNIVERSITY       791,174
-  2013  WESTERN MICHIGAN UNIVERSITY       748,106
-  2012  KALAMAZOO COLLEGE                  45,000
-  2012  WESTERN MICHIGAN UNIVERSITY       225,000
+  2018  Andrews University                 67,073
+  2018  Western Michigan University     1,228,020
+  2017  Western Michigan University       375,079
+  2015  Western Michigan University       308,602
+  2014  Andrews University                292,927
+  2014  Kalamazoo College                 220,547
+  2014  Western Michigan University       791,174
+  2013  Western Michigan University       748,106
+  2012  Kalamazoo College                  45,000
+  2012  Western Michigan University       225,000
 ```
 ## SULI/CCI Interns
 From 2014-2016 (only years available), this district had 1 SULI/CCI intern
@@ -350,9 +331,6 @@ This district had no SULI/CCI interns from 2014-2016 (only years available)
 <a name="MI-08"></a>
 [Back to top](#top)
 ## MI-08 -- Rep. Elissa Slotkin (D) -- [Wikipedia](https://en.wikipedia.org/wiki/MI-08)
-## Committees
-Elissa Slotkin is not on any of our key committees. 
-
 ## HEP Grants
 In the past 8 years, this district has received:<b> $5,739,000 </b>in SC HEP grants.
 ```
@@ -367,9 +345,9 @@ Michigan State University     1,490,000     2017  Ongoing  Ostroumov, Peter     
 Michigan State University       325,000     2016  Ongoing  Mahn, Kendall             A program to address neutrino-nucleus uncertainties for long-baseline experiments
 Michigan State University       800,000     2014  2018     Berz, Martin              Advanced Transfer Map Methods for the Description of ParticleBeam Dynamics
 Michigan State University     1,500,000     2014  Ongoing  Bieler, Thomas            The Effect of Process History on Grain Boundaries and Dislocation Substructures on Functional Properties of Nb for SRF Cavities: Plastic Formability and Microstructural Evolution
-MICHIGAN STATE UNIVERSITY             0     2013  2014     Bieler                    RECOVERY ACT: SRF-Foundations for Quantitative Microstructural Models to Track Evolution of the Metallurgical State During High Purity Nb Cavity Fabrication
-MICHIGAN STATE UNIVERSITY       200,000     2013  2014     Bieler                    The Cost of Grain Boundaries on the Performance of Superconducting Cavities
-MICHIGAN STATE UNIVERSITY       699,000     2012  2014     Berz                      Advanced Map Methods for the Description of Particle Beam Dynamics
+Michigan State University             0     2013  2014     Bieler                    RECOVERY ACT: SRF-Foundations for Quantitative Microstructural Models to Track Evolution of the Metallurgical State During High Purity Nb Cavity Fabrication
+Michigan State University       200,000     2013  2014     Bieler                    The Cost of Grain Boundaries on the Performance of Superconducting Cavities
+Michigan State University       699,000     2012  2014     Berz                      Advanced Map Methods for the Description of Particle Beam Dynamics
 ```
 ## SC Contracts
 In the past 8 years, this district has received:
@@ -377,25 +355,25 @@ In the past 8 years, this district has received:
 ```
   Year  Vendor        Amount ($)  Item
 ------  ----------  ------------  ----------------------------------------------------------------------------------
-  2012  MOMAR INC.         3,816  EQUIPMENT AND MATERIALS TESTING- WATER PURIFICATION AND SEWAGE TREATMENT EQUIPMENT
+  2012  Momar Inc.         3,816  Equipment And Materials Testing- Water Purification And Sewage Treatment Equipment
 ```
 ## NSF MPS Grants
 In the past 8 years, this district has received:<b> $232,017,007 </b>in NSF MPS grants.
 ```
   Year  Institution                  Amount ($)
 ------  -------------------------  ------------
-  2019  MICHIGAN STATE UNIVERSITY     6,295,506
-  2018  MICHIGAN STATE UNIVERSITY    33,813,603
-  2018  OAKLAND UNIVERSITY              606,192
-  2018  REDACTED DUE TO PII             200,000
-  2017  MICHIGAN STATE UNIVERSITY    33,669,639
-  2017  OAKLAND UNIVERSITY              180,144
-  2016  MICHIGAN STATE UNIVERSITY    33,732,361
-  2015  MICHIGAN STATE UNIVERSITY    32,288,621
-  2014  MICHIGAN STATE UNIVERSITY    33,079,039
-  2013  MICHIGAN STATE UNIVERSITY    28,667,148
-  2013  OAKLAND UNIVERSITY               44,999
-  2012  MICHIGAN STATE UNIVERSITY    29,439,755
+  2019  Michigan State University     6,295,506
+  2018  Michigan State University    33,813,603
+  2018  Oakland University              606,192
+  2018  Redacted Due To Pii             200,000
+  2017  Michigan State University    33,669,639
+  2017  Oakland University              180,144
+  2016  Michigan State University    33,732,361
+  2015  Michigan State University    32,288,621
+  2014  Michigan State University    33,079,039
+  2013  Michigan State University    28,667,148
+  2013  Oakland University               44,999
+  2012  Michigan State University    29,439,755
 ```
 ## SULI/CCI Interns
 From 2014-2016 (only years available), this district had 11 SULI/CCI interns
@@ -434,7 +412,7 @@ In the past 8 years, this district has received:<b> $799,261 </b>in NSF MPS gran
 ```
   Year  Institution           Amount ($)
 ------  ------------------  ------------
-  2012  OAKLAND UNIVERSITY       799,261
+  2012  Oakland University       799,261
 ```
 ## SULI/CCI Interns
 ```
@@ -444,9 +422,6 @@ This district had no SULI/CCI interns from 2014-2016 (only years available)
 <a name="MI-10"></a>
 [Back to top](#top)
 ## MI-10 -- Rep. Paul Mitchell (R) -- [Wikipedia](https://en.wikipedia.org/wiki/MI-10)
-## Committees
-Paul Mitchell is not on any of our key committees. 
-
 ## HEP Grants
 ```
 This district received no SC HEP grants from 2012-2019
@@ -458,11 +433,11 @@ This district received no SC contracts from 2012-2019
 ## NSF MPS Grants
 In the past 8 years, this district has received:<b> $1,529,107 </b>in NSF MPS grants.
 ```
-  Year  Institution                          Amount ($)
-------  ---------------------------------  ------------
-  2014  CENTRAL MICHIGAN UNIVERSITY (INC)       674,021
-  2013  CENTRAL MICHIGAN UNIVERSITY (INC)       298,471
-  2012  CENTRAL MICHIGAN UNIVERSITY (INC)       556,615
+  Year  Institution                    Amount ($)
+------  ---------------------------  ------------
+  2014  Central Michigan University       674,021
+  2013  Central Michigan University       298,471
+  2012  Central Michigan University       556,615
 ```
 ## SULI/CCI Interns
 ```
@@ -492,9 +467,9 @@ In the past 8 years, this district has received:<b> $997,974 </b>in NSF MPS gran
 ```
   Year  Institution           Amount ($)
 ------  ------------------  ------------
-  2015  OAKLAND UNIVERSITY       640,294
-  2014  OAKLAND UNIVERSITY       123,686
-  2013  OAKLAND UNIVERSITY       233,994
+  2015  Oakland University       640,294
+  2014  Oakland University       123,686
+  2013  Oakland University       233,994
 ```
 ## SULI/CCI Interns
 ```
@@ -541,18 +516,18 @@ This district received no SC contracts from 2012-2019
 ## NSF MPS Grants
 In the past 8 years, this district has received:<b> $101,552,314 </b>in NSF MPS grants.
 ```
-  Year  Institution                              Amount ($)
-------  -------------------------------------  ------------
-  2019  REGENTS OF THE UNIVERSITY OF MICHIGAN       259,276
-  2018  PII REDACTED                                300,000
-  2018  REGENTS OF THE UNIVERSITY OF MICHIGAN    17,702,638
-  2017  PII REDACTED                                300,000
-  2017  REGENTS OF THE UNIVERSITY OF MICHIGAN    17,552,272
-  2016  REGENTS OF THE UNIVERSITY OF MICHIGAN    16,048,328
-  2015  REGENTS OF THE UNIVERSITY OF MICHIGAN    13,183,512
-  2015  UNIVERSITY OF MICHIGAN                    2,074,214
-  2014  REGENTS OF THE UNIVERSITY OF MICHIGAN    13,104,431
-  2013  REGENTS OF THE UNIVERSITY OF MICHIGAN    21,027,643
+  Year  Institution                          Amount ($)
+------  ---------------------------------  ------------
+  2019  Regents Of University Of Michigan       259,276
+  2018  Pii Redacted                            300,000
+  2018  Regents Of University Of Michigan    17,702,638
+  2017  Pii Redacted                            300,000
+  2017  Regents Of University Of Michigan    17,552,272
+  2016  Regents Of University Of Michigan    16,048,328
+  2015  Regents Of University Of Michigan    13,183,512
+  2015  University Of Michigan                2,074,214
+  2014  Regents Of University Of Michigan    13,104,431
+  2013  Regents Of University Of Michigan    21,027,643
 ```
 ## SULI/CCI Interns
 From 2014-2016 (only years available), this district had 16 SULI/CCI interns
@@ -580,9 +555,6 @@ Fall 2015    Bardia Nadim             University of Michigan-Ann Arbor  Argonne 
 <a name="MI-13"></a>
 [Back to top](#top)
 ## MI-13 -- Rep. Rashida Tlaib (D) -- [Wikipedia](https://en.wikipedia.org/wiki/MI-13)
-## Committees
-Rashida Tlaib is not on any of our key committees. 
-
 ## HEP Grants
 In the past 8 years, this district has received:<b> $3,905,000 </b>in SC HEP grants.
 ```
@@ -591,8 +563,8 @@ Institution               Amount ($)    Start  End      Principal Investigator  
 Wayne State University       220,000     2014  2016     Cinabro, David            Belle Physics at Wayne State
 Wayne State University     2,674,000     2014  Ongoing  Karchin, Paul             Particle Physics Research Program
 Wayne State University        29,000     2014  2015     Paz, Gil                  Theoretical Particle Physics Research Program
-WAYNE STATE UNIVERSITY        30,000     2013  2014     Paz                       Theoretical Particle Physics Research Program
-WAYNE STATE UNIVERSITY       952,000     2012  2014     Karchin                   Particle Physics Research Program
+Wayne State University        30,000     2013  2014     Paz                       Theoretical Particle Physics Research Program
+Wayne State University       952,000     2012  2014     Karchin                   Particle Physics Research Program
 ```
 ## SC Contracts
 ```
@@ -601,19 +573,18 @@ This district received no SC contracts from 2012-2019
 ## NSF MPS Grants
 In the past 8 years, this district has received:<b> $16,638,087 </b>in NSF MPS grants.
 ```
-  Year  Institution                     Amount ($)
-------  ----------------------------  ------------
-  2019  WAYNE STATE UNIVERSITY             100,000
-  2018  PII REDACTED                       150,000
-  2018  UNIVERSITY OF DETROIT MERCY         21,998
-  2018  WAYNE STATE UNIVERSITY             872,277
-  2017  WAYNE STATE UNIVERSITY           2,562,512
-  2016  WAYNE STATE UNIVERSITY           1,139,070
-  2016  WAYNE STATE UNIVERSITY (INC)       641,830
-  2015  WAYNE STATE UNIVERSITY           1,699,216
-  2014  WAYNE STATE UNIVERSITY (INC)     3,977,166
-  2013  WAYNE STATE UNIVERSITY (INC)     1,999,173
-  2012  WAYNE STATE UNIVERSITY (INC)     3,474,845
+  Year  Institution                    Amount ($)
+------  ---------------------------  ------------
+  2019  Wayne State University            100,000
+  2018  Pii Redacted                      150,000
+  2018  University Of Detroit Mercy        21,998
+  2018  Wayne State University            872,277
+  2017  Wayne State University          2,562,512
+  2016  Wayne State University          1,780,900
+  2015  Wayne State University          1,699,216
+  2014  Wayne State University          3,977,166
+  2013  Wayne State University          1,999,173
+  2012  Wayne State University          3,474,845
 ```
 ## SULI/CCI Interns
 ```
@@ -641,7 +612,7 @@ In the past 8 years, this district has received:<b> $5,800 </b>in NSF MPS grants
 ```
   Year  Institution                    Amount ($)
 ------  ---------------------------  ------------
-  2013  UNIVERSITY OF DETROIT MERCY         5,800
+  2013  University Of Detroit Mercy         5,800
 ```
 ## SULI/CCI Interns
 ```

@@ -15,6 +15,7 @@ Richard J. Durbin is the #4 Democrat on the Senate Committee on Appropriations
 
 Richard J. Durbin is the #4 Democrat on the Senate Appropriations Subcommittee on Energy and Water Development 
 
+## Committees
 Tammy Duckworth is the #9 Democrat on the Senate Committee on Commerce, Science, and Transportation 
 
 ## HEP Grants
@@ -23,47 +24,40 @@ In the past 8 years, this state has received:
 ```
 Institution                                  Amount ($)
 -----------------------------------------  ------------
-University of Chicago                         6,400,904
-Northwestern University                       5,957,000
-University of Illinois - Urbana-Champaign     5,038,000
-U. OF ILLINOIS AT URBANA-CHAMPAIGN            4,325,000
-Illinois Institute of Technology              3,124,000
-UNIVERSITY OF CHICAGO                         2,468,000
-NORTHWESTERN UNIVERSITY                       2,436,000
-University of Illinois - Urbana-Champain      2,016,000
-Northern Illinois University                  1,867,000
+University of Illinois - Urbana-Champaign    11,379,000
+University of Chicago                         8,868,904
+Northwestern University                       8,393,000
+Illinois Institute of Technology              4,172,000
+Northern Illinois University                  2,157,000
 University of Illinois - Champiagn            1,387,000
-ILLINOIS INST. OF TECHNOLOGY                  1,048,000
-NORTHERN ILLINOIS UNIVERSITY                    290,000
-University of Illinois - Chicago                238,000
-UNIVERSITY OF ILLINOIS AT CHICAGO               201,000
+University of Illinois - Chicago                439,000
 ```
 ## SC Contracts
 In the past 8 years, this state has received:
 200 Office of Science contracts, totalling <b> $9,237,691,772</b>
 ```
-Vendor                                                Amount ($)  Item
--------------------------------------------------  -------------  ---------------------------------------------------------------------------------
-UCHICAGO ARGONNE, LLC                              5,875,805,693  OPER OF GOVT R&D GOCO FACILITIES
-FERMI RESEARCH ALLIANCE LIMITED LIABILITY COMPANY  3,306,490,680  OPER OF GOVT R&D GOCO FACILITIES
-22ND CENTURY TECHNOLOGIES INC.                        33,939,099  IT AND TELECOM- FACILITY OPERATION AND MAINTENANCE
-CNI TECHNICAL SERVICES, LLC                            8,379,339  IT AND TELECOM- FACILITY OPERATION AND MAINTENANCE
-KAIROS CONSULTING WORLDWIDE, LLC                       5,627,954  SPECIAL STUDIES/ANALYSIS- ORGANIZATION/ADMINISTRATIVE/PERSONNEL
-SPECTRA TECH, INC.                                     3,270,696  SUPPORT- PROFESSIONAL: PROGRAM MANAGEMENT/SUPPORT
-KAIROS CONSULTING WORLDWIDE, LLC                       1,125,180  SUPPORT- MANAGEMENT: CONTRACT/PROCUREMENT/ACQUISITION SUPPORT
-THERMO ELECTRON NORTH AMERICA LLC                        294,276  MAINT/REPAIR/REBUILD OF EQUIPMENT- ELECTRICAL AND ELECTRONIC EQUIPMENT COMPONENTS
-JEWISH VOCATIONAL SERVICES & EMPLOYMENT CENTER           242,318  SUPPORT- ADMINISTRATIVE: MAILING/DISTRIBUTION
-AFFIGENT, LLC                                            137,530  ADP SUPPLIES
-AFFIGENT, LLC                                            137,530  ADP SOFTWARE
-GRADUATE SCHOOL                                          135,226  EDUCATION/TRAINING- GENERAL
-SPECTROMAT MASSENSPEKTROMETER GMBH                        95,550  HAZARD-DETECTING INSTRUMENTS AND APPARATUS
-MANAGEMENT CONCEPTS, INC.                                 91,854  SUPPORT- PROFESSIONAL: PERSONAL CARE (NON-MEDICAL)
-H A KING AND ASSOCIATES INCORPORATED (0334)               79,775  SUPPORT- MANAGEMENT: DATA COLLECTION
-CANBERRA INDUSTRIES, INC.                                 62,300  LABORATORY EQUIPMENT AND SUPPLIES
-ERGOGENESIS, LLC                                          60,500  OFFICE FURNITURE
-SPEX CERTIPREP, INC.                                      58,739  ELECTRICAL AND ELECTRONIC PROPERTIES MEASURING AND TESTING INSTRUMENTS
-SKYLINE ADVANCED TECHNOLOGY SERVICES                      57,722  ADP SOFTWARE
-JEWISH VOCATIONAL SERVICE & EMPLOYMENT CENTER             56,511  SUPPORT- ADMINISTRATIVE: MAILING/DISTRIBUTION
+Vendor                                             Amount ($)  Item
+----------------------------------------------  -------------  ---------------------------------------------------------------------------------
+Uchicago Argonne, LLC                           5,875,805,693  Operation Of Govt R&D GOCO Facilities
+Fermi Research Alliance, LLC                    3,306,490,680  Operation Of Govt R&D GOCO Facilities
+22Nd Century Technologies Inc.                     33,939,099  IT And Telecom- Facility Operation And Maintenance
+Cni Technical Services, LLC                         8,379,339  IT And Telecom- Facility Operation And Maintenance
+Kairos Consulting Worldwide, LLC                    5,627,954  Special Studies/Analysis- Organization/Administrative/Personnel
+Spectra Tech, Inc.                                  3,270,696  Support- Professional: Program Management/Support
+Kairos Consulting Worldwide, LLC                    1,125,180  Support- Management: Contract/Procurement/Acquisition Support
+Thermo Electron North America LLC                     294,276  Maint/Repair/Rebuild Of Equipment- Electrical And Electronic Equipment Components
+Jewish Vocational Services & Employment Center        242,318  Support- Administrative: Mailing/Distribution
+Affigent, LLC                                         137,530  ADP Supplies
+Affigent, LLC                                         137,530  ADP Software
+Graduate School                                       135,226  Education/Training- General
+Spectromat Massenspektrometer Gmbh                     95,550  Hazard-Detecting Instruments And Apparatus
+Management Concepts, Inc.                              91,854  Support- Professional: Personal Care (Non-Medical)
+H A King And Associates Inc. (0334)                    79,775  Support- Management: Data Collection
+Canberra Industries, Inc.                              62,300  Laboratory Equipment And Supplies
+Ergogenesis, LLC                                       60,500  Office Furniture
+Spex Certiprep, Inc.                                   58,739  Electrical And Electronic Properties Measuring And Testing Instruments
+Skyline Advanced Technology Services                   57,722  ADP Software
+Jewish Vocational Service & Employment Center          56,511  Support- Administrative: Mailing/Distribution
 and  76  other firms.
 ```
 ## NSF MPS Grants
@@ -72,41 +66,37 @@ In the past 8 years, this state has received:
 ```
 Institution                                  Amount ($)
 -----------------------------------------  ------------
-UNIVERSITY OF ILLINOIS                      166,242,769
-UNIVERSITY OF CHICAGO, THE                  133,328,383
-NORTHWESTERN UNIVERSITY                      91,524,345
-UNIVERSITY OF CHICAGO                        10,035,941
-ILLINOIS INSTITUTE OF TECHNOLOGY              6,318,722
-SOUTHERN ILLINOIS UNIVERSITY                  4,271,086
-NORTHERN ILLINOIS UNIVERSITY INC              3,737,223
-ILLINOIS STATE UNIVERSITY                     3,458,354
-LOYOLA UNIVERSITY OF CHICAGO                  2,051,628
-MULTIPLE RECIPIENTS                           1,800,000
-PII REDACTED                                  1,700,000
-U OF ILL URBANA-CHAMPAIGN                     1,697,996
-EASTERN ILLINOIS UNIVERSITY                   1,428,787
-NORTHERN ILLINOIS UNIVERSITY                  1,332,558
-CHICAGO STATE UNIVERSITY                        969,642
-ILLINOIS WESLEYAN UNIVERSITY                    934,694
-U OF ILLINOIS CHICAGO                           679,791
-WESTERN ILLINOIS UNIVERSITY INC                 603,472
-NORTHEASTERN ILLINOIS UNIVERSITY                427,643
-SOUTHERN ILLINOIS UNIVERSITY006331342           399,969
-TRUSTEES OF WHEATON COLLEGE, THE                383,355
-ADLER PLANETARIUM, THE                          314,785
-KNOX COLLEGE                                    292,100
-AUGUSTANA COLLEGE                               278,541
-BRADLEY UNIVERSITY                              240,521
-ROOSEVELT UNIVERSITY                            170,000
-NORTHWESTERN U CHICAGO                          140,000
-SOUTHERN ILL U CARBONDALE                       110,000
-TOYOTA TECHNOLOGICAL INSTITUTE AT CHICAGO       109,920
-LOYOLA UNIV OF CHICAGO                          104,917
-ILLINOIS INST OF TECH                            67,949
-ART INSTITUTE OF CHICAGO, THE                    42,268
-DEPAUL UNIVERSITY                                30,000
-FERMI RESEARCH ALLIANCE, LLC                     28,740
-DE PAUL UNIVERSITY                               20,567
+University Of Illinois                      166,242,769
+University Of Chicago                       143,364,324
+Northwestern University                      91,524,345
+Illinois Institute Of Technology              6,386,671
+Northern Illinois University                  5,069,781
+Southern Illinois University                  4,671,055
+Illinois State University                     3,458,354
+Loyola University Of Chicago                  2,051,628
+Multiple Recipients                           1,800,000
+Pii Redacted                                  1,700,000
+University Of Ill Urbana-Champaign            1,697,996
+Eastern Illinois University                   1,428,787
+Chicago State University                        969,642
+Illinois Wesleyan University                    934,694
+University Of Illinois Chicago                  679,791
+Western Illinois University                     603,472
+Northeastern Illinois University                427,643
+Wheaton College                                 383,355
+Adler Planetarium                               314,785
+Knox College                                    292,100
+Augustana College                               278,541
+Bradley University                              240,521
+Roosevelt University                            170,000
+Northwestern U Chicago                          140,000
+Southern Ill U Carbondale                       110,000
+Toyota Technological Institute At Chicago       109,920
+Loyola Univ Of Chicago                          104,917
+Art Institute Of Chicago                         42,268
+Depaul University                                30,000
+Fermi Research Alliance Llc                      28,740
+De Paul University                               20,567
 ```
 ## SULI/CCI Interns
 <p align="center">
@@ -176,21 +166,21 @@ University of Chicago                   40,000     2017  2018     Wah, Yau      
 Illinois Institute of Technology       300,000     2016  Ongoing  Spentzouris, Linda        Multidisciplinary development of accelerating structures and photocathodes
 University of Chicago                   44,000     2016  2017     Kim, Young-Kee            Support for the 38th International Conference on High Energy Physics
 University of Chicago                  150,000     2015  2016     Wang, Lian-Tao            Exploring New Physics Beyond The Standard Model
-University of Chicago                1,096,000     2014  2018     Wah, Yau                  Rare Kaon Decays at the Japan Physics and Accelerator Research Complex (JPARC)
-Illinois Institute of Technology       450,000     2014  2018     Snopok, Pavel             Advanced Simulation Tools for Muon-Based Accelerators
 Illinois Institute of Technology        98,000     2014  2016     Spentzouris, Linda        Graduate Student Program in Materials and Engineering Research and Development for Future Accelerators
 Illinois Institute of Technology     1,951,000     2014  Ongoing  White, Christopher        High Energy Physics at Illinois Tech
 University of Chicago                3,013,904     2014  2018     Martinec, Emil            Theoretical High Energy Physics Research at the University of Chicago
+University of Chicago                1,096,000     2014  2018     Wah, Yau                  Rare Kaon Decays at the Japan Physics and Accelerator Research Complex (JPARC)
+Illinois Institute of Technology       450,000     2014  2018     Snopok, Pavel             Advanced Simulation Tools for Muon-Based Accelerators
 University of Chicago                1,072,000     2014  2018     Frisch, Henry             The Further Development, Testing, and First Applications of Large-Area Psec Photo-Detectors
-UNIVERSITY OF CHICAGO                  245,000     2013  2014     Wah                       Rare Kaon Decays at J-PARC
-UNIVERSITY OF CHICAGO                  760,000     2013  2014     Martinec                  Theoretical High Energy Physics Research at the University of Chicago
-ILLINOIS INST. OF TECHNOLOGY           -34,000     2013  2014     White                     Participation in High Energy Physics
-UNIVERSITY OF CHICAGO                  335,000     2012  2014     Wah                       Rare Kaon Decays, KEK Experiment E391 and E14 at the Japan Physics and Accelerator Research Complex (J-PARC)
-UNIVERSITY OF CHICAGO                  821,000     2012  2013     Martinec                  Participation in High Energy Physics
-ILLINOIS INST. OF TECHNOLOGY           191,000     2012  2014     Spentzouris               Graduate Student Program in Materials and Engineering Research and Development for Future Accelerators
-UNIVERSITY OF CHICAGO                  307,000     2012  2014     Frisch                    The Development and First Applications of Large-Area 3D Resolving Photodetectors
-ILLINOIS INST. OF TECHNOLOGY           591,000     2012  2014     White                     Experimental and Theoretical Particle Physics at Illinois Institute of Technology
-ILLINOIS INST. OF TECHNOLOGY           300,000     2012  2014     Snopok                    Advanced Simulation Tools for Muon-Based Accelerators
+Illinois Institute of Technology       -34,000     2013  2014     White                     Participation in High Energy Physics
+University of Chicago                  760,000     2013  2014     Martinec                  Theoretical High Energy Physics Research at the University of Chicago
+University of Chicago                  245,000     2013  2014     Wah                       Rare Kaon Decays at J-PARC
+Illinois Institute of Technology       591,000     2012  2014     White                     Experimental and Theoretical Particle Physics at Illinois Institute of Technology
+University of Chicago                  307,000     2012  2014     Frisch                    The Development and First Applications of Large-Area 3D Resolving Photodetectors
+Illinois Institute of Technology       300,000     2012  2014     Snopok                    Advanced Simulation Tools for Muon-Based Accelerators
+Illinois Institute of Technology       191,000     2012  2014     Spentzouris               Graduate Student Program in Materials and Engineering Research and Development for Future Accelerators
+University of Chicago                  821,000     2012  2013     Martinec                  Participation in High Energy Physics
+University of Chicago                  335,000     2012  2014     Wah                       Rare Kaon Decays, KEK Experiment E391 and E14 at the Japan Physics and Accelerator Research Complex (J-PARC)
 ```
 ## SC Contracts
 ```
@@ -201,29 +191,27 @@ In the past 8 years, this district has received:<b> $152,347,421 </b>in NSF MPS 
 ```
   Year  Institution                                  Amount ($)
 ------  -----------------------------------------  ------------
-  2019  UNIVERSITY OF CHICAGO, THE                      292,265
-  2018  UNIVERSITY OF CHICAGO, THE                   23,194,177
-  2018  ILLINOIS INSTITUTE OF TECHNOLOGY              1,232,705
-  2017  UNIVERSITY OF CHICAGO, THE                   24,257,467
-  2017  PII REDACTED                                    550,000
-  2017  ILLINOIS INSTITUTE OF TECHNOLOGY              1,328,016
-  2016  UNIVERSITY OF CHICAGO, THE                   19,368,179
-  2016  ILLINOIS INSTITUTE OF TECHNOLOGY                561,651
-  2016  CHICAGO STATE UNIVERSITY                        268,108
-  2015  UNIVERSITY OF CHICAGO                        10,035,941
-  2015  UNIVERSITY OF CHICAGO, THE                    8,088,047
-  2015  TOYOTA TECHNOLOGICAL INSTITUTE AT CHICAGO       109,920
-  2015  ILLINOIS INSTITUTE OF TECHNOLOGY                736,072
-  2015  ILLINOIS INST OF TECH                            67,949
-  2014  UNIVERSITY OF CHICAGO, THE                   14,440,727
-  2014  ILLINOIS INSTITUTE OF TECHNOLOGY                115,340
-  2014  CHICAGO STATE UNIVERSITY                         95,000
-  2013  UNIVERSITY OF CHICAGO, THE                   20,815,609
-  2013  MULTIPLE RECIPIENTS                           1,350,000
-  2013  ILLINOIS INSTITUTE OF TECHNOLOGY              1,036,256
-  2013  CHICAGO STATE UNIVERSITY                        223,398
-  2012  UNIVERSITY OF CHICAGO, THE                   22,871,912
-  2012  ILLINOIS INSTITUTE OF TECHNOLOGY              1,308,682
+  2019  University Of Chicago                           292,265
+  2018  University Of Chicago                        23,194,177
+  2018  Illinois Institute Of Technology              1,232,705
+  2017  University Of Chicago                        24,257,467
+  2017  Pii Redacted                                    550,000
+  2017  Illinois Institute Of Technology              1,328,016
+  2016  University Of Chicago                        19,368,179
+  2016  Illinois Institute Of Technology                561,651
+  2016  Chicago State University                        268,108
+  2015  University Of Chicago                        18,123,988
+  2015  Toyota Technological Institute At Chicago       109,920
+  2015  Illinois Institute Of Technology                804,021
+  2014  University Of Chicago                        14,440,727
+  2014  Illinois Institute Of Technology                115,340
+  2014  Chicago State University                         95,000
+  2013  University Of Chicago                        20,815,609
+  2013  Multiple Recipients                           1,350,000
+  2013  Illinois Institute Of Technology              1,036,256
+  2013  Chicago State University                        223,398
+  2012  University Of Chicago                        22,871,912
+  2012  Illinois Institute Of Technology              1,308,682
 ```
 ## SULI/CCI Interns
 From 2014-2016 (only years available), this district had 17 SULI/CCI interns
@@ -268,9 +256,9 @@ In the past 8 years, this district has received:<b> $383,136 </b>in NSF MPS gran
 ```
   Year  Institution                 Amount ($)
 ------  ------------------------  ------------
-  2018  CHICAGO STATE UNIVERSITY       116,000
-  2017  CHICAGO STATE UNIVERSITY       200,000
-  2012  CHICAGO STATE UNIVERSITY        67,136
+  2018  Chicago State University       116,000
+  2017  Chicago State University       200,000
+  2012  Chicago State University        67,136
 ```
 ## SULI/CCI Interns
 From 2014-2016 (only years available), this district had 3 SULI/CCI interns
@@ -302,26 +290,26 @@ In the past 8 years, this district has received:
 ```
 Vendor                                             Amount ($)  Item
 ----------------------------------------------  -------------  ---------------------------------------------------------------------------------
-UCHICAGO ARGONNE, LLC                           4,858,613,336  OPER OF GOVT R&D GOCO FACILITIES
-22ND CENTURY TECHNOLOGIES INC.                     33,939,099  IT AND TELECOM- FACILITY OPERATION AND MAINTENANCE
-CNI TECHNICAL SERVICES, LLC                         4,699,202  IT AND TELECOM- FACILITY OPERATION AND MAINTENANCE
-KAIROS CONSULTING WORLDWIDE, LLC                    4,639,743  SPECIAL STUDIES/ANALYSIS- ORGANIZATION/ADMINISTRATIVE/PERSONNEL
-SPECTRA TECH, INC.                                  1,894,775  SUPPORT- PROFESSIONAL: PROGRAM MANAGEMENT/SUPPORT
-KAIROS CONSULTING WORLDWIDE, LLC                      647,389  SUPPORT- MANAGEMENT: CONTRACT/PROCUREMENT/ACQUISITION SUPPORT
-THERMO ELECTRON NORTH AMERICA LLC                     178,144  MAINT/REPAIR/REBUILD OF EQUIPMENT- ELECTRICAL AND ELECTRONIC EQUIPMENT COMPONENTS
-AFFIGENT, LLC                                         137,530  ADP SOFTWARE
-JEWISH VOCATIONAL SERVICES & EMPLOYMENT CENTER        120,160  SUPPORT- ADMINISTRATIVE: MAILING/DISTRIBUTION
-H A KING AND ASSOCIATES INCORPORATED (0334)            79,775  SUPPORT- MANAGEMENT: DATA COLLECTION
-MANAGEMENT CONCEPTS, INC.                              75,705  SUPPORT- PROFESSIONAL: PERSONAL CARE (NON-MEDICAL)
-CANBERRA INDUSTRIES, INC.                              62,300  LABORATORY EQUIPMENT AND SUPPLIES
-SPEX CERTIPREP, INC.                                   58,739  ELECTRICAL AND ELECTRONIC PROPERTIES MEASURING AND TESTING INSTRUMENTS
-JEWISH VOCATIONAL SERVICE & EMPLOYMENT CENTER          56,511  SUPPORT- ADMINISTRATIVE: MAILING/DISTRIBUTION
-TRI INDUSTRIES NFP                                     55,567  OFFICE SUPPLIES
-THERMO ELECTRON NORTH AMERICA LLC                      48,460  LABORATORY EQUIPMENT AND SUPPLIES
-RECALL TOTAL INFORMATION MANAGEMENT                    48,000  R&D- DEFENSE OTHER: SERVICES (MANAGEMENT/SUPPORT)
-PROQUIS INC.                                           47,635  ADP SUPPORT EQUIPMENT
-SPECTROMAT MASSENSPEKTROMETER GMBH                     46,450  HAZARD-DETECTING INSTRUMENTS AND APPARATUS
-GRADUATE SCHOOL                                        45,805  EDUCATION/TRAINING- OTHER
+Uchicago Argonne, LLC                           4,858,613,336  Operation Of Govt R&D GOCO Facilities
+22Nd Century Technologies Inc.                     33,939,099  IT And Telecom- Facility Operation And Maintenance
+Cni Technical Services, LLC                         4,699,202  IT And Telecom- Facility Operation And Maintenance
+Kairos Consulting Worldwide, LLC                    4,639,743  Special Studies/Analysis- Organization/Administrative/Personnel
+Spectra Tech, Inc.                                  1,894,775  Support- Professional: Program Management/Support
+Kairos Consulting Worldwide, LLC                      647,389  Support- Management: Contract/Procurement/Acquisition Support
+Thermo Electron North America LLC                     178,144  Maint/Repair/Rebuild Of Equipment- Electrical And Electronic Equipment Components
+Affigent, LLC                                         137,530  ADP Software
+Jewish Vocational Services & Employment Center        120,160  Support- Administrative: Mailing/Distribution
+H A King And Associates Inc. (0334)                    79,775  Support- Management: Data Collection
+Management Concepts, Inc.                              75,705  Support- Professional: Personal Care (Non-Medical)
+Canberra Industries, Inc.                              62,300  Laboratory Equipment And Supplies
+Spex Certiprep, Inc.                                   58,739  Electrical And Electronic Properties Measuring And Testing Instruments
+Jewish Vocational Service & Employment Center          56,511  Support- Administrative: Mailing/Distribution
+Tri Industries Nfp                                     55,567  Office Supplies
+Thermo Electron North America LLC                      48,460  Laboratory Equipment And Supplies
+Recall Total Information Management                    48,000  R&D- Defense Other: Services (Management/Support)
+Proquis Inc.                                           47,635  ADP Support Equipment
+Spectromat Massenspektrometer Gmbh                     46,450  Hazard-Detecting Instruments And Apparatus
+Graduate School                                        45,805  Education/Training- Other
 and  50  other firms.
 ```
 ## NSF MPS Grants
@@ -345,9 +333,6 @@ Spring 2016  John Joseph Karlic     Moraine Valley Community College            
 <a name="IL-04"></a>
 [Back to top](#top)
 ## IL-04 -- Rep. Jesús G. García (D) -- [Wikipedia](https://en.wikipedia.org/wiki/IL-04)
-## Committees
-Jesús G. García is not on any of our key committees. 
-
 ## HEP Grants
 ```
 This district received no SC HEP grants from 2012-2019
@@ -384,10 +369,10 @@ In the past 8 years, this district has received:<b> $727,643 </b>in NSF MPS gran
 ```
   Year  Institution                         Amount ($)
 ------  --------------------------------  ------------
-  2018  PII REDACTED                           150,000
-  2017  PII REDACTED                           150,000
-  2016  NORTHEASTERN ILLINOIS UNIVERSITY       179,984
-  2012  NORTHEASTERN ILLINOIS UNIVERSITY       247,659
+  2018  Pii Redacted                           150,000
+  2017  Pii Redacted                           150,000
+  2016  Northeastern Illinois University       179,984
+  2012  Northeastern Illinois University       247,659
 ```
 ## SULI/CCI Interns
 From 2014-2016 (only years available), this district had 5 SULI/CCI interns
@@ -420,10 +405,10 @@ This district received no SC contracts from 2012-2019
 ## NSF MPS Grants
 In the past 8 years, this district has received:<b> $383,355 </b>in NSF MPS grants.
 ```
-  Year  Institution                         Amount ($)
-------  --------------------------------  ------------
-  2013  TRUSTEES OF WHEATON COLLEGE, THE       299,355
-  2012  TRUSTEES OF WHEATON COLLEGE, THE        84,000
+  Year  Institution        Amount ($)
+------  ---------------  ------------
+  2013  Wheaton College       299,355
+  2012  Wheaton College        84,000
 ```
 ## SULI/CCI Interns
 From 2014-2016 (only years available), this district had 19 SULI/CCI interns
@@ -454,19 +439,16 @@ Fall 2014    James Michael DerKacy      North Central College  Argonne National 
 <a name="IL-07"></a>
 [Back to top](#top)
 ## IL-07 -- Rep. Danny K. Davis (D) -- [Wikipedia](https://en.wikipedia.org/wiki/IL-07)
-## Committees
-Danny K. Davis is not on any of our key committees. 
-
 ## HEP Grants
 In the past 8 years, this district has received:<b> $1,424,000 </b>in SC HEP grants.
 ```
-Institution                          Amount ($)    Start  End      Principal Investigator    Project Title
----------------------------------  ------------  -------  -------  ------------------------  --------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-University of Chicago                         0     2018  Ongoing  Frisch, Henry             Next Generation Instrumentation: Large-Area Psec Photo-Detectors (LAMPPDTM) for Charged Particle/Photon TOF and the Next Generation Optical Time Projection Chamber (OTPC)
-University of Chicago                   695,000     2018  Ongoing  Martinec, Emil            Theoretical High Energy Physics Research at the University of Chicago
-University of Chicago                   290,000     2018  Ongoing  Wah, Yau                  RARE KAON DECAYS AT THE JAPAN PHYSICS AND ACCELERATOR RESEARCH COMPLEX (JPARC)
-University of Illinois - Chicago        238,000     2014  2017     Keung, Wai-Yee            Studies in Theoretical High Energy Particle Physics
-UNIVERSITY OF ILLINOIS AT CHICAGO       201,000     2012  2014     Keung                     Studies in Theoretical High Energy Particle Physics
+Institution                         Amount ($)    Start  End      Principal Investigator    Project Title
+--------------------------------  ------------  -------  -------  ------------------------  --------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+University of Chicago                        0     2018  Ongoing  Frisch, Henry             Next Generation Instrumentation: Large-Area Psec Photo-Detectors (LAMPPDTM) for Charged Particle/Photon TOF and the Next Generation Optical Time Projection Chamber (OTPC)
+University of Chicago                  695,000     2018  Ongoing  Martinec, Emil            Theoretical High Energy Physics Research at the University of Chicago
+University of Chicago                  290,000     2018  Ongoing  Wah, Yau                  RARE KAON DECAYS AT THE JAPAN PHYSICS AND ACCELERATOR RESEARCH COMPLEX (JPARC)
+University of Illinois - Chicago       238,000     2014  2017     Keung, Wai-Yee            Studies in Theoretical High Energy Particle Physics
+University of Illinois - Chicago       201,000     2012  2014     Keung                     Studies in Theoretical High Energy Particle Physics
 ```
 ## SC Contracts
 In the past 8 years, this district has received:
@@ -474,38 +456,38 @@ In the past 8 years, this district has received:
 ```
   Year  Vendor                                            Amount ($)  Item
 ------  ----------------------------------------------  ------------  -------------------------------------------------------------
-  2013  JEWISH VOCATIONAL SERVICES & EMPLOYMENT CENTER        59,016  SUPPORT- ADMINISTRATIVE: MAILING/DISTRIBUTION
-  2013  KAIROS CONSULTING WORLDWIDE, LLC                         899  SUPPORT- MANAGEMENT: CONTRACT/PROCUREMENT/ACQUISITION SUPPORT
-  2013  TAB PRODUCTS CO, LLC                                  10,603  CABINETS, LOCKERS, BINS, AND SHELVING
-  2012  JEWISH VOCATIONAL SERVICES & EMPLOYMENT CENTER        63,142  SUPPORT- ADMINISTRATIVE: MAILING/DISTRIBUTION
-  2012  KAIROS CONSULTING WORLDWIDE, LLC                      13,931  SUPPORT- MANAGEMENT: CONTRACT/PROCUREMENT/ACQUISITION SUPPORT
+  2013  Jewish Vocational Services & Employment Center        59,016  Support- Administrative: Mailing/Distribution
+  2013  Kairos Consulting Worldwide, LLC                         899  Support- Management: Contract/Procurement/Acquisition Support
+  2013  Tab Products Co, LLC                                  10,603  Cabinets, Lockers, Bins, And Shelving
+  2012  Jewish Vocational Services & Employment Center        63,142  Support- Administrative: Mailing/Distribution
+  2012  Kairos Consulting Worldwide, LLC                      13,931  Support- Management: Contract/Procurement/Acquisition Support
 ```
 ## NSF MPS Grants
 In the past 8 years, this district has received:<b> $32,330,065 </b>in NSF MPS grants.
 ```
-  Year  Institution                      Amount ($)
-------  -----------------------------  ------------
-  2019  UNIVERSITY OF ILLINOIS              161,586
-  2018  UNIVERSITY OF ILLINOIS            6,905,966
-  2018  PII REDACTED                        150,000
-  2017  UNIVERSITY OF ILLINOIS            5,665,422
-  2017  PII REDACTED                        150,000
-  2016  UNIVERSITY OF ILLINOIS            2,778,566
-  2015  DEPAUL UNIVERSITY                    30,000
-  2015  UNIVERSITY OF ILLINOIS            3,551,625
-  2015  U OF ILLINOIS CHICAGO               679,791
-  2015  NORTHWESTERN U CHICAGO              140,000
-  2014  UNIVERSITY OF ILLINOIS            3,169,425
-  2013  UNIVERSITY OF ILLINOIS            4,208,634
-  2013  ROOSEVELT UNIVERSITY                 85,000
-  2013  LOYOLA UNIVERSITY OF CHICAGO        221,352
-  2013  ADLER PLANETARIUM, THE              163,170
-  2012  ART INSTITUTE OF CHICAGO, THE        42,268
-  2012  UNIVERSITY OF ILLINOIS            3,488,819
-  2012  ROOSEVELT UNIVERSITY                 85,000
-  2012  LOYOLA UNIVERSITY OF CHICAGO        481,259
-  2012  DE PAUL UNIVERSITY                   20,567
-  2012  ADLER PLANETARIUM, THE              151,615
+  Year  Institution                       Amount ($)
+------  ------------------------------  ------------
+  2019  University Of Illinois               161,586
+  2018  University Of Illinois             6,905,966
+  2018  Pii Redacted                         150,000
+  2017  University Of Illinois             5,665,422
+  2017  Pii Redacted                         150,000
+  2016  University Of Illinois             2,778,566
+  2015  Depaul University                     30,000
+  2015  University Of Illinois Chicago       679,791
+  2015  University Of Illinois             3,551,625
+  2015  Northwestern U Chicago               140,000
+  2014  University Of Illinois             3,169,425
+  2013  University Of Illinois             4,208,634
+  2013  Roosevelt University                  85,000
+  2013  Loyola University Of Chicago         221,352
+  2013  Adler Planetarium                    163,170
+  2012  Art Institute Of Chicago              42,268
+  2012  University Of Illinois             3,488,819
+  2012  Roosevelt University                  85,000
+  2012  Loyola University Of Chicago         481,259
+  2012  De Paul University                    20,567
+  2012  Adler Planetarium                    151,615
 ```
 ## SULI/CCI Interns
 From 2014-2016 (only years available), this district had 14 SULI/CCI interns
@@ -531,9 +513,6 @@ Fall 2015    Margaret Frances Sladek    Loyola University Chicago          Oak R
 <a name="IL-08"></a>
 [Back to top](#top)
 ## IL-08 -- Rep. Raja Krishnamoorthi (D) -- [Wikipedia](https://en.wikipedia.org/wiki/IL-08)
-## Committees
-Raja Krishnamoorthi is not on any of our key committees. 
-
 ## HEP Grants
 ```
 This district received no SC HEP grants from 2012-2019
@@ -573,8 +552,8 @@ Northwestern University     2,510,000     2016  Ongoing  Velasco, Mayda         
 Northwestern University       128,000     2015  2016     Hahn, Kristian            Paths To Discovery At The Lhc: Dark Matter And Track Triggering
 Northwestern University       750,000     2014  Ongoing  Dahl, Carl                A Scintillating Xenon Bubble Chamber for Dark Matter Detection
 Northwestern University     1,819,000     2014  2016     Velasco, Mayda            Research in High Energy Physics
-NORTHWESTERN UNIVERSITY       999,000     2013  2014     Schellman                 Research in High Energy Physics
-NORTHWESTERN UNIVERSITY     1,437,000     2012  2014     Schellman, Petriello      High Energy Physics Research
+Northwestern University       999,000     2013  2014     Schellman                 Research in High Energy Physics
+Northwestern University     1,437,000     2012  2014     Schellman, Petriello      High Energy Physics Research
 ```
 ## SC Contracts
 ```
@@ -585,21 +564,21 @@ In the past 8 years, this district has received:<b> $93,728,279 </b>in NSF MPS g
 ```
   Year  Institution                     Amount ($)
 ------  ----------------------------  ------------
-  2019  NORTHWESTERN UNIVERSITY            610,394
-  2018  LOYOLA UNIVERSITY OF CHICAGO       284,678
-  2018  NORTHWESTERN UNIVERSITY         15,594,911
-  2018  PII REDACTED                       300,000
-  2017  LOYOLA UNIVERSITY OF CHICAGO       664,911
-  2017  NORTHWESTERN UNIVERSITY         15,426,719
-  2016  LOYOLA UNIVERSITY OF CHICAGO        33,998
-  2016  NORTHWESTERN UNIVERSITY         12,190,956
-  2015  LOYOLA UNIV OF CHICAGO             104,917
-  2015  LOYOLA UNIVERSITY OF CHICAGO       365,430
-  2015  NORTHWESTERN UNIVERSITY         11,631,370
-  2014  NORTHWESTERN UNIVERSITY          8,326,777
-  2013  NORTHWESTERN UNIVERSITY         15,379,234
-  2012  MULTIPLE RECIPIENTS                450,000
-  2012  NORTHWESTERN UNIVERSITY         12,363,984
+  2019  Northwestern University            610,394
+  2018  Loyola University Of Chicago       284,678
+  2018  Northwestern University         15,594,911
+  2018  Pii Redacted                       300,000
+  2017  Loyola University Of Chicago       664,911
+  2017  Northwestern University         15,426,719
+  2016  Loyola University Of Chicago        33,998
+  2016  Northwestern University         12,190,956
+  2015  Loyola Univ Of Chicago             104,917
+  2015  Loyola University Of Chicago       365,430
+  2015  Northwestern University         11,631,370
+  2014  Northwestern University          8,326,777
+  2013  Northwestern University         15,379,234
+  2012  Multiple Recipients                450,000
+  2012  Northwestern University         12,363,984
 ```
 ## SULI/CCI Interns
 From 2014-2016 (only years available), this district had 6 SULI/CCI interns
@@ -617,9 +596,6 @@ Summer 2014  Peter Santos           Northwestern University  Lawrence Berkeley N
 <a name="IL-10"></a>
 [Back to top](#top)
 ## IL-10 -- Rep. Bradley Scott Schneider (D) -- [Wikipedia](https://en.wikipedia.org/wiki/IL-10)
-## Committees
-Bradley Scott Schneider is not on any of our key committees. 
-
 ## HEP Grants
 ```
 This district received no SC HEP grants from 2012-2019
@@ -630,7 +606,7 @@ In the past 8 years, this district has received:
 ```
   Year  Vendor                Amount ($)  Item
 ------  ------------------  ------------  --------------
-  2014  CDW GOVERNMENT LLC         3,839  ADP COMPONENTS
+  2014  Cdw Government LLC         3,839  ADP Components
 ```
 ## NSF MPS Grants
 ```
@@ -664,18 +640,18 @@ In the past 8 years, this district has received:
 ```
   Year  Vendor                                           Amount ($)  Item
 ------  ---------------------------------------------  ------------  -------------------------------------------------------------
-  2014  MANAGEMENT CONCEPTS, INC.                            16,149  SUPPORT- PROFESSIONAL: PERSONAL CARE (NON-MEDICAL)
-  2013  ENERGY SOLUTIONS PERFORMANCE STRATEGIES, INC.         8,000  EDUCATION/TRAINING- OTHER
-  2013  KAIROS CONSULTING WORLDWIDE, LLC                    162,961  SUPPORT- MANAGEMENT: CONTRACT/PROCUREMENT/ACQUISITION SUPPORT
+  2014  Management Concepts, Inc.                            16,149  Support- Professional: Personal Care (Non-Medical)
+  2013  Energy Solutions Performance Strategies, Inc.         8,000  Education/Training- Other
+  2013  Kairos Consulting Worldwide, LLC                    162,961  Support- Management: Contract/Procurement/Acquisition Support
 ```
 ## NSF MPS Grants
 In the past 8 years, this district has received:<b> $1,405,022 </b>in NSF MPS grants.
 ```
   Year  Institution                  Amount ($)
 ------  -------------------------  ------------
-  2018  ILLINOIS STATE UNIVERSITY       464,193
-  2017  ILLINOIS STATE UNIVERSITY       499,997
-  2012  ILLINOIS STATE UNIVERSITY       440,832
+  2018  Illinois State University       464,193
+  2017  Illinois State University       499,997
+  2012  Illinois State University       440,832
 ```
 ## SULI/CCI Interns
 From 2014-2016 (only years available), this district had 4 SULI/CCI interns
@@ -691,9 +667,6 @@ Summer 2014  Sydney Alonzo          Benedictine University  Argonne National Lab
 <a name="IL-12"></a>
 [Back to top](#top)
 ## IL-12 -- Rep. Mike Bost (R) -- [Wikipedia](https://en.wikipedia.org/wiki/IL-12)
-## Committees
-Mike Bost is not on any of our key committees. 
-
 ## HEP Grants
 ```
 This district received no SC HEP grants from 2012-2019
@@ -707,14 +680,14 @@ In the past 8 years, this district has received:<b> $3,310,531 </b>in NSF MPS gr
 ```
   Year  Institution                     Amount ($)
 ------  ----------------------------  ------------
-  2018  SOUTHERN ILLINOIS UNIVERSITY       860,261
-  2017  SOUTHERN ILLINOIS UNIVERSITY       310,000
-  2016  SOUTHERN ILLINOIS UNIVERSITY       383,493
-  2015  SOUTHERN ILL U CARBONDALE          110,000
-  2015  SOUTHERN ILLINOIS UNIVERSITY       340,006
-  2014  SOUTHERN ILLINOIS UNIVERSITY       930,947
-  2013  SOUTHERN ILLINOIS UNIVERSITY       105,000
-  2012  SOUTHERN ILLINOIS UNIVERSITY       270,824
+  2018  Southern Illinois University       860,261
+  2017  Southern Illinois University       310,000
+  2016  Southern Illinois University       383,493
+  2015  Southern Ill U Carbondale          110,000
+  2015  Southern Illinois University       340,006
+  2014  Southern Illinois University       930,947
+  2013  Southern Illinois University       105,000
+  2012  Southern Illinois University       270,824
 ```
 ## SULI/CCI Interns
 From 2014-2016 (only years available), this district had 3 SULI/CCI interns
@@ -729,26 +702,19 @@ Spring 2016  Matthew Peter Hautzinger  Southern Illinois University Carbondale  
 <a name="IL-13"></a>
 [Back to top](#top)
 ## IL-13 -- Rep. Rodney Davis (R) -- [Wikipedia](https://en.wikipedia.org/wiki/IL-13)
-## Committees
-Rodney Davis is not on any of our key committees. 
-
 ## HEP Grants
 In the past 8 years, this district has received:<b> $8,441,000 </b>in SC HEP grants.
 ```
 Institution                                  Amount ($)    Start  End      Principal Investigator    Project Title
 -----------------------------------------  ------------  -------  -------  ------------------------  ------------------------------------------------------------------------------------------------
-University of Illinois - Urbana-Champain        401,000     2018  Ongoing  El-Khadra, Aida           Theoretical Research on Elementary Particle Physics
-University of Illinois - Urbana-Champain        750,000     2018  Ongoing  Faulkner, Thomas          New perspectives on QFT and gravity from quantum entanglement
-University of Illinois - Urbana-Champain        350,000     2018  Ongoing  Gadway, Bryce             Dipolar molecule emulator of lattice gauge theories: experiment and theory
-University of Illinois - Urbana-Champain              0     2018  Ongoing  Hooberman, Benjamin       Probing Naturalness with Searches for Supersymmetric Higgs Partners at the Large Hadron Collider
-University of Illinois - Urbana-Champain        175,000     2018  Ongoing  Neubauer, Mark            Experimental Research at the Energy Frontier in High Energy Physics
-University of Illinois - Urbana-Champain        340,000     2018  Ongoing  Pitts, Kevin              Research on Elementary Particle Physics
-University of Illinois - Urbana-Champain              0     2018  Ongoing  Shelton, Jessie           Hidden sectors from cosmos to colliders
-University of Illinois - Urbana-Champaign       750,000     2017  2018     Hooberman, Benjamin       Probing Naturalness with Searches for Supersymmetric Higgs Partners at the Large Hadron Collider
+University of Illinois - Urbana-Champaign       750,000     2018  Ongoing  Faulkner, Thomas          New perspectives on QFT and gravity from quantum entanglement
+University of Illinois - Urbana-Champaign       350,000     2018  Ongoing  Gadway, Bryce             Dipolar molecule emulator of lattice gauge theories: experiment and theory
+University of Illinois - Urbana-Champaign       175,000     2018  Ongoing  Neubauer, Mark            Experimental Research at the Energy Frontier in High Energy Physics
+University of Illinois - Urbana-Champaign       750,000     2017  Ongoing  Hooberman, Benjamin       Probing Naturalness with Searches for Supersymmetric Higgs Partners at the Large Hadron Collider
 University of Illinois - Urbana-Champaign       195,000     2017  2018     Neubauer, Mark            Research on Elementary Particle Physics
-University of Illinois - Urbana-Champaign       750,000     2017  2018     Shelton, Jessie           CAREER: Hidden sectors from cosmos to colliders
-University of Illinois - Urbana-Champaign       530,000     2016  2018     El-Khadra, Aida           Theoretical Research on Elementary Particle Physics
-University of Illinois - Urbana-Champaign     1,080,000     2016  2018     Pitts, Kevin              Research on Elementary Particle Physics
+University of Illinois - Urbana-Champaign       750,000     2017  Ongoing  Shelton, Jessie           Hidden sectors from cosmos to colliders
+University of Illinois - Urbana-Champaign       931,000     2016  Ongoing  El-Khadra, Aida           Theoretical Research on Elementary Particle Physics
+University of Illinois - Urbana-Champaign     1,420,000     2016  Ongoing  Pitts, Kevin              Research on Elementary Particle Physics
 University of Illinois - Champiagn            1,387,000     2015  2016     Thaler, Jon               Research On Elementary Particle Physics
 University of Illinois - Urbana-Champaign     1,733,000     2014  2015     Thaler, Jon               Research on Elementary Particle Physics
 ```
@@ -758,49 +724,49 @@ In the past 8 years, this district has received:
 ```
 Vendor                                    Amount ($)  Item
 -------------------------------------  -------------  ---------------------------------------------------------------------------------
-UCHICAGO ARGONNE, LLC                  1,017,192,357  OPER OF GOVT R&D GOCO FACILITIES
-CNI TECHNICAL SERVICES, LLC                3,680,137  IT AND TELECOM- FACILITY OPERATION AND MAINTENANCE
-SPECTRA TECH, INC.                         1,375,921  SUPPORT- PROFESSIONAL: PROGRAM MANAGEMENT/SUPPORT
-KAIROS CONSULTING WORLDWIDE, LLC             988,211  SPECIAL STUDIES/ANALYSIS- ORGANIZATION/ADMINISTRATIVE/PERSONNEL
-KAIROS CONSULTING WORLDWIDE, LLC             300,000  SUPPORT- MANAGEMENT: CONTRACT/PROCUREMENT/ACQUISITION SUPPORT
-AFFIGENT, LLC                                137,530  ADP SUPPLIES
-THERMO ELECTRON NORTH AMERICA LLC            116,132  MAINT/REPAIR/REBUILD OF EQUIPMENT- ELECTRICAL AND ELECTRONIC EQUIPMENT COMPONENTS
-GRADUATE SCHOOL                               95,821  EDUCATION/TRAINING- GENERAL
-SKYLINE ADVANCED TECHNOLOGY SERVICES          57,722  ADP SOFTWARE
-ERGOGENESIS, LLC                              56,800  OFFICE FURNITURE
-SPECTROMAT MASSENSPEKTROMETER GMBH            49,100  HAZARD-DETECTING INSTRUMENTS AND APPARATUS
-SPRINT COMMUNICATIONS COMPANY L.P.            45,000  IT AND TELECOM- OTHER IT AND TELECOMMUNICATIONS
-GRA, INC.                                     36,916  SUPPORT- PROFESSIONAL: HUMAN RESOURCES
-MAD SECURITY, LLC                             33,298  ADP SOFTWARE
-CANBERRA INDUSTRIES, INC.                     24,199  HAZARD-DETECTING INSTRUMENTS AND APPARATUS
-DIRECTIONS TRAINING CENTER, INC.              23,025  EDUCATION/TRAINING- TRAINING/CURRICULUM DEVELOPMENT
-TRIAD TECHNOLOGY PARTNERS, LLC                19,931  ADP SUPPLIES
-KLIMAS, MICHAEL                               19,576  SUPPORT- PROFESSIONAL: OTHER
-ADVANCED MEASUREMENT TECHNOLOGY, INC.         18,066  LABORATORY EQUIPMENT AND SUPPLIES
-THERMO ELECTRON NORTH AMERICA LLC             14,545  QUALITY CONTROL- ELECTRICAL AND ELECTRONIC EQUIPMENT COMPONENTS
+Uchicago Argonne, LLC                  1,017,192,357  Operation Of Govt R&D GOCO Facilities
+Cni Technical Services, LLC                3,680,137  IT And Telecom- Facility Operation And Maintenance
+Spectra Tech, Inc.                         1,375,921  Support- Professional: Program Management/Support
+Kairos Consulting Worldwide, LLC             988,211  Special Studies/Analysis- Organization/Administrative/Personnel
+Kairos Consulting Worldwide, LLC             300,000  Support- Management: Contract/Procurement/Acquisition Support
+Affigent, LLC                                137,530  ADP Supplies
+Thermo Electron North America LLC            116,132  Maint/Repair/Rebuild Of Equipment- Electrical And Electronic Equipment Components
+Graduate School                               95,821  Education/Training- General
+Skyline Advanced Technology Services          57,722  ADP Software
+Ergogenesis, LLC                              56,800  Office Furniture
+Spectromat Massenspektrometer Gmbh            49,100  Hazard-Detecting Instruments And Apparatus
+Sprint Communications Company L.P.            45,000  IT And Telecom- Other IT And Telecommunications
+Gra, Inc.                                     36,916  Support- Professional: Human Resources
+Mad Security, LLC                             33,298  ADP Software
+Canberra Industries, Inc.                     24,199  Hazard-Detecting Instruments And Apparatus
+Directions Training Center, Inc.              23,025  Education/Training- Training/Curriculum Development
+Triad Technology Partners, LLC                19,931  ADP Supplies
+Klimas, Michael                               19,576  Support- Professional: Other
+Advanced Measurement Technology, Inc.         18,066  Laboratory Equipment And Supplies
+Thermo Electron North America LLC             14,545  Quality Control- Electrical And Electronic Equipment Components
 and  23  other firms.
 ```
 ## NSF MPS Grants
 In the past 8 years, this district has received:<b> $119,372,138 </b>in NSF MPS grants.
 ```
-  Year  Institution                              Amount ($)
-------  -------------------------------------  ------------
-  2018  ILLINOIS WESLEYAN UNIVERSITY                 10,000
-  2018  UNIVERSITY OF ILLINOIS                   24,687,239
-  2017  ILLINOIS WESLEYAN UNIVERSITY                150,000
-  2017  PII REDACTED                                150,000
-  2017  UNIVERSITY OF ILLINOIS                   28,502,392
-  2016  ILLINOIS STATE UNIVERSITY                   225,000
-  2016  SOUTHERN ILLINOIS UNIVERSITY006331342       399,969
-  2016  UNIVERSITY OF ILLINOIS                   12,261,704
-  2015  ILLINOIS STATE UNIVERSITY                   659,959
-  2015  SOUTHERN ILLINOIS UNIVERSITY                229,757
-  2015  U OF ILL URBANA-CHAMPAIGN                 1,697,996
-  2015  UNIVERSITY OF ILLINOIS                   13,343,786
-  2014  ILLINOIS STATE UNIVERSITY                   396,800
-  2014  UNIVERSITY OF ILLINOIS                   14,681,615
-  2013  ILLINOIS STATE UNIVERSITY                   671,573
-  2013  UNIVERSITY OF ILLINOIS                   21,304,348
+  Year  Institution                           Amount ($)
+------  ----------------------------------  ------------
+  2018  Illinois Wesleyan University              10,000
+  2018  University Of Illinois                24,687,239
+  2017  Illinois Wesleyan University             150,000
+  2017  Pii Redacted                             150,000
+  2017  University Of Illinois                28,502,392
+  2016  Illinois State University                225,000
+  2016  Southern Illinois University             399,969
+  2016  University Of Illinois                12,261,704
+  2015  Illinois State University                659,959
+  2015  Southern Illinois University             229,757
+  2015  University Of Ill Urbana-Champaign     1,697,996
+  2015  University Of Illinois                13,343,786
+  2014  Illinois State University                396,800
+  2014  University Of Illinois                14,681,615
+  2013  Illinois State University                671,573
+  2013  University Of Illinois                21,304,348
 ```
 ## SULI/CCI Interns
 From 2014-2016 (only years available), this district had 40 SULI/CCI interns
@@ -852,44 +818,41 @@ Fall 2014    Deesha Shah                 University of Illinois at Urbana-Champa
 <a name="IL-14"></a>
 [Back to top](#top)
 ## IL-14 -- Rep. Lauren Underwood (D) -- [Wikipedia](https://en.wikipedia.org/wiki/IL-14)
-## Committees
-Lauren Underwood is not on any of our key committees. 
-
 ## HEP Grants
 In the past 8 years, this district has received:<b> $290,000 </b>in SC HEP grants.
 ```
 Institution                     Amount ($)    Start    End  Principal Investigator    Project Title
 ----------------------------  ------------  -------  -----  ------------------------  ------------------------------------------------------------------------------------------------------------------------
-NORTHERN ILLINOIS UNIVERSITY       290,000     2012   2014  Piot                      Nonlinear Dynamics & Phase Space Manipulations of High-Brightness Electron Beams: Theories, Simulations, and Experiments
-NORTHERN ILLINOIS UNIVERSITY             0     2012   2014  Zutshi                    Design and Prototyping of a High Granularity Scintillator Calorimeter
+Northern Illinois University       290,000     2012   2014  Piot                      Nonlinear Dynamics & Phase Space Manipulations of High-Brightness Electron Beams: Theories, Simulations, and Experiments
+Northern Illinois University             0     2012   2014  Zutshi                    Design and Prototyping of a High Granularity Scintillator Calorimeter
 ```
 ## SC Contracts
 In the past 8 years, this district has received:
 3 Office of Science contracts, totalling <b> $3,306,516,767</b>
 ```
-  Year  Vendor                                               Amount ($)  Item
-------  -------------------------------------------------  ------------  --------------------------------------
-  2019  FERMI RESEARCH ALLIANCE LIMITED LIABILITY COMPANY   447,239,549  OPER OF GOVT R&D GOCO FACILITIES
-  2018  FERMI RESEARCH ALLIANCE LIMITED LIABILITY COMPANY   506,096,590  OPER OF GOVT R&D GOCO FACILITIES
-  2017  FERMI RESEARCH ALLIANCE LIMITED LIABILITY COMPANY   423,533,618  OPER OF GOVT R&D GOCO FACILITIES
-  2016  FERMI RESEARCH ALLIANCE LIMITED LIABILITY COMPANY   401,931,399  OPER OF GOVT R&D GOCO FACILITIES
-  2015  DOCUMENT IMAGING DIMENSIONS INC.                          3,587  OFFICE SUPPLIES
-  2015  FERMI RESEARCH ALLIANCE LIMITED LIABILITY COMPANY   374,844,698  OPER OF GOVT R&D GOCO FACILITIES
-  2015  KEVIN E O'CONNOR AND ASSOCS LTMD                         22,500  SUPPORT- PROFESSIONAL: HUMAN RESOURCES
-  2014  FERMI RESEARCH ALLIANCE LIMITED LIABILITY COMPANY   428,119,588  OPER OF GOVT R&D GOCO FACILITIES
-  2013  FERMI RESEARCH ALLIANCE LIMITED LIABILITY COMPANY   376,641,973  OPER OF GOVT R&D GOCO FACILITIES
-  2012  FERMI RESEARCH ALLIANCE LIMITED LIABILITY COMPANY   348,083,265  OPER OF GOVT R&D GOCO FACILITIES
+  Year  Vendor                              Amount ($)  Item
+------  --------------------------------  ------------  --------------------------------------
+  2019  Fermi Research Alliance, LLC       447,239,549  Operation Of Govt R&D GOCO Facilities
+  2018  Fermi Research Alliance, LLC       506,096,590  Operation Of Govt R&D GOCO Facilities
+  2017  Fermi Research Alliance, LLC       423,533,618  Operation Of Govt R&D GOCO Facilities
+  2016  Fermi Research Alliance, LLC       401,931,399  Operation Of Govt R&D GOCO Facilities
+  2015  Document Imaging Dimensions Inc.         3,587  Office Supplies
+  2015  Fermi Research Alliance, LLC       374,844,698  Operation Of Govt R&D GOCO Facilities
+  2015  Kevin E O'Connor And Assocs Ltmd        22,500  Support- Professional: Human Resources
+  2014  Fermi Research Alliance, LLC       428,119,588  Operation Of Govt R&D GOCO Facilities
+  2013  Fermi Research Alliance, LLC       376,641,973  Operation Of Govt R&D GOCO Facilities
+  2012  Fermi Research Alliance, LLC       348,083,265  Operation Of Govt R&D GOCO Facilities
 ```
 ## NSF MPS Grants
 In the past 8 years, this district has received:<b> $458,751 </b>in NSF MPS grants.
 ```
-  Year  Institution                         Amount ($)
-------  --------------------------------  ------------
-  2015  FERMI RESEARCH ALLIANCE, LLC             5,000
-  2014  FERMI RESEARCH ALLIANCE, LLC             7,928
-  2013  FERMI RESEARCH ALLIANCE, LLC             4,000
-  2012  FERMI RESEARCH ALLIANCE, LLC            11,812
-  2012  NORTHERN ILLINOIS UNIVERSITY INC       430,011
+  Year  Institution                     Amount ($)
+------  ----------------------------  ------------
+  2015  Fermi Research Alliance Llc          5,000
+  2014  Fermi Research Alliance Llc          7,928
+  2013  Fermi Research Alliance Llc          4,000
+  2012  Fermi Research Alliance Llc         11,812
+  2012  Northern Illinois University       430,011
 ```
 ## SULI/CCI Interns
 From 2014-2016 (only years available), this district had 3 SULI/CCI interns
@@ -910,11 +873,11 @@ John Shimkus is the #3 Republican on the House Committee on Energy and Commerce
 ## HEP Grants
 In the past 8 years, this district has received:<b> $4,325,000 </b>in SC HEP grants.
 ```
-Institution                           Amount ($)    Start    End  Principal Investigator    Project Title
-----------------------------------  ------------  -------  -----  ------------------------  -----------------------------------------------------------------------
-U. OF ILLINOIS AT URBANA-CHAMPAIGN     1,661,000     2013   2014  Liss                      Research on Elementary Particle Physics
-U. OF ILLINOIS AT URBANA-CHAMPAIGN        50,000     2013   2014  Pitts                     2013 Conference for Undergraduate Women in Physics, January 18-20, 2013
-U. OF ILLINOIS AT URBANA-CHAMPAIGN     2,614,000     2012   2014  Liss, Thaler              Research on Elementary Particle Physics
+Institution                                  Amount ($)    Start    End  Principal Investigator    Project Title
+-----------------------------------------  ------------  -------  -----  ------------------------  -----------------------------------------------------------------------
+University of Illinois - Urbana-Champaign     1,661,000     2013   2014  Liss                      Research on Elementary Particle Physics
+University of Illinois - Urbana-Champaign        50,000     2013   2014  Pitts                     2013 Conference for Undergraduate Women in Physics, January 18-20, 2013
+University of Illinois - Urbana-Champaign     2,614,000     2012   2014  Liss, Thaler              Research on Elementary Particle Physics
 ```
 ## SC Contracts
 ```
@@ -925,18 +888,18 @@ In the past 8 years, this district has received:<b> $23,990,245 </b>in NSF MPS g
 ```
   Year  Institution                     Amount ($)
 ------  ----------------------------  ------------
-  2019  UNIVERSITY OF ILLINOIS             461,791
-  2018  EASTERN ILLINOIS UNIVERSITY         79,695
-  2018  SOUTHERN ILLINOIS UNIVERSITY       320,000
-  2017  EASTERN ILLINOIS UNIVERSITY        178,672
-  2017  SOUTHERN ILLINOIS UNIVERSITY       204,565
-  2016  EASTERN ILLINOIS UNIVERSITY        409,530
-  2015  EASTERN ILLINOIS UNIVERSITY        417,973
-  2013  EASTERN ILLINOIS UNIVERSITY         67,274
-  2013  UNIVERSITY OF ILLINOIS             358,405
-  2012  EASTERN ILLINOIS UNIVERSITY        275,643
-  2012  ILLINOIS WESLEYAN UNIVERSITY       505,251
-  2012  UNIVERSITY OF ILLINOIS          20,711,446
+  2019  University Of Illinois             461,791
+  2018  Eastern Illinois University         79,695
+  2018  Southern Illinois University       320,000
+  2017  Eastern Illinois University        178,672
+  2017  Southern Illinois University       204,565
+  2016  Eastern Illinois University        409,530
+  2015  Eastern Illinois University        417,973
+  2013  Eastern Illinois University         67,274
+  2013  University Of Illinois             358,405
+  2012  Eastern Illinois University        275,643
+  2012  Illinois Wesleyan University       505,251
+  2012  University Of Illinois          20,711,446
 ```
 ## SULI/CCI Interns
 From 2014-2016 (only years available), this district had 2 SULI/CCI interns
@@ -976,17 +939,16 @@ This district received no SC contracts from 2012-2019
 ## NSF MPS Grants
 In the past 8 years, this district has received:<b> $4,739,770 </b>in NSF MPS grants.
 ```
-  Year  Institution                         Amount ($)
-------  --------------------------------  ------------
-  2019  NORTHERN ILLINOIS UNIVERSITY            40,320
-  2018  NORTHERN ILLINOIS UNIVERSITY           679,528
-  2017  NORTHERN ILLINOIS UNIVERSITY           612,710
-  2017  NORTHERN ILLINOIS UNIVERSITY INC       848,583
-  2017  PII REDACTED                           100,000
-  2016  NORTHERN ILLINOIS UNIVERSITY INC       358,160
-  2015  NORTHERN ILLINOIS UNIVERSITY INC       767,751
-  2014  NORTHERN ILLINOIS UNIVERSITY INC       377,757
-  2013  NORTHERN ILLINOIS UNIVERSITY INC       954,961
+  Year  Institution                     Amount ($)
+------  ----------------------------  ------------
+  2019  Northern Illinois University        40,320
+  2018  Northern Illinois University       679,528
+  2017  Northern Illinois University     1,461,293
+  2017  Pii Redacted                       100,000
+  2016  Northern Illinois University       358,160
+  2015  Northern Illinois University       767,751
+  2014  Northern Illinois University       377,757
+  2013  Northern Illinois University       954,961
 ```
 ## SULI/CCI Interns
 From 2014-2016 (only years available), this district had 2 SULI/CCI interns
@@ -1016,12 +978,12 @@ In the past 8 years, this district has received:<b> $811,162 </b>in NSF MPS gran
 ```
   Year  Institution           Amount ($)
 ------  ------------------  ------------
-  2018  AUGUSTANA COLLEGE        113,087
-  2017  AUGUSTANA COLLEGE          1,000
-  2017  BRADLEY UNIVERSITY       240,521
-  2014  AUGUSTANA COLLEGE        123,843
-  2014  KNOX COLLEGE             292,100
-  2012  AUGUSTANA COLLEGE         40,611
+  2018  Augustana College        113,087
+  2017  Augustana College          1,000
+  2017  Bradley University       240,521
+  2014  Augustana College        123,843
+  2014  Knox College             292,100
+  2012  Augustana College         40,611
 ```
 ## SULI/CCI Interns
 From 2014-2016 (only years available), this district had 2 SULI/CCI interns
@@ -1035,9 +997,6 @@ Summer 2015  Brandon Michael Wills  Augustana College  Argonne National Laborato
 <a name="IL-18"></a>
 [Back to top](#top)
 ## IL-18 -- Rep. Darin LaHood (R) -- [Wikipedia](https://en.wikipedia.org/wiki/IL-18)
-## Committees
-Darin LaHood is not on any of our key committees. 
-
 ## HEP Grants
 ```
 This district received no SC HEP grants from 2012-2019
@@ -1049,13 +1008,13 @@ This district received no SC contracts from 2012-2019
 ## NSF MPS Grants
 In the past 8 years, this district has received:<b> $972,915 </b>in NSF MPS grants.
 ```
-  Year  Institution                        Amount ($)
-------  -------------------------------  ------------
-  2018  WESTERN ILLINOIS UNIVERSITY INC       353,577
-  2014  ILLINOIS WESLEYAN UNIVERSITY           91,182
-  2013  ILLINOIS STATE UNIVERSITY             100,000
-  2013  ILLINOIS WESLEYAN UNIVERSITY          178,261
-  2013  WESTERN ILLINOIS UNIVERSITY INC       249,895
+  Year  Institution                     Amount ($)
+------  ----------------------------  ------------
+  2018  Western Illinois University        353,577
+  2014  Illinois Wesleyan University        91,182
+  2013  Illinois State University          100,000
+  2013  Illinois Wesleyan University       178,261
+  2013  Western Illinois University        249,895
 ```
 ## SULI/CCI Interns
 From 2014-2016 (only years available), this district had 4 SULI/CCI interns

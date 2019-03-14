@@ -13,8 +13,6 @@ permalink : /states/NE/
 ## Committees
 Deb Fischer is the #5 Republican on the Senate Committee on Commerce, Science, and Transportation 
 
-Ben Sasse is not on any of our key committees. 
-
 ## HEP Grants
 In the past 8 years, this state has received:
 1 HEP grants, totalling <b> $432,000</b>
@@ -31,14 +29,14 @@ This state received no SC contracts from 2012-2019
 In the past 8 years, this state has received:
 155 NSF MPS grants, totalling <b> $49,099,451</b>
 ```
-Institution                                       Amount ($)
-----------------------------------------------  ------------
-BOARD OF REGENTS OF THE UNIVERSITY OF NEBRASK     19,671,118
-UNIVERSITY OF NEBRASKA                            12,617,930
-BOARD OF REGENTS OF THE UNIVERSITY OF NEBRASKA    12,105,261
-U OF NEBRASKA-LINCOLN                              4,507,642
-DOANE COLLEGE                                        105,000
-CREIGHTON UNIVERSITY                                  92,500
+Institution                                   Amount ($)
+------------------------------------------  ------------
+Board Of Regents Of University Of Nebrask     19,671,118
+University Of Nebraska                        12,617,930
+Board Of Regents Of University Of Nebraska    12,105,261
+University Of Nebraska-Lincoln                 4,507,642
+Doane College                                    105,000
+Creighton University                              92,500
 ```
 ## SULI/CCI Interns
 <p align="center">
@@ -74,18 +72,18 @@ This district received no SC contracts from 2012-2019
 ## NSF MPS Grants
 In the past 8 years, this district has received:<b> $48,901,951 </b>in NSF MPS grants.
 ```
-  Year  Institution                                       Amount ($)
-------  ----------------------------------------------  ------------
-  2018  BOARD OF REGENTS OF THE UNIVERSITY OF NEBRASKA     6,068,780
-  2017  BOARD OF REGENTS OF THE UNIVERSITY OF NEBRASKA     6,036,481
-  2016  BOARD OF REGENTS OF THE UNIVERSITY OF NEBRASK      4,386,458
-  2016  UNIVERSITY OF NEBRASKA                             3,914,706
-  2015  BOARD OF REGENTS OF THE UNIVERSITY OF NEBRASK      7,154,675
-  2015  U OF NEBRASKA-LINCOLN                              4,507,642
-  2014  BOARD OF REGENTS OF THE UNIVERSITY OF NEBRASK      8,129,985
-  2014  UNIVERSITY OF NEBRASKA                               146,599
-  2013  UNIVERSITY OF NEBRASKA                             3,944,187
-  2012  UNIVERSITY OF NEBRASKA                             4,612,438
+  Year  Institution                                   Amount ($)
+------  ------------------------------------------  ------------
+  2018  Board Of Regents Of University Of Nebraska     6,068,780
+  2017  Board Of Regents Of University Of Nebraska     6,036,481
+  2016  Board Of Regents Of University Of Nebrask      4,386,458
+  2016  University Of Nebraska                         3,914,706
+  2015  Board Of Regents Of University Of Nebrask      7,154,675
+  2015  University Of Nebraska-Lincoln                 4,507,642
+  2014  Board Of Regents Of University Of Nebrask      8,129,985
+  2014  University Of Nebraska                           146,599
+  2013  University Of Nebraska                         3,944,187
+  2012  University Of Nebraska                         4,612,438
 ```
 ## SULI/CCI Interns
 From 2014-2016 (only years available), this district had 5 SULI/CCI interns
@@ -102,9 +100,6 @@ Fall 2014    Fernando Urias-Cordero  University of Nebraska-Lincoln  National Re
 <a name="NE-02"></a>
 [Back to top](#top)
 ## NE-02 -- Rep. Don Bacon (R) -- [Wikipedia](https://en.wikipedia.org/wiki/NE-02)
-## Committees
-Don Bacon is not on any of our key committees. 
-
 ## HEP Grants
 ```
 This district received no SC HEP grants from 2012-2019
@@ -118,7 +113,7 @@ In the past 8 years, this district has received:<b> $92,500 </b>in NSF MPS grant
 ```
   Year  Institution             Amount ($)
 ------  --------------------  ------------
-  2012  CREIGHTON UNIVERSITY        92,500
+  2012  Creighton University        92,500
 ```
 ## SULI/CCI Interns
 From 2014-2016 (only years available), this district had 2 SULI/CCI interns
@@ -132,9 +127,6 @@ Summer 2016  Jessica Katherine Bozell  University of Nebraska at Omaha  Oak Ridg
 <a name="NE-03"></a>
 [Back to top](#top)
 ## NE-03 -- Rep. Adrian Smith (R) -- [Wikipedia](https://en.wikipedia.org/wiki/NE-03)
-## Committees
-Adrian Smith is not on any of our key committees. 
-
 ## HEP Grants
 ```
 This district received no SC HEP grants from 2012-2019
@@ -148,7 +140,7 @@ In the past 8 years, this district has received:<b> $105,000 </b>in NSF MPS gran
 ```
   Year  Institution      Amount ($)
 ------  -------------  ------------
-  2012  DOANE COLLEGE       105,000
+  2012  Doane College       105,000
 ```
 ## SULI/CCI Interns
 ```

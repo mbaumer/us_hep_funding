@@ -19,8 +19,6 @@ John Hoeven is the #7 Republican on the Senate Appropriations Subcommittee on En
 
 John Hoeven is the #11 Republican on the Senate Committee on Energy and Natural Resources 
 
-Kevin Cramer is not on any of our key committees. 
-
 ## HEP Grants
 ```
 This state received no SC HEP grants from 2012-2019
@@ -35,20 +33,20 @@ In the past 8 years, this state has received:
 ```
   Year  Institution                      Amount ($)
 ------  -----------------------------  ------------
-  2018  NORTH DAKOTA STATE UNIVERSITY       930,030
-  2018  UNIVERSITY OF NORTH DAKOTA          330,000
-  2017  UNIVERSITY OF NORTH DAKOTA          572,940
-  2016  NORTH DAKOTA STATE UNIVERSITY       263,718
-  2016  UNIVERSITY OF NORTH DAKOTA            2,817
-  2015  NORTH DAKOTA STATE U FARGO          475,523
-  2015  NORTH DAKOTA STATE UNIVERSITY       131,693
-  2015  UNIVERSITY OF NORTH DAKOTA          270,000
-  2014  NORTH DAKOTA STATE UNIVERSITY       771,465
-  2014  UNIVERSITY OF NORTH DAKOTA          291,599
-  2013  NORTH DAKOTA STATE UNIVERSITY       540,000
-  2013  UNIVERSITY OF NORTH DAKOTA          119,051
-  2012  NORTH DAKOTA STATE UNIVERSITY       938,649
-  2012  UNIVERSITY OF NORTH DAKOTA          300,000
+  2018  North Dakota State University       930,030
+  2018  University Of North Dakota          330,000
+  2017  University Of North Dakota          572,940
+  2016  North Dakota State University       263,718
+  2016  University Of North Dakota            2,817
+  2015  North Dakota State U Fargo          475,523
+  2015  North Dakota State University       131,693
+  2015  University Of North Dakota          270,000
+  2014  North Dakota State University       771,465
+  2014  University Of North Dakota          291,599
+  2013  North Dakota State University       540,000
+  2013  University Of North Dakota          119,051
+  2012  North Dakota State University       938,649
+  2012  University Of North Dakota          300,000
 ```
 ## SULI/CCI Interns
 <p align="center">
@@ -65,9 +63,6 @@ From 2014-2016 (only years available), this state had 1 SULI/CCI intern
 <a name="ND-00"></a>
 [Back to top](#top)
 ## ND-00 -- Rep. Kelly Armstrong (R) -- [Wikipedia](https://en.wikipedia.org/wiki/ND-00)
-## Committees
-Kelly Armstrong is not on any of our key committees. 
-
 ## HEP Grants
 ```
 This district received no SC HEP grants from 2012-2019
@@ -81,20 +76,20 @@ In the past 8 years, this district has received:<b> $5,937,485 </b>in NSF MPS gr
 ```
   Year  Institution                      Amount ($)
 ------  -----------------------------  ------------
-  2018  NORTH DAKOTA STATE UNIVERSITY       930,030
-  2018  UNIVERSITY OF NORTH DAKOTA          330,000
-  2017  UNIVERSITY OF NORTH DAKOTA          572,940
-  2016  NORTH DAKOTA STATE UNIVERSITY       263,718
-  2016  UNIVERSITY OF NORTH DAKOTA            2,817
-  2015  NORTH DAKOTA STATE U FARGO          475,523
-  2015  NORTH DAKOTA STATE UNIVERSITY       131,693
-  2015  UNIVERSITY OF NORTH DAKOTA          270,000
-  2014  NORTH DAKOTA STATE UNIVERSITY       771,465
-  2014  UNIVERSITY OF NORTH DAKOTA          291,599
-  2013  NORTH DAKOTA STATE UNIVERSITY       540,000
-  2013  UNIVERSITY OF NORTH DAKOTA          119,051
-  2012  NORTH DAKOTA STATE UNIVERSITY       938,649
-  2012  UNIVERSITY OF NORTH DAKOTA          300,000
+  2018  North Dakota State University       930,030
+  2018  University Of North Dakota          330,000
+  2017  University Of North Dakota          572,940
+  2016  North Dakota State University       263,718
+  2016  University Of North Dakota            2,817
+  2015  North Dakota State U Fargo          475,523
+  2015  North Dakota State University       131,693
+  2015  University Of North Dakota          270,000
+  2014  North Dakota State University       771,465
+  2014  University Of North Dakota          291,599
+  2013  North Dakota State University       540,000
+  2013  University Of North Dakota          119,051
+  2012  North Dakota State University       938,649
+  2012  University Of North Dakota          300,000
 ```
 ## SULI/CCI Interns
 From 2014-2016 (only years available), this district had 1 SULI/CCI intern

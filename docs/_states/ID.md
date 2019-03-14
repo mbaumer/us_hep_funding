@@ -15,8 +15,6 @@ James E. Risch is the #2 Republican on the Senate Energy Subcommittee on Energy
 
 James E. Risch is the #3 Republican on the Senate Committee on Energy and Natural Resources 
 
-Mike Crapo is not on any of our key committees. 
-
 ## HEP Grants
 ```
 This state received no SC HEP grants from 2012-2019
@@ -29,12 +27,12 @@ This state received no SC contracts from 2012-2019
 In the past 8 years, this state has received:
 66 NSF MPS grants, totalling <b> $10,124,031</b>
 ```
-Institution                           Amount ($)
-----------------------------------  ------------
-BOISE STATE UNIVERSITY                 6,007,369
-IDAHO STATE UNIVERSITY                 2,158,908
-REGENTS OF THE UNIVERSITY OF IDAHO     1,421,099
-UNIVERSITY OF IDAHO                      536,655
+Institution                       Amount ($)
+------------------------------  ------------
+Boise State University             6,007,369
+Idaho State University             2,158,908
+Regents Of University Of Idaho     1,421,099
+University Of Idaho                  536,655
 ```
 ## SULI/CCI Interns
 <p align="center">
@@ -70,13 +68,13 @@ This district received no SC contracts from 2012-2019
 ## NSF MPS Grants
 In the past 8 years, this district has received:<b> $1,957,754 </b>in NSF MPS grants.
 ```
-  Year  Institution                           Amount ($)
-------  ----------------------------------  ------------
-  2018  REGENTS OF THE UNIVERSITY OF IDAHO        55,119
-  2017  REGENTS OF THE UNIVERSITY OF IDAHO        23,391
-  2016  REGENTS OF THE UNIVERSITY OF IDAHO       203,083
-  2013  REGENTS OF THE UNIVERSITY OF IDAHO     1,139,506
-  2012  UNIVERSITY OF IDAHO                      536,655
+  Year  Institution                       Amount ($)
+------  ------------------------------  ------------
+  2018  Regents Of University Of Idaho        55,119
+  2017  Regents Of University Of Idaho        23,391
+  2016  Regents Of University Of Idaho       203,083
+  2013  Regents Of University Of Idaho     1,139,506
+  2012  University Of Idaho                  536,655
 ```
 ## SULI/CCI Interns
 From 2014-2016 (only years available), this district had 4 SULI/CCI interns
@@ -110,21 +108,21 @@ In the past 8 years, this district has received:<b> $8,166,277 </b>in NSF MPS gr
 ```
   Year  Institution               Amount ($)
 ------  ----------------------  ------------
-  2019  BOISE STATE UNIVERSITY        81,127
-  2018  BOISE STATE UNIVERSITY       874,072
-  2018  IDAHO STATE UNIVERSITY       250,479
-  2017  BOISE STATE UNIVERSITY     1,721,555
-  2017  IDAHO STATE UNIVERSITY       246,678
-  2016  BOISE STATE UNIVERSITY       417,882
-  2016  IDAHO STATE UNIVERSITY       264,598
-  2015  BOISE STATE UNIVERSITY       798,772
-  2015  IDAHO STATE UNIVERSITY       303,747
-  2014  BOISE STATE UNIVERSITY       912,789
-  2014  IDAHO STATE UNIVERSITY        18,310
-  2013  BOISE STATE UNIVERSITY       548,123
-  2013  IDAHO STATE UNIVERSITY       533,425
-  2012  BOISE STATE UNIVERSITY       653,049
-  2012  IDAHO STATE UNIVERSITY       541,671
+  2019  Boise State University        81,127
+  2018  Boise State University       874,072
+  2018  Idaho State University       250,479
+  2017  Boise State University     1,721,555
+  2017  Idaho State University       246,678
+  2016  Boise State University       417,882
+  2016  Idaho State University       264,598
+  2015  Boise State University       798,772
+  2015  Idaho State University       303,747
+  2014  Boise State University       912,789
+  2014  Idaho State University        18,310
+  2013  Boise State University       548,123
+  2013  Idaho State University       533,425
+  2012  Boise State University       653,049
+  2012  Idaho State University       541,671
 ```
 ## SULI/CCI Interns
 From 2014-2016 (only years available), this district had 23 SULI/CCI interns

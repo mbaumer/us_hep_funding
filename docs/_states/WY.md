@@ -13,8 +13,6 @@ permalink : /states/WY/
 ## Committees
 John Barrasso is the #2 Republican on the Senate Committee on Energy and Natural Resources 
 
-Michael B. Enzi is not on any of our key committees. 
-
 ## HEP Grants
 In the past 8 years, this state has received:
 1 HEP grants, totalling <b> $205,000</b>
@@ -33,13 +31,13 @@ In the past 8 years, this state has received:
 ```
   Year  Institution              Amount ($)
 ------  ---------------------  ------------
-  2018  UNIVERSITY OF WYOMING     1,733,969
-  2017  UNIVERSITY OF WYOMING       767,973
-  2016  UNIVERSITY OF WYOMING     1,345,655
-  2015  UNIVERSITY OF WYOMING       546,600
-  2014  UNIVERSITY OF WYOMING     2,483,679
-  2013  UNIVERSITY OF WYOMING     1,166,598
-  2012  UNIVERSITY OF WYOMING     1,388,342
+  2018  University Of Wyoming     1,733,969
+  2017  University Of Wyoming       767,973
+  2016  University Of Wyoming     1,345,655
+  2015  University Of Wyoming       546,600
+  2014  University Of Wyoming     2,483,679
+  2013  University Of Wyoming     1,166,598
+  2012  University Of Wyoming     1,388,342
 ```
 ## SULI/CCI Interns
 <p align="center">
@@ -57,9 +55,6 @@ From 2014-2016 (only years available), this state had 7 SULI/CCI interns
 <a name="WY-00"></a>
 [Back to top](#top)
 ## WY-00 -- Rep. Liz Cheney (R) -- [Wikipedia](https://en.wikipedia.org/wiki/WY-00)
-## Committees
-Liz Cheney is not on any of our key committees. 
-
 ## HEP Grants
 In the past 8 years, this district has received:<b> $205,000 </b>in SC HEP grants.
 ```
@@ -76,13 +71,13 @@ In the past 8 years, this district has received:<b> $9,432,816 </b>in NSF MPS gr
 ```
   Year  Institution              Amount ($)
 ------  ---------------------  ------------
-  2018  UNIVERSITY OF WYOMING     1,733,969
-  2017  UNIVERSITY OF WYOMING       767,973
-  2016  UNIVERSITY OF WYOMING     1,345,655
-  2015  UNIVERSITY OF WYOMING       546,600
-  2014  UNIVERSITY OF WYOMING     2,483,679
-  2013  UNIVERSITY OF WYOMING     1,166,598
-  2012  UNIVERSITY OF WYOMING     1,388,342
+  2018  University Of Wyoming     1,733,969
+  2017  University Of Wyoming       767,973
+  2016  University Of Wyoming     1,345,655
+  2015  University Of Wyoming       546,600
+  2014  University Of Wyoming     2,483,679
+  2013  University Of Wyoming     1,166,598
+  2012  University Of Wyoming     1,388,342
 ```
 ## SULI/CCI Interns
 From 2014-2016 (only years available), this district had 7 SULI/CCI interns

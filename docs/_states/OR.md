@@ -15,6 +15,7 @@ Jeff Merkley is the #9 Democrat on the Senate Committee on Appropriations
 
 Jeff Merkley is the #7 Democrat on the Senate Appropriations Subcommittee on Energy and Water Development 
 
+## Committees
 Ron Wyden is the #2 Democrat on the Senate Energy Subcommittee on Energy 
 
 Ron Wyden is the #2 Democrat on the Senate Committee on Energy and Natural Resources 
@@ -30,8 +31,8 @@ In the past 8 years, this state has received:
   2016  University of Oregon     1,035,000
   2015  University of Oregon       981,000
   2014  University of Oregon     1,731,000
-  2013  UNIVERSITY OF OREGON       878,000
-  2012  UNIVERSITY OF OREGON     1,158,000
+  2013  University of Oregon       878,000
+  2012  University of Oregon     1,158,000
 ```
 ## SC Contracts
 ```
@@ -43,17 +44,17 @@ In the past 8 years, this state has received:
 ```
 Institution                           Amount ($)
 ----------------------------------  ------------
-UNIVERSITY OF OREGON                  28,922,070
-OREGON STATE UNIVERSITY               28,342,080
-PORTLAND STATE UNIVERSITY              4,183,178
-OREGON HEALTH & SCIENCE UNIVERSITY     1,341,373
-U OF OREGON EUGENE                     1,235,098
-WILLAMETTE UNIVERSITY                  1,025,990
-LEWIS & CLARK COLLEGE                    973,525
-REED INSTITUTE, THE                      614,768
-PACIFIC UNIVERSITY                       534,155
-LINFIELD COLLEGE                         180,677
-REED COLLEGE                              28,000
+University Of Oregon                  28,922,070
+Oregon State University               28,342,080
+Portland State University              4,183,178
+Oregon Health & Science University     1,341,373
+University Of Oregon Eugene            1,235,098
+Willamette University                  1,025,990
+Lewis & Clark College                    973,525
+Reed Institute                           614,768
+Pacific University                       534,155
+Linfield College                         180,677
+Reed College                              28,000
 ```
 ## SULI/CCI Interns
 <p align="center">
@@ -98,14 +99,14 @@ In the past 8 years, this district has received:<b> $945,130 </b>in NSF MPS gran
 ```
   Year  Institution                  Amount ($)
 ------  -------------------------  ------------
-  2018  LINFIELD COLLEGE                180,677
-  2018  PACIFIC UNIVERSITY               69,175
-  2017  PACIFIC UNIVERSITY               44,284
-  2015  PACIFIC UNIVERSITY              291,626
-  2013  PACIFIC UNIVERSITY               37,185
-  2013  PORTLAND STATE UNIVERSITY        29,212
-  2012  PACIFIC UNIVERSITY               91,885
-  2012  PORTLAND STATE UNIVERSITY       201,086
+  2018  Linfield College                180,677
+  2018  Pacific University               69,175
+  2017  Pacific University               44,284
+  2015  Pacific University              291,626
+  2013  Pacific University               37,185
+  2013  Portland State University        29,212
+  2012  Pacific University               91,885
+  2012  Portland State University       201,086
 ```
 ## SULI/CCI Interns
 From 2014-2016 (only years available), this district had 3 SULI/CCI interns
@@ -147,9 +148,6 @@ Spring 2016  Tonny Yang    Eastern Oregon University       Pacific Northwest Nat
 <a name="OR-03"></a>
 [Back to top](#top)
 ## OR-03 -- Rep. Earl Blumenauer (D) -- [Wikipedia](https://en.wikipedia.org/wiki/OR-03)
-## Committees
-Earl Blumenauer is not on any of our key committees. 
-
 ## HEP Grants
 ```
 This district received no SC HEP grants from 2012-2019
@@ -163,26 +161,26 @@ In the past 8 years, this district has received:<b> $6,910,546 </b>in NSF MPS gr
 ```
   Year  Institution                           Amount ($)
 ------  ----------------------------------  ------------
-  2019  REED INSTITUTE, THE                      169,066
-  2019  PORTLAND STATE UNIVERSITY                339,690
-  2018  REED INSTITUTE, THE                      122,736
-  2018  PORTLAND STATE UNIVERSITY              1,271,963
-  2018  OREGON HEALTH & SCIENCE UNIVERSITY       420,000
-  2018  LEWIS & CLARK COLLEGE                    441,761
-  2017  OREGON HEALTH & SCIENCE UNIVERSITY       149,583
-  2017  REED INSTITUTE, THE                      150,820
-  2017  PORTLAND STATE UNIVERSITY                156,872
-  2017  LEWIS & CLARK COLLEGE                    116,640
-  2016  PORTLAND STATE UNIVERSITY              1,019,855
-  2015  REED COLLEGE                              28,000
-  2015  PORTLAND STATE UNIVERSITY                244,936
-  2015  OREGON HEALTH & SCIENCE UNIVERSITY       513,689
-  2015  LEWIS & CLARK COLLEGE                    195,008
-  2014  LEWIS & CLARK COLLEGE                    220,116
-  2014  REED INSTITUTE, THE                      172,146
-  2014  PORTLAND STATE UNIVERSITY                210,540
-  2014  OREGON HEALTH & SCIENCE UNIVERSITY       258,101
-  2013  PORTLAND STATE UNIVERSITY                709,024
+  2019  Reed Institute                           169,066
+  2019  Portland State University                339,690
+  2018  Reed Institute                           122,736
+  2018  Portland State University              1,271,963
+  2018  Oregon Health & Science University       420,000
+  2018  Lewis & Clark College                    441,761
+  2017  Oregon Health & Science University       149,583
+  2017  Reed Institute                           150,820
+  2017  Portland State University                156,872
+  2017  Lewis & Clark College                    116,640
+  2016  Portland State University              1,019,855
+  2015  Reed College                              28,000
+  2015  Portland State University                244,936
+  2015  Oregon Health & Science University       513,689
+  2015  Lewis & Clark College                    195,008
+  2014  Lewis & Clark College                    220,116
+  2014  Reed Institute                           172,146
+  2014  Portland State University                210,540
+  2014  Oregon Health & Science University       258,101
+  2013  Portland State University                709,024
 ```
 ## SULI/CCI Interns
 From 2014-2016 (only years available), this district had 5 SULI/CCI interns
@@ -199,9 +197,6 @@ Summer 2014  Amelia Dunn               Reed College               Ames National 
 <a name="OR-04"></a>
 [Back to top](#top)
 ## OR-04 -- Rep. Peter A. DeFazio (D) -- [Wikipedia](https://en.wikipedia.org/wiki/OR-04)
-## Committees
-Peter A. DeFazio is not on any of our key committees. 
-
 ## HEP Grants
 In the past 8 years, this district has received:<b> $7,880,800 </b>in SC HEP grants.
 ```
@@ -218,10 +213,10 @@ University of Oregon             0     2014  2015     Brau, James               
 University of Oregon       114,000     2014  2016     Chang, Spencer            New Physics in Higgs and Dark Matter Phenomenology
 University of Oregon     1,192,000     2014  2018     Kribs, Graham             Theoretical Investigations in Particle Physics
 University of Oregon       750,000     2014  Ongoing  Majewski, Stephanie       Search for New Physics with Top Quarks and Upgrade to the ATLAS Liquid Argon Calorimeter
-UNIVERSITY OF OREGON        60,000     2013  2014     Chang                     New Physics in Higgs and Dark Matter Phenomenology
-UNIVERSITY OF OREGON             0     2012  2013     Brau                      University-Based Detector Research & Development for the International Linear Collider
-UNIVERSITY OF OREGON             0     2012  2014     Brau                      Sid Detector R&D
-UNIVERSITY OF OREGON     1,976,000     2012  2014     Brau                      Task A:  Theory of Elementary Particles; Task B Experimental High Energy Physics
+University of Oregon        60,000     2013  2014     Chang                     New Physics in Higgs and Dark Matter Phenomenology
+University of Oregon             0     2012  2013     Brau                      University-Based Detector Research & Development for the International Linear Collider
+University of Oregon             0     2012  2014     Brau                      Sid Detector R&D
+University of Oregon     1,976,000     2012  2014     Brau                      Task A:  Theory of Elementary Particles; Task B Experimental High Energy Physics
 ```
 ## SC Contracts
 ```
@@ -230,22 +225,22 @@ This district received no SC contracts from 2012-2019
 ## NSF MPS Grants
 In the past 8 years, this district has received:<b> $57,080,703 </b>in NSF MPS grants.
 ```
-  Year  Institution                Amount ($)
-------  -----------------------  ------------
-  2018  OREGON STATE UNIVERSITY     2,912,528
-  2018  UNIVERSITY OF OREGON        4,670,471
-  2017  OREGON STATE UNIVERSITY     4,420,345
-  2017  UNIVERSITY OF OREGON        4,505,887
-  2016  OREGON STATE UNIVERSITY     4,124,353
-  2016  UNIVERSITY OF OREGON        6,480,220
-  2015  OREGON STATE UNIVERSITY     3,427,171
-  2015  U OF OREGON EUGENE          1,235,098
-  2015  UNIVERSITY OF OREGON        2,018,360
-  2014  OREGON STATE UNIVERSITY    11,175,539
-  2014  UNIVERSITY OF OREGON        3,784,794
-  2013  OREGON STATE UNIVERSITY       863,599
-  2013  UNIVERSITY OF OREGON        3,881,220
-  2012  UNIVERSITY OF OREGON        3,581,118
+  Year  Institution                    Amount ($)
+------  ---------------------------  ------------
+  2018  Oregon State University         2,912,528
+  2018  University Of Oregon            4,670,471
+  2017  Oregon State University         4,420,345
+  2017  University Of Oregon            4,505,887
+  2016  Oregon State University         4,124,353
+  2016  University Of Oregon            6,480,220
+  2015  Oregon State University         3,427,171
+  2015  University Of Oregon            2,018,360
+  2015  University Of Oregon Eugene     1,235,098
+  2014  Oregon State University        11,175,539
+  2014  University Of Oregon            3,784,794
+  2013  Oregon State University           863,599
+  2013  University Of Oregon            3,881,220
+  2012  University Of Oregon            3,581,118
 ```
 ## SULI/CCI Interns
 From 2014-2016 (only years available), this district had 11 SULI/CCI interns
@@ -284,13 +279,13 @@ In the past 8 years, this district has received:<b> $2,444,535 </b>in NSF MPS gr
 ```
   Year  Institution                Amount ($)
 ------  -----------------------  ------------
-  2017  WILLAMETTE UNIVERSITY          30,508
-  2015  WILLAMETTE UNIVERSITY         386,093
-  2014  WILLAMETTE UNIVERSITY           5,000
-  2013  OREGON STATE UNIVERSITY       125,000
-  2013  WILLAMETTE UNIVERSITY          45,158
-  2012  OREGON STATE UNIVERSITY     1,293,545
-  2012  WILLAMETTE UNIVERSITY         559,231
+  2017  Willamette University          30,508
+  2015  Willamette University         386,093
+  2014  Willamette University           5,000
+  2013  Oregon State University       125,000
+  2013  Willamette University          45,158
+  2012  Oregon State University     1,293,545
+  2012  Willamette University         559,231
 ```
 ## SULI/CCI Interns
 From 2014-2016 (only years available), this district had 4 SULI/CCI interns

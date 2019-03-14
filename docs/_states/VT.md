@@ -15,6 +15,7 @@ Bernard Sanders is the #4 Independent on the Senate Energy Subcommittee on Energ
 
 Bernard Sanders is the #4 Independent on the Senate Committee on Energy and Natural Resources 
 
+## Committees
 Patrick J. Leahy is the #2 Democrat on the Senate Appropriations Subcommittee on Commerce, Justice, Science, and Related Agencies 
 
 Patrick J. Leahy is the #1 Democrat on the Senate Committee on Appropriations 
@@ -35,11 +36,11 @@ In the past 8 years, this state has received:
 ```
 Institution                                           Amount ($)
 --------------------------------------------------  ------------
-UNIVERSITY OF VERMONT & STATE AGRICULTURAL CO          5,349,891
-UNIVERSITY OF VERMONT & STATE AGRICULTURAL COLLEGE     3,390,125
-PRESIDENT AND FELLOWS OF MIDDLEBURY COLLEGE            1,244,481
-SAINT MICHAEL'S COLLEGE, INC.                            182,771
-U OF VERMONT & ST AGR COLL                                75,000
+University Of Vermont & State Agricultural Co          5,349,891
+University Of Vermont & State Agricultural College     3,390,125
+Middlebury College                                     1,244,481
+Saint Michael's College                                  182,771
+University Of Vermont & St Agr Coll                       75,000
 ```
 ## SULI/CCI Interns
 <p align="center">
@@ -74,23 +75,23 @@ In the past 8 years, this district has received:<b> $10,242,268 </b>in NSF MPS g
 ```
   Year  Institution                                           Amount ($)
 ------  --------------------------------------------------  ------------
-  2018  UNIVERSITY OF VERMONT & STATE AGRICULTURAL COLLEGE     1,383,732
-  2018  SAINT MICHAEL'S COLLEGE, INC.                            164,750
-  2018  PRESIDENT AND FELLOWS OF MIDDLEBURY COLLEGE              197,200
-  2017  UNIVERSITY OF VERMONT & STATE AGRICULTURAL COLLEGE     2,006,393
-  2017  SAINT MICHAEL'S COLLEGE, INC.                             16,771
-  2017  PRESIDENT AND FELLOWS OF MIDDLEBURY COLLEGE               64,760
-  2016  PRESIDENT AND FELLOWS OF MIDDLEBURY COLLEGE              180,000
-  2016  UNIVERSITY OF VERMONT & STATE AGRICULTURAL CO          1,067,126
-  2015  UNIVERSITY OF VERMONT & STATE AGRICULTURAL CO            692,380
-  2015  U OF VERMONT & ST AGR COLL                                75,000
-  2015  SAINT MICHAEL'S COLLEGE, INC.                              1,250
-  2015  PRESIDENT AND FELLOWS OF MIDDLEBURY COLLEGE              241,418
-  2014  UNIVERSITY OF VERMONT & STATE AGRICULTURAL CO            700,000
-  2013  UNIVERSITY OF VERMONT & STATE AGRICULTURAL CO          1,260,592
-  2013  PRESIDENT AND FELLOWS OF MIDDLEBURY COLLEGE              277,590
-  2012  UNIVERSITY OF VERMONT & STATE AGRICULTURAL CO          1,629,793
-  2012  PRESIDENT AND FELLOWS OF MIDDLEBURY COLLEGE              283,513
+  2018  University Of Vermont & State Agricultural College     1,383,732
+  2018  Saint Michael's College                                  164,750
+  2018  Middlebury College                                       197,200
+  2017  University Of Vermont & State Agricultural College     2,006,393
+  2017  Saint Michael's College                                   16,771
+  2017  Middlebury College                                        64,760
+  2016  Middlebury College                                       180,000
+  2016  University Of Vermont & State Agricultural Co          1,067,126
+  2015  University Of Vermont & State Agricultural Co            692,380
+  2015  University Of Vermont & St Agr Coll                       75,000
+  2015  Saint Michael's College                                    1,250
+  2015  Middlebury College                                       241,418
+  2014  University Of Vermont & State Agricultural Co            700,000
+  2013  University Of Vermont & State Agricultural Co          1,260,592
+  2013  Middlebury College                                       277,590
+  2012  University Of Vermont & State Agricultural Co          1,629,793
+  2012  Middlebury College                                       283,513
 ```
 ## SULI/CCI Interns
 From 2014-2016 (only years available), this district had 4 SULI/CCI interns

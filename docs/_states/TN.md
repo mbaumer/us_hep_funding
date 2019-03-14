@@ -21,74 +21,83 @@ Lamar Alexander is the #1 Republican on the Senate Appropriations Subcommittee o
 
 Lamar Alexander is the #10 Republican on the Senate Committee on Energy and Natural Resources 
 
+## Committees
 Marsha Blackburn is the #9 Republican on the Senate Committee on Commerce, Science, and Transportation 
 
 ## HEP Grants
 In the past 8 years, this state has received:
 33 HEP grants, totalling <b> $6,130,000</b>
 ```
-Institution                           Amount ($)
-----------------------------------  ------------
-University of Tennessee                3,237,000
-UNIVERSITY OF TENNESSEE, KNOXVILLE     1,465,000
-Vanderbilt University                    855,000
-VANDERBILT UNIVERSITY                    480,000
-Pronova Solutions LLC                     93,000
-ProNova Solutions LLC                          0
+  Year  Institution                Amount ($)
+------  -----------------------  ------------
+  2018  Vanderbilt University         175,000
+  2018  University of Tennessee       558,000
+  2017  Vanderbilt University               0
+  2017  University of Tennessee       400,000
+  2017  Pronova Solutions LLC               0
+  2016  Pronova Solutions LLC               0
+  2016  Vanderbilt University         300,000
+  2016  University of Tennessee       688,000
+  2015  Vanderbilt University               0
+  2015  University of Tennessee       745,000
+  2015  Pronova Solutions LLC          93,000
+  2014  Vanderbilt University         380,000
+  2014  University of Tennessee       846,000
+  2013  Vanderbilt University         220,000
+  2013  University of Tennessee       791,000
+  2012  Vanderbilt University         260,000
+  2012  University of Tennessee       674,000
 ```
 ## SC Contracts
 In the past 8 years, this state has received:
 902 Office of Science contracts, totalling <b> $16,091,197,537</b>
 ```
-Vendor                                               Amount ($)  Item
------------------------------------------------  --------------  -------------------------------------------------------------------------------
-UT BATTELLE LIMITED LIABILITY COMPANY            11,148,220,377  OPER OF GOVT R&D GOCO FACILITIES
-URS                                               1,460,826,275  OTHER ENVIRONMENTAL SERVICES
-OAK RIDGE ASSOCIATED UNIVERSITIES INCORPORATED    1,068,587,126  EDUCATION/TRAINING- OTHER
-OAK RIDGE ASSOCIATED UNIVERSITIES, INCORPORATED   1,017,464,272  EDUCATION/TRAINING- OTHER
-WASTREN ADVANTAGE, INC.                             239,339,610  HOUSEKEEPING- WASTE TREATMENT/STORAGE
-TENNESSEE VALLEY AUTHORITY                          203,778,362  UTILITIES- ELECTRIC
-NATIONAL STRATEGIC PROTECTIVE SERVICES, LLC         180,169,412  HOUSEKEEPING- GUARD
-ISOTEK SYSTEMS LIMITED LIABILITY COMPANY            177,071,563  MAINT-REP-ALT/EPG - NUCLEAR
-JOHNSON CONTROLS GOVERNMENT SYSTEMS LLC              75,268,124  CONTRUCT/ALL OTHER NON-BLDG FACS
-G4S GOVERNMENT SOLUTIONS INC                         43,717,754  HOUSEKEEPING- GUARD
-PROFESSIONAL PROJECT SERVICES, INC.                  37,455,779  SUPPORT- PROFESSIONAL: ENGINEERING/TECHNICAL
-INFORMATION INTERNATIONAL ASSOCIATES, INC.           36,344,418  IT AND TELECOM- OTHER IT AND TELECOMMUNICATIONS
-SEC FEDERAL SERVICES CORPORATION                     29,886,873  SALVAGE- DEMOLITION OF BUILDINGS
-MUTUAL TELECOM SERVICES INC.                         28,298,080  IT AND TELECOM- TELECOMMUNICATIONS AND TRANSMISSION
-CH2M HILL CONSTRUCTORS, INC.                         24,200,000  ARCHITECT AND ENGINEERING- CONSTRUCTION: WASTE TREATMENT AND STORAGE FACILITIES
-ATMOS ENERGY MARKETING, LLC                          22,077,476  UTILITIES- GAS
-NORTH WIND SOLUTIONS, LLC                            20,294,528  OPERATION OF WASTE TREATMENT AND STORAGE FACILITIES
-ALLIANT ALLIANCE, LLC                                19,846,227  IT AND TELECOM- OTHER IT AND TELECOMMUNICATIONS
-BEI-JES OAK RIDGE, LLC                               16,235,056  SUPPORT- ADMINISTRATIVE: OTHER
-CENTERPOINT ENERGY SERVICES, INC.                    16,174,911  UTILITIES- GAS
+Vendor                                           Amount ($)  Item
+-------------------------------------------  --------------  -------------------------------------------------------------------------------
+Ut Battelle, LLC                             11,148,220,377  Operation Of Govt R&D GOCO Facilities
+Urs                                           1,460,826,275  Other Environmental Services
+Oak Ridge Associated Universities Inc.        1,068,587,126  Education/Training- Other
+Oak Ridge Associated Universities, Inc.       1,017,464,272  Education/Training- Other
+Wastren Advantage, Inc.                         239,339,610  Housekeeping- Waste Treatment/Storage
+Tennessee Valley Authority                      203,778,362  Utilities- Electric
+National Strategic Protective Services, LLC     180,169,412  Housekeeping- Guard
+Isotek Systems, LLC                             177,071,563  Maint-Rep-Alt/Epg - Nuclear
+Johnson Controls Government Systems LLC          75,268,124  Contruct/All Other Non-Bldg Facs
+G4S Government Solutions Inc                     43,717,754  Housekeeping- Guard
+Professional Project Services, Inc.              37,455,779  Support- Professional: Engineering/Technical
+Information International Associates, Inc.       36,344,418  IT And Telecom- Other IT And Telecommunications
+Sec Federal Services Corporation                 29,886,873  Salvage- Demolition Of Buildings
+Mutual Telecom Services Inc.                     28,298,080  IT And Telecom- Telecommunications And Transmission
+Ch2M Hill Constructors, Inc.                     24,200,000  Architect And Engineering- Construction: Waste Treatment And Storage Facilities
+Atmos Energy Marketing, LLC                      22,077,476  Utilities- Gas
+North Wind Solutions, LLC                        20,294,528  Operation Of Waste Treatment And Storage Facilities
+Alliant Alliance, LLC                            19,846,227  IT And Telecom- Other IT And Telecommunications
+Bei-Jes Oak Ridge, LLC                           16,235,056  Support- Administrative: Other
+Centerpoint Energy Services, Inc.                16,174,911  Utilities- Gas
 and  420  other firms.
 ```
 ## NSF MPS Grants
 In the past 8 years, this state has received:
 391 NSF MPS grants, totalling <b> $64,249,229</b>
 ```
-Institution                                        Amount ($)
------------------------------------------------  ------------
-UNIVERSITY OF TENNESSEE                            26,281,866
-VANDERBILT UNIVERSITY, THE                         24,791,669
-FISK UNIVERSITY                                     2,394,472
-UNIVERSITY OF MEMPHIS, THE                          2,392,128
-MIDDLE TENNESSEE STATE UNIVERSITY                   1,712,454
-UNIVERSITY OF MEMPHIS                               1,188,963
-TENNESSEE TECHNOLOGICAL UNIVERSITY                    860,027
-MULTIPLE RECIPIENTS                                   793,000
-OAK RIDGE ASSOCIATED UNIVERSITIES, INCORPORAT         754,304
-THE VANDERBILT UNIVERSITY                             718,933
-EAST TENNESSEE STATE UNIVERSITY                       630,641
-PII REDACTED                                          350,000
-VANDERBILT UNIVERSITY                                 287,080
-AUSTIN PEAY STATE UNIVERSITY                          276,082
-U OF TENNESSEE KNOXVILLE                              265,878
-TENNESSEE STATE UNIVERSITY                            257,110
-RHODES COLLEGE (TENNESSEE), INC.                      163,775
-REDACTED DUE TO PII                                   100,000
-OAK RIDGE ASSOCIATED UNIVERSITIES, INCORPORATED        30,847
+Institution                                       Amount ($)
+----------------------------------------------  ------------
+University Of Tennessee                           26,281,866
+Vanderbilt University                             25,797,682
+University Of Memphis                              3,581,091
+Fisk University                                    2,394,472
+Middle Tennessee State University                  1,712,454
+Tennessee Technological University                   860,027
+Multiple Recipients                                  793,000
+Oak Ridge Associated Universities Incorporat         754,304
+East Tennessee State University                      630,641
+Pii Redacted                                         350,000
+Austin Peay State University                         276,082
+University Of Tennessee Knoxville                    265,878
+Tennessee State University                           257,110
+Rhodes College (Tennessee)                           163,775
+Redacted Due To Pii                                  100,000
+Oak Ridge Associated Universities Incorporated        30,847
 ```
 ## SULI/CCI Interns
 <p align="center">
@@ -121,9 +130,6 @@ From 2014-2016 (only years available), this state had 115 SULI/CCI interns
 <a name="TN-01"></a>
 [Back to top](#top)
 ## TN-01 -- Rep. David P. Roe (R) -- [Wikipedia](https://en.wikipedia.org/wiki/TN-01)
-## Committees
-David P. Roe is not on any of our key committees. 
-
 ## HEP Grants
 ```
 This district received no SC HEP grants from 2012-2019
@@ -134,21 +140,21 @@ In the past 8 years, this district has received:
 ```
 Vendor                                    Amount ($)  Item
 --------------------------------------  ------------  ---------------------------------------------------
-COOKS AIR CONDITIONING & HEATING, INC.       154,774  INSTALLATION OF EQUIPMENT- MISCELLANEOUS
-GEO SERVICES, LLC                              5,626  SPECIAL STUDIES/ANALYSIS- ENVIRONMENTAL ASSESSMENTS
-B & H SALES                                    5,260  HAND TOOLS, EDGED, NONPOWERED
-WATER SOLUTIONS ENGINEERING, LLC               3,465  WATER PURIFICATION EQUIPMENT
+Cooks Air Conditioning & Heating, Inc.       154,774  Installation Of Equipment- Miscellaneous
+Geo Services, LLC                              5,626  Special Studies/Analysis- Environmental Assessments
+B & H Sales                                    5,260  Hand Tools, Edged, Nonpowered
+Water Solutions Engineering, LLC               3,465  Water Purification Equipment
 ```
 ## NSF MPS Grants
 In the past 8 years, this district has received:<b> $630,641 </b>in NSF MPS grants.
 ```
   Year  Institution                        Amount ($)
 ------  -------------------------------  ------------
-  2017  EAST TENNESSEE STATE UNIVERSITY        59,298
-  2015  EAST TENNESSEE STATE UNIVERSITY        86,660
-  2014  EAST TENNESSEE STATE UNIVERSITY       108,260
-  2013  EAST TENNESSEE STATE UNIVERSITY       220,375
-  2012  EAST TENNESSEE STATE UNIVERSITY       156,048
+  2017  East Tennessee State University        59,298
+  2015  East Tennessee State University        86,660
+  2014  East Tennessee State University       108,260
+  2013  East Tennessee State University       220,375
+  2012  East Tennessee State University       156,048
 ```
 ## SULI/CCI Interns
 From 2014-2016 (only years available), this district had 3 SULI/CCI interns
@@ -163,25 +169,21 @@ Spring 2014  April Elizabeth Parkison  East Tennessee State University    Oak Ri
 <a name="TN-02"></a>
 [Back to top](#top)
 ## TN-02 -- Rep. Tim Burchett (R) -- [Wikipedia](https://en.wikipedia.org/wiki/TN-02)
-## Committees
-Tim Burchett is not on any of our key committees. 
-
 ## HEP Grants
 In the past 8 years, this district has received:<b> $4,795,000 </b>in SC HEP grants.
 ```
-Institution                           Amount ($)    Start  End      Principal Investigator        Project Title
-----------------------------------  ------------  -------  -------  ----------------------------  ---------------------------------------------------------------------------------------------
-ProNova Solutions LLC                          0     2016  2018     Derenchuk, Vladimir (Laddie)  Compact, low-cost, light-weight, superconducting, ironless cyclotrons for hadron radiotherapy
-University of Tennessee                  250,000     2016  2017     Cousineau, Maria-Helene       Laser Stripping for High Intensity Synchrotrons
-Pronova Solutions LLC                     93,000     2015  2016     Derenchuk, Vladimir (Laddie)  Compact, Low-Cost, Light-Weight, Superconducting, Ironless Cyclotrons For Hadron Radiotherapy
-University of Tennessee                1,696,000     2015  Ongoing  Kamyshkov, Yuri               Elementary Particle Interactions
-University of Tennessee                  550,000     2014  Ongoing  Cousineau, Marie-Helene       Laser Stripping for High Intensity Synchrotrons
-University of Tennessee                  349,000     2014  2016     Kamyshkov, Yuri               Neutrino Interactions
-University of Tennessee                  392,000     2014  2016     Spanier, Stefan               Elementary Particle Interactions with CMS at LHC
-UNIVERSITY OF TENNESSEE, KNOXVILLE       275,000     2013  2014     Cousineau                     Laser Stripping for High Intensity Proton Beams
-UNIVERSITY OF TENNESSEE, KNOXVILLE       338,000     2013  2014     Kamyshkov                     Neutrino Interactions
-UNIVERSITY OF TENNESSEE, KNOXVILLE       178,000     2013  2014     Spanier                       Elementary Particle Interactions with CMS at LHC
-UNIVERSITY OF TENNESSEE, KNOXVILLE       674,000     2012  2014     Kamyshkov                     Elementary Particle Interactions
+Institution                Amount ($)    Start  End      Principal Investigator        Project Title
+-----------------------  ------------  -------  -------  ----------------------------  ---------------------------------------------------------------------------------------------
+University of Tennessee       250,000     2016  2017     Cousineau, Maria-Helene       Laser Stripping for High Intensity Synchrotrons
+Pronova Solutions LLC          93,000     2015  2018     Derenchuk, Vladimir (Laddie)  Compact, low-cost, light-weight, superconducting, ironless cyclotrons for hadron radiotherapy
+University of Tennessee     1,696,000     2015  Ongoing  Kamyshkov, Yuri               Elementary Particle Interactions
+University of Tennessee       550,000     2014  Ongoing  Cousineau, Marie-Helene       Laser Stripping for High Intensity Synchrotrons
+University of Tennessee       349,000     2014  2016     Kamyshkov, Yuri               Neutrino Interactions
+University of Tennessee       392,000     2014  2016     Spanier, Stefan               Elementary Particle Interactions with CMS at LHC
+University of Tennessee       275,000     2013  2014     Cousineau                     Laser Stripping for High Intensity Proton Beams
+University of Tennessee       338,000     2013  2014     Kamyshkov                     Neutrino Interactions
+University of Tennessee       178,000     2013  2014     Spanier                       Elementary Particle Interactions with CMS at LHC
+University of Tennessee       674,000     2012  2014     Kamyshkov                     Elementary Particle Interactions
 ```
 ## SC Contracts
 In the past 8 years, this district has received:
@@ -189,43 +191,43 @@ In the past 8 years, this district has received:
 ```
 Vendor                                         Amount ($)  Item
 -------------------------------------------  ------------  ---------------------------------------------------------------------------------
-NATIONAL STRATEGIC PROTECTIVE SERVICES, LLC   178,822,409  HOUSEKEEPING- GUARD
-NORTH WIND SOLUTIONS, LLC                      20,294,528  OPERATION OF WASTE TREATMENT AND STORAGE FACILITIES
-WYANDOTTE SERVICES                             11,265,853  SUPPORT- PROFESSIONAL: OTHER
-SYNERGY SOLUTIONS, INCORPORATED                 2,951,509  SUPPORT- PROFESSIONAL: OTHER
-TRIBALCO, LLC                                   2,823,116  RADIO AND TELEVISION COMMUNICATION EQUIPMENT, EXCEPT AIRBORNE
-AMARC LLC                                       2,090,863  SUPPORT- PROFESSIONAL: ENGINEERING/TECHNICAL
-PREMIERE BUILDING MAINTENANCE CORPORATION       1,752,668  HOUSEKEEPING- CUSTODIAL JANITORIAL
-PROFESSIONAL PROJECT SERVICES, INC.             1,165,000  SUPPORT- PROFESSIONAL: ENGINEERING/TECHNICAL
-EAST TENNESSEE MECHANICAL CONTRACTORS, INC.       441,602  MAINTENANCE OF HIGHWAYS/ROADS/STREETS/BRIDGES/RAILWAYS
-GRIDIRON CONSTRUCTION COMPANY, LLC                230,520  CONSTRUCTION OF OTHER ADMINISTRATIVE FACILITIES AND SERVICE BUILDINGS
-OFFICE LEADER CORP.                               222,914  OFFICE FURNITURE
-BURNETT, ROBERT                                   206,792  INSTALLATION OF EQUIPMENT- ELECTRICAL AND ELECTRONIC EQUIPMENT COMPONENTS
-STRATA G, LLC                                     164,426  SPECIAL STUDIES/ANALYSIS- ENVIRONMENTAL ASSESSMENTS
-DEEP WEB TECHNOLOGIES, INC.                       162,000  SUPPORT- ADMINISTRATIVE: INFORMATION RETRIEVAL
-COHNREZNICK LLP                                   150,000  SUPPORT- MANAGEMENT: AUDITING
-SHOFFNER MECHANICAL SERVICES, INC.                149,437  MAINT/REPAIR/REBUILD OF EQUIPMENT- ELECTRIC WIRE AND POWER DISTRIBUTION EQUIPMENT
-AEROSTAR SES LLC                                  130,882  CONSTRUCTION OF OFFICE BUILDINGS
-HONEYWELL PRODUCTS INC                            122,618  MISCELLANEOUS ALARM, SIGNAL, AND SECURITY DETECTION SYSTEMS
-K.C. ELECTRICAL CONSTRUCTION, INC.                 81,885  INSTALLATION OF EQUIPMENT- ELECTRICAL AND ELECTRONIC EQUIPMENT COMPONENTS
-CATALYST TECHNOLOGY GROUP USA, INC.                80,272  ADPE SYSTEM CONFIGURATION
+National Strategic Protective Services, LLC   178,822,409  Housekeeping- Guard
+North Wind Solutions, LLC                      20,294,528  Operation Of Waste Treatment And Storage Facilities
+Wyandotte Services                             11,265,853  Support- Professional: Other
+Synergy Solutions, Inc.                         2,951,509  Support- Professional: Other
+Tribalco, LLC                                   2,823,116  Radio And Television Communication Equipment, Except Airborne
+Amarc LLC                                       2,090,863  Support- Professional: Engineering/Technical
+Premiere Building Maintenance Corporation       1,752,668  Housekeeping- Custodial Janitorial
+Professional Project Services, Inc.             1,165,000  Support- Professional: Engineering/Technical
+East Tennessee Mechanical Contractors, Inc.       441,602  Maintenance Of Highways/Roads/Streets/Bridges/Railways
+Gridiron Construction Company, LLC                230,520  Construction Of Other Administrative Facilities And Service Buildings
+Office Leader Corp.                               222,914  Office Furniture
+Burnett, Robert                                   206,792  Installation Of Equipment- Electrical And Electronic Equipment Components
+Strata G, LLC                                     164,426  Special Studies/Analysis- Environmental Assessments
+Deep Web Technologies, Inc.                       162,000  Support- Administrative: Information Retrieval
+Cohnreznick Llp                                   150,000  Support- Management: Auditing
+Shoffner Mechanical Services, Inc.                149,437  Maint/Repair/Rebuild Of Equipment- Electric Wire And Power Distribution Equipment
+Aerostar Ses LLC                                  130,882  Construction Of Office Buildings
+Honeywell Products Inc                            122,618  Miscellaneous Alarm, Signal, And Security Detection Systems
+K.C. Electrical Construction, Inc.                 81,885  Installation Of Equipment- Electrical And Electronic Equipment Components
+Catalyst Technology Group Usa, Inc.                80,272  ADPE System Configuration
 and  37  other firms.
 ```
 ## NSF MPS Grants
 In the past 8 years, this district has received:<b> $25,458,130 </b>in NSF MPS grants.
 ```
-  Year  Institution                 Amount ($)
-------  ------------------------  ------------
-  2019  UNIVERSITY OF TENNESSEE        147,145
-  2018  UNIVERSITY OF TENNESSEE      4,563,326
-  2017  PII REDACTED                   150,000
-  2017  UNIVERSITY OF TENNESSEE      4,259,610
-  2016  UNIVERSITY OF TENNESSEE      2,530,678
-  2015  U OF TENNESSEE KNOXVILLE       265,878
-  2015  UNIVERSITY OF TENNESSEE      2,409,280
-  2014  UNIVERSITY OF TENNESSEE      4,539,105
-  2013  UNIVERSITY OF TENNESSEE      3,497,607
-  2012  UNIVERSITY OF TENNESSEE      3,095,501
+  Year  Institution                          Amount ($)
+------  ---------------------------------  ------------
+  2019  University Of Tennessee                 147,145
+  2018  University Of Tennessee               4,563,326
+  2017  Pii Redacted                            150,000
+  2017  University Of Tennessee               4,259,610
+  2016  University Of Tennessee               2,530,678
+  2015  University Of Tennessee               2,409,280
+  2015  University Of Tennessee Knoxville       265,878
+  2014  University Of Tennessee               4,539,105
+  2013  University Of Tennessee               3,497,607
+  2012  University Of Tennessee               3,095,501
 ```
 ## SULI/CCI Interns
 From 2014-2016 (only years available), this district had 59 SULI/CCI interns
@@ -309,44 +311,44 @@ This district received no SC HEP grants from 2012-2019
 In the past 8 years, this district has received:
 809 Office of Science contracts, totalling <b> $15,866,770,489</b>
 ```
-Vendor                                               Amount ($)  Item
------------------------------------------------  --------------  -------------------------------------------------------------------------------
-UT BATTELLE LIMITED LIABILITY COMPANY            11,148,220,377  OPER OF GOVT R&D GOCO FACILITIES
-URS                                               1,460,826,275  OTHER ENVIRONMENTAL SERVICES
-OAK RIDGE ASSOCIATED UNIVERSITIES INCORPORATED    1,068,587,126  EDUCATION/TRAINING- OTHER
-OAK RIDGE ASSOCIATED UNIVERSITIES, INCORPORATED   1,017,464,272  EDUCATION/TRAINING- OTHER
-WASTREN ADVANTAGE, INC.                             239,339,610  HOUSEKEEPING- WASTE TREATMENT/STORAGE
-TENNESSEE VALLEY AUTHORITY                          203,778,362  UTILITIES- ELECTRIC
-ISOTEK SYSTEMS LIMITED LIABILITY COMPANY            177,071,563  MAINT-REP-ALT/EPG - NUCLEAR
-JOHNSON CONTROLS GOVERNMENT SYSTEMS LLC              75,268,124  CONTRUCT/ALL OTHER NON-BLDG FACS
-G4S GOVERNMENT SOLUTIONS INC                         43,717,754  HOUSEKEEPING- GUARD
-INFORMATION INTERNATIONAL ASSOCIATES, INC.           36,344,418  IT AND TELECOM- OTHER IT AND TELECOMMUNICATIONS
-PROFESSIONAL PROJECT SERVICES, INC.                  36,290,779  SUPPORT- PROFESSIONAL: ENGINEERING/TECHNICAL
-SEC FEDERAL SERVICES CORPORATION                     29,886,873  SALVAGE- DEMOLITION OF BUILDINGS
-MUTUAL TELECOM SERVICES INC.                         28,298,080  IT AND TELECOM- TELECOMMUNICATIONS AND TRANSMISSION
-CH2M HILL CONSTRUCTORS, INC.                         24,200,000  ARCHITECT AND ENGINEERING- CONSTRUCTION: WASTE TREATMENT AND STORAGE FACILITIES
-ATMOS ENERGY MARKETING, LLC                          22,077,476  UTILITIES- GAS
-ALLIANT ALLIANCE, LLC                                19,846,227  IT AND TELECOM- OTHER IT AND TELECOMMUNICATIONS
-BEI-JES OAK RIDGE, LLC                               16,235,056  SUPPORT- ADMINISTRATIVE: OTHER
-CENTERPOINT ENERGY SERVICES, INC.                    16,174,911  UTILITIES- GAS
-OAK RIDGE, CITY OF                                   15,710,362  UTILITIES- WATER
-TRIBALCO, LLC                                        10,008,432  RADIO AND TELEVISION COMMUNICATION EQUIPMENT, EXCEPT AIRBORNE
+Vendor                                          Amount ($)  Item
+------------------------------------------  --------------  -------------------------------------------------------------------------------
+Ut Battelle, LLC                            11,148,220,377  Operation Of Govt R&D GOCO Facilities
+Urs                                          1,460,826,275  Other Environmental Services
+Oak Ridge Associated Universities Inc.       1,068,587,126  Education/Training- Other
+Oak Ridge Associated Universities, Inc.      1,017,464,272  Education/Training- Other
+Wastren Advantage, Inc.                        239,339,610  Housekeeping- Waste Treatment/Storage
+Tennessee Valley Authority                     203,778,362  Utilities- Electric
+Isotek Systems, LLC                            177,071,563  Maint-Rep-Alt/Epg - Nuclear
+Johnson Controls Government Systems LLC         75,268,124  Contruct/All Other Non-Bldg Facs
+G4S Government Solutions Inc                    43,717,754  Housekeeping- Guard
+Information International Associates, Inc.      36,344,418  IT And Telecom- Other IT And Telecommunications
+Professional Project Services, Inc.             36,290,779  Support- Professional: Engineering/Technical
+Sec Federal Services Corporation                29,886,873  Salvage- Demolition Of Buildings
+Mutual Telecom Services Inc.                    28,298,080  IT And Telecom- Telecommunications And Transmission
+Ch2M Hill Constructors, Inc.                    24,200,000  Architect And Engineering- Construction: Waste Treatment And Storage Facilities
+Atmos Energy Marketing, LLC                     22,077,476  Utilities- Gas
+Alliant Alliance, LLC                           19,846,227  IT And Telecom- Other IT And Telecommunications
+Bei-Jes Oak Ridge, LLC                          16,235,056  Support- Administrative: Other
+Centerpoint Energy Services, Inc.               16,174,911  Utilities- Gas
+Oak Ridge, City Of                              15,710,362  Utilities- Water
+Tribalco, LLC                                   10,008,432  Radio And Television Communication Equipment, Except Airborne
 and  391  other firms.
 ```
 ## NSF MPS Grants
 In the past 8 years, this district has received:<b> $1,694,874 </b>in NSF MPS grants.
 ```
-  Year  Institution                                        Amount ($)
-------  -----------------------------------------------  ------------
-  2018  UNIVERSITY OF TENNESSEE                                41,615
-  2017  OAK RIDGE ASSOCIATED UNIVERSITIES, INCORPORATED        30,847
-  2017  UNIVERSITY OF TENNESSEE                                41,111
-  2016  OAK RIDGE ASSOCIATED UNIVERSITIES, INCORPORAT         144,147
-  2015  OAK RIDGE ASSOCIATED UNIVERSITIES, INCORPORAT          38,776
-  2015  UNIVERSITY OF TENNESSEE                               536,997
-  2014  OAK RIDGE ASSOCIATED UNIVERSITIES, INCORPORAT          41,488
-  2013  UNIVERSITY OF TENNESSEE                               290,000
-  2012  OAK RIDGE ASSOCIATED UNIVERSITIES, INCORPORAT         529,893
+  Year  Institution                                       Amount ($)
+------  ----------------------------------------------  ------------
+  2018  University Of Tennessee                               41,615
+  2017  Oak Ridge Associated Universities Incorporated        30,847
+  2017  University Of Tennessee                               41,111
+  2016  Oak Ridge Associated Universities Incorporat         144,147
+  2015  Oak Ridge Associated Universities Incorporat          38,776
+  2015  University Of Tennessee                              536,997
+  2014  Oak Ridge Associated Universities Incorporat          41,488
+  2013  University Of Tennessee                              290,000
+  2012  Oak Ridge Associated Universities Incorporat         529,893
 ```
 ## SULI/CCI Interns
 From 2014-2016 (only years available), this district had 17 SULI/CCI interns
@@ -375,9 +377,6 @@ Fall 2014    Caleb Michael Wickersham     University of Tennessee at Chattanooga
 <a name="TN-04"></a>
 [Back to top](#top)
 ## TN-04 -- Rep. Scott DesJarlais (R) -- [Wikipedia](https://en.wikipedia.org/wiki/TN-04)
-## Committees
-Scott DesJarlais is not on any of our key committees. 
-
 ## HEP Grants
 ```
 This district received no SC HEP grants from 2012-2019
@@ -391,15 +390,15 @@ In the past 8 years, this district has received:<b> $2,042,345 </b>in NSF MPS gr
 ```
   Year  Institution                          Amount ($)
 ------  ---------------------------------  ------------
-  2018  MIDDLE TENNESSEE STATE UNIVERSITY       351,470
-  2017  MIDDLE TENNESSEE STATE UNIVERSITY       509,982
-  2016  MIDDLE TENNESSEE STATE UNIVERSITY       619,877
-  2016  UNIVERSITY OF TENNESSEE                 319,842
-  2015  MIDDLE TENNESSEE STATE UNIVERSITY       155,175
-  2014  MIDDLE TENNESSEE STATE UNIVERSITY        20,950
-  2013  MIDDLE TENNESSEE STATE UNIVERSITY        55,000
-  2013  UNIVERSITY OF TENNESSEE                   3,938
-  2012  UNIVERSITY OF TENNESSEE                   6,111
+  2018  Middle Tennessee State University       351,470
+  2017  Middle Tennessee State University       509,982
+  2016  Middle Tennessee State University       619,877
+  2016  University Of Tennessee                 319,842
+  2015  Middle Tennessee State University       155,175
+  2014  Middle Tennessee State University        20,950
+  2013  Middle Tennessee State University        55,000
+  2013  University Of Tennessee                   3,938
+  2012  University Of Tennessee                   6,111
 ```
 ## SULI/CCI Interns
 From 2014-2016 (only years available), this district had 6 SULI/CCI interns
@@ -417,9 +416,6 @@ Fall 2015    Ashley Lyon                 Middle Tennessee State University     B
 <a name="TN-05"></a>
 [Back to top](#top)
 ## TN-05 -- Rep. Jim Cooper (D) -- [Wikipedia](https://en.wikipedia.org/wiki/TN-05)
-## Committees
-Jim Cooper is not on any of our key committees. 
-
 ## HEP Grants
 In the past 8 years, this district has received:<b> $1,335,000 </b>in SC HEP grants.
 ```
@@ -429,7 +425,7 @@ Vanderbilt University        92,000     2018  Ongoing  Kephart, Thomas          
 Vanderbilt University        83,000     2018  Ongoing  Scherrer, Robert          Theoretical Studies in Dark Energy and Dark Matter
 Vanderbilt University             0     2014  2015     Weiler, Thomas            THEORETICAL INVESTIGATIONS IN ELEMENTARY PARTICLE PHYSICS
 Vanderbilt University       680,000     2014  Ongoing  Weiler, Thomas            Theoretical Investigations in Elementary Particle and Cosmological Physics
-VANDERBILT UNIVERSITY       480,000     2012  2014     Weiler, Kephart           Theoretical Investigations in Elementary Particle Physics
+Vanderbilt University       480,000     2012  2014     Weiler, Kephart           Theoretical Investigations in Elementary Particle Physics
 ```
 ## SC Contracts
 In the past 8 years, this district has received:
@@ -437,35 +433,32 @@ In the past 8 years, this district has received:
 ```
   Year  Vendor                Amount ($)  Item
 ------  ------------------  ------------  ----------------------------------
-  2014  ROGERS GROUP, INC.       132,506  CONSTRUCTION OF PARKING FACILITIES
+  2014  Rogers Group, Inc.       132,506  Construction Of Parking Facilities
 ```
 ## NSF MPS Grants
 In the past 8 years, this district has received:<b> $29,542,264 </b>in NSF MPS grants.
 ```
   Year  Institution                   Amount ($)
 ------  --------------------------  ------------
-  2019  VANDERBILT UNIVERSITY, THE       473,784
-  2018  VANDERBILT UNIVERSITY, THE     1,470,223
-  2018  REDACTED DUE TO PII              100,000
-  2018  FISK UNIVERSITY                  197,565
-  2017  VANDERBILT UNIVERSITY, THE     2,794,895
-  2017  PII REDACTED                     200,000
-  2017  FISK UNIVERSITY                  196,675
-  2016  VANDERBILT UNIVERSITY, THE     2,497,741
-  2015  VANDERBILT UNIVERSITY            287,080
-  2015  VANDERBILT UNIVERSITY, THE     4,755,897
-  2015  FISK UNIVERSITY                  158,932
-  2014  VANDERBILT UNIVERSITY, THE     1,292,913
-  2014  MULTIPLE RECIPIENTS               89,000
-  2014  FISK UNIVERSITY                1,390,000
-  2013  VANDERBILT UNIVERSITY, THE     5,420,848
-  2013  THE VANDERBILT UNIVERSITY        364,517
-  2013  TENNESSEE STATE UNIVERSITY       257,110
-  2013  MULTIPLE RECIPIENTS              265,000
-  2012  MULTIPLE RECIPIENTS              439,000
-  2012  VANDERBILT UNIVERSITY, THE     6,085,368
-  2012  THE VANDERBILT UNIVERSITY        354,416
-  2012  FISK UNIVERSITY                  451,300
+  2019  Vanderbilt University            473,784
+  2018  Vanderbilt University          1,470,223
+  2018  Redacted Due To Pii              100,000
+  2018  Fisk University                  197,565
+  2017  Vanderbilt University          2,794,895
+  2017  Pii Redacted                     200,000
+  2017  Fisk University                  196,675
+  2016  Vanderbilt University          2,497,741
+  2015  Vanderbilt University          5,042,977
+  2015  Fisk University                  158,932
+  2014  Vanderbilt University          1,292,913
+  2014  Multiple Recipients               89,000
+  2014  Fisk University                1,390,000
+  2013  Vanderbilt University          5,785,365
+  2013  Tennessee State University       257,110
+  2013  Multiple Recipients              265,000
+  2012  Multiple Recipients              439,000
+  2012  Vanderbilt University          6,439,784
+  2012  Fisk University                  451,300
 ```
 ## SULI/CCI Interns
 From 2014-2016 (only years available), this district had 3 SULI/CCI interns
@@ -480,9 +473,6 @@ Summer 2014  Michelle Roh   Vanderbilt University  Lawrence Berkeley National La
 <a name="TN-06"></a>
 [Back to top](#top)
 ## TN-06 -- Rep. John W. Rose (R) -- [Wikipedia](https://en.wikipedia.org/wiki/TN-06)
-## Committees
-John W. Rose is not on any of our key committees. 
-
 ## HEP Grants
 ```
 This district received no SC HEP grants from 2012-2019
@@ -496,10 +486,10 @@ In the past 8 years, this district has received:<b> $860,027 </b>in NSF MPS gran
 ```
   Year  Institution                           Amount ($)
 ------  ----------------------------------  ------------
-  2018  TENNESSEE TECHNOLOGICAL UNIVERSITY       134,849
-  2017  TENNESSEE TECHNOLOGICAL UNIVERSITY       159,849
-  2016  TENNESSEE TECHNOLOGICAL UNIVERSITY       154,849
-  2015  TENNESSEE TECHNOLOGICAL UNIVERSITY       410,480
+  2018  Tennessee Technological University       134,849
+  2017  Tennessee Technological University       159,849
+  2016  Tennessee Technological University       154,849
+  2015  Tennessee Technological University       410,480
 ```
 ## SULI/CCI Interns
 From 2014-2016 (only years available), this district had 21 SULI/CCI interns
@@ -532,9 +522,6 @@ Fall 2015    Nathan Paul Riggsbee      Cumberland University               Oak R
 <a name="TN-07"></a>
 [Back to top](#top)
 ## TN-07 -- Rep. Mark E. Green (R) -- [Wikipedia](https://en.wikipedia.org/wiki/TN-07)
-## Committees
-Mark E. Green is not on any of our key committees. 
-
 ## HEP Grants
 ```
 This district received no SC HEP grants from 2012-2019
@@ -545,14 +532,14 @@ In the past 8 years, this district has received:
 ```
   Year  Vendor              Amount ($)  Item
 ------  ----------------  ------------  ---------------
-  2013  ASE DIRECT, INC.         3,708  OFFICE SUPPLIES
+  2013  Ase Direct, Inc.         3,708  Office Supplies
 ```
 ## NSF MPS Grants
 In the past 8 years, this district has received:<b> $200,000 </b>in NSF MPS grants.
 ```
   Year  Institution                     Amount ($)
 ------  ----------------------------  ------------
-  2014  AUSTIN PEAY STATE UNIVERSITY       200,000
+  2014  Austin Peay State University       200,000
 ```
 ## SULI/CCI Interns
 From 2014-2016 (only years available), this district had 1 SULI/CCI intern
@@ -565,9 +552,6 @@ Summer 2014  Christopher Robyn Hayes  Austin Peay State University  Brookhaven N
 <a name="TN-08"></a>
 [Back to top](#top)
 ## TN-08 -- Rep. David Kustoff (R) -- [Wikipedia](https://en.wikipedia.org/wiki/TN-08)
-## Committees
-David Kustoff is not on any of our key committees. 
-
 ## HEP Grants
 ```
 This district received no SC HEP grants from 2012-2019
@@ -581,7 +565,7 @@ In the past 8 years, this district has received:<b> $76,082 </b>in NSF MPS grant
 ```
   Year  Institution                     Amount ($)
 ------  ----------------------------  ------------
-  2017  AUSTIN PEAY STATE UNIVERSITY        76,082
+  2017  Austin Peay State University        76,082
 ```
 ## SULI/CCI Interns
 ```
@@ -606,25 +590,24 @@ In the past 8 years, this district has received:
 ```
   Year  Vendor                         Amount ($)  Item
 ------  ---------------------------  ------------  -----------------------------------------------------
-  2015  INTERACTIVE SOLUTIONS, INC.         6,434  IT AND TELECOM- TELECOMMUNICATIONS NETWORK MANAGEMENT
-  2014  INTERACTIVE SOLUTIONS, INC.         5,943  TELEPHONE AND TELEGRAPH EQUIPMENT
-  2013  INTERACTIVE SOLUTIONS, INC.         5,486  TELEPHONE AND TELEGRAPH EQUIPMENT
+  2015  Interactive Solutions, Inc.         6,434  IT And Telecom- Telecommunications Network Management
+  2014  Interactive Solutions, Inc.         5,943  Telephone And Telegraph Equipment
+  2013  Interactive Solutions, Inc.         5,486  Telephone And Telegraph Equipment
 ```
 ## NSF MPS Grants
 In the past 8 years, this district has received:<b> $3,744,866 </b>in NSF MPS grants.
 ```
-  Year  Institution                         Amount ($)
-------  --------------------------------  ------------
-  2018  UNIVERSITY OF MEMPHIS, THE             557,903
-  2017  RHODES COLLEGE (TENNESSEE), INC.       114,000
-  2017  UNIVERSITY OF MEMPHIS, THE             504,999
-  2016  UNIVERSITY OF MEMPHIS, THE             145,000
-  2015  UNIVERSITY OF MEMPHIS                   40,000
-  2015  UNIVERSITY OF MEMPHIS, THE             444,312
-  2014  UNIVERSITY OF MEMPHIS, THE             739,914
-  2013  UNIVERSITY OF MEMPHIS                  579,963
-  2012  RHODES COLLEGE (TENNESSEE), INC.        49,775
-  2012  UNIVERSITY OF MEMPHIS                  569,000
+  Year  Institution                   Amount ($)
+------  --------------------------  ------------
+  2018  University Of Memphis            557,903
+  2017  Rhodes College (Tennessee)       114,000
+  2017  University Of Memphis            504,999
+  2016  University Of Memphis            145,000
+  2015  University Of Memphis            484,312
+  2014  University Of Memphis            739,914
+  2013  University Of Memphis            579,963
+  2012  Rhodes College (Tennessee)        49,775
+  2012  University Of Memphis            569,000
 ```
 ## SULI/CCI Interns
 From 2014-2016 (only years available), this district had 5 SULI/CCI interns

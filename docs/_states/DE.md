@@ -11,8 +11,6 @@ permalink : /states/DE/
 
 # DE -- Sen. Thomas R. Carper (D) and  Sen. Christopher A. Coons (D)
 ## Committees
-Thomas R. Carper is not on any of our key committees. 
-
 Christopher A. Coons is the #5 Democrat on the Senate Appropriations Subcommittee on Commerce, Justice, Science, and Related Agencies 
 
 Christopher A. Coons is the #10 Democrat on the Senate Committee on Appropriations 
@@ -25,13 +23,13 @@ In the past 8 years, this state has received:
 ```
   Year  Institution               Amount ($)
 ------  ----------------------  ------------
-  2018  University Of Delaware             0
-  2017  University Of Delaware       215,000
+  2018  University of Delaware             0
+  2017  University of Delaware       215,000
   2016  University of Delaware       -36,175
   2015  University of Delaware       420,000
   2014  University of Delaware       347,000
-  2013  UNIVERSITY OF DELAWARE       358,000
-  2012  UNIVERSITY OF DELAWARE       355,000
+  2013  University of Delaware       358,000
+  2012  University of Delaware       355,000
 ```
 ## SC Contracts
 ```
@@ -41,20 +39,20 @@ This state received no SC contracts from 2012-2019
 In the past 8 years, this state has received:
 195 NSF MPS grants, totalling <b> $37,093,195</b>
 ```
-  Year  Institution                                      Amount ($)
-------  ---------------------------------------------  ------------
-  2019  UNIVERSITY OF DELAWARE                               82,895
-  2018  UNIVERSITY OF DELAWARE                            5,711,722
-  2017  DELAWARE STATE UNIVERSITY                           175,533
-  2017  UNIVERSITY OF DELAWARE                            3,329,697
-  2016  UNIVERSITY OF DELAWARE                            7,708,351
-  2015  DELAWARE STATE UNIVERSITY                           225,072
-  2015  UNIVERSITY OF DELAWARE                            4,786,457
-  2014  DELAWARE STATE UNIVERSITY                           501,100
-  2014  UNIVERSITY OF DELAWARE                            3,258,532
-  2013  HENRY FRANCIS DUPONT WINTERTHUR MUSEUM, INC.,         3,000
-  2013  UNIVERSITY OF DELAWARE                            4,710,377
-  2012  UNIVERSITY OF DELAWARE                            6,600,459
+  Year  Institution                                    Amount ($)
+------  -------------------------------------------  ------------
+  2019  University Of Delaware                             82,895
+  2018  University Of Delaware                          5,711,722
+  2017  Delaware State University                         175,533
+  2017  University Of Delaware                          3,329,697
+  2016  University Of Delaware                          7,708,351
+  2015  Delaware State University                         225,072
+  2015  University Of Delaware                          4,786,457
+  2014  Delaware State University                         501,100
+  2014  University Of Delaware                          3,258,532
+  2013  Henry Francis Dupont Winterthur Museum Inc.         3,000
+  2013  University Of Delaware                          4,710,377
+  2012  University Of Delaware                          6,600,459
 ```
 ## SULI/CCI Interns
 <p align="center">
@@ -80,10 +78,9 @@ In the past 8 years, this district has received:<b> $1,658,825 </b>in SC HEP gra
 ```
 Institution               Amount ($)    Start  End      Principal Investigator    Project Title
 ----------------------  ------------  -------  -------  ------------------------  -----------------------------
-University Of Delaware       215,000     2017  Ongoing  Shafi, Qaisar             Particle Theory and Cosmology
-University of Delaware       420,000     2015  2017     Shafi, Qaisar             Particle Theory and Cosmology
+University of Delaware       635,000     2015  Ongoing  Shafi, Qaisar             Particle Theory and Cosmology
 University of Delaware       310,825     2014  2017     Shafi, Qaisar             Particle Theory and Cosmology
-UNIVERSITY OF DELAWARE       713,000     2012  2014     Shafi                     Particle Theory and Cosmology
+University of Delaware       713,000     2012  2014     Shafi                     Particle Theory and Cosmology
 ```
 ## SC Contracts
 ```
@@ -92,20 +89,20 @@ This district received no SC contracts from 2012-2019
 ## NSF MPS Grants
 In the past 8 years, this district has received:<b> $37,093,195 </b>in NSF MPS grants.
 ```
-  Year  Institution                                      Amount ($)
-------  ---------------------------------------------  ------------
-  2019  UNIVERSITY OF DELAWARE                               82,895
-  2018  UNIVERSITY OF DELAWARE                            5,711,722
-  2017  DELAWARE STATE UNIVERSITY                           175,533
-  2017  UNIVERSITY OF DELAWARE                            3,329,697
-  2016  UNIVERSITY OF DELAWARE                            7,708,351
-  2015  DELAWARE STATE UNIVERSITY                           225,072
-  2015  UNIVERSITY OF DELAWARE                            4,786,457
-  2014  DELAWARE STATE UNIVERSITY                           501,100
-  2014  UNIVERSITY OF DELAWARE                            3,258,532
-  2013  HENRY FRANCIS DUPONT WINTERTHUR MUSEUM, INC.,         3,000
-  2013  UNIVERSITY OF DELAWARE                            4,710,377
-  2012  UNIVERSITY OF DELAWARE                            6,600,459
+  Year  Institution                                    Amount ($)
+------  -------------------------------------------  ------------
+  2019  University Of Delaware                             82,895
+  2018  University Of Delaware                          5,711,722
+  2017  Delaware State University                         175,533
+  2017  University Of Delaware                          3,329,697
+  2016  University Of Delaware                          7,708,351
+  2015  Delaware State University                         225,072
+  2015  University Of Delaware                          4,786,457
+  2014  Delaware State University                         501,100
+  2014  University Of Delaware                          3,258,532
+  2013  Henry Francis Dupont Winterthur Museum Inc.         3,000
+  2013  University Of Delaware                          4,710,377
+  2012  University Of Delaware                          6,600,459
 ```
 ## SULI/CCI Interns
 From 2014-2016 (only years available), this district had 9 SULI/CCI interns

@@ -15,18 +15,28 @@ Tammy Baldwin is the #12 Democrat on the Senate Committee on Appropriations
 
 Tammy Baldwin is the #8 Democrat on the Senate Committee on Commerce, Science, and Transportation 
 
+## Committees
 Ron Johnson is the #12 Republican on the Senate Committee on Commerce, Science, and Transportation 
 
 ## HEP Grants
 In the past 8 years, this state has received:
 18 HEP grants, totalling <b> $20,502,000</b>
 ```
-Institution                             Amount ($)
-------------------------------------  ------------
-University of Wisconsin - Madison       13,269,000
-UNIVERSITY OF WISCONSIN, MADISON         6,633,000
-University of Wisconsin - Eau Claire       600,000
-UNIVERSITY OF WISCONSIN, EAU CLAIRE              0
+  Year  Institution                             Amount ($)
+------  ------------------------------------  ------------
+  2018  University of Wisconsin - Eau Claire             0
+  2018  University of Wisconsin - Madison        3,383,000
+  2017  University of Wisconsin - Eau Claire       150,000
+  2017  University of Wisconsin - Madison        2,251,000
+  2016  University of Wisconsin - Eau Claire       150,000
+  2016  University of Wisconsin - Madison        2,310,000
+  2015  University of Wisconsin - Eau Claire       150,000
+  2015  University of Wisconsin - Madison        2,200,000
+  2014  University of Wisconsin - Eau Claire       150,000
+  2014  University of Wisconsin - Madison        3,125,000
+  2013  University of Wisconsin - Eau Claire             0
+  2013  University of Wisconsin - Madison        3,166,000
+  2012  University of Wisconsin - Madison        3,467,000
 ```
 ## SC Contracts
 In the past 8 years, this state has received:
@@ -34,30 +44,29 @@ In the past 8 years, this state has received:
 ```
   Year  Vendor                                Amount ($)  Item
 ------  ----------------------------------  ------------  --------------------------
-  2016  AMERICAN SOCIETY OF AGRONOMY, INC.         3,990  NEWSPAPERS AND PERIODICALS
-  2015  AMERICAN SOCIETY OF AGRONOMY, INC.         3,800  NEWSPAPERS AND PERIODICALS
-  2013  AMERICAN SOCIETY OF AGRONOMY, INC.         3,800  NEWSPAPERS AND PERIODICALS
+  2016  American Society Of Agronomy, Inc.         3,990  Newspapers And Periodicals
+  2015  American Society Of Agronomy, Inc.         3,800  Newspapers And Periodicals
+  2013  American Society Of Agronomy, Inc.         3,800  Newspapers And Periodicals
 ```
 ## NSF MPS Grants
 In the past 8 years, this state has received:
 620 NSF MPS grants, totalling <b> $218,352,548</b>
 ```
-Institution                                    Amount ($)
--------------------------------------------  ------------
-UNIVERSITY OF WISCONSIN SYSTEM                200,887,374
-U OF WISCONSIN MILWAUKEE                        6,449,741
-MARQUETTE UNIVERSITY                            4,075,215
-UNIVERSITY OF WISCONSIN SYSTEM627906399         3,309,638
-U OF WISCONSIN MADISON                          1,035,439
-MEDICAL COLLEGE OF WISCONSIN, INC., THE           668,049
-RIPON COLLEGE                                     502,325
-MORGRIDGE INSTITUTE FOR RESEARCH, INC., THE       461,822
-NORTHLAND COLLEGE                                 242,601
-CARTHAGE COLLEGE                                  230,326
-LAWRENCE UNIVERSITY                               165,000
-PII REDACTED                                      150,000
-REDACTED DUE TO PII                               100,000
-U OF WISCONSIN RIVER FALLS                         75,018
+Institution                            Amount ($)
+-----------------------------------  ------------
+University Of Wisconsin System        204,197,012
+University Of Wisconsin Milwaukee       6,449,741
+Marquette University                    4,075,215
+University Of Wisconsin Madison         1,035,439
+Medical College Of Wisconsin              668,049
+Ripon College                             502,325
+Morgridge Institute For Research          461,822
+Northland College                         242,601
+Carthage College                          230,326
+Lawrence University                       165,000
+Pii Redacted                              150,000
+Redacted Due To Pii                       100,000
+University Of Wisconsin River Falls        75,018
 ```
 ## SULI/CCI Interns
 <p align="center">
@@ -86,9 +95,6 @@ From 2014-2016 (only years available), this state had 33 SULI/CCI interns
 <a name="WI-01"></a>
 [Back to top](#top)
 ## WI-01 -- Rep. Bryan Steil (R) -- [Wikipedia](https://en.wikipedia.org/wiki/WI-01)
-## Committees
-Bryan Steil is not on any of our key committees. 
-
 ## HEP Grants
 ```
 This district received no SC HEP grants from 2012-2019
@@ -102,9 +108,9 @@ In the past 8 years, this district has received:<b> $230,326 </b>in NSF MPS gran
 ```
   Year  Institution         Amount ($)
 ------  ----------------  ------------
-  2017  CARTHAGE COLLEGE        80,981
-  2014  CARTHAGE COLLEGE        43,700
-  2012  CARTHAGE COLLEGE       105,645
+  2017  Carthage College        80,981
+  2014  Carthage College        43,700
+  2012  Carthage College       105,645
 ```
 ## SULI/CCI Interns
 From 2014-2016 (only years available), this district had 4 SULI/CCI interns
@@ -137,7 +143,7 @@ University of Wisconsin - Madison       285,000     2018  Ongoing  THOMAS, JENNI
 University of Wisconsin - Madison     2,251,000     2017  2018     SMITH, WESLEY             HIGH ENERGY PHYSICS RESERACH: EXPERIMENTAL & THEORETICAL
 University of Wisconsin - Madison       110,000     2016  2017     CARLSMITH,  DUNCAN        Direct Search for Dark Matter
 University of Wisconsin - Madison     7,525,000     2014  2017     Smith, Wesley             High Energy Physics Research: Experimental And Theoretical
-UNIVERSITY OF WISCONSIN, MADISON      6,633,000     2012  2014     Smith                     High Energy Physics Research: Experimental, Theoretical, Phenomenology, Mathematical
+University of Wisconsin - Madison     6,633,000     2012  2014     Smith                     High Energy Physics Research: Experimental, Theoretical, Phenomenology, Mathematical
 ```
 ## SC Contracts
 In the past 8 years, this district has received:
@@ -145,28 +151,28 @@ In the past 8 years, this district has received:
 ```
   Year  Vendor                                Amount ($)  Item
 ------  ----------------------------------  ------------  --------------------------
-  2016  AMERICAN SOCIETY OF AGRONOMY, INC.         3,990  NEWSPAPERS AND PERIODICALS
-  2015  AMERICAN SOCIETY OF AGRONOMY, INC.         3,800  NEWSPAPERS AND PERIODICALS
-  2013  AMERICAN SOCIETY OF AGRONOMY, INC.         3,800  NEWSPAPERS AND PERIODICALS
+  2016  American Society Of Agronomy, Inc.         3,990  Newspapers And Periodicals
+  2015  American Society Of Agronomy, Inc.         3,800  Newspapers And Periodicals
+  2013  American Society Of Agronomy, Inc.         3,800  Newspapers And Periodicals
 ```
 ## NSF MPS Grants
 In the past 8 years, this district has received:<b> $171,676,584 </b>in NSF MPS grants.
 ```
-  Year  Institution                                    Amount ($)
-------  -------------------------------------------  ------------
-  2019  UNIVERSITY OF WISCONSIN SYSTEM                     91,444
-  2018  REDACTED DUE TO PII                               100,000
-  2018  UNIVERSITY OF WISCONSIN SYSTEM                 27,554,852
-  2017  MORGRIDGE INSTITUTE FOR RESEARCH, INC., THE        90,674
-  2017  PII REDACTED                                      150,000
-  2017  UNIVERSITY OF WISCONSIN SYSTEM                 29,265,036
-  2016  UNIVERSITY OF WISCONSIN SYSTEM                 17,864,089
-  2015  U OF WISCONSIN MADISON                          1,035,439
-  2015  UNIVERSITY OF WISCONSIN SYSTEM                 22,935,234
-  2014  UNIVERSITY OF WISCONSIN SYSTEM                 14,614,252
-  2013  MORGRIDGE INSTITUTE FOR RESEARCH, INC., THE       371,148
-  2013  UNIVERSITY OF WISCONSIN SYSTEM                 26,111,081
-  2012  UNIVERSITY OF WISCONSIN SYSTEM                 31,493,335
+  Year  Institution                         Amount ($)
+------  --------------------------------  ------------
+  2019  University Of Wisconsin System          91,444
+  2018  Redacted Due To Pii                    100,000
+  2018  University Of Wisconsin System      27,554,852
+  2017  Morgridge Institute For Research        90,674
+  2017  Pii Redacted                           150,000
+  2017  University Of Wisconsin System      29,265,036
+  2016  University Of Wisconsin System      17,864,089
+  2015  University Of Wisconsin Madison      1,035,439
+  2015  University Of Wisconsin System      22,935,234
+  2014  University Of Wisconsin System      14,614,252
+  2013  Morgridge Institute For Research       371,148
+  2013  University Of Wisconsin System      26,111,081
+  2012  University Of Wisconsin System      31,493,335
 ```
 ## SULI/CCI Interns
 From 2014-2016 (only years available), this district had 17 SULI/CCI interns
@@ -195,16 +201,13 @@ Spring 2015  Luis F Gomes              Madison Area Technical College    Argonne
 <a name="WI-03"></a>
 [Back to top](#top)
 ## WI-03 -- Rep. Ron Kind (D) -- [Wikipedia](https://en.wikipedia.org/wiki/WI-03)
-## Committees
-Ron Kind is not on any of our key committees. 
-
 ## HEP Grants
 In the past 8 years, this district has received:<b> $600,000 </b>in SC HEP grants.
 ```
 Institution                             Amount ($)    Start  End      Principal Investigator    Project Title
 ------------------------------------  ------------  -------  -------  ------------------------  -----------------------------------------------------------------
 University of Wisconsin - Eau Claire       600,000     2014  Ongoing  Jewell, Matthew           Mechanical Performance of HTS Superconductor for HEP Applications
-UNIVERSITY OF WISCONSIN, EAU CLAIRE              0     2013  2014     Jewell                    Mechanical Performance of HTS Superconductor for HEP Applications
+University of Wisconsin - Eau Claire             0     2013  2014     Jewell                    Mechanical Performance of HTS Superconductor for HEP Applications
 ```
 ## SC Contracts
 ```
@@ -213,16 +216,15 @@ This district received no SC contracts from 2012-2019
 ## NSF MPS Grants
 In the past 8 years, this district has received:<b> $3,441,265 </b>in NSF MPS grants.
 ```
-  Year  Institution                                Amount ($)
-------  ---------------------------------------  ------------
-  2018  UNIVERSITY OF WISCONSIN SYSTEM                374,267
-  2017  UNIVERSITY OF WISCONSIN SYSTEM                217,261
-  2016  UNIVERSITY OF WISCONSIN SYSTEM                567,391
-  2016  UNIVERSITY OF WISCONSIN SYSTEM627906399       296,089
-  2015  UNIVERSITY OF WISCONSIN SYSTEM                621,981
-  2014  UNIVERSITY OF WISCONSIN SYSTEM                768,160
-  2013  UNIVERSITY OF WISCONSIN SYSTEM                116,305
-  2012  UNIVERSITY OF WISCONSIN SYSTEM                479,811
+  Year  Institution                       Amount ($)
+------  ------------------------------  ------------
+  2018  University Of Wisconsin System       374,267
+  2017  University Of Wisconsin System       217,261
+  2016  University Of Wisconsin System       863,480
+  2015  University Of Wisconsin System       621,981
+  2014  University Of Wisconsin System       768,160
+  2013  University Of Wisconsin System       116,305
+  2012  University Of Wisconsin System       479,811
 ```
 ## SULI/CCI Interns
 From 2014-2016 (only years available), this district had 4 SULI/CCI interns
@@ -238,9 +240,6 @@ Summer 2014  Sarah Ullyssa Naegeli       University of Wisconsin-Eau Claire     
 <a name="WI-04"></a>
 [Back to top](#top)
 ## WI-04 -- Rep. Gwen Moore (D) -- [Wikipedia](https://en.wikipedia.org/wiki/WI-04)
-## Committees
-Gwen Moore is not on any of our key committees. 
-
 ## HEP Grants
 ```
 This district received no SC HEP grants from 2012-2019
@@ -252,25 +251,24 @@ This district received no SC contracts from 2012-2019
 ## NSF MPS Grants
 In the past 8 years, this district has received:<b> $40,463,023 </b>in NSF MPS grants.
 ```
-  Year  Institution                                Amount ($)
-------  ---------------------------------------  ------------
-  2019  MARQUETTE UNIVERSITY                          111,060
-  2018  UNIVERSITY OF WISCONSIN SYSTEM              5,451,841
-  2018  MARQUETTE UNIVERSITY                          943,822
-  2017  UNIVERSITY OF WISCONSIN SYSTEM              5,388,215
-  2017  MARQUETTE UNIVERSITY                          393,760
-  2016  MARQUETTE UNIVERSITY                          100,000
-  2016  UNIVERSITY OF WISCONSIN SYSTEM627906399     2,658,305
-  2016  UNIVERSITY OF WISCONSIN SYSTEM              4,374,251
-  2015  UNIVERSITY OF WISCONSIN SYSTEM              1,259,860
-  2015  U OF WISCONSIN MILWAUKEE                    6,449,741
-  2015  MARQUETTE UNIVERSITY                          702,803
-  2014  UNIVERSITY OF WISCONSIN SYSTEM              3,086,622
-  2014  MARQUETTE UNIVERSITY                          235,366
-  2013  UNIVERSITY OF WISCONSIN SYSTEM              4,450,419
-  2013  MARQUETTE UNIVERSITY                        1,106,802
-  2012  UNIVERSITY OF WISCONSIN SYSTEM              3,268,554
-  2012  MARQUETTE UNIVERSITY                          481,602
+  Year  Institution                          Amount ($)
+------  ---------------------------------  ------------
+  2019  Marquette University                    111,060
+  2018  Marquette University                    943,822
+  2018  University Of Wisconsin System        5,451,841
+  2017  Marquette University                    393,760
+  2017  University Of Wisconsin System        5,388,215
+  2016  Marquette University                    100,000
+  2016  University Of Wisconsin System        7,032,556
+  2015  Marquette University                    702,803
+  2015  University Of Wisconsin Milwaukee     6,449,741
+  2015  University Of Wisconsin System        1,259,860
+  2014  Marquette University                    235,366
+  2014  University Of Wisconsin System        3,086,622
+  2013  Marquette University                  1,106,802
+  2013  University Of Wisconsin System        4,450,419
+  2012  Marquette University                    481,602
+  2012  University Of Wisconsin System        3,268,554
 ```
 ## SULI/CCI Interns
 From 2014-2016 (only years available), this district had 6 SULI/CCI interns
@@ -288,9 +286,6 @@ Summer 2014  Daniel Joseph Franke   Milwaukee School of Engineering  Argonne Nat
 <a name="WI-05"></a>
 [Back to top](#top)
 ## WI-05 -- Rep. F. James Sensenbrenner, Jr. (R) -- [Wikipedia](https://en.wikipedia.org/wiki/WI-05)
-## Committees
-F. James Sensenbrenner, Jr. is not on any of our key committees. 
-
 ## HEP Grants
 ```
 This district received no SC HEP grants from 2012-2019
@@ -302,12 +297,12 @@ This district received no SC contracts from 2012-2019
 ## NSF MPS Grants
 In the past 8 years, this district has received:<b> $668,049 </b>in NSF MPS grants.
 ```
-  Year  Institution                                Amount ($)
-------  ---------------------------------------  ------------
-  2018  MEDICAL COLLEGE OF WISCONSIN, INC., THE       311,883
-  2017  MEDICAL COLLEGE OF WISCONSIN, INC., THE       198,401
-  2014  MEDICAL COLLEGE OF WISCONSIN, INC., THE        68,000
-  2012  MEDICAL COLLEGE OF WISCONSIN, INC., THE        89,765
+  Year  Institution                     Amount ($)
+------  ----------------------------  ------------
+  2018  Medical College Of Wisconsin       311,883
+  2017  Medical College Of Wisconsin       198,401
+  2014  Medical College Of Wisconsin        68,000
+  2012  Medical College Of Wisconsin        89,765
 ```
 ## SULI/CCI Interns
 ```
@@ -333,13 +328,13 @@ This district received no SC contracts from 2012-2019
 ## NSF MPS Grants
 In the past 8 years, this district has received:<b> $1,018,290 </b>in NSF MPS grants.
 ```
-  Year  Institution                                Amount ($)
-------  ---------------------------------------  ------------
-  2018  RIPON COLLEGE                                  35,822
-  2017  RIPON COLLEGE                                 229,120
-  2016  UNIVERSITY OF WISCONSIN SYSTEM627906399       355,244
-  2015  UNIVERSITY OF WISCONSIN SYSTEM                160,721
-  2014  RIPON COLLEGE                                 237,383
+  Year  Institution                       Amount ($)
+------  ------------------------------  ------------
+  2018  Ripon College                         35,822
+  2017  Ripon College                        229,120
+  2016  University Of Wisconsin System       355,244
+  2015  University Of Wisconsin System       160,721
+  2014  Ripon College                        237,383
 ```
 ## SULI/CCI Interns
 From 2014-2016 (only years available), this district had 1 SULI/CCI intern
@@ -352,9 +347,6 @@ Fall 2014  David Garcia  Ripon College  Oak Ridge National Laboratory  SULI
 <a name="WI-07"></a>
 [Back to top](#top)
 ## WI-07 -- Rep. Sean P. Duffy (R) -- [Wikipedia](https://en.wikipedia.org/wiki/WI-07)
-## Committees
-Sean P. Duffy is not on any of our key committees. 
-
 ## HEP Grants
 ```
 This district received no SC HEP grants from 2012-2019
@@ -366,13 +358,13 @@ This district received no SC contracts from 2012-2019
 ## NSF MPS Grants
 In the past 8 years, this district has received:<b> $690,011 </b>in NSF MPS grants.
 ```
-  Year  Institution                       Amount ($)
-------  ------------------------------  ------------
-  2018  UNIVERSITY OF WISCONSIN SYSTEM        44,578
-  2017  UNIVERSITY OF WISCONSIN SYSTEM        79,586
-  2016  NORTHLAND COLLEGE                    242,601
-  2015  U OF WISCONSIN RIVER FALLS            75,018
-  2013  UNIVERSITY OF WISCONSIN SYSTEM       248,228
+  Year  Institution                            Amount ($)
+------  -----------------------------------  ------------
+  2018  University Of Wisconsin System             44,578
+  2017  University Of Wisconsin System             79,586
+  2016  Northland College                         242,601
+  2015  University Of Wisconsin River Falls        75,018
+  2013  University Of Wisconsin System            248,228
 ```
 ## SULI/CCI Interns
 ```
@@ -382,9 +374,6 @@ This district had no SULI/CCI interns from 2014-2016 (only years available)
 <a name="WI-08"></a>
 [Back to top](#top)
 ## WI-08 -- Rep. Mike Gallagher (R) -- [Wikipedia](https://en.wikipedia.org/wiki/WI-08)
-## Committees
-Mike Gallagher is not on any of our key committees. 
-
 ## HEP Grants
 ```
 This district received no SC HEP grants from 2012-2019
@@ -398,9 +387,9 @@ In the past 8 years, this district has received:<b> $165,000 </b>in NSF MPS gran
 ```
   Year  Institution            Amount ($)
 ------  -------------------  ------------
-  2014  LAWRENCE UNIVERSITY        53,524
-  2013  LAWRENCE UNIVERSITY        56,476
-  2012  LAWRENCE UNIVERSITY        55,000
+  2014  Lawrence University        53,524
+  2013  Lawrence University        56,476
+  2012  Lawrence University        55,000
 ```
 ## SULI/CCI Interns
 From 2014-2016 (only years available), this district had 1 SULI/CCI intern

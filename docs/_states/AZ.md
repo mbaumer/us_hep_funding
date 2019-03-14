@@ -13,6 +13,7 @@ permalink : /states/AZ/
 ## Committees
 Kyrsten Sinema is the #11 Democrat on the Senate Committee on Commerce, Science, and Transportation 
 
+## Committees
 Martha McSally is the #7 Republican on the Senate Energy Subcommittee on Energy 
 
 Martha McSally is the #9 Republican on the Senate Committee on Energy and Natural Resources 
@@ -21,12 +22,22 @@ Martha McSally is the #9 Republican on the Senate Committee on Energy and Natura
 In the past 8 years, this state has received:
 32 HEP grants, totalling <b> $11,122,000</b>
 ```
-Institution                 Amount ($)
-------------------------  ------------
-University of Arizona        6,673,000
-UNIVERSITY OF ARIZONA        2,451,000
-Arizona State University     1,292,000
-ARIZONA STATE UNIVERSITY       706,000
+  Year  Institution                 Amount ($)
+------  ------------------------  ------------
+  2018  Arizona State University       265,000
+  2018  University of Arizona        1,270,000
+  2017  Arizona State University       170,000
+  2017  University of Arizona        1,160,000
+  2016  Arizona State University       100,000
+  2016  University of Arizona        1,960,000
+  2015  Arizona State University       340,000
+  2015  University of Arizona        1,047,000
+  2014  Arizona State University       417,000
+  2014  University of Arizona        1,236,000
+  2013  Arizona State University       496,000
+  2013  University of Arizona        1,232,000
+  2012  Arizona State University       210,000
+  2012  University of Arizona        1,219,000
 ```
 ## SC Contracts
 ```
@@ -38,16 +49,14 @@ In the past 8 years, this state has received:
 ```
 Institution                                   Amount ($)
 ------------------------------------------  ------------
-UNIVERSITY OF ARIZONA                         62,046,330
-ARIZONA STATE UNIVERSITY                      37,604,169
-LOWELL OBSERVATORY                             3,775,675
-NORTHERN ARIZONA UNIVERSITY                    1,312,592
-U OF ARIZONA                                   1,220,365
-PLANETARY SCIENCE INSTITUTE                      656,495
-PII REDACTED                                     400,000
-REDACTED DUE TO PII                              300,000
-NORTHERN ARIZONA UNIV                            216,161
-MARICOPA COUNTY COMMUNITY COLLEGE DISTRICT        56,873
+University Of Arizona                         63,266,695
+Arizona State University                      37,604,169
+Lowell Observatory                             3,775,675
+Northern Arizona University                    1,528,753
+Planetary Science Institute                      656,495
+Pii Redacted                                     400,000
+Redacted Due To Pii                              300,000
+Maricopa County Community College District        56,873
 ```
 ## SULI/CCI Interns
 <p align="center">
@@ -83,20 +92,20 @@ In the past 8 years, this district has received:<b> $5,304,428 </b>in NSF MPS gr
 ```
   Year  Institution                    Amount ($)
 ------  ---------------------------  ------------
-  2019  NORTHERN ARIZONA UNIVERSITY       197,343
-  2018  LOWELL OBSERVATORY                119,564
-  2018  NORTHERN ARIZONA UNIVERSITY       210,502
-  2017  LOWELL OBSERVATORY                377,515
-  2017  NORTHERN ARIZONA UNIVERSITY       133,018
-  2016  LOWELL OBSERVATORY              1,159,428
-  2015  LOWELL OBSERVATORY                362,698
-  2015  NORTHERN ARIZONA UNIV             216,161
-  2014  LOWELL OBSERVATORY                315,044
-  2014  NORTHERN ARIZONA UNIVERSITY        24,490
-  2013  LOWELL OBSERVATORY                743,169
-  2013  NORTHERN ARIZONA UNIVERSITY        85,257
-  2012  LOWELL OBSERVATORY                698,257
-  2012  NORTHERN ARIZONA UNIVERSITY       661,982
+  2019  Northern Arizona University       197,343
+  2018  Lowell Observatory                119,564
+  2018  Northern Arizona University       210,502
+  2017  Lowell Observatory                377,515
+  2017  Northern Arizona University       133,018
+  2016  Lowell Observatory              1,159,428
+  2015  Lowell Observatory                362,698
+  2015  Northern Arizona University       216,161
+  2014  Lowell Observatory                315,044
+  2014  Northern Arizona University        24,490
+  2013  Lowell Observatory                743,169
+  2013  Northern Arizona University        85,257
+  2012  Lowell Observatory                698,257
+  2012  Northern Arizona University       661,982
 ```
 ## SULI/CCI Interns
 From 2014-2016 (only years available), this district had 2 SULI/CCI interns
@@ -128,10 +137,10 @@ In the past 8 years, this district has received:<b> $1,936,929 </b>in NSF MPS gr
 ```
   Year  Institution                    Amount ($)
 ------  ---------------------------  ------------
-  2018  PLANETARY SCIENCE INSTITUTE       428,409
-  2017  PLANETARY SCIENCE INSTITUTE        65,798
-  2016  PLANETARY SCIENCE INSTITUTE       162,288
-  2013  UNIVERSITY OF ARIZONA           1,280,434
+  2018  Planetary Science Institute       428,409
+  2017  Planetary Science Institute        65,798
+  2016  Planetary Science Institute       162,288
+  2013  University Of Arizona           1,280,434
 ```
 ## SULI/CCI Interns
 ```
@@ -165,16 +174,15 @@ In the past 8 years, this district has received:<b> $52,807,907 </b>in NSF MPS g
 ```
   Year  Institution              Amount ($)
 ------  ---------------------  ------------
-  2019  UNIVERSITY OF ARIZONA        84,691
-  2018  REDACTED DUE TO PII         100,000
-  2018  UNIVERSITY OF ARIZONA     9,414,921
-  2017  PII REDACTED                200,000
-  2017  UNIVERSITY OF ARIZONA    10,968,894
-  2016  UNIVERSITY OF ARIZONA     7,982,523
-  2015  U OF ARIZONA              1,220,365
-  2015  UNIVERSITY OF ARIZONA     5,618,434
-  2014  UNIVERSITY OF ARIZONA     2,992,219
-  2013  UNIVERSITY OF ARIZONA    14,225,860
+  2019  University Of Arizona        84,691
+  2018  Redacted Due To Pii         100,000
+  2018  University Of Arizona     9,414,921
+  2017  Pii Redacted                200,000
+  2017  University Of Arizona    10,968,894
+  2016  University Of Arizona     7,982,523
+  2015  University Of Arizona     6,838,799
+  2014  University Of Arizona     2,992,219
+  2013  University Of Arizona    14,225,860
 ```
 ## SULI/CCI Interns
 From 2014-2016 (only years available), this district had 2 SULI/CCI interns
@@ -188,9 +196,6 @@ Summer 2015  Kira Rundel           University of Arizona  National Renewable Ene
 <a name="AZ-04"></a>
 [Back to top](#top)
 ## AZ-04 -- Rep. Paul A. Gosar (R) -- [Wikipedia](https://en.wikipedia.org/wiki/AZ-04)
-## Committees
-Paul A. Gosar is not on any of our key committees. 
-
 ## HEP Grants
 ```
 This district received no SC HEP grants from 2012-2019
@@ -222,8 +227,8 @@ In the past 8 years, this district has received:<b> $706,000 </b>in SC HEP grant
 ```
 Institution                 Amount ($)    Start    End  Principal Investigator    Project Title
 ------------------------  ------------  -------  -----  ------------------------  -----------------------------------------------------------------------
-ARIZONA STATE UNIVERSITY       140,000     2012   2014  Comfort                   Search for New Physics in Neutral Kaon Decays
-ARIZONA STATE UNIVERSITY       566,000     2012   2014  Krauss                    Theoretical Research at the High Energy Frontier:  Cosmology and Beyond
+Arizona State University       140,000     2012   2014  Comfort                   Search for New Physics in Neutral Kaon Decays
+Arizona State University       566,000     2012   2014  Krauss                    Theoretical Research at the High Energy Frontier:  Cosmology and Beyond
 ```
 ## SC Contracts
 ```
@@ -234,8 +239,8 @@ In the past 8 years, this district has received:<b> $7,272,658 </b>in NSF MPS gr
 ```
   Year  Institution                 Amount ($)
 ------  ------------------------  ------------
-  2018  REDACTED DUE TO PII            100,000
-  2012  ARIZONA STATE UNIVERSITY     7,172,658
+  2018  Redacted Due To Pii            100,000
+  2012  Arizona State University     7,172,658
 ```
 ## SULI/CCI Interns
 ```
@@ -245,9 +250,6 @@ This district had no SULI/CCI interns from 2014-2016 (only years available)
 <a name="AZ-06"></a>
 [Back to top](#top)
 ## AZ-06 -- Rep. David Schweikert (R) -- [Wikipedia](https://en.wikipedia.org/wiki/AZ-06)
-## Committees
-David Schweikert is not on any of our key committees. 
-
 ## HEP Grants
 ```
 This district received no SC HEP grants from 2012-2019
@@ -268,18 +270,15 @@ This district had no SULI/CCI interns from 2014-2016 (only years available)
 <a name="AZ-07"></a>
 [Back to top](#top)
 ## AZ-07 -- Rep. Ruben Gallego (D) -- [Wikipedia](https://en.wikipedia.org/wiki/AZ-07)
-## Committees
-Ruben Gallego is not on any of our key committees. 
-
 ## HEP Grants
 In the past 8 years, this district has received:<b> $2,451,000 </b>in SC HEP grants.
 ```
 Institution              Amount ($)    Start    End  Principal Investigator            Project Title
 ---------------------  ------------  -------  -----  --------------------------------  ------------------------------------------------------------------------------------------------------------------
-UNIVERSITY OF ARIZONA     1,000,000     2013   2014  Johns                             University of Arizona High Energy Physics Program
-UNIVERSITY OF ARIZONA             0     2013   2014  Johns                             BOOST 2013 Workshop Hosted by the University of Arizona
-UNIVERSITY OF ARIZONA     1,387,000     2012   2014  Rutherfoord, Sarcevic, Toussaint  University of Arizona High Energy Physics Program
-UNIVERSITY OF ARIZONA        64,000     2012   2014  Toussaint                         Searching for Physics Beyond the Std Model:  Strongly-Coupled Field Theories at the Intensity and Energy Frontiers
+University of Arizona     1,000,000     2013   2014  Johns                             University of Arizona High Energy Physics Program
+University of Arizona             0     2013   2014  Johns                             BOOST 2013 Workshop Hosted by the University of Arizona
+University of Arizona     1,387,000     2012   2014  Rutherfoord, Sarcevic, Toussaint  University of Arizona High Energy Physics Program
+University of Arizona        64,000     2012   2014  Toussaint                         Searching for Physics Beyond the Std Model:  Strongly-Coupled Field Theories at the Intensity and Energy Frontiers
 ```
 ## SC Contracts
 ```
@@ -290,8 +289,8 @@ In the past 8 years, this district has received:<b> $9,478,354 </b>in NSF MPS gr
 ```
   Year  Institution              Amount ($)
 ------  ---------------------  ------------
-  2013  UNIVERSITY OF ARIZONA       164,833
-  2012  UNIVERSITY OF ARIZONA     9,313,521
+  2013  University Of Arizona       164,833
+  2012  University Of Arizona     9,313,521
 ```
 ## SULI/CCI Interns
 ```
@@ -301,9 +300,6 @@ This district had no SULI/CCI interns from 2014-2016 (only years available)
 <a name="AZ-08"></a>
 [Back to top](#top)
 ## AZ-08 -- Rep. Debbie Lesko (R) -- [Wikipedia](https://en.wikipedia.org/wiki/AZ-08)
-## Committees
-Debbie Lesko is not on any of our key committees. 
-
 ## HEP Grants
 ```
 This district received no SC HEP grants from 2012-2019
@@ -324,9 +320,6 @@ This district had no SULI/CCI interns from 2014-2016 (only years available)
 <a name="AZ-09"></a>
 [Back to top](#top)
 ## AZ-09 -- Rep. Greg Stanton (D) -- [Wikipedia](https://en.wikipedia.org/wiki/AZ-09)
-## Committees
-Greg Stanton is not on any of our key committees. 
-
 ## HEP Grants
 In the past 8 years, this district has received:<b> $1,292,000 </b>in SC HEP grants.
 ```
@@ -348,16 +341,16 @@ In the past 8 years, this district has received:<b> $30,788,384 </b>in NSF MPS g
 ```
   Year  Institution                                   Amount ($)
 ------  ------------------------------------------  ------------
-  2019  ARIZONA STATE UNIVERSITY                         311,641
-  2018  ARIZONA STATE UNIVERSITY                       4,950,729
-  2018  MARICOPA COUNTY COMMUNITY COLLEGE DISTRICT        56,873
-  2018  REDACTED DUE TO PII                              100,000
-  2017  ARIZONA STATE UNIVERSITY                       6,487,472
-  2017  PII REDACTED                                     200,000
-  2016  ARIZONA STATE UNIVERSITY                       3,914,183
-  2015  ARIZONA STATE UNIVERSITY                       4,689,825
-  2014  ARIZONA STATE UNIVERSITY                       3,980,861
-  2013  ARIZONA STATE UNIVERSITY                       6,096,800
+  2019  Arizona State University                         311,641
+  2018  Arizona State University                       4,950,729
+  2018  Maricopa County Community College District        56,873
+  2018  Redacted Due To Pii                              100,000
+  2017  Arizona State University                       6,487,472
+  2017  Pii Redacted                                     200,000
+  2016  Arizona State University                       3,914,183
+  2015  Arizona State University                       4,689,825
+  2014  Arizona State University                       3,980,861
+  2013  Arizona State University                       6,096,800
 ```
 ## SULI/CCI Interns
 From 2014-2016 (only years available), this district had 8 SULI/CCI interns
