@@ -140,7 +140,7 @@ print '}'
 print '</style>'
 
 print '<div class="alert alert-info">'
-print 'Be sure to mark your chosen district as "claimed" in WHIPS before contacting any offices using this information! List current as of 3/12; 11:41PDT'
+print 'Be sure to mark your chosen district as "claimed" in WHIPS before contacting any offices using this information! List current as of 3/13; 17:54PDT'
 print '</div>'
 print '---'
 

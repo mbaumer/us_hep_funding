@@ -154,10 +154,11 @@ def get_district_grants(distcode):
     end = df['Year'].max().rename('End')+1
     end = end.replace(2019,'Ongoing')
     df = pd.concat([df.agg({'Project Title' : max, 'Amount ($)': sum}), start, end],axis=1).reset_index().sort_values('Start',ascending=False)[['Institution','Amount ($)', 'Start', 'End','Principal Investigator','Project Title']]
+    df_summary = df[['Institution','Amount ($)', 'Start', 'End','Principal Investigator']]
     print '```'
     print tabulate(df, showindex=False, headers=df.columns,floatfmt=',.0f')
     print '```'
-    return '${:,.0f}'.format(grants_by_district.get_group(distcode)['Amount ($)'].sum()),df.to_html(index=False).replace('\n',''),df.to_latex(index=False)
+    return '${:,.0f}'.format(grants_by_district.get_group(distcode)['Amount ($)'].sum()),df.to_html(index=False).replace('\n',''),df_summary.to_latex(index=False)
 
 def get_suli_students(distcode):
     print '## SULI/CCI Interns'
