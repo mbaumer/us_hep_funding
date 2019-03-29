@@ -37,9 +37,9 @@ In the past 8 years, this state has received:
 6 Office of Science contracts, totalling <b> $7,507,172</b>
 ```
   Year  Vendor           Amount ($)  Item
-------  -------------  ------------  -------------------------------------------------------------
-  2018  Tribalco, LLC     2,028,834  Radio And Television Communication Equipment, Except Airborne
-  2017  Tribalco, LLC     5,478,338  Radio And Television Communication Equipment, Except Airborne
+------  -------------  ------------  ----------------------------------------
+  2018  Tribalco, LLC     2,028,834  Radio And Television Communication Equip
+  2017  Tribalco, LLC     5,478,338  Radio And Television Communication Equip
 ```
 ## NSF MPS Grants
 In the past 8 years, this state has received:
@@ -239,9 +239,9 @@ In the past 8 years, this district has received:
 6 Office of Science contracts, totalling <b> $7,507,172</b>
 ```
   Year  Vendor           Amount ($)  Item
-------  -------------  ------------  -------------------------------------------------------------
-  2018  Tribalco, LLC     2,028,834  Radio And Television Communication Equipment, Except Airborne
-  2017  Tribalco, LLC     5,478,338  Radio And Television Communication Equipment, Except Airborne
+------  -------------  ------------  ----------------------------------------
+  2018  Tribalco, LLC     2,028,834  Radio And Television Communication Equip
+  2017  Tribalco, LLC     5,478,338  Radio And Television Communication Equip
 ```
 ## NSF MPS Grants
 In the past 8 years, this district has received:<b> $435,651 </b>in NSF MPS grants.

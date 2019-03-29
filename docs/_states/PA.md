@@ -27,18 +27,18 @@ Drexel University                 1,301,000
 In the past 8 years, this state has received:
 27 Office of Science contracts, totalling <b> $1,391,444</b>
 ```
-Vendor                                                         Amount ($)  Item
------------------------------------------------------------  ------------  -----------------------------------------------
-Thomson Reuters (Scientific) LLC                                  661,727  Newspapers And Periodicals
-Thomson Reuters (Scientific), Inc.                                381,910  Newspapers And Periodicals
-Iop Publishing Inc.                                               110,627  Education/Training- Other
-Thomson Reuters (Scientific) LLC                                   81,468  IT And Telecom- Web-Based Subscription
-Iop Publishing Inc.                                                59,620  IT And Telecom- Web-Based Subscription
-Society For Industrial And Applied Mathematics                     36,822  Newspapers And Periodicals
-American Assn For Cancer Res                                       29,552  Newspapers And Periodicals
-Taylor & Francis Inc                                               15,186  Books And Pamphlets
-Thomson Reuters (Markets) LLC                                       8,124  IT And Telecom- Web-Based Subscription
-National Federation Of Abstracting And Information Services         6,408  IT And Telecom- Other IT And Telecommunications
+Vendor                                      Amount ($)  Item
+----------------------------------------  ------------  ----------------------------------------
+Thomson Reuters (Scientific) LLC               661,727  Newspapers And Periodicals
+Thomson Reuters (Scientific), Inc.             381,910  Newspapers And Periodicals
+Iop Publishing Inc.                            110,627  Education/Training- Other
+Thomson Reuters (Scientific) LLC                81,468  IT And Telecom- Web-Based Subscription
+Iop Publishing Inc.                             59,620  IT And Telecom- Web-Based Subscription
+Society For Industrial And Applied Mathe        36,822  Newspapers And Periodicals
+American Assn For Cancer Res                    29,552  Newspapers And Periodicals
+Taylor & Francis Inc                            15,186  Books And Pamphlets
+Thomson Reuters (Markets) LLC                    8,124  IT And Telecom- Web-Based Subscription
+National Federation Of Abstracting And I         6,408  IT And Telecom- Other IT And Telecommuni
 ```
 ## NSF MPS Grants
 In the past 8 years, this state has received:
@@ -210,14 +210,14 @@ Drexel University                256,000     2012  2014     Lane                
 In the past 8 years, this district has received:
 17 Office of Science contracts, totalling <b> $1,176,459</b>
 ```
-Vendor                                                         Amount ($)  Item
------------------------------------------------------------  ------------  -----------------------------------------------
-Thomson Reuters (Scientific) LLC                                  661,727  Newspapers And Periodicals
-Thomson Reuters (Scientific), Inc.                                381,910  Newspapers And Periodicals
-Thomson Reuters (Scientific) LLC                                   81,468  IT And Telecom- Web-Based Subscription
-Society For Industrial And Applied Mathematics                     36,822  Newspapers And Periodicals
-Thomson Reuters (Markets) LLC                                       8,124  IT And Telecom- Web-Based Subscription
-National Federation Of Abstracting And Information Services         6,408  IT And Telecom- Other IT And Telecommunications
+Vendor                                      Amount ($)  Item
+----------------------------------------  ------------  ----------------------------------------
+Thomson Reuters (Scientific) LLC               661,727  Newspapers And Periodicals
+Thomson Reuters (Scientific), Inc.             381,910  Newspapers And Periodicals
+Thomson Reuters (Scientific) LLC                81,468  IT And Telecom- Web-Based Subscription
+Society For Industrial And Applied Mathe        36,822  Newspapers And Periodicals
+Thomson Reuters (Markets) LLC                    8,124  IT And Telecom- Web-Based Subscription
+National Federation Of Abstracting And I         6,408  IT And Telecom- Other IT And Telecommuni
 ```
 ## NSF MPS Grants
 In the past 8 years, this district has received:<b> $115,504,109 </b>in NSF MPS grants.

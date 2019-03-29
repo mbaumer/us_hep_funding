@@ -35,29 +35,49 @@ In the past 8 years, this state has received:
 In the past 8 years, this state has received:
 110 Office of Science contracts, totalling <b> $34,293,048</b>
 ```
-Vendor                                Amount ($)  Item
-----------------------------------  ------------  --------------------------------------------------
-Rolling Bay, LLC                      14,495,000  IT And Telecom- Facility Operation And Maintenance
-Appsential, LLC                       11,461,190  IT And Telecom- Other IT And Telecommunications
-Rer Solutions, Inc.                    4,451,486  Support- Professional: Other
-Exeter Associates, Inc.                  469,503  Support- Professional: Other
-Acer Exhibits And Events, LLC            415,429  Structural Shapes, Nonferrous Base Metal
-American Institute Of Physics Inc.       374,092  Newspapers And Periodicals
-Palmer Staffing Services Inc             242,882  Support- Management: Other
-Lehman, Daniel R.                        195,000  Support- Professional: Other
-New Tech Solutions, Inc.                 194,721  Information Technology Software
-Carahsoft Technology Corporation         144,650  IT And Telecom- Web-Based Subscription
-Cq-Roll Call, Inc.                       126,094  IT And Telecom- Web-Based Subscription
-Mythics, Inc                             123,690  Information Technology Software
-Contemporaries Inc                       123,520  Support- Management: Other
-Contemporaries, Inc.                     115,928  Support- Management: Other
-Clearshark, L.L.C.                        99,511  IT And Telecom- Other IT And Telecommunications
-Clearshark, L.L.C.                        95,893  ADP Software
-Brookfield Relocation Inc                 94,500  Support- Professional: Real Property Appraisals
-Management Analysis, Inc.                 91,469  Support- Management: Financial
-Midtown Personnel Inc                     64,003  Support- Management: Other
-American Physical Society, The            55,874  Newspapers And Periodicals
-and  40  other firms.
+Vendor                                      Amount ($)  Item
+----------------------------------------  ------------  ----------------------------------------
+Rolling Bay, LLC                            14,495,000  IT And Telecom- Facility Operation And M
+Appsential, LLC                             11,461,190  IT And Telecom- Other IT And Telecommuni
+Rer Solutions, Inc.                          4,451,486  Support- Professional: Other
+Exeter Associates, Inc.                        469,503  Support- Professional: Other
+Acer Exhibits And Events, LLC                  415,429  Structural Shapes, Nonferrous Base Metal
+American Institute Of Physics Inc.             374,092  Newspapers And Periodicals
+Palmer Staffing Services Inc                   242,882  Support- Management: Other
+Lehman, Daniel R.                              195,000  Support- Professional: Other
+New Tech Solutions, Inc.                       194,721  Information Technology Software
+Carahsoft Technology Corporation               144,650  IT And Telecom- Web-Based Subscription
+Cq-Roll Call, Inc.                             126,094  IT And Telecom- Web-Based Subscription
+Mythics, Inc                                   123,690  Information Technology Software
+Contemporaries Inc                             123,520  Support- Management: Other
+Contemporaries, Inc.                           115,928  Support- Management: Other
+Clearshark, L.L.C.                              99,511  IT And Telecom- Other IT And Telecommuni
+Clearshark, L.L.C.                              95,893  ADP Software
+Brookfield Relocation Inc                       94,500  Support- Professional: Real Property App
+Management Analysis, Inc.                       91,469  Support- Management: Financial
+Midtown Personnel Inc                           64,003  Support- Management: Other
+American Physical Society, The                  55,874  Newspapers And Periodicals
+Robertsinternational, LLC                       51,050  Support- Professional: Other
+1 Source Consulting, Inc.                       49,072  IT And Telecom- Facility Operation And M
+4 Star Technologies, Inc.                       46,695  IT And Telecom- Integrated Hardware/Soft
+IT Navigation, LLC                              43,200  ADP Software
+Lmc Data Corporation                            39,281  IT And Telecom- Other IT And Telecommuni
+Environment & Energy Publishing, LLC            37,825  IT And Telecom- Web-Based Subscription
+Patriot Technologies, Inc.                      37,821  ADP Software
+Deque Systems Inc.                              35,000  Support- Professional: Other
+Clearshark, L.L.C.                              34,702  IT And Telecom- Cyber Security And Data
+Newswise                                        32,000  IT And Telecom- Web-Based Subscription
+American Physical Society, The                  31,278  Photo/Map/Print/Publication- Other
+American Physical Society, The                  29,790  Photo/Map/Print/Publication- Aerial Phot
+Alliance Technology Group, LLC                  29,355  Information Technology Support Equipment
+Hilton Hotel Rockville                          28,760  Education/Training- Training/Curriculum
+Patriot Technologies Inc                        24,360  IT And Telecom- Annual Software Maintena
+American Association For The Advancement        23,102  IT And Telecom- Web-Based Subscription
+Govdelivery, Inc.                               22,500  Information Technology Software
+Alliance Technology Group, LLC                  18,445  ADP Software
+Clearshark, L.L.C.                              15,790  ADPE System Configuration
+Stuart L. Plotnick, LLC                         13,000  Support- Professional: Human Resources
+and  20  other firms.
 ```
 ## NSF MPS Grants
 In the past 8 years, this state has received:
@@ -122,9 +142,9 @@ In the past 8 years, this district has received:
 1 Office of Science contracts, totalling <b> $94,500</b>
 ```
   Year  Vendor                       Amount ($)  Item
-------  -------------------------  ------------  -----------------------------------------------
-  2017  Brookfield Relocation Inc        16,750  Support- Professional: Real Property Appraisals
-  2016  Brookfield Relocation Inc        77,750  Support- Professional: Real Property Appraisals
+------  -------------------------  ------------  ----------------------------------------
+  2017  Brookfield Relocation Inc        16,750  Support- Professional: Real Property App
+  2016  Brookfield Relocation Inc        77,750  Support- Professional: Real Property App
 ```
 ## NSF MPS Grants
 In the past 8 years, this district has received:<b> $764,620 </b>in NSF MPS grants.
@@ -154,11 +174,11 @@ In the past 8 years, this district has received:
 19 Office of Science contracts, totalling <b> $738,472</b>
 ```
 Vendor                            Amount ($)  Item
-------------------------------  ------------  -----------------------------------------------
+------------------------------  ------------  ----------------------------------------
 Acer Exhibits And Events, LLC        415,429  Structural Shapes, Nonferrous Base Metal
-Clearshark, L.L.C.                    99,511  IT And Telecom- Other IT And Telecommunications
+Clearshark, L.L.C.                    99,511  IT And Telecom- Other IT And Telecommuni
 Clearshark, L.L.C.                    95,893  ADP Software
-Clearshark, L.L.C.                    34,702  IT And Telecom- Cyber Security And Data Backup
+Clearshark, L.L.C.                    34,702  IT And Telecom- Cyber Security And Data
 Alliance Technology Group, LLC        29,355  Information Technology Support Equipment
 Alliance Technology Group, LLC        18,445  ADP Software
 Clearshark, L.L.C.                    15,790  ADPE System Configuration
@@ -198,9 +218,9 @@ In the past 8 years, this district has received:
 2 Office of Science contracts, totalling <b> $16,811</b>
 ```
   Year  Vendor                                   Amount ($)  Item
-------  -------------------------------------  ------------  ---------------------------------------------------------
+------  -------------------------------------  ------------  ----------------------------------------
   2014  Convergence Technology Consulting LLC         7,481  ADP Software
-  2014  Immersion Consulting LLC                      9,330  IT And Telecom- Annual Software Maintenance Service Plans
+  2014  Immersion Consulting LLC                      9,330  IT And Telecom- Annual Software Maintena
 ```
 ## NSF MPS Grants
 In the past 8 years, this district has received:<b> $1,302,395 </b>in NSF MPS grants.
@@ -229,17 +249,17 @@ This district received no SC HEP grants from 2012-2019
 In the past 8 years, this district has received:
 11 Office of Science contracts, totalling <b> $2,552,249</b>
 ```
-Vendor                                       Amount ($)  Item
------------------------------------------  ------------  --------------------------------------------------
-Rolling Bay, LLC                              2,150,000  IT And Telecom- Facility Operation And Maintenance
-Contemporaries, Inc.                            108,160  Support- Management: Other
-Management Analysis, Inc.                        91,469  Support- Management: Financial
-American Institute Of Physics Inc.               81,199  Newspapers And Periodicals
-1 Source Consulting, Inc.                        49,072  IT And Telecom- Facility Operation And Maintenance
-Deque Systems Inc.                               35,000  Support- Professional: Other
-American Physical Society, The                   27,140  Newspapers And Periodicals
-Grm Information Management Services, Inc.         7,059  IT And Telecom- Data Centers And Storage
-American Society Of Plant Biologists              3,150  Newspapers And Periodicals
+Vendor                                      Amount ($)  Item
+----------------------------------------  ------------  ----------------------------------------
+Rolling Bay, LLC                             2,150,000  IT And Telecom- Facility Operation And M
+Contemporaries, Inc.                           108,160  Support- Management: Other
+Management Analysis, Inc.                       91,469  Support- Management: Financial
+American Institute Of Physics Inc.              81,199  Newspapers And Periodicals
+1 Source Consulting, Inc.                       49,072  IT And Telecom- Facility Operation And M
+Deque Systems Inc.                              35,000  Support- Professional: Other
+American Physical Society, The                  27,140  Newspapers And Periodicals
+Grm Information Management Services, Inc         7,059  IT And Telecom- Data Centers And Storage
+American Society Of Plant Biologists             3,150  Newspapers And Periodicals
 ```
 ## NSF MPS Grants
 ```
@@ -285,12 +305,12 @@ In the past 8 years, this district has received:
 9 Office of Science contracts, totalling <b> $382,695</b>
 ```
   Year  Vendor                                Amount ($)  Item
-------  ----------------------------------  ------------  ------------------------------------------------
+------  ----------------------------------  ------------  ----------------------------------------
   2015  American Institute Of Physics Inc.        57,756  Newspapers And Periodicals
   2015  American Physical Society, The            31,278  Photo/Map/Print/Publication- Other
   2014  American Institute Of Physics Inc.        53,190  Newspapers And Periodicals
   2014  American Physical Society, The            28,734  Newspapers And Periodicals
-  2014  American Physical Society, The            29,790  Photo/Map/Print/Publication- Aerial Photographic
+  2014  American Physical Society, The            29,790  Photo/Map/Print/Publication- Aerial Phot
   2013  American Institute Of Physics Inc.        46,340  Newspapers And Periodicals
   2012  American Institute Of Physics Inc.       135,607  Newspapers And Periodicals
 ```
@@ -356,29 +376,48 @@ This district received no SC HEP grants from 2012-2019
 In the past 8 years, this district has received:
 61 Office of Science contracts, totalling <b> $29,937,406</b>
 ```
-Vendor                                                 Amount ($)  Item
----------------------------------------------------  ------------  ---------------------------------------------------------------------------------------
-Rolling Bay, LLC                                       12,345,000  IT And Telecom- Facility Operation And Maintenance
-Appsential, LLC                                        11,461,190  IT And Telecom- Other IT And Telecommunications
-Rer Solutions, Inc.                                     4,451,486  Support- Professional: Other
-Palmer Staffing Services Inc                              242,882  Support- Management: Other
-Lehman, Daniel R.                                         195,000  Support- Professional: Other
-New Tech Solutions, Inc.                                  194,721  Information Technology Software
-Carahsoft Technology Corporation                          144,650  IT And Telecom- Web-Based Subscription
-Cq-Roll Call, Inc.                                        126,094  IT And Telecom- Web-Based Subscription
-Mythics, Inc                                              123,690  Information Technology Software
-Contemporaries Inc                                        123,520  Support- Management: Other
-Midtown Personnel Inc                                      64,003  Support- Management: Other
-4 Star Technologies, Inc.                                  46,695  IT And Telecom- Integrated Hardware/Software/Services Solutions, Predominantly Services
-IT Navigation, LLC                                         43,200  ADP Software
-Lmc Data Corporation                                       39,281  IT And Telecom- Other IT And Telecommunications
-Environment & Energy Publishing, LLC                       37,825  IT And Telecom- Web-Based Subscription
-Patriot Technologies, Inc.                                 37,821  ADP Software
-Newswise                                                   32,000  IT And Telecom- Web-Based Subscription
-Patriot Technologies Inc                                   24,360  IT And Telecom- Annual Software Maintenance Service Plans
-American Association For The Advancement Of Science        23,102  IT And Telecom- Web-Based Subscription
-Govdelivery, Inc.                                          22,500  Information Technology Software
-and  20  other firms.
+Vendor                                      Amount ($)  Item
+----------------------------------------  ------------  ----------------------------------------
+Rolling Bay, LLC                            12,345,000  IT And Telecom- Facility Operation And M
+Appsential, LLC                             11,461,190  IT And Telecom- Other IT And Telecommuni
+Rer Solutions, Inc.                          4,451,486  Support- Professional: Other
+Palmer Staffing Services Inc                   242,882  Support- Management: Other
+Lehman, Daniel R.                              195,000  Support- Professional: Other
+New Tech Solutions, Inc.                       194,721  Information Technology Software
+Carahsoft Technology Corporation               144,650  IT And Telecom- Web-Based Subscription
+Cq-Roll Call, Inc.                             126,094  IT And Telecom- Web-Based Subscription
+Mythics, Inc                                   123,690  Information Technology Software
+Contemporaries Inc                             123,520  Support- Management: Other
+Midtown Personnel Inc                           64,003  Support- Management: Other
+4 Star Technologies, Inc.                       46,695  IT And Telecom- Integrated Hardware/Soft
+IT Navigation, LLC                              43,200  ADP Software
+Lmc Data Corporation                            39,281  IT And Telecom- Other IT And Telecommuni
+Environment & Energy Publishing, LLC            37,825  IT And Telecom- Web-Based Subscription
+Patriot Technologies, Inc.                      37,821  ADP Software
+Newswise                                        32,000  IT And Telecom- Web-Based Subscription
+Patriot Technologies Inc                        24,360  IT And Telecom- Annual Software Maintena
+American Association For The Advancement        23,102  IT And Telecom- Web-Based Subscription
+Govdelivery, Inc.                               22,500  Information Technology Software
+Stuart L. Plotnick, LLC                         13,000  Support- Professional: Human Resources
+Planet Technologies, Inc.                       12,300  Information Technology Software
+Sterling Computers Corporation                  11,420  IT And Telecom- Cyber Security And Data
+Govdelivery, LLC                                10,700  Information Technology Software
+Lrp Publications, Inc.                           9,650  Books And Pamphlets
+Safari Micro Government Solutions, LLC           8,695  Information Technology Input/Output And
+Ecovate Inc.                                     8,000  IT And Telecom- Other IT And Telecommuni
+Dlt Solutions, LLC                               7,946  Information Technology Software
+Contemporaries, Inc.                             7,768  Support- Management: Other
+Intellipeak Solutions Inc                        7,756  Information Technology Software
+Four Points Technology, L.L.C.                   7,698  Information Technology Input/Output And
+Agsi, LLC                                        7,170  Information Technology Software
+Software Artisans, Inc.                          6,919  Information Technology Software
+Medex Assistance Corporation                     6,000  Medical- General Health Care
+Alvarez LLC                                      5,940  Information Technology Software
+IT Federal Sales, LLC                            5,250  Information Technology Software
+Ecovate Inc.                                     5,000  Support- Professional: Communications
+Westwind Computer Products, Inc.                 4,571  IT And Telecom- Annual Hardware Maintena
+Better Direct, LLC                               4,563  Information Technology Input/Output And
+Westwind Computer Products, Inc.                 3,823  Information Technology Input/Output And
 ```
 ## NSF MPS Grants
 In the past 8 years, this district has received:<b> $39,449 </b>in NSF MPS grants.
@@ -471,13 +510,13 @@ This district received no SC HEP grants from 2012-2019
 In the past 8 years, this district has received:
 7 Office of Science contracts, totalling <b> $101,412</b>
 ```
-Vendor                                                     Amount ($)  Item
--------------------------------------------------------  ------------  ---------------------------------------------------------------
-Robertsinternational, LLC                                      51,050  Support- Professional: Other
-Hilton Hotel Rockville                                         28,760  Education/Training- Training/Curriculum Development
-American Society For Biochemistry And Molecular Biology         8,322  R&D- General Science/Technology: Life Sciences (Basic Research)
-American Society For Biochemistry And Molecular Biology         8,280  Newspapers And Periodicals
-Orcid, Inc.                                                     5,000  Support- Administrative: Information Retrieval
+Vendor                                      Amount ($)  Item
+----------------------------------------  ------------  ----------------------------------------
+Robertsinternational, LLC                       51,050  Support- Professional: Other
+Hilton Hotel Rockville                          28,760  Education/Training- Training/Curriculum
+American Society For Biochemistry And Mo         8,322  R&D- General Science/Technology: Life Sc
+American Society For Biochemistry And Mo         8,280  Newspapers And Periodicals
+Orcid, Inc.                                      5,000  Support- Administrative: Information Ret
 ```
 ## NSF MPS Grants
 In the past 8 years, this district has received:<b> $518,306 </b>in NSF MPS grants.

@@ -36,29 +36,49 @@ University of Illinois - Chicago                439,000
 In the past 8 years, this state has received:
 200 Office of Science contracts, totalling <b> $9,237,691,772</b>
 ```
-Vendor                                             Amount ($)  Item
-----------------------------------------------  -------------  ---------------------------------------------------------------------------------
-Uchicago Argonne, LLC                           5,875,805,693  Operation Of Govt R&D GOCO Facilities
-Fermi Research Alliance, LLC                    3,306,490,680  Operation Of Govt R&D GOCO Facilities
-22Nd Century Technologies Inc.                     33,939,099  IT And Telecom- Facility Operation And Maintenance
-Cni Technical Services, LLC                         8,379,339  IT And Telecom- Facility Operation And Maintenance
-Kairos Consulting Worldwide, LLC                    5,627,954  Special Studies/Analysis- Organization/Administrative/Personnel
-Spectra Tech, Inc.                                  3,270,696  Support- Professional: Program Management/Support
-Kairos Consulting Worldwide, LLC                    1,125,180  Support- Management: Contract/Procurement/Acquisition Support
-Thermo Electron North America LLC                     294,276  Maint/Repair/Rebuild Of Equipment- Electrical And Electronic Equipment Components
-Jewish Vocational Services & Employment Center        242,318  Support- Administrative: Mailing/Distribution
-Affigent, LLC                                         137,530  ADP Supplies
-Affigent, LLC                                         137,530  ADP Software
-Graduate School                                       135,226  Education/Training- General
-Spectromat Massenspektrometer Gmbh                     95,550  Hazard-Detecting Instruments And Apparatus
-Management Concepts, Inc.                              91,854  Support- Professional: Personal Care (Non-Medical)
-H A King And Associates Inc. (0334)                    79,775  Support- Management: Data Collection
-Canberra Industries, Inc.                              62,300  Laboratory Equipment And Supplies
-Ergogenesis, LLC                                       60,500  Office Furniture
-Spex Certiprep, Inc.                                   58,739  Electrical And Electronic Properties Measuring And Testing Instruments
-Skyline Advanced Technology Services                   57,722  ADP Software
-Jewish Vocational Service & Employment Center          56,511  Support- Administrative: Mailing/Distribution
-and  76  other firms.
+Vendor                                       Amount ($)  Item
+----------------------------------------  -------------  ----------------------------------------
+Uchicago Argonne, LLC                     5,875,805,693  Operation Of Govt R&D GOCO Facilities
+Fermi Research Alliance, LLC              3,306,490,680  Operation Of Govt R&D GOCO Facilities
+22Nd Century Technologies Inc.               33,939,099  IT And Telecom- Facility Operation And M
+Cni Technical Services, LLC                   8,379,339  IT And Telecom- Facility Operation And M
+Kairos Consulting Worldwide, LLC              5,627,954  Special Studies/Analysis- Organization/A
+Spectra Tech, Inc.                            3,270,696  Support- Professional: Program Managemen
+Kairos Consulting Worldwide, LLC              1,125,180  Support- Management: Contract/Procuremen
+Thermo Electron North America LLC               294,276  Maint/Repair/Rebuild Of Equipment- Elect
+Jewish Vocational Services & Employment         242,318  Support- Administrative: Mailing/Distrib
+Affigent, LLC                                   137,530  ADP Supplies
+Affigent, LLC                                   137,530  ADP Software
+Graduate School                                 135,226  Education/Training- General
+Spectromat Massenspektrometer Gmbh               95,550  Hazard-Detecting Instruments And Apparat
+Management Concepts, Inc.                        91,854  Support- Professional: Personal Care (No
+H A King And Associates Inc. (0334)              79,775  Support- Management: Data Collection
+Canberra Industries, Inc.                        62,300  Laboratory Equipment And Supplies
+Ergogenesis, LLC                                 60,500  Office Furniture
+Spex Certiprep, Inc.                             58,739  Electrical And Electronic Properties Mea
+Skyline Advanced Technology Services             57,722  ADP Software
+Jewish Vocational Service & Employment C         56,511  Support- Administrative: Mailing/Distrib
+Tri Industries Nfp                               55,567  Office Supplies
+Thermo Electron North America LLC                48,460  Laboratory Equipment And Supplies
+Recall Total Information Management              48,000  R&D- Defense Other: Services (Management
+Proquis Inc.                                     47,635  ADP Support Equipment
+Graduate School                                  45,805  Education/Training- Other
+Sprint Communications Company L.P.               45,000  IT And Telecom- Other IT And Telecommuni
+Relx Inc.                                        41,551  IT And Telecom- Teleprocessing, Timeshar
+Gra, Inc.                                        36,916  Support- Professional: Human Resources
+Advanced Measurement Technology, Inc.            36,674  Laboratory Equipment And Supplies
+Mad Security, LLC                                33,298  ADP Software
+Merlin International, Inc.                       32,721  ADP Supplies
+Pitney Bowes Inc.                                32,110  Office Devices And Accessories
+Patsnap (Uk) Ltd                                 31,875  Support- Professional: Patent And Tradem
+Red River Computer Co., Inc.                     30,756  ADP Supplies
+Iron Mountain Information Management, LL         28,500  Housekeeping- Warehousing/Storage
+Safari Micro Government Solutions, LLC           28,156  Information Technology Input/Output And
+Patsnap Pte Ltd                                  25,000  Support- Professional: Patent And Tradem
+Thermo Electron North America LLC                24,635  Hazard-Detecting Instruments And Apparat
+Iron Mountain Inc.                               24,200  Housekeeping- Warehousing/Storage
+Canberra Industries, Inc.                        24,199  Hazard-Detecting Instruments And Apparat
+and  56  other firms.
 ```
 ## NSF MPS Grants
 In the past 8 years, this state has received:
@@ -288,29 +308,49 @@ This district received no SC HEP grants from 2012-2019
 In the past 8 years, this district has received:
 123 Office of Science contracts, totalling <b> $4,906,338,170</b>
 ```
-Vendor                                             Amount ($)  Item
-----------------------------------------------  -------------  ---------------------------------------------------------------------------------
-Uchicago Argonne, LLC                           4,858,613,336  Operation Of Govt R&D GOCO Facilities
-22Nd Century Technologies Inc.                     33,939,099  IT And Telecom- Facility Operation And Maintenance
-Cni Technical Services, LLC                         4,699,202  IT And Telecom- Facility Operation And Maintenance
-Kairos Consulting Worldwide, LLC                    4,639,743  Special Studies/Analysis- Organization/Administrative/Personnel
-Spectra Tech, Inc.                                  1,894,775  Support- Professional: Program Management/Support
-Kairos Consulting Worldwide, LLC                      647,389  Support- Management: Contract/Procurement/Acquisition Support
-Thermo Electron North America LLC                     178,144  Maint/Repair/Rebuild Of Equipment- Electrical And Electronic Equipment Components
-Affigent, LLC                                         137,530  ADP Software
-Jewish Vocational Services & Employment Center        120,160  Support- Administrative: Mailing/Distribution
-H A King And Associates Inc. (0334)                    79,775  Support- Management: Data Collection
-Management Concepts, Inc.                              75,705  Support- Professional: Personal Care (Non-Medical)
-Canberra Industries, Inc.                              62,300  Laboratory Equipment And Supplies
-Spex Certiprep, Inc.                                   58,739  Electrical And Electronic Properties Measuring And Testing Instruments
-Jewish Vocational Service & Employment Center          56,511  Support- Administrative: Mailing/Distribution
-Tri Industries Nfp                                     55,567  Office Supplies
-Thermo Electron North America LLC                      48,460  Laboratory Equipment And Supplies
-Recall Total Information Management                    48,000  R&D- Defense Other: Services (Management/Support)
-Proquis Inc.                                           47,635  ADP Support Equipment
-Spectromat Massenspektrometer Gmbh                     46,450  Hazard-Detecting Instruments And Apparatus
-Graduate School                                        45,805  Education/Training- Other
-and  50  other firms.
+Vendor                                       Amount ($)  Item
+----------------------------------------  -------------  ----------------------------------------
+Uchicago Argonne, LLC                     4,858,613,336  Operation Of Govt R&D GOCO Facilities
+22Nd Century Technologies Inc.               33,939,099  IT And Telecom- Facility Operation And M
+Cni Technical Services, LLC                   4,699,202  IT And Telecom- Facility Operation And M
+Kairos Consulting Worldwide, LLC              4,639,743  Special Studies/Analysis- Organization/A
+Spectra Tech, Inc.                            1,894,775  Support- Professional: Program Managemen
+Kairos Consulting Worldwide, LLC                647,389  Support- Management: Contract/Procuremen
+Thermo Electron North America LLC               178,144  Maint/Repair/Rebuild Of Equipment- Elect
+Affigent, LLC                                   137,530  ADP Software
+Jewish Vocational Services & Employment         120,160  Support- Administrative: Mailing/Distrib
+H A King And Associates Inc. (0334)              79,775  Support- Management: Data Collection
+Management Concepts, Inc.                        75,705  Support- Professional: Personal Care (No
+Canberra Industries, Inc.                        62,300  Laboratory Equipment And Supplies
+Spex Certiprep, Inc.                             58,739  Electrical And Electronic Properties Mea
+Jewish Vocational Service & Employment C         56,511  Support- Administrative: Mailing/Distrib
+Tri Industries Nfp                               55,567  Office Supplies
+Thermo Electron North America LLC                48,460  Laboratory Equipment And Supplies
+Recall Total Information Management              48,000  R&D- Defense Other: Services (Management
+Proquis Inc.                                     47,635  ADP Support Equipment
+Spectromat Massenspektrometer Gmbh               46,450  Hazard-Detecting Instruments And Apparat
+Graduate School                                  45,805  Education/Training- Other
+Relx Inc.                                        41,551  IT And Telecom- Teleprocessing, Timeshar
+Graduate School                                  39,405  Education/Training- General
+Merlin International, Inc.                       32,721  ADP Supplies
+Pitney Bowes Inc.                                32,110  Office Devices And Accessories
+Patsnap (Uk) Ltd                                 31,875  Support- Professional: Patent And Tradem
+Red River Computer Co., Inc.                     30,756  ADP Supplies
+Iron Mountain Information Management, LL         28,500  Housekeeping- Warehousing/Storage
+Safari Micro Government Solutions, LLC           28,156  Information Technology Input/Output And
+Patsnap Pte Ltd                                  25,000  Support- Professional: Patent And Tradem
+Thermo Electron North America LLC                24,635  Hazard-Detecting Instruments And Apparat
+Iron Mountain Inc.                               24,200  Housekeeping- Warehousing/Storage
+Blue Tech Inc.                                   23,530  ADP Supplies
+Technical Communities, Inc.                      22,798  Water Purification Equipment
+American Association For Lab Accredation         22,663  Special Studies/Analysis- Other
+Royal Media Network, Inc.                        22,397  Office Furniture
+International Business Machines Corporat         21,304  ADP Supplies
+Npi, Inc.                                        18,699  Education/Training- General
+Advanced Measurement Technology, Inc.            18,608  Laboratory Equipment And Supplies
+Comskil Inc                                      18,288  Information Technology Software
+Canberra Industries, Inc.                        16,310  Miscellaneous Electric Power And Distrib
+and  30  other firms.
 ```
 ## NSF MPS Grants
 ```
@@ -454,13 +494,13 @@ University of Illinois - Chicago       201,000     2012  2014     Keung         
 In the past 8 years, this district has received:
 3 Office of Science contracts, totalling <b> $147,591</b>
 ```
-  Year  Vendor                                            Amount ($)  Item
-------  ----------------------------------------------  ------------  -------------------------------------------------------------
-  2013  Jewish Vocational Services & Employment Center        59,016  Support- Administrative: Mailing/Distribution
-  2013  Kairos Consulting Worldwide, LLC                         899  Support- Management: Contract/Procurement/Acquisition Support
-  2013  Tab Products Co, LLC                                  10,603  Cabinets, Lockers, Bins, And Shelving
-  2012  Jewish Vocational Services & Employment Center        63,142  Support- Administrative: Mailing/Distribution
-  2012  Kairos Consulting Worldwide, LLC                      13,931  Support- Management: Contract/Procurement/Acquisition Support
+  Year  Vendor                                     Amount ($)  Item
+------  ---------------------------------------  ------------  ----------------------------------------
+  2013  Jewish Vocational Services & Employment        59,016  Support- Administrative: Mailing/Distrib
+  2013  Kairos Consulting Worldwide, LLC                  899  Support- Management: Contract/Procuremen
+  2013  Tab Products Co, LLC                           10,603  Cabinets, Lockers, Bins, And Shelving
+  2012  Jewish Vocational Services & Employment        63,142  Support- Administrative: Mailing/Distrib
+  2012  Kairos Consulting Worldwide, LLC               13,931  Support- Management: Contract/Procuremen
 ```
 ## NSF MPS Grants
 In the past 8 years, this district has received:<b> $32,330,065 </b>in NSF MPS grants.
@@ -638,11 +678,11 @@ This district received no SC HEP grants from 2012-2019
 In the past 8 years, this district has received:
 3 Office of Science contracts, totalling <b> $187,110</b>
 ```
-  Year  Vendor                                           Amount ($)  Item
-------  ---------------------------------------------  ------------  -------------------------------------------------------------
-  2014  Management Concepts, Inc.                            16,149  Support- Professional: Personal Care (Non-Medical)
-  2013  Energy Solutions Performance Strategies, Inc.         8,000  Education/Training- Other
-  2013  Kairos Consulting Worldwide, LLC                    162,961  Support- Management: Contract/Procurement/Acquisition Support
+  Year  Vendor                                      Amount ($)  Item
+------  ----------------------------------------  ------------  ----------------------------------------
+  2014  Management Concepts, Inc.                       16,149  Support- Professional: Personal Care (No
+  2013  Energy Solutions Performance Strategies,         8,000  Education/Training- Other
+  2013  Kairos Consulting Worldwide, LLC               162,961  Support- Management: Contract/Procuremen
 ```
 ## NSF MPS Grants
 In the past 8 years, this district has received:<b> $1,405,022 </b>in NSF MPS grants.
@@ -722,29 +762,49 @@ University of Illinois - Urbana-Champaign     1,733,000     2014  2015     Thale
 In the past 8 years, this district has received:
 73 Office of Science contracts, totalling <b> $1,024,498,295</b>
 ```
-Vendor                                    Amount ($)  Item
--------------------------------------  -------------  ---------------------------------------------------------------------------------
-Uchicago Argonne, LLC                  1,017,192,357  Operation Of Govt R&D GOCO Facilities
-Cni Technical Services, LLC                3,680,137  IT And Telecom- Facility Operation And Maintenance
-Spectra Tech, Inc.                         1,375,921  Support- Professional: Program Management/Support
-Kairos Consulting Worldwide, LLC             988,211  Special Studies/Analysis- Organization/Administrative/Personnel
-Kairos Consulting Worldwide, LLC             300,000  Support- Management: Contract/Procurement/Acquisition Support
-Affigent, LLC                                137,530  ADP Supplies
-Thermo Electron North America LLC            116,132  Maint/Repair/Rebuild Of Equipment- Electrical And Electronic Equipment Components
-Graduate School                               95,821  Education/Training- General
-Skyline Advanced Technology Services          57,722  ADP Software
-Ergogenesis, LLC                              56,800  Office Furniture
-Spectromat Massenspektrometer Gmbh            49,100  Hazard-Detecting Instruments And Apparatus
-Sprint Communications Company L.P.            45,000  IT And Telecom- Other IT And Telecommunications
-Gra, Inc.                                     36,916  Support- Professional: Human Resources
-Mad Security, LLC                             33,298  ADP Software
-Canberra Industries, Inc.                     24,199  Hazard-Detecting Instruments And Apparatus
-Directions Training Center, Inc.              23,025  Education/Training- Training/Curriculum Development
-Triad Technology Partners, LLC                19,931  ADP Supplies
-Klimas, Michael                               19,576  Support- Professional: Other
-Advanced Measurement Technology, Inc.         18,066  Laboratory Equipment And Supplies
-Thermo Electron North America LLC             14,545  Quality Control- Electrical And Electronic Equipment Components
-and  23  other firms.
+Vendor                                      Amount ($)  Item
+---------------------------------------  -------------  ----------------------------------------
+Uchicago Argonne, LLC                    1,017,192,357  Operation Of Govt R&D GOCO Facilities
+Cni Technical Services, LLC                  3,680,137  IT And Telecom- Facility Operation And M
+Spectra Tech, Inc.                           1,375,921  Support- Professional: Program Managemen
+Kairos Consulting Worldwide, LLC               988,211  Special Studies/Analysis- Organization/A
+Kairos Consulting Worldwide, LLC               300,000  Support- Management: Contract/Procuremen
+Affigent, LLC                                  137,530  ADP Supplies
+Thermo Electron North America LLC              116,132  Maint/Repair/Rebuild Of Equipment- Elect
+Graduate School                                 95,821  Education/Training- General
+Skyline Advanced Technology Services            57,722  ADP Software
+Ergogenesis, LLC                                56,800  Office Furniture
+Spectromat Massenspektrometer Gmbh              49,100  Hazard-Detecting Instruments And Apparat
+Sprint Communications Company L.P.              45,000  IT And Telecom- Other IT And Telecommuni
+Gra, Inc.                                       36,916  Support- Professional: Human Resources
+Mad Security, LLC                               33,298  ADP Software
+Canberra Industries, Inc.                       24,199  Hazard-Detecting Instruments And Apparat
+Directions Training Center, Inc.                23,025  Education/Training- Training/Curriculum
+Triad Technology Partners, LLC                  19,931  ADP Supplies
+Klimas, Michael                                 19,576  Support- Professional: Other
+Advanced Measurement Technology, Inc.           18,066  Laboratory Equipment And Supplies
+Thermo Electron North America LLC               14,545  Quality Control- Electrical And Electron
+Lumension Security, Inc.                        12,458  ADP Supplies
+Proquis Inc.                                    11,920  ADP Software
+Four Points Technology, L.L.C.                  11,430  Mini And Micro Computer Control Devices
+Equal Employment Opportunity Commission         10,163  Education/Training- Other
+Eri Economic Research Institute                  9,978  ADP Software
+Gra, Inc.                                        8,835  Education/Training- General
+Terrace Interiors, Inc                           8,751  Office Furniture
+Syncsort Inc.                                    8,451  ADP Software
+Mettler-Toledo, Inc.                             8,275  Maint/Repair/Rebuild Of Equipment- Instr
+Agsi, LLC                                        8,216  Mini And Micro Computer Control Devices
+Four Points Technology, L.L.C.                   7,392  IT And Telecom- Facility Operation And M
+Four Points Technology, L.L.C.                   7,090  ADP Supplies
+United Parcel Service Inc. (Oh) (2075)           7,000  Support- Administrative: Mailing/Distrib
+Intelligent Decisions, Inc.                      6,935  ADP Components
+Computerplus Sales & Service, Inc.               6,627  ADP Supplies
+Steelcase Inc.                                   6,227  Office Furniture
+Four Points Technology, L.L.C.                   6,219  ADP Software
+Lrp Publications, Inc.                           5,780  IT And Telecom- Web-Based Subscription
+Lrp Publications, Inc.                           5,780  ADP Supplies
+Citrix Online LLC                                5,749  ADP Supplies
+and  3  other firms.
 ```
 ## NSF MPS Grants
 In the past 8 years, this district has received:<b> $119,372,138 </b>in NSF MPS grants.

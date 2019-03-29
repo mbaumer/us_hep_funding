@@ -35,17 +35,17 @@ In the past 8 years, this state has received:
 In the past 8 years, this state has received:
 2 Office of Science contracts, totalling <b> $406,626,657</b>
 ```
-  Year  Vendor                                        Amount ($)  Item
-------  ------------------------------------------  ------------  ----------------------------------------
-  2019  Iowa State University Equities Corporation    15,037,310  Operation Of Govt R&D GOCO Facilities
-  2018  Iowa State University Equities Corporation    61,478,835  Operation Of Govt R&D GOCO Facilities
-  2017  Iowa State University Equities Corporation    60,308,158  Operation Of Govt R&D GOCO Facilities
-  2016  Iowa State University Equities Corporation    61,876,446  Operation Of Govt R&D GOCO Facilities
-  2015  Iowa State University Equities Corporation    53,582,329  Operation Of Govt R&D GOCO Facilities
-  2014  Iowa State University Equities Corporation    52,084,624  Operation Of Govt R&D GOCO Facilities
-  2013  Iowa State University Equities Corporation    64,291,258  Operation Of Govt R&D GOCO Facilities
-  2012  Atrium Hotels, L.P.                                4,200  Education/Training- Vocational/Technical
-  2012  Iowa State University Equities Corporation    37,963,497  Operation Of Govt R&D GOCO Facilities
+  Year  Vendor                                      Amount ($)  Item
+------  ----------------------------------------  ------------  ----------------------------------------
+  2019  Iowa State University Equities Corporati    15,037,310  Operation Of Govt R&D GOCO Facilities
+  2018  Iowa State University Equities Corporati    61,478,835  Operation Of Govt R&D GOCO Facilities
+  2017  Iowa State University Equities Corporati    60,308,158  Operation Of Govt R&D GOCO Facilities
+  2016  Iowa State University Equities Corporati    61,876,446  Operation Of Govt R&D GOCO Facilities
+  2015  Iowa State University Equities Corporati    53,582,329  Operation Of Govt R&D GOCO Facilities
+  2014  Iowa State University Equities Corporati    52,084,624  Operation Of Govt R&D GOCO Facilities
+  2013  Iowa State University Equities Corporati    64,291,258  Operation Of Govt R&D GOCO Facilities
+  2012  Atrium Hotels, L.P.                              4,200  Education/Training- Vocational/Technical
+  2012  Iowa State University Equities Corporati    37,963,497  Operation Of Govt R&D GOCO Facilities
 ```
 ## NSF MPS Grants
 In the past 8 years, this state has received:
@@ -246,16 +246,16 @@ Iowa State University       142,000     2012  2014     Sanchez                  
 In the past 8 years, this district has received:
 1 Office of Science contracts, totalling <b> $406,622,457</b>
 ```
-  Year  Vendor                                        Amount ($)  Item
-------  ------------------------------------------  ------------  -------------------------------------
-  2019  Iowa State University Equities Corporation    15,037,310  Operation Of Govt R&D GOCO Facilities
-  2018  Iowa State University Equities Corporation    61,478,835  Operation Of Govt R&D GOCO Facilities
-  2017  Iowa State University Equities Corporation    60,308,158  Operation Of Govt R&D GOCO Facilities
-  2016  Iowa State University Equities Corporation    61,876,446  Operation Of Govt R&D GOCO Facilities
-  2015  Iowa State University Equities Corporation    53,582,329  Operation Of Govt R&D GOCO Facilities
-  2014  Iowa State University Equities Corporation    52,084,624  Operation Of Govt R&D GOCO Facilities
-  2013  Iowa State University Equities Corporation    64,291,258  Operation Of Govt R&D GOCO Facilities
-  2012  Iowa State University Equities Corporation    37,963,497  Operation Of Govt R&D GOCO Facilities
+  Year  Vendor                                      Amount ($)  Item
+------  ----------------------------------------  ------------  -------------------------------------
+  2019  Iowa State University Equities Corporati    15,037,310  Operation Of Govt R&D GOCO Facilities
+  2018  Iowa State University Equities Corporati    61,478,835  Operation Of Govt R&D GOCO Facilities
+  2017  Iowa State University Equities Corporati    60,308,158  Operation Of Govt R&D GOCO Facilities
+  2016  Iowa State University Equities Corporati    61,876,446  Operation Of Govt R&D GOCO Facilities
+  2015  Iowa State University Equities Corporati    53,582,329  Operation Of Govt R&D GOCO Facilities
+  2014  Iowa State University Equities Corporati    52,084,624  Operation Of Govt R&D GOCO Facilities
+  2013  Iowa State University Equities Corporati    64,291,258  Operation Of Govt R&D GOCO Facilities
+  2012  Iowa State University Equities Corporati    37,963,497  Operation Of Govt R&D GOCO Facilities
 ```
 ## NSF MPS Grants
 In the past 8 years, this district has received:<b> $23,930,144 </b>in NSF MPS grants.

@@ -22,12 +22,12 @@ layout: page
 
 </style>
 
-<div class="alert alert-info">
-<strong>3/3/19:</strong> Date updated for 2019. Contracts and HEP grants have added detail at district level. New info on the origin districts of SULI/CCI students.
-</div>
 
+[**High-energy physics (HEP) research**](http://www.usparticlephysics.org/index.html) has wide-ranging impacts on technology, innovation, and education in the United States. In addition to HEP's national importance, Congressional offices are also concerned with the **local economic impact** of federal HEP spending in their respective districts and states. The map below illustrates the distribution of HEP-related spending within the continental US (Alaska and Hawaii each receive $1.5M and $57.9M, respectively).
 
-[**High-energy physics (HEP) research**](http://www.usparticlephysics.org/index.html) has wide-ranging impacts on technology, innovation, and education in the United States. In addition to HEP's national importance, Congressional offices are also concerned with the **local economic impact** of federal HEP spending in their respective districts and states.
+{:refdef: style="text-align: center;"}
+![National HEP funding map]({{ site.baseurl }}/img/national_map.png)
+{: refdef}
 
 Select your state below for both statewide and district-level summaries of HEP-related spending. **Please read the [FAQ]({{ site.baseurl }}/faq/)** for descriptions of and caveats to interpreting the data. 
 

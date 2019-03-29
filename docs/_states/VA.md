@@ -26,25 +26,25 @@ George Mason University             5,000
 In the past 8 years, this state has received:
 26 Office of Science contracts, totalling <b> $1,088,781,249</b>
 ```
-Vendor                                                   Amount ($)  Item
-----------------------------------------------------  -------------  ---------------------------------------------------------
-Jefferson Science Associates, LLC A Sura/Csc Company  1,084,328,867  Operation Of Govt R&D GOCO Facilities
-National Capitol Contracting, LLC                         2,804,247  Support- Administrative: Other
-Kpmg Llp                                                  1,200,000  Support- Professional: Other
-Brundidge & Stanger PC                                      106,811  Support- Professional: Legal
-Oracle America, Inc.                                         80,850  IT And Telecom- Other IT And Telecommunications
-Icf Inc.                                                     55,713  Support- Professional: Other
-Oracle America, Inc.                                         50,324  ADP Software
-Alvarez & Associates, LLC                                    46,950  ADP Software
-Ec America, Inc.                                             24,900  ADP Software
-PC Mall Gov, Inc.                                            17,475  ADPE System Configuration
-Top-Tier Technologies, Inc.                                  14,786  ADP Software
-Deloitte Consulting Llp                                      13,750  Support- Professional: Other
-Dlt Solutions, LLC                                           12,931  ADP Software
-Dlt Solutions, LLC                                           11,309  IT And Telecom- Systems Analysis
-Dlt Solutions, LLC                                            8,114  IT And Telecom- Annual Hardware Maintenance Service Plans
-Special Libraries Association, Inc.                           3,150  Miscellaneous Communication Equipment
-Emergent, LLC                                                 1,072  Information Technology Software
+Vendor                                       Amount ($)  Item
+----------------------------------------  -------------  ----------------------------------------
+Jefferson Science Associates, LLC A Sura  1,084,328,867  Operation Of Govt R&D GOCO Facilities
+National Capitol Contracting, LLC             2,804,247  Support- Administrative: Other
+Kpmg Llp                                      1,200,000  Support- Professional: Other
+Brundidge & Stanger PC                          106,811  Support- Professional: Legal
+Oracle America, Inc.                             80,850  IT And Telecom- Other IT And Telecommuni
+Icf Inc.                                         55,713  Support- Professional: Other
+Oracle America, Inc.                             50,324  ADP Software
+Alvarez & Associates, LLC                        46,950  ADP Software
+Ec America, Inc.                                 24,900  ADP Software
+PC Mall Gov, Inc.                                17,475  ADPE System Configuration
+Top-Tier Technologies, Inc.                      14,786  ADP Software
+Deloitte Consulting Llp                          13,750  Support- Professional: Other
+Dlt Solutions, LLC                               12,931  ADP Software
+Dlt Solutions, LLC                               11,309  IT And Telecom- Systems Analysis
+Dlt Solutions, LLC                                8,114  IT And Telecom- Annual Hardware Maintena
+Special Libraries Association, Inc.               3,150  Miscellaneous Communication Equipment
+Emergent, LLC                                     1,072  Information Technology Software
 ```
 ## NSF MPS Grants
 In the past 8 years, this state has received:
@@ -124,10 +124,10 @@ College of William And Mary       124,000     2012  2014     Kelley             
 In the past 8 years, this district has received:
 1 Office of Science contracts, totalling <b> $240,155,306</b>
 ```
-  Year  Vendor                                                  Amount ($)  Item
-------  ----------------------------------------------------  ------------  -------------------------------------
-  2013  Jefferson Science Associates, LLC A Sura/Csc Company    70,359,136  Operation Of Govt R&D GOCO Facilities
-  2012  Jefferson Science Associates, LLC A Sura/Csc Company   169,796,170  Operation Of Govt R&D GOCO Facilities
+  Year  Vendor                                      Amount ($)  Item
+------  ----------------------------------------  ------------  -------------------------------------
+  2013  Jefferson Science Associates, LLC A Sura    70,359,136  Operation Of Govt R&D GOCO Facilities
+  2012  Jefferson Science Associates, LLC A Sura   169,796,170  Operation Of Govt R&D GOCO Facilities
 ```
 ## NSF MPS Grants
 In the past 8 years, this district has received:<b> $9,182,082 </b>in NSF MPS grants.
@@ -168,14 +168,14 @@ Old Dominion University       382,000     2012   2014  Vuskovic                 
 In the past 8 years, this district has received:
 2 Office of Science contracts, totalling <b> $551,202,612</b>
 ```
-  Year  Vendor                                                  Amount ($)  Item
-------  ----------------------------------------------------  ------------  -------------------------------------
-  2018  Emergent, LLC                                                1,072  Information Technology Software
-  2017  Jefferson Science Associates, LLC A Sura/Csc Company    63,449,400  Operation Of Govt R&D GOCO Facilities
-  2016  Jefferson Science Associates, LLC A Sura/Csc Company   124,095,453  Operation Of Govt R&D GOCO Facilities
-  2015  Jefferson Science Associates, LLC A Sura/Csc Company   129,910,216  Operation Of Govt R&D GOCO Facilities
-  2014  Jefferson Science Associates, LLC A Sura/Csc Company   166,337,305  Operation Of Govt R&D GOCO Facilities
-  2013  Jefferson Science Associates, LLC A Sura/Csc Company    67,409,166  Operation Of Govt R&D GOCO Facilities
+  Year  Vendor                                      Amount ($)  Item
+------  ----------------------------------------  ------------  -------------------------------------
+  2018  Emergent, LLC                                    1,072  Information Technology Software
+  2017  Jefferson Science Associates, LLC A Sura    63,449,400  Operation Of Govt R&D GOCO Facilities
+  2016  Jefferson Science Associates, LLC A Sura   124,095,453  Operation Of Govt R&D GOCO Facilities
+  2015  Jefferson Science Associates, LLC A Sura   129,910,216  Operation Of Govt R&D GOCO Facilities
+  2014  Jefferson Science Associates, LLC A Sura   166,337,305  Operation Of Govt R&D GOCO Facilities
+  2013  Jefferson Science Associates, LLC A Sura    67,409,166  Operation Of Govt R&D GOCO Facilities
 ```
 ## NSF MPS Grants
 In the past 8 years, this district has received:<b> $5,817,072 </b>in NSF MPS grants.
@@ -219,11 +219,11 @@ Old Dominion University             0     2017  Ongoing  Vuskovic, Leposava     
 In the past 8 years, this district has received:
 1 Office of Science contracts, totalling <b> $292,972,021</b>
 ```
-  Year  Vendor                                                  Amount ($)  Item
-------  ----------------------------------------------------  ------------  -------------------------------------
-  2019  Jefferson Science Associates, LLC A Sura/Csc Company   102,781,764  Operation Of Govt R&D GOCO Facilities
-  2018  Jefferson Science Associates, LLC A Sura/Csc Company   129,807,045  Operation Of Govt R&D GOCO Facilities
-  2017  Jefferson Science Associates, LLC A Sura/Csc Company    60,383,212  Operation Of Govt R&D GOCO Facilities
+  Year  Vendor                                      Amount ($)  Item
+------  ----------------------------------------  ------------  -------------------------------------
+  2019  Jefferson Science Associates, LLC A Sura   102,781,764  Operation Of Govt R&D GOCO Facilities
+  2018  Jefferson Science Associates, LLC A Sura   129,807,045  Operation Of Govt R&D GOCO Facilities
+  2017  Jefferson Science Associates, LLC A Sura    60,383,212  Operation Of Govt R&D GOCO Facilities
 ```
 ## NSF MPS Grants
 In the past 8 years, this district has received:<b> $21,147,810 </b>in NSF MPS grants.
@@ -595,8 +595,8 @@ In the past 8 years, this district has received:
 14 Office of Science contracts, totalling <b> $267,573</b>
 ```
 Vendor                         Amount ($)  Item
----------------------------  ------------  ---------------------------------------------------------
-Oracle America, Inc.               80,850  IT And Telecom- Other IT And Telecommunications
+---------------------------  ------------  ----------------------------------------
+Oracle America, Inc.               80,850  IT And Telecom- Other IT And Telecommuni
 Icf Inc.                           55,713  Support- Professional: Other
 Alvarez & Associates, LLC          46,950  ADP Software
 Ec America, Inc.                   24,900  ADP Software
@@ -604,7 +604,7 @@ Top-Tier Technologies, Inc.        14,786  ADP Software
 Dlt Solutions, LLC                 12,931  ADP Software
 Oracle America, Inc.               12,020  ADP Software
 Dlt Solutions, LLC                 11,309  IT And Telecom- Systems Analysis
-Dlt Solutions, LLC                  8,114  IT And Telecom- Annual Hardware Maintenance Service Plans
+Dlt Solutions, LLC                  8,114  IT And Telecom- Annual Hardware Maintena
 ```
 ## NSF MPS Grants
 In the past 8 years, this district has received:<b> $6,286,050 </b>in NSF MPS grants.

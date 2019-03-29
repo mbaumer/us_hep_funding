@@ -33,29 +33,42 @@ CUNY Research Foundation                 0
 In the past 8 years, this state has received:
 52 Office of Science contracts, totalling <b> $4,782,894,080</b>
 ```
-Vendor                                           Amount ($)  Item
---------------------------------------------  -------------  -----------------------------------------------------------------------
-Brookhaven Science Associates, LLC            2,855,893,076  Operation Of Government-Owned Contractor-Operated (GOCO) R&D Facilities
-Brookhaven Science Associates, LLC            1,913,098,488  Operation Of Govt R&D GOCO Facilities
-Dawnbreaker Inc                                   9,458,000  Support- Management: Other
-Dawnbreaker, Inc.                                 2,799,340  Support- Professional: Other
-Elsevier Inc.                                       452,197  Books And Pamphlets
-Nature America, Inc.                                294,605  Newspapers And Periodicals
-Springer Science + Business Media, LLC              132,216  IT And Telecom- Web-Based Subscription
-Elsevier Inc.                                       127,360  IT And Telecom- Web-Based Subscription
-The Hon Company                                      99,511  Office Furniture
-Holland, Michael                                     88,500  Support- Professional: Other
-Nature America, Inc.                                 78,895  IT And Telecom- Web-Based Subscription
-Springer Science + Business Media, LLC               62,319  Newspapers And Periodicals
-Dell Marketing L.P.                                  48,782  ADP Input/Output And Storage Devices
-Computer Connection Of Central New York Inc.         47,485  ADPE System Configuration
-Association For Computing Machinery, Inc.            30,340  Newspapers And Periodicals
-Hon Company LLC, The                                 24,212  Office Furniture
-Office Leader Corp.                                  19,966  Office Furniture
-Colleague Consulting, LLC                            14,576  Education/Training- Training/Curriculum Development
-National Business Furniture, LLC                     12,367  Office Furniture
-Knowledge Academy Inc., The                          10,200  Education/Training- Training/Curriculum Development
-and  7  other firms.
+Vendor                                       Amount ($)  Item
+----------------------------------------  -------------  ----------------------------------------
+Brookhaven Science Associates, LLC        2,855,893,076  Operation Of Government-Owned Contractor
+Brookhaven Science Associates, LLC        1,913,098,488  Operation Of Govt R&D GOCO Facilities
+Dawnbreaker Inc                               9,458,000  Support- Management: Other
+Dawnbreaker, Inc.                             2,799,340  Support- Professional: Other
+Elsevier Inc.                                   452,197  Books And Pamphlets
+Nature America, Inc.                            294,605  Newspapers And Periodicals
+Springer Science + Business Media, LLC          132,216  IT And Telecom- Web-Based Subscription
+Elsevier Inc.                                   127,360  IT And Telecom- Web-Based Subscription
+The Hon Company                                  99,511  Office Furniture
+Holland, Michael                                 88,500  Support- Professional: Other
+Nature America, Inc.                             78,895  IT And Telecom- Web-Based Subscription
+Springer Science + Business Media, LLC           62,319  Newspapers And Periodicals
+Dell Marketing L.P.                              48,782  ADP Input/Output And Storage Devices
+Computer Connection Of Central New York          47,485  ADPE System Configuration
+Association For Computing Machinery, Inc         30,340  Newspapers And Periodicals
+Hon Company LLC, The                             24,212  Office Furniture
+Office Leader Corp.                              19,966  Office Furniture
+Colleague Consulting, LLC                        14,576  Education/Training- Training/Curriculum
+National Business Furniture, LLC                 12,367  Office Furniture
+Knowledge Academy Inc., The                      10,200  Education/Training- Training/Curriculum
+Management Concepts, Inc.                        10,064  Education/Training- Training/Curriculum
+Colleague Consulting, LLC                         9,627  Education/Training- Other
+Colleague Consulting, LLC                         9,436  Education/Training- General
+Equal Employment Opportunity Commission           9,400  Education/Training- Training/Curriculum
+National Property Mgt Assn                        8,700  Education/Training- Training/Curriculum
+Sharp Electronics Corporation                     8,410  Miscellaneous Office Machines
+Orcid, Inc.                                       8,336  Support- Administrative: Information Ret
+Alloy, Inc.                                       8,000  ADP Software
+Park University Enterprises, Inc                  7,500  Education/Training- Training/Curriculum
+Aip Publishing LLC                                6,052  Newspapers And Periodicals
+Cambridge University Press                        4,717  Newspapers And Periodicals
+Cambridge University Press                        4,493  Books And Pamphlets
+Aspen Systems, Inc.                               3,520  Information Technology Input/Output And
+Eastman Kodak Company                             3,390  ADPE System Configuration
 ```
 ## NSF MPS Grants
 In the past 8 years, this state has received:
@@ -152,12 +165,12 @@ From 2014-2016 (only years available), this state had 247 SULI/CCI interns
           9  SULI       Saint Joseph's College, New York - Suffolk Campus
           8  SULI       City University of New York The City College
           8  CCI        City University of New York Queensborough Community College
-          7  SULI       New York City College of Technology/City University of New York
+          7  SULI       New York City College of Technology/City University of New Y
           7  SULI       State University of New York College at Geneseo
           6  SULI       Rochester Institute of Technology
           5  CCI        City University of New York Bronx Community College
           5  SULI       Polytechnic Institute of New York University
-          4  SULI       State University of New York College of Environmental Science and Forestry
+          4  SULI       State University of New York College of Environmental Scienc
           4  SULI       Suffolk County Community College Ammerman Campus
           3  SULI       Clarkson University
           3  SULI       Hofstra University
@@ -235,24 +248,24 @@ In the past 8 years, this district has received:
 22 Office of Science contracts, totalling <b> $4,769,356,369</b>
 ```
 Vendor                                      Amount ($)  Item
----------------------------------------  -------------  -----------------------------------------------------------------------
-Brookhaven Science Associates, LLC       2,855,893,076  Operation Of Government-Owned Contractor-Operated (GOCO) R&D Facilities
+---------------------------------------  -------------  ----------------------------------------
+Brookhaven Science Associates, LLC       2,855,893,076  Operation Of Government-Owned Contractor
 Brookhaven Science Associates, LLC       1,913,098,488  Operation Of Govt R&D GOCO Facilities
 The Hon Company                                 99,511  Office Furniture
 Holland, Michael                                88,500  Support- Professional: Other
 Dell Marketing L.P.                             48,782  ADP Input/Output And Storage Devices
 Hon Company LLC, The                            24,212  Office Furniture
-Colleague Consulting, LLC                       14,576  Education/Training- Training/Curriculum Development
+Colleague Consulting, LLC                       14,576  Education/Training- Training/Curriculum
 National Business Furniture, LLC                12,367  Office Furniture
-Knowledge Academy Inc., The                     10,200  Education/Training- Training/Curriculum Development
-Management Concepts, Inc.                       10,064  Education/Training- Training/Curriculum Development
+Knowledge Academy Inc., The                     10,200  Education/Training- Training/Curriculum
+Management Concepts, Inc.                       10,064  Education/Training- Training/Curriculum
 Colleague Consulting, LLC                        9,627  Education/Training- Other
 Colleague Consulting, LLC                        9,436  Education/Training- General
-Equal Employment Opportunity Commission          9,400  Education/Training- Training/Curriculum Development
-National Property Mgt Assn                       8,700  Education/Training- Training/Curriculum Development
+Equal Employment Opportunity Commission          9,400  Education/Training- Training/Curriculum
+National Property Mgt Assn                       8,700  Education/Training- Training/Curriculum
 Sharp Electronics Corporation                    8,410  Miscellaneous Office Machines
-Park University Enterprises, Inc                 7,500  Education/Training- Training/Curriculum Development
-Aspen Systems, Inc.                              3,520  Information Technology Input/Output And Storage Devices
+Park University Enterprises, Inc                 7,500  Education/Training- Training/Curriculum
+Aspen Systems, Inc.                              3,520  Information Technology Input/Output And
 ```
 ## NSF MPS Grants
 In the past 8 years, this district has received:<b> $84,983,311 </b>in NSF MPS grants.
@@ -582,11 +595,11 @@ This district received no SC HEP grants from 2012-2019
 In the past 8 years, this district has received:
 3 Office of Science contracts, totalling <b> $85,484</b>
 ```
-  Year  Vendor                                       Amount ($)  Item
-------  -----------------------------------------  ------------  --------------------------
-  2012  Alloy, Inc.                                       8,000  ADP Software
-  2012  Association For Computing Machinery, Inc.         7,275  Newspapers And Periodicals
-  2012  Nature America, Inc.                             70,209  Newspapers And Periodicals
+  Year  Vendor                                      Amount ($)  Item
+------  ----------------------------------------  ------------  --------------------------
+  2012  Alloy, Inc.                                      8,000  ADP Software
+  2012  Association For Computing Machinery, Inc         7,275  Newspapers And Periodicals
+  2012  Nature America, Inc.                            70,209  Newspapers And Periodicals
 ```
 ## NSF MPS Grants
 In the past 8 years, this district has received:<b> $10,792,179 </b>in NSF MPS grants.
@@ -656,14 +669,14 @@ In the past 8 years, this district has received:
 8 Office of Science contracts, totalling <b> $506,162</b>
 ```
   Year  Vendor                                    Amount ($)  Item
-------  --------------------------------------  ------------  ----------------------------------------------
+------  --------------------------------------  ------------  ----------------------------------------
   2016  Nature America, Inc.                          78,895  IT And Telecom- Web-Based Subscription
   2016  Springer Science + Business Media, LLC        67,404  IT And Telecom- Web-Based Subscription
   2015  Nature America, Inc.                          77,693  Newspapers And Periodicals
   2014  Springer Science + Business Media, LLC        64,812  IT And Telecom- Web-Based Subscription
   2014  Springer Science + Business Media, LLC        62,319  Newspapers And Periodicals
   2013  Nature America, Inc.                         146,703  Newspapers And Periodicals
-  2013  Orcid, Inc.                                    8,336  Support- Administrative: Information Retrieval
+  2013  Orcid, Inc.                                    8,336  Support- Administrative: Information Ret
 ```
 ## NSF MPS Grants
 In the past 8 years, this district has received:<b> $152,239,000 </b>in NSF MPS grants.
@@ -754,15 +767,15 @@ CUNY Research Foundation             0     2016   2017  Lynch, Kevin            
 In the past 8 years, this district has received:
 9 Office of Science contracts, totalling <b> $510,513</b>
 ```
-  Year  Vendor                                       Amount ($)  Item
-------  -----------------------------------------  ------------  --------------------------------------
-  2016  Association For Computing Machinery, Inc.         7,925  Newspapers And Periodicals
-  2016  Elsevier Inc.                                   127,360  IT And Telecom- Web-Based Subscription
-  2015  Association For Computing Machinery, Inc.         7,700  Newspapers And Periodicals
-  2015  Elsevier Inc.                                   124,750  Books And Pamphlets
-  2014  Association For Computing Machinery, Inc.         7,440  Newspapers And Periodicals
-  2014  Elsevier Inc.                                   120,000  Books And Pamphlets
-  2013  Elsevier Inc.                                   115,338  Books And Pamphlets
+  Year  Vendor                                      Amount ($)  Item
+------  ----------------------------------------  ------------  --------------------------------------
+  2016  Association For Computing Machinery, Inc         7,925  Newspapers And Periodicals
+  2016  Elsevier Inc.                                  127,360  IT And Telecom- Web-Based Subscription
+  2015  Association For Computing Machinery, Inc         7,700  Newspapers And Periodicals
+  2015  Elsevier Inc.                                  124,750  Books And Pamphlets
+  2014  Association For Computing Machinery, Inc         7,440  Newspapers And Periodicals
+  2014  Elsevier Inc.                                  120,000  Books And Pamphlets
+  2013  Elsevier Inc.                                  115,338  Books And Pamphlets
 ```
 ## NSF MPS Grants
 In the past 8 years, this district has received:<b> $8,112,990 </b>in NSF MPS grants.
@@ -1252,10 +1265,10 @@ Cornell University       950,000     2012   2014  Rubin                     Damp
 In the past 8 years, this district has received:
 2 Office of Science contracts, totalling <b> $47,485</b>
 ```
-  Year  Vendor                                          Amount ($)  Item
-------  --------------------------------------------  ------------  -------------------------
-  2015  Computer Connection Of Central New York Inc.        42,500  ADPE System Configuration
-  2013  Computer Connection Of Central New York Inc.         4,985  ADPE System Configuration
+  Year  Vendor                                     Amount ($)  Item
+------  ---------------------------------------  ------------  -------------------------
+  2015  Computer Connection Of Central New York        42,500  ADPE System Configuration
+  2013  Computer Connection Of Central New York         4,985  ADPE System Configuration
 ```
 ## NSF MPS Grants
 In the past 8 years, this district has received:<b> $70,616,369 </b>in NSF MPS grants.

@@ -25,52 +25,52 @@ Institute of Electrical And Electronics Engineers (IEEE)        50,000
 In the past 8 years, this state has received:
 25 Office of Science contracts, totalling <b> $717,298,754</b>
 ```
-Vendor                                                          Amount ($)  Item
-------------------------------------------------------------  ------------  ---------------------------------------------------
-Trustees Of Princeton University, The                          716,491,118  Operation Of Govt R&D GOCO Facilities
-John Wiley & Sons, Inc.                                            297,717  Newspapers And Periodicals
-Institute Of Electrical And Electronics Engineers, Inc., The       162,760  Newspapers And Periodicals
-Springer Science + Business Media, LLC                             117,540  Newspapers And Periodicals
-John Wiley & Sons, Inc.                                             91,996  IT And Telecom- Web-Based Subscription
-The Hon Company                                                     46,293  Office Furniture
-Doszkocs, Tamas Endre                                               24,000  ADP Software
-Colleague Consulting, LLC                                           18,986  Education/Training- Other
-Alloy Software, Inc.                                                17,625  ADP Software
-American Society Of Civil Engineers, The                            15,500  Education/Training- Training/Curriculum Development
-Colleague Consulting, LLC                                            7,092  Education/Training- General
-Shi International Corp.                                              4,462  ADP Software
-Carahsoft Technology Corporation                                     3,665  Information Technology Software
+Vendor                                      Amount ($)  Item
+----------------------------------------  ------------  ---------------------------------------
+Trustees Of Princeton University, The      716,491,118  Operation Of Govt R&D GOCO Facilities
+John Wiley & Sons, Inc.                        297,717  Newspapers And Periodicals
+Institute Of Electrical And Electronics        162,760  Newspapers And Periodicals
+Springer Science + Business Media, LLC         117,540  Newspapers And Periodicals
+John Wiley & Sons, Inc.                         91,996  IT And Telecom- Web-Based Subscription
+The Hon Company                                 46,293  Office Furniture
+Doszkocs, Tamas Endre                           24,000  ADP Software
+Colleague Consulting, LLC                       18,986  Education/Training- Other
+Alloy Software, Inc.                            17,625  ADP Software
+American Society Of Civil Engineers, The        15,500  Education/Training- Training/Curriculum
+Colleague Consulting, LLC                        7,092  Education/Training- General
+Shi International Corp.                          4,462  ADP Software
+Carahsoft Technology Corporation                 3,665  Information Technology Software
 ```
 ## NSF MPS Grants
 In the past 8 years, this state has received:
 1046 NSF MPS grants, totalling <b> $324,422,852</b>
 ```
-Institution                                                               Amount ($)
-----------------------------------------------------------------------  ------------
-Princeton University                                                     205,027,202
-Rutgers State University Of New Jersey                                    64,098,804
-New Jersey Institute Of Technology                                        14,097,691
-Institute For Advanced Study                                              12,860,366
-Institute For Advanced Study - Louis Bamberger And Mrs. Felix Fuld Fou     9,393,834
-Institute For Advanced Study - Louis Bamberge                              6,997,173
-Stevens Institute Of Technology                                            4,704,935
-Rowan University                                                           2,358,265
-Pii Redacted                                                               1,300,000
-College Of New Jersey                                                      1,079,449
-Montclair State University Student Government                                794,548
-Rutgers Univ New Brunswick                                                   713,046
-Montclair State University                                                   357,383
-Ramapo College Of New Jersey                                                 151,144
-Rutgers U Newark                                                             125,000
-Redacted Due To Pii                                                          100,000
-Inst For Advanced Study                                                       67,094
-Rutgers U Camden                                                              58,434
-Montclair State University Student Government Association Scholar             57,453
-New Jersey City University                                                    40,350
-Seton Hall University                                                         16,700
-Kean University                                                                8,941
-Njit                                                                           7,540
-Institute Of Electrical And Electronics Engin                                  7,500
+Institution                                                     Amount ($)
+------------------------------------------------------------  ------------
+Princeton University                                           205,027,202
+Rutgers State University Of New Jersey                          64,098,804
+New Jersey Institute Of Technology                              14,097,691
+Institute For Advanced Study                                    12,860,366
+Institute For Advanced Study - Louis Bamberger And Mrs. Feli     9,393,834
+Institute For Advanced Study - Louis Bamberge                    6,997,173
+Stevens Institute Of Technology                                  4,704,935
+Rowan University                                                 2,358,265
+Pii Redacted                                                     1,300,000
+College Of New Jersey                                            1,079,449
+Montclair State University Student Government                      794,548
+Rutgers Univ New Brunswick                                         713,046
+Montclair State University                                         357,383
+Ramapo College Of New Jersey                                       151,144
+Rutgers U Newark                                                   125,000
+Redacted Due To Pii                                                100,000
+Inst For Advanced Study                                             67,094
+Rutgers U Camden                                                    58,434
+Montclair State University Student Government Association Sc        57,453
+New Jersey City University                                          40,350
+Seton Hall University                                               16,700
+Kean University                                                      8,941
+Njit                                                                 7,540
+Institute Of Electrical And Electronics Engin                        7,500
 ```
 ## SULI/CCI Interns
 <p align="center">
@@ -79,8 +79,8 @@ Institute Of Electrical And Electronics Engin                                  7
 From 2014-2016 (only years available), this state had 29 SULI/CCI interns
 ```
   # Interns  Program    College
------------  ---------  ---------------------------------------------------------------
-         13  SULI       Rutgers the State University of New Jersey New Brunswick Campus
+-----------  ---------  ------------------------------------------------------------
+         13  SULI       Rutgers the State University of New Jersey New Brunswick Cam
           4  SULI       Princeton University
           3  SULI       The College of New Jersey
           2  SULI       New Jersey Institute of Technology
@@ -248,13 +248,13 @@ Rutgers University                                             513,000     2012 
 In the past 8 years, this district has received:
 6 Office of Science contracts, totalling <b> $167,222</b>
 ```
-  Year  Vendor                                                          Amount ($)  Item
-------  ------------------------------------------------------------  ------------  --------------------------
-  2015  Institute Of Electrical And Electronics Engineers, Inc., The        35,185  Newspapers And Periodicals
-  2014  Institute Of Electrical And Electronics Engineers, Inc., The        33,835  Newspapers And Periodicals
-  2013  Institute Of Electrical And Electronics Engineers, Inc., The        63,865  Newspapers And Periodicals
-  2012  Institute Of Electrical And Electronics Engineers, Inc., The        29,875  Newspapers And Periodicals
-  2012  Shi International Corp.                                              4,462  ADP Software
+  Year  Vendor                                     Amount ($)  Item
+------  ---------------------------------------  ------------  --------------------------
+  2015  Institute Of Electrical And Electronics        35,185  Newspapers And Periodicals
+  2014  Institute Of Electrical And Electronics        33,835  Newspapers And Periodicals
+  2013  Institute Of Electrical And Electronics        63,865  Newspapers And Periodicals
+  2012  Institute Of Electrical And Electronics        29,875  Newspapers And Periodicals
+  2012  Shi International Corp.                         4,462  ADP Software
 ```
 ## NSF MPS Grants
 In the past 8 years, this district has received:<b> $56,888,070 </b>in NSF MPS grants.
@@ -446,15 +446,15 @@ This district received no SC contracts from 2012-2019
 ## NSF MPS Grants
 In the past 8 years, this district has received:<b> $1,134,496 </b>in NSF MPS grants.
 ```
-  Year  Institution                                                          Amount ($)
-------  -----------------------------------------------------------------  ------------
-  2018  Montclair State University                                              181,383
-  2017  Montclair State University                                              176,000
-  2017  Montclair State University Student Government Association Scholar        57,453
-  2016  Montclair State University Student Government                            98,248
-  2015  Montclair State University Student Government                           195,425
-  2014  Montclair State University Student Government                           299,987
-  2013  Montclair State University Student Government                           126,000
+  Year  Institution                                                     Amount ($)
+------  ------------------------------------------------------------  ------------
+  2018  Montclair State University                                         181,383
+  2017  Montclair State University                                         176,000
+  2017  Montclair State University Student Government Association Sc        57,453
+  2016  Montclair State University Student Government                       98,248
+  2015  Montclair State University Student Government                      195,425
+  2014  Montclair State University Student Government                      299,987
+  2013  Montclair State University Student Government                      126,000
 ```
 ## SULI/CCI Interns
 ```
@@ -493,43 +493,43 @@ In the past 8 years, this district has received:
 13 Office of Science contracts, totalling <b> $716,972,367</b>
 ```
 Vendor                                      Amount ($)  Item
-----------------------------------------  ------------  ---------------------------------------------------
+----------------------------------------  ------------  ---------------------------------------
 Trustees Of Princeton University, The      716,491,118  Operation Of Govt R&D GOCO Facilities
 John Wiley & Sons, Inc.                        297,717  Newspapers And Periodicals
 John Wiley & Sons, Inc.                         91,996  IT And Telecom- Web-Based Subscription
 The Hon Company                                 46,293  Office Furniture
 Colleague Consulting, LLC                       18,986  Education/Training- Other
-American Society Of Civil Engineers, The        15,500  Education/Training- Training/Curriculum Development
+American Society Of Civil Engineers, The        15,500  Education/Training- Training/Curriculum
 Colleague Consulting, LLC                        7,092  Education/Training- General
 Carahsoft Technology Corporation                 3,665  Information Technology Software
 ```
 ## NSF MPS Grants
 In the past 8 years, this district has received:<b> $236,425,118 </b>in NSF MPS grants.
 ```
-  Year  Institution                                                               Amount ($)
-------  ----------------------------------------------------------------------  ------------
-  2019  Princeton University                                                         145,700
-  2019  Institute For Advanced Study - Louis Bamberger And Mrs. Felix Fuld Fou        49,365
-  2018  Redacted Due To Pii                                                          100,000
-  2018  Princeton University                                                      32,020,687
-  2018  Pii Redacted                                                                 750,000
-  2018  Institute For Advanced Study - Louis Bamberger And Mrs. Felix Fuld Fou     4,225,361
-  2017  Princeton University                                                      34,794,436
-  2017  Pii Redacted                                                                 150,000
-  2017  Institute For Advanced Study - Louis Bamberger And Mrs. Felix Fuld Fou     5,119,108
-  2016  Princeton University                                                      27,554,242
-  2016  Institute For Advanced Study - Louis Bamberge                              3,278,304
-  2015  Princeton University                                                      24,379,357
-  2015  Institute For Advanced Study - Louis Bamberge                              3,718,869
-  2015  Inst For Advanced Study                                                       67,094
-  2015  College Of New Jersey                                                        994,365
-  2014  Princeton University                                                      22,302,009
-  2014  Institute For Advanced Study                                               5,009,279
-  2013  Princeton University                                                      31,791,912
-  2013  Institute For Advanced Study                                               4,170,906
-  2012  Institute For Advanced Study                                               3,680,181
-  2012  Princeton University                                                      32,038,859
-  2012  College Of New Jersey                                                         85,084
+  Year  Institution                                                     Amount ($)
+------  ------------------------------------------------------------  ------------
+  2019  Princeton University                                               145,700
+  2019  Institute For Advanced Study - Louis Bamberger And Mrs. Feli        49,365
+  2018  Redacted Due To Pii                                                100,000
+  2018  Princeton University                                            32,020,687
+  2018  Pii Redacted                                                       750,000
+  2018  Institute For Advanced Study - Louis Bamberger And Mrs. Feli     4,225,361
+  2017  Princeton University                                            34,794,436
+  2017  Pii Redacted                                                       150,000
+  2017  Institute For Advanced Study - Louis Bamberger And Mrs. Feli     5,119,108
+  2016  Princeton University                                            27,554,242
+  2016  Institute For Advanced Study - Louis Bamberge                    3,278,304
+  2015  Princeton University                                            24,379,357
+  2015  Institute For Advanced Study - Louis Bamberge                    3,718,869
+  2015  Inst For Advanced Study                                             67,094
+  2015  College Of New Jersey                                              994,365
+  2014  Princeton University                                            22,302,009
+  2014  Institute For Advanced Study                                     5,009,279
+  2013  Princeton University                                            31,791,912
+  2013  Institute For Advanced Study                                     4,170,906
+  2012  Institute For Advanced Study                                     3,680,181
+  2012  Princeton University                                            32,038,859
+  2012  College Of New Jersey                                               85,084
 ```
 ## SULI/CCI Interns
 From 2014-2016 (only years available), this district had 7 SULI/CCI interns

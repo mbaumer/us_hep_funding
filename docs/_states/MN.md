@@ -33,8 +33,8 @@ In the past 8 years, this state has received:
 3 Office of Science contracts, totalling <b> $21,551</b>
 ```
   Year  Vendor                          Amount ($)  Item
-------  ----------------------------  ------------  ---------------------------------------------------
-  2014  Ideal System Solutions, Inc.         6,326  ADP Central Processing Unit (CPU, Computer), Hybrid
+------  ----------------------------  ------------  ----------------------------------------
+  2014  Ideal System Solutions, Inc.         6,326  ADP Central Processing Unit (CPU, Comput
   2013  World Data Products, Inc.            7,235  ADP Input/Output And Storage Devices
   2013  World Data Products, Inc.            7,990  ADPE System Configuration
 ```
@@ -178,8 +178,8 @@ In the past 8 years, this district has received:
 3 Office of Science contracts, totalling <b> $21,551</b>
 ```
   Year  Vendor                          Amount ($)  Item
-------  ----------------------------  ------------  ---------------------------------------------------
-  2014  Ideal System Solutions, Inc.         6,326  ADP Central Processing Unit (CPU, Computer), Hybrid
+------  ----------------------------  ------------  ----------------------------------------
+  2014  Ideal System Solutions, Inc.         6,326  ADP Central Processing Unit (CPU, Comput
   2013  World Data Products, Inc.            7,235  ADP Input/Output And Storage Devices
   2013  World Data Products, Inc.            7,990  ADPE System Configuration
 ```

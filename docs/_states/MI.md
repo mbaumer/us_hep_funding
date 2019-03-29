@@ -34,10 +34,10 @@ In the past 8 years, this state has received:
 4 Office of Science contracts, totalling <b> $31,390</b>
 ```
   Year  Vendor                            Amount ($)  Item
-------  ------------------------------  ------------  ----------------------------------------------------------------------------------
+------  ------------------------------  ------------  ----------------------------------------
   2016  Herman Miller, Inc.                   21,274  Office Furniture
   2016  User Friendly Consulting, Inc.         6,300  Information Technology Software
-  2012  Momar Inc.                             3,816  Equipment And Materials Testing- Water Purification And Sewage Treatment Equipment
+  2012  Momar Inc.                             3,816  Equipment And Materials Testing- Water P
 ```
 ## NSF MPS Grants
 In the past 8 years, this state has received:
@@ -354,8 +354,8 @@ In the past 8 years, this district has received:
 1 Office of Science contracts, totalling <b> $3,816</b>
 ```
   Year  Vendor        Amount ($)  Item
-------  ----------  ------------  ----------------------------------------------------------------------------------
-  2012  Momar Inc.         3,816  Equipment And Materials Testing- Water Purification And Sewage Treatment Equipment
+------  ----------  ------------  ----------------------------------------
+  2012  Momar Inc.         3,816  Equipment And Materials Testing- Water P
 ```
 ## NSF MPS Grants
 In the past 8 years, this district has received:<b> $232,017,007 </b>in NSF MPS grants.

@@ -32,9 +32,9 @@ In the past 8 years, this state has received:
 2 Office of Science contracts, totalling <b> $1,421,964</b>
 ```
   Year  Vendor                             Amount ($)  Item
-------  -------------------------------  ------------  --------------------------------------------
-  2014  Boston Government Services, LLC       258,735  Support- Professional: Engineering/Technical
-  2013  Boston Government Services, LLC       163,229  Support- Professional: Engineering/Technical
+------  -------------------------------  ------------  ----------------------------------------
+  2014  Boston Government Services, LLC       258,735  Support- Professional: Engineering/Techn
+  2013  Boston Government Services, LLC       163,229  Support- Professional: Engineering/Techn
   2013  Electric Energy Inc.                  650,000  Utilities- Electric
   2012  Electric Energy Inc.                  350,000  Utilities- Electric
 ```
@@ -88,9 +88,9 @@ In the past 8 years, this district has received:
 2 Office of Science contracts, totalling <b> $1,421,964</b>
 ```
   Year  Vendor                             Amount ($)  Item
-------  -------------------------------  ------------  --------------------------------------------
-  2014  Boston Government Services, LLC       258,735  Support- Professional: Engineering/Technical
-  2013  Boston Government Services, LLC       163,229  Support- Professional: Engineering/Technical
+------  -------------------------------  ------------  ----------------------------------------
+  2014  Boston Government Services, LLC       258,735  Support- Professional: Engineering/Techn
+  2013  Boston Government Services, LLC       163,229  Support- Professional: Engineering/Techn
   2013  Electric Energy Inc.                  650,000  Utilities- Electric
   2012  Electric Energy Inc.                  350,000  Utilities- Electric
 ```

@@ -37,20 +37,20 @@ This state received no SC contracts from 2012-2019
 In the past 8 years, this state has received:
 309 NSF MPS grants, totalling <b> $63,669,541</b>
 ```
-Institution                                                                           Amount ($)
-----------------------------------------------------------------------------------  ------------
-Brown University In Providence In State Of Ri                                         36,943,572
-Brown University In Providence In State Of Rhode Island And Providence Plantations    16,214,318
-American Mathematical Society                                                          4,094,743
-University Of Rhode Island                                                             1,926,883
-Gordon Research Conferences                                                            1,241,960
-Brown University In Providence In State O                                              1,162,585
-Brown University                                                                       1,045,534
-Pii Redacted                                                                             450,000
-Amer Mathematical Soc                                                                    248,620
-Providence College                                                                       191,371
-Gordon Res Conferences                                                                    90,000
-Rhode Island College                                                                      59,955
+Institution                                                    Amount ($)
+-----------------------------------------------------------  ------------
+Brown University In Providence In State Of Ri                  36,943,572
+Brown University In Providence In State Of Rhode Island And    16,214,318
+American Mathematical Society                                   4,094,743
+University Of Rhode Island                                      1,926,883
+Gordon Research Conferences                                     1,241,960
+Brown University In Providence In State O                       1,162,585
+Brown University                                                1,045,534
+Pii Redacted                                                      450,000
+Amer Mathematical Soc                                             248,620
+Providence College                                                191,371
+Gordon Res Conferences                                             90,000
+Rhode Island College                                               59,955
 ```
 ## SULI/CCI Interns
 <p align="center">
@@ -92,28 +92,28 @@ This district received no SC contracts from 2012-2019
 ## NSF MPS Grants
 In the past 8 years, this district has received:<b> $58,862,363 </b>in NSF MPS grants.
 ```
-  Year  Institution                                                                           Amount ($)
-------  ----------------------------------------------------------------------------------  ------------
-  2018  Pii Redacted                                                                             300,000
-  2018  Brown University In Providence In State Of Rhode Island And Providence Plantations     5,994,047
-  2018  American Mathematical Society                                                            297,000
-  2017  Pii Redacted                                                                             150,000
-  2017  Brown University In Providence In State Of Rhode Island And Providence Plantations    10,220,271
-  2017  Brown University In Providence In State O                                                150,000
-  2017  American Mathematical Society                                                            167,500
-  2016  Brown University In Providence In State Of Ri                                          6,057,109
-  2016  Providence College                                                                       126,399
-  2016  Brown University In Providence In State O                                              1,012,585
-  2016  American Mathematical Society                                                          1,225,745
-  2015  Brown University In Providence In State Of Ri                                          5,925,521
-  2015  Brown University                                                                       1,045,534
-  2015  Amer Mathematical Soc                                                                    248,620
-  2014  Brown University In Providence In State Of Ri                                          6,863,829
-  2014  American Mathematical Society                                                            628,330
-  2013  Brown University In Providence In State Of Ri                                          7,489,011
-  2013  American Mathematical Society                                                          1,238,058
-  2012  Brown University In Providence In State Of Ri                                          9,184,694
-  2012  American Mathematical Society                                                            538,110
+  Year  Institution                                                    Amount ($)
+------  -----------------------------------------------------------  ------------
+  2018  Pii Redacted                                                      300,000
+  2018  Brown University In Providence In State Of Rhode Island And     5,994,047
+  2018  American Mathematical Society                                     297,000
+  2017  Pii Redacted                                                      150,000
+  2017  Brown University In Providence In State Of Rhode Island And    10,220,271
+  2017  Brown University In Providence In State O                         150,000
+  2017  American Mathematical Society                                     167,500
+  2016  Brown University In Providence In State Of Ri                   6,057,109
+  2016  Providence College                                                126,399
+  2016  Brown University In Providence In State O                       1,012,585
+  2016  American Mathematical Society                                   1,225,745
+  2015  Brown University In Providence In State Of Ri                   5,925,521
+  2015  Brown University                                                1,045,534
+  2015  Amer Mathematical Soc                                             248,620
+  2014  Brown University In Providence In State Of Ri                   6,863,829
+  2014  American Mathematical Society                                     628,330
+  2013  Brown University In Providence In State Of Ri                   7,489,011
+  2013  American Mathematical Society                                   1,238,058
+  2012  Brown University In Providence In State Of Ri                   9,184,694
+  2012  American Mathematical Society                                     538,110
 ```
 ## SULI/CCI Interns
 From 2014-2016 (only years available), this district had 7 SULI/CCI interns

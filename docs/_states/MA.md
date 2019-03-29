@@ -33,15 +33,15 @@ Wellesley College                             8,000
 In the past 8 years, this state has received:
 16 Office of Science contracts, totalling <b> $151,763</b>
 ```
-Vendor                                       Amount ($)  Item
------------------------------------------  ------------  -------------------------------------------------------------------------------------------
-Rapid7 LLC                                       66,711  ADP Software
-Publishers Intl Linking Assoc                    30,248  Newspapers And Periodicals
-American Meteorological Society, Inc.            20,808  Newspapers And Periodicals
-Massachusetts Medical Society Inc                18,450  Newspapers And Periodicals
-Iron Mountain Information Management, LLC         7,051  IT And Telecom- Data Centers And Storage
-American Meteorological Society, Inc.             5,395  Support- Professional: Certifications And Accreditations (Other Than Educ Or Info Tech C&A)
-Massachusetts Medical Society                     3,100  Newspapers And Periodicals
+Vendor                                      Amount ($)  Item
+----------------------------------------  ------------  ----------------------------------------
+Rapid7 LLC                                      66,711  ADP Software
+Publishers Intl Linking Assoc                   30,248  Newspapers And Periodicals
+American Meteorological Society, Inc.           20,808  Newspapers And Periodicals
+Massachusetts Medical Society Inc               18,450  Newspapers And Periodicals
+Iron Mountain Information Management, LL         7,051  IT And Telecom- Data Centers And Storage
+American Meteorological Society, Inc.            5,395  Support- Professional: Certifications An
+Massachusetts Medical Society                    3,100  Newspapers And Periodicals
 ```
 ## NSF MPS Grants
 In the past 8 years, this state has received:
@@ -637,13 +637,13 @@ Smithsonian Astrophysical Observatory       945,000     2012   2014  Benbow     
 In the past 8 years, this district has received:
 5 Office of Science contracts, totalling <b> $41,162</b>
 ```
-  Year  Vendor                                       Amount ($)  Item
-------  -----------------------------------------  ------------  -------------------------------------------------------------------------------------------
-  2016  American Meteorological Society, Inc.             5,634  Newspapers And Periodicals
-  2016  Iron Mountain Information Management, LLC         7,051  IT And Telecom- Data Centers And Storage
-  2015  American Meteorological Society, Inc.             5,395  Support- Professional: Certifications And Accreditations (Other Than Educ Or Info Tech C&A)
-  2013  American Meteorological Society, Inc.             5,239  Newspapers And Periodicals
-  2012  Rapid7 LLC                                       17,843  ADP Software
+  Year  Vendor                                      Amount ($)  Item
+------  ----------------------------------------  ------------  ----------------------------------------
+  2016  American Meteorological Society, Inc.            5,634  Newspapers And Periodicals
+  2016  Iron Mountain Information Management, LL         7,051  IT And Telecom- Data Centers And Storage
+  2015  American Meteorological Society, Inc.            5,395  Support- Professional: Certifications An
+  2013  American Meteorological Society, Inc.            5,239  Newspapers And Periodicals
+  2012  Rapid7 LLC                                      17,843  ADP Software
 ```
 ## NSF MPS Grants
 In the past 8 years, this district has received:<b> $63,576,568 </b>in NSF MPS grants.

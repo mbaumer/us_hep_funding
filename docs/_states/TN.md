@@ -52,29 +52,49 @@ In the past 8 years, this state has received:
 In the past 8 years, this state has received:
 902 Office of Science contracts, totalling <b> $16,091,197,537</b>
 ```
-Vendor                                           Amount ($)  Item
--------------------------------------------  --------------  -------------------------------------------------------------------------------
-Ut Battelle, LLC                             11,148,220,377  Operation Of Govt R&D GOCO Facilities
-Urs                                           1,460,826,275  Other Environmental Services
-Oak Ridge Associated Universities Inc.        1,068,587,126  Education/Training- Other
-Oak Ridge Associated Universities, Inc.       1,017,464,272  Education/Training- Other
-Wastren Advantage, Inc.                         239,339,610  Housekeeping- Waste Treatment/Storage
-Tennessee Valley Authority                      203,778,362  Utilities- Electric
-National Strategic Protective Services, LLC     180,169,412  Housekeeping- Guard
-Isotek Systems, LLC                             177,071,563  Maint-Rep-Alt/Epg - Nuclear
-Johnson Controls Government Systems LLC          75,268,124  Contruct/All Other Non-Bldg Facs
-G4S Government Solutions Inc                     43,717,754  Housekeeping- Guard
-Professional Project Services, Inc.              37,455,779  Support- Professional: Engineering/Technical
-Information International Associates, Inc.       36,344,418  IT And Telecom- Other IT And Telecommunications
-Sec Federal Services Corporation                 29,886,873  Salvage- Demolition Of Buildings
-Mutual Telecom Services Inc.                     28,298,080  IT And Telecom- Telecommunications And Transmission
-Ch2M Hill Constructors, Inc.                     24,200,000  Architect And Engineering- Construction: Waste Treatment And Storage Facilities
-Atmos Energy Marketing, LLC                      22,077,476  Utilities- Gas
-North Wind Solutions, LLC                        20,294,528  Operation Of Waste Treatment And Storage Facilities
-Alliant Alliance, LLC                            19,846,227  IT And Telecom- Other IT And Telecommunications
-Bei-Jes Oak Ridge, LLC                           16,235,056  Support- Administrative: Other
-Centerpoint Energy Services, Inc.                16,174,911  Utilities- Gas
-and  420  other firms.
+Vendor                                        Amount ($)  Item
+----------------------------------------  --------------  ----------------------------------------
+Ut Battelle, LLC                          11,148,220,377  Operation Of Govt R&D GOCO Facilities
+Urs                                        1,460,826,275  Other Environmental Services
+Oak Ridge Associated Universities Inc.     1,068,587,126  Education/Training- Other
+Oak Ridge Associated Universities, Inc.    1,017,464,272  Education/Training- Other
+Wastren Advantage, Inc.                      239,339,610  Housekeeping- Waste Treatment/Storage
+Tennessee Valley Authority                   203,778,362  Utilities- Electric
+National Strategic Protective Services,      180,169,412  Housekeeping- Guard
+Isotek Systems, LLC                          177,071,563  Maint-Rep-Alt/Epg - Nuclear
+Johnson Controls Government Systems LLC       75,268,124  Contruct/All Other Non-Bldg Facs
+G4S Government Solutions Inc                  43,717,754  Housekeeping- Guard
+Professional Project Services, Inc.           37,455,779  Support- Professional: Engineering/Techn
+Information International Associates, In      36,344,418  IT And Telecom- Other IT And Telecommuni
+Sec Federal Services Corporation              29,886,873  Salvage- Demolition Of Buildings
+Mutual Telecom Services Inc.                  28,298,080  IT And Telecom- Telecommunications And T
+Ch2M Hill Constructors, Inc.                  24,200,000  Architect And Engineering- Construction:
+Atmos Energy Marketing, LLC                   22,077,476  Utilities- Gas
+North Wind Solutions, LLC                     20,294,528  Operation Of Waste Treatment And Storage
+Alliant Alliance, LLC                         19,846,227  IT And Telecom- Other IT And Telecommuni
+Bei-Jes Oak Ridge, LLC                        16,235,056  Support- Administrative: Other
+Centerpoint Energy Services, Inc.             16,174,911  Utilities- Gas
+Oak Ridge, City Of                            15,710,362  Utilities- Water
+Tribalco, LLC                                 12,831,548  Radio And Television Communication Equip
+Wyandotte Services                            11,712,890  Support- Professional: Other
+Alutiiq Professional Training, LLC             9,432,870  Support- Administrative: Other
+East Tennessee Mechanical Contractors, I       8,934,355  Maintenance Of Highways/Roads/Streets/Br
+Federal Network Systems LLC                    8,259,672  IT And Telecom- Telecommunications Netwo
+Navarro Research And Engineering, Inc.         7,977,261  Support- Professional: Other
+Golden Svcs, L.L.C.                            7,083,951  Support- Professional: Physical Security
+Get-Nsa                                        6,624,733  IT And Telecom- Facility Operation And M
+Synergy Solutions, Inc.                        5,879,044  Support- Professional: Other
+H & T Enterprises, Inc.                        5,167,001  Housekeeping- Facilities Operations Supp
+Rei Systems, Inc.                              5,031,402  IT And Telecom- Other IT And Telecommuni
+Boston Government Services, LLC                4,976,865  Support- Professional: Engineering/Techn
+Cni Global Solutions, LLC                      4,395,353  IT And Telecom- Systems Development
+Link Technologies Inc                          3,980,000  Support- Professional: Other
+Federated IT, Inc.                             3,717,162  IT And Telecom- Systems Development
+H & T Enterprises, Inc.                        3,648,233  Maintenance Of Government-Owned Governme
+Legacy/Critique                                3,348,854  Support- Administrative: Other
+Sec Federal Services Corporation               3,287,671  Environmental Systems Protection- Enviro
+Awd Management Services                        3,254,534  Support- Professional: Emergency Respons
+and  400  other firms.
 ```
 ## NSF MPS Grants
 In the past 8 years, this state has received:
@@ -139,9 +159,9 @@ In the past 8 years, this district has received:
 4 Office of Science contracts, totalling <b> $169,125</b>
 ```
 Vendor                                    Amount ($)  Item
---------------------------------------  ------------  ---------------------------------------------------
+--------------------------------------  ------------  ----------------------------------------
 Cooks Air Conditioning & Heating, Inc.       154,774  Installation Of Equipment- Miscellaneous
-Geo Services, LLC                              5,626  Special Studies/Analysis- Environmental Assessments
+Geo Services, LLC                              5,626  Special Studies/Analysis- Environmental
 B & H Sales                                    5,260  Hand Tools, Edged, Nonpowered
 Water Solutions Engineering, LLC               3,465  Water Purification Equipment
 ```
@@ -189,29 +209,49 @@ University of Tennessee       674,000     2012  2014     Kamyshkov              
 In the past 8 years, this district has received:
 89 Office of Science contracts, totalling <b> $224,103,846</b>
 ```
-Vendor                                         Amount ($)  Item
--------------------------------------------  ------------  ---------------------------------------------------------------------------------
-National Strategic Protective Services, LLC   178,822,409  Housekeeping- Guard
-North Wind Solutions, LLC                      20,294,528  Operation Of Waste Treatment And Storage Facilities
-Wyandotte Services                             11,265,853  Support- Professional: Other
-Synergy Solutions, Inc.                         2,951,509  Support- Professional: Other
-Tribalco, LLC                                   2,823,116  Radio And Television Communication Equipment, Except Airborne
-Amarc LLC                                       2,090,863  Support- Professional: Engineering/Technical
-Premiere Building Maintenance Corporation       1,752,668  Housekeeping- Custodial Janitorial
-Professional Project Services, Inc.             1,165,000  Support- Professional: Engineering/Technical
-East Tennessee Mechanical Contractors, Inc.       441,602  Maintenance Of Highways/Roads/Streets/Bridges/Railways
-Gridiron Construction Company, LLC                230,520  Construction Of Other Administrative Facilities And Service Buildings
-Office Leader Corp.                               222,914  Office Furniture
-Burnett, Robert                                   206,792  Installation Of Equipment- Electrical And Electronic Equipment Components
-Strata G, LLC                                     164,426  Special Studies/Analysis- Environmental Assessments
-Deep Web Technologies, Inc.                       162,000  Support- Administrative: Information Retrieval
-Cohnreznick Llp                                   150,000  Support- Management: Auditing
-Shoffner Mechanical Services, Inc.                149,437  Maint/Repair/Rebuild Of Equipment- Electric Wire And Power Distribution Equipment
-Aerostar Ses LLC                                  130,882  Construction Of Office Buildings
-Honeywell Products Inc                            122,618  Miscellaneous Alarm, Signal, And Security Detection Systems
-K.C. Electrical Construction, Inc.                 81,885  Installation Of Equipment- Electrical And Electronic Equipment Components
-Catalyst Technology Group Usa, Inc.                80,272  ADPE System Configuration
-and  37  other firms.
+Vendor                                      Amount ($)  Item
+----------------------------------------  ------------  ----------------------------------------
+National Strategic Protective Services,    178,822,409  Housekeeping- Guard
+North Wind Solutions, LLC                   20,294,528  Operation Of Waste Treatment And Storage
+Wyandotte Services                          11,265,853  Support- Professional: Other
+Synergy Solutions, Inc.                      2,951,509  Support- Professional: Other
+Tribalco, LLC                                2,823,116  Radio And Television Communication Equip
+Amarc LLC                                    2,090,863  Support- Professional: Engineering/Techn
+Premiere Building Maintenance Corporatio     1,752,668  Housekeeping- Custodial Janitorial
+Professional Project Services, Inc.          1,165,000  Support- Professional: Engineering/Techn
+East Tennessee Mechanical Contractors, I       441,602  Maintenance Of Highways/Roads/Streets/Br
+Gridiron Construction Company, LLC             230,520  Construction Of Other Administrative Fac
+Office Leader Corp.                            222,914  Office Furniture
+Burnett, Robert                                206,792  Installation Of Equipment- Electrical An
+Strata G, LLC                                  164,426  Special Studies/Analysis- Environmental
+Deep Web Technologies, Inc.                    162,000  Support- Administrative: Information Ret
+Cohnreznick Llp                                150,000  Support- Management: Auditing
+Shoffner Mechanical Services, Inc.             149,437  Maint/Repair/Rebuild Of Equipment- Elect
+Aerostar Ses LLC                               130,882  Construction Of Office Buildings
+Honeywell Products Inc                         122,618  Miscellaneous Alarm, Signal, And Securit
+K.C. Electrical Construction, Inc.              81,885  Installation Of Equipment- Electrical An
+Catalyst Technology Group Usa, Inc.             80,272  ADPE System Configuration
+New Tech Solutions, Inc.                        79,552  Information Technology Components
+Del Air Mechanical Contractors, Inc             76,750  Miscellaneous Maintenance And Repair Sho
+Del Air Mechanical Contractors, Inc             74,254  Architect And Engineering- General: Othe
+American Chemical Society                       37,815  IT And Telecom- Web-Based Subscription
+Institute Of Electrical And Electronics         36,895  IT And Telecom- Web-Based Subscription
+H&E Equipment Services, Inc.                    35,000  Miscellaneous Service And Trade Equipmen
+American Physical Society, The                  34,213  IT And Telecom- Web-Based Subscription
+Gerard Hilferty And Associates, Inc.            31,203  Operation Of Museums And Exhibition Buil
+Ricoh Usa, Inc.                                 29,881  Printing, Duplicating, And Bookbinding E
+Prm Consulting, Inc.                            26,000  Support- Professional: Human Resources
+Tribalco, LLC                                   24,678  Radio And Television Communication Equip
+Gwyn Sales Inc.                                 24,530  Miscellaneous Electrical And Electronic
+IT Federal Sales, LLC                           18,703  IT And Telecom- Web-Based Subscription
+Taylor & Francis Group, LLC                     15,921  IT And Telecom- Web-Based Subscription
+Relx Inc.                                       15,600  IT And Telecom- Teleprocessing, Timeshar
+Office Depot Inc.                               14,289  Miscellaneous Office Machines
+Reno/Tahoe Realty Group, LLC                    13,568  Support- Professional: Real Estate Broke
+Thermocopy Of Tennessee, Inc.                   13,109  Miscellaneous Office Machines
+Lrp Publications, Inc.                          11,900  IT And Telecom- Web-Based Subscription
+A. C. White Moving Systems, Inc.                11,854  Transportation/Travel/Relocation- Transp
+and  17  other firms.
 ```
 ## NSF MPS Grants
 In the past 8 years, this district has received:<b> $25,458,130 </b>in NSF MPS grants.
@@ -311,29 +351,49 @@ This district received no SC HEP grants from 2012-2019
 In the past 8 years, this district has received:
 809 Office of Science contracts, totalling <b> $15,866,770,489</b>
 ```
-Vendor                                          Amount ($)  Item
-------------------------------------------  --------------  -------------------------------------------------------------------------------
-Ut Battelle, LLC                            11,148,220,377  Operation Of Govt R&D GOCO Facilities
-Urs                                          1,460,826,275  Other Environmental Services
-Oak Ridge Associated Universities Inc.       1,068,587,126  Education/Training- Other
-Oak Ridge Associated Universities, Inc.      1,017,464,272  Education/Training- Other
-Wastren Advantage, Inc.                        239,339,610  Housekeeping- Waste Treatment/Storage
-Tennessee Valley Authority                     203,778,362  Utilities- Electric
-Isotek Systems, LLC                            177,071,563  Maint-Rep-Alt/Epg - Nuclear
-Johnson Controls Government Systems LLC         75,268,124  Contruct/All Other Non-Bldg Facs
-G4S Government Solutions Inc                    43,717,754  Housekeeping- Guard
-Information International Associates, Inc.      36,344,418  IT And Telecom- Other IT And Telecommunications
-Professional Project Services, Inc.             36,290,779  Support- Professional: Engineering/Technical
-Sec Federal Services Corporation                29,886,873  Salvage- Demolition Of Buildings
-Mutual Telecom Services Inc.                    28,298,080  IT And Telecom- Telecommunications And Transmission
-Ch2M Hill Constructors, Inc.                    24,200,000  Architect And Engineering- Construction: Waste Treatment And Storage Facilities
-Atmos Energy Marketing, LLC                     22,077,476  Utilities- Gas
-Alliant Alliance, LLC                           19,846,227  IT And Telecom- Other IT And Telecommunications
-Bei-Jes Oak Ridge, LLC                          16,235,056  Support- Administrative: Other
-Centerpoint Energy Services, Inc.               16,174,911  Utilities- Gas
-Oak Ridge, City Of                              15,710,362  Utilities- Water
-Tribalco, LLC                                   10,008,432  Radio And Television Communication Equipment, Except Airborne
-and  391  other firms.
+Vendor                                        Amount ($)  Item
+----------------------------------------  --------------  ----------------------------------------
+Ut Battelle, LLC                          11,148,220,377  Operation Of Govt R&D GOCO Facilities
+Urs                                        1,460,826,275  Other Environmental Services
+Oak Ridge Associated Universities Inc.     1,068,587,126  Education/Training- Other
+Oak Ridge Associated Universities, Inc.    1,017,464,272  Education/Training- Other
+Wastren Advantage, Inc.                      239,339,610  Housekeeping- Waste Treatment/Storage
+Tennessee Valley Authority                   203,778,362  Utilities- Electric
+Isotek Systems, LLC                          177,071,563  Maint-Rep-Alt/Epg - Nuclear
+Johnson Controls Government Systems LLC       75,268,124  Contruct/All Other Non-Bldg Facs
+G4S Government Solutions Inc                  43,717,754  Housekeeping- Guard
+Information International Associates, In      36,344,418  IT And Telecom- Other IT And Telecommuni
+Professional Project Services, Inc.           36,290,779  Support- Professional: Engineering/Techn
+Sec Federal Services Corporation              29,886,873  Salvage- Demolition Of Buildings
+Mutual Telecom Services Inc.                  28,298,080  IT And Telecom- Telecommunications And T
+Ch2M Hill Constructors, Inc.                  24,200,000  Architect And Engineering- Construction:
+Atmos Energy Marketing, LLC                   22,077,476  Utilities- Gas
+Alliant Alliance, LLC                         19,846,227  IT And Telecom- Other IT And Telecommuni
+Bei-Jes Oak Ridge, LLC                        16,235,056  Support- Administrative: Other
+Centerpoint Energy Services, Inc.             16,174,911  Utilities- Gas
+Oak Ridge, City Of                            15,710,362  Utilities- Water
+Tribalco, LLC                                 10,008,432  Radio And Television Communication Equip
+Alutiiq Professional Training, LLC             9,432,870  Support- Administrative: Other
+East Tennessee Mechanical Contractors, I       8,492,753  Maintenance Of Highways/Roads/Streets/Br
+Federal Network Systems LLC                    8,259,672  IT And Telecom- Telecommunications Netwo
+Navarro Research And Engineering, Inc.         7,977,261  Support- Professional: Other
+Golden Svcs, L.L.C.                            7,083,951  Support- Professional: Physical Security
+Get-Nsa                                        6,624,733  IT And Telecom- Facility Operation And M
+H & T Enterprises, Inc.                        5,167,001  Housekeeping- Facilities Operations Supp
+Rei Systems, Inc.                              5,031,402  IT And Telecom- Other IT And Telecommuni
+Boston Government Services, LLC                4,976,865  Support- Professional: Engineering/Techn
+Cni Global Solutions, LLC                      4,395,353  IT And Telecom- Systems Development
+Link Technologies Inc                          3,980,000  Support- Professional: Other
+Federated IT, Inc.                             3,717,162  IT And Telecom- Systems Development
+H & T Enterprises, Inc.                        3,648,233  Maintenance Of Government-Owned Governme
+Legacy/Critique                                3,348,854  Support- Administrative: Other
+Sec Federal Services Corporation               3,287,671  Environmental Systems Protection- Enviro
+Awd Management Services                        3,254,534  Support- Professional: Emergency Respons
+Repaintex Company                              3,224,700  Housekeeping- Custodial Janitorial
+B & B Lawn Services, L.L.C.                    3,167,427  Housekeeping- Landscaping/Groundskeeping
+Global Engineering & Technology, Inc.          3,009,003  Maint/Repair/Rebuild Of Equipment- Alarm
+Superior Solutions Inc                         2,996,741  Housekeeping- Facilities Operations Supp
+and  371  other firms.
 ```
 ## NSF MPS Grants
 In the past 8 years, this district has received:<b> $1,694,874 </b>in NSF MPS grants.
@@ -589,8 +649,8 @@ In the past 8 years, this district has received:
 3 Office of Science contracts, totalling <b> $17,863</b>
 ```
   Year  Vendor                         Amount ($)  Item
-------  ---------------------------  ------------  -----------------------------------------------------
-  2015  Interactive Solutions, Inc.         6,434  IT And Telecom- Telecommunications Network Management
+------  ---------------------------  ------------  ----------------------------------------
+  2015  Interactive Solutions, Inc.         6,434  IT And Telecom- Telecommunications Netwo
   2014  Interactive Solutions, Inc.         5,943  Telephone And Telegraph Equipment
   2013  Interactive Solutions, Inc.         5,486  Telephone And Telegraph Equipment
 ```

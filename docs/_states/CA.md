@@ -42,28 +42,30 @@ California State University Long Beach          40,000
 In the past 8 years, this state has received:
 30 Office of Science contracts, totalling <b> $9,913,394,719</b>
 ```
-Vendor                                                 Amount ($)  Item
---------------------------------------------------  -------------  -----------------------------------------------------------
-The Regents Of The University Of California (1741)  6,210,749,282  Operation Of Govt R&D GOCO Facilities
-Stanford University                                 3,695,520,306  Operation Of Govt R&D GOCO Facilities
-Larta, Inc                                              4,600,000  Support- Professional: Other
-Outsource Consulting Services, Inc.                       825,295  Support- Administrative: Other
-Human Potential Consultants, L.L.C.                       744,044  Support- Administrative: Other
-Lockwood Hills Federal, LLC                               383,055  Support- Professional: Other
-Lockwood Hills Federal, LLC                               188,700  Support- Administrative: Other
-Nextstep Technology, Inc                                  143,250  Support- Administrative: Other
-Impres Technology Solutions, Inc.                          53,636  ADPE System Configuration
-Annual Reviews, Inc.                                       35,552  Newspapers And Periodicals
-Hirsch Electronics LLC                                     30,660  Miscellaneous Alarm, Signal, And Security Detection Systems
-Coaching Commitments                                       27,600  Support- Administrative: Other
-New Tech Solutions Inc.                                    15,576  Information Technology Software
-Joan E  Capriglione                                        15,134  Support- Professional: Other
-Berkana Training And Development Corporation               14,422  Support- Professional: Human Resources
-Sage Publications, Inc.                                    13,981  Newspapers And Periodicals
-Exemplis LLC                                                8,381  Office Furniture
-Blue Tech Inc.                                              6,388  Information Technology Software
-Apple Inc.                                                  6,262  ADPE System Configuration
-Hlc Group Inc                                               5,035  Education/Training- Training/Curriculum Development
+Vendor                                       Amount ($)  Item
+----------------------------------------  -------------  ----------------------------------------
+The Regents Of The University Of Califor  6,210,749,282  Operation Of Govt R&D GOCO Facilities
+Stanford University                       3,695,520,306  Operation Of Govt R&D GOCO Facilities
+Larta, Inc                                    4,600,000  Support- Professional: Other
+Outsource Consulting Services, Inc.             825,295  Support- Administrative: Other
+Human Potential Consultants, L.L.C.             744,044  Support- Administrative: Other
+Lockwood Hills Federal, LLC                     383,055  Support- Professional: Other
+Lockwood Hills Federal, LLC                     188,700  Support- Administrative: Other
+Nextstep Technology, Inc                        143,250  Support- Administrative: Other
+Impres Technology Solutions, Inc.                53,636  ADPE System Configuration
+Annual Reviews, Inc.                             35,552  Newspapers And Periodicals
+Hirsch Electronics LLC                           30,660  Miscellaneous Alarm, Signal, And Securit
+Coaching Commitments                             27,600  Support- Administrative: Other
+New Tech Solutions Inc.                          15,576  Information Technology Software
+Joan E  Capriglione                              15,134  Support- Professional: Other
+Berkana Training And Development Corpora         14,422  Support- Professional: Human Resources
+Sage Publications, Inc.                          13,981  Newspapers And Periodicals
+Exemplis LLC                                      8,381  Office Furniture
+Blue Tech Inc.                                    6,388  Information Technology Software
+Apple Inc.                                        6,262  ADPE System Configuration
+Hlc Group Inc                                     5,035  Education/Training- Training/Curriculum
+Impres Technology Solutions, Inc.                 4,514  IT And Telecom- Annual Software Maintena
+Impres Technology Solutions, Inc.                 3,646  ADP Central Processing Unit (CPU, Comput
 ```
 ## NSF MPS Grants
 In the past 8 years, this state has received:
@@ -554,12 +556,12 @@ University of California - Berkeley       375,000     2012   2014  Wurtele      
 In the past 8 years, this district has received:
 4 Office of Science contracts, totalling <b> $998,418,144</b>
 ```
-  Year  Vendor                                                Amount ($)  Item
-------  --------------------------------------------------  ------------  ---------------------------------------------------
-  2013  The Regents Of The University Of California (1741)   270,852,895  Operation Of Govt R&D GOCO Facilities
-  2012  Coaching Commitments                                      27,600  Support- Administrative: Other
-  2012  Hlc Group Inc                                              5,035  Education/Training- Training/Curriculum Development
-  2012  The Regents Of The University Of California (1741)   727,532,614  Operation Of Govt R&D GOCO Facilities
+  Year  Vendor                                      Amount ($)  Item
+------  ----------------------------------------  ------------  ---------------------------------------
+  2013  The Regents Of The University Of Califor   270,852,895  Operation Of Govt R&D GOCO Facilities
+  2012  Coaching Commitments                            27,600  Support- Administrative: Other
+  2012  Hlc Group Inc                                    5,035  Education/Training- Training/Curriculum
+  2012  The Regents Of The University Of Califor   727,532,614  Operation Of Govt R&D GOCO Facilities
 ```
 ## NSF MPS Grants
 In the past 8 years, this district has received:<b> $30,840,230 </b>in NSF MPS grants.
@@ -707,13 +709,13 @@ University of California - Berkeley       255,000     2014  2016     Wurtele, Jo
 In the past 8 years, this district has received:
 5 Office of Science contracts, totalling <b> $5,213,775,957</b>
 ```
-Vendor                                                 Amount ($)  Item
---------------------------------------------------  -------------  -------------------------------------
-The Regents Of The University Of California (1741)  5,212,363,773  Operation Of Govt R&D GOCO Facilities
-Outsource Consulting Services, Inc.                       825,295  Support- Administrative: Other
-Lockwood Hills Federal, LLC                               383,055  Support- Professional: Other
-Lockwood Hills Federal, LLC                               188,700  Support- Administrative: Other
-Joan E  Capriglione                                        15,134  Support- Professional: Other
+Vendor                                       Amount ($)  Item
+----------------------------------------  -------------  -------------------------------------
+The Regents Of The University Of Califor  5,212,363,773  Operation Of Govt R&D GOCO Facilities
+Outsource Consulting Services, Inc.             825,295  Support- Administrative: Other
+Lockwood Hills Federal, LLC                     383,055  Support- Professional: Other
+Lockwood Hills Federal, LLC                     188,700  Support- Administrative: Other
+Joan E  Capriglione                              15,134  Support- Professional: Other
 ```
 ## NSF MPS Grants
 In the past 8 years, this district has received:<b> $158,411,843 </b>in NSF MPS grants.
@@ -824,13 +826,13 @@ Stanford University                  300,000     2012  2014     Senatore        
 In the past 8 years, this district has received:
 4 Office of Science contracts, totalling <b> $481,047,246</b>
 ```
-  Year  Vendor                                          Amount ($)  Item
-------  --------------------------------------------  ------------  --------------------------------------
-  2013  Annual Reviews, Inc.                                 6,973  Newspapers And Periodicals
-  2013  Berkana Training And Development Corporation        14,422  Support- Professional: Human Resources
-  2013  Stanford University                            144,016,767  Operation Of Govt R&D GOCO Facilities
-  2012  Annual Reviews, Inc.                                13,472  Newspapers And Periodicals
-  2012  Stanford University                            336,995,612  Operation Of Govt R&D GOCO Facilities
+  Year  Vendor                                      Amount ($)  Item
+------  ----------------------------------------  ------------  --------------------------------------
+  2013  Annual Reviews, Inc.                             6,973  Newspapers And Periodicals
+  2013  Berkana Training And Development Corpora        14,422  Support- Professional: Human Resources
+  2013  Stanford University                        144,016,767  Operation Of Govt R&D GOCO Facilities
+  2012  Annual Reviews, Inc.                            13,472  Newspapers And Periodicals
+  2012  Stanford University                        336,995,612  Operation Of Govt R&D GOCO Facilities
 ```
 ## NSF MPS Grants
 In the past 8 years, this district has received:<b> $36,654,160 </b>in NSF MPS grants.
@@ -1870,10 +1872,10 @@ In the past 8 years, this district has received:
 4 Office of Science contracts, totalling <b> $61,796</b>
 ```
   Year  Vendor                               Amount ($)  Item
-------  ---------------------------------  ------------  ---------------------------------------------------------
-  2015  Impres Technology Solutions, Inc.         3,646  ADP Central Processing Unit (CPU, Computer), Analog
+------  ---------------------------------  ------------  ----------------------------------------
+  2015  Impres Technology Solutions, Inc.         3,646  ADP Central Processing Unit (CPU, Comput
   2015  Impres Technology Solutions, Inc.        53,636  ADPE System Configuration
-  2015  Impres Technology Solutions, Inc.         4,514  IT And Telecom- Annual Software Maintenance Service Plans
+  2015  Impres Technology Solutions, Inc.         4,514  IT And Telecom- Annual Software Maintena
 ```
 ## NSF MPS Grants
 In the past 8 years, this district has received:<b> $37,077 </b>in NSF MPS grants.
@@ -2167,9 +2169,9 @@ In the past 8 years, this district has received:
 2 Office of Science contracts, totalling <b> $39,041</b>
 ```
   Year  Vendor                    Amount ($)  Item
-------  ----------------------  ------------  -----------------------------------------------------------
+------  ----------------------  ------------  ----------------------------------------
   2015  Exemplis LLC                   8,381  Office Furniture
-  2012  Hirsch Electronics LLC        30,660  Miscellaneous Alarm, Signal, And Security Detection Systems
+  2012  Hirsch Electronics LLC        30,660  Miscellaneous Alarm, Signal, And Securit
 ```
 ## NSF MPS Grants
 In the past 8 years, this district has received:<b> $2,610,228 </b>in NSF MPS grants.

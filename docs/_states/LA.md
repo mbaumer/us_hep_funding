@@ -73,8 +73,8 @@ Univ Of Louisiana At Lafay                        40,610
 From 2014-2016 (only years available), this state had 6 SULI/CCI interns
 ```
   # Interns  Program    College
------------  ---------  ------------------------------------------------------------------
-          4  SULI       Louisiana State University and Agricultural and Mechanical College
+-----------  ---------  ------------------------------------------------------------
+          4  SULI       Louisiana State University and Agricultural and Mechanical C
           2  SULI       Tulane University
 ```
 ---

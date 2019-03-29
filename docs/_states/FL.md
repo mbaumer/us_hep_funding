@@ -34,9 +34,9 @@ In the past 8 years, this state has received:
 5 Office of Science contracts, totalling <b> $65,689</b>
 ```
 Vendor                         Amount ($)  Item
----------------------------  ------------  -----------------------------------------
+---------------------------  ------------  ----------------------------------------
 Federal Contracts Corp             37,077  Passenger Motor Vehicles
-Tom Brunton Masonry, Inc.          10,739  Architect And Engineering- General: Other
+Tom Brunton Masonry, Inc.          10,739  Architect And Engineering- General: Othe
 Simplexgrinnell Lp                  7,802  Fire Control Directors
 Taylor & Francis Group, LLC         5,960  Newspapers And Periodicals
 Supplies Now, Inc.                  4,111  Office Supplies
@@ -626,8 +626,8 @@ In the past 8 years, this district has received:
 1 Office of Science contracts, totalling <b> $10,739</b>
 ```
   Year  Vendor                       Amount ($)  Item
-------  -------------------------  ------------  -----------------------------------------
-  2013  Tom Brunton Masonry, Inc.        10,739  Architect And Engineering- General: Other
+------  -------------------------  ------------  ----------------------------------------
+  2013  Tom Brunton Masonry, Inc.        10,739  Architect And Engineering- General: Othe
 ```
 ## NSF MPS Grants
 In the past 8 years, this district has received:<b> $369,602 </b>in NSF MPS grants.

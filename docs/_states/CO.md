@@ -36,17 +36,17 @@ In the past 8 years, this state has received:
 12 Office of Science contracts, totalling <b> $159,763</b>
 ```
 Vendor                               Amount ($)  Item
----------------------------------  ------------  ---------------------------------------------------------------------------------------------
-Alliant Corporation                      40,000  Special Studies/Analysis- Environmental Assessments
-Summit Technical Resources Inc.          39,805  Special Studies/Analysis- Environmental Assessments
-Premisys Support Group, Inc.             14,492  Installation Of Equipment- Electrical And Electronic Equipment Components
-Four Points Technology, L.L.C.           12,130  Radio And Television Communication Equipment, Except Airborne
+---------------------------------  ------------  ----------------------------------------
+Alliant Corporation                      40,000  Special Studies/Analysis- Environmental
+Summit Technical Resources Inc.          39,805  Special Studies/Analysis- Environmental
+Premisys Support Group, Inc.             14,492  Installation Of Equipment- Electrical An
+Four Points Technology, L.L.C.           12,130  Radio And Television Communication Equip
 Valiant Solutions, LLC                   10,099  ADP Components
-General Dynamics C4 Systems, Inc.         9,100  Communications Security Equipment And Components
+General Dynamics C4 Systems, Inc.         9,100  Communications Security Equipment And Co
 Digital Data Services Inc                 6,895  ADPE System Configuration
 Mc2 Electrical Contractors LLC            6,533  Electrical Control Equipment
-Agsi, LLC                                 5,852  ADP Central Processing Unit (CPU, Computer), Digital
-Premisys Support Group, Inc.              5,414  Maint/Repair/Rebuild Of Equipment- Communication, Detection, And Coherent Radiation Equipment
+Agsi, LLC                                 5,852  ADP Central Processing Unit (CPU, Comput
+Premisys Support Group, Inc.              5,414  Maint/Repair/Rebuild Of Equipment- Commu
 Mono Machines LLC                         4,875  Miscellaneous Office Machines
 Imaging Systems LLC                       4,568  Office Supplies
 ```
@@ -118,9 +118,9 @@ In the past 8 years, this district has received:
 2 Office of Science contracts, totalling <b> $79,805</b>
 ```
   Year  Vendor                             Amount ($)  Item
-------  -------------------------------  ------------  ---------------------------------------------------
-  2013  Alliant Corporation                    40,000  Special Studies/Analysis- Environmental Assessments
-  2013  Summit Technical Resources Inc.        39,805  Special Studies/Analysis- Environmental Assessments
+------  -------------------------------  ------------  ---------------------------------------
+  2013  Alliant Corporation                    40,000  Special Studies/Analysis- Environmental
+  2013  Summit Technical Resources Inc.        39,805  Special Studies/Analysis- Environmental
 ```
 ## NSF MPS Grants
 In the past 8 years, this district has received:<b> $6,389,624 </b>in NSF MPS grants.
@@ -407,15 +407,15 @@ In the past 8 years, this district has received:
 9 Office of Science contracts, totalling <b> $75,390</b>
 ```
 Vendor                               Amount ($)  Item
----------------------------------  ------------  ---------------------------------------------------------------------------------------------
-Premisys Support Group, Inc.             14,492  Installation Of Equipment- Electrical And Electronic Equipment Components
-Four Points Technology, L.L.C.           12,130  Radio And Television Communication Equipment, Except Airborne
+---------------------------------  ------------  ----------------------------------------
+Premisys Support Group, Inc.             14,492  Installation Of Equipment- Electrical An
+Four Points Technology, L.L.C.           12,130  Radio And Television Communication Equip
 Valiant Solutions, LLC                   10,099  ADP Components
-General Dynamics C4 Systems, Inc.         9,100  Communications Security Equipment And Components
+General Dynamics C4 Systems, Inc.         9,100  Communications Security Equipment And Co
 Digital Data Services Inc                 6,895  ADPE System Configuration
 Mc2 Electrical Contractors LLC            6,533  Electrical Control Equipment
-Agsi, LLC                                 5,852  ADP Central Processing Unit (CPU, Computer), Digital
-Premisys Support Group, Inc.              5,414  Maint/Repair/Rebuild Of Equipment- Communication, Detection, And Coherent Radiation Equipment
+Agsi, LLC                                 5,852  ADP Central Processing Unit (CPU, Comput
+Premisys Support Group, Inc.              5,414  Maint/Repair/Rebuild Of Equipment- Commu
 Mono Machines LLC                         4,875  Miscellaneous Office Machines
 ```
 ## NSF MPS Grants

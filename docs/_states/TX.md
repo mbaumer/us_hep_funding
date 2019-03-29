@@ -123,7 +123,7 @@ Midwestern State University                                                21,00
 From 2014-2016 (only years available), this state had 33 SULI/CCI interns
 ```
   # Interns  Program    College
------------  ---------  ------------------------------------------------------------------
+-----------  ---------  ------------------------------------------------------------
           5  SULI       University of Texas at Austin
           3  SULI       Rice University
           3  SULI       Texas Tech University
@@ -132,7 +132,7 @@ From 2014-2016 (only years available), this state had 33 SULI/CCI interns
           2  SULI       Trinity University
           2  SULI       Texas A&M University
           2  SULI       Austin College
-          1  SULI       The University of Texas at Brownsville and Texas Southmost College
+          1  SULI       The University of Texas at Brownsville and Texas Southmost C
           1  SULI       University of Texas at Dallas
           1  SULI       University of North Texas
           1  SULI       University of Houston--Downtown
@@ -1317,16 +1317,16 @@ This district received no SC contracts from 2012-2019
 ## NSF MPS Grants
 In the past 8 years, this district has received:<b> $3,674,028 </b>in NSF MPS grants.
 ```
-  Year  Institution                                                            Amount ($)
-------  -------------------------------------------------------------------  ------------
-  2018  University Of Texas Rio Grande Valley                                     646,380
-  2017  University Of Texas Rio Grande Valley                                   1,051,221
-  2017  University Of Texas Rio Grande Valley Foundation (Utrgv Foundation)       286,000
-  2016  Texas A&M University-Kingsville                                           229,395
-  2015  University Of Texas At Brownsville                                        484,969
-  2015  University Of Texas Brownsville                                           126,000
-  2014  University Of Texas At Brownsville                                        265,801
-  2013  University Of Texas At Brownsville                                        584,262
+  Year  Institution                                                     Amount ($)
+------  ------------------------------------------------------------  ------------
+  2018  University Of Texas Rio Grande Valley                              646,380
+  2017  University Of Texas Rio Grande Valley                            1,051,221
+  2017  University Of Texas Rio Grande Valley Foundation (Utrgv Foun       286,000
+  2016  Texas A&M University-Kingsville                                    229,395
+  2015  University Of Texas At Brownsville                                 484,969
+  2015  University Of Texas Brownsville                                    126,000
+  2014  University Of Texas At Brownsville                                 265,801
+  2013  University Of Texas At Brownsville                                 584,262
 ```
 ## SULI/CCI Interns
 From 2014-2016 (only years available), this district had 1 SULI/CCI intern

@@ -40,18 +40,18 @@ In the past 8 years, this state has received:
 In the past 8 years, this state has received:
 11 Office of Science contracts, totalling <b> $6,837,465,276</b>
 ```
-Vendor                                                Amount ($)  Item
--------------------------------------------------  -------------  ----------------------------------------------------------------------
-Battelle Memorial Institute                        6,837,177,200  Operation Of Govt R&D GOCO Facilities
-Yahsgs LLC                                               150,000  Support- Professional: Engineering/Technical
-Reno/Tahoe Realty Group, LLC                              32,489  Support- Professional: Real Estate Brokerage
-Ch2M Hill Plateau Remediation Company                     31,257  Maint-Rep-Alt/Waste Trmt-Store Fac
-Delacy Consulting LLC                                     20,800  Support- Professional: Real Property Appraisals
-Therrien Company Inc, The                                 18,800  Support- Professional: Real Property Appraisals
-Insight Public Sector, Inc.                               12,617  ADP Software
-Microsoft Corporation Sitz In Redmond Corporation         10,000  IT And Telecom- Information And Data Broadcasting Or Data Distribution
-Leverage Information Systems, Inc.                         8,162  IT And Telecom- Annual Hardware Maintenance Service Plans
-Solution Planning And Contract Environment, Inc.           3,951  Office Furniture
+Vendor                                       Amount ($)  Item
+----------------------------------------  -------------  ----------------------------------------
+Battelle Memorial Institute               6,837,177,200  Operation Of Govt R&D GOCO Facilities
+Yahsgs LLC                                      150,000  Support- Professional: Engineering/Techn
+Reno/Tahoe Realty Group, LLC                     32,489  Support- Professional: Real Estate Broke
+Ch2M Hill Plateau Remediation Company            31,257  Maint-Rep-Alt/Waste Trmt-Store Fac
+Delacy Consulting LLC                            20,800  Support- Professional: Real Property App
+Therrien Company Inc, The                        18,800  Support- Professional: Real Property App
+Insight Public Sector, Inc.                      12,617  ADP Software
+Microsoft Corporation Sitz In Redmond Co         10,000  IT And Telecom- Information And Data Bro
+Leverage Information Systems, Inc.                8,162  IT And Telecom- Annual Hardware Maintena
+Solution Planning And Contract Environme          3,951  Office Furniture
 ```
 ## NSF MPS Grants
 In the past 8 years, this state has received:
@@ -118,10 +118,10 @@ This district received no SC HEP grants from 2012-2019
 In the past 8 years, this district has received:
 2 Office of Science contracts, totalling <b> $18,162</b>
 ```
-  Year  Vendor                                               Amount ($)  Item
-------  -------------------------------------------------  ------------  ----------------------------------------------------------------------
-  2015  Leverage Information Systems, Inc.                        8,162  IT And Telecom- Annual Hardware Maintenance Service Plans
-  2014  Microsoft Corporation Sitz In Redmond Corporation        10,000  IT And Telecom- Information And Data Broadcasting Or Data Distribution
+  Year  Vendor                                      Amount ($)  Item
+------  ----------------------------------------  ------------  ----------------------------------------
+  2015  Leverage Information Systems, Inc.               8,162  IT And Telecom- Annual Hardware Maintena
+  2014  Microsoft Corporation Sitz In Redmond Co        10,000  IT And Telecom- Information And Data Bro
 ```
 ## NSF MPS Grants
 In the past 8 years, this district has received:<b> $79,950 </b>in NSF MPS grants.
@@ -207,14 +207,14 @@ This district received no SC HEP grants from 2012-2019
 In the past 8 years, this district has received:
 6 Office of Science contracts, totalling <b> $6,837,415,697</b>
 ```
-Vendor                                               Amount ($)  Item
-------------------------------------------------  -------------  -----------------------------------------------
-Battelle Memorial Institute                       6,837,177,200  Operation Of Govt R&D GOCO Facilities
-Yahsgs LLC                                              150,000  Support- Professional: Engineering/Technical
-Reno/Tahoe Realty Group, LLC                             32,489  Support- Professional: Real Estate Brokerage
-Ch2M Hill Plateau Remediation Company                    31,257  Maint-Rep-Alt/Waste Trmt-Store Fac
-Delacy Consulting LLC                                    20,800  Support- Professional: Real Property Appraisals
-Solution Planning And Contract Environment, Inc.          3,951  Office Furniture
+Vendor                                       Amount ($)  Item
+----------------------------------------  -------------  ----------------------------------------
+Battelle Memorial Institute               6,837,177,200  Operation Of Govt R&D GOCO Facilities
+Yahsgs LLC                                      150,000  Support- Professional: Engineering/Techn
+Reno/Tahoe Realty Group, LLC                     32,489  Support- Professional: Real Estate Broke
+Ch2M Hill Plateau Remediation Company            31,257  Maint-Rep-Alt/Waste Trmt-Store Fac
+Delacy Consulting LLC                            20,800  Support- Professional: Real Property App
+Solution Planning And Contract Environme          3,951  Office Furniture
 ```
 ## NSF MPS Grants
 In the past 8 years, this district has received:<b> $322,073 </b>in NSF MPS grants.
@@ -337,8 +337,8 @@ In the past 8 years, this district has received:
 1 Office of Science contracts, totalling <b> $18,800</b>
 ```
   Year  Vendor                       Amount ($)  Item
-------  -------------------------  ------------  -----------------------------------------------
-  2017  Therrien Company Inc, The        18,800  Support- Professional: Real Property Appraisals
+------  -------------------------  ------------  ----------------------------------------
+  2017  Therrien Company Inc, The        18,800  Support- Professional: Real Property App
 ```
 ## NSF MPS Grants
 In the past 8 years, this district has received:<b> $1,182,015 </b>in NSF MPS grants.

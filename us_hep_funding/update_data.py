@@ -380,6 +380,31 @@ def clean_nsf_grant_data():
 
     pd.to_pickle(mps_grants, '../new_data/cleaned/nsf_mps_grants.pkl')
 
+def clean_fnal_procurements():
+    for i in range(4,54):
+        if i == 4:
+            fnal = pd.read_excel('/Users/mbaumer/Downloads/FY\'18 Purchases by Supplier_State_All_states.xlsm',sheet_name=i)
+        else:
+            fnal = fnal.append(pd.read_excel('/Users/mbaumer/Downloads/FY\'18 Purchases by Supplier_State_All_states.xlsm',sheet_name=i))
+    fnal = fnal.dropna()
+    fnal_geo = pd.read_csv('../data/fnal_vendors_final_geocodio.csv')
+    fnal_geo = fnal_geo[['ZIP','Congressional District']]
+    fnal_geo = fnal_geo.dropna()
+    labeled = fnal.merge(fnal_geo)
+    labeled['Congressional District'] = labeled['Congressional District'].str.replace('[A-Z][A-Z]','')
+    labeled = labeled[['VENDOR_NAME','STATE','ZIP','Congressional District','Total']]
+    labeled['ZIP'] = labeled['ZIP'].str.replace('-\d+$','')
+    labeled = labeled.rename(columns={'VENDOR_NAME':'Vendor','STATE':'State','Congressional District' : 'District', 'Total': 'Amount ($)', 'ZIP' : 'ZIP Code'})
+    labeled['Vendor'] = labeled['Vendor'].str.title()
+    labeled['Vendor'] = labeled['Vendor'].str.replace('Llc','LLC')
+    labeled['Vendor'] = labeled['Vendor'].str.replace('\'S','\'s')
+    labeled['Vendor'] = labeled['Vendor'].str.replace(' Of ',' of ')
+    labeled['Vendor'] = labeled['Vendor'].str.replace(' In ',' in ')
+    labeled['int_amount'] = labeled['Amount ($)']
+    labeled['Amount ($)'] = labeled['Amount ($)'].map('{:,.0f}'.format)
+    labeled['ZIP Code'] = labeled['ZIP Code'].astype(int).astype(str)
+    pd.to_pickle(labeled, '../new_data/cleaned/fnal_procurements.pkl')
+
 
 def clean_legislator_data():
     print 'Generating legislator data...'
@@ -468,5 +493,6 @@ if __name__ == '__main__':
     clean_doe_grant_data()
     clean_nsf_grant_data()
     clean_suli_student_data()
+    clean_fnal_procurements()
     clean_legislator_data()
     clean_committee_data()

@@ -10,6 +10,11 @@ import cartopy.crs as ccrs
 import cartopy.feature as cfeature
 import cartopy.io.shapereader as shpreader
 
+max_chars = 40
+max_nsf_chars = 60
+max_entries = 40
+max_suli_entries = 25
+
 pd.options.display.float_format = '{:,.0f}'.format #print all numbers with commas and no decimals
 
 sc_contracts = pd.read_pickle('../new_data/cleaned/sc_contracts.pkl')
@@ -37,10 +42,10 @@ suli_students = suli_students.merge(natlabs,on='Host Lab')
 suli_students_by_state = suli_students.groupby(['State'])
 suli_students_by_district = suli_students.groupby(['Congressional District'])
 
+fnal_procurements = pd.read_pickle('../new_data/cleaned/fnal_procurements.pkl')
 
 legislators = pd.read_pickle('../new_data/cleaned/legislator_key_info.pkl')
 committee_members = pd.read_pickle('../new_data/cleaned/committee_memberships.pkl').groupby(4)
-
 
 def get_contracts(distcode,isState):
     print '## SC Contracts'
@@ -65,17 +70,19 @@ def get_contracts(distcode,isState):
     print '```'
     if n_firms < 4:
         df = contracts.get_group(distcode).groupby(['Vendor','Year','Item'])[['Amount ($)']].sum().reset_index().sort_values('Year',ascending=False)[['Year','Vendor','Amount ($)', 'Item']]
-        print tabulate(df, showindex=False, headers=df.columns,floatfmt=',.0f')
     else:
-        df = contracts.get_group(distcode).groupby(['Vendor','Item'])[['Amount ($)']].sum().sort_values(['Amount ($)'],ascending=False).head(n=20).reset_index()[['Vendor','Amount ($)','Item']]
-        print tabulate(df,showindex=False, headers=df.columns,floatfmt=',.0f')
-        if n_firms > 20: print 'and ', n_firms-20, ' other firms.'
+        df = contracts.get_group(distcode).groupby(['Vendor','Item'])[['Amount ($)']].sum().sort_values(['Amount ($)'],ascending=False).head(n=max_entries).reset_index()[['Vendor','Amount ($)','Item']]
+    df_summary = df
+    df_summary['Item'] = df_summary['Item'].str.slice(0, max_chars)
+    df_summary['Vendor'] = df_summary['Vendor'].str.slice(0, max_chars)
+    print tabulate(df,showindex=False, headers=df.columns,floatfmt=',.0f')
+    if n_firms > max_entries: print 'and ', n_firms-max_entries, ' other firms.'
     print '```'
-    if n_firms-20 > 0:
-        out_nfirms = n_firms-20
+    if n_firms-max_entries > 0:
+        out_nfirms = n_firms-max_entries
     else:
         out_nfirms = 0
-    return '${:,.0f}'.format(total_contract_value),out_nfirms,df.to_html(index=False).replace('\n',''),df.to_latex(index=False)
+    return '${:,.0f}'.format(total_contract_value),out_nfirms,df.to_html(index=False).replace('\n',''),df_summary.to_latex(index=False)
 
 def get_nsf_grants_by_district(distcode):
     print '## NSF MPS Grants'
@@ -85,13 +92,21 @@ def get_nsf_grants_by_district(distcode):
         print '```'
         print 'This district received no NSF MPS grants from '+str(start_year)+'-'+str(end_year)
         print '```'
-        return 'NA', 'NA', 'NA'
+        return 'NA', 'NA', 'NA','NA'
     print 'In the past '+str(n_years)+' years, this district has received:<b>', '${:,.0f}'.format(nsf_by_district.get_group(distcode)['Amount ($)'].sum()), '</b>in NSF MPS grants.'
     df = nsf_by_district.get_group(distcode).groupby(['Year','Institution'])[['Amount ($)']].sum().reset_index().sort_values('Year',ascending=False)[['Year','Institution','Amount ($)']]
+    df_summary = df.head(n=max_entries)
+    df_summary['Institution'] = df_summary['Institution'].str.slice(0, max_nsf_chars)
+    n_firms = len(df_summary)
+    if n_firms-max_entries > 0:
+        out_nfirms = n_firms-max_entries
+    else:
+        out_nfirms = 0
+
     print '```'
     print tabulate(df, showindex=False, headers=df.columns,floatfmt=',.0f')
     print '```'
-    return '${:,.0f}'.format(nsf_by_district.get_group(distcode)['Amount ($)'].sum()),df.to_html(index=False).replace('\n',''),df.to_latex(index=False)
+    return '${:,.0f}'.format(nsf_by_district.get_group(distcode)['Amount ($)'].sum()), out_nfirms, df.to_html(index=False).replace('\n',''),df_summary.to_latex(index=False)
     
 def get_nsf_grants_by_state(distcode):
     print '## NSF MPS Grants'
@@ -101,7 +116,7 @@ def get_nsf_grants_by_state(distcode):
         print '```'
         print 'This state received no NSF MPS grants from '+str(start_year)+'-'+str(end_year)
         print '```'
-        return 'NA', 'NA', 'NA'
+        return 'NA', 'NA', 'NA','NA'
     n_contracts = nsf_by_state.get_group(distcode)['Amount ($)'].count()
     total_contract_value = nsf_by_state.get_group(distcode)['Amount ($)'].sum()
     print 'In the past '+str(n_years)+' years, this state has received:'
@@ -112,9 +127,16 @@ def get_nsf_grants_by_state(distcode):
         df = nsf_by_state.get_group(distcode).groupby(['Year','Institution'])[['Amount ($)']].sum().reset_index().sort_values('Year',ascending=False)[['Year','Institution','Amount ($)']]
     else:
         df = nsf_by_state.get_group(distcode).groupby(['Institution'])[['Amount ($)']].sum().sort_values(['Amount ($)'],ascending=False).reset_index()[['Institution','Amount ($)']]
+    df_summary = df.head(n=max_entries)
+    df_summary['Institution'] = df_summary['Institution'].str.slice(0, max_nsf_chars)
+    n_firms = len(df_summary)
+    if n_firms-max_entries > 0:
+        out_nfirms = n_firms-max_entries
+    else:
+        out_nfirms = 0
     print tabulate(df, showindex=False, headers=df.columns,floatfmt=',.0f')
     print '```'
-    return '${:,.0f}'.format(total_contract_value),df.to_html(index=False).replace('\n',''),df.to_latex(index=False)
+    return '${:,.0f}'.format(total_contract_value), out_nfirms,df.to_html(index=False).replace('\n',''),df_summary.to_latex(index=False)
 
 def get_state_grants(distcode):
     print '## HEP Grants'
@@ -124,7 +146,7 @@ def get_state_grants(distcode):
         print '```'
         print 'This state received no SC HEP grants from '+str(start_year)+'-'+str(end_year)
         print '```'
-        return 'NA', 'NA', 'NA'
+        return 'NA', 'NA', 'NA','NA'
     n_contracts = grants_by_state.get_group(distcode)['Amount ($)'].count()
     total_contract_value = grants_by_state.get_group(distcode)['Amount ($)'].sum()
     print 'In the past '+str(n_years)+' years, this state has received:'
@@ -135,9 +157,16 @@ def get_state_grants(distcode):
         df = grants_by_state.get_group(distcode).groupby(['Year','Institution']).sum().reset_index().sort_values('Year',ascending=False)[['Year','Institution','Amount ($)']]
     else:
         df = grants_by_state.get_group(distcode).groupby(['Institution'])[['Amount ($)']].sum().sort_values(['Amount ($)'],ascending=False).reset_index()[['Institution','Amount ($)']]
+    df_summary = df.head(n=max_entries)
+    df_summary['Institution'] = df_summary['Institution'].str.slice(0, max_nsf_chars)
+    n_firms = len(df_summary)
+    if n_firms-max_entries > 0:
+        out_nfirms = n_firms-max_entries
+    else:
+        out_nfirms = 0
     print tabulate(df, showindex=False, headers=df.columns,floatfmt=',.0f')
     print '```'
-    return '${:,.0f}'.format(total_contract_value),df.to_html(index=False).replace('\n',''),df.to_latex(index=False)
+    return '${:,.0f}'.format(total_contract_value), out_nfirms, df.to_html(index=False).replace('\n',''),df_summary.to_latex(index=False)
 
 def get_district_grants(distcode):
     print '## HEP Grants'
@@ -147,18 +176,24 @@ def get_district_grants(distcode):
         print '```'
         print 'This district received no SC HEP grants from '+str(start_year)+'-'+str(end_year)
         print '```'
-        return 'NA', 'NA', 'NA'
+        return 'NA', 'NA', 'NA','NA'
     print 'In the past '+str(n_years)+' years, this district has received:<b>', '${:,.0f}'.format(grants_by_district.get_group(distcode)['Amount ($)'].sum()), '</b>in SC HEP grants.'
     df = grants_by_district.get_group(distcode).groupby(['Institution','Principal Investigator','Award Number'])
     start = df['Year'].min().rename('Start')
     end = df['Year'].max().rename('End')+1
     end = end.replace(2019,'Ongoing')
     df = pd.concat([df.agg({'Project Title' : max, 'Amount ($)': sum}), start, end],axis=1).reset_index().sort_values('Start',ascending=False)[['Institution','Amount ($)', 'Start', 'End','Principal Investigator','Project Title']]
-    df_summary = df[['Institution','Amount ($)', 'Start', 'End','Principal Investigator']]
+    df_summary = df[['Institution','Amount ($)', 'Start', 'End','Principal Investigator']].head(n=max_entries)
+    df_summary['Institution'] = df_summary['Institution'].str.slice(0, max_chars)
+    n_firms = len(df_summary)
+    if n_firms-max_entries > 0:
+        out_nfirms = n_firms-max_entries
+    else:
+        out_nfirms = 0
     print '```'
     print tabulate(df, showindex=False, headers=df.columns,floatfmt=',.0f')
     print '```'
-    return '${:,.0f}'.format(grants_by_district.get_group(distcode)['Amount ($)'].sum()),df.to_html(index=False).replace('\n',''),df_summary.to_latex(index=False)
+    return '${:,.0f}'.format(grants_by_district.get_group(distcode)['Amount ($)'].sum()), out_nfirms, df.to_html(index=False).replace('\n',''),df_summary.to_latex(index=False)
 
 def get_suli_students(distcode):
     print '## SULI/CCI Interns'
@@ -169,7 +204,7 @@ def get_suli_students(distcode):
         print '```'
         print 'This district had no SULI/CCI interns from 2014-2016 (only years available)'
         print '```'
-        return 'NA', 'NA', 'NA'
+        return 'NA', 'NA', 'NA','NA'
     n_interns = suli_students_by_district.get_group(distcode)['Name'].count()
     if n_interns == 1: 
         plural_str = ''
@@ -178,10 +213,18 @@ def get_suli_students(distcode):
     print 'From 2014-2016 (only years available), this district had', '{:,.0f}'.format(n_interns), 'SULI/CCI intern'+plural_str
     df = suli_students_by_district.get_group(distcode)
     df = df.sort_values('Term',ascending=False)[['Term','Name','College','Host Lab','Program']]
+    df_summary = df[['Name','College','Host Lab']].head(n=max_suli_entries)
+    df_summary['College'] = df_summary['College'].str.slice(0, max_chars)
+    df_summary['Host Lab'] = df_summary['Host Lab'].str.slice(0, max_nsf_chars)
+    n_firms = len(df_summary)
+    if n_firms-max_suli_entries > 0:
+        out_nfirms = n_firms-max_suli_entries
+    else:
+        out_nfirms = 0
     print '```'
     print tabulate(df, showindex=False, headers=df.columns,floatfmt=',.0f')
     print '```'
-    return '{:,.0f}'.format(n_interns), df.to_html(index=False).replace('\n',''),df.to_latex(index=False)
+    return '{:,.0f}'.format(n_interns), out_nfirms, df.to_html(index=False).replace('\n',''),df_summary.to_latex(index=False)
     
 def get_suli_students_state(distcode):
     print '## SULI/CCI Interns'
@@ -191,7 +234,7 @@ def get_suli_students_state(distcode):
         print '```'
         print 'This state had no SULI/CCI interns from 2014-2016 (only years available)'
         print '```'
-        return 'NA', 'NA', 'NA'
+        return 'NA', 'NA', 'NA','NA'
     n_interns = suli_students_by_state.get_group(distcode)['Name'].count()
     if n_interns == 1: 
         plural_str = ''
@@ -206,12 +249,70 @@ def get_suli_students_state(distcode):
 
     df = suli_students_by_state.get_group(distcode)
     df = df.groupby(['Program','College']).count().reset_index()[['Name','Program','College']].sort_values('Name',ascending=False)
+    df = df.rename(columns={'Name' : '# Students'})
+    df_summary = df.head(n=max_suli_entries)
+    df_summary['College'] = df_summary['College'].str.slice(0, max_nsf_chars)
+
+    n_firms = len(df_summary)
+    if n_firms-max_suli_entries > 0:
+        out_nfirms = n_firms-max_suli_entries
+    else:
+        out_nfirms = 0
     #df = df.sort_values('Term',ascending=False)[['Term','Name','College','Host Lab','Program']]
     print '```'
     print tabulate(df, showindex=False, headers=['# Interns','Program','College'],floatfmt=',.0f')
     print '```'
-    return '{:,.0f}'.format(n_interns), df.to_html(index=False).replace('\n',''),df.to_latex(index=False)
+    return '{:,.0f}'.format(n_interns), out_nfirms, df.to_html(index=False).replace('\n',''),df_summary.to_latex(index=False)
     
+def get_fnal_procurements_district(distcode):
+
+    this_state = distcode.split('-')[0]
+    district = str(int(distcode.split('-')[1]))
+    fnal_grouped = fnal_procurements.groupby(['State','District'])
+    
+    try:
+        df = fnal_grouped.get_group((this_state,district)).reset_index()[['Vendor','ZIP Code','Amount ($)','int_amount']].sort_values('int_amount',ascending=False)
+    except KeyError:
+        return 'NA','NA','NA','NA'
+
+    df_summary = df[['Vendor','ZIP Code','Amount ($)']].head(n=max_entries)
+    df_summary['Vendor'] = df_summary['Vendor'].str.slice(0, max_nsf_chars)
+
+    n_firms = len(df_summary)
+    if n_firms-max_entries > 0:
+        out_nfirms = n_firms-max_entries
+    else:
+        out_nfirms = 0
+
+    procurement_sum = df['int_amount'].sum()
+    procurement_sum = '${:,.0f}'.format(procurement_sum.astype(float))
+    procurement_sum = procurement_sum.replace('\$0','NA')
+    return procurement_sum, out_nfirms, df_summary.to_html(index=False), df_summary.to_latex(index=False)
+
+
+def get_fnal_procurements_state(distcode):
+
+    this_state = distcode
+    fnal_grouped = fnal_procurements.groupby('State')
+    
+    try:
+        df = fnal_grouped.get_group(this_state).reset_index()[['Vendor','ZIP Code','Amount ($)','int_amount']].sort_values('int_amount',ascending=False)
+    except KeyError:
+        return 'NA','NA','NA','NA'
+    
+    df_summary = df[['Vendor','ZIP Code','Amount ($)']].head(n=max_entries)
+    df_summary['Vendor'] = df_summary['Vendor'].str.slice(0, max_nsf_chars)
+
+    n_firms = len(df_summary)
+    if n_firms-max_entries > 0:
+        out_nfirms = n_firms-max_entries
+    else:
+        out_nfirms = 0
+
+    procurement_sum = fnal_grouped.get_group(this_state)['int_amount'].sum()
+    procurement_sum = '${:,.0f}'.format(procurement_sum.astype(float))
+    procurement_sum = procurement_sum.replace('\$0','NA')
+    return procurement_sum, out_nfirms, df_summary.to_html(index=False), df_summary.to_latex(index=False)
 
 def get_committee_info(repname,rep_bioid):
     try:
@@ -289,6 +390,65 @@ def plot_suli_state(statecode):
     ax.legend()
     fig.savefig('/Users/mbaumer/side_projects/us_hep_funding/docs/_img/'+statecode+'.png',format='png',bbox_inches='tight')
     plt.close(fig)
+
+
+def plot_suli_state_formal(statecode):
+
+    class LowerThreshold(ccrs.Mercator):
+        @property
+        def threshold(self):
+            return 1
+
+    fig = plt.figure()
+    
+    if statecode == 'HI':
+        ax = fig.add_axes([0, 0, 1, 1], projection=ccrs.LambertConformal())
+        ax.set_extent([-165, -70, 20, 35], ccrs.Geodetic())
+    elif statecode == 'AK':
+        ax = fig.add_axes([0, 0, 1, 1], projection=ccrs.LambertConformal())
+        ax.set_extent([-140, -66, 20, 77], ccrs.Geodetic())
+    else:
+        ax = fig.add_axes([0, 0, 1, 1], projection=LowerThreshold())
+        ax.set_extent([-126, -66, 24.5, 46], ccrs.Geodetic())
+    shapename = 'admin_1_states_provinces_lakes_shp'
+    states_shp = shpreader.natural_earth(resolution='110m',
+                                             category='cultural', name=shapename)
+    
+    for state in shpreader.Reader(states_shp).records():
+        # pick a default color for the land with a black outline,
+        # this will change if the storm intersects with our track
+        facecolor = '#C0C0C0'
+        edgecolor = 'white'
+    
+        if state.attributes['postal'] == statecode:
+            ax.add_geometries([state.geometry], ccrs.PlateCarree(),
+                          facecolor='#A0A2A0', edgecolor=edgecolor,linewidth=0.5)
+        else:
+            ax.add_geometries([state.geometry], ccrs.PlateCarree(),
+                          facecolor=facecolor, edgecolor=edgecolor,linewidth=0.5)
+    
+    these_students = suli_students[suli_students['State'] == statecode]
+    print len(these_students)
+    if len(these_students) < 20: 
+        alpha = 1
+    elif len(these_students) < 80:
+        alpha = .5
+    else:
+        alpha = .25
+        
+    unique_colleges = these_students['College'].unique()
+    college_counts = these_students.groupby('College').count().reset_index()
+    
+    for idx in range(len(these_students)):
+        student = these_students.iloc[idx]
+        ax.plot([student['Longitude'],student['Lab Longitude']],[student['Latitude'],student['Lab Latitude']],color='#D5422C',transform=ccrs.Geodetic(),alpha=alpha)
+    for i,lab in enumerate(these_students['Host Lab'].unique()):
+        this_lab = natlabs[natlabs['Host Lab'] == lab]
+        ax.plot(this_lab['Lab Longitude'].values,this_lab['Lab Latitude'].values,transform=ccrs.Geodetic(),marker='o',markersize=5,color='#D5422C',markeredgewidth=0,markeredgecolor='Black')
+    #plt.title('Host National Laboratories for '+str(len(these_students))+' '+statecode+' SULI/CCI students (2014-2016)')
+    #plt.legend()
+    fig.savefig('/Users/mbaumer/side_projects/us_hep_funding/docs/_img_formal/'+statecode+'.png',format='png',bbox_inches='tight',edgecolor='white',pad_inches=-.1)
+    
     
 
 
@@ -307,7 +467,7 @@ def tell_me_about_state(distcode):
 
     get_suli_students_state(distcode)
 
-    plot_suli_state(distcode)
+    #plot_suli_state_formal(distcode)
     
         
 def tell_me_about_district(distcode):

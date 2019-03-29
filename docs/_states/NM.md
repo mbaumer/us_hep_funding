@@ -41,17 +41,17 @@ In the past 8 years, this state has received:
 36 Office of Science contracts, totalling <b> $7,013,737</b>
 ```
 Vendor                               Amount ($)  Item
----------------------------------  ------------  ---------------------------------------------------------
-Groupement Interet Public Arronax     5,428,300  Medical And Surgical Instruments, Equipment, And Supplies
-Deep Web Technologies, LLC              542,300  IT And Telecom- IT Strategy And Architecture
-Deep Web Technologies, LLC              407,300  Support- Administrative: Information Retrieval
+---------------------------------  ------------  ----------------------------------------
+Groupement Interet Public Arronax     5,428,300  Medical And Surgical Instruments, Equipm
+Deep Web Technologies, LLC              542,300  IT And Telecom- IT Strategy And Architec
+Deep Web Technologies, LLC              407,300  Support- Administrative: Information Ret
 Perikin Enterprises, LLC                211,172  Construction Of Office Buildings
-Deep Web Technologies, Inc.             157,950  IT And Telecom- IT Strategy And Architecture
+Deep Web Technologies, Inc.             157,950  IT And Telecom- IT Strategy And Architec
 Lunatek LLC                             128,778  Information Technology Support Equipment
 Deep Web Technologies, Inc.              72,000  Newspapers And Periodicals
 Holman's Inc.                            38,473  ADPE System Configuration
 Wildflower International, Ltd.           17,133  ADPE System Configuration
-Ideal System Solutions, Inc.             10,331  ADP Central Processing Unit (CPU, Computer), Digital
+Ideal System Solutions, Inc.             10,331  ADP Central Processing Unit (CPU, Comput
 ```
 ## NSF MPS Grants
 In the past 8 years, this state has received:
@@ -216,15 +216,15 @@ In the past 8 years, this district has received:
 32 Office of Science contracts, totalling <b> $6,669,932</b>
 ```
 Vendor                               Amount ($)  Item
----------------------------------  ------------  ---------------------------------------------------------
-Groupement Interet Public Arronax     5,428,300  Medical And Surgical Instruments, Equipment, And Supplies
-Deep Web Technologies, LLC              542,300  IT And Telecom- IT Strategy And Architecture
-Deep Web Technologies, LLC              407,300  Support- Administrative: Information Retrieval
-Deep Web Technologies, Inc.             157,950  IT And Telecom- IT Strategy And Architecture
+---------------------------------  ------------  ----------------------------------------
+Groupement Interet Public Arronax     5,428,300  Medical And Surgical Instruments, Equipm
+Deep Web Technologies, LLC              542,300  IT And Telecom- IT Strategy And Architec
+Deep Web Technologies, LLC              407,300  Support- Administrative: Information Ret
+Deep Web Technologies, Inc.             157,950  IT And Telecom- IT Strategy And Architec
 Deep Web Technologies, Inc.              72,000  Newspapers And Periodicals
 Lunatek LLC                              34,618  Information Technology Support Equipment
 Wildflower International, Ltd.           17,133  ADPE System Configuration
-Ideal System Solutions, Inc.             10,331  ADP Central Processing Unit (CPU, Computer), Digital
+Ideal System Solutions, Inc.             10,331  ADP Central Processing Unit (CPU, Comput
 ```
 ## NSF MPS Grants
 In the past 8 years, this district has received:<b> $6,575,710 </b>in NSF MPS grants.

@@ -27,18 +27,18 @@ Oklahoma State University             271,000
 In the past 8 years, this state has received:
 13 Office of Science contracts, totalling <b> $600,472</b>
 ```
-Vendor                                           Amount ($)  Item
----------------------------------------------  ------------  ------------------------------------------------------------------------------------
-Trinity Engineering Associates, Inc.                424,449  Support- Professional: Other
-Walker & Jocke, Inc                                  41,230  Support- Professional: Legal
-Emerson Network Power, Liebert Services, Inc.        27,880  Maint/Repair/Rebuild Of Equipment- Electric Wire And Power Distribution Equipment
-Park Place Technologies, LLC                         27,797  IT And Telecom- Annual Hardware Maintenance Service Plans
-Park Place Technologies Inc                          23,126  IT And Telecom- Annual Hardware Maintenance Service Plans
-Park Place Technologies Inc                          14,269  Maint/Repair/Rebuild Of Equipment- ADP Equipment/Software/Supplies/Support Equipment
-Emerson Network Power, Liebert Services, Inc.        11,503  Miscellaneous Maintenance And Repair Shop Specialized Equipment
-Emerson Network Power, Liebert Services, Inc.        10,636  Miscellaneous Electrical And Electronic Components
-Liebert Corporation                                  10,274  Miscellaneous Maintenance And Repair Shop Specialized Equipment
-Expansion Programs International, Inc.                9,308  ADP Software
+Vendor                                      Amount ($)  Item
+----------------------------------------  ------------  ----------------------------------------
+Trinity Engineering Associates, Inc.           424,449  Support- Professional: Other
+Walker & Jocke, Inc                             41,230  Support- Professional: Legal
+Emerson Network Power, Liebert Services,        27,880  Maint/Repair/Rebuild Of Equipment- Elect
+Park Place Technologies, LLC                    27,797  IT And Telecom- Annual Hardware Maintena
+Park Place Technologies Inc                     23,126  IT And Telecom- Annual Hardware Maintena
+Park Place Technologies Inc                     14,269  Maint/Repair/Rebuild Of Equipment- ADP E
+Emerson Network Power, Liebert Services,        11,503  Miscellaneous Maintenance And Repair Sho
+Emerson Network Power, Liebert Services,        10,636  Miscellaneous Electrical And Electronic
+Liebert Corporation                             10,274  Miscellaneous Maintenance And Repair Sho
+Expansion Programs International, Inc.           9,308  ADP Software
 ```
 ## NSF MPS Grants
 In the past 8 years, this state has received:
@@ -535,13 +535,13 @@ This district received no SC HEP grants from 2012-2019
 In the past 8 years, this district has received:
 6 Office of Science contracts, totalling <b> $60,293</b>
 ```
-  Year  Vendor                                           Amount ($)  Item
-------  ---------------------------------------------  ------------  ---------------------------------------------------------------------------------
-  2015  Emerson Network Power, Liebert Services, Inc.        16,895  Maint/Repair/Rebuild Of Equipment- Electric Wire And Power Distribution Equipment
-  2014  Emerson Network Power, Liebert Services, Inc.        10,985  Maint/Repair/Rebuild Of Equipment- Electric Wire And Power Distribution Equipment
-  2013  Emerson Network Power, Liebert Services, Inc.        10,636  Miscellaneous Electrical And Electronic Components
-  2013  Emerson Network Power, Liebert Services, Inc.        11,503  Miscellaneous Maintenance And Repair Shop Specialized Equipment
-  2012  Liebert Corporation                                  10,274  Miscellaneous Maintenance And Repair Shop Specialized Equipment
+  Year  Vendor                                      Amount ($)  Item
+------  ----------------------------------------  ------------  ----------------------------------------
+  2015  Emerson Network Power, Liebert Services,        16,895  Maint/Repair/Rebuild Of Equipment- Elect
+  2014  Emerson Network Power, Liebert Services,        10,985  Maint/Repair/Rebuild Of Equipment- Elect
+  2013  Emerson Network Power, Liebert Services,        10,636  Miscellaneous Electrical And Electronic
+  2013  Emerson Network Power, Liebert Services,        11,503  Miscellaneous Maintenance And Repair Sho
+  2012  Liebert Corporation                             10,274  Miscellaneous Maintenance And Repair Sho
 ```
 ## NSF MPS Grants
 In the past 8 years, this district has received:<b> $2,242,416 </b>in NSF MPS grants.
@@ -632,10 +632,10 @@ In the past 8 years, this district has received:
 4 Office of Science contracts, totalling <b> $65,192</b>
 ```
   Year  Vendor                          Amount ($)  Item
-------  ----------------------------  ------------  ------------------------------------------------------------------------------------
-  2015  Park Place Technologies, LLC        27,797  IT And Telecom- Annual Hardware Maintenance Service Plans
-  2014  Park Place Technologies Inc         23,126  IT And Telecom- Annual Hardware Maintenance Service Plans
-  2013  Park Place Technologies Inc         14,269  Maint/Repair/Rebuild Of Equipment- ADP Equipment/Software/Supplies/Support Equipment
+------  ----------------------------  ------------  ----------------------------------------
+  2015  Park Place Technologies, LLC        27,797  IT And Telecom- Annual Hardware Maintena
+  2014  Park Place Technologies Inc         23,126  IT And Telecom- Annual Hardware Maintena
+  2013  Park Place Technologies Inc         14,269  Maint/Repair/Rebuild Of Equipment- ADP E
 ```
 ## NSF MPS Grants
 In the past 8 years, this district has received:<b> $240,531 </b>in NSF MPS grants.

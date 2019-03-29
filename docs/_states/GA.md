@@ -23,13 +23,13 @@ In the past 8 years, this state has received:
 9 Office of Science contracts, totalling <b> $150,061</b>
 ```
   Year  Vendor                           Amount ($)  Item
-------  -----------------------------  ------------  -----------------------------------------------
+------  -----------------------------  ------------  ----------------------------------------
   2015  Nextel South Corp                     4,500  Telephone And Telegraph Equipment
   2015  Syscom Technologies, Inc.           104,635  ADPE System Configuration
   2014  Nextel South Corp                     5,000  Telephone And Telegraph Equipment
   2013  Nextel South Corp                    18,000  Telephone And Telegraph Equipment
   2012  Global Equipment Company Inc.         4,926  Chain And Wire Rope
-  2012  Nextel South Corp                    13,000  IT And Telecom- Other IT And Telecommunications
+  2012  Nextel South Corp                    13,000  IT And Telecom- Other IT And Telecommuni
 ```
 ## NSF MPS Grants
 In the past 8 years, this state has received:
@@ -316,12 +316,12 @@ In the past 8 years, this district has received:
 7 Office of Science contracts, totalling <b> $45,426</b>
 ```
   Year  Vendor                           Amount ($)  Item
-------  -----------------------------  ------------  -----------------------------------------------
+------  -----------------------------  ------------  ----------------------------------------
   2015  Nextel South Corp                     4,500  Telephone And Telegraph Equipment
   2014  Nextel South Corp                     5,000  Telephone And Telegraph Equipment
   2013  Nextel South Corp                    18,000  Telephone And Telegraph Equipment
   2012  Global Equipment Company Inc.         4,926  Chain And Wire Rope
-  2012  Nextel South Corp                    13,000  IT And Telecom- Other IT And Telecommunications
+  2012  Nextel South Corp                    13,000  IT And Telecom- Other IT And Telecommuni
 ```
 ## NSF MPS Grants
 In the past 8 years, this district has received:<b> $188,374 </b>in NSF MPS grants.
