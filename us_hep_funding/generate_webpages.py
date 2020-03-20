@@ -35,10 +35,12 @@ nsf_by_district = nsf_grants.groupby(['District'])
 
 #SULI Students
 suli_students = pd.read_pickle('../new_data/cleaned/suli_students.pkl')
+print 'total SUlI/CCI:', len(suli_students)
 natlabs = pd.read_csv('../data/national_labs_geocodio.csv')
 natlabs = natlabs[['Lab','City','Latitude','Longitude']].dropna()
 natlabs = natlabs.rename(columns={'Lab':'Host Lab','City':'Lab City','Latitude':'Lab Latitude','Longitude':'Lab Longitude'})
 suli_students = suli_students.merge(natlabs,on='Host Lab')
+print 'matched to lab', len(suli_students)
 suli_students_by_state = suli_students.groupby(['State'])
 suli_students_by_district = suli_students.groupby(['Congressional District'])
 
@@ -202,7 +204,7 @@ def get_suli_students(distcode):
         suli_students_by_district.get_group(distcode)
     except KeyError: 
         print '```'
-        print 'This district had no SULI/CCI interns from 2014-2016 (only years available)'
+        print 'This district had no SULI/CCI interns from 2014-2018'
         print '```'
         return 'NA', 'NA', 'NA','NA'
     n_interns = suli_students_by_district.get_group(distcode)['Name'].count()
@@ -210,7 +212,7 @@ def get_suli_students(distcode):
         plural_str = ''
     else:
         plural_str = 's'
-    print 'From 2014-2016 (only years available), this district had', '{:,.0f}'.format(n_interns), 'SULI/CCI intern'+plural_str
+    print 'From 2014-2018, this district had', '{:,.0f}'.format(n_interns), 'SULI/CCI intern'+plural_str
     df = suli_students_by_district.get_group(distcode)
     df = df.sort_values('Term',ascending=False)[['Term','Name','College','Host Lab','Program']]
     df_summary = df[['Name','College','Host Lab']].head(n=max_suli_entries)
@@ -232,7 +234,7 @@ def get_suli_students_state(distcode):
         suli_students_by_state.get_group(distcode)
     except KeyError: 
         print '```'
-        print 'This state had no SULI/CCI interns from 2014-2016 (only years available)'
+        print 'This state had no SULI/CCI interns from 2014-2018'
         print '```'
         return 'NA', 'NA', 'NA','NA'
     n_interns = suli_students_by_state.get_group(distcode)['Name'].count()
@@ -245,7 +247,7 @@ def get_suli_students_state(distcode):
     print '!['+distcode+' SULI/CCI image]({{ site.baseurl }}/img/'+distcode+'.png)'
     print '</p>'
 
-    print 'From 2014-2016 (only years available), this state had', '{:,.0f}'.format(n_interns), 'SULI/CCI intern'+plural_str
+    print 'From 2014-2018, this state had', '{:,.0f}'.format(n_interns), 'SULI/CCI intern'+plural_str
 
     df = suli_students_by_state.get_group(distcode)
     df = df.groupby(['Program','College']).count().reset_index()[['Name','Program','College']].sort_values('Name',ascending=False)
@@ -467,7 +469,7 @@ def tell_me_about_state(distcode):
 
     get_suli_students_state(distcode)
 
-    #plot_suli_state_formal(distcode)
+    plot_suli_state_formal(distcode)
     
         
 def tell_me_about_district(distcode):

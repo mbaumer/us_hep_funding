@@ -26,10 +26,10 @@ Dan Sullivan is the #7 Republican on the Senate Committee on Commerce, Science, 
 
 ## HEP Grants
 ```
-This state received no SC HEP grants from 2012-2019
+This state received no SC HEP grants from 2012-2020
 ```
 ## SC Contracts
-In the past 8 years, this state has received:
+In the past 9 years, this state has received:
 1 Office of Science contracts, totalling <b> $3,944</b>
 ```
   Year  Vendor                                      Amount ($)  Item
@@ -37,11 +37,13 @@ In the past 8 years, this state has received:
   2014  Copper River Information Technology, LLC         3,944  Mini And Micro Computer Control Devices
 ```
 ## NSF MPS Grants
-In the past 8 years, this state has received:
-13 NSF MPS grants, totalling <b> $1,460,723</b>
+In the past 9 years, this state has received:
+16 NSF MPS grants, totalling <b> $1,852,072</b>
 ```
   Year  Institution                       Amount ($)
 ------  ------------------------------  ------------
+  2019  University Of Alaska Anchorage       148,149
+  2019  University Of Alaska Fairbanks       243,200
   2018  University Of Alaska Anchorage       239,086
   2017  University Of Alaska Anchorage        63,294
   2017  University Of Alaska Fairbanks       239,583
@@ -58,12 +60,14 @@ In the past 8 years, this state has received:
 <p align="center">
 ![AK SULI/CCI image]({{ site.baseurl }}/img/AK.png)
 </p>
-From 2014-2016 (only years available), this state had 1 SULI/CCI intern
+From 2014-2018, this state had 3 SULI/CCI interns
 ```
   # Interns  Program    College
 -----------  ---------  ------------------------------
-          1  SULI       University of Alaska Anchorage
+          2  SULI       University of Alaska Anchorage
+          1  SULI       University of Alaska Fairbanks
 ```
+3
 ---
 ---
 <a name="AK-00"></a>
@@ -71,10 +75,10 @@ From 2014-2016 (only years available), this state had 1 SULI/CCI intern
 ## AK-00 -- Rep. Don Young (R) -- [Wikipedia](https://en.wikipedia.org/wiki/AK-00)
 ## HEP Grants
 ```
-This district received no SC HEP grants from 2012-2019
+This district received no SC HEP grants from 2012-2020
 ```
 ## SC Contracts
-In the past 8 years, this district has received:
+In the past 9 years, this district has received:
 1 Office of Science contracts, totalling <b> $3,944</b>
 ```
   Year  Vendor                                      Amount ($)  Item
@@ -82,10 +86,12 @@ In the past 8 years, this district has received:
   2014  Copper River Information Technology, LLC         3,944  Mini And Micro Computer Control Devices
 ```
 ## NSF MPS Grants
-In the past 8 years, this district has received:<b> $1,460,723 </b>in NSF MPS grants.
+In the past 9 years, this district has received:<b> $1,852,072 </b>in NSF MPS grants.
 ```
   Year  Institution                       Amount ($)
 ------  ------------------------------  ------------
+  2019  University Of Alaska Anchorage       148,149
+  2019  University Of Alaska Fairbanks       243,200
   2018  University Of Alaska Anchorage       239,086
   2017  University Of Alaska Anchorage        63,294
   2017  University Of Alaska Fairbanks       239,583
@@ -99,10 +105,12 @@ In the past 8 years, this district has received:<b> $1,460,723 </b>in NSF MPS gr
   2012  University Of Alaska Fairbanks       152,000
 ```
 ## SULI/CCI Interns
-From 2014-2016 (only years available), this district had 1 SULI/CCI intern
+From 2014-2018, this district had 3 SULI/CCI interns
 ```
-Term         Name                College                         Host Lab                               Program
------------  ------------------  ------------------------------  -------------------------------------  ---------
-Summer 2015  Skyler Jordan Kern  University of Alaska Anchorage  Lawrence Berkeley National Laboratory  SULI
+Term         Name                  College                         Host Lab                               Program
+-----------  --------------------  ------------------------------  -------------------------------------  ---------
+Summer 2018  Jesse Matthew Keller  University of Alaska Fairbanks  Ames National Laboratory               SULI
+Summer 2015  Skyler Jordan Kern    University of Alaska Anchorage  Lawrence Berkeley National Laboratory  SULI
+Spring 2017  Skyler Jordan Kern    University of Alaska Anchorage  National Renewable Energy Laboratory   SULI
 ```
 ---

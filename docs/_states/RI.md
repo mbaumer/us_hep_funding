@@ -16,11 +16,12 @@ Jack Reed is the #4 Democrat on the Senate Appropriations Subcommittee on Commer
 Jack Reed is the #5 Democrat on the Senate Committee on Appropriations 
 
 ## HEP Grants
-In the past 8 years, this state has received:
-18 HEP grants, totalling <b> $13,360,000</b>
+In the past 9 years, this state has received:
+19 HEP grants, totalling <b> $14,898,000</b>
 ```
   Year  Institution         Amount ($)
 ------  ----------------  ------------
+  2019  Brown University     1,538,000
   2018  Brown University     1,585,000
   2017  Brown University     1,895,000
   2016  Brown University     1,650,000
@@ -31,53 +32,55 @@ In the past 8 years, this state has received:
 ```
 ## SC Contracts
 ```
-This state received no SC contracts from 2012-2019
+This state received no SC contracts from 2012-2020
 ```
 ## NSF MPS Grants
-In the past 8 years, this state has received:
-309 NSF MPS grants, totalling <b> $63,669,541</b>
+In the past 9 years, this state has received:
+357 NSF MPS grants, totalling <b> $76,268,977</b>
 ```
 Institution                                                    Amount ($)
 -----------------------------------------------------------  ------------
 Brown University In Providence In State Of Ri                  36,943,572
-Brown University In Providence In State Of Rhode Island And    16,214,318
-American Mathematical Society                                   4,094,743
-University Of Rhode Island                                      1,926,883
-Gordon Research Conferences                                     1,241,960
+Brown University In Providence In State Of Rhode Island And    27,384,417
+American Mathematical Society                                   4,994,121
+University Of Rhode Island                                      1,937,428
+Gordon Research Conferences                                     1,359,820
 Brown University In Providence In State O                       1,162,585
 Brown University                                                1,045,534
+Providence College                                                543,285
 Pii Redacted                                                      450,000
 Amer Mathematical Soc                                             248,620
-Providence College                                                191,371
 Gordon Res Conferences                                             90,000
 Rhode Island College                                               59,955
+Association For Women In Mathematics                               49,640
 ```
 ## SULI/CCI Interns
 <p align="center">
 ![RI SULI/CCI image]({{ site.baseurl }}/img/RI.png)
 </p>
-From 2014-2016 (only years available), this state had 12 SULI/CCI interns
+From 2014-2018, this state had 20 SULI/CCI interns
 ```
   # Interns  Program    College
 -----------  ---------  --------------------------
-          6  SULI       Brown University
+         14  SULI       Brown University
           4  SULI       University of Rhode Island
           1  CCI        Brown University
           1  SULI       Providence College
 ```
+20
 ---
 ---
 <a name="RI-01"></a>
 [Back to top](#top)
 ## RI-01 -- Rep. David N. Cicilline (D) -- [Wikipedia](https://en.wikipedia.org/wiki/RI-01)
 ## HEP Grants
-In the past 8 years, this district has received:<b> $13,360,000 </b>in SC HEP grants.
+In the past 9 years, this district has received:<b> $14,898,000 </b>in SC HEP grants.
 ```
 Institution         Amount ($)    Start  End      Principal Investigator    Project Title
 ----------------  ------------  -------  -------  ------------------------  --------------------------------------------------------------------------------------------------------------------------
 Brown University        10,000     2018  Ongoing  Heintz, Ulrich            CPAD Instrumentation Workshop 2018
 Brown University       215,000     2017  Ongoing  Koushiappas, Savvas       Fundamental problems in astroparticle physics and cosmology
-Brown University     6,398,000     2015  Ongoing  Landsberg, Greg           Fundamental Problems in High-Energy Physics, Astroparticle Physics, and Cosmology
+Brown University     7,936,000     2015  2020     Landsberg, Greg           Fundamental Problems in High-Energy Physics, Astroparticle Physics, and Cosmology
 Brown University     1,566,000     2014  2015     Cutts, David              A Research Program in Theoretical and Experimental High Energy Physics
 Brown University       265,000     2014  2017     Dell'Antonio, Ian         Modeling and Correcting Systematic Errors in the Weak Gravitational Lensing Calibration of Galaxy Cluster Masses with LSST
 Brown University       300,000     2014  2016     Volovich, Anastasia       Miracles in Scattering Amplitudes: from QCD to Gravity
@@ -87,22 +90,26 @@ Brown University       300,000     2012  2014     Volovich                  Mira
 ```
 ## SC Contracts
 ```
-This district received no SC contracts from 2012-2019
+This district received no SC contracts from 2012-2020
 ```
 ## NSF MPS Grants
-In the past 8 years, this district has received:<b> $58,862,363 </b>in NSF MPS grants.
+In the past 9 years, this district has received:<b> $70,981,480 </b>in NSF MPS grants.
 ```
   Year  Institution                                                    Amount ($)
 ------  -----------------------------------------------------------  ------------
+  2020  Brown University In Providence In State Of Rhode Island And       123,441
+  2019  Brown University In Providence In State Of Rhode Island And    11,046,658
+  2019  Association For Women In Mathematics                               49,640
+  2019  American Mathematical Society                                     899,378
   2018  Pii Redacted                                                      300,000
   2018  Brown University In Providence In State Of Rhode Island And     5,994,047
   2018  American Mathematical Society                                     297,000
+  2017  American Mathematical Society                                     167,500
   2017  Pii Redacted                                                      150,000
   2017  Brown University In Providence In State Of Rhode Island And    10,220,271
   2017  Brown University In Providence In State O                         150,000
-  2017  American Mathematical Society                                     167,500
-  2016  Brown University In Providence In State Of Ri                   6,057,109
   2016  Providence College                                                126,399
+  2016  Brown University In Providence In State Of Ri                   6,057,109
   2016  Brown University In Providence In State O                       1,012,585
   2016  American Mathematical Society                                   1,225,745
   2015  Brown University In Providence In State Of Ri                   5,925,521
@@ -116,10 +123,18 @@ In the past 8 years, this district has received:<b> $58,862,363 </b>in NSF MPS g
   2012  American Mathematical Society                                     538,110
 ```
 ## SULI/CCI Interns
-From 2014-2016 (only years available), this district had 7 SULI/CCI interns
+From 2014-2018, this district had 15 SULI/CCI interns
 ```
 Term         Name                      College           Host Lab                               Program
 -----------  ------------------------  ----------------  -------------------------------------  ---------
+Summer 2018  Harry Chalfin             Brown University  Brookhaven National Laboratory         SULI
+Summer 2018  Renuka Diwan              Brown University  Brookhaven National Laboratory         SULI
+Summer 2018  Charles Davis Kocher      Brown University  Brookhaven National Laboratory         SULI
+Summer 2018  Jamie Demaria             Brown University  SLAC National Accelerator Laboratory   SULI
+Summer 2017  Kim Hoang Pham            Brown University  Argonne National Laboratory            SULI
+Summer 2017  Jovan Nelson              Brown University  SLAC National Accelerator Laboratory   SULI
+Summer 2016  Matthew Einar Petersen    Brown University  Argonne National Laboratory            SULI
+Summer 2016  Jessica Lillian Cheng     Brown University  Princeton Plasma Physics Laboratory    SULI
 Summer 2015  Matthew Aaron Pearson     Brown University  Brookhaven National Laboratory         SULI
 Summer 2015  Ariel Marie Stolz         Brown University  Brookhaven National Laboratory         SULI
 Summer 2015  Danna Nozik               Brown University  Argonne National Laboratory            SULI
@@ -134,17 +149,21 @@ Summer 2014  Jeff Baum                 Brown University  Idaho National Laborato
 ## RI-02 -- Rep. James R. Langevin (D) -- [Wikipedia](https://en.wikipedia.org/wiki/RI-02)
 ## HEP Grants
 ```
-This district received no SC HEP grants from 2012-2019
+This district received no SC HEP grants from 2012-2020
 ```
 ## SC Contracts
 ```
-This district received no SC contracts from 2012-2019
+This district received no SC contracts from 2012-2020
 ```
 ## NSF MPS Grants
-In the past 8 years, this district has received:<b> $4,807,178 </b>in NSF MPS grants.
+In the past 9 years, this district has received:<b> $5,287,497 </b>in NSF MPS grants.
 ```
   Year  Institution                                      Amount ($)
 ------  ---------------------------------------------  ------------
+  2020  Gordon Research Conferences                          27,000
+  2019  University Of Rhode Island                           10,545
+  2019  Providence College                                  351,914
+  2019  Gordon Research Conferences                          90,860
   2018  University Of Rhode Island                          317,800
   2018  Gordon Research Conferences                         186,581
   2017  University Of Rhode Island                          413,243
@@ -165,7 +184,7 @@ In the past 8 years, this district has received:<b> $4,807,178 </b>in NSF MPS gr
   2012  Gordon Research Conferences                         321,689
 ```
 ## SULI/CCI Interns
-From 2014-2016 (only years available), this district had 5 SULI/CCI interns
+From 2014-2018, this district had 5 SULI/CCI interns
 ```
 Term         Name                  College                     Host Lab                        Program
 -----------  --------------------  --------------------------  ------------------------------  ---------

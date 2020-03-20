@@ -18,11 +18,13 @@ Jerry Moran is the #8 Republican on the Senate Committee on Appropriations
 Jerry Moran is the #6 Republican on the Senate Committee on Commerce, Science, and Transportation 
 
 ## HEP Grants
-In the past 8 years, this state has received:
-27 HEP grants, totalling <b> $6,456,500</b>
+In the past 9 years, this state has received:
+30 HEP grants, totalling <b> $7,386,500</b>
 ```
   Year  Institution                Amount ($)
 ------  -----------------------  ------------
+  2019  Kansas State University       930,000
+  2019  University of Kansas                0
   2018  Kansas State University       958,000
   2018  University of Kansas                0
   2017  Kansas State University       950,000
@@ -39,7 +41,7 @@ In the past 8 years, this state has received:
   2012  University of Kansas          210,000
 ```
 ## SC Contracts
-In the past 8 years, this state has received:
+In the past 9 years, this state has received:
 3 Office of Science contracts, totalling <b> $66,015</b>
 ```
   Year  Vendor                    Amount ($)  Item
@@ -49,14 +51,14 @@ In the past 8 years, this state has received:
   2013  Fishnet Security, Inc.        22,005  ADP Software
 ```
 ## NSF MPS Grants
-In the past 8 years, this state has received:
-187 NSF MPS grants, totalling <b> $37,711,467</b>
+In the past 9 years, this state has received:
+208 NSF MPS grants, totalling <b> $41,927,306</b>
 ```
 Institution                                 Amount ($)
 ----------------------------------------  ------------
-University Of Kansas Center For Research    22,721,137
-Kansas State University                     12,296,152
-Wichita State University                     2,174,029
+University Of Kansas Center For Research    25,050,146
+Kansas State University                     13,914,884
+Wichita State University                     2,442,127
 University Of Kansas Ctr For Res In            370,149
 Emporia State University                       150,000
 ```
@@ -64,13 +66,17 @@ Emporia State University                       150,000
 <p align="center">
 ![KS SULI/CCI image]({{ site.baseurl }}/img/KS.png)
 </p>
-From 2014-2016 (only years available), this state had 8 SULI/CCI interns
+From 2014-2018, this state had 19 SULI/CCI interns
 ```
   # Interns  Program    College
 -----------  ---------  --------------------------------
-          5  SULI       University of Kansas Main Campus
-          2  SULI       Benedictine College
+          8  SULI       University of Kansas Main Campus
+          5  SULI       Kansas State University
+          3  SULI       Benedictine College
+          1  SULI       Johnson County Community College
+          1  SULI       Wichita State University
 ```
+19
 ---
 ---
 <a name="KS-01"></a>
@@ -80,23 +86,24 @@ From 2014-2016 (only years available), this state had 8 SULI/CCI interns
 Roger W. Marshall is the #7 Republican on the House Committee on Science, Space, and Technology 
 
 ## HEP Grants
-In the past 8 years, this district has received:<b> $4,054,000 </b>in SC HEP grants.
+In the past 9 years, this district has received:<b> $4,984,000 </b>in SC HEP grants.
 ```
-Institution                Amount ($)    Start  End      Principal Investigator    Project Title
------------------------  ------------  -------  -------  ------------------------  --------------------------------------------------------------------------------------------
-Kansas State University        83,000     2018  Ongoing  Ratra, Bharat             Testing Non-Flat, Dynamical Dark Energy, Inflation Models
-Kansas State University     3,371,000     2014  Ongoing  Horton-Smith, Glenn       Research at Kansas State University into the Basic Nature of Matter, Energy, Space, and Time
-Kansas State University       600,000     2014  2018     Ivanov, Andrew            Quest for a Top Quark Partner and Upgrade of the Pixel Detector Readout Chain at the CMS
+Institution                Amount ($)    Start    End  Principal Investigator    Project Title
+-----------------------  ------------  -------  -----  ------------------------  --------------------------------------------------------------------------------------------
+Kansas State University        83,000     2018   2020  Ratra, Bharat             Testing Non-Flat, Dynamical Dark Energy, Inflation Models
+Kansas State University     4,301,000     2014   2020  Horton-Smith, Glenn       Research at Kansas State University into the Basic Nature of Matter, Energy, Space, and Time
+Kansas State University       600,000     2014   2018  Ivanov, Andrew            Quest for a Top Quark Partner and Upgrade of the Pixel Detector Readout Chain at the CMS
 ```
 ## SC Contracts
 ```
-This district received no SC contracts from 2012-2019
+This district received no SC contracts from 2012-2020
 ```
 ## NSF MPS Grants
-In the past 8 years, this district has received:<b> $9,632,071 </b>in NSF MPS grants.
+In the past 9 years, this district has received:<b> $11,250,803 </b>in NSF MPS grants.
 ```
   Year  Institution                Amount ($)
 ------  -----------------------  ------------
+  2019  Kansas State University     1,618,732
   2018  Kansas State University     2,444,904
   2017  Kansas State University     3,043,002
   2016  Kansas State University        17,924
@@ -105,8 +112,15 @@ In the past 8 years, this district has received:<b> $9,632,071 </b>in NSF MPS gr
   2013  Kansas State University     1,136,720
 ```
 ## SULI/CCI Interns
+From 2014-2018, this district had 5 SULI/CCI interns
 ```
-This district had no SULI/CCI interns from 2014-2016 (only years available)
+Term         Name                     College                  Host Lab                                Program
+-----------  -----------------------  -----------------------  --------------------------------------  ---------
+Summer 2017  Dalton Hahn              Kansas State University  Argonne National Laboratory             SULI
+Summer 2017  Jennifer Ann Spero       Kansas State University  Lawrence Livermore National Laboratory  SULI
+Summer 2016  Dalton Hahn              Kansas State University  Pacific Northwest National Laboratory   SULI
+Summer 2015  Morgan Shmidl            Kansas State University  Ames National Laboratory                SULI
+Summer 2014  William Thomas Hamilton  Kansas State University  National Renewable Energy Laboratory    SULI
 ```
 ---
 <a name="KS-02"></a>
@@ -116,12 +130,12 @@ This district had no SULI/CCI interns from 2014-2016 (only years available)
 Steven C. Watkins, Jr. is the #10 Republican on the House Subcommittee on Higher Education and Workforce Development 
 
 ## HEP Grants
-In the past 8 years, this district has received:<b> $2,402,500 </b>in SC HEP grants.
+In the past 9 years, this district has received:<b> $2,402,500 </b>in SC HEP grants.
 ```
 Institution                Amount ($)    Start  End      Principal Investigator    Project Title
 -----------------------  ------------  -------  -------  ------------------------  ----------------------------------------------------------------------------------------
 University of Kansas          136,000     2017  Ongoing  Kong, Kyoungchul          Searches for New Phenomena Beyond the Standard Model
-University of Kansas          126,000     2017  Ongoing  Lewis, Ian                Searches for New Physics in Standard Model Processes
+University of Kansas          126,000     2017  2020     Lewis, Ian                Searches for New Physics in Standard Model Processes
 University of Kansas          187,500     2014  2018     Kong, Kyoungchul          Search for New Phenomena Beyond the Standard Model
 Kansas State University       920,000     2013  2014     Horton-Smith              Heavy Quark and Neutrino Physics
 Kansas State University             0     2013  2014     Ivanov                    Quest for a Top Quark Partner and Upgrade of the Pixel Detector Readout Chain at the CMS
@@ -133,13 +147,14 @@ University of Kansas          160,000     2012  2013     Ralston                
 ```
 ## SC Contracts
 ```
-This district received no SC contracts from 2012-2019
+This district received no SC contracts from 2012-2020
 ```
 ## NSF MPS Grants
-In the past 8 years, this district has received:<b> $21,989,179 </b>in NSF MPS grants.
+In the past 9 years, this district has received:<b> $24,318,188 </b>in NSF MPS grants.
 ```
   Year  Institution                                 Amount ($)
 ------  ----------------------------------------  ------------
+  2019  University Of Kansas Center For Research     2,329,009
   2018  University Of Kansas Center For Research     3,266,415
   2017  University Of Kansas Center For Research     4,099,408
   2016  University Of Kansas Center For Research     3,211,374
@@ -150,10 +165,11 @@ In the past 8 years, this district has received:<b> $21,989,179 </b>in NSF MPS g
   2012  Kansas State University                      2,664,081
 ```
 ## SULI/CCI Interns
-From 2014-2016 (only years available), this district had 2 SULI/CCI interns
+From 2014-2018, this district had 3 SULI/CCI interns
 ```
 Term         Name                   College              Host Lab                                        Program
 -----------  ---------------------  -------------------  ----------------------------------------------  ---------
+Summer 2017  Joseph Barnes          Benedictine College  Idaho National Laboratory                       SULI
 Summer 2016  Laura Elizabeth Tibbs  Benedictine College  Ames National Laboratory                        SULI
 Summer 2016  Andrew Jacobs          Benedictine College  Thomas Jefferson National Accelerator Facility  SULI
 ```
@@ -163,10 +179,10 @@ Summer 2016  Andrew Jacobs          Benedictine College  Thomas Jefferson Nation
 ## KS-03 -- Rep. Sharice Davids (D) -- [Wikipedia](https://en.wikipedia.org/wiki/KS-03)
 ## HEP Grants
 ```
-This district received no SC HEP grants from 2012-2019
+This district received no SC HEP grants from 2012-2020
 ```
 ## SC Contracts
-In the past 8 years, this district has received:
+In the past 9 years, this district has received:
 3 Office of Science contracts, totalling <b> $66,015</b>
 ```
   Year  Vendor                    Amount ($)  Item
@@ -176,7 +192,7 @@ In the past 8 years, this district has received:
   2013  Fishnet Security, Inc.        22,005  ADP Software
 ```
 ## NSF MPS Grants
-In the past 8 years, this district has received:<b> $3,766,188 </b>in NSF MPS grants.
+In the past 9 years, this district has received:<b> $3,766,188 </b>in NSF MPS grants.
 ```
   Year  Institution                                 Amount ($)
 ------  ----------------------------------------  ------------
@@ -184,13 +200,17 @@ In the past 8 years, this district has received:<b> $3,766,188 </b>in NSF MPS gr
   2012  University Of Kansas Center For Research     3,679,188
 ```
 ## SULI/CCI Interns
-From 2014-2016 (only years available), this district had 5 SULI/CCI interns
+From 2014-2018, this district had 9 SULI/CCI interns
 ```
 Term         Name                     College                           Host Lab                               Program
 -----------  -----------------------  --------------------------------  -------------------------------------  ---------
+Summer 2018  Olurotimi Paul Ajayi     University of Kansas Main Campus  Argonne National Laboratory            SULI
+Summer 2018  Maridee Ann Weber        Johnson County Community College  Argonne National Laboratory            SULI
+Summer 2018  David Trevino Jr         University of Kansas Main Campus  Ames National Laboratory               SULI
 Summer 2016  Andrew Ying              University of Kansas Main Campus  Lawrence Berkeley National Laboratory  SULI
 Summer 2015  William Thomas Hamilton  University of Kansas Main Campus  National Renewable Energy Laboratory   SULI
 Summer 2014  Jason Schutte Bates      University of Kansas Main Campus  National Renewable Energy Laboratory   SULI
+Summer 2014  Daniel Kennedy           University of Kansas Main Campus  Princeton Plasma Physics Laboratory    SULI
 Spring 2015  Gregory Pach             University of Kansas Main Campus  National Renewable Energy Laboratory   SULI
 Fall 2014    Gregory Pach             University of Kansas Main Campus  National Renewable Energy Laboratory   SULI
 ```
@@ -200,17 +220,18 @@ Fall 2014    Gregory Pach             University of Kansas Main Campus  National
 ## KS-04 -- Rep. Ron Estes (R) -- [Wikipedia](https://en.wikipedia.org/wiki/KS-04)
 ## HEP Grants
 ```
-This district received no SC HEP grants from 2012-2019
+This district received no SC HEP grants from 2012-2020
 ```
 ## SC Contracts
 ```
-This district received no SC contracts from 2012-2019
+This district received no SC contracts from 2012-2020
 ```
 ## NSF MPS Grants
-In the past 8 years, this district has received:<b> $2,324,029 </b>in NSF MPS grants.
+In the past 9 years, this district has received:<b> $2,592,127 </b>in NSF MPS grants.
 ```
   Year  Institution                 Amount ($)
 ------  ------------------------  ------------
+  2019  Wichita State University       268,098
   2018  Wichita State University        16,500
   2017  Wichita State University       728,000
   2016  Emporia State University       150,000
@@ -219,10 +240,11 @@ In the past 8 years, this district has received:<b> $2,324,029 </b>in NSF MPS gr
   2012  Wichita State University       616,011
 ```
 ## SULI/CCI Interns
-From 2014-2016 (only years available), this district had 1 SULI/CCI intern
+From 2014-2018, this district had 2 SULI/CCI interns
 ```
-Term         Name         College                   Host Lab                                 Program
------------  -----------  ------------------------  -------------------------------------  ---------
-Summer 2017  Reed Bowles  Wichita State University  Fermi National Accelerator Laboratory        nan
+Term         Name               College                   Host Lab                               Program
+-----------  -----------------  ------------------------  -------------------------------------  ---------
+Summer 2017  Reed Scott Bowles  Wichita State University  Fermi National Accelerator Laboratory  SULI
+Summer 2017  Reed Bowles        Wichita State University  Fermi National Accelerator Laboratory  nan
 ```
 ---

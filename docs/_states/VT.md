@@ -24,36 +24,38 @@ Patrick J. Leahy is the #9 Democrat on the Senate Appropriations Subcommittee on
 
 ## HEP Grants
 ```
-This state received no SC HEP grants from 2012-2019
+This state received no SC HEP grants from 2012-2020
 ```
 ## SC Contracts
 ```
-This state received no SC contracts from 2012-2019
+This state received no SC contracts from 2012-2020
 ```
 ## NSF MPS Grants
-In the past 8 years, this state has received:
-60 NSF MPS grants, totalling <b> $10,242,268</b>
+In the past 9 years, this state has received:
+68 NSF MPS grants, totalling <b> $12,113,707</b>
 ```
 Institution                                           Amount ($)
 --------------------------------------------------  ------------
 University Of Vermont & State Agricultural Co          5,349,891
-University Of Vermont & State Agricultural College     3,390,125
-Middlebury College                                     1,244,481
-Saint Michael's College                                  182,771
+University Of Vermont & State Agricultural College     4,973,402
+Middlebury College                                     1,519,643
+Saint Michael's College                                  195,771
 University Of Vermont & St Agr Coll                       75,000
 ```
 ## SULI/CCI Interns
 <p align="center">
 ![VT SULI/CCI image]({{ site.baseurl }}/img/VT.png)
 </p>
-From 2014-2016 (only years available), this state had 4 SULI/CCI interns
+From 2014-2018, this state had 14 SULI/CCI interns
 ```
   # Interns  Program    College
 -----------  ---------  ----------------------
-          2  SULI       Middlebury College
+          6  SULI       Middlebury College
+          6  SULI       University of Vermont
           1  SULI       Green Mountain College
-          1  SULI       University of Vermont
+          1  SULI       Johnson State College
 ```
+14
 ---
 ---
 <a name="VT-00"></a>
@@ -64,25 +66,28 @@ Peter Welch is the #13 Democrat on the House Committee on Energy and Commerce
 
 ## HEP Grants
 ```
-This district received no SC HEP grants from 2012-2019
+This district received no SC HEP grants from 2012-2020
 ```
 ## SC Contracts
 ```
-This district received no SC contracts from 2012-2019
+This district received no SC contracts from 2012-2020
 ```
 ## NSF MPS Grants
-In the past 8 years, this district has received:<b> $10,242,268 </b>in NSF MPS grants.
+In the past 9 years, this district has received:<b> $12,113,707 </b>in NSF MPS grants.
 ```
   Year  Institution                                           Amount ($)
 ------  --------------------------------------------------  ------------
+  2019  University Of Vermont & State Agricultural College     1,583,277
+  2019  Saint Michael's College                                   13,000
+  2019  Middlebury College                                       275,162
   2018  University Of Vermont & State Agricultural College     1,383,732
   2018  Saint Michael's College                                  164,750
   2018  Middlebury College                                       197,200
+  2017  Middlebury College                                        64,760
   2017  University Of Vermont & State Agricultural College     2,006,393
   2017  Saint Michael's College                                   16,771
-  2017  Middlebury College                                        64,760
-  2016  Middlebury College                                       180,000
   2016  University Of Vermont & State Agricultural Co          1,067,126
+  2016  Middlebury College                                       180,000
   2015  University Of Vermont & State Agricultural Co            692,380
   2015  University Of Vermont & St Agr Coll                       75,000
   2015  Saint Michael's College                                    1,250
@@ -94,13 +99,23 @@ In the past 8 years, this district has received:<b> $10,242,268 </b>in NSF MPS g
   2012  Middlebury College                                       283,513
 ```
 ## SULI/CCI Interns
-From 2014-2016 (only years available), this district had 4 SULI/CCI interns
+From 2014-2018, this district had 14 SULI/CCI interns
 ```
-Term         Name                 College                 Host Lab                               Program
------------  -------------------  ----------------------  -------------------------------------  ---------
-Summer 2015  Thomas John Hobbs    University of Vermont   Brookhaven National Laboratory         SULI
-Spring 2015  Corinna Phelps West  Middlebury College      Lawrence Berkeley National Laboratory  SULI
-Spring 2015  Amanda Louise Ross   Green Mountain College  Lawrence Berkeley National Laboratory  SULI
-Fall 2014    Corinna Phelps West  Middlebury College      Lawrence Berkeley National Laboratory  SULI
+Term         Name                  College                 Host Lab                               Program
+-----------  --------------------  ----------------------  -------------------------------------  ---------
+Summer 2017  John Henry Burke      University of Vermont   Brookhaven National Laboratory         SULI
+Summer 2017  Katherine Kennedy     University of Vermont   Brookhaven National Laboratory         SULI
+Summer 2017  Caitlin Haedrich      Middlebury College      Lawrence Berkeley National Laboratory  SULI
+Summer 2017  Benjamin David Kagan  University of Vermont   Los Alamos National Laboratory         SULI
+Summer 2015  Thomas John Hobbs     University of Vermont   Brookhaven National Laboratory         SULI
+Summer 2014  Aliya Siegel Lapp     University of Vermont   Ames National Laboratory               SULI
+Spring 2018  Noah Klammer          Middlebury College      National Renewable Energy Laboratory   SULI
+Spring 2015  Corinna Phelps West   Middlebury College      Lawrence Berkeley National Laboratory  SULI
+Spring 2015  Amanda Louise Ross    Green Mountain College  Lawrence Berkeley National Laboratory  SULI
+Fall 2018    John Henry Burke      University of Vermont   Brookhaven National Laboratory         SULI
+Fall 2018    Wesley Nemeth         Johnson State College   Brookhaven National Laboratory         SULI
+Fall 2018    Bennett Doherty       Middlebury College      National Renewable Energy Laboratory   SULI
+Fall 2017    Noah Klammer          Middlebury College      National Renewable Energy Laboratory   SULI
+Fall 2014    Corinna Phelps West   Middlebury College      Lawrence Berkeley National Laboratory  SULI
 ```
 ---

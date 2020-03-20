@@ -128,6 +128,8 @@ def clean_doe_contract_data():
 
 def clean_doe_grant_data():
     print 'Generating DOE Grant data...'
+    dataB = pd.read_excel('../new_data/DOE-SC_Grants_FY2019.xlsx')
+    dataB[dataB['Awarded Amount'] == 'Other Mod'] = 0
     dataA = pd.read_excel('../new_data/DOE-SC_Grants_FY2018.xlsx')
     data0 = pd.read_excel('../new_data/DOE-SC_Grants_FY2017.xlsx')
     data = pd.read_excel('../new_data/DOE-SC_Grants_FY2016.xlsx')
@@ -148,28 +150,29 @@ def clean_doe_grant_data():
     data.loc[data['Institution'] == 'California Institute of Technology', 'Congressional District'] = 'CA-27'
     data0.loc[data0['Institution'] == 'California Institute of Technology', 'Congressional District'] = 'CA-27'
     dataA.loc[dataA['Institution'] == 'California Institute of Technology', 'Congressional District'] = 'CA-27'
+    #this bug was fixed in FY2019 data
     ### END FIXES
 
-    institutions = pd.concat([dataA['Institution'],data0['Institution'], data['Institution'], data2['Institution'],
+    institutions = pd.concat([dataB['Institution'], dataA['Institution'],data0['Institution'], data['Institution'], data2['Institution'],
                               data3['Institution'], data4['Institution'], data5['Institution']], ignore_index=True, axis=0)
-    districts = pd.concat([dataA['Congressional District'],data0['Congressional District'], data['Congressional District'], data2['Congressional District'],
+    districts = pd.concat([dataB['Congressional District'], dataA['Congressional District'],data0['Congressional District'], data['Congressional District'], data2['Congressional District'],
                            data3['Congressional District'], data4['Congressional District *'], data5['Congressional District']], ignore_index=True, axis=0)
-    amounts = pd.concat([dataA['Awarded Amount'],data0['Awarded Amount'], data['Awarded Amount'], data2['Awarded Amount'],
+    amounts = pd.concat([dataB['Awarded Amount'],dataA['Awarded Amount'],data0['Awarded Amount'], data['Awarded Amount'], data2['Awarded Amount'],
                          data3['Awarded Amount'], data4['FY 2013 Funding'], data5['2012 Funding']], ignore_index=True, axis=0)
-    years = pd.Series(np.concatenate([2018 * np.ones(len(dataA),dtype=int), 2017 * np.ones(len(data0),dtype=int), 2016 * np.ones(len(data),dtype=int), 2015 * np.ones(
+    years = pd.Series(np.concatenate([2019 * np.ones(len(dataB),dtype=int),2018 * np.ones(len(dataA),dtype=int), 2017 * np.ones(len(data0),dtype=int), 2016 * np.ones(len(data),dtype=int), 2015 * np.ones(
         len(data2),dtype=int), 2014 * np.ones(len(data3),dtype=int), 2013 * np.ones(len(data4),dtype=int), 2012 * np.ones(len(data5),dtype=int)]))
-    states = pd.concat([dataA['State'], data0['State'], data['State/Territory'], data2['State/Territory'],
+    states = pd.concat([dataB['State'], dataA['State'], data0['State'], data['State/Territory'], data2['State/Territory'],
                         data3['State'], data4['State'], data5['State']], ignore_index=True, axis=0)
-    programs = pd.concat([dataA['Program Office'], data0['Organization'], data['Organization'], data2['Organization'],
+    programs = pd.concat([dataB['Organization'], dataA['Program Office'], data0['Organization'], data['Organization'], data2['Organization'],
                           data3['Organization'], data4['SC Program'], data5['SC Program']], ignore_index=True, axis=0)
-    titles = pd.concat([dataA['Title'],data0['Title'],data['Title'],
+    titles = pd.concat([dataB['Title'],dataA['Title'],data0['Title'],data['Title'],
                         data2['Project Title'],data3['Project Title'],
                         data4['Project Title'],data5['Project Title'],],ignore_index=True,axis=0)
-    award_nums = pd.concat([dataA['Award Number'],data0['Award Number'],
+    award_nums = pd.concat([dataB['Award Number'],dataA['Award Number'],data0['Award Number'],
                             data['Award Number'],data2['Award Number'],
                             data3['Award Number'],data4['Award Number'],data5['Award Number']],ignore_index=True,axis=0)
     
-    pis = pd.concat([dataA['Principlal Investigator'],data0['Principlal Investigator'],
+    pis = pd.concat([dataB['PI'], dataA['Principlal Investigator'],data0['Principlal Investigator'],
                      data['Principal Investigator'],data2['Principal Investigator'],
                      data3['Principal Investigator'],data4['Principal Investigator(s)'],
                      data5['Principal Investigator(s)'],],ignore_index=True,axis=0)
@@ -186,10 +189,10 @@ def clean_doe_grant_data():
         if len(test) > 1:
             abbrev_agencies.append(test[1])
         else:
-            abbrev_agencies.append(test[0])
+            abbrev_agencies.append(entry)
     fulldata['SC Office'] = abbrev_agencies
 
-    hepdata = fulldata[fulldata['SC Office'] == 'HEP']
+    hepdata = fulldata[(fulldata['SC Office'] == 'HEP') | (fulldata['SC Office'] == 'High Energy Physics')]
     hepdata = hepdata.dropna(subset=['Amount ($)'])
     hepdata['Project Title'].replace('&#8208;','-',inplace=True)
     #unicode problems in the raw data
@@ -282,12 +285,12 @@ def clean_doe_grant_data():
     hepdata.to_pickle('../new_data/cleaned/hep_grants.pkl')
 
 def clean_suli_student_data():
-    geocoded_insts = pd.read_csv('/Users/mbaumer/side_projects/us_hep_funding/data/college_addrs_2ndpass_geocodio.csv')
+    geocoded_insts = pd.read_csv('/Users/mbaumer/side_projects/us_hep_funding/newdata2020/college_addresses_geocodio_2020.csv')
 
-    data = pd.read_csv('/Users/mbaumer/Documents/suli_student_data.csv',
+    data = pd.read_csv('/Users/mbaumer/Documents/HEP Advocacy/suli_student_data.csv',
                     names=['Name','College','Host Lab','Term','A','B'],skiprows=1)
     data = data[['Name','College','Host Lab','Term']]
-    
+
     data['Program'] = 'SULI'
     data = data.dropna()
     data = data.replace('\\n', '',regex=True)
@@ -296,7 +299,7 @@ def clean_suli_student_data():
                                     columns=['Name','College','Host Lab','Term']),ignore_index=True)
 
 
-    data2 = pd.read_csv('/Users/mbaumer/Documents/cci_student_info.csv',
+    data2 = pd.read_csv('/Users/mbaumer/side_projects/us_hep_funding/newdata2020/cci_student_info.csv',
                     names=['Name','College','Host Lab','Term','A','B'],skiprows=1)
     data2 = data2[['Name','College','Host Lab','Term']]
     data2['Program'] = 'CCI'
@@ -305,11 +308,22 @@ def clean_suli_student_data():
 
     data = pd.concat([data,data2],ignore_index=True)
 
+    print len(data)
+
+    data['College'] = data['College'].str.replace('\\xe2','a')
+    data['Name'] = data['Name'].str.replace('\\xe2','a')
+    data['College'] = data['College'].str.replace('Stony Brook University','State University of New York at Stony Brook')
+
     geo_students = data.merge(geocoded_insts)
 
-    geo_students['Name'].loc[297] = 'Nneka Estee Joyette-Daniel'
-    geo_students['Name'].loc[2087] = 'Rubi Pena'
-    geo_students['Name'].loc[1861] = 'Nataniel Medina Berrios'
+    geo_students['Name'].loc[452] = 'Angelica Tirado'
+    geo_students['Name'].loc[455] = 'Keishla Marie Sanchez Ortiz'
+    geo_students['Name'].loc[473] = 'Nneka Estee Joyette-Daniel'
+    geo_students['Name'].loc[2686] = 'Amanda Sofia Caballero'
+    geo_students['Name'].loc[3060] = 'Nataniel Medina Berrios'
+    geo_students['Name'].loc[3417] = 'Rubi Pena'
+    
+    print 'total suli', len(geo_students)
 
     pd.to_pickle(geo_students,'/Users/mbaumer/side_projects/us_hep_funding/new_data/cleaned/suli_students.pkl')
 
@@ -381,27 +395,33 @@ def clean_nsf_grant_data():
     pd.to_pickle(mps_grants, '../new_data/cleaned/nsf_mps_grants.pkl')
 
 def clean_fnal_procurements():
-    for i in range(4,54):
-        if i == 4:
-            fnal = pd.read_excel('/Users/mbaumer/Downloads/FY\'18 Purchases by Supplier_State_All_states.xlsm',sheet_name=i)
-        else:
-            fnal = fnal.append(pd.read_excel('/Users/mbaumer/Downloads/FY\'18 Purchases by Supplier_State_All_states.xlsm',sheet_name=i))
-    fnal = fnal.dropna()
-    fnal_geo = pd.read_csv('../data/fnal_vendors_final_geocodio.csv')
-    fnal_geo = fnal_geo[['ZIP','Congressional District']]
-    fnal_geo = fnal_geo.dropna()
-    labeled = fnal.merge(fnal_geo)
+    # for i in range(4,54):
+    #     if i == 4:
+    #         fnal = pd.read_excel('/Users/mbaumer/Downloads/FY\'18 Purchases by Supplier_State_All_states.xlsm',sheet_name=i)
+    #     else:
+    #         fnal = fnal.append(pd.read_excel('/Users/mbaumer/Downloads/FY\'18 Purchases by Supplier_State_All_states.xlsm',sheet_name=i))
+    # fnal = fnal.dropna()
+    # fnal_geo = pd.read_csv('../data/fnal_vendors_final_geocodio.csv')
+    # fnal_geo = fnal_geo[['ZIP','Congressional District']]
+    # fnal_geo = fnal_geo.dropna()
+    # labeled = fnal.merge(fnal_geo)
+    print 'cleaning FNAL procurements'
+
+    labeled = pd.read_csv('~/Downloads/fnal_19_geocodio_done.csv')
+    labeled = labeled[-labeled['POTotal'].str.contains('\$')]
+
     labeled['Congressional District'] = labeled['Congressional District'].str.replace('[A-Z][A-Z]','')
-    labeled = labeled[['VENDOR_NAME','STATE','ZIP','Congressional District','Total']]
+    labeled = labeled[['VENDOR_NAME','STATE','ZIP','Congressional District','POTotal']]
+    labeled = labeled.dropna()
     labeled['ZIP'] = labeled['ZIP'].str.replace('-\d+$','')
-    labeled = labeled.rename(columns={'VENDOR_NAME':'Vendor','STATE':'State','Congressional District' : 'District', 'Total': 'Amount ($)', 'ZIP' : 'ZIP Code'})
+    labeled = labeled.rename(columns={'VENDOR_NAME':'Vendor','STATE':'State','Congressional District' : 'District', 'POTotal': 'Amount ($)', 'ZIP' : 'ZIP Code'})
     labeled['Vendor'] = labeled['Vendor'].str.title()
     labeled['Vendor'] = labeled['Vendor'].str.replace('Llc','LLC')
     labeled['Vendor'] = labeled['Vendor'].str.replace('\'S','\'s')
     labeled['Vendor'] = labeled['Vendor'].str.replace(' Of ',' of ')
     labeled['Vendor'] = labeled['Vendor'].str.replace(' In ',' in ')
-    labeled['int_amount'] = labeled['Amount ($)']
-    labeled['Amount ($)'] = labeled['Amount ($)'].map('{:,.0f}'.format)
+    labeled['int_amount'] = labeled['Amount ($)'].astype(float)
+    labeled['Amount ($)'] = labeled['Amount ($)'].astype(float).map('${:,.0f}'.format)
     labeled['ZIP Code'] = labeled['ZIP Code'].astype(int).astype(str)
     pd.to_pickle(labeled, '../new_data/cleaned/fnal_procurements.pkl')
 
@@ -487,12 +507,12 @@ def clean_committee_data():
             
 if __name__ == '__main__':
     if not os.path.exists('../new_data/cleaned'): os.makedirs('../new_data/cleaned')
-    download_latest_data(2019,8)
-    unzip_all()
+    #download_latest_data(2019,8)
+    #unzip_all()
     clean_doe_contract_data()
     clean_doe_grant_data()
     clean_nsf_grant_data()
-    clean_suli_student_data()
+    #clean_suli_student_data()
     clean_fnal_procurements()
-    clean_legislator_data()
-    clean_committee_data()
+    #clean_legislator_data()
+    #clean_committee_data()

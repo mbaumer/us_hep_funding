@@ -28,18 +28,20 @@ Shelley Moore Capito is the #10 Republican on the Senate Committee on Commerce, 
 
 ## HEP Grants
 ```
-This state received no SC HEP grants from 2012-2019
+This state received no SC HEP grants from 2012-2020
 ```
 ## SC Contracts
 ```
-This state received no SC contracts from 2012-2019
+This state received no SC contracts from 2012-2020
 ```
 ## NSF MPS Grants
-In the past 8 years, this state has received:
-91 NSF MPS grants, totalling <b> $20,557,795</b>
+In the past 9 years, this state has received:
+107 NSF MPS grants, totalling <b> $23,199,456</b>
 ```
   Year  Institution                                      Amount ($)
 ------  ---------------------------------------------  ------------
+  2020  West Virginia University Research Corporation        75,211
+  2019  West Virginia University Research Corporation     2,566,450
   2018  Marshall University Research Corporation            415,000
   2018  West Virginia University Research Corporation     3,832,303
   2017  West Virginia University Research Corporation     2,436,019
@@ -55,15 +57,16 @@ In the past 8 years, this state has received:
 <p align="center">
 ![WV SULI/CCI image]({{ site.baseurl }}/img/WV.png)
 </p>
-From 2014-2016 (only years available), this state had 14 SULI/CCI interns
+From 2014-2018, this state had 18 SULI/CCI interns
 ```
   # Interns  Program    College
 -----------  ---------  ------------------------------
-          7  SULI       West Virginia University
+         10  SULI       West Virginia University
+          3  SULI       Marshall University
           3  SULI       West Virginia Wesleyan College
           2  SULI       Fairmont State University
-          2  SULI       Marshall University
 ```
+18
 ---
 ---
 <a name="WV-01"></a>
@@ -74,17 +77,19 @@ David B. McKinley is the #10 Republican on the House Committee on Energy and Com
 
 ## HEP Grants
 ```
-This district received no SC HEP grants from 2012-2019
+This district received no SC HEP grants from 2012-2020
 ```
 ## SC Contracts
 ```
-This district received no SC contracts from 2012-2019
+This district received no SC contracts from 2012-2020
 ```
 ## NSF MPS Grants
-In the past 8 years, this district has received:<b> $19,803,950 </b>in NSF MPS grants.
+In the past 9 years, this district has received:<b> $22,445,611 </b>in NSF MPS grants.
 ```
   Year  Institution                                      Amount ($)
 ------  ---------------------------------------------  ------------
+  2020  West Virginia University Research Corporation        75,211
+  2019  West Virginia University Research Corporation     2,566,450
   2018  West Virginia University Research Corporation     3,832,303
   2017  West Virginia University Research Corporation     2,436,019
   2016  West Virginia University Research Corporation     3,277,030
@@ -95,16 +100,19 @@ In the past 8 years, this district has received:<b> $19,803,950 </b>in NSF MPS g
   2012  West Virginia University Research Corporation     2,347,751
 ```
 ## SULI/CCI Interns
-From 2014-2016 (only years available), this district had 9 SULI/CCI interns
+From 2014-2018, this district had 12 SULI/CCI interns
 ```
 Term         Name                    College                    Host Lab                                Program
 -----------  ----------------------  -------------------------  --------------------------------------  ---------
+Summer 2017  Aarthy Shah             West Virginia University   Ames National Laboratory                SULI
 Summer 2015  Lucas Price             West Virginia University   Brookhaven National Laboratory          SULI
 Summer 2015  Clayton Robert Johnson  West Virginia University   Argonne National Laboratory             SULI
 Summer 2014  Bryan James Foley       Fairmont State University  Brookhaven National Laboratory          SULI
 Summer 2014  Clayton Robert Johnson  West Virginia University   Argonne National Laboratory             SULI
+Summer 2014  Julie Michelle Button   West Virginia University   Lawrence Livermore National Laboratory  SULI
 Summer 2014  Megan Jewell            West Virginia University   Ames National Laboratory                SULI
 Summer 2014  Rebecca Buonavita Posa  West Virginia University   Idaho National Laboratory               SULI
+Spring 2017  Kodey Jones             West Virginia University   Oak Ridge National Laboratory           SULI
 Spring 2015  Bryan James Foley       Fairmont State University  Brookhaven National Laboratory          SULI
 Spring 2014  Ethel Perez-Hoyos       West Virginia University   Lawrence Berkeley National Laboratory   SULI
 Fall 2014    Julie Michelle Button   West Virginia University   Lawrence Livermore National Laboratory  SULI
@@ -115,18 +123,18 @@ Fall 2014    Julie Michelle Button   West Virginia University   Lawrence Livermo
 ## WV-02 -- Rep. Alexander X. Mooney (R) -- [Wikipedia](https://en.wikipedia.org/wiki/WV-02)
 ## HEP Grants
 ```
-This district received no SC HEP grants from 2012-2019
+This district received no SC HEP grants from 2012-2020
 ```
 ## SC Contracts
 ```
-This district received no SC contracts from 2012-2019
+This district received no SC contracts from 2012-2020
 ```
 ## NSF MPS Grants
 ```
-This district received no NSF MPS grants from 2012-2019
+This district received no NSF MPS grants from 2012-2020
 ```
 ## SULI/CCI Interns
-From 2014-2016 (only years available), this district had 3 SULI/CCI interns
+From 2014-2018, this district had 3 SULI/CCI interns
 ```
 Term         Name                College                         Host Lab                                        Program
 -----------  ------------------  ------------------------------  ----------------------------------------------  ---------
@@ -140,14 +148,14 @@ Summer 2015  Asa Nichols         West Virginia Wesleyan College  National Renewa
 ## WV-03 -- Rep. Carol D. Miller (R) -- [Wikipedia](https://en.wikipedia.org/wiki/WV-03)
 ## HEP Grants
 ```
-This district received no SC HEP grants from 2012-2019
+This district received no SC HEP grants from 2012-2020
 ```
 ## SC Contracts
 ```
-This district received no SC contracts from 2012-2019
+This district received no SC contracts from 2012-2020
 ```
 ## NSF MPS Grants
-In the past 8 years, this district has received:<b> $753,845 </b>in NSF MPS grants.
+In the past 9 years, this district has received:<b> $753,845 </b>in NSF MPS grants.
 ```
   Year  Institution                                 Amount ($)
 ------  ----------------------------------------  ------------
@@ -155,10 +163,11 @@ In the past 8 years, this district has received:<b> $753,845 </b>in NSF MPS gran
   2012  Marshall University Research Corporation       338,845
 ```
 ## SULI/CCI Interns
-From 2014-2016 (only years available), this district had 2 SULI/CCI interns
+From 2014-2018, this district had 3 SULI/CCI interns
 ```
 Term         Name                     College              Host Lab                       Program
 -----------  -----------------------  -------------------  -----------------------------  ---------
+Summer 2017  Henok Atsbaha            Marshall University  Oak Ridge National Laboratory  SULI
 Summer 2016  Amber Bettis             Marshall University  Oak Ridge National Laboratory  SULI
 Fall 2015    Matthew Joseph Haldeman  Marshall University  Oak Ridge National Laboratory  SULI
 ```

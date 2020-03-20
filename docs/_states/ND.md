@@ -21,18 +21,20 @@ John Hoeven is the #11 Republican on the Senate Committee on Energy and Natural 
 
 ## HEP Grants
 ```
-This state received no SC HEP grants from 2012-2019
+This state received no SC HEP grants from 2012-2020
 ```
 ## SC Contracts
 ```
-This state received no SC contracts from 2012-2019
+This state received no SC contracts from 2012-2020
 ```
 ## NSF MPS Grants
-In the past 8 years, this state has received:
-26 NSF MPS grants, totalling <b> $5,937,485</b>
+In the past 9 years, this state has received:
+28 NSF MPS grants, totalling <b> $6,578,682</b>
 ```
   Year  Institution                      Amount ($)
 ------  -----------------------------  ------------
+  2019  North Dakota State University       171,528
+  2019  University Of North Dakota          469,669
   2018  North Dakota State University       930,030
   2018  University Of North Dakota          330,000
   2017  University Of North Dakota          572,940
@@ -52,12 +54,15 @@ In the past 8 years, this state has received:
 <p align="center">
 ![ND SULI/CCI image]({{ site.baseurl }}/img/ND.png)
 </p>
-From 2014-2016 (only years available), this state had 1 SULI/CCI intern
+From 2014-2018, this state had 4 SULI/CCI interns
 ```
   # Interns  Program    College
 -----------  ---------  -----------------------------------------
-          1  SULI       North Dakota State University Main Campus
+          2  SULI       North Dakota State University Main Campus
+          1  SULI       University of North Dakota
+          1  SULI       Williston State College
 ```
+4
 ---
 ---
 <a name="ND-00"></a>
@@ -65,17 +70,19 @@ From 2014-2016 (only years available), this state had 1 SULI/CCI intern
 ## ND-00 -- Rep. Kelly Armstrong (R) -- [Wikipedia](https://en.wikipedia.org/wiki/ND-00)
 ## HEP Grants
 ```
-This district received no SC HEP grants from 2012-2019
+This district received no SC HEP grants from 2012-2020
 ```
 ## SC Contracts
 ```
-This district received no SC contracts from 2012-2019
+This district received no SC contracts from 2012-2020
 ```
 ## NSF MPS Grants
-In the past 8 years, this district has received:<b> $5,937,485 </b>in NSF MPS grants.
+In the past 9 years, this district has received:<b> $6,578,682 </b>in NSF MPS grants.
 ```
   Year  Institution                      Amount ($)
 ------  -----------------------------  ------------
+  2019  North Dakota State University       171,528
+  2019  University Of North Dakota          469,669
   2018  North Dakota State University       930,030
   2018  University Of North Dakota          330,000
   2017  University Of North Dakota          572,940
@@ -92,10 +99,13 @@ In the past 8 years, this district has received:<b> $5,937,485 </b>in NSF MPS gr
   2012  University Of North Dakota          300,000
 ```
 ## SULI/CCI Interns
-From 2014-2016 (only years available), this district had 1 SULI/CCI intern
+From 2014-2018, this district had 4 SULI/CCI interns
 ```
-Term       Name                  College                                    Host Lab                        Program
----------  --------------------  -----------------------------------------  ------------------------------  ---------
-Fall 2015  Loren James Anderson  North Dakota State University Main Campus  Los Alamos National Laboratory  SULI
+Term         Name                   College                                    Host Lab                              Program
+-----------  ---------------------  -----------------------------------------  ------------------------------------  ---------
+Summer 2018  Dylan Wald             North Dakota State University Main Campus  National Renewable Energy Laboratory  SULI
+Summer 2017  John Krishnan Myjak    University of North Dakota                 Argonne National Laboratory           SULI
+Fall 2017    Meghan Ashley Taunton  Williston State College                    National Renewable Energy Laboratory  SULI
+Fall 2015    Loren James Anderson   North Dakota State University Main Campus  Los Alamos National Laboratory        SULI
 ```
 ---

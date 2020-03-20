@@ -19,7 +19,7 @@ Catherine Cortez Masto is the #9 Democrat on the Senate Committee on Energy and 
 Jacky Rosen is the #12 Democrat on the Senate Committee on Commerce, Science, and Transportation 
 
 ## HEP Grants
-In the past 8 years, this state has received:
+In the past 9 years, this state has received:
 1 HEP grants, totalling <b> $0</b>
 ```
   Year  Institution                    Amount ($)
@@ -27,7 +27,7 @@ In the past 8 years, this state has received:
   2012  University of Nevada - Reno             0
 ```
 ## SC Contracts
-In the past 8 years, this state has received:
+In the past 9 years, this state has received:
 1 Office of Science contracts, totalling <b> $128,700</b>
 ```
   Year  Vendor                       Amount ($)  Item
@@ -35,26 +35,28 @@ In the past 8 years, this state has received:
   2012  Bechtel Saic Company, LLC       128,700  Operation Of Govt Misc Bldgs
 ```
 ## NSF MPS Grants
-In the past 8 years, this state has received:
-88 NSF MPS grants, totalling <b> $12,880,665</b>
+In the past 9 years, this state has received:
+105 NSF MPS grants, totalling <b> $16,144,957</b>
 ```
 Institution                                           Amount ($)
 --------------------------------------------------  ------------
+Nevada System Of Higher Education                      6,773,987
 University Of Nevada Reno                              6,492,950
-Nevada System Of Higher Education                      4,545,079
-Board Of Regents Nevada System Of Higher Education       950,306
+Board Of Regents Nevada System Of Higher Education     1,985,690
 Board Of Regents Nevada System Of Higher Educ            892,330
 ```
 ## SULI/CCI Interns
 <p align="center">
 ![NV SULI/CCI image]({{ site.baseurl }}/img/NV.png)
 </p>
-From 2014-2016 (only years available), this state had 1 SULI/CCI intern
+From 2014-2018, this state had 5 SULI/CCI interns
 ```
   # Interns  Program    College
------------  ---------  -------------------------
-          1  SULI       University of Nevada-Reno
+-----------  ---------  ------------------------------
+          3  SULI       University of Nevada-Reno
+          2  SULI       University of Nevada-Las Vegas
 ```
+5
 ---
 ---
 <a name="NV-01"></a>
@@ -62,10 +64,10 @@ From 2014-2016 (only years available), this state had 1 SULI/CCI intern
 ## NV-01 -- Rep. Dina Titus (D) -- [Wikipedia](https://en.wikipedia.org/wiki/NV-01)
 ## HEP Grants
 ```
-This district received no SC HEP grants from 2012-2019
+This district received no SC HEP grants from 2012-2020
 ```
 ## SC Contracts
-In the past 8 years, this district has received:
+In the past 9 years, this district has received:
 1 Office of Science contracts, totalling <b> $128,700</b>
 ```
   Year  Vendor                       Amount ($)  Item
@@ -73,7 +75,7 @@ In the past 8 years, this district has received:
   2012  Bechtel Saic Company, LLC       128,700  Operation Of Govt Misc Bldgs
 ```
 ## NSF MPS Grants
-In the past 8 years, this district has received:<b> $892,330 </b>in NSF MPS grants.
+In the past 9 years, this district has received:<b> $892,330 </b>in NSF MPS grants.
 ```
   Year  Institution                                      Amount ($)
 ------  ---------------------------------------------  ------------
@@ -83,8 +85,12 @@ In the past 8 years, this district has received:<b> $892,330 </b>in NSF MPS gran
   2012  Board Of Regents Nevada System Of Higher Educ       511,584
 ```
 ## SULI/CCI Interns
+From 2014-2018, this district had 2 SULI/CCI interns
 ```
-This district had no SULI/CCI interns from 2014-2016 (only years available)
+Term       Name            College                         Host Lab                               Program
+---------  --------------  ------------------------------  -------------------------------------  ---------
+Fall 2018  Nicholas Chang  University of Nevada-Las Vegas  Lawrence Berkeley National Laboratory  SULI
+Fall 2017  Chase Aldridge  University of Nevada-Las Vegas  National Renewable Energy Laboratory   SULI
 ```
 ---
 <a name="NV-02"></a>
@@ -94,7 +100,7 @@ This district had no SULI/CCI interns from 2014-2016 (only years available)
 Mark E. Amodei is the #17 Republican on the House Committee on Appropriations 
 
 ## HEP Grants
-In the past 8 years, this district has received:<b> $0 </b>in SC HEP grants.
+In the past 9 years, this district has received:<b> $0 </b>in SC HEP grants.
 ```
 Institution                    Amount ($)    Start    End  Principal Investigator    Project Title
 ---------------------------  ------------  -------  -----  ------------------------  ------------------------------------------------------------------------
@@ -102,13 +108,14 @@ University of Nevada - Reno             0     2012   2013  Murphy               
 ```
 ## SC Contracts
 ```
-This district received no SC contracts from 2012-2019
+This district received no SC contracts from 2012-2020
 ```
 ## NSF MPS Grants
-In the past 8 years, this district has received:<b> $11,038,029 </b>in NSF MPS grants.
+In the past 9 years, this district has received:<b> $13,266,937 </b>in NSF MPS grants.
 ```
   Year  Institution                          Amount ($)
 ------  ---------------------------------  ------------
+  2019  Nevada System Of Higher Education     2,228,908
   2018  Nevada System Of Higher Education     2,889,739
   2017  Nevada System Of Higher Education       630,311
   2017  University Of Nevada Reno               706,093
@@ -121,11 +128,13 @@ In the past 8 years, this district has received:<b> $11,038,029 </b>in NSF MPS g
   2012  University Of Nevada Reno               926,494
 ```
 ## SULI/CCI Interns
-From 2014-2016 (only years available), this district had 1 SULI/CCI intern
+From 2014-2018, this district had 3 SULI/CCI interns
 ```
 Term         Name                College                    Host Lab                       Program
 -----------  ------------------  -------------------------  -----------------------------  ---------
+Summer 2018  Megan Higley        University of Nevada-Reno  Argonne National Laboratory    SULI
 Summer 2016  Jeremy Trevor Moon  University of Nevada-Reno  Oak Ridge National Laboratory  SULI
+Summer 2014  Evan Aaron West     University of Nevada-Reno  Oak Ridge National Laboratory  SULI
 ```
 ---
 <a name="NV-03"></a>
@@ -136,23 +145,25 @@ Susie Lee is the #14 Democrat on the House Subcommittee on Higher Education and 
 
 ## HEP Grants
 ```
-This district received no SC HEP grants from 2012-2019
+This district received no SC HEP grants from 2012-2020
 ```
 ## SC Contracts
 ```
-This district received no SC contracts from 2012-2019
+This district received no SC contracts from 2012-2020
 ```
 ## NSF MPS Grants
-In the past 8 years, this district has received:<b> $950,306 </b>in NSF MPS grants.
+In the past 9 years, this district has received:<b> $1,985,690 </b>in NSF MPS grants.
 ```
   Year  Institution                                           Amount ($)
 ------  --------------------------------------------------  ------------
+  2020  Board Of Regents Nevada System Of Higher Education        32,000
+  2019  Board Of Regents Nevada System Of Higher Education     1,003,384
   2018  Board Of Regents Nevada System Of Higher Education       875,306
   2017  Board Of Regents Nevada System Of Higher Education        75,000
 ```
 ## SULI/CCI Interns
 ```
-This district had no SULI/CCI interns from 2014-2016 (only years available)
+This district had no SULI/CCI interns from 2014-2018
 ```
 ---
 <a name="NV-04"></a>
@@ -160,18 +171,18 @@ This district had no SULI/CCI interns from 2014-2016 (only years available)
 ## NV-04 -- Rep. Steven Horsford (D) -- [Wikipedia](https://en.wikipedia.org/wiki/NV-04)
 ## HEP Grants
 ```
-This district received no SC HEP grants from 2012-2019
+This district received no SC HEP grants from 2012-2020
 ```
 ## SC Contracts
 ```
-This district received no SC contracts from 2012-2019
+This district received no SC contracts from 2012-2020
 ```
 ## NSF MPS Grants
 ```
-This district received no NSF MPS grants from 2012-2019
+This district received no NSF MPS grants from 2012-2020
 ```
 ## SULI/CCI Interns
 ```
-This district had no SULI/CCI interns from 2014-2016 (only years available)
+This district had no SULI/CCI interns from 2014-2018
 ```
 ---

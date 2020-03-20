@@ -14,11 +14,13 @@ permalink : /states/OK/
 James Lankford is the #16 Republican on the Senate Committee on Appropriations 
 
 ## HEP Grants
-In the past 8 years, this state has received:
-21 HEP grants, totalling <b> $7,000,000</b>
+In the past 9 years, this state has received:
+23 HEP grants, totalling <b> $7,906,000</b>
 ```
   Year  Institution                  Amount ($)
 ------  -------------------------  ------------
+  2019  Oklahoma State University       425,000
+  2019  University of Oklahoma          481,000
   2018  Oklahoma State University       422,000
   2018  University of Oklahoma          503,000
   2017  Oklahoma State University       419,000
@@ -35,7 +37,7 @@ In the past 8 years, this state has received:
   2012  University of Oklahoma          907,000
 ```
 ## SC Contracts
-In the past 8 years, this state has received:
+In the past 9 years, this state has received:
 4 Office of Science contracts, totalling <b> $19,895</b>
 ```
   Year  Vendor                                  Amount ($)  Item
@@ -46,13 +48,13 @@ In the past 8 years, this state has received:
   2013  Society Of Exploration Geophysicists         4,159  Newspapers And Periodicals
 ```
 ## NSF MPS Grants
-In the past 8 years, this state has received:
-138 NSF MPS grants, totalling <b> $21,797,517</b>
+In the past 9 years, this state has received:
+166 NSF MPS grants, totalling <b> $26,462,455</b>
 ```
 Institution                           Amount ($)
 ----------------------------------  ------------
-University Of Oklahoma                12,717,276
-Oklahoma State University              7,911,107
+University Of Oklahoma                16,379,425
+Oklahoma State University              8,913,896
 University Of Tulsa                    1,027,163
 Rogers State University Foundation        74,591
 Tulsa Community College                   67,380
@@ -61,16 +63,17 @@ Tulsa Community College                   67,380
 <p align="center">
 ![OK SULI/CCI image]({{ site.baseurl }}/img/OK.png)
 </p>
-From 2014-2016 (only years available), this state had 10 SULI/CCI interns
+From 2014-2018, this state had 23 SULI/CCI interns
 ```
   # Interns  Program    College
 -----------  ---------  ------------------------------------------
-          4  SULI       Farmingdale State College
-          3  SULI       University of Oklahoma Norman Campus
-          1  SULI       Oklahoma State University
+         13  SULI       Farmingdale State College
+          6  SULI       University of Oklahoma Norman Campus
+          2  SULI       Oklahoma State University
           1  SULI       Tulsa Community College
           1  SULI       University of Science and Arts of Oklahoma
 ```
+23
 ---
 ---
 <a name="OK-01"></a>
@@ -78,10 +81,10 @@ From 2014-2016 (only years available), this state had 10 SULI/CCI interns
 ## OK-01 -- Rep. Kevin Hern (R) -- [Wikipedia](https://en.wikipedia.org/wiki/OK-01)
 ## HEP Grants
 ```
-This district received no SC HEP grants from 2012-2019
+This district received no SC HEP grants from 2012-2020
 ```
 ## SC Contracts
-In the past 8 years, this district has received:
+In the past 9 years, this district has received:
 4 Office of Science contracts, totalling <b> $19,895</b>
 ```
   Year  Vendor                                  Amount ($)  Item
@@ -92,7 +95,7 @@ In the past 8 years, this district has received:
   2013  Society Of Exploration Geophysicists         4,159  Newspapers And Periodicals
 ```
 ## NSF MPS Grants
-In the past 8 years, this district has received:<b> $1,094,543 </b>in NSF MPS grants.
+In the past 9 years, this district has received:<b> $1,094,543 </b>in NSF MPS grants.
 ```
   Year  Institution                Amount ($)
 ------  -----------------------  ------------
@@ -104,7 +107,7 @@ In the past 8 years, this district has received:<b> $1,094,543 </b>in NSF MPS gr
   2012  University Of Tulsa           110,000
 ```
 ## SULI/CCI Interns
-From 2014-2016 (only years available), this district had 1 SULI/CCI intern
+From 2014-2018, this district had 1 SULI/CCI intern
 ```
 Term         Name        College                  Host Lab                       Program
 -----------  ----------  -----------------------  -----------------------------  ---------
@@ -119,14 +122,14 @@ Markwayne Mullin is the #19 Republican on the House Committee on Energy and Comm
 
 ## HEP Grants
 ```
-This district received no SC HEP grants from 2012-2019
+This district received no SC HEP grants from 2012-2020
 ```
 ## SC Contracts
 ```
-This district received no SC contracts from 2012-2019
+This district received no SC contracts from 2012-2020
 ```
 ## NSF MPS Grants
-In the past 8 years, this district has received:<b> $74,591 </b>in NSF MPS grants.
+In the past 9 years, this district has received:<b> $74,591 </b>in NSF MPS grants.
 ```
   Year  Institution                           Amount ($)
 ------  ----------------------------------  ------------
@@ -134,7 +137,7 @@ In the past 8 years, this district has received:<b> $74,591 </b>in NSF MPS grant
 ```
 ## SULI/CCI Interns
 ```
-This district had no SULI/CCI interns from 2014-2016 (only years available)
+This district had no SULI/CCI interns from 2014-2018
 ```
 ---
 <a name="OK-03"></a>
@@ -144,27 +147,29 @@ This district had no SULI/CCI interns from 2014-2016 (only years available)
 Frank D. Lucas is the #1 Republican on the House Committee on Science, Space, and Technology 
 
 ## HEP Grants
-In the past 8 years, this district has received:<b> $2,059,000 </b>in SC HEP grants.
+In the past 9 years, this district has received:<b> $2,484,000 </b>in SC HEP grants.
 ```
-Institution                  Amount ($)    Start  End      Principal Investigator    Project Title
--------------------------  ------------  -------  -------  ------------------------  --------------------------------------------------------------------------------------
-Oklahoma State University       961,000     2016  Ongoing  Nandi, Satyanarayan       Theoretical and Experimetal Research in Weak, Electromagnetic and Strong Interactions
-Oklahoma State University       506,000     2015  2017     Nandi, Satyanarayan       Theoretical And Experimental Research In Weak, Electromagnetic And Strong Interactions
-Oklahoma State University         8,000     2013  2014     Babu                      International Symposium on Opportunities in Underground Physics, May 24-27, 2013
-Oklahoma State University       267,000     2013  2014     Nandi                     Theoretical and Experimental Research in Weak, Electromagnetic and Strong Interactions
-Langston University                   0     2012  2013     Snow                      Langston University - High Energy Physics (LU-HEP)
-Oklahoma State University        18,000     2012  2014     Khanov                    Search for New Physics with Top and Bottom Quarks with ATLAS
-Oklahoma State University       299,000     2012  2013     Nandi                     Theoretical Research in Weak, Electromagnetic, and Strong Interactions
+Institution                  Amount ($)    Start    End  Principal Investigator    Project Title
+-------------------------  ------------  -------  -----  ------------------------  --------------------------------------------------------------------------------------
+Oklahoma State University     1,386,000     2016   2020  Nandi, Satyanarayan       Theoretical and Experimetal Research in Weak, Electromagnetic and Strong Interactions
+Oklahoma State University       506,000     2015   2017  Nandi, Satyanarayan       Theoretical And Experimental Research In Weak, Electromagnetic And Strong Interactions
+Oklahoma State University         8,000     2013   2014  Babu                      International Symposium on Opportunities in Underground Physics, May 24-27, 2013
+Oklahoma State University       267,000     2013   2014  Nandi                     Theoretical and Experimental Research in Weak, Electromagnetic and Strong Interactions
+Langston University                   0     2012   2013  Snow                      Langston University - High Energy Physics (LU-HEP)
+Oklahoma State University        18,000     2012   2014  Khanov                    Search for New Physics with Top and Bottom Quarks with ATLAS
+Oklahoma State University       299,000     2012   2013  Nandi                     Theoretical Research in Weak, Electromagnetic, and Strong Interactions
 ```
 ## SC Contracts
 ```
-This district received no SC contracts from 2012-2019
+This district received no SC contracts from 2012-2020
 ```
 ## NSF MPS Grants
-In the past 8 years, this district has received:<b> $7,911,107 </b>in NSF MPS grants.
+In the past 9 years, this district has received:<b> $8,913,896 </b>in NSF MPS grants.
 ```
   Year  Institution                  Amount ($)
 ------  -------------------------  ------------
+  2020  Oklahoma State University        49,809
+  2019  Oklahoma State University       952,980
   2018  Oklahoma State University     1,203,275
   2017  Oklahoma State University       693,077
   2016  Oklahoma State University     1,752,536
@@ -174,11 +179,12 @@ In the past 8 years, this district has received:<b> $7,911,107 </b>in NSF MPS gr
   2012  Oklahoma State University     1,080,354
 ```
 ## SULI/CCI Interns
-From 2014-2016 (only years available), this district had 1 SULI/CCI intern
+From 2014-2018, this district had 2 SULI/CCI interns
 ```
-Term         Name        College                    Host Lab                       Program
------------  ----------  -------------------------  -----------------------------  ---------
-Summer 2015  Mang Chang  Oklahoma State University  Oak Ridge National Laboratory  SULI
+Term         Name            College                    Host Lab                       Program
+-----------  --------------  -------------------------  -----------------------------  ---------
+Summer 2016  Timothy Alland  Oklahoma State University  Oak Ridge National Laboratory  SULI
+Summer 2015  Mang Chang      Oklahoma State University  Oak Ridge National Laboratory  SULI
 ```
 ---
 <a name="OK-04"></a>
@@ -188,10 +194,12 @@ Summer 2015  Mang Chang  Oklahoma State University  Oak Ridge National Laborator
 Tom Cole is the #7 Republican on the House Committee on Appropriations 
 
 ## HEP Grants
-In the past 8 years, this district has received:<b> $4,941,000 </b>in SC HEP grants.
+In the past 9 years, this district has received:<b> $5,422,000 </b>in SC HEP grants.
 ```
 Institution               Amount ($)    Start  End      Principal Investigator    Project Title
 ----------------------  ------------  -------  -------  ------------------------  ----------------------------------------------------------------------------------------------------------------------------------------------------------------
+University of Oklahoma       481,000     2019  2020     Gutierrez, Phillip        Experimental Physics Investigations using the ATLAS Detector at the LHC and From
+                                                                                  Colliders to Cosmology in the LHC Era
 University of Oklahoma        80,000     2016  2017     Baer, Howard              OU HEP theory group: From Colliders to Cosmology in the LHC Era
 University of Oklahoma     3,124,000     2014  Ongoing  Skubic, Patrick           Experimental Physics Investigations using the ATLAS Detector at the LHC and From Colliders to Cosmology in the LHC Era
 University of Oklahoma       830,000     2013  2014     Skubic                    Experimental Physics Investigations using Colliding Beam Detectors; Nonperturbative Quantum Field Theory, Particle Physics Beyond the Standard Model And Theoret
@@ -200,14 +208,15 @@ University of Oklahoma       907,000     2012  2013     Skubic, Milton          
 ```
 ## SC Contracts
 ```
-This district received no SC contracts from 2012-2019
+This district received no SC contracts from 2012-2020
 ```
 ## NSF MPS Grants
-In the past 8 years, this district has received:<b> $12,717,276 </b>in NSF MPS grants.
+In the past 9 years, this district has received:<b> $16,379,425 </b>in NSF MPS grants.
 ```
   Year  Institution               Amount ($)
 ------  ----------------------  ------------
-  2019  University Of Oklahoma       521,258
+  2020  University Of Oklahoma         1,760
+  2019  University Of Oklahoma     4,181,647
   2018  University Of Oklahoma     1,733,810
   2017  University Of Oklahoma     1,771,478
   2016  University Of Oklahoma     2,724,226
@@ -217,7 +226,7 @@ In the past 8 years, this district has received:<b> $12,717,276 </b>in NSF MPS g
   2012  University Of Oklahoma     2,657,662
 ```
 ## SULI/CCI Interns
-From 2014-2016 (only years available), this district had 1 SULI/CCI intern
+From 2014-2018, this district had 1 SULI/CCI intern
 ```
 Term         Name         College                                     Host Lab                  Program
 -----------  -----------  ------------------------------------------  ------------------------  ---------
@@ -234,27 +243,39 @@ Kendra S. Horn is the #9 Democrat on the House Committee on Science, Space, and 
 
 ## HEP Grants
 ```
-This district received no SC HEP grants from 2012-2019
+This district received no SC HEP grants from 2012-2020
 ```
 ## SC Contracts
 ```
-This district received no SC contracts from 2012-2019
+This district received no SC contracts from 2012-2020
 ```
 ## NSF MPS Grants
 ```
-This district received no NSF MPS grants from 2012-2019
+This district received no NSF MPS grants from 2012-2020
 ```
 ## SULI/CCI Interns
-From 2014-2016 (only years available), this district had 7 SULI/CCI interns
+From 2014-2018, this district had 19 SULI/CCI interns
 ```
 Term         Name                  College                               Host Lab                               Program
 -----------  --------------------  ------------------------------------  -------------------------------------  ---------
+Summer 2018  Erin Clare Leghart    Farmingdale State College             Pacific Northwest National Laboratory  SULI
+Summer 2018  Tunisia Solomon       Farmingdale State College             Brookhaven National Laboratory         SULI
+Summer 2018  Rachel Jean Bandy     University of Oklahoma Norman Campus  Oak Ridge National Laboratory          SULI
+Summer 2017  Austin Wu             Farmingdale State College             Brookhaven National Laboratory         SULI
+Summer 2017  Madelynn Whitney      University of Oklahoma Norman Campus  Pacific Northwest National Laboratory  SULI
+Summer 2017  Jenna Lynn Decordova  Farmingdale State College             Brookhaven National Laboratory         SULI
+Summer 2017  Theophilus Kwame Doe  Farmingdale State College             Brookhaven National Laboratory         SULI
+Summer 2017  David Joseph Livoti   Farmingdale State College             Brookhaven National Laboratory         SULI
+Summer 2017  Tunisia Solomon       Farmingdale State College             Brookhaven National Laboratory         SULI
+Summer 2016  Kourtney Ann Lewis    University of Oklahoma Norman Campus  Oak Ridge National Laboratory          SULI
 Summer 2016  Theophilus Kwame Doe  Farmingdale State College             Brookhaven National Laboratory         SULI
 Summer 2016  James Hugh Mcmanus    Farmingdale State College             Brookhaven National Laboratory         SULI
-Summer 2016  Kourtney Ann Lewis    University of Oklahoma Norman Campus  Oak Ridge National Laboratory          SULI
 Summer 2014  Eric McCafferty       Farmingdale State College             Brookhaven National Laboratory         SULI
+Summer 2014  Dominick Raimondi     Farmingdale State College             Brookhaven National Laboratory         SULI
+Summer 2014  Edwin Rosero          Farmingdale State College             Brookhaven National Laboratory         SULI
 Summer 2014  Allison Leigh Olin    University of Oklahoma Norman Campus  National Renewable Energy Laboratory   SULI
-Spring 2016  Kathleen Westervelt   Farmingdale State College             Lawrence Berkeley National Laboratory  SULI
 Spring 2016  Kourtney Ann Lewis    University of Oklahoma Norman Campus  Oak Ridge National Laboratory          SULI
+Spring 2016  Kathleen Westervelt   Farmingdale State College             Lawrence Berkeley National Laboratory  SULI
+Fall 2018    Lauryn Nicole Carver  University of Oklahoma Norman Campus  Lawrence Berkeley National Laboratory  SULI
 ```
 ---

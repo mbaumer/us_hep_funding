@@ -24,22 +24,22 @@ Angus S. King, Jr. is the #8 Independent on the Senate Committee on Energy and N
 
 ## HEP Grants
 ```
-This state received no SC HEP grants from 2012-2019
+This state received no SC HEP grants from 2012-2020
 ```
 ## SC Contracts
 ```
-This state received no SC contracts from 2012-2019
+This state received no SC contracts from 2012-2020
 ```
 ## NSF MPS Grants
-In the past 8 years, this state has received:
-41 NSF MPS grants, totalling <b> $8,123,613</b>
+In the past 9 years, this state has received:
+50 NSF MPS grants, totalling <b> $8,988,322</b>
 ```
 Institution                              Amount ($)
 -------------------------------------  ------------
-University Of Maine System                3,619,202
-Bowdoin College                           1,258,970
+University Of Maine System                4,012,860
+Bowdoin College                           1,597,032
 Colby College                             1,165,692
-President & Bates College                   887,830
+President & Bates College                 1,020,819
 University Of New England                   792,365
 Bigelow Laboratory For Ocean Sciences       399,554
 ```
@@ -47,14 +47,16 @@ Bigelow Laboratory For Ocean Sciences       399,554
 <p align="center">
 ![ME SULI/CCI image]({{ site.baseurl }}/img/ME.png)
 </p>
-From 2014-2016 (only years available), this state had 4 SULI/CCI interns
+From 2014-2018, this state had 7 SULI/CCI interns
 ```
   # Interns  Program    College
 -----------  ---------  -------------------
-          2  SULI       University of Maine
+          3  SULI       University of Maine
+          2  SULI       Colby College
           1  SULI       Bowdoin College
           1  SULI       Unity College
 ```
+7
 ---
 ---
 <a name="ME-01"></a>
@@ -65,17 +67,18 @@ Chellie Pingree is the #15 Democrat on the House Committee on Appropriations
 
 ## HEP Grants
 ```
-This district received no SC HEP grants from 2012-2019
+This district received no SC HEP grants from 2012-2020
 ```
 ## SC Contracts
 ```
-This district received no SC contracts from 2012-2019
+This district received no SC contracts from 2012-2020
 ```
 ## NSF MPS Grants
-In the past 8 years, this district has received:<b> $3,408,581 </b>in NSF MPS grants.
+In the past 9 years, this district has received:<b> $3,746,643 </b>in NSF MPS grants.
 ```
   Year  Institution                              Amount ($)
 ------  -------------------------------------  ------------
+  2019  Bowdoin College                             338,062
   2018  Bigelow Laboratory For Ocean Sciences       399,554
   2018  Bowdoin College                             437,815
   2018  Colby College                               194,141
@@ -93,11 +96,13 @@ In the past 8 years, this district has received:<b> $3,408,581 </b>in NSF MPS gr
   2012  Bowdoin College                             149,980
 ```
 ## SULI/CCI Interns
-From 2014-2016 (only years available), this district had 1 SULI/CCI intern
+From 2014-2018, this district had 3 SULI/CCI interns
 ```
-Term         Name                   College          Host Lab                             Program
------------  ---------------------  ---------------  -----------------------------------  ---------
-Summer 2016  Joseph Sloane Seibert  Bowdoin College  Princeton Plasma Physics Laboratory  SULI
+Term         Name                   College          Host Lab                               Program
+-----------  ---------------------  ---------------  -------------------------------------  ---------
+Summer 2018  Randall Chan           Colby College    SLAC National Accelerator Laboratory   SULI
+Summer 2017  Sarah Bailey           Colby College    Pacific Northwest National Laboratory  SULI
+Summer 2016  Joseph Sloane Seibert  Bowdoin College  Princeton Plasma Physics Laboratory    SULI
 ```
 ---
 <a name="ME-02"></a>
@@ -105,17 +110,20 @@ Summer 2016  Joseph Sloane Seibert  Bowdoin College  Princeton Plasma Physics La
 ## ME-02 -- Rep. Jared F. Golden (D) -- [Wikipedia](https://en.wikipedia.org/wiki/ME-02)
 ## HEP Grants
 ```
-This district received no SC HEP grants from 2012-2019
+This district received no SC HEP grants from 2012-2020
 ```
 ## SC Contracts
 ```
-This district received no SC contracts from 2012-2019
+This district received no SC contracts from 2012-2020
 ```
 ## NSF MPS Grants
-In the past 8 years, this district has received:<b> $4,715,032 </b>in NSF MPS grants.
+In the past 9 years, this district has received:<b> $5,241,679 </b>in NSF MPS grants.
 ```
   Year  Institution                   Amount ($)
 ------  --------------------------  ------------
+  2020  University Of Maine System        18,600
+  2019  President & Bates College        132,989
+  2019  University Of Maine System       375,058
   2018  President & Bates College        260,344
   2018  University Of Maine System       535,900
   2017  University Of Maine System       327,543
@@ -130,10 +138,11 @@ In the past 8 years, this district has received:<b> $4,715,032 </b>in NSF MPS gr
   2012  University Of Maine System     1,800,000
 ```
 ## SULI/CCI Interns
-From 2014-2016 (only years available), this district had 3 SULI/CCI interns
+From 2014-2018, this district had 4 SULI/CCI interns
 ```
 Term         Name                    College              Host Lab                               Program
 -----------  ----------------------  -------------------  -------------------------------------  ---------
+Summer 2015  Tayelor Gosselin        University of Maine  Brookhaven National Laboratory         SULI
 Summer 2015  Reid Vincent Eli Paris  University of Maine  Oak Ridge National Laboratory          SULI
 Summer 2014  Emily Kathryn Anderson  University of Maine  Pacific Northwest National Laboratory  SULI
 Spring 2014  Katie Schober           Unity College        Brookhaven National Laboratory         SULI
