@@ -1,17 +1,4 @@
-import os
-
-import numpy
-
-
-class DoeDataDownloader:
-    def __init__(self):
-        pass
-
-    def run():
-        pass
-
-
-class UsaSpendingDownloader:
+class UsaSpendingDataDownloader:
     def __init__():
         usaspending_base = (
             "https://www.usaspending.gov/download_center/award_data_archive"
