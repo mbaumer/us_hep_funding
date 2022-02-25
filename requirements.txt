@@ -1,5 +1,8 @@
 black==22.1.0
 numpy==1.22.2
+openpyxl==3.0.9
 pandas==1.4.1
+pylint==2.12.2
 pyyaml==6.0
 requests==2.27.1
+titlecase==2.3

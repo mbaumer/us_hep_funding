@@ -1,41 +1,55 @@
+"""Classes that download data from usaspending.gov"""
+
+import pathlib
+import warnings
+import zipfile
+
+import requests
+
+from us_hep_funding.constants import (
+    DOE_CONTRACTS_STR,
+    NSF_GRANTS_STR,
+    RAW_DATA_PATH,
+    USASPENDING_BASEURL,
+)
+
+
 class UsaSpendingDataDownloader:
-    def __init__():
-        usaspending_base = (
-            "https://www.usaspending.gov/download_center/award_data_archive"
-        )
-        save_path = "./raw_data/"
-        datestr = "20220208"
+    """A downloader for getting data from usaspending.gov"""
 
-    def run(fiscal_year: int):
+    def __init__(self):
+        self.base_url = USASPENDING_BASEURL
+        self.save_path = RAW_DATA_PATH / "zips"
+        self.unzip_path = RAW_DATA_PATH / "unzipped"
 
-        doe_contracts_url = (
-            usaspending_base + str(FY) + "_089_Contracts_Full_" + datestr + ".zip"
-        )
-        doe_grants_url = (
-            usaspending_base + str(FY) + "_089_Assistance_Full_" + datestr + ".zip"
-        )
-        nsf_grants_url = (
-            usaspending_base + str(FY) + "_049_Assistance_Full_" + datestr + ".zip"
-        )
+    def _run(self, fiscal_year: int, filestr: str):
 
-        for url in [doe_contracts_url, doe_grants_url, nsf_grants_url]:
+        url = self.base_url + "FY" + str(fiscal_year) + filestr + ".zip"
 
-            filename = url.split("/")[-1]
-            if os.path.exists(save_path + filename):
-                continue
+        filename = url.split("/")[-1]
+        if (self.save_path / filename).exists():
+            return
 
-            try:
+        try:
+            # suppress https warnings
+            with warnings.catch_warnings():
+                warnings.simplefilter("ignore")
                 r = requests.get(url, allow_redirects=True, verify=False)
                 r.raise_for_status()
-            except:
-                print("could not find", url)
-                continue
+        except:
+            print("could not find", url)
+            return
 
-            open(save_path + filename, "wb+").write(r.content)
-        print("Data download complete")
+        zip_file_path = self.save_path / filename
+        with (zip_file_path).open("wb+") as f:
+            f.write(r.content)
 
+        zipper = zipfile.ZipFile(zip_file_path, "r")
+        zipper.extractall(path=str(self.unzip_path))
 
-def unzip_all():
-    for unzip_this in glob("../new_data/*.zip"):
-        zipper = zipfile.ZipFile(unzip_this, "r")
-        zipper.extractall(path="../new_data")
+    def run(self, fiscal_year: int):
+
+        self._run(fiscal_year, DOE_CONTRACTS_STR)
+        self._run(fiscal_year, NSF_GRANTS_STR)
+
+        print("Data download for fiscal year {0} complete".format(fiscal_year))
