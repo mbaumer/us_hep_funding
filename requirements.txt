@@ -1,8 +1,9 @@
 black==22.1.0
+camelot-py==0.10.1
 numpy==1.22.2
-openpyxl==3.0.9
+openpyxl==3.0.9 # needed to read excel files
 pandas==1.4.1
 pylint==2.12.2
-pyyaml==6.0
+pyyaml==6.0 # maybe don't need this?
 requests==2.27.1
 titlecase==2.3

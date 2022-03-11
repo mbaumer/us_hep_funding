@@ -22,6 +22,16 @@ DOE_GRANTS_URLS = {
     2021: "https://science.osti.gov/-/media/_/excel/universities/SC-in-Your-State-FY-2021.xlsx",
 }
 
+SULI_STUDENT_URLS = {
+    2014: "https://science.osti.gov/-/media/wdts/suli/pdf/2014-SULI-Terms_Participant-Report.pdf",
+    2015: "https://science.osti.gov/-/media/wdts/suli/pdf/2015-SULI-Terms_Participant-Report.pdf",
+    2016: "https://science.osti.gov/-/media/wdts/suli/pdf/2016-SULI-Terms_Participant-Report.pdf",
+    2017: "https://science.osti.gov/-/media/wdts/suli/pdf/SULI-participants-2017.pdf",
+    2018: "https://science.osti.gov/-/media/wdts/suli/pdf/SULI-participants-2018_a.pdf",
+    2019: "https://science.osti.gov/-/media/wdts/suli/pdf/SULI-participants-2019.pdf",
+    2020: "https://science.osti.gov/-/media/wdts/suli/pdf/2020-SULI-participants.pdf",
+}
+
 SC_CONTRACTS_OFFICES = [
     "CHICAGO SERVICE CENTER (OFFICE OF SCIENCE)",
     "OAK RIDGE OFFICE (OFFICE OF SCIENCE)",

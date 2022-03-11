@@ -81,7 +81,6 @@ class DoeGrantsCleaner:
 
         # clean up institute names
         insts = hepdata["Institution"]
-        insts = insts.str.encode("ascii").map(str)
         insts = insts.str.strip()
 
         insts = insts.map(titlecase)

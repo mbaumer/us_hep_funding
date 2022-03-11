@@ -25,3 +25,19 @@ dataA.loc[
     dataA["Institution"] == "California Institute of Technology",
     "Congressional District",
 ] = "CA-27"
+
+# suli:
+data = data.append(
+    pd.DataFrame(
+        np.array(
+            [
+                ["Reed Bowles"],
+                ["Wichita State University"],
+                ["Fermi National Accelerator Laboratory"],
+                ["Summer 2017"],
+            ]
+        ).T,
+        columns=["Name", "College", "Host Lab", "Term"],
+    ),
+    ignore_index=True,
+)

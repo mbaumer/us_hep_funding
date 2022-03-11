@@ -1,66 +1,83 @@
-def clean_suli_student_data():
-    geocoded_insts = pd.read_csv(
-        "/Users/mbaumer/side_projects/us_hep_funding/newdata2020/college_addresses_geocodio_2020.csv"
-    )
+import camelot
+import pandas as pd
 
-    data = pd.read_csv(
-        "/Users/mbaumer/Documents/HEP Advocacy/suli_student_data.csv",
-        names=["Name", "College", "Host Lab", "Term", "A", "B"],
-        skiprows=1,
-    )
-    data = data[["Name", "College", "Host Lab", "Term"]]
+_LAB_ABBRS_TO_NAMES = {
+    "LBNL": "Lawrence Berkeley National Laboratory",
+    "BNL": "Brookhaven National Laboratory",
+    "ANL": "Argonne National Laboratory",
+    "ORNL": "Oak Ridge National Laboratory",
+    "NREL": "National Renewable Energy Laboratory",
+    "PNNL": "Pacific Northwest National Laboratory",
+    "LANL": "Los Alamos National Laboratory",
+    "LLNL": "Lawrence Livermore National Laboratory",
+    "AMES": "Ames National Laboratory",
+    "INL": "Idaho National Laboratory",
+    "PPPL": "Princeton Plasma Physics Laboratory",
+    "SLAC": "SLAC National Accelerator Laboratory",
+    "FNAL": "Fermi National Accelerator Laboratory",
+    "TJNAF": "Thomas Jefferson National Accelerator Facility",
+}
 
-    data["Program"] = "SULI"
-    data = data.dropna()
-    data = data.replace("\\n", "", regex=True)
+_NON_HEP_LABS = [
+    "GA / DIII-D",
+    "SNL NM",
+    "SNL CA",
+    "DOE Naval Reactors",
+    "General Atomics / DIII-D",
+    "Sandia National Laboratory",
+]
 
-    data = data.append(
-        pd.DataFrame(
-            np.array(
-                [
-                    ["Reed Bowles"],
-                    ["Wichita State University"],
-                    ["Fermi National Accelerator Laboratory"],
-                    ["Summer 2017"],
-                ]
-            ).T,
-            columns=["Name", "College", "Host Lab", "Term"],
-        ),
-        ignore_index=True,
-    )
 
-    data2 = pd.read_csv(
-        "/Users/mbaumer/side_projects/us_hep_funding/newdata2020/cci_student_info.csv",
-        names=["Name", "College", "Host Lab", "Term", "A", "B"],
-        skiprows=1,
-    )
-    data2 = data2[["Name", "College", "Host Lab", "Term"]]
-    data2["Program"] = "CCI"
-    data2 = data2.dropna()
-    data2 = data2.replace("\\n", "", regex=True)
+class SuliStudentDataCleaner:
+    def __init__(self, filepath, fiscal_year, column_remapper):
+        self.fiscal_year = fiscal_year
+        tables = camelot.read_pdf(filepath, flavor="stream", pages="all")
+        for i, page in enumerate(tables):
+            if i == 0:
+                self.df = page.df
+            else:
+                self.df = pd.concat([self.df, page.df])
+        print(self.df)
+        self.df = self.df.rename(
+            column_remapper,
+            axis=1,
+        )
 
-    data = pd.concat([data, data2], ignore_index=True)
+    def _unify_formatting(self):
+        if self.fiscal_year == 2020:
+            # delete col headers that got merged together
+            self.df = self.df[self.df["Term"] != "Term"]
 
-    print(len(data))
+            self.df["Name"] = self.df["First Name"] + " " + self.df["Last Name"]
+            del self.df["First Name"], self.df["Last Name"]
+            self.df["Host Lab"] = self.df["Host Lab"].map(_LAB_ABBRS_TO_NAMES)
+        else:
+            # delete col headers that got merged together
+            self.df = self.df[self.df["Name"] != "SULI PARTICIPANT"]
 
-    data["College"] = data["College"].str.replace("\\xe2", "a")
-    data["Name"] = data["Name"].str.replace("\\xe2", "a")
-    data["College"] = data["College"].str.replace(
-        "Stony Brook University", "State University of New York at Stony Brook"
-    )
+            self.df["Term"] = self.df["Season"] + " " + self.df["Year"]
+            del self.df["Season"], self.df["Year"]
 
-    geo_students = data.merge(geocoded_insts)
+            # delete trailing parenthetical lab name abbreviations
+            self.df["Host Lab"] = self.df["Host Lab"].str.replace("\s\(\w*$", "")
 
-    geo_students["Name"].loc[452] = "Angelica Tirado"
-    geo_students["Name"].loc[455] = "Keishla Marie Sanchez Ortiz"
-    geo_students["Name"].loc[473] = "Nneka Estee Joyette-Daniel"
-    geo_students["Name"].loc[2686] = "Amanda Sofia Caballero"
-    geo_students["Name"].loc[3060] = "Nataniel Medina Berrios"
-    geo_students["Name"].loc[3417] = "Rubi Pena"
+    def run(self):
 
-    print("total suli", len(geo_students))
+        self._unify_formatting()
 
-    pd.to_pickle(
-        geo_students,
-        "/Users/mbaumer/side_projects/us_hep_funding/new_data/cleaned/suli_students.pkl",
-    )
+        # delete rows with blanks which are fake table rows added by PDF reader
+        self.df.replace("", float("NaN"), inplace=True)
+        self.df.dropna(inplace=True)
+
+        # drop students from obviously non-HEP labs
+        self.df = self.df[~self.df["Host Lab"].isin(_NON_HEP_LABS)]
+
+        self.df["Program"] = "SULI"
+
+        self.df["Institution"] = self.df["Institution"].str.replace("\\xe2", "a")
+        self.df["Name"] = self.df["Name"].str.replace("\\xe2", "a")
+        self.df["Institution"] = self.df["Institution"].str.replace(
+            "Stony Brook University", "State University of New York at Stony Brook"
+        )
+        print(self.df["Host Lab"].unique())
+        return self.df
