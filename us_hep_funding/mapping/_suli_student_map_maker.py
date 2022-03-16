@@ -13,7 +13,7 @@ from us_hep_funding.constants import CLEANED_DBS_PATH
 class SuliStudentMapMaker:
     def __init__(self):
         geo_students = pd.read_csv(CLEANED_DBS_PATH / "suli_students_geocoded.csv")
-        natlabs = pd.read_csv(CLEANED_DBS_PATH / "/national_labs_geocodio.csv")
+        natlabs = pd.read_csv(CLEANED_DBS_PATH / "national_labs_geocodio.csv")
         natlabs = natlabs[["Lab", "City", "Latitude", "Longitude"]].dropna()
         natlabs = natlabs.rename(
             columns={
@@ -25,7 +25,7 @@ class SuliStudentMapMaker:
         )
 
         self.natlabs = natlabs
-        self.students = geo_students.merge(natlabs, on="Host Lab")
+        self.students = geo_students
 
     def plot_suli_state_formal(self, statecode):
         class LowerThreshold(ccrs.Mercator):
@@ -44,7 +44,7 @@ class SuliStudentMapMaker:
         else:
             ax = fig.add_axes([0, 0, 1, 1], projection=LowerThreshold())
             ax.set_extent([-126, -66, 24.5, 46], ccrs.Geodetic())
-        shapename = "admin_1_states_provinces_lakes_shp"
+        shapename = "admin_1_states_provinces_lakes"
         states_shp = shpreader.natural_earth(
             resolution="110m", category="cultural", name=shapename
         )
@@ -108,14 +108,9 @@ class SuliStudentMapMaker:
         # plt.title('Host National Laboratories for '+str(len(these_students))+' '+statecode+' SULI/CCI students (2014-2016)')
         # plt.legend()
         fig.savefig(
-            "/workspace/us_hep_funding" + statecode + ".png",
+            CLEANED_DBS_PATH / "suli_imgs" / (statecode + ".png"),
             format="png",
             bbox_inches="tight",
             edgecolor="white",
             pad_inches=-0.1,
         )
-
-
-if __name__ == "__main__":
-    mapper = SuliStudentMapMaker()
-    mapper.plot_suli_state_formal("CA")

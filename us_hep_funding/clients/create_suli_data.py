@@ -2,6 +2,7 @@ import pandas as pd
 
 from us_hep_funding.constants import CLEANED_DBS_PATH
 from us_hep_funding.data.cleaners import SuliStudentDataCleaner
+from us_hep_funding.mapping import SuliStudentMapMaker
 
 
 def run():
@@ -113,5 +114,13 @@ def geocode():
     geo_students.to_csv(CLEANED_DBS_PATH / "suli_students_geocoded.csv")
 
 
+def make_maps():
+    import us
+
+    mapper = SuliStudentMapMaker()
+    for state in us.states.STATES:
+        mapper.plot_suli_state_formal(state.abbr)
+
+
 if __name__ == "__main__":
-    geocode()
+    make_maps()
