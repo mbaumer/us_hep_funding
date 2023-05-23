@@ -7,6 +7,6 @@ opencv-python-headless==4.5.5.64
 openpyxl==3.0.9 # needed to read excel files
 pandas==1.4.1
 pylint==2.12.2
-requests==2.27.1
+requests==2.31.0
 titlecase==2.3
 us==2.0.2
